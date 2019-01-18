@@ -1,2 +1,7 @@
-#About GH
-This is the info about GarageHive
+---
+layout: default
+title: About
+---
+# About page
+
+This page tells you a little bit about me.
