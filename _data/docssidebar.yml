@@ -1,0 +1,96 @@
+- name: Getting started
+  url: "#"
+  group: start
+  subitems:
+    - name: Introduction
+      url: /docs/start-intro.html
+    - name: Platform
+      url: /docs/start-platform.html
+    - name: Basic setup
+      url: /docs/start-basic-setup.html
+    - name: Data import
+      url: /docs/start-data-import.html
+    - name: Everyday operations
+      url: /docs/start-everyday-operations.html
+    - name: User roles
+      url: /docs/start-user-roles.html
+    - name: Support
+      url: /docs/start-support.html
+- name: Garage management
+  url: "#"
+  group: garagehive
+  subitems:
+    - name: Schedule
+      url: /docs/garagehive-schedule.html
+      group: schedule
+      subitems:
+        - name: Scheduling
+          url: /docs/garagehive-schedule-scheduling.html
+        - name: TCard planner
+          url: /docs/garagehive-schedule-tcard.html
+        - name: Dashboards
+          url: /docs/garagehive-schedule-dashboards.html
+        - name: Technicians
+          url: /docs/garagehive-schedule-technicians.html
+    - name: Jobsheets
+      url: /docs/garagehive-jobsheets.html
+      group: jobsheet
+      subitems:
+        - name: Creating new
+          url: /docs/garagehive-jobsheet-create.html
+        - name: Authorization
+          url: /docs/garagehive-jobsheet-authorization.html
+        - name: Work progress status
+          url: /docs/garagehive-jobsheet-status.html
+        - name: Completion
+          url: /docs/garagehive-jobsheet-completion.html
+    - name: Vehicle health checks
+      url: /docs/garagehive-vhc.html
+      group: vhc
+      subitems:
+        - name: Checklist lines
+          url: /docs/garagehive-vhc-checklist.html
+        - name: Authorization
+          url: /docs/garagehive-vhc-authorization.html
+        - name: Creating jobsheet
+          url: /docs/garagehive-vhc-create-jobsheet.html
+    - name: MOT
+      url: /docs/garagehive-mot.html
+    - name: Service
+      url: /docs/garagehive-service.html
+      group: service
+      subitems:
+        - name: Pakages
+          url: /docs/garagehive-service-packages.html
+        - name: Repair times
+          url: /docs/garagehive-service-repair-times.html
+    - name: Online booking
+      url: /docs/garagehive-booking.html
+      group: booking
+      subitems:
+        - name: Fixed price deals
+          url: /docs/garagehive-booking-fixed-price.html
+        - name: Time slots
+          url: /docs/garagehive-booking-time-slots.html
+        - name: Automatic scheduling
+          url: /docs/garagehive-booking-automatic-scheduling.html
+- name: Reporting
+  url: "#"
+  group: report
+  subitems:
+    - name: End of day report
+      url: /docs/#
+    - name: Work in progress
+      url: /docs/#
+    - name: Items to return
+      url: /docs/#
+    - name: Power BI
+      url: /docs/#
+- name: Accountancy
+  url: "#"
+  group: account
+  subitems:
+    - name: Business Central
+      url: /docs/#
+    - name: External accountancy
+      url: /docs/#

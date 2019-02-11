@@ -1,0 +1,29 @@
+
+		  <!-- Sidebar -->
+          <div class="col-md-4 col-xl-3 order-last order-md-first">
+            <hr class="d-md-none">
+            <aside class="sidebar sidebar-sticky sidebar-stick-shadow pr-md-5 br-1">
+              <ul class="nav nav-sidebar nav-sidebar-hero" data-accordion="true">
+				{% assign file_group = page.url | split:'/' | last | split:'-' %}
+				{% for item in site.data.docssidebar %}
+                <li class="nav-item">
+                  <a class="nav-link{% if item.group == file_group[0] %} active{% endif %}" href="{{ item.url }}">{{ item.name }} <i class="nav-angle"></i></a>
+				  {% if item.subitems[0] %}
+                  <div class="nav">
+				    {% for subitem in item.subitems %}
+                    <a class="nav-link{% if subitem.url == page.url %} active{% endif %}" href="{{ subitem.url }}">{{ subitem.name }}</a>
+					{% if (subitem.url == page.url or subitem.group == file_group[1]) and subitem.subitems[0] %}
+					<div class="nav">
+					  {% for subsubitem in subitem.subitems %}
+					  <a class="nav-link{% if subsubitem.url == page.url %} active{% endif %}" href="{{ subsubitem.url }}">{{ subsubitem.name }}</a>
+					  {% endfor %}
+					</div>
+					{% endif %}
+					{% endfor %}
+                  </div>
+				  {% endif %}
+                </li>
+				{% endfor %}
+              </ul>
+            </aside>
+          </div>

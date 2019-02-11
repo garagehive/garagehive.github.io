@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <title>{{ page.title }}</title>
+
+    <!-- Styles -->
+    <link href="assets/css/page.min.css" rel="stylesheet">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" href="assets/img/favicon.png">
+
+    <!--  Open Graph Tags -->
+    <meta property="og:title" content="TheDocs — Online Documentation Template">
+    <meta property="og:description" content="A powerful, responsive, and high-performance html online documentation template which can help you rapidly develop your next software’s documentation.">
+    <meta property="og:image" content="http://thetheme.io/thedocs/assets/img/og-img.jpg">
+    <meta property="og:url" content="http://thetheme.io/thedocs/">
+    <meta name="twitter:card" content="summary_large_image">
+  </head>
+
+  <body>
+
+	{% include navigation.html %}
+
+	{{ content }}
+
+	{% include footer.html %}
+
+    <!-- Scripts -->
+    <script src="assets/js/page.min.js"></script>
+
+  </body>
+</html>
