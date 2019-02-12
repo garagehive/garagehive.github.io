@@ -1,6 +1,5 @@
 - name: Getting started
   url: "#"
-  group: start
   subitems:
     - name: Introduction
       url: /docs/start-intro.html
@@ -18,11 +17,9 @@
       url: /docs/start-support.html
 - name: Garage management
   url: "#"
-  group: garagehive
   subitems:
     - name: Schedule
       url: /docs/garagehive-schedule.html
-      group: schedule
       subitems:
         - name: Scheduling
           url: /docs/garagehive-schedule-scheduling.html
@@ -34,7 +31,6 @@
           url: /docs/garagehive-schedule-technicians.html
     - name: Jobsheets
       url: /docs/garagehive-jobsheets.html
-      group: jobsheet
       subitems:
         - name: Creating new
           url: /docs/garagehive-jobsheet-create.html
@@ -46,7 +42,6 @@
           url: /docs/garagehive-jobsheet-completion.html
     - name: Vehicle health checks
       url: /docs/garagehive-vhc.html
-      group: vhc
       subitems:
         - name: Checklist lines
           url: /docs/garagehive-vhc-checklist.html
@@ -58,7 +53,6 @@
       url: /docs/garagehive-mot.html
     - name: Service
       url: /docs/garagehive-service.html
-      group: service
       subitems:
         - name: Pakages
           url: /docs/garagehive-service-packages.html
@@ -66,7 +60,6 @@
           url: /docs/garagehive-service-repair-times.html
     - name: Online booking
       url: /docs/garagehive-booking.html
-      group: booking
       subitems:
         - name: Fixed price deals
           url: /docs/garagehive-booking-fixed-price.html
@@ -76,7 +69,6 @@
           url: /docs/garagehive-booking-automatic-scheduling.html
 - name: Reporting
   url: "#"
-  group: report
   subitems:
     - name: End of day report
       url: /docs/#
@@ -88,9 +80,10 @@
       url: /docs/#
 - name: Accountancy
   url: "#"
-  group: account
   subitems:
     - name: Business Central
       url: /docs/#
     - name: External accountancy
       url: /docs/#
+- name: No subitems
+  url: "/docs/no-sub-items.html"
