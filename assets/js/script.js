@@ -1,3 +1,5 @@
+'use strict';
+
 $(function() {
 
 
@@ -39,4 +41,23 @@ $(function() {
 
   });
 
+
+
+
+
+  /*
+  |--------------------------------------------------------------------------
+  | Custom Javascript code
+  |--------------------------------------------------------------------------
+  |
+  | Now that you configured your website, you can write additional Javascript
+  | code below this comment. You might want to add more plugins and initialize
+  | them in this file.
+  |
+  */
+
+
+
+
 });
+

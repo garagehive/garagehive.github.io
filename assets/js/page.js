@@ -24602,55 +24602,66 @@ module.exports = g;
 
 /***/ }),
 
-/***/ "./src/assets/js/src/config.js":
-/*!*************************************!*\
-  !*** ./src/assets/js/src/config.js ***!
-  \*************************************/
+/***/ "./src/assets/js/src/loaders/core.js":
+/*!*******************************************!*\
+  !*** ./src/assets/js/src/loaders/core.js ***!
+  \*******************************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
-
-$(function() {
+/***/ (function(module, exports, __webpack_require__) {
 
 
-  /*
-  |--------------------------------------------------------------------------
-  | Configure your website
-  |--------------------------------------------------------------------------
-  |
-  | We provided several configuration variables for your ease of development.
-  | Read their complete description and modify them based on your need.
-  |
-  */
+/*
+|--------------------------------------------------------------------------
+| Main
+|--------------------------------------------------------------------------
+|
+| The start point of the project. Include jQuery, Bootstrap and required
+| plugins and define page object. These files are mandatory.
+|
+*/
+__webpack_require__(/*! ../partials/main.js */ "./src/assets/js/src/partials/main.js");
 
-  page.config({
+__webpack_require__(/*! ../vendors/jquery.js */ "./src/assets/js/src/vendors/jquery.js");
+__webpack_require__(/*! ../vendors/bootstrap.js */ "./src/assets/js/src/vendors/bootstrap.js");
 
-    /*
-    |--------------------------------------------------------------------------
-    | Google Analytics Tracking
-    |--------------------------------------------------------------------------
-    |
-    | If you want to use Google Analytics, you can specify your Tracking ID in
-    | this option. Your key would be a value like: UA-12345678-9
-    |
-    */
 
-    googleAnalyticsId: '',
+/***/ }),
 
-    /*
-    |--------------------------------------------------------------------------
-    | Smooth Scroll
-    |--------------------------------------------------------------------------
-    |
-    | If true, the browser's scrollbar moves smoothly on scroll and gives your
-    | visitor a better experience for scrolling.
-    |
-    */
+/***/ "./src/assets/js/src/loaders/partials.js":
+/*!***********************************************!*\
+  !*** ./src/assets/js/src/loaders/partials.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
-    smoothScroll: true,
 
-  });
-
-});
+/*
+|--------------------------------------------------------------------------
+| Partials
+|--------------------------------------------------------------------------
+|
+| Split the application code to several files. Almost all of the following
+| files are required for the application to work properly.
+|
+*/
+__webpack_require__(/*! ../partials/config.js */ "./src/assets/js/src/partials/config.js");
+__webpack_require__(/*! ../partials/bind.js */ "./src/assets/js/src/partials/bind.js");
+__webpack_require__(/*! ../partials/drawer.js */ "./src/assets/js/src/partials/drawer.js");
+__webpack_require__(/*! ../partials/file-tree.js */ "./src/assets/js/src/partials/file-tree.js");
+__webpack_require__(/*! ../partials/font.js */ "./src/assets/js/src/partials/font.js");
+__webpack_require__(/*! ../partials/form.js */ "./src/assets/js/src/partials/form.js");
+__webpack_require__(/*! ../partials/mailer.js */ "./src/assets/js/src/partials/mailer.js");
+__webpack_require__(/*! ../partials/map.js */ "./src/assets/js/src/partials/map.js");
+__webpack_require__(/*! ../partials/modal.js */ "./src/assets/js/src/partials/modal.js");
+__webpack_require__(/*! ../partials/navbar.js */ "./src/assets/js/src/partials/navbar.js");
+__webpack_require__(/*! ../partials/offcanvas.js */ "./src/assets/js/src/partials/offcanvas.js");
+__webpack_require__(/*! ../partials/popup.js */ "./src/assets/js/src/partials/popup.js");
+__webpack_require__(/*! ../partials/recaptcha.js */ "./src/assets/js/src/partials/recaptcha.js");
+__webpack_require__(/*! ../partials/scroll.js */ "./src/assets/js/src/partials/scroll.js");
+__webpack_require__(/*! ../partials/section.js */ "./src/assets/js/src/partials/section.js");
+__webpack_require__(/*! ../partials/sidebar.js */ "./src/assets/js/src/partials/sidebar.js");
+__webpack_require__(/*! ../partials/video.js */ "./src/assets/js/src/partials/video.js");
+__webpack_require__(/*! ../partials/util.js */ "./src/assets/js/src/partials/util.js");
 
 
 /***/ }),
@@ -24672,7 +24683,21 @@ $(function() {
 | plugins and define page object. This file is required.
 |
 */
-__webpack_require__(/*! ../../plugin/thedocs/js/loaders/core.js */ "./src/assets/plugin/thedocs/js/loaders/core.js");
+__webpack_require__(/*! ./loaders/core.js */ "./src/assets/js/src/loaders/core.js");
+
+/*
+|--------------------------------------------------------------------------
+| Vendors
+|--------------------------------------------------------------------------
+|
+| Load some plugins and define initializer methods. If you don't need any
+| of the following plugins, simply comment the line.
+|
+| The minified size of each module has stated for your reference. So you'd
+| know how much KB you can save by removing a vendor.
+|
+*/
+//require('./vendors/aos.js');            // 14 kb
 
 
 /*
@@ -24683,130 +24708,15 @@ __webpack_require__(/*! ../../plugin/thedocs/js/loaders/core.js */ "./src/assets
 | Split the application code to several files. This file is required.
 |
 */
-__webpack_require__(/*! ../../plugin/thedocs/js/loaders/partials.js */ "./src/assets/plugin/thedocs/js/loaders/partials.js");
-
-
-/*
-|--------------------------------------------------------------------------
-| Configure
-|--------------------------------------------------------------------------
-|
-| Modify some variables to personalize your project. This file is required.
-|
-*/
-__webpack_require__(/*! ./config.js */ "./src/assets/js/src/config.js");
-
-
-/*
-|--------------------------------------------------------------------------
-| Custom script
-|--------------------------------------------------------------------------
-|
-| Write your custom JavaScrip code. Feel free to split your code to several
-| files and import the other files here or inside script.js.
-|
-*/
-__webpack_require__(/*! ./script.js */ "./src/assets/js/src/script.js");
+__webpack_require__(/*! ./loaders/partials.js */ "./src/assets/js/src/loaders/partials.js");
 
 
 /***/ }),
 
-/***/ "./src/assets/js/src/script.js":
-/*!*************************************!*\
-  !*** ./src/assets/js/src/script.js ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-
-/*
-|--------------------------------------------------------------------------
-| Custom Javascript code
-|--------------------------------------------------------------------------
-|
-| Now that you configured your website, you can write additional Javascript
-| code inside the following function. You might want to add more plugins and
-| initialize them in this file.
-|
-*/
-
-$(function() {
-
-
-
-});
-
-
-/***/ }),
-
-/***/ "./src/assets/plugin/thedocs/js/loaders/core.js":
-/*!******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/loaders/core.js ***!
-  \******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-/*
-|--------------------------------------------------------------------------
-| Main
-|--------------------------------------------------------------------------
-|
-| The start point of the project. Include jQuery, Bootstrap and required
-| plugins and define page object. These files are mandatory.
-|
-*/
-__webpack_require__(/*! ../partials/main.js */ "./src/assets/plugin/thedocs/js/partials/main.js");
-
-__webpack_require__(/*! ../vendors/jquery.js */ "./src/assets/plugin/thedocs/js/vendors/jquery.js");
-__webpack_require__(/*! ../vendors/bootstrap.js */ "./src/assets/plugin/thedocs/js/vendors/bootstrap.js");
-
-
-/***/ }),
-
-/***/ "./src/assets/plugin/thedocs/js/loaders/partials.js":
-/*!**********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/loaders/partials.js ***!
-  \**********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-/*
-|--------------------------------------------------------------------------
-| Partials
-|--------------------------------------------------------------------------
-|
-| Split the application code to several files. Almost all of the following
-| files are required for the application to work properly.
-|
-*/
-__webpack_require__(/*! ../partials/config.js */ "./src/assets/plugin/thedocs/js/partials/config.js");
-__webpack_require__(/*! ../partials/bind.js */ "./src/assets/plugin/thedocs/js/partials/bind.js");
-__webpack_require__(/*! ../partials/drawer.js */ "./src/assets/plugin/thedocs/js/partials/drawer.js");
-__webpack_require__(/*! ../partials/file-tree.js */ "./src/assets/plugin/thedocs/js/partials/file-tree.js");
-__webpack_require__(/*! ../partials/font.js */ "./src/assets/plugin/thedocs/js/partials/font.js");
-__webpack_require__(/*! ../partials/form.js */ "./src/assets/plugin/thedocs/js/partials/form.js");
-__webpack_require__(/*! ../partials/mailer.js */ "./src/assets/plugin/thedocs/js/partials/mailer.js");
-__webpack_require__(/*! ../partials/map.js */ "./src/assets/plugin/thedocs/js/partials/map.js");
-__webpack_require__(/*! ../partials/modal.js */ "./src/assets/plugin/thedocs/js/partials/modal.js");
-__webpack_require__(/*! ../partials/navbar.js */ "./src/assets/plugin/thedocs/js/partials/navbar.js");
-__webpack_require__(/*! ../partials/offcanvas.js */ "./src/assets/plugin/thedocs/js/partials/offcanvas.js");
-__webpack_require__(/*! ../partials/popup.js */ "./src/assets/plugin/thedocs/js/partials/popup.js");
-__webpack_require__(/*! ../partials/recaptcha.js */ "./src/assets/plugin/thedocs/js/partials/recaptcha.js");
-__webpack_require__(/*! ../partials/scroll.js */ "./src/assets/plugin/thedocs/js/partials/scroll.js");
-__webpack_require__(/*! ../partials/section.js */ "./src/assets/plugin/thedocs/js/partials/section.js");
-__webpack_require__(/*! ../partials/sidebar.js */ "./src/assets/plugin/thedocs/js/partials/sidebar.js");
-__webpack_require__(/*! ../partials/video.js */ "./src/assets/plugin/thedocs/js/partials/video.js");
-__webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/partials/util.js");
-
-
-/***/ }),
-
-/***/ "./src/assets/plugin/thedocs/js/partials/bind.js":
-/*!*******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/bind.js ***!
-  \*******************************************************/
+/***/ "./src/assets/js/src/partials/bind.js":
+/*!********************************************!*\
+  !*** ./src/assets/js/src/partials/bind.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24842,10 +24752,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/config.js":
-/*!*********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/config.js ***!
-  \*********************************************************/
+/***/ "./src/assets/js/src/partials/config.js":
+/*!**********************************************!*\
+  !*** ./src/assets/js/src/partials/config.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24915,10 +24825,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/drawer.js":
-/*!*********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/drawer.js ***!
-  \*********************************************************/
+/***/ "./src/assets/js/src/partials/drawer.js":
+/*!**********************************************!*\
+  !*** ./src/assets/js/src/partials/drawer.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24943,10 +24853,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/file-tree.js":
-/*!************************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/file-tree.js ***!
-  \************************************************************/
+/***/ "./src/assets/js/src/partials/file-tree.js":
+/*!*************************************************!*\
+  !*** ./src/assets/js/src/partials/file-tree.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24977,10 +24887,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/font.js":
-/*!*******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/font.js ***!
-  \*******************************************************/
+/***/ "./src/assets/js/src/partials/font.js":
+/*!********************************************!*\
+  !*** ./src/assets/js/src/partials/font.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25016,10 +24926,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/form.js":
-/*!*******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/form.js ***!
-  \*******************************************************/
+/***/ "./src/assets/js/src/partials/form.js":
+/*!********************************************!*\
+  !*** ./src/assets/js/src/partials/form.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25075,10 +24985,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/mailer.js":
-/*!*********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/mailer.js ***!
-  \*********************************************************/
+/***/ "./src/assets/js/src/partials/mailer.js":
+/*!**********************************************!*\
+  !*** ./src/assets/js/src/partials/mailer.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25157,10 +25067,10 @@ __webpack_require__(/*! ../partials/util.js */ "./src/assets/plugin/thedocs/js/p
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/main.js":
-/*!*******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/main.js ***!
-  \*******************************************************/
+/***/ "./src/assets/js/src/partials/main.js":
+/*!********************************************!*\
+  !*** ./src/assets/js/src/partials/main.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25359,10 +25269,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/map.js":
-/*!******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/map.js ***!
-  \******************************************************/
+/***/ "./src/assets/js/src/partials/map.js":
+/*!*******************************************!*\
+  !*** ./src/assets/js/src/partials/map.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25488,10 +25398,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/modal.js":
-/*!********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/modal.js ***!
-  \********************************************************/
+/***/ "./src/assets/js/src/partials/modal.js":
+/*!*********************************************!*\
+  !*** ./src/assets/js/src/partials/modal.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25538,10 +25448,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/navbar.js":
-/*!*********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/navbar.js ***!
-  \*********************************************************/
+/***/ "./src/assets/js/src/partials/navbar.js":
+/*!**********************************************!*\
+  !*** ./src/assets/js/src/partials/navbar.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25601,10 +25511,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/offcanvas.js":
-/*!************************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/offcanvas.js ***!
-  \************************************************************/
+/***/ "./src/assets/js/src/partials/offcanvas.js":
+/*!*************************************************!*\
+  !*** ./src/assets/js/src/partials/offcanvas.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25663,10 +25573,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/popup.js":
-/*!********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/popup.js ***!
-  \********************************************************/
+/***/ "./src/assets/js/src/partials/popup.js":
+/*!*********************************************!*\
+  !*** ./src/assets/js/src/partials/popup.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25773,10 +25683,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/recaptcha.js":
-/*!************************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/recaptcha.js ***!
-  \************************************************************/
+/***/ "./src/assets/js/src/partials/recaptcha.js":
+/*!*************************************************!*\
+  !*** ./src/assets/js/src/partials/recaptcha.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25821,10 +25731,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/scroll.js":
-/*!*********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/scroll.js ***!
-  \*********************************************************/
+/***/ "./src/assets/js/src/partials/scroll.js":
+/*!**********************************************!*\
+  !*** ./src/assets/js/src/partials/scroll.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26115,10 +26025,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/section.js":
-/*!**********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/section.js ***!
-  \**********************************************************/
+/***/ "./src/assets/js/src/partials/section.js":
+/*!***********************************************!*\
+  !*** ./src/assets/js/src/partials/section.js ***!
+  \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26147,10 +26057,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/sidebar.js":
-/*!**********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/sidebar.js ***!
-  \**********************************************************/
+/***/ "./src/assets/js/src/partials/sidebar.js":
+/*!***********************************************!*\
+  !*** ./src/assets/js/src/partials/sidebar.js ***!
+  \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26222,10 +26132,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/util.js":
-/*!*******************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/util.js ***!
-  \*******************************************************/
+/***/ "./src/assets/js/src/partials/util.js":
+/*!********************************************!*\
+  !*** ./src/assets/js/src/partials/util.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26348,10 +26258,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/partials/video.js":
-/*!********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/partials/video.js ***!
-  \********************************************************/
+/***/ "./src/assets/js/src/partials/video.js":
+/*!*********************************************!*\
+  !*** ./src/assets/js/src/partials/video.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26391,10 +26301,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/vendors/bootstrap.js":
-/*!***********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/vendors/bootstrap.js ***!
-  \***********************************************************/
+/***/ "./src/assets/js/src/vendors/bootstrap.js":
+/*!************************************************!*\
+  !*** ./src/assets/js/src/vendors/bootstrap.js ***!
+  \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26435,10 +26345,10 @@ $(function () {
 
 /***/ }),
 
-/***/ "./src/assets/plugin/thedocs/js/vendors/jquery.js":
-/*!********************************************************!*\
-  !*** ./src/assets/plugin/thedocs/js/vendors/jquery.js ***!
-  \********************************************************/
+/***/ "./src/assets/js/src/vendors/jquery.js":
+/*!*********************************************!*\
+  !*** ./src/assets/js/src/vendors/jquery.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
