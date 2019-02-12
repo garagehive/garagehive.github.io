@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Getting Started | Microsoft Docs
+title: Getting Started
 ---
 
 # Getting Started with Dynamics 365 Business Central
