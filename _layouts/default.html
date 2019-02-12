@@ -8,31 +8,18 @@
 
     <title>{{ page.title }} | Garage Hive</title>
 
-    <!-- Styles -->
-    <link href="assets/css/page.min.css" rel="stylesheet">
+    {% include styles.html %}
+    {% include favicons.html %}
+    {% include open_graph_tags.html %}
 
-    <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
-
-    <!--  Open Graph Tags -->
-    <meta property="og:title" content="TheDocs — Online Documentation Template">
-    <meta property="og:description" content="A powerful, responsive, and high-performance html online documentation template which can help you rapidly develop your next software’s documentation.">
-    <meta property="og:image" content="http://thetheme.io/thedocs/assets/img/og-img.jpg">
-    <meta property="og:url" content="http://thetheme.io/thedocs/">
-    <meta name="twitter:card" content="summary_large_image">
   </head>
 
   <body>
 
-	{% include navigation.html %}
-
-	{{ content }}
-
-	{% include footer.html %}
-
-    <!-- Scripts -->
-    <script src="assets/js/page.min.js"></script>
+	  {% include navigation.html %}
+	  {{ content }}
+	  {% include footer.html %}
+    {% include scripts.html %}
 
   </body>
 </html>

@@ -8,20 +8,16 @@
 
     <title>{{ page.title }} | Garage Hive</title>
 
-    <!-- Styles -->
-    <link href="../assets/css/page.min.css" rel="stylesheet">
-    <link href="../assets/css/style.css" rel="stylesheet">
+    {% include styles.html %}
+    {% include favicons.html %}
+    {% include open_graph_tags.html %}
 
-    <!-- Favicons -->
-    <link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
-    <link rel="icon" href="../assets/img/favicon.png">
   </head>
 
   <body>
 
-	{% include navigation.html %}
+	  {% include navigation.html %}
 	
-
     <!-- Header -->
     <header class="header text-white bg-dark pt-9 pb-5" style="background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);">
       <div class="container">
@@ -37,10 +33,10 @@
 
           {% include docssidebar.html %}
 
-		  <div class="col-md-7 col-xl-8 ml-md-auto py-8">
+		      <div class="col-md-7 col-xl-8 ml-md-auto py-8">
             <article>
-			  {{ content }}
-			</article>
+			        {{ content }}
+			      </article>
           </div>
 
         </div>
@@ -49,11 +45,7 @@
 
 
     {% include footer.html %}
-
-
-    <!-- Scripts -->
-    <script src="../assets/js/page.min.js"></script>
-    <script src="../assets/js/script.js"></script>
+    {% include scripts.html %}
 
   </body>
 </html>
