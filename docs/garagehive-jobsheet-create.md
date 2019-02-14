@@ -11,9 +11,13 @@ Jobsheet can be created from multiple places:
 4. Online booking
 
 ## Creating Jobsheet from MOT
-When there are some issues dicovered during **MOT** you can direclty from MOT init a new Jobsheet and fill up the necessary jobs and parts.
+When there are some issues discovered during **MOT** you can directly from MOT init a new Jobsheet and fill up the necessary jobs and parts.
 
 ## Creaing Jobsheet from VHC
 During VHC there can emerge multiple not related tasks. For each of them you can create separate Jobsheet and process them in convenient time for Customer.
 
 ## From Schedule
+shower fwf w
+
+### rfere
+sssss
