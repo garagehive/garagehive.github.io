@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Empty
+title: VHC
 ---
 
-# Empty
+# VHC
