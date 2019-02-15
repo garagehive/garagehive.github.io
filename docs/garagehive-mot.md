@@ -1,6 +1,7 @@
 ---
 layout: docs
-title: Empty
+title: MOT
 ---
 
-# Empty
+# How to do a MOT
+With Garage Hive it's super easy :)
