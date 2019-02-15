@@ -51,6 +51,8 @@
           url: /docs/garagehive-vhc-authorization.html
         - name: Creating jobsheet
           url: /docs/garagehive-vhc-create-jobsheet.html
+        - name: Vehicle Inspection
+          url: /docs/garagehive-vehicle-inspections.html  
     - name: MOT
       url: /docs/garagehive-mot.html
     - name: Service
