@@ -5,7 +5,7 @@ title: Scheduling Process
 
 # Scheduling Process
 ## Image with Caption
-{% include screenshot.html src="customer-list.png" caption="This is a customer list in Business Central" %}
+{% include imgwcapt.html src="customer-list.png" caption="This is a customer list in Business Central" %}
 ## Image
 {% include img.html src="customer-list.png" %}
 ## Rounded Image

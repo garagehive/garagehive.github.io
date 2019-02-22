@@ -31,6 +31,8 @@
           url: /docs/garagehive-schedule-dashboards.html
         - name: Technicians
           url: /docs/garagehive-schedule-technicians.html
+        - name: Create Booking
+          url: /docs/garagehive-create-a-booking.html
     - name: Jobsheets
       url: /docs/garagehive-jobsheets.html
       subitems:
