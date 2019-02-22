@@ -6,8 +6,10 @@ title: Creating a booking from the Schedule
 # Creating a booking from the Schedule
 
 1. Select relevant day for booking
+![](media/garagehive-create-a-booking1.png)
 
 2. Find relevant allocation row/technician
+![](media/garagehive-create-a-booking2.png)
 
 3. Click on the relevant line at the start time required.<br>
 Drag and drop for length of time for booking required. <br> Select required allocation type. 
@@ -16,7 +18,7 @@ Drag and drop for length of time for booking required. <br> Select required allo
     a. If the vehicle has been in before this will automatically select the customer card.   
     b. If the vehicle has not been in before it will find the vehicle using VRM. <br>
             - You will now need to fill in the Customer box. <br>
-            - Type in the customer’s name how you would like to appear on the invoice.
+            - Type in the customers name how you would like to appear on the invoice.
 
  5.	If the customer has been in before but with a different vehicle the system will find the customer card.<br>
     a.  If customer has not been in before it will ask you to (Create a new customer card).
