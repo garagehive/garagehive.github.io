@@ -10,3 +10,9 @@ title: Scheduling Process
 {% include img.html src="customer-list.png" %}
 ## Rounded Image
 {% include imgrounded.html src="customer-list.png" %}
+
+## Image Preview1
+{% include img.html src="garagehive-schedule-preview1.png" %}
+
+## Image Preview1 nude
+![](media/garagehive-schedule-preview1.png)
