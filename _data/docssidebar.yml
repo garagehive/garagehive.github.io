@@ -86,6 +86,8 @@
       url: /docs/#
     - name: Power BI
       url: /docs/#
+   - name: Time Registration Entries
+     url: /docs/garagehive-time-registration-entries.html
 - name: Accountancy
   url: "#"
   subitems:
