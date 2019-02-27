@@ -64,6 +64,8 @@
           url: /docs/garagehive-service-packages.html
         - name: Repair times
           url: /docs/garagehive-service-repair-times.html
+        - name: Service Return Orders
+          url: /docs/garagehive-service-return-order.html
     - name: Online booking
       url: /docs/garagehive-booking.html
       subitems:
