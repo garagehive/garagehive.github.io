@@ -12,7 +12,7 @@ Resource time registration entries is a table where Garage Hive stores all the i
 
 
 The following records are stored here
-* Worktime entries
+* Work time entries
 * Idle allocations
 * Jobsheet allocations
 * Break time entries
@@ -23,7 +23,7 @@ The following records are stored here
 
 ![](media/garagehive-time-reg-entries.png)
 
-This information can be modified using the "Modify Date/Time" button in the ribbon, please note you can only modify existing entires, you can't delete existing or add new entries manually. 
+This information can be modified using the "Modify Date/Time" button in the ribbon, please note you can only modify existing entries, you can't delete existing or add new entries manually. 
 
 # How to modify a time registration entry
 
