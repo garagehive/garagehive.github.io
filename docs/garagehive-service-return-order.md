@@ -10,11 +10,11 @@ A service return order is the document you use to issue your customers a refund,
 
 1. Select the service return order option from the home screen
 
-![](media/garagehive-service-return-order-new.png)
+![](media/garagehive-service-return-order-newdoc.png)
 
 2. Create a new service return order
 
-![](media/garagehive-service-return-order-document.png)
+![](media/garagehive-service-return-order-documents.png)
 
 3. Start by selecting a vehicle registration number, followed by your customer details<br>
 
