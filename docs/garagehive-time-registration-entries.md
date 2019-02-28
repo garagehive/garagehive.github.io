@@ -8,7 +8,7 @@ To find your resource time registration entries please search for "Resource Time
 
 ![](media/garagehive-time-reg-entries-search.png)
 
-Resource time registration entries is a table where Garage Hive stores all the information about your technicians clocking activity. Our reporting software will use this table to determine your technicians efficiencies and attendance.
+Resource time registration entries is the table that holds all the information about your technicians clocking activity. Our reporting software will use this table to determine your technicians efficiencies and attendance.
 
 
 The following records are stored here
