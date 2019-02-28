@@ -5,7 +5,7 @@ title: Garage Hive Support
 
 # Need help? 
 
-### Support opening hours
+### Support Opening Hours
 * **Monday** 8am - 6pm
 * **Tuesday** 8am - 6pm
 * **Wednesday** 8am - 6pm
@@ -21,7 +21,7 @@ title: Garage Hive Support
 ### Remote Support
 * **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download")
 
-### Suggest a feature
+### Suggest a Feature
 * **Email** alex@garagehive.co.uk
 
 ### Community 
