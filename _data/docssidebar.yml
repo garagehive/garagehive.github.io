@@ -88,16 +88,16 @@
     - name: Device Users
       url: /docs/garagehive-working-on-it.html
       subitems:
-        - name: Overview
-          url: /docs/garagehive-working-on-it.html
-        - name: Easy Clocking
-          url: /docs/garagehive-working-on-it.html
-        - name: Jobsheets
-          url: /docs/garagehive-working-on-it.html
-        - name: Vehicle Inspections
-          url: /docs/garagehive-working-on-it.html
-        - name: Reports
-          url: /docs/garagehive-working-on-it.html
+    - name: Overview
+      url: /docs/garagehive-working-on-it.html
+    - name: Easy Clocking
+       url: /docs/garagehive-working-on-it.html
+    - name: Jobsheets
+      url: /docs/garagehive-working-on-it.html
+    - name: Vehicle Inspections
+      url: /docs/garagehive-working-on-it.html
+    - name: Reports
+      url: /docs/garagehive-working-on-it.html
     - name: Terminal Users
       url: /docs/garagehive-working-on-it.html   
 - name: General Business Functionality
