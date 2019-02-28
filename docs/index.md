@@ -11,7 +11,7 @@ In the meantime please visit our [Youtube](https://www.youtube.com/channel/UCEO9
 
 # Garage Hive Community 
 
-If you are a user of Garage Hive please feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions. community help and to get the chance to speak directly with our development team. 
+If you are a user of Garage Hive please feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions, community help and to get the chance to speak directly with our development team. 
 
 # Need help? 
 
@@ -29,7 +29,7 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 * **Email** support@garagehive.co.uk
 
 ### Remote Support
-* **Teamviewer**  https://get.teamviewer.com/garagehive
+* **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download")
 
 ### Suggest a feature
 * **Email** alex@garagehive.co.uk with your ideas. 

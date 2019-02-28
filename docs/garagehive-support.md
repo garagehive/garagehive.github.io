@@ -19,7 +19,7 @@ title: Garage Hive Support
 * **Email** support@garagehive.co.uk
 
 ### Remote Support
-* **Teamviewer**  https://get.teamviewer.com/garagehive
+* **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download")
 
 ### Suggest a feature
 * **Email** alex@garagehive.co.uk
