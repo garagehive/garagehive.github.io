@@ -100,7 +100,7 @@
       url: /docs/garagehive-working-on-it.html
     - name: Terminal Users
       url: /docs/garagehive-working-on-it.html   
-- name: General Business Functionality
+- name: General Functionality
   url: "#"
   subitems:
     - name: How To View Service History
@@ -140,4 +140,4 @@
     - name: External accountancy
       url: /docs/garagehive-working-on-it.html
 - name: Support
-  url: /docs-garagehive-support.html
+  url: /docs/garagehive-support.html
