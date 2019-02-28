@@ -26,4 +26,4 @@ title: Garage Hive Support
 
 ### Community 
 
-If you are a user of Garage Hive please feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions. community help and to get the chance to speak directly with our development team. 
+If you are a user of Garage Hive please feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions, community help and to get the chance to speak directly with our development team. 
