@@ -15,7 +15,7 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 
 # Need help? 
 
-## Support opening hours
+### Support opening hours
 * **Monday** 8am - 6pm
 * **Tuesday** 8am - 6pm
 * **Wednesday** 8am - 6pm
@@ -24,12 +24,12 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 * **Saturday** 8am - 6pm
 * **Sunday** Closed
 
-## Support Contact Details
+### Support Contact Details
 * **Phone** 02031461164
 * **Email** support@garagehive.co.uk
 
-## Remote Support
+### Remote Support
 * **Teamviewer**  https://get.teamviewer.com/garagehive
 
-## Suggest a feature
+### Suggest a feature
 * **Email** alex@garagehive.co.uk with your ideas. 
