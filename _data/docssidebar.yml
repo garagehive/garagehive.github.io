@@ -3,7 +3,7 @@
 - name: Getting started
   url: "#"
   subitems:
-    - name: Whats New
+    - name: What's New
       url: /docs/garagehive-whats-new.html
     - name: Minimum Requirements
       url: /docs/garagehive-system-requirements.html
