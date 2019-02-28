@@ -9,7 +9,7 @@
       url: /docs/garagehive-working-on-it.html
     - name: Frequently Asked Questions
       url: /docs/garagehive-working-on-it.html
-    - name: Videos on Common Tasks
+    - name: Videos of Common Tasks
       url: /docs/garagehive-working-on-it.html
     - name: Everyday operations
       url: /docs/garagehive-working-on-it.html
@@ -20,7 +20,7 @@
   subitems:
     - name: Creating a Labour Card
       url: /docs/garagehive-working-on-it.html
-    - name: Creating an External Services
+    - name: Creating an External Service
       url: /docs/garagehive-working-on-it.html
     - name: Creating an Item Card
       url: /docs/garagehive-working-on-it.html
@@ -139,3 +139,5 @@
       url: /docs/garagehive-working-on-it.html
     - name: External accountancy
       url: /docs/garagehive-working-on-it.html
+- name: Support
+  url: /docs-garagehive-support.html
