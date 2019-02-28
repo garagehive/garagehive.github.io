@@ -2,7 +2,7 @@
 layout: docs
 title: What's New in Garage Hive
 ---
-# Whats new?
+# What's new?
 Below is a brief list of Garage Hive developments
 ### 27th February 2019
 
