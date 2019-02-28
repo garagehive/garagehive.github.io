@@ -11,26 +11,26 @@
       url: /docs/garagehive-working-on-it.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-working-on-it.html
-    - name: Everyday operations
+    - name: Everyday Operations
       url: /docs/garagehive-working-on-it.html
-    - name: User roles
+    - name: User Roles
       url: /docs/garagehive-working-on-it.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
-    - name: Creating a Labour Card
+    - name: Create a Labour Card
       url: /docs/garagehive-working-on-it.html
-    - name: Creating an External Service
+    - name: Create an External Service
       url: /docs/garagehive-working-on-it.html
-    - name: Creating an Item Card
+    - name: Create an Item Card
       url: /docs/garagehive-working-on-it.html
-    - name: Creating Resources
+    - name: Create Resources
       url: /docs/garagehive-working-on-it.html
-    - name: Creating a Customer Card
+    - name: Create a Customer Card
       url: /docs/garagehive-working-on-it.html
-    - name: Creating a Vendor Card
+    - name: Create a Vendor Card
       url: /docs/garagehive-working-on-it.html
-    - name: Creating Checklists
+    - name: Create Checklists
       url: /docs/garagehive-working-on-it.html
     - name: Setting up the Schedule
       url: /docs/garagehive-working-on-it.html
@@ -45,20 +45,20 @@
 - name: Sales
   url: "#"
   subitems:
-    - name: Creating a Booking
+    - name: Create a Booking
       url: /docs/garagehive-create-a-booking.html
-    - name: Creating a Jobsheet
+    - name: Create a Jobsheet
       url: /docs/garagehive-jobsheet-create.html
-    - name: Creating a Service Return Order
+    - name: Create a Service Return Order
       url: /docs/garagehive-service-return-order.html
-    - name: Creating an Estimate
+    - name: Create an Estimate
       url: /docs/garagehive-working-on-it.html
 - name: Purchasing
   url: "#"
   subitems:
-    - name: Creating a Purchase Order
+    - name: Create a Purchase Order
       url: /docs/garagehive-working-on-it.html
-    - name: Creating a Purchase Invoice
+    - name: Create a Purchase Invoice
       url: /docs/garagehive-working-on-it.html
     - name: Correct or Cancel a Purchase Invoice
       url: /docs/garagehive-working-on-it.html
@@ -69,11 +69,11 @@
 - name: Inventory
   url: "#"
   subitems:
-    - name: Creating new items
+    - name: Create New Items
       url: /docs/garagehive-working-on-it.html
-    - name: Categorise items
+    - name: Categorise Items
       url: /docs/garagehive-working-on-it.html
-    - name: Item Pricing and markups
+    - name: Item Pricing and Markups
       url: /docs/garagehive-working-on-it.html
 - name: Workshop Operations
   url: "#"
@@ -113,13 +113,13 @@
 - name: End of Day Process
   url: "#"
   subitems:
-    - name: End of day report
+    - name: End of Day report
       url: /docs/garagehive-working-on-it.html
-    - name: Work in progress
+    - name: Work in Progress
       url: /docs/garagehive-working-on-it.html
     - name: Summary Report
       url: /docs/garagehive-working-on-it.html
-    - name: Items to return
+    - name: Items to Return
       url: /docs/garagehive-working-on-it.html
     - name: Resource Attendance
       url: /docs/garagehive-working-on-it.html
@@ -138,7 +138,7 @@
       url: /docs/garagehive-working-on-it.html
     - name: Chart of Accounts
       url: /docs/garagehive-working-on-it.html
-    - name: External accountancy
+    - name: External Accountancy
       url: /docs/garagehive-working-on-it.html
 - name: Support
   url: /docs/garagehive-support.html
