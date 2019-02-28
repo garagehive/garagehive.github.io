@@ -39,7 +39,7 @@
     - name: Setting up the TCard System
       url: /docs/garagehive-working-on-it.html
     - name: Creating Service Packages
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-service-packages.html
 - name: Sales
   url: "#"
   subitems:
@@ -91,7 +91,7 @@
     - name: Overview
       url: /docs/garagehive-working-on-it.html
     - name: Easy Clocking
-       url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-working-on-it.html
     - name: Jobsheets
       url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
