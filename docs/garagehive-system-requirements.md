@@ -28,7 +28,7 @@ Cookies and JavaScript must be enabled in the browser.
 * Recommended screen resolution 1920 x 1080
 * Optimal screen resolution 2560 x 1440
 
-# Garage Hive - Business Central Application
+# Garage Hive Application
 
 For the latest information, see the app in the Windows Store, App Store, or Google Play.
 * **Microsoft Store**  [Download](https://www.microsoft.com/en-gb/p/microsoft-dynamics-365-business-central/9nblggh4ql79?rtc=1&activetab=pivot:overviewtab "Microsoft Store")

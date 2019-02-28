@@ -3,10 +3,10 @@
 - name: Getting started
   url: "#"
   subitems:
-    - name: Whats New
-      url: /docs/garagehive-working-on-it.html
+    - name: What's New
+      url: /docs/garagehive-whats-new.html
     - name: Minimum Requirements
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-system-requirements.html
     - name: Frequently Asked Questions
       url: /docs/garagehive-working-on-it.html
     - name: Videos of Common Tasks

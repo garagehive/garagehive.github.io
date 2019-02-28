@@ -7,7 +7,7 @@ title: We're working on it.
 
 We are currently hard at work refreshing all of our documentation for the release of [Business Central](https://www.youtube.com/watch?v=seX9jL-LaEw/ "Garage Hive Business Central")
 
-In the meantime please visit our [Youtube](https://www.youtube.com/channel/UCEO94MEqoL9C2cIDCorxL6A/ "Garage Hive Youtube") page for our latest how-to videos. Alternativley you can visit our [Blog Page](https://www.garagehive.co.uk/live-blog "Garage Hive Blog") for the latest news
+In the meantime please visit our [Youtube](https://www.youtube.com/channel/UCEO94MEqoL9C2cIDCorxL6A/ "Garage Hive Youtube") page for our latest how-to videos. Alternatively you can visit our [Blog Page](https://www.garagehive.co.uk/live-blog "Garage Hive Blog") for the latest news
 
 # Garage Hive Community 
 
