@@ -59,7 +59,7 @@
   url: "#"
   subitems:
     - name: Create a Purchase Order
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-creating-a-purchase-order.html
     - name: Create a Purchase Invoice
       url: /docs/garagehive-working-on-it.html
     - name: Correct or Cancel a Purchase Invoice
