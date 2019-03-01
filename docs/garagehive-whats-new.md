@@ -4,6 +4,14 @@ title: What's New in Garage Hive
 ---
 # What's new?
 Below is a brief list of Garage Hive developments
+### 1st March 2019
+
+* Added BHP VRM Data to Vehicle Card
+* Removed Zero value invoices from external accountancy export
+* Added ability to refresh MOT data from MOT Notification bar in the Jobsheet
+* Added SMS and Email preview functionality to customer notification setup (Reminders)
+* Added Labour No. to Web Services for Power BI and Reporting features
+
 ### 27th February 2019
 
 * Added ability to automatically clock out users at the end of day at a specified time.
