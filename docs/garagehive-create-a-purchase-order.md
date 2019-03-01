@@ -5,7 +5,9 @@ title: Create a Purchase Order
 
 # Create a Purchase Order
 
-1.  Open relevant jobsheet and scroll down to lines and select Item. 
+1. Open relevant jobsheet and scroll down to lines and select Item. 
+1. second
+1. Third
 
   ![](media/garagehive-creating-a-purchase-order1.png)
 
