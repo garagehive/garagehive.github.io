@@ -5,11 +5,15 @@ title: Create a Purchase Order
 
 # Create a Purchase Order
 
-1. Open relevant jobsheet and scroll down to lines and select Item.
-   ![](media/garagehive-creating-a-purchase-order1.png)
-2. Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
-   ![](media/garagehive-creating-a-purchase-order2.png)
-3. If you do not know the part number of the item you are ordering then type ‘MISC’ into the No. box, this will be a placeholder part until you receive the item. 
+* Open relevant jobsheet and scroll down to lines and select Item.f
+
+![](media/garagehive-creating-a-purchase-order1.png)
+
+* Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
+
+![](media/garagehive-creating-a-purchase-order2.png)
+
+* If you do not know the part number of the item you are ordering then type ‘MISC’ into the No. box, this will be a placeholder part until you receive the item. 
    ![](media/garagehive-creating-a-purchase-order3.png)
 4.	Select required quantity to be ordered 
    ![](media/garagehive-creating-a-purchase-order4.png)
