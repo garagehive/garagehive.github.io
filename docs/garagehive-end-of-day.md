@@ -5,15 +5,15 @@ title: End of Day Report
 
 #   End of Day Report 
 
-1.  In the home screen select Report tab.
+* In the home screen select Report tab.
 
 ![](media/garagehive-end-of-day1.png)
 
-2.	Select End of Day Report. 
+* Select End of Day Report. 
 
 ![](media/garagehive-end-of-day2.png)
 
-3.	Fill in the Posting Date for a previous day or tyre in ‘T’ for today’s date. Select relevant Location Code. Then select Print. 
+* Fill in the Posting Date for a previous day or tyre in ‘T’ for today’s date. Select relevant Location Code. Then select Print. 
 
 ![](media/garagehive-end-of-day3.png)
 
