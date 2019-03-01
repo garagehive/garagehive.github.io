@@ -5,11 +5,9 @@ title: Create a Purchase Order
 
 # Create a Purchase Order
 
-##### Open relevant jobsheet and scroll down to lines and select Item.f
-
+1. Open relevant jobsheet and scroll down to lines and select Item.f
 ![](media/garagehive-creating-a-purchase-order1.png)
-
-##### Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
+2. Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
 
 ![](media/garagehive-creating-a-purchase-order2.png)
 
