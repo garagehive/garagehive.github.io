@@ -1,91 +1,144 @@
+- name: Welcome to Garage Hive
+  url: /docs/#
 - name: Getting started
   url: "#"
   subitems:
-    - name: Introduction
-      url: /docs/start-intro.html
-    - name: Platform
-      url: /docs/start-platform.html
-    - name: Basic setup
-      url: /docs/start-basic-setup.html
-    - name: Data import
-      url: /docs/start-data-import.html
-    - name: Everyday operations
-      url: /docs/start-everyday-operations.html
-    - name: User roles
-      url: /docs/start-user-roles.html
-    - name: Support
-      url: /docs/start-support.html
-    - name: Support2
-      url: /docs/start-support.html
-- name: Garage management
+    - name: What's New
+      url: /docs/garagehive-whats-new.html
+    - name: Minimum Requirements
+      url: /docs/garagehive-system-requirements.html
+    - name: Frequently Asked Questions
+      url: /docs/garagehive-working-on-it.html
+    - name: Videos of Common Tasks
+      url: /docs/garagehive-working-on-it.html
+    - name: Everyday Operations
+      url: /docs/garagehive-working-on-it.html
+    - name: User Roles
+      url: /docs/garagehive-working-on-it.html
+- name: Setting Up Garage Hive
   url: "#"
   subitems:
-    - name: Schedule
-      url: /docs/garagehive-schedule.html
-      subitems:
-        - name: Scheduling
-          url: /docs/garagehive-schedule-scheduling.html
-        - name: TCard planner
-          url: /docs/garagehive-schedule-tcard.html
-        - name: Dashboards
-          url: /docs/garagehive-schedule-dashboards.html
-        - name: Technicians
-          url: /docs/garagehive-schedule-technicians.html
+    - name: Create a Labour Card
+      url: /docs/garagehive-working-on-it.html
+    - name: Create an External Service
+      url: /docs/garagehive-working-on-it.html
+    - name: Create an Item Card
+      url: /docs/garagehive-working-on-it.html
+    - name: Create Resources
+      url: /docs/garagehive-working-on-it.html
+    - name: Create a Customer Card
+      url: /docs/garagehive-working-on-it.html
+    - name: Create a Vendor Card
+      url: /docs/garagehive-working-on-it.html
+    - name: Create Checklists
+      url: /docs/garagehive-working-on-it.html
+    - name: Setting up the Schedule
+      url: /docs/garagehive-working-on-it.html
+    - name: Adding Courtesy Cars to the Schedule
+      url: /docs/garagehive-working-on-it.html
+    - name: Setting up the TCard System
+      url: /docs/garagehive-working-on-it.html
+    - name: Creating Service Packages
+      url: /docs/garagehive-service-packages.html
+    - name: Setting up Reminders
+      url: /docs/garagehive-working-on-it.html
+- name: Sales
+  url: "#"
+  subitems:
+    - name: Create a Booking
+      url: /docs/garagehive-create-a-booking.html
+    - name: Create a Jobsheet
+      url: /docs/garagehive-jobsheet-create.html
+    - name: Create a Service Return Order
+      url: /docs/garagehive-service-return-order.html
+    - name: Create an Estimate
+      url: /docs/garagehive-working-on-it.html
+- name: Purchasing
+  url: "#"
+  subitems:
+    - name: Create a Purchase Order
+      url: /docs/garagehive-working-on-it.html
+    - name: Create a Purchase Invoice
+      url: /docs/garagehive-working-on-it.html
+    - name: Correct or Cancel a Purchase Invoice
+      url: /docs/garagehive-working-on-it.html
+    - name: Combine Receipts on a Single Invoice
+      url: /docs/garagehive-working-on-it.html
+    - name: Process Purchase Returns
+      url: /docs/garagehive-working-on-it.html
+- name: Inventory
+  url: "#"
+  subitems:
+    - name: Create New Items
+      url: /docs/garagehive-working-on-it.html
+    - name: Categorise Items
+      url: /docs/garagehive-working-on-it.html
+    - name: Item Pricing and Markups
+      url: /docs/garagehive-working-on-it.html
+- name: Workshop Operations
+  url: "#"
+  subitems:
+    - name: Scheduling Work
+      url: /docs/garagehive-working-on-it.html
+    - name: Vehicle Inspections
+      url: /docs/garagehive-working-on-it.html
+    - name: Vehicle Health Checks
+      url: /docs/garagehive-working-on-it.html   
+- name: Technicians Operations
+  url: "#"
+  subitems:
+    - name: Device Users
+      url: /docs/garagehive-working-on-it.html
+    - name: Overview
+      url: /docs/garagehive-working-on-it.html
+    - name: Easy Clocking
+      url: /docs/garagehive-working-on-it.html
     - name: Jobsheets
-      url: /docs/garagehive-jobsheets.html
-      subitems:
-        - name: Creating new
-          url: /docs/garagehive-jobsheet-create.html
-        - name: Authorization
-          url: /docs/garagehive-jobsheet-authorization.html
-        - name: Work progress status
-          url: /docs/garagehive-jobsheet-status.html
-        - name: Completion
-          url: /docs/garagehive-jobsheet-completion.html
-    - name: Vehicle health checks
-      url: /docs/garagehive-vhc.html
-      subitems:
-        - name: Checklist lines
-          url: /docs/garagehive-vhc-checklist.html
-        - name: Authorization
-          url: /docs/garagehive-vhc-authorization.html
-        - name: Creating jobsheet
-          url: /docs/garagehive-vhc-create-jobsheet.html
-    - name: MOT
-      url: /docs/garagehive-mot.html
-    - name: Service
-      url: /docs/garagehive-service.html
-      subitems:
-        - name: Pakages
-          url: /docs/garagehive-service-packages.html
-        - name: Repair times
-          url: /docs/garagehive-service-repair-times.html
-    - name: Online booking
-      url: /docs/garagehive-booking.html
-      subitems:
-        - name: Fixed price deals
-          url: /docs/garagehive-booking-fixed-price.html
-        - name: Time slots
-          url: /docs/garagehive-booking-time-slots.html
-        - name: Automatic scheduling
-          url: /docs/garagehive-booking-automatic-scheduling.html
-- name: Reporting
+      url: /docs/garagehive-working-on-it.html
+    - name: Vehicle Inspections
+      url: /docs/garagehive-working-on-it.html
+    - name: Reports
+      url: /docs/garagehive-working-on-it.html
+    - name: Terminal Users
+      url: /docs/garagehive-working-on-it.html   
+- name: General Functionality
   url: "#"
   subitems:
-    - name: End of day report
-      url: /docs/#
-    - name: Work in progress
-      url: /docs/#
-    - name: Items to return
-      url: /docs/#
-    - name: Power BI
-      url: /docs/#
-- name: Accountancy
+    - name: How To View Service History
+      url: /docs/garagehive-service-history.html
+    - name: Add Comments to Cards and Documents
+      url: /docs/garagehive-working-on-it.html
+    - name: Archive Documents
+      url: /docs/garagehive-working-on-it.html
+- name: End of Day Process
   url: "#"
   subitems:
-    - name: Business Central
-      url: /docs/#
-    - name: External accountancy
-      url: /docs/#
-- name: No subitems
-  url: "/docs/no-sub-items.html"
+    - name: End of Day report
+      url: /docs/garagehive-working-on-it.html
+    - name: Work in Progress
+      url: /docs/garagehive-working-on-it.html
+    - name: Summary Report
+      url: /docs/garagehive-working-on-it.html
+    - name: Items to Return
+      url: /docs/garagehive-working-on-it.html
+    - name: Resource Attendance
+      url: /docs/garagehive-working-on-it.html
+    - name: Time Registration Entries
+      url: /docs/garagehive-time-registration-entries.html
+- name: Finance & Accountancy
+  url: "#"
+  subitems:
+    - name: Managing Receivables
+      url: /docs/garagehive-working-on-it.html
+    - name: Managing Payables
+      url: /docs/garagehive-working-on-it.html
+    - name: Managing Bank Accounts
+      url: /docs/garagehive-working-on-it.html
+    - name: VAT
+      url: /docs/garagehive-working-on-it.html
+    - name: Chart of Accounts
+      url: /docs/garagehive-working-on-it.html
+    - name: External Accountancy
+      url: /docs/garagehive-working-on-it.html
+- name: Support
+  url: /docs/garagehive-support.html
