@@ -15,11 +15,11 @@ text in the middle
 ![](media/garagehive-creating-a-purchase-order2.png)
 3. If you do not know the part number of the item you are ordering then type ‘MISC’ into the No. box, this will be a placeholder part until you receive the item. 
 
-  ![](media/garagehive-creating-a-purchase-order3.png)
+  ![](media/garagehive-creating-a-purchase-order3.png)  
 
 4.	Select required quantity to be ordered 
 
-  ![](media/garagehive-creating-a-purchase-order4.png)
+  ![](media/garagehive-creating-a-purchase-order4.png)  
 
 5.  In the vendor column type in the beginning of the suppliers name/vendor number and select from the list. If there are multiple parts from the same supplier put their information in each box.  
 
