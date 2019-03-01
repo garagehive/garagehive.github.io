@@ -23,15 +23,15 @@ In the vendor column type in the beginning of the suppliers name/vendor number a
 
 ![](media/garagehive-creating-a-purchase-order5.png)
 
-If you different parts to be ordered from a different supplier, select the relevant supplier in the vendor column.
+* If you different parts to be ordered from a different supplier, select the relevant supplier in the vendor column.
 
 ![](media/garagehive-creating-a-purchase-order6.png)
 
-Place a tick in the  ‘Purchase (Special)’ box column against all parts you need to order. Even if they are from different suppliers tick all boxes and separate Purchase Order numbers will be created for each vendor you have specified.
+* Place a tick in the  ‘Purchase (Special)’ box column against all parts you need to order. Even if they are from different suppliers tick all boxes and separate Purchase Order numbers will be created for each vendor you have specified.
 
 ![](media/garagehive-creating-a-purchase-order7.png)
 
-Along the ribbon on the top of the jobsheet select ‘Create Purchase Order(s)’.
+* Along the ribbon on the top of the jobsheet select ‘Create Purchase Order(s)’.
 
 ![](media/garagehive-creating-a-purchase-order8.png)
 
