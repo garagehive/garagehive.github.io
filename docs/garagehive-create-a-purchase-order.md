@@ -25,8 +25,7 @@ title: Create a Purchase Order
 
 ![](media/garagehive-creating-a-purchase-order5.png)
 
-##### If you different parts to be ordered from a different supplier, select the relevant 
-supplier in the vendor column.
+##### If you different parts to be ordered from a different supplier, select the relevant supplier in the vendor column.
 
 ![](media/garagehive-creating-a-purchase-order6.png)
 
