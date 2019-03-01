@@ -49,6 +49,8 @@
       url: /docs/garagehive-create-a-booking.html
     - name: Create a Jobsheet
       url: /docs/garagehive-jobsheet-create.html
+    - name: Correcting an Incorrect Payment
+      url: /docs/garagehive-jobsheet-incorrectpayment.html
     - name: Create a Service Return Order
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
