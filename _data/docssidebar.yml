@@ -116,7 +116,7 @@
   url: "#"
   subitems:
     - name: End of Day report
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-end-of-day.html
     - name: Work in Progress
       url: /docs/garagehive-working-on-it.html
     - name: Summary Report
