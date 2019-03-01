@@ -9,11 +9,11 @@ title: Create a Purchase Order
 
 ![](media/garagehive-creating-a-purchase-order1.png)
 
-2.  Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
+1.  Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
 
 ![](media/garagehive-creating-a-purchase-order2.png)
 
-3.  If you do not know the part number of the item you are ordering then type ‘MISC’ into the No. box, this will be a placeholder part until you receive the item. 
+1.  If you do not know the part number of the item you are ordering then type ‘MISC’ into the No. box, this will be a placeholder part until you receive the item. 
 
 ![](media/garagehive-creating-a-purchase-order3.png)
 
