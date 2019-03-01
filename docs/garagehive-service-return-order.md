@@ -20,7 +20,7 @@ A service return order is the document you use to issue your customers a refund,
 
 4.	Decide on the item lines what you are refunding, you can choose from posting straight to the G/L Account, Items, Labour or External Service. <br>
 
- 5.	If you are issuing a service return order for a non account customer, you may need to use the "take payment" functionality to account for the financial refund. <br>
+5.	If you are issuing a service return order for a non account customer, you may need to use the "take payment" functionality to account for the financial refund. <br>
   
 6. Once the document is complete, simply press "post" or "post & print" located in the ribbon. 
 
