@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Creating a Purchase Order 
+title: Create a Purchase Order 
 ---
 
-# Creating a Purchase Order
+# Create a Purchase Order
 
 1.  Open relevant jobsheet and scroll down to lines and select Item. 
 
