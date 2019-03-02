@@ -25,10 +25,12 @@ Each reminder requires you to setup the following
 
 *  **Date Formula** - _This is where you state the time you wish to send the reminder before the due date_
     * -1D _(1 Day before date)_
+    * -3D _(3 Days before date)_
     * -1W _(1 Week before date)_
+    * -2W _(2 Weeks before date)_
     * -1M _(1 Month before date)_
 
-    **Please note, you must only type the "-1D" and it is essential you have a **-(negative sign)** before the formula.**
+    **Please note, you must only type the "-1D" and it is essential you have a -(negative sign) before the formula.**
 
 *  **SMS Text** - _This is where you create the message template the customer will receive via SMS_
 
@@ -51,7 +53,7 @@ When creating your message template you can choose from the following field tags
 * [ServiceNextDate]
 
 Here is an example template]
-> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](https://docs.garagehive.co.uk/docs/ "A example URL") to book online or call us on 0203 146 1163
+> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](https://docs.garagehive.co.uk/docs/ "A example URL") to book online or call us on 02031461163
 
 ![](media/garagehive-customer-notification-setup-required.png)
 
