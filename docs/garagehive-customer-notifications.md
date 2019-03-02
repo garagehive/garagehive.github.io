@@ -51,7 +51,7 @@ When creating your message template you can choose from the following field tags
 * [ServiceNextDate]
 
 Here is an example template]
-> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit garagehive.co.uk to book online or call us on 0203 146 1163
+> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](https://docs.garagehive.co.uk/docs/ "A example URL") to book online or call us on 0203 146 1163
 
 ![](media/garagehive-customer-notification-setup-required.png)
 
