@@ -4,7 +4,7 @@ title: How to use Checklists in Garage Hive
 ---
 # What are Checklists?
 
-Checklists offer the ability to create an inspection sheet/checklist for all areas of your business. For example, a vehicle insepction is a type of checklist. 
+Checklists offer the ability to create an inspection sheet/checklist for all areas of your business. For example, a vehicle inspection is a type of checklist. 
 
 ![](media/garagehive-checklists-example.png)
 
@@ -16,7 +16,7 @@ Checklists have the following structure
 
 ## Questionnaire Templates
 
-A questionnaire template is considered the header of the checklist, each questionnaire template must have at least one **Linked Question Group**
+A questionnaire template is considered the header of the Checklist, each questionnaire template must have at least one **Linked Question Group**
 
 ## Question Groups
 
@@ -28,15 +28,15 @@ A questionnaire template is considered the header of the checklist, each questio
 
 ## How to create a checklist
 
-* From the home screen, press the down arrow and select **Checklists**
+From the home screen, press the down arrow and select **Checklists**
 
 ![](media/garagehive-checklists-how-to-create-menu.png)
 
-* Start by creating a new questionnaire template, the questionnaire template will be the description of your checklist that you select from when deciding which checklist to complete as a technician. You will be linking Question Groups to your Questionnaire Templates using the "Linked Question Groups" in the action bar. Before you do this, you must create your Question Groups
+Start by creating a new questionnaire template, the questionnaire template will be the description of your checklist that you select from when deciding which checklist to complete as a technician. You will be linking Question Groups to your Questionnaire Templates using the "Linked Question Groups" in the action bar. Before you do this, you must create your Question Groups
 
 ![](media/garagehive-checklists-questionnaire-templates.png)
 
-* Now you need to create some Question Groups to link with your Questionnaire Template. 
+Now you need to create some Question Groups to link with your Questionnaire Template. 
 
 ![](media/garagehive-checklists-questiongroups.png)
 
@@ -55,9 +55,7 @@ There are several things you must do when creating a new Question Group. To do t
 
 ![](media/garagehive-checklists-example-setup.png)
 
-The above example of a **Question Group** setup will result in the checklist example below. 
-
-> Select the "New Line from Template" button in the action bar to use some of the preset examples. 
+The above example of a **Question Group** setup will result in the checklist example below. Select the "New Line from Template" button in the action bar to use some of the preset examples. 
 
 ![](media/garagehive-checklists-setup-questions.png)
 
