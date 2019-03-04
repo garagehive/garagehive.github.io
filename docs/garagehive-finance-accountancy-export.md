@@ -6,7 +6,6 @@ title: Customer Notifications
 
 [View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive")
 
-{% include youtube.html id="Bds8JQgDQN4" %}
 
 In Garage Hive, there are several customer notifications, such as MOT Reminders, Service Reminders & online booking confirmations. In the Customer Notification Setup you can change settings such as how reminders are received, you can customise the templates and adjust the times in which messages are sent. 
 
