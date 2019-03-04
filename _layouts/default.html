@@ -17,8 +17,26 @@
 
   <body>
 
-	  {% include navigation.html %}
-	  {{ content }}
+    {% include navigation.html %}
+    <!-- Header -->
+    <header class="header bg-light pt-9 pb-5 header-gradient">
+      <div class="container">
+        <h3>{{ page.title }}</h3>
+      </div>
+    </header><!-- /.header -->
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7 col-xl-8 ml-md-auto py-8">
+            <article>
+              {{ content }}
+            </article>
+          </div>
+
+        </div>
+      </div>
+    </main><!-- /.main-content -->
 	  {% include footer.html %}
     {% include scripts.html %}
 

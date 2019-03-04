@@ -4,16 +4,28 @@ title: What's New in Garage Hive
 ---
 # What's new?
 Below is a brief list of Garage Hive developments
+### 1st March 2019
+
+* Added BHP VRM Data to Vehicle Card ![](media/garagehive-vehiclecard-engine.png)
+* Removed Zero value invoices from external accountancy export
+* Added ability to refresh MOT data from MOT Notification bar in the Jobsheet ![](media/garagehive-notification-motupdate.png)
+* Added SMS and Email preview functionality to customer notification setup (Reminders) 
+[View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive")
+* Added Labour No. to Web Services for Power BI and Reporting features
+
 ### 27th February 2019
+ [What's New in Garage Hive - Feb '19 Roundup](https://youtu.be/YootXcNrezM "What's New in Garage Hive - Feb '19 Roundup")
+
+
 
 * Added ability to automatically clock out users at the end of day at a specified time.
 * Extended SMS templates, added additional functionality.
 * Improved SMS functionality, added "click to call" and "click to SMS" features to Jobsheets, VHCs & Estimates.
-* Added extra fields to the "Brake Section" of a vehicle card.
+* Added extra fields to the "Brake Section" of a vehicle card. ![](media/garagehive-vehiclecard-wheels.png)
 * Added a "Schedule of Work" document, allowing users to print a non financial document for Fleet Companies.
 * Improved customer address layout for Invoices and Statements.
 * Bug fix - Corrected Credit Memo number missing from the end of day report.
-* Added ability to create work description templates.
+* Added ability to create work description templates. ![](media/garagehive-jobsheet-workdescription-template.png)
 * Created a warning for vehicles with VRM integrity issues, allowing users to override data import.
 
 ### 17th February 2019
@@ -30,7 +42,7 @@ Below is a brief list of Garage Hive developments
 * Added optional "Awaiting Authorisation" tile to Service Advisors role centre.
 * Added Service Type column to posted jobsheet. 
 * Enhanced the ability to modify Resource Time Registration Entries, added ability to modify start time aswell as total time spent.
-* Added optional "Awaiting Parts" tile to Service Advisors role centre.
+* Added optional "Awaiting Parts" tile to Service Advisors role centre. ![](media/garagehive-jobsheet-tiles.png)
 
 
 ### 31st January 2019
