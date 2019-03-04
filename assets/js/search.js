@@ -52,6 +52,6 @@
         var results = idx.search(searchTerm); // Get lunr to perform a search
         alert("results.length: " + results.length);
         displaySearchResults(results, data); // We'll write this in the next section
-      }
+      });
     }
   })();
