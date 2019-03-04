@@ -5,7 +5,7 @@ title: Apply Payments to Unpaid Sales Documents
 # <a name="reconcile-customer-payments-manually-from-a-list-of-unpaid-sales-documents"></a>Reconcile Customer Payments Manually From a List of Unpaid Sales Documents
 When your customers have made payments to your electronic bank account, you must apply each amount paid to the related sales document and then post the payment to update the customer, general ledger, and bank ledger entries.
 
->   You can perform the same tasks, including vendor payments, in the **Payment Reconciliation Journal** window using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](finance-garagehive-reconcile-payments-auto-application.md).
+>   You can perform the same tasks, including vendor payments, in the **Payment Reconciliation Journal** window using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](finance-garagehive-reconcile-payments-auto-application.html).
 
 The **Payment Registration** window is designed to support you in tasks involved in balancing internal accounts by using actual cash figures to make sure that payments are collected efficiently from customers. This payment processing tool enables you to quickly verify and post individual or lump payments, process discounted payments, and find specific unpaid documents for which payment is made.
 

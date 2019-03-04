@@ -147,7 +147,7 @@
     - name: How to reconcile customer payments manually
       url: /docs/garagehive-finance-garagehive-reconcile-customer-payments-manually.html
     - name: Use Automatic Application to Reconcile Payments
-      url: /docs/garagehive-finance-garagehive-reconcile-payments-auto-applicationt.html
+      url: /docs/garagehive-finance-garagehive-reconcile-payments-auto-application.html
     - name: Setting Up Text-to-Account Mapping for Recurring Payments
       url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
 - name: Support
