@@ -67,7 +67,7 @@
     - name: Combine Receipts on a Single Invoice
       url: /docs/garagehive-working-on-it.html
     - name: Process Purchase Returns
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-shipped-items-purchase-return-order.html
 - name: Inventory
   url: "#"
   subitems:
