@@ -7,14 +7,13 @@
   
         for (var i = 0; i < results.length; i++) {
           var item = store[results[i].ref];
-          appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-          appendString += '<p> Score: ' + results[i].score + '...</p>';
-          appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+          appendString += '<a href="' + item.url + '"><h3>' + item.title + '</h3></a><!-- Score: ' + results[i].score + ' -->';
+          appendString += '<p>' + item.content.substring(0, 300) + '...</p>';
         }
   
         searchResults.innerHTML = appendString;
       } else {
-        searchResults.innerHTML = '<li>No results found</li>';
+        searchResults.innerHTML = '<h3>No results found</h3>';
       }
     }
   
@@ -34,7 +33,7 @@
     var searchTerm = getQueryVariable('query');
     
     if (searchTerm) {
-      alert("searchTerm: " + searchTerm);
+      //alert("searchTerm: " + searchTerm);
       document.getElementById('search-box').setAttribute("value", searchTerm);
   
       $.getJSON( "https://docs.garagehive.co.uk/docs/search.json", function( data ) {
@@ -52,7 +51,7 @@
             }
         });
         var results = idx.search(searchTerm);
-        alert("results.length: " + results.length);
+        //alert("results.length: " + results.length);
         displaySearchResults(results, data);
       });
     }
