@@ -13,7 +13,7 @@ On a payment reconciliation journal line where the payment has been set to posti
 
 ## <a name="to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>To map text on recurring payments to accounts for automatic reconciliation
 1. Choose the search icon, enter **Payment Reconciliation Journals**, and then choose the related link.
-2. Open a payment reconciliation journal. For more information, see [Reconcile Payments Using Automatic Application](garagehive-finance-reconcile-payments-auto-application).
+2. Open a payment reconciliation journal. For more information, see [Reconcile Payments Using Automatic Application](garagehive-finance-reconcile-payments-auto-application.html).
 3. Choose the **Map Text to Account** action. The **Text-to-Account Mapping** window opens.
 4. In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry. You can enter up to 50 characters.
 
