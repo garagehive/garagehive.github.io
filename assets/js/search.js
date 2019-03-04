@@ -1,7 +1,7 @@
 (function() {
     function displaySearchResults(results, store) {
       var searchResults = document.getElementById('search-results');
-  
+        Window.alrert("results.length: " + results.length);
       if (results.length) { // Are there any results?
         var appendString = '';
   
@@ -31,7 +31,7 @@
     }
   
     var searchTerm = getQueryVariable('query');
-  
+    window.alert("searchTerm: " + searchTerm);
     if (searchTerm) {
       document.getElementById('search-box').setAttribute("value", searchTerm);
   
