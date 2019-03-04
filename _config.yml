@@ -44,7 +44,5 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
-algolia:
-  application_id: 5ILQT7ERN7
-  index_name:     gh_docs
-  search_only_api_key: 43aad1aede31185a91411e5d838521d0
+plugins:
+  - jekyll-seo-tag
