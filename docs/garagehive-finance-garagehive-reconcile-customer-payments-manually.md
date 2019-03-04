@@ -17,7 +17,7 @@ You can apply customer ledger entries in several ways:
 
 You can apply customer payments manually in the **Cash Receipt Journal** window. A cash receipt journal is a type of general journal, so you can use it to post transactions to general ledger, bank, customer, vendor, and fixed assets accounts. You can apply the payment to one or more debit entries when you post the payment, or you can apply from the posted entries later.
 
-You can also apply customer and vendor payments in the **Payment Reconciliation Journal** window, by using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](garagehive-reconcile-payments-auto-application.md). Alternatively, you can reconcile customer payments based on a list of unpaid sales documents in the **Payment Registration** window. For more information, see [Reconcile Customer Payments From a List of Unpaid Sales Documents](garagehive-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
+You can also apply customer and vendor payments in the **Payment Reconciliation Journal** window, by using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](garagehive-finance-reconcile-payments-auto-application.md). Alternatively, you can reconcile customer payments based on a list of unpaid sales documents in the **Payment Registration** window. For more information, see [Reconcile Customer Payments From a List of Unpaid Sales Documents](garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 
 ## <a name="to-fill-and-post-a-cash-receipt-journal"></a>To fill and post a cash receipt journal
 1. Choose the search icon, enter **Cash Receipt Journal**, and then choose the related link.
@@ -88,7 +88,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 7. Post the credit memo.
 
 ## <a name="to-apply-posted-customer-ledger-entries"></a>To apply posted customer ledger entries
-1. Choose the ![Search for Page or Report](media/search_small.png "Search for Page or Report icon") icon, enter **Customers**, and then choose the related link.
+1. Choose the search icon, enter **Customers**, and then choose the related link.
 2. Open the customer card for the customer with entries that you want to apply.
 3. Choose the **Ledger Entries** action, and then select the line with the entry that will be the applying entry.
 4. Choose the **Apply Entries** action. The **Apply Customer Entries** window opens showing the open entries for the customer.
