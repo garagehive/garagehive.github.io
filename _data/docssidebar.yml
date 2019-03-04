@@ -142,5 +142,13 @@
       url: /docs/garagehive-working-on-it.html
     - name: External Accountancy
       url: /docs/garagehive-working-on-it.html
+    - name: How to Apply Payments to Unpaid Sales Documents
+      url: /docs/garagehive-finance-garagehive-how-reconcile-customer-payments-list-unpaid-sales-documents.html
+    - name: How to reconcile customer payments manually
+      url: /docs/garagehive-finance-garagehive-reconcile-customer-payments-manually.html
+    - name: Use Automatic Application to Reconcile Payments
+      url: /docs/garagehive-finance-garagehive-reconcile-payments-auto-applicationt.html
+    - name: Setting Up Text-to-Account Mapping for Recurring Payments
+      url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
 - name: Support
   url: /docs/garagehive-support.html
