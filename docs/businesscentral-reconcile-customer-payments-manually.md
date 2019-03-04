@@ -121,6 +121,4 @@ When you correct an application, correcting entries that are identical to the or
 
 >   If an entry has been applied by more than one application entry, you must unapply the latest application entry first.  
 
-## <a name="see-also"></a>See Also
-[Managing Receivables](receivables-manage-receivables.md)  
-[Sales](sales-manage-sales.md)  
+
