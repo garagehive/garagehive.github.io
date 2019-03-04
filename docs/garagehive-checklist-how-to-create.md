@@ -4,6 +4,8 @@ title: How to use Checklists in Garage Hive
 ---
 # How to setup and work with Checklists
 
+{% include youtube.html id="q7Vidsf-5dM" %}
+
 Checklists offer the ability to create an inspection sheet/checklist for all areas of your business. For example, a vehicle inspection is a type of checklist. 
 
 ![](media/garagehive-checklists-example.png)
