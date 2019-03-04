@@ -1,7 +1,7 @@
 (function() {
     function displaySearchResults(results, store) {
       var searchResults = document.getElementById('search-results');
-        alert("results.length: " + results.length);
+
       if (results.length) { // Are there any results?
         var appendString = '';
   
@@ -36,7 +36,7 @@
       document.getElementById('search-box').setAttribute("value", searchTerm);
   
       $.getJSON( "https://docs.garagehive.co.uk/search.json", function( data ) {
-        alert('data.length: ' + data.length);
+        
         var idx = lunr(function () {
             this.field('title');
             this.field('content');
@@ -50,7 +50,7 @@
             }
         });
         var results = idx.search(searchTerm); // Get lunr to perform a search
-        alert("results.length: " + results.length);
+        alert("data.length: " + data.length + "results.length: " + results.length);
         displaySearchResults(results, data); // We'll write this in the next section
       });
     }
