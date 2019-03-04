@@ -67,7 +67,7 @@
     - name: Combine Receipts on a Single Invoice
       url: /docs/garagehive-working-on-it.html
     - name: Process Purchase Returns
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-shipped-items-purchase-return-order.html
 - name: Inventory
   url: "#"
   subitems:
@@ -150,5 +150,3 @@
       url: /docs/garagehive-finance-reconcile-payments-auto-application.html
     - name: Setting Up Text-to-Account Mapping for Recurring Payments
       url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
-- name: Support
-  url: /docs/garagehive-support.html
