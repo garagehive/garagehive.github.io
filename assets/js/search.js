@@ -1,7 +1,7 @@
 (function() {
     function displaySearchResults(results, store) {
       var searchResults = document.getElementById('search-results');
-        Window.alert("results.length: " + results.length);
+        alert("results.length: " + results.length);
       if (results.length) { // Are there any results?
         var appendString = '';
   
@@ -50,7 +50,7 @@
         }
       });
       var results = idx.search(searchTerm); // Get lunr to perform a search
-      Window.alert("results.length: " + results.length);
+      alert("results.length: " + results.length);
       //displaySearchResults(results, window.store); // We'll write this in the next section
     }
   })();
