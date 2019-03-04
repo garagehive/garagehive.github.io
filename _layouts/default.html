@@ -17,8 +17,20 @@
 
   <body>
 
-	  {% include navigation.html %}
-	  {{ content }}
+    {% include navigation.html %}
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7 col-xl-8 ml-md-auto py-8">
+            <article>
+              {{ content }}
+            </article>
+          </div>
+
+        </div>
+      </div>
+    </main><!-- /.main-content -->
 	  {% include footer.html %}
     {% include scripts.html %}
 
