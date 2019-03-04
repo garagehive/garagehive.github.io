@@ -2,10 +2,10 @@
     function displaySearchResults(results, store) {
       var searchResults = document.getElementById('search-results');
 
-      if (results.length) { // Are there any results?
+      if (results.length) {
         var appendString = '';
   
-        for (var i = 0; i < results.length; i++) {  // Iterate over the results
+        for (var i = 0; i < results.length; i++) {
           var item = store[results[i].ref];
           appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
           appendString += '<p> Score: ' + results[i].score + '...</p>';
@@ -39,10 +39,10 @@
       $.getJSON( "https://docs.garagehive.co.uk/search.json", function( data ) {
         
         var idx = lunr(function () {
-            this.field('title');
+            this.field('title', { boost: 10 });
             this.field('content');
         
-            for (var key in data) { // Add the data to lunr
+            for (var key in data) {
                 this.add({
                 'id': key,
                 'title': data[key].title,
@@ -50,9 +50,9 @@
                 });
             }
         });
-        var results = idx.search(searchTerm); // Get lunr to perform a search
+        var results = idx.search(searchTerm);
         //alert("results.length: " + results.length);
-        displaySearchResults(results, data); // We'll write this in the next section
+        displaySearchResults(results, data);
       });
     }
   })();
