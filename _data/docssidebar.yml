@@ -118,9 +118,9 @@
     - name: End of Day report
       url: /docs/garagehive-end-of-day.html
     - name: Work in Progress
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-work-in-progress.html
     - name: Summary Report
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-summary-report.html
     - name: Items to Return
       url: /docs/garagehive-working-on-it.html
     - name: Resource Attendance
