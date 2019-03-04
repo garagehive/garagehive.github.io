@@ -85,7 +85,7 @@
     - name: Scheduling Work
       url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Vehicle Health Checks
       url: /docs/garagehive-working-on-it.html   
 - name: Technicians Operations
