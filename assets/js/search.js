@@ -36,7 +36,7 @@
       //alert("searchTerm: " + searchTerm);
       document.getElementById('search-box').setAttribute("value", searchTerm);
   
-      $.getJSON( "https://docs.garagehive.co.uk/docs/search.json", function( data ) {
+      $.getJSON("/docs/search.json", function( data ) {
         
         var idx = lunr(function () {
             this.field('title', { boost: 10 });
