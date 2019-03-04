@@ -42,13 +42,11 @@
         this.field('content');
       
         for (var key in window.store) { // Add the data to lunr
-            window.alert("title1: " + window.store[key].title);
             this.add({
             'id': key,
             'title': window.store[key].title,
             'content': window.store[key].content
             });
-            window.alert("title2: " + window.store[key].title);
         }
       });
       var results = idx.search(searchTerm); // Get lunr to perform a search
