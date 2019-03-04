@@ -1,7 +1,7 @@
 (function() {
     function displaySearchResults(results, store) {
       var searchResults = document.getElementById('search-results');
-        Window.alrert("results.length: " + results.length);
+        Window.alert("results.length: " + results.length);
       if (results.length) { // Are there any results?
         var appendString = '';
   
