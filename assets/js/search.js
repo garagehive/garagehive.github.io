@@ -50,7 +50,7 @@
         }
       });
       var results = idx.search(searchTerm); // Get lunr to perform a search
-      alert("results.length: " + results.length);
-      //displaySearchResults(results, window.store); // We'll write this in the next section
+      //alert("results.length: " + results.length);
+      displaySearchResults(results, window.store); // We'll write this in the next section
     }
   })();
