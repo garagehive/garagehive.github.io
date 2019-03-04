@@ -66,6 +66,8 @@
       url: /docs/garagehive-working-on-it.html
     - name: Combine Receipts on a Single Invoice
       url: /docs/garagehive-working-on-it.html
+    - name: Create an External Service
+      url: /docs/garagehive-create-external-service.html
     - name: Process Purchase Returns
       url: /docs/garagehive-shipped-items-purchase-return-order.html
 - name: Inventory
