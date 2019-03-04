@@ -31,26 +31,27 @@
     }
   
     var searchTerm = getQueryVariable('query');
-    //window.alert("searchTerm: " + searchTerm);
+    
     if (searchTerm) {
       document.getElementById('search-box').setAttribute("value", searchTerm);
   
-      // Initalize lunr with the fields it will be searching on. I've given title
-      // a boost of 10 to indicate matches on this field are more important.
-      var idx = lunr(function () {
-        this.field('title');
-        this.field('content');
-      
-        for (var key in window.store) { // Add the data to lunr
-            this.add({
-            'id': key,
-            'title': window.store[key].title,
-            'content': window.store[key].content
-            });
-        }
-      });
-      var results = idx.search(searchTerm); // Get lunr to perform a search
-      //alert("results.length: " + results.length);
-      displaySearchResults(results, window.store); // We'll write this in the next section
+      $.getJSON( "search.json", function( data ) {
+        alert('data.length: ' + data.length);
+        var idx = lunr(function () {
+            this.field('title');
+            this.field('content');
+        
+            for (var key in data) { // Add the data to lunr
+                this.add({
+                'id': key,
+                'title': data[key].title,
+                'content': data[key].content
+                });
+            }
+        });
+        var results = idx.search(searchTerm); // Get lunr to perform a search
+        alert("results.length: " + results.length);
+        displaySearchResults(results, data); // We'll write this in the next section
+      }
     }
   })();
