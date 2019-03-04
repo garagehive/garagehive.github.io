@@ -71,3 +71,5 @@ Once you have done this, your checklist is ready to preview. Simply create a new
 
 # See Also
 [How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection")
+
+[How to use VHCs](https://docs.garagehive.co.uk/docs/garagehive-VHC.html "How to use VHCs")
