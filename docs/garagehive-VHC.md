@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: How to perform in Vehicle Inspection Checklist
+title: VHC (vehicle Health Check)
 ---
 # How to use VHCs 
 {% include youtube.html id="qyT5Y_GEpfM" %}
-
+---
 VHCs in Garage Hive offer the ability to manage and monitor your upsell, additional authorisation and estimates across all of your service staff. VHCs are created by confirming a [Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"). Once a VHC has been created you have several features designed to assist the user such as the price calculator, copying authorised lines to a [Jobsheet](https://docs.garagehive.co.uk/docs/garagehive-jobsheet-create.html "How to create a jobsheet") and the ability to defer work for a later date. 
 
 The below flowchart explains the process from [Jobsheet](https://docs.garagehive.co.uk/docs/garagehive-jobsheet-create.html "How to create a jobsheet") -> [Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") -> VHC -> [Jobsheet](https://docs.garagehive.co.uk/docs/garagehive-jobsheet-create.html "How to create a jobsheet"). 
@@ -42,7 +42,7 @@ Click on the VHC No. to open it.
 
 ![](media/garagehive-vhc-authorise.png)
 
-A VHC document is a combination of the [Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") and an estimate. You can view the [Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") from within the VHC by clicking on the FastTab "Check List Lines >". Using this information generate an estimate of the work on the docment lines, You can use [Service Packages](https://docs.garagehive.co.uk/docs/garagehive-service-packages.html "Service Packages") and lookup repair times within a VHC document to assist with producing the estimate. 
+A VHC document is a combination of the [Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") and an estimate. You can view the [Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") from within the VHC by clicking on the FastTab "Check List Lines >". Using this information, generate an estimate of the work on the document lines, You can use [Service Packages](https://docs.garagehive.co.uk/docs/garagehive-service-packages.html "Service Packages") and lookup repair times within a VHC document to assist with producing the estimate. 
 
 If you contact the customer and gain authorisation for the additional work, tick the "Customer Authorised" box on the lines, then click "Copy Authorised lines to Jobsheet" in the action bar. This will copy all of the authorised documents back to the original Jobsheet. 
 
