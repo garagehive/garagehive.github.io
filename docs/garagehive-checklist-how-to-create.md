@@ -44,10 +44,10 @@ Now you need to create some Question Groups to link with your Questionnaire Temp
 
 There are several things you must do when creating a new Question Group. To do this select Question Groups from the menu and press "+New" 
 
-* **No.** Each line must have a number, this is the order in which the questions will appear. 
-* **Caption** The caption is what will appear on the line of the questions
-* **Type** Choose from either Line (a title) or Control (an entry)
-* **SubType** Select from what time of entry you want.
+* **No.** - Each line must have a number, this is the order in which the questions will appear. 
+* **Caption** - The caption is what will appear on the line of the questions
+* **Type** - Choose from either Line (a title) or Control (an entry)
+* **SubType** - Select from what type of entry you want.
      * Radio Button
      * Textbox-Small
      * Textbox-Large
@@ -61,15 +61,15 @@ The above example of a **Question Group** setup will result in the checklist exa
 
 ![](media/garagehive-checklists-setup-questions.png)
 
-In order to complete your setup, you need to link your **Question Group** to your **Questionnaire Templates**, do to this go to the **Questionnaire Templates** menu, selected the **Questionnaire Template** and press "Linked Question Groups" in the action bar. 
+In order to complete your setup, you need to link your **Question Group** to your **Questionnaire Templates**. do to this, go to the **Questionnaire Templates** menu and select the **Questionnaire Template** and press "Linked Question Groups" in the action bar. 
 
 ![](media/garagehive-checklists-questionnaire-templates-linked-groups.png)
 
-Select the Questionnaire Template Code, then select a Question Group Code. Finally add a Sorting No. to determine the order in which the Question Groups appear on the checklist. 
+Select the Questionnaire Template Code, then select a Question Group Code. Finally, add a Sorting No. to determine the order in which the Question Groups appear on the checklist. 
 
 ![](media/garagehive-checklists-questionary-template-question-groups.png)
 
-Once you have done this, your checklist is ready to preview. Simply create a new checklist from the menu and select the new checklist you have created to preview it. 
+Once you have done this, your checklist is ready to preview. Simply create a Vehicle Inspection from the checklist menu and select the new checklist you have created to preview it. 
 
 # See Also
 [How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection")
