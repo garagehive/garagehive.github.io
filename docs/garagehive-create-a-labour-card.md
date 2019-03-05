@@ -5,11 +5,11 @@ title: Create a Labour Card
 
 #   Create a Labour Card 
 
-### You can create as many customised labour cards as you like. 
+#### You can create as many customised labour cards as you like. 
 
-### Creating Labour Cards will allow you to pre-populate set Labour Times and Labour Costs for specific jobs. 
+#### Creating Labour Cards will allow you to pre-populate set Labour Times and Labour Costs for specific jobs. 
 
-### ***Labour Cards can also be used to build Service Packages.***  
+#### *Labour Cards can also be used to build Service Packages.*  
 
 *   Select Catalogues in the Home Screen.
 
@@ -77,6 +77,24 @@ J.  **VAT Prod. Posting Group** - These are pre-defined fields to select from. <
 ***DO NOT - Create your own without discussing with a member of the Support Team.***
 
 Please note that the majority of the time this should be set up as **STANDARD**. 
+
+*   Select the Navigate Tab 
+
+*   Followed by ***Standard Times***
+
+![](media/garagehive-create-a-labour-card4.png)
+
+*   At this point you set the standard labour time you wish to be applied to this labour line.
+
+![](media/garagehive-create-a-labour-card5.png)
+
+This is your labour card now created. 
+
+
+
+
+
+
 
 
 
