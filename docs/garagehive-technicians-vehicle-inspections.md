@@ -7,7 +7,7 @@ title: How to perform in Vehicle Inspection Checklist
 {% include youtube.html id="BBjOZrxbzPs" %}
 
 
-A Vehicle Inspection Checklist can either be pre-assigned to a jobsheet by a service advisor, or it can be created by a technician. To create new inspection or open an existing inspection, open the menu from the jobsheet and select "Show Vehicle Inspection." 
+A Vehicle Inspection Checklist can either be pre-assigned to a jobsheet by a Service Advisor, or it can be created by a Technician. To create a new inspection or open an existing inspection, open the menu from the jobsheet and select "Show Vehicle Inspection." 
 
 ![](media/garagehive-technician-vehicleinspection.png)
 
@@ -27,15 +27,15 @@ If you would like to add any pictures, select the menu option within the vehicle
 
 ![](media/garagehive-technician-vehicleinspection-pictures.png)
 
-In the picture menu you can view existing pictures, change the description of the pictures or add new pictures using the menu. You can either take pictures using the devices camera or upload existing pictures. 
+In the picture menu you can view existing pictures, change the description of the pictures or add new pictures. You can either take pictures using the devices camera or upload existing pictures. 
 
 ![](media/garagehive-technician-vehicleinspection-pictures-upload.png)
 
-Once you are complete with the Vehicle Inspection Checklist, simply press the back button until you are asked if the checklist is complete. If it is, press Yes. If you need to finish the Vehicle Inspection Checklist later, press no. 
+Once the Vehicle Inspection Checklist is completed, simply press the back button until you are asked if the checklist is complete. If it is, press Yes. If you need to finish the Vehicle Inspection Checklist later, press No. 
 
 ![](media/garagehive-technician-vehicleinspection-complete-question.png)
 
-The service advisor will now see that a Vehicle Inspection Checklist is awaiting confirmation
+The service advisor will now see that a Vehicle Inspection Checklist is awaiting confirmation.
 
 ![](media/garagehive-technician-vehicleinspection-awaiting-confirmation.png)
 
