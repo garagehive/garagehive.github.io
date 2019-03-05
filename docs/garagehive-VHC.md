@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: VHC (vehicle Health Check)
+title: VHC (Vehicle Health Check)
 ---
 # How to use VHCs 
 {% include youtube.html id="qyT5Y_GEpfM" %}
