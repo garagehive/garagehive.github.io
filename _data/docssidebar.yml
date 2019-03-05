@@ -30,8 +30,8 @@
       url: /docs/garagehive-working-on-it.html
     - name: Create a Vendor Card
       url: /docs/garagehive-working-on-it.html
-    - name: Create Checklists
-      url: /docs/garagehive-working-on-it.html
+    - name: Checklists
+      url: /docs/garagehive-checklist-how-to-create.html
     - name: Setting up the Schedule
       url: /docs/garagehive-working-on-it.html
     - name: Adding Courtesy Cars to the Schedule
@@ -66,6 +66,8 @@
       url: /docs/garagehive-working-on-it.html
     - name: Combine Receipts on a Single Invoice
       url: /docs/garagehive-working-on-it.html
+    - name: Create an External Service
+      url: /docs/garagehive-create-external-service.html
     - name: Process Purchase Returns
       url: /docs/garagehive-shipped-items-purchase-return-order.html
 - name: Inventory
@@ -83,9 +85,9 @@
     - name: Scheduling Work
       url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Vehicle Health Checks
-      url: /docs/garagehive-working-on-it.html   
+      url: /docs/garagehive-VHC.html   
 - name: Technicians Operations
   url: "#"
   subitems:
@@ -98,7 +100,7 @@
     - name: Jobsheets
       url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Reports
       url: /docs/garagehive-working-on-it.html
     - name: Terminal Users
