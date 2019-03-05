@@ -29,7 +29,7 @@ A.  **No.** - Create a unique and relevant Labour No (Code) - Complete without S
 
 B.  **Description** - This is the description which will be shown on the jobsheet/invoice. 
 
-C.  **Group Code**  - Select the most relevant group code.
+C.  **Group Code**  - This is the Labour Group to which you require the Select the most relevant group code.
 
 *   AC
 *   ALIGN
@@ -53,11 +53,30 @@ F.  **Unit Price** - This is to be the total unit price. This will vary dependin
 *Unit Price = 60.00*<br>
 *Standard Times = 0.5*
 
-G.  **Price/Profit Calculation**
+G.  **Price/Profit Calculation** = Profit=Price-Cost 
 
-H.  **Profit %**
+H.  **Profit %** = 100
 
-I.  **Gen Prod. Posting Group**
+I.  **Gen Prod. Posting Group** - These are pre-defined fields to select from. <br>
 
-J.  **VAT Prod. Posting Group** 
+ ***DO NOT - Create your own without discussing with a member of the Support Team.***
+
+Select the most relevant General Product Posting Group. 
+
+*   CONS - Consumables 
+*   DIAG - Diagnotic 
+*   EXTERNAL - External Services 
+*   FLUIDS - Fluids 
+*   MISC - Miscellaneous 
+*   NO-POST - Miscellaneous No Post Items 
+*   PARTS - Parts 
+*   TYRES - Tyres 
+
+J.  **VAT Prod. Posting Group** - These are pre-defined fields to select from. <br>
+
+***DO NOT - Create your own without discussing with a member of the Support Team.***
+
+Please note that the majority of the time this should be set up as **STANDARD**. 
+
+
 
