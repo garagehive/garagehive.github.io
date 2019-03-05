@@ -46,9 +46,9 @@ A VHC document is a combination of the [Vehicle Inspection](https://docs.garageh
 
 If you contact the customer and gain authorisation for the additional work, tick the "Customer Authorised" box on the lines, then click "Copy Authorised lines to Jobsheet" in the action bar. This will copy all of the authorised lines back to the original Jobsheet. 
 
-For any work not authorised, you can use the "Reminder Date" column to set a reminder on the system, once the reminder is due a tile on the Service Advisors homepage will populate with the VHC requiring a reminder. 
+For any work not authorised, you can use the "Reminder Date" column to set a reminder on the system. Once the reminder is due, a tile on the Service Advisors homepage will populate with the VHC requiring a reminder. 
 
-Once the document is complete, update the document status to "Completed". Completed VHCs are still accessible from a jobsheet. 
+Once the document is complete, update the document status to "Completed". Completed VHCs are still accessible from a Jobsheet. 
 
 ![](media/garagehive-vhc-status.png)
 
