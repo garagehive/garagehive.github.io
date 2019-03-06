@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: How to Email Customers Statements
+title: How to Email Customer's Statements
 ---
-# How to setup customers card to email statements
+# How to setup customer card's to email statements
 
 You can email customer statements directly from Garage Hive, to do this you need to complete some setup in the customer card. 
 
