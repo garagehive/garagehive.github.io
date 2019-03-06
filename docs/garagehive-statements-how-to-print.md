@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Email Customers Statements
+title: How to Print Customer Statements
 ---
 # How to Print Statements
 
