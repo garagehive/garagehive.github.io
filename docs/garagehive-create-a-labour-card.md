@@ -29,7 +29,7 @@ A.  **No.** - Create a unique and relevant Labour No (Code) - Complete without S
 
 B.  **Description** - This is the description which will be shown on the jobsheet/invoice. 
 
-C.  **Group Code**  - This is the Labour Group to which you require the Select the most relevant group code.
+C.  **Group Code**  - Select the most relevant Labour Group code.
 
 *   AC
 *   ALIGN
@@ -90,11 +90,6 @@ Please note that the majority of the time this should be set up as **STANDARD**.
 
 This is your labour card now created. 
 
+#   See Also 
 
-
-
-
-
-
-
-
+[Creating Service Packages](https://docs.garagehive.co.uk/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive")
