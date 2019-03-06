@@ -2,10 +2,11 @@
 layout: docs
 title: How to Email Customers Statements
 ---
-# How to setup customers card to email statements. 
+# How to setup customers card to email statements
+
 You can email customer statements directly from Garage Hive, to do this you need to complete some setup in the customer card. 
 
-The default email address you enter on the homepage of a customer card isn't the email address that the statement will be emailed to. You can set a different email address in the "Document Layouts" menu of the customer card. 
+The default email address you enter on the homepage of a customer card isn't the email address that the statement will be emailed to. You can set a different email address in the "Document Layouts" menu on the customer card. 
 
 ![](media/garagehive-statements-email.png)
 Open the customer card, select Navigate and open "Document Layouts"
@@ -42,7 +43,7 @@ Change the "Report Output" to "Email"
 
 Tick the "Print Remaining Statements" if you are running statements for multiple customers, this will produce a PDF of all customers that don't have an email set. 
 
-If you want to email a particular customers, make sure you enter the customers account number at the bottom of the report. 
+If you want to email a particular customer, make sure you enter the customer's account number at the bottom of the report. 
 
 # See Also
 [How to Print Statements](https://docs.garagehive.co.uk/docs/garagehive-statements-how-to-print.html "How to print Statements")
