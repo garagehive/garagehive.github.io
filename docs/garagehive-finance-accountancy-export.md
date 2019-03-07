@@ -4,7 +4,7 @@ title: External Accountancy Export
 ---
 # How to export to your external accountancy system
 
-{% include youtube.html id="zpnaHEbN0Wg&t" %}
+{% include youtube.html id="zpnaHEbN0Wg" %}
 ---
 
 # What you can export
