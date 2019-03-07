@@ -4,14 +4,30 @@ title: What's New in Garage Hive
 ---
 # What's new?
 Below is a brief list of Garage Hive developments
+
+### 7th March 2019
+
+* **Added Making Tax Digital functionality.**
+    * Visibility into your VAT obligations
+    * Creating VAT returns based on VAT obligations
+    * Reminding users of upcoming VAT obligations
+    * Submitting the VAT return to HMRC
+    * Viewing your VAT liabilities and payments
+
+![](media/garagehive-making-tax-digital.jpg)
+* Enabled customer GDPR preferences to the customer list for exporting to Excel.
+* Added Santander bank import file for Payment Reconciliation Journals and Bank Reconciliation. 
+* Added payment method code to cash receipt journal.
+* Added Cash receipt journals to external accountancy export. 
+
 ### 1st March 2019
 
-* Added BHP VRM Data to Vehicle Card ![](media/garagehive-vehiclecard-engine.png)
-* Removed Zero value invoices from external accountancy export
-* Added ability to refresh MOT data from MOT Notification bar in the Jobsheet ![](media/garagehive-notification-motupdate.png)
+* Added BHP VRM Data to Vehicle Card. ![](media/garagehive-vehiclecard-engine.png)
+* Removed Zero value invoices from external accountancy export.
+* Added ability to refresh MOT data from MOT Notification bar in the Jobsheet. ![](media/garagehive-notification-motupdate.png)
 * Added SMS and Email preview functionality to customer notification setup (Reminders) 
-[View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive")
-* Added Labour No. to Web Services for Power BI and Reporting features
+[View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive").
+* Added Labour No. to Web Services for Power BI and Reporting features.
 
 ### 27th February 2019
  [What's New in Garage Hive - Feb '19 Roundup](https://youtu.be/YootXcNrezM "What's New in Garage Hive - Feb '19 Roundup")
