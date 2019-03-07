@@ -1,84 +1,50 @@
 ---
 layout: docs
-title: Customer Notifications
+title: External Accountancy Export
 ---
-# What are customer notifications?
+# How to export to your external accountancy system
 
-[View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive")
+{% include youtube.html id="zpnaHEbN0Wg&t" %}
+---
 
+# What you can export
 
-In Garage Hive, there are several customer notifications, such as MOT Reminders, Service Reminders & online booking confirmations. In the Customer Notification Setup you can change settings such as how reminders are received, you can customise the templates and adjust the times in which messages are sent. 
+Garage Hive allows you to export to your external accountancy package. 
 
-You can find Customer Notification by searching for **Customer Notification Setup.**
+You can export the following
 
-![](media/garagehive-customer-notification-setup.png)
+* Customer Invoices
+* Customer Credit Memos
+* Customer Payments
+* Customer Refunds
+* Customer Payments to account
+* Customer Refunds to account
+* Vendor Invoices
+* Vendor Credit memos
 
-## How to setup Customer Notifications
+**Please note, we currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system** 
 
-Each customer notification type has different setup, in this example we will focus on how to setup reminders. 
+# How to run the export 
 
-![](media/garagehive-customer-notification-setup-entries.png)
+To create an export, first you must ensure that you set up is complete, please contact a memeber of the team to assist you in the set up. Once the set up is complete you can run an export by searching for "Export to Accountancy System" 
 
-Each reminder requires you to setup the following.
-* **Type** - _Select the type of reminder you want to send._
-    * Disabled
-    * SMS
-    * Email
-    * SMS & Email
+![](media/garagehive-finance-accountancy-export.png)
 
-*  **Date Formula** - _This is where you state the time you wish to send the reminder before the due date._
-    * -1D _(1 Day before date)_
-    * -3D _(3 Days before date)_
-    * -1W _(1 Week before date)_
-    * -2W _(2 Weeks before date)_
-    * -1M _(1 Month before date)_
+Once you have opened the Export page, you have the ability to select from several options. 
 
-    **Please note, you must only type the "-1D" and it is essential you have a -(negative sign) before the formula.**
+* **Export Customer Invoices/Credit Memos** - This will export all of the Customer invoices/credit memos within the date range selected. 
+* **Export Customer Payments/Refunds** - This will export the Invoice payments/refunds, as well as payments to accounts within the date range selected
+* **Export Vendor Invoices/Credit Memos** - This will export all of the posted purchase orders/purchase invoices and the posted purchase return orders/purchase credit memos within the date range selected. 
+* **Export Type** - All or New. You can either export **ALL** of the documents within the date range or only the **NEW** documents. Selecting **NEW** will exclude any documents previously exported. This means it is **VITAL** that you keep all previous exported files safe as these can never be re-produced. Once a transaction has been exported it will be flagged and not exported again when using **NEW**
+* **Date From/To** Select your date range
 
-*  **SMS Text** - _This is where you create the message template the customer will receive via SMS._
+### Catalogs
 
-*  **Email Text** - _This is where you create the message template the customer will receive via Email._
+* **Export All Customers** - This will produce an export of every single customer in the system.
+* **Export All Vendors** - This will produce an export of every single vendor in the system. 
 
->Garage Hive will not send a reminder to a customer if they already have a booking made in the system for what the reminder is for. 
+![](media/garagehive-finance-accountancy-export-report.png)
 
-## How to write your message template
+Running the export will produce a zip file of the transactions and the customers/vendors related to the transactions. You can export Invoice/Credit memos, Customer Payments and Refunds and Vendor Invoices/Credit memos at the same time. 
 
-When creating your message template you can choose from the following field tags, these tags will change the message dynamically based on the customer information.
-
-* [CustName] 
-* [VehReg] 
-* [BookingDate] 
-* [BookingTime] 
-* [ServiceType] 
-* [Make] 
-* [Model] 
-* [MOTDueDate] 
-* [ServiceNextDate]
-
-Here is an example template]
-> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](https://docs.garagehive.co.uk/docs/ "A example URL") to book online or call us on 02031461163
-
-![](media/garagehive-customer-notification-setup-required.png)
-
-
-## How to preview and verify your template
-
-You have the ability to preview and verify the  notification template you have created.
-
-To do this, click "actions" in the ribbon, then select the message you wish to verify. 
-
-![](media/garagehive-customer-notification-setup-verify.png)
-
-Simply select the customer, vehicle or jobsheet you want to preview the message for, if you are happy with the message press OK. 
-
-![](media/garagehive-customer-notification-setup-fields.png)
-
-## How to view sent messages
-
-You can find Customer Notification Logs by searching for **Customer Notification Log Entries.**
-
-![](media/garagehive-customer-notification-log.png)
-
-Alternatively, customer communication logs can also be accessed from a jobsheet.
-
-![](media/garagehive-customer-notification-log-jobsheet.png)
+To understand how these transactions are imported into your accountancy software, please refer to their documentation. 
