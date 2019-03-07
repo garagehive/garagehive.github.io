@@ -4,7 +4,7 @@ title: Cash Receipt Journal
 ---
 # Cash Receipt Journals
 
-{% include youtube.html id="UHTlDVOgNNE&t" %}
+{% include youtube.html id="UHTlDVOgNNE" %}
 ---
 
 Cash Receipt journals allow the user to record payments against a customers account, typically these payments are recorded to account customers. To record a cash receipt journal, use the search functionality to find "Cash Receipt Journal
