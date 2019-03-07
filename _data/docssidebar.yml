@@ -23,7 +23,7 @@
     - name: Create an External Service
       url: /docs/garagehive-working-on-it.html
     - name: Create an Item Card
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-create-a-item-card.html
     - name: Create Resources
       url: /docs/garagehive-working-on-it.html
     - name: Create a Customer Card
