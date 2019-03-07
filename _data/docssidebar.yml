@@ -37,7 +37,7 @@
     - name: Adding Courtesy Cars to the Schedule
       url: /docs/garagehive-working-on-it.html
     - name: Setting up the TCard System
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
     - name: Setting up Reminders
