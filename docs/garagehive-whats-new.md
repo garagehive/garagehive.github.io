@@ -5,6 +5,15 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 8th March 2019
+* Added VHC Dataset to Web Services for reporting.
+* Added Checklist Dataset to Web Services for reporting.
+* Added Estimate Dataset to Web Services for reporting.
+* Added Reason Code (Reason for refusal) to VHCs for reporting.
+* Added Reason Code (Reason for refusal) to Estimates.
+* Added Status concept to Estimates, Awaiting Action, Awaiting Authorisation, Completed.
+* Added filter to Estimate tile, filters to Awaiting Action and Awaiting Authorisation.
+
 ### 7th March 2019
 
 * **Added Making Tax Digital functionality.**
