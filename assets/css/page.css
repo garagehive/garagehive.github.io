@@ -1460,19 +1460,19 @@ pre {
     -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.045);
             box-shadow: 0 0 40px rgba(0, 0, 0, 0.045); }
   .form-control::-webkit-input-placeholder {
-    color: #c9ccce;
+    color: #a4a5a7;
     opacity: 1; }
   .form-control::-moz-placeholder {
-    color: #c9ccce;
+    color: #a4a5a7;
     opacity: 1; }
   .form-control:-ms-input-placeholder {
-    color: #c9ccce;
+    color: #a4a5a7;
     opacity: 1; }
   .form-control::-ms-input-placeholder {
-    color: #c9ccce;
+    color: #a4a5a7;
     opacity: 1; }
   .form-control::placeholder {
-    color: #c9ccce;
+    color: #a4a5a7;
     opacity: 1; }
   .form-control:disabled, .form-control[readonly] {
     background-color: #e9ecef;
