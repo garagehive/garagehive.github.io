@@ -87,7 +87,9 @@
     - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Vehicle Health Checks
-      url: /docs/garagehive-VHC.html   
+      url: /docs/garagehive-VHC.html
+    - name: Internal Jobsheets
+      url: /docs/internal-jobsheet.html      
 - name: Technicians Operations
   url: "#"
   subitems:
