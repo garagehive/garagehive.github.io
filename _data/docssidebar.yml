@@ -89,7 +89,7 @@
     - name: Vehicle Health Checks
       url: /docs/garagehive-VHC.html
     - name: Internal Jobsheets
-      url: /docs/internal-jobsheet.html      
+      url: /docs/garagehive-internal-jobsheet.html      
 - name: Technicians Operations
   url: "#"
   subitems:
