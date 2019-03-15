@@ -27,7 +27,7 @@
     - name: Create Resources
       url: /docs/garagehive-working-on-it.html
     - name: Create a Customer Card
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-create-a-customer-card.html
     - name: Create a Vendor Card
       url: /docs/garagehive-working-on-it.html
     - name: Checklists
