@@ -112,20 +112,6 @@ This is your customer card now created.
 
  [Creating a Booking](https://docs.garagehive.co.uk/docs/garagehive-create-a-booking.html "Creating a Booking") 
 
- {% include youtube.html id="v=fvisei-6QOg" %}
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
+ {% include youtube.html id="fvisei-6QOg" %}
 
 
