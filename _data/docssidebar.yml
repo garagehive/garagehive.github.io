@@ -54,7 +54,7 @@
     - name: Create a Service Return Order
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-create-an-estimate.html
 - name: Purchasing
   url: "#"
   subitems:

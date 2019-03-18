@@ -96,13 +96,13 @@ You can set a specific customer payment terms within the customer card.
 
 ## GDPR AND COMMUNICATION POLICY 
 
-![](media/garagehive-create-a-customer-card8.png)
+![](media/garagehive-create-a-customer-card10.png)
 
 Within the GDPR and Communcation Policy section, you can tick off the customer's preferences for communcation. 
 
 Once the box for GDPR Consent Form signed box is ticked it will show YES on a jobsheet for this specific customer.  
 
-![](media/garagehive-create-a-customer-card9.png)
+![](media/garagehive-create-a-customer-card11.png)
 
 The customer card can be edited by selecting the Edit button within the Ribbon. 
 
@@ -111,6 +111,8 @@ This is your customer card now created.
 #   See Also
 
  [Creating a Booking](https://docs.garagehive.co.uk/docs/garagehive-create-a-booking.html "Creating a Booking") 
+
+ ####   How to apply special labour rates and discounts for customers or customer groups. 
 
  {% include youtube.html id="fvisei-6QOg" %}
 
