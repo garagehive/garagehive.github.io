@@ -21,21 +21,15 @@
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
     - name: Create an External Service
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-create-external-service.html
     - name: Create an Item Card
       url: /docs/garagehive-create-a-item-card.html
-    - name: Create Resources
-      url: /docs/garagehive-working-on-it.html
     - name: Create a Customer Card
       url: /docs/garagehive-create-a-customer-card.html
     - name: Create a Vendor Card
       url: /docs/garagehive-working-on-it.html
     - name: Checklists
       url: /docs/garagehive-checklist-how-to-create.html
-    - name: Setting up the Schedule
-      url: /docs/garagehive-working-on-it.html
-    - name: Adding Courtesy Cars to the Schedule
-      url: /docs/garagehive-working-on-it.html
     - name: Setting up the TCard System
       url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages
