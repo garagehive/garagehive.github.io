@@ -68,7 +68,7 @@
   url: "#"
   subitems:
     - name: Create New Items
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-create-a-item-card.html
     - name: Categorise Items
       url: /docs/garagehive-working-on-it.html
     - name: Item Pricing and Markups
