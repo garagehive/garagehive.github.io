@@ -55,7 +55,7 @@
     - name: Create a Purchase Order
       url: /docs/garagehive-create-a-purchase-order.html
     - name: Create a Purchase Invoice
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-create-a-purchase-invoice.html
     - name: Correct or Cancel a Purchase Invoice
       url: /docs/garagehive-correct-or-cancel-a-purchase-order.html
     - name: Combine Receipts on a Single Invoice
