@@ -105,7 +105,7 @@
   url: "#"
   subitems:
     - name: How To View Service History
-      url: /docs/garagehive-service-history.html
+      url: /docs/garagehive-how-to-view-service-history.html
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-working-on-it.html
     - name: Archive Documents
