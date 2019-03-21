@@ -73,6 +73,15 @@ They can also start a task within this screen as well as see details of the job.
 
 ![](media/garagehive-terminal-user8.png)
 
+# See Also
+[Device Users](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device Users")
+
+[Easy Clocking](https://docs.garagehive.co.uk/docs/garagehive-easy-clocking-.html "Easy Clocking")
+
+[How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection")
+
+
+
 
 
 
