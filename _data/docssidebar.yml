@@ -100,7 +100,7 @@
     - name: Reports
       url: /docs/garagehive-working-on-it.html
     - name: Terminal Users
-      url: /docs/garagehive-working-on-it.html   
+      url: /docs/garagehive-terminal-user.html   
 - name: General Functionality
   url: "#"
   subitems:
