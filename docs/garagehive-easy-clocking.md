@@ -42,10 +42,10 @@ Easy Clocking is where the Technician will work from the majority of the time. H
 
 Within each allocation the technician can also see: - 
 
-*   Extended Status Codes - i.e. Customer Waiting :raising_hand:/ Urgent :triangular_flag_on_post:/ Collection & Deliveries :house:
-*   Vehicle on Site - Yes :white_check_mark: / No :x:
-*   Key Number - :key:
-*   Required Time for Completion - :alarm_clock:
+*   Extended Status Codes - i.e. Customer Waiting 🙋‍/ Urgent 🚩/ Collection & Deliveries 🏠
+*   Vehicle on Site - Yes ✅ / No ❌
+*   Key Number - 🔑
+*   Required Time for Completion - ⏰
 
 ![](media/garagehive-easy-clocking4.png)
 
