@@ -5,6 +5,17 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 24th March 2019
+* Mileage Prompt for technicians when clocking off jobs without entering a mileage.
+* Added a Payment/Till Report that includes Cash Receipt Journals.
+* Added Customer Order Numbers to Customer Statements.
+* Added SMS capability to Posted Jobsheets.
+* Updated VHC Printout to include Authorised and Identified work totals.
+* Added Unposted Jobsheets to Web Services for reporting purposes.
+* Added Labour Group Codes to Web Services for reporting purposes
+* Improved Statement Layout.
+* Transitioned Garage Hive trial to Business Central platform.
+
 ### 8th March 2019
 * Added VHC Dataset to Web Services for reporting.
 * Added Checklist Dataset to Web Services for reporting.
