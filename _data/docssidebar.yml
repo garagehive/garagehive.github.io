@@ -88,7 +88,7 @@
   url: "#"
   subitems:
     - name: Device Users
-      url: /docs/garagehive-device-users.html
+      url: /docs/garagehive-device-user.html
     - name: Overview
       url: /docs/garagehive-working-on-it.html
     - name: Easy Clocking
