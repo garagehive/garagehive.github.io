@@ -83,24 +83,24 @@
     - name: Vehicle Health Checks
       url: /docs/garagehive-VHC.html
     - name: Internal Jobsheets
-      url: /docs/garagehive-internal-jobsheet.html      
+      url: /docs/garagehive-internal-jobsheet.html
+    - name: Vehicle Card Contents
+      url: /docs/garagehive-working-on-it.html      
 - name: Technicians Operations
   url: "#"
   subitems:
     - name: Device Users
       url: /docs/garagehive-device-user.html
-    - name: Overview
-      url: /docs/garagehive-working-on-it.html
     - name: Easy Clocking
       url: /docs/garagehive-easy-clocking.html
     - name: Jobsheets
       url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
-    - name: Reports
-      url: /docs/garagehive-working-on-it.html
     - name: Terminal Users
-      url: /docs/garagehive-terminal-user.html   
+      url: /docs/garagehive-terminal-user.html 
+    - name: Vehicle Card Contents
+      url: /docs/garagehive-working-on-it.html 
 - name: General Functionality
   url: "#"
   subitems:
@@ -125,6 +125,17 @@
       url: /docs/garagehive-working-on-it.html
     - name: Time Registration Entries
       url: /docs/garagehive-time-registration-entries.html
+- name: Garage Hive Demonstration 
+  url: "#"
+  subitems:
+    - name: How To Create a Booking 
+      url: /docs/garagehive-create-a-booking.html
+    - name: Create an Estimate
+      url: /docs/garagehive-create-an-estimate.html
+    - name: Device Users
+      url: /docs/garagehive-device-user.html
+    - name: Vehicle Inspections
+      url: /docs/garagehive-technicians-vehicle-inspections.html
 - name: Finance & Accountancy
   url: "#"
   subitems:
