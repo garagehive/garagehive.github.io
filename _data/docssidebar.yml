@@ -167,3 +167,10 @@
       url: /docs/garagehive-finance-reconcile-payments-auto-application.html
     - name: Setting Up Text-to-Account Mapping for Recurring Payments
       url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
+- name: FAQS
+  url: "#"
+  subitems:
+    - name: Common Error Messages
+      url: /docs/garagehive-common-errors.html
+    - name: Videos of Common Tasks
+      url: /docs/garagehive-video-of-common-tasks.html
