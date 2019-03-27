@@ -13,25 +13,43 @@ It is made up of several sub-headings.
 
 ### General 
 
+Basic information relating to the vehicle. This is produced by using the VRM lookup. 
+
 ![](media/garagehive-vehicle-card1.png)
 
 ### Planning & Reminders 
+
+MOT due date updated via VRM lookup. <br>
+Service due date entered manually after the vehicle has been in for a service. 
 
 ![](media/garagehive-vehicle-card2.png)
 
 ### Engine 
 
+This is a combination of information produced via VRM such as Engine No and Capacity. <br> 
+Manual updates to this section can be added such as Engine Oil Capacity and Engine Oil Specification. 
+
+This section can also be accessed and updated by a technician if they are a [Device User](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device User").
+
 ![](media/garagehive-vehicle-card3.png)
 
 ### Transmission 
+
+This is updated via VRM lookup. 
 
 ![](media/garagehive-vehicle-card4.png)
 
 ### Body & Features 
 
+You can update this section manually with information such as Radio/Immobiliser/Key Codes. 
+
 ![](media/garagehive-vehicle-card5.png)
 
 ### Tyre, Wheels & Brakes 
+
+This section is to be manually updated. You can specific where the locking wheel nut location is, including manufacturers minimum thickness specficiation for brakes. 
+
+This section can also be accessed and updated by a technician if they are a [Device User](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device User").
 
 ![](media/garagehive-vehicle-card6.png)
 
@@ -41,13 +59,17 @@ It is made up of several sub-headings.
 
 ### Classification
 
+This section is linked with the Autodata Repair times, if this section is not filled in, you will need to update the VRM details for access Repair times. 
+
 ![](media/garagehive-vehicle-card8.png)
 
 ### Contacts 
 
+This section shows the current owner linked with this vehicle. 
+
 ![](media/garagehive-vehicle-card9.png)
 
-Within the action bar there are also several further options: -  
+##  Within the action bar there are also several further options: -  
 
 ### Lookup 
 
