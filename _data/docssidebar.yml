@@ -85,7 +85,7 @@
     - name: Internal Jobsheets
       url: /docs/garagehive-internal-jobsheet.html
     - name: Vehicle Card Contents
-      url: /docs/garagehive-working-on-it.html      
+      url: /docs/garagehive-vehicle-card.html      
 - name: Technicians Operations
   url: "#"
   subitems:
@@ -97,10 +97,10 @@
       url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
-    - name: Terminal Users
+    - name: Terminal 
       url: /docs/garagehive-terminal-user.html 
     - name: Vehicle Card Contents
-      url: /docs/garagehive-working-on-it.html 
+      url: /docs/garagehive-vehicle-card.html 
 - name: General Functionality
   url: "#"
   subitems:
