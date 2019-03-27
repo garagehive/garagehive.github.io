@@ -1,5 +1,18 @@
 - name: Welcome to Garage Hive
   url: /docs/#
+- name: Garage Hive Demonstration 
+  url: "#"
+  subitems:
+    - name: Videos of Common Tasks
+      url: /docs/garagehive-video-of-common-tasks.html
+    - name: How To Create a Booking 
+      url: /docs/garagehive-create-a-booking.html
+    - name: Create an Estimate
+      url: /docs/garagehive-create-an-estimate.html
+    - name: Device Users
+      url: /docs/garagehive-device-user.html
+    - name: Vehicle Inspections
+      url: /docs/garagehive-technicians-vehicle-inspections.html
 - name: Getting started
   url: "#"
   subitems:
@@ -125,19 +138,21 @@
       url: /docs/garagehive-working-on-it.html
     - name: Time Registration Entries
       url: /docs/garagehive-time-registration-entries.html
-- name: Garage Hive Demonstration 
+- name: Posted & Archived Documents 
   url: "#"
   subitems:
-    - name: Videos of Common Tasks
-      url: /docs/garagehive-video-of-common-tasks.html
-    - name: How To Create a Booking 
-      url: /docs/garagehive-create-a-booking.html
-    - name: Create an Estimate
-      url: /docs/garagehive-create-an-estimate.html
-    - name: Device Users
-      url: /docs/garagehive-device-user.html
-    - name: Vehicle Inspections
-      url: /docs/garagehive-technicians-vehicle-inspections.html
+    - name: Posted Jobsheets 
+      url: /docs/garagehive-working-on-it.html
+    - name: Posted Invoices 
+      url: /docs/garagehive-working-on-it.html
+    - name: Posted Credit Memos 
+      url: /docs/garagehive-working-on-it.html
+    - name: Posted Receipts 
+      url: /docs/garagehive-working-on-it.html
+    - name: Posted Shipments 
+      url: /docs/garagehive-working-on-it.html
+    - name: Archived Documents 
+      url: /docs/garagehive-working-on-it.html
 - name: Finance & Accountancy
   url: "#"
   subitems:
