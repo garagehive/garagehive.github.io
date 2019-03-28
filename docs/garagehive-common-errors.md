@@ -42,5 +42,16 @@ You need to add the specific part number for this part onto the jobsheet.
 
 **NO-POST** - If you see NO-POST in an error message, this is generally because there is still a miscellaneous part on the purchase order. 
 
+![](media/garagehive-common-errors7.png)
+
+**Posting/Tax Point Date is Different** - The posting date is a different date from when you are trying to post the purchase order. 
+
+![](media/garagehive-common-errors8.png)
+
+**Posting/Tax Point Date not within range** - This will not allow you to proceed as you are trying to post the document in the past. 
+
+
+
+
 
 

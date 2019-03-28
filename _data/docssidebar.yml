@@ -62,6 +62,8 @@
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
       url: /docs/garagehive-create-an-estimate.html
+    - name: Posted & Archived Documentss
+      url: /docs/garagehive-posted-archived-documents.html
 - name: Purchasing
   url: "#"
   subitems:
@@ -77,6 +79,8 @@
       url: /docs/garagehive-create-external-service.html
     - name: Process Purchase Returns
       url: /docs/garagehive-shipped-items-purchase-return-order.html
+    - name: Posted & Archived Documentss
+      url: /docs/garagehive-posted-archived-documents.html
 - name: Inventory
   url: "#"
   subitems:
