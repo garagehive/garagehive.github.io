@@ -5,6 +5,7 @@ title: Device Users
 
 #   Device Users 
 
+{% include youtube.html id="FKGxkYSX8bs" %}
 
 ### What is a Device User?
 
