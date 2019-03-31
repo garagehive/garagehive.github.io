@@ -5,6 +5,8 @@ title: Easy Clocking Functionality
 
 #   Easy Clocking 
 
+{% include youtube.html id="FKGxkYSX8bs" %}
+
 Easy Clocking is where the Technician will work from the majority of the time. He will use Easy Clocking for most of his daily tasks such as: - 
 
 *   Clocking in/out of work. 
