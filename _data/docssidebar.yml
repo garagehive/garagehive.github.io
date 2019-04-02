@@ -3,6 +3,8 @@
 - name: Garage Hive Demonstration 
   url: "#"
   subitems:
+    - name: Videos of tasks to help you get started with Garage Hive 
+      url: /docs/garagehive-getting-started-videos.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
     - name: How To Create a Booking 
