@@ -5,6 +5,9 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 31st March 2019
+* Added customer Opt Out feature to reminders, allowing customers to manage their own communication preferences via a web link. 
+
 ### 24th March 2019
 * Mileage Prompt for technicians when clocking off jobs without entering a mileage.
 * Added a Payment/Till Report that includes Cash Receipt Journals.
