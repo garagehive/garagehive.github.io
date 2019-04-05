@@ -7,11 +7,11 @@ title: Video of Common Tasks.
 
 ### Get started with Service Schedule in Garage Hive.
 
-{% include youtube.html id="jvGXD4iEbwc" %}
+{% include youtube.html id="JSHb-4I0PCY" %}
 
 ### Create your first booking with Service Schedule in Garage Hive.
 
-{% include youtube.html id="i5-vRslgAFk" %}
+{% include youtube.html id="4bic2AH6Lrw" %}
 
 ### How to cancel and copy a posted document in Garage Hive. 
 
