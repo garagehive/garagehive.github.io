@@ -5,6 +5,8 @@
   subitems:
     - name: Getting Started Videos 
       url: /docs/garagehive-getting-started-videos.html
+    - name: Understanding the Schedule
+      url: /docs/garagehive-understanding-the-schedule.html  
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
     - name: How To Create a Booking 
