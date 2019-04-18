@@ -9,7 +9,7 @@ Within the Vehicle Health Check, you have the ability to deferred any advisory w
 
 You can offer your customer a follow up call for the advised work. 
 
-Once the date has been set within the Vehicle Health Check, 2 weeks prior to the agreed date it will appear in the tiles on the home screen. 
+Once the date has been set within the Vehicle Health Check, 2 weeks prior to the agreed date *(this period can be specified by you and does not need to be 2 weeks.)* it will appear in the tiles on the home screen. 
 
 ![](media/garagehive-vhc-reminder-date1.png)
 
@@ -23,7 +23,7 @@ This is where you select a follow up date according to when you believe the work
 
 ####    When the Reminder Date is coming up and or overdue 
 
-2 weeks prior to the reminder date the items selected will appear in the VHC Reminder - Upcoming Tile. 
+2 weeks *(this period can be specified by you and does not need to be 2 weeks.)* prior to the reminder date the items selected will appear in the VHC Reminder - Upcoming Tile. 
 
 After the date has passed, if the work has not been authorised or reminder date removed, the reminders will fall into the VHC - Reminder Overdue Tile. 
 
