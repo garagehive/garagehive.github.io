@@ -103,6 +103,8 @@
       url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Vehicle Health Checks
       url: /docs/garagehive-VHC.html
+    - name: Vehicle Health Checks - Deferred Work Reminders
+      url: /docs/garagehive-vhc-reminder-date.html
     - name: Internal Jobsheets
       url: /docs/garagehive-internal-jobsheet.html
     - name: Vehicle Card Contents
