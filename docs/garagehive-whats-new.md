@@ -5,6 +5,34 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 28th April 2019
+* Added the ability to authorise single lines from an estimate to be copied to an existing jobsheet.
+* Added two new tiles, Estimates awaiting action and Estimates awaiting authorisation. Completed Estimates will now be hidden from the homepage. 
+* Added "Document description" to Estimates and printed Estimates. The "Document Description" will also be added to the Jobsheet when an Estimate is converted to a Jobsheet. 
+* Added "Document description" to VHCs and printed VHCs. 
+* Added access to previous Vehicle Inspection from a related Jobsheet for the service advisor
+* Added "Collection and Delivery" tickbox to Jobsheets with the ability to add an icon to a schedule allocation. 
+* Added "Courtesy Vehicle Required" tickbox to Jobsheets with the ability to add an icon to a schedule allocation. 
+* Added the ability to categorise Jobsheets comments by types, comment types can also be hidden from technicians if neccesary. 
+* Added "Item Search Description" to fast lookup via a jobsheet
+* Added access to historic vehicle pictures from easy clocking for technicians
+* Added the ability to create a new inspection without being in a jobsheet for a technician
+* Added the ability to create multiple vehicle inspections via easy clocking for technicians
+* Added the ability to view historic vehicle inspections from easy clocking for technicians
+* Added a "Marketing Channel" to Jobsheets and customer cards for monitoring marketing activity. 
+
+* Released V2 of Garage Hives Power BI Reports
+* * Ability to record standard events such as break times as non-work time
+* * More reports made mobile friendly
+* * New Efficiency Reports
+* * Detailed Item Reports
+* * Detailed Labour Category Reports
+* * VHC Reports, Inspection rate, up-sell rate
+* * WIP & future booking reports
+* * Customer heatmaps
+* * Top customer reports
+* * Vehicle Make and Model Analysis reports
+
 ### 31st March 2019
 * Added customer Opt Out feature to reminders, allowing customers to manage their own communication preferences via a web link. 
 
