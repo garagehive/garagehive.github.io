@@ -11,60 +11,56 @@ Please follow these steps on how to reopen the jobsheet and correct.
 
 1. Find incorrect jobsheet and take a note of the number. 
 
-2.  Select Posted Documents in the Home Screen. 
+2.  Within the home screen select Posted & Archived Documents. 
 
-![](media/garagehive-jobsheet-incorrectpayment1.png)
+![](media/garagehive-jobsheet-incorrectpayment15.png)
 
-3.  Search for posted jobsheet and open. 
+3.  Select Posted Jobsheet. 
 
-![](media\garagehive-jobsheet-incorrectpayment2.png)
+![](media\garagehive-jobsheet-incorrectpayment16.png)
 
-4.  Select Cancel Document at the top of the page. 
+4.  Search for the relevant job, using the jobsheet number, registration number or customer name etc. 
 
-![](media\garagehive-jobsheet-incorrectpayment3.png)
+![](media\garagehive-jobsheet-incorrectpayment17.png)
 
-5.  Go back to the home screen. 
+5.  Select Process and then Cancel Document at the top of the page. 
 
-![](media\garagehive-jobsheet-incorrectpayment4.png)
+![](media\garagehive-jobsheet-incorrectpayment18.png)
 
-6.  Select Jobsheets. 
+6.  Go back to the home screen. 
 
-![](media\garagehive-jobsheet-incorrectpayment5.png)
+7.  Select Jobsheets and + New
 
-7.  Select Service Type within the jobsheet. 
+![](media\garagehive-jobsheet-incorrectpayment19.png)
 
-![](media\garagehive-jobsheet-incorrectpayment6.png)
+![](media\garagehive-jobsheet-incorrectpayment20.png)
 
-8.  Select Actions tab on the top of the page. 
+8.  Select relevant Service Type within the jobsheet. 
 
-![](media\garagehive-jobsheet-incorrectpayment7.png)
+![](media\garagehive-jobsheet-incorrectpayment21.png)
 
-9.  Choose Copy Document. 
+9.  Select Process followed by Copy Document. 
 
-![](media\garagehive-jobsheet-incorrectpayment.png)
+![](media\garagehive-jobsheet-incorrectpayment22.png)
 
-10.  In Document Type selected Posted Order. 
+11.  In Document Type selected Posted Order. 
 
-![](media\garagehive-jobsheet-incorrectpayment8.png)
+![](media\garagehive-jobsheet-incorrectpayment23.png)
 
-11. In Document No. input the original jobsheet number. 
+12. In Document No. input the original jobsheet number and select the "Include Header" box. 
 
-![](media\garagehive-jobsheet-incorrectpayment9.png)
+![](media\garagehive-jobsheet-incorrectpayment24.png)
 
-12. Place a tick in the "Include Header" box. 
+14. Select OK. 
 
-![](media\garagehive-jobsheet-incorrectpayment10.png)
+![](media\garagehive-jobsheet-incorrectpayment25.png)
 
-13. Select OK. 
+15. Select Payment/Posting followed by Take Payment.
 
-![](media\garagehive-jobsheet-incorrectpayment11.png)
+![](media\garagehive-jobsheet-incorrectpayment26.png)
 
-14. Select Home tab on the top of the page.
+16. You can now correct the payment method. 
 
-![](media\garagehive-jobsheet-incorrectpayment12.png)
-
-15. You can now go into Take Payment and correct the payment method. 
-
-![](media\garagehive-jobsheet-incorrectpayment13.png)
+![](media\garagehive-jobsheet-incorrectpayment27.png)
 
 ### THIS CAN ONLY BE DONE THIS WAY IF NOTICED ON THE DAY THE MISTAKE WAS MADE. UNLESS THE POSTING RESTRICTIONS ARE REMOVED. 
