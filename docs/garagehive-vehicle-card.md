@@ -5,15 +5,15 @@ title: Vehicle Card
 
 #   Vehicle Card 
 
-The Vehicle Card is made up with a combination of information from the VRM lookup and manual data. 
+The Vehicle Card is made up with a combination of information from the VRM lookup and manual data.
 
 It is very rare that a vehicle card would ever be made outside of creating it within a jobsheet/booking.
 
-It is made up of several sub-headings. 
+It is made up of several sub-headings.
 
 ### General 
 
-Basic information relating to the vehicle. This is produced by using the VRM lookup. 
+Basic information relating to the vehicle. This is produced by using the VRM lookup.
 
 ![](media/garagehive-vehicle-card1.png)
 
@@ -27,7 +27,7 @@ Service due date entered manually after the vehicle has been in for a service.
 ### Engine 
 
 This is a combination of information produced via VRM such as Engine No and Capacity. <br> 
-Manual updates to this section can be added such as Engine Oil Capacity and Engine Oil Specification. 
+Manual updates to this section can be added such as Engine Oil Capacity and Engine Oil Specification..
 
 This section can also be accessed and updated by a technician if they are a [Device User](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device User").
 
