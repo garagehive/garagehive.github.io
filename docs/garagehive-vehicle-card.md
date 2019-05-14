@@ -27,7 +27,7 @@ Service due date entered manually after the vehicle has been in for a service.
 ### Engine 
 
 This is a combination of information produced via VRM such as Engine No and Capacity. <br> 
-Manual updates to this section can be added such as Engine Oil Capacity and Engine Oil Specification..
+Manual updates to this section can be added such as Engine Oil Capacity and Engine Oil Specification.
 
 This section can also be accessed and updated by a technician if they are a [Device User](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device User").
 
