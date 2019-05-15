@@ -11,34 +11,36 @@ Firstly, if the credit note matches the parts within the purchase return order, 
 
 Alternatively, if the parts shipped come back on two different credit notes, use the following steps: - 
 
-*   From the home screen select the Purchase button within the *Ribbon*. 
+*   From the home screen select the **Purchasing** button followed by **Purchase Cr.Memos**. 
 
-![](media/garagehive-shipped-items-purchase-return-order1.png)
-
-*   Within the drop down box select **Purchase Cr. Memo.** 
-
-![](media/garagehive-shipped-items-purchase-return-order2.png)
+![](media/garagehive-shipped-items-purchase-return-order10.png)
 
 *   Select **+ new**
 
-![](media/garagehive-shipped-items-purchase-return-order3.png)
+![](media/garagehive-shipped-items-purchase-return-order11.png)
 
 *   Fill in Vendor Name. 
 
-![](media/garagehive-shipped-items-purchase-return-order4.png)
+![](media/garagehive-shipped-items-purchase-return-order12.png)
 
-*   Along the top of the *Ribbon* select the *Functions* tab followed by the **Get Return Shipment Lines**. 
+*   Within the Lines section of the Purchase Credit Memo, ensure **More Options** is selected. 
 
-![](media/garagehive-shipped-items-purchase-return-order5.png)
+*   Select **Functions** followed by **Get Return Shipment Lines**.  
 
-*   Find the relevant parts from the pop up box.<br> 
+![](media/garagehive-shipped-items-purchase-return-order13.png)
+
+*   Find the relevant parts from the pop up box and select **Ok**.<br> 
         -   Repeat this step for each item on the Vendor Invoice.
 
-![](media/garagehive-shipped-items-purchase-return-order6.png)
+![](media/garagehive-shipped-items-purchase-return-order14.png)
 
-*   Along the top of the *Ribbon* select the *Home* tab followed by the **Post** button. 
+*  This will add all the parts onto the Purchase Credit Memo. 
 
-![](media/garagehive-shipped-items-purchase-return-order7.png)
+![](media/garagehive-shipped-items-purchase-return-order15.png)
+
+*  Once you have all of the parts from the Credit Note from your supplier on the Purchase Credit Memo. Select **Posting** followed by **Post**.  
+
+![](media/garagehive-shipped-items-purchase-return-order16.png)
 
 *   You will then see a pop up asking "Do you want to post the credit memo"  -  **Select Yes**
 
@@ -46,7 +48,7 @@ Alternatively, if the parts shipped come back on two different credit notes, use
 
 *   Another pop up will appear - **Select No**
 
-![](media/garagehive-shipped-items-purchase-return-order9.png)
+![](media/garagehive-shipped-items-purchase-return-order17.png)
 
 
 
