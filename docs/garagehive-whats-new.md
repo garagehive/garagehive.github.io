@@ -6,10 +6,10 @@ title: What's New in Garage Hive
 Below is a brief list of Garage Hive developments
 
 ### 24th May 2019
-* Added a new method of applying payments to account customers - Register Customer Payments - [Video](https://youtu.be/rmfIFULOCKY "Register Customer Payments")
+* Added a new method of applying payments to customers - Register Customer Payments - [Video](https://youtu.be/rmfIFULOCKY "Register Customer Payments")
 * Fixed an error when printing "Posted Return Jobsheets"
 * Added vehicle inspections data to web services for reporting purposes
-* Add Estimate tiles to the "Service Financial Controller Role Centre"
+* Added Estimate tiles to the "Service Financial Controller" Role Centre
 * Added Vendor Columns to item lines of VHCs and Estimates, this information will copy to the Jobsheet
 * Introduced a warning for technicians when they attempt to clock off a jobsheet without all item/labour lines being confirmed by the technician [Video](https://youtu.be/jX21NVsKeZ4 "Technician Confirmed")
 * Added the ability for technicians to access the schedule via easy clocking if required
@@ -21,11 +21,11 @@ Below is a brief list of Garage Hive developments
 * Created a new role centre for Multi-location companies with additional multi-location features
 * Extended SMS capacity to 900 characters
 * Introduced Requisition worksheets & Stock control [Video](https://youtu.be/-RptpsLg2kk "Requisition Worksheets")
-* * Stock re-order points on an item number
-* * Generate a stock requirement report
-* * Auto-creation of purchase orders
-* * Considers future & current bookings
-* * Considers items already on order
+  * Stock re-order points on an item number
+  * Generate a stock requirement report
+  * Auto-creation of purchase orders
+  * Considers future & current bookings
+  * Considers items already on order
 
 ### 17th May 2019
 * Added ability to search by Make/Model/Engine code in Autodata Preview
@@ -52,16 +52,16 @@ Below is a brief list of Garage Hive developments
 * Added the ability to view historic vehicle inspections from easy clocking for technicians
 
 * Released V2 of Garage Hives Power BI Reports
-* * Ability to record standard events such as break times as non-work time
-* * More reports made mobile friendly
-* * New Efficiency Reports
-* * Detailed Item Reports
-* * Detailed Labour Category Reports
-* * VHC Reports, Inspection rate, up-sell rate
-* * WIP & future booking reports
-* * Customer heatmaps
-* * Top customer reports
-* * Vehicle Make and Model Analysis reports
+  * Ability to record standard events such as break times as non-work time
+  * More reports made mobile friendly
+  * New Efficiency Reports
+  * Detailed Item Reports
+  * Detailed Labour Category Reports
+  * VHC Reports, Inspection rate, up-sell rate
+  * WIP & future booking reports
+  * Customer heatmaps
+  * Top customer reports
+  * Vehicle Make and Model Analysis reports
 
 ### 14th April 2019
 
