@@ -5,6 +5,40 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 24th May 2019
+* Added a new method of applying payments to account customers - Register Customer Payments - [Video](https://youtu.be/rmfIFULOCKY "Register Customer Payments")
+* Fixed an error when printing "Posted Return Jobsheets"
+* Added vehicle inspections data to web services for reporting purposes
+* Add Estimate tiles to the "Service Financial Controller Role Centre"
+* Added Vendor Columns to item lines of VHCs and Estimates, this information will copy to the Jobsheet
+* Introduced a warning for technicians when they attempt to clock off a jobsheet without all item/labour lines being confirmed by the technician [Video](https://youtu.be/jX21NVsKeZ4 "Technician Confirmed")
+* Added the ability for technicians to access the schedule via easy clocking if required
+* Added Customer GDPR Preferences to vehicle lists for data export
+* "Stock out warning" won't be given on the item line if the item card has "stockout warning" unticked
+* Added "Price Calculator" to Estimates
+* The Booking version of the jobsheet now has all the features of a standard jobsheet
+* Added a "refund" option to return jobsheets
+* Created a new role centre for Multi-location companies with additional multi-location features
+* Extended SMS capacity to 900 characters
+* Introduced Requisition worksheets & Stock control [Video](https://youtu.be/-RptpsLg2kk "Requisition Worksheets")
+* * Stock re-order points on an item number
+* * Generate a stock requirement report
+* * Auto-creation of purchase orders
+* * Considers future & current bookings
+* * Considers items already on order
+
+### 17th May 2019
+* Added ability to search by Make/Model/Engine code in Autodata Preview
+* Added a stock warning to Jobsheet item lines when available stock is 0
+* Mileage now transfers from jobsheets, to inspection & VHCs
+* Added a feature that allows you to copy from comments to work description
+* Add fuel information into the Factbox
+
+### 7th May 2019
+* Added ability to copy grouped items and compressed service packages from VHCs and Estimates to Jobsheets
+* Added access to items from the services advisors role centre on mobile & tablet devices
+* Added the ability to update the customer card from the Jobsheet when changing address details
+
 ### 28th April 2019
 * Added MOT/Service Due Date & Customer Phone/Email/Address details to Vehicle lists. 
 * Added the ability to authorise single lines from an estimate to be copied to an existing jobsheet.
