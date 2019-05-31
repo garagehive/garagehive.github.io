@@ -5,6 +5,20 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 31st May 2019
+* Improved the send SMS interface
+* Added the ability to attach documents such as PDFs to the following; 
+  * Job sheets
+  * Return Job sheets
+  * Estimates
+  * VHCs
+  * Posted Job sheets
+  * Posted Return Job sheets
+  * Archived Job sheets
+  * Archived Estimates
+  * Archived VHCs
+* Added an option to remove the booking time from the customer notification booking reminders
+
 ### 24th May 2019
 * Added a new method of applying payments to customers - Register Customer Payments - [Video](https://youtu.be/rmfIFULOCKY "Register Customer Payments")
 * Fixed an error when printing "Posted Return Jobsheets"
@@ -27,17 +41,21 @@ Below is a brief list of Garage Hive developments
   * Considers future & current bookings
   * Considers items already on order
 
+* Added Quickbooks Integration ![](media/garagehive-qb.png)
+
 ### 17th May 2019
 * Added ability to search by Make/Model/Engine code in Autodata Preview
 * Added a stock warning to Jobsheet item lines when available stock is 0
 * Mileage now transfers from jobsheets, to inspection & VHCs
 * Added a feature that allows you to copy from comments to work description
-* Add fuel information into the Factbox
+* Added fuel information into the Factbox
 
 ### 7th May 2019
 * Added ability to copy grouped items and compressed service packages from VHCs and Estimates to Jobsheets
 * Added access to items from the services advisors role centre on mobile & tablet devices
 * Added the ability to update the customer card from the Jobsheet when changing address details
+* Create a new role centre - Service Financial Controller
+* Added Xero Integration use Xero's API ![](media/garagehive-xero.png)
 
 ### 28th April 2019
 * Added MOT/Service Due Date & Customer Phone/Email/Address details to Vehicle lists. 
