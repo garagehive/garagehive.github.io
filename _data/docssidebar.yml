@@ -28,10 +28,6 @@
       url: /docs/garagehive-faqs.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
-    - name: Everyday Operations
-      url: /docs/garagehive-working-on-it.html
-    - name: User Roles
-      url: /docs/garagehive-working-on-it.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
@@ -92,15 +88,11 @@
   subitems:
     - name: Create New Items
       url: /docs/garagehive-create-a-item-card.html
-    - name: Categorise Items
-      url: /docs/garagehive-working-on-it.html
-    - name: Item Pricing and Markups
+    - name: How to set retail prices, margins & markups
       url: /docs/garagehive-item-pricing-markup.html
 - name: Workshop Operations
   url: "#"
   subitems:
-    - name: Scheduling Work
-      url: /docs/garagehive-working-on-it.html
     - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Vehicle Health Checks
@@ -118,9 +110,7 @@
       url: /docs/garagehive-device-user.html
     - name: Easy Clocking
       url: /docs/garagehive-easy-clocking.html
-    - name: Jobsheets
-      url: /docs/garagehive-working-on-it.html
-    - name: Vehicle Inspections
+      - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Terminal 
       url: /docs/garagehive-terminal-user.html 
@@ -134,7 +124,7 @@
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-working-on-it.html
     - name: Archive Documents
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-posted-archived-documents.html
 - name: End of Day Process
   url: "#"
   subitems:
@@ -146,23 +136,13 @@
       url: /docs/garagehive-summary-report.html
     - name: Items to Return
       url: /docs/garagehive-items-to-return.html
-    - name: Resource Attendance
-      url: /docs/garagehive-working-on-it.html
     - name: Time Registration Entries
       url: /docs/garagehive-time-registration-entries.html
 - name: Posted & Archived Documents 
   url: "#"
   subitems:
-    - name: Posted Jobsheets 
-      url: /docs/garagehive-working-on-it.html
-    - name: Posted Invoices 
-      url: /docs/garagehive-working-on-it.html
-    - name: Posted Credit Memos 
-      url: /docs/garagehive-working-on-it.html
-    - name: Posted Receipts 
-      url: /docs/garagehive-working-on-it.html
-    - name: Posted Shipments 
-      url: /docs/garagehive-working-on-it.html
+    - name: Posted Documents 
+      url: /docs/garagehive-posted-archived-documents.html      
     - name: Archived Documents 
       url: /docs/garagehive-archived-documents.html
 - name: Finance & Accountancy
