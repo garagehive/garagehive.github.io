@@ -95,7 +95,7 @@
     - name: Categorise Items
       url: /docs/garagehive-working-on-it.html
     - name: Item Pricing and Markups
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-item-pricing-markup.html
 - name: Workshop Operations
   url: "#"
   subitems:
