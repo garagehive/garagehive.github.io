@@ -3,7 +3,7 @@ layout: docs
 title: Taking a Payment and Posting a Jobsheet
 ---
 
-####    How to take a payment and invoice a jobsheet. 
+#    How to take a payment and invoice a jobsheet. 
 
  When the job has been completed and the financial information is correct. You now need to take a payment (if not an account customer or had any payment terms set) and post the jobsheet. 
 
