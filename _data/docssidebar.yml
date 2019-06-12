@@ -148,16 +148,6 @@
 - name: Finance & Accountancy
   url: "#"
   subitems:
-    - name: Managing Receivables
-      url: /docs/garagehive-working-on-it.html
-    - name: Managing Payables
-      url: /docs/garagehive-working-on-it.html
-    - name: Managing Bank Accounts
-      url: /docs/garagehive-working-on-it.html
-    - name: VAT
-      url: /docs/garagehive-working-on-it.html
-    - name: Chart of Accounts
-      url: /docs/garagehive-working-on-it.html
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
     - name: Cash Receipt Journals

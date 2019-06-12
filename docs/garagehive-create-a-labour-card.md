@@ -11,13 +11,11 @@ title: Create a Labour Card
 
 #### *Labour Cards can also be used to build Service Packages.*  
 
-*   Select Catalogues in the Home Screen.
+*   Select Catalogues followed by Labours in the Home Screen.
 
     ![](media/garagehive-create-a-labour-card1.png)
     
-a.  Select Labours
-
-b.  Select Create + new
+*  Select **+ New**
 
 ![](media/garagehive-create-a-labour-card2.png)
 
@@ -79,6 +77,8 @@ J.  **VAT Prod. Posting Group** - These are pre-defined fields to select from. <
 Please note that the majority of the time this should be set up as **STANDARD**. 
 
 *   Select the Navigate Tab 
+
+*   Select the Labour Tab    
 
 *   Followed by ***Standard Times***
 
