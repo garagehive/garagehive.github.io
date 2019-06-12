@@ -35,7 +35,7 @@ title: Summary Report
     -	Productivity Efficiency %
     -	Recovery Rate 
 
-**Ensure all technicians are clocked off work prior to running this report otherwise some technician figures may not be accurate.**
+**Ensure all technicians are clocked off work prior to running this report otherwise some technician's figures may not be accurate.**
 
 ![](media/garagehive-summary-report1.png)
 
