@@ -11,11 +11,11 @@ title: Summary Report
 
 *   Select Summary Report.
 
-![](media/garagehive-end-of-day6.png)
+![](media/garagehive-end-of-day16.png)
 
 *   Complete Location Code/Start and End Dates and Press Print. 
 
-![](media/garagehive-end-of-day7.png)
+![](media/garagehive-end-of-day17.png)
 
 ***This has produced your Summary report. This will show several figure for the date range you selected.***
 
