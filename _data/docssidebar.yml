@@ -60,7 +60,7 @@
       url: /docs/garagehive-jobsheet-taking-payment.html
     - name: Correcting an Incorrect Payment
       url: /docs/garagehive-jobsheet-incorrectpayment.html
-    - name: Create a Service Return Order
+    - name: Create a Return Jobsheet
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
       url: /docs/garagehive-create-an-estimate.html
