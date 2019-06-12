@@ -7,6 +7,7 @@ title: How to perform in Vehicle Inspection Checklist
 {% include youtube.html id="BBjOZrxbzPs" %}
 
 
+
 A Vehicle Inspection Checklist can either be pre-assigned to a jobsheet by a Service Advisor, or it can be created by a Technician. To create a new inspection or open an existing inspection, open the menu from the jobsheet and select "Show Vehicle Inspection." 
 
 ![](media/garagehive-technician-vehicleinspection.png)
