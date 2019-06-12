@@ -8,18 +8,15 @@ title: Create a Item Card.
 
 *   Select Catalogues in the Home Screen. 
 
+*   Followed by Items 
+
+*   Choose **+ New**    
+
 ![](media/garagehive-create-a-item-card1.png)
-
-A.  Select Items 
-
-B.  Select Create +new 
-
-
-![](media/garagehive-create-a-item-card2.png)
 
 *   Select most relevant template for the item you wish to create. *This will pre select the item category within the item card.*
 
-![](media/garagehive-create-a-item-card3.png)
+![](media/garagehive-create-a-item-card2.png)
 
 #   You will now be able to start building the Item Card. 
 ####   The item card is split down into several Sub-Categories 
