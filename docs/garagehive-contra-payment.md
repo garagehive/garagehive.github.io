@@ -42,7 +42,7 @@ The Journal only needs the following information entering.
 * Amount
 * Applies-To Doc. No. 
 
-Please note, the values are not likely to match, you must adjust the higher value down to match otherwise the journal won't balance. The below journal results in the customer and vendor balances reducing by £500, leaving the remaining balance to be phyiscally paid. 
+Please note, the values are not likely to match, you must adjust the higher value down to match otherwise the journal won't balance. The below journal results in the customer and vendor balances reducing by £500, leaving the remaining balance to be physically paid. Once you are happy with journal, select process and Post. 
 
 ![](media/garagehive-document-contra.png)
 
