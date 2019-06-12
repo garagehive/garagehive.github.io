@@ -49,13 +49,10 @@ C.  **Subtype** - Select **"Standard"**
 
 D.  **Name** - This will be the name you want this specific container to be called. 
 
-E.  **Enabled** - Tick the Enabled box. 
+E.  **Enabled** - Tick the Enabled box. .
 
 F.  **Container Colour** - Choose your required container colour.  
 
 G.  **Container Size** - You can choose the size you wish the container to be or customize to the required size. 
-
-
-
 
 
