@@ -17,17 +17,17 @@ The TCard Planner is a flexible tool and can a used for managing several aspects
 
  ###    Setting up the TCard Planner
  
- *  Front the Home Screen select TCard Planner from within the Ribbon   
+ *  Front the Home Screen select TCard Planner.    
 
  ![](media/garagehive-t-card-planner1.png)
 
- A. Select the Actions Tab. 
+*   Select the Actions Tab followed by the Planner button. 
 
- B. Select Configuration Mode. (*this will now allow you to add/remove or personalise "Containers"*)
-
-C.  Select Create New Container if you want to add to standard containers. 
+*   Select Configuration Mode. (*this will now allow you to add/remove or personalise "Containers"*)
 
 ![](media/garagehive-t-card-planner2.png)
+
+*   Select Create New Container if you want to add to standard containers. 
 
 ![](media/garagehive-t-card-planner3.png)
 
