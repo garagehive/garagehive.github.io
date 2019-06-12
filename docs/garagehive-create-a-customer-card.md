@@ -9,13 +9,17 @@ A customer card can be made in several ways.
 
 Either from the home screen or when [Creating a Booking](https://docs.garagehive.co.uk/docs/garagehive-create-a-booking.html "Creating a Booking") for a new customer. 
 
+From the home screen 
+
+*   Select Service 
+
+*   Followed by Customers 
+
+*   Then choose **+ New**
+
 ![](media/garagehive-create-a-customer-card1.png)
 
-Then Select + new 
-
-![](media/garagehive-create-a-customer-card2.png)
-
-#   You will not be able to start building the Customer Card. 
+#   You will now be able to start building the Customer Card. 
 
 ####    The Customer Card is split down into several sub-categories. 
 
@@ -39,11 +43,11 @@ F.  **Show less/more**
 
 ![](media/garagehive-create-a-customer-card4.png)
 
-A.  **Lookup Address** - Select Lookup Address button within the ribbon. 
+A.  **Lookup Address** - Either select Lookup Address from postcode text within the Customer Card or fill in the postcode within the Customer Card and press the tab button on your keyboard.  
 
 B.  **Postcode** - Complete Postcode. 
 
-C.  **Building No.** - You can either put the building no. in or leave this blank. <br>*If you leave this blank it will show all addresses within that postcode.** 
+Choose the relevant address from the list. 
 
 ![](media/garagehive-create-a-customer-card5.png)
 
