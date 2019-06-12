@@ -8,7 +8,7 @@ title: How to use Checklists in Garage Hive
 
 Checklists offer the ability to create an inspection sheet/checklist for all areas of your business. For example, a vehicle inspection is a type of checklist. 
 
-![](media/garagehive-checklists-example.png)
+![](media/garagehive-checklists-example1.png)
 
 Checklists have the following structure 
 
@@ -24,23 +24,25 @@ A questionnaire template is considered the header of the Checklist, each questio
 
 **Question Groups** are where you enter your checklist questions, a question group for example could be about "tyres" and could consist of a traffic light system and check boxes like the example below. 
 
-![](media/garagehive-checklists-group-example.png)
+![](media/garagehive-checklists-group-example1.png)
 
 **Question groups** can be linked to multiple **Questionnaire Templates**, for example a **Tyre Question Group** could belong in the **Full Service Questionnaire Template** and the **Interim Service Questionnaire Template**. 
 
 ## How to create a checklist
 
-From the home screen, press the down arrow and select **Checklists**
+From the home screen, click on the bulb on the top right hand corner
 
-![](media/garagehive-checklists-how-to-create-menu.png)
+Type in the search box Question Templates 
 
-Start by creating a new questionnaire template, the questionnaire template will be the description of your checklist that you select from when deciding which checklist to complete as a technician. You will be linking Question Groups to your Questionnaire Templates using the "Linked Question Groups" in the action bar. Before you do this, you must create your Question Groups
+![](media/garagehive-checklists-how-to-create-menu1.png)
 
-![](media/garagehive-checklists-questionnaire-templates.png)
+Start by creating a new questionnaire template, the questionnaire template will be the description of your checklist that you select from when deciding which checklist to complete as a technician. You will be linking Question Groups to your Questionnaire Templates using the "Linked Question Groups". Before you do this, you must create your Question Groups
+
+![](media/garagehive-checklists-questionnaire-templates1.png)
 
 Now you need to create some Question Groups to link with your Questionnaire Template. 
 
-![](media/garagehive-checklists-questiongroups.png)
+![](media/garagehive-checklists-questiongroups1.png)
 
 There are several things you must do when creating a new Question Group. To do this select Question Groups from the menu and press "+New" 
 
@@ -55,19 +57,23 @@ There are several things you must do when creating a new Question Group. To do t
 * **Default Value** You can populate a field with a default value to determine which radio button is pre-ticked
 * **Attention If Has Value** Ticking this box will allow the Advisor to see from the list of checklists if any particular checklist requires attention. Any entry on a line with this ticked will flag a checklist. 
 
-![](media/garagehive-checklists-example-setup.png)
+![](media/garagehive-checklists-example-setup1.png)
 
-The above example of a **Question Group** setup will result in the checklist example below. Select the "New Line from Template" button in the action bar to use some of the preset examples. 
+*   Then select Questions
+
+![](media/garagehive-checklists-example-setup2.png)
+
+The above example of a **Question Group** setup will result in the checklist example below. Select the "New Line from Template" button within the Process button along the action bar to use some of the preset examples. 
 
 ![](media/garagehive-checklists-setup-questions.png)
 
-In order to complete your setup, you need to link your **Question Group** to your **Questionnaire Templates**. do to this, go to the **Questionnaire Templates** menu and select the **Questionnaire Template** and press "Linked Question Groups" in the action bar. 
+In order to complete your setup, you need to link your **Question Group** to your **Questionnaire Templates**. do to this, go to the **Questionnaire Templates** menu and select the **Questionnaire Template** and press "Linked Question Groups". 
 
-![](media/garagehive-checklists-questionnaire-templates-linked-groups.png)
+![](media/garagehive-checklists-questionnaire-templates-linked-groups1.png)
 
 Select the Questionnaire Template Code, then select a Question Group Code. Finally, add a Sorting No. to determine the order in which the Question Groups appear on the checklist. 
 
-![](media/garagehive-checklists-questionary-template-question-groups.png)
+![](media/garagehive-checklists-questionary-template-question-groups1.png)
 
 Once you have done this, your checklist is ready to preview. Simply create a Vehicle Inspection from the checklist menu and select the new checklist you have created to preview it. 
 
