@@ -164,7 +164,7 @@
   subitems:
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
-    - name: Cash Receipt Journals
+    - name: Cash Receipt Journals & Registering Customer Payments
       url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: How to Print Statements
       url: /docs/garagehive-statements-how-to-print.html
