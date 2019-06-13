@@ -60,6 +60,8 @@
       url: /docs/garagehive-scheduling-work.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
+    - name: How to Group Item Lines on a Jobsheet and Invoice
+      url: /docs/garagehive-grouping.html
     - name: Correcting an Incorrect Payment
       url: /docs/garagehive-jobsheet-incorrectpayment.html
     - name: Create a Return Jobsheet
