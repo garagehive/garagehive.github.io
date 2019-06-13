@@ -5,9 +5,9 @@ title: Correct or Cancel a Purchase Invoice.
 
 #   Correct or Cancel a Purchase Invoice.
 
+{% include youtube.html id="klNMViU-6Ls" %}
+
 If you have posted a purchase order for the incorrect amount or to the incorrect Vendor, you can cancel the purchase order by following the steps below: - 
-
-
 
 Within the Home Screen select **Posted & Archived Documents**
 
