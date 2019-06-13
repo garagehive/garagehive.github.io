@@ -56,6 +56,8 @@
       url: /docs/garagehive-create-a-booking.html
     - name: Create a Jobsheet
       url: /docs/garagehive-jobsheet-create.html
+    - name: Scheduling Work 
+      url: /docs/garagehive-scheduling-work.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
     - name: Correcting an Incorrect Payment
@@ -88,6 +90,8 @@
   subitems:
     - name: Create New Items
       url: /docs/garagehive-create-a-item-card.html
+    - name: Setting Up Requisition Worksheet for Re-ordering Items
+      url: /docs/garagehive-requisition-worksheet.html
     - name: How to carry out Stock Adjustments
       url: /docs/garagehive-stock-adjustments.html
     - name: How to set retail prices, margins & markups
@@ -121,6 +125,8 @@
 - name: General Functionality
   url: "#"
   subitems:
+    - name: How to Use the Schedule 
+      url: /docs/garagehive-scheduling-work.html
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
     - name: How to Export Customer and Vehicle Information
