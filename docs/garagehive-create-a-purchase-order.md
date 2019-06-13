@@ -5,6 +5,8 @@ title: Create a Purchase Order
 
 # Create a Purchase Order
 
+{% include youtube.html id="CxgRuv8eTT4" %}
+
 There are 2 ways of creating a purchase order, either directly from a jobsheet or from the home screen and link to jobsheet if required.   
 
 ##### First Method Creating a Purchase Order direct from a jobsheet. 

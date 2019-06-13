@@ -7,6 +7,8 @@ title: Create a Purchase Invoice
 
 ### Why Purchase Invoice and not Purchase Order?  
 
+{% include youtube.html id="cRcPX7F5AvU" %}
+
 Purchase Invoices are used when you do not require the item which is being purchased to be linked with a jobsheet. 
 
 i.e. A workshop tool, via a Purchase Invoice this can be posted directly to the relevant G/L Account.  
