@@ -4,6 +4,9 @@ title: Creating a new Jobsheet
 ---
 
 # Creating a new Jobsheet
+
+{% include youtube.html id="4bic2AH6Lrw" %}
+
 Jobsheet can be created from multiple places:
 1. From MOT
 2. From VHC

@@ -5,6 +5,8 @@ title: Creating a booking from the Schedule
 
 # Creating a booking from the Schedule
 
+{% include youtube.html id="4bic2AH6Lrw" %}
+
 1. Select relevant day for booking
 
 ![](media/garagehive-create-a-booking1.png)
