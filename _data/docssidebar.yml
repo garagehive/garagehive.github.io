@@ -92,6 +92,8 @@
   subitems:
     - name: Create New Items
       url: /docs/garagehive-create-a-item-card.html
+    - name: How to setup Non Inventory Items 
+      url: /docs/garagehive-non-inventory.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
       url: /docs/garagehive-requisition-worksheet.html
     - name: How to carry out Stock Adjustments
