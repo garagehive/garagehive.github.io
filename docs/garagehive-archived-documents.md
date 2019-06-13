@@ -5,6 +5,8 @@ title: Archived Documents
 
 #   Archived Documents 
 
+{% include youtube.html id="mFmimPCl9ns" %}
+
 Whenever a document is deleted, this is not gone forever. It is placed into the relevant archived file. 
 
 You can archive sales and purchase orders, quotes, return orders, and blanket orders, and you can use the archived document to restore the document that it was archived from.
