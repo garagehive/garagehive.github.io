@@ -123,6 +123,10 @@
   subitems:
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
+    - name: How to Export Customer and Vehicle Information
+      url: /docs/garagehive-export-customer-vehicle-info.html
+    - name: How to Filter Lists 
+      url: /docs/garagehive-filter-lists.html
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-working-on-it.html
     - name: Archive Documents
