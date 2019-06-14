@@ -2,13 +2,9 @@
 layout: docs
 title: Xero API Integration
 ---
-![](media/garagehive-xero.png)
-
+{% include youtube.html id="WhGdR_xz9xo" %}
 
 # What you can export via the Xero API
-
-{% include youtube.html id="WhGdR_xz9xo" %}
----
 
 Garage Hive allows you to export your data to Xero via an API. 
 
