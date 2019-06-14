@@ -17,7 +17,7 @@ You can export the following
 * Vendor Invoices
 * Vendor Credit memos
 
-**Please note, we currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system** 
+**Please note, we currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system**
 
 # Initial Setup
 
