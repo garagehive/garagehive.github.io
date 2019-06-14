@@ -6,7 +6,7 @@ title: What are resource time registration entries and how can I change them?
 
 To find your resource time registration entries please search for "Resource Time Reg. Entries"
 
-![](media/garagehive-time-reg-entries-search.png)
+![](media/garagehive-time-reg-entries-search1.png)
 
 Resource time registration entries is the table that holds all the information about your technicians clocking activity. Our reporting software will use this table to determine your technicians efficiencies and attendance.
 
@@ -21,9 +21,9 @@ The following records are stored here
 **It is highly recommend that you filter the columns to specific days and resources to help view and modify the information, you can do this by right clicking on the header of a column and selecting "filter"**
 
 
-![](media/garagehive-time-reg-entries.png)
+![](media/garagehive-time-reg-entries2.png)
 
-This information can be modified using the "Modify Date/Time" button in the ribbon, please note you can only modify existing entries, you can't delete existing or add new entries manually. 
+This information can be modified by selecting **Process** followed by the **Modify Date/Time** button in the Actions Bar, please note you can only modify existing entries, you can't delete existing or add new entries manually. 
 
 # How to modify a time registration entry
 

@@ -4,6 +4,8 @@ title: How to Print Customer Statements
 ---
 # How to Print Statements
 
+{% include youtube.html id="CTPgZKoyjec" %}
+
 You can print or email statements to customers.
 
 ![](media/garagehive-statements-how-to-print.png)

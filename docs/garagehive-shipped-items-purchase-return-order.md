@@ -5,6 +5,8 @@ title: Creating a Purchase Credit Memo when Parts have been shipped and credit n
 
 #   Creating a Purchase Credit Memo when Parts have been shipped and credit note does not match Purchase Return Order.   
 
+{% include youtube.html id="oUn3xFJxwdc" %}
+
 There are several ways in which to post a purchase return order after the parts have been shipped. 
 
 Firstly, if the credit note matches the parts within the purchase return order, you can simply, Post, Ship and Invoice. 

@@ -5,6 +5,8 @@ title: Creating a booking from the Schedule
 
 # Creating a booking from the Schedule
 
+{% include youtube.html id="4bic2AH6Lrw" %}
+
 1. Select relevant day for booking
 
 ![](media/garagehive-create-a-booking1.png)
@@ -42,7 +44,7 @@ Drag and drop for length of time for booking required. <br> Select required allo
 
 6. Fill in this section with as much information as you require (Use Lookup Address Action in the ribbon for postcode search).
 
-![](media/garagehive-create-a-booking9.png)
+![](media/garagehive-create-a-customer-card4.png)
 
 7.	 Fill in comments box with any information the customer has supplied regarding the job. (Top line is the line the technician will see against their tasks prior to opening the job card. Put most relevant information in this line).
 

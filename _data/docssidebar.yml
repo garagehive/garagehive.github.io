@@ -56,8 +56,12 @@
       url: /docs/garagehive-create-a-booking.html
     - name: Create a Jobsheet
       url: /docs/garagehive-jobsheet-create.html
+    - name: Scheduling Work 
+      url: /docs/garagehive-scheduling-work.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
+    - name: How to Group Item Lines on a Jobsheet and Invoice
+      url: /docs/garagehive-grouping.html
     - name: Correcting an Incorrect Payment
       url: /docs/garagehive-jobsheet-incorrectpayment.html
     - name: Create a Return Jobsheet
@@ -88,6 +92,12 @@
   subitems:
     - name: Create New Items
       url: /docs/garagehive-create-a-item-card.html
+    - name: How to setup Non Inventory Items 
+      url: /docs/garagehive-non-inventory.html
+    - name: Setting Up Requisition Worksheet for Re-ordering Items
+      url: /docs/garagehive-requisition-worksheet.html
+    - name: How to carry out Stock Adjustments
+      url: /docs/garagehive-stock-adjustments.html
     - name: How to set retail prices, margins & markups
       url: /docs/garagehive-item-pricing-markup.html
 - name: Workshop Operations
@@ -119,8 +129,14 @@
 - name: General Functionality
   url: "#"
   subitems:
+    - name: How to Use the Schedule 
+      url: /docs/garagehive-scheduling-work.html
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
+    - name: How to Export Customer and Vehicle Information
+      url: /docs/garagehive-export-customer-vehicle-info.html
+    - name: How to Filter Lists 
+      url: /docs/garagehive-filter-lists.html
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-working-on-it.html
     - name: Archive Documents
@@ -150,9 +166,9 @@
   subitems:
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
-    - name: How to Export to Xero
+    - name: Xero Integration
       url: /docs/garagehive-finance-accountancy-export-xero.html
-    - name: Cash Receipt Journals
+    - name: Cash Receipt Journals & Registering Customer Payments
       url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: How to Print Statements
       url: /docs/garagehive-statements-how-to-print.html
