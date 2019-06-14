@@ -150,6 +150,8 @@
   subitems:
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
+    - name: How to Export to Xero
+      url: /docs/garagehive-finance-accountancy-export-xero.html
     - name: Cash Receipt Journals
       url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: How to Print Statements
