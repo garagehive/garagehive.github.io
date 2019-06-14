@@ -1,9 +1,7 @@
 ---
 layout: docs
-title: External Accountancy Export
+title: Xero API Integration
 ---
-# Xero API Intergration.
-
 ![](media/garagehive-xero.png)
 
 
