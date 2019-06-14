@@ -2,7 +2,7 @@
 layout: docs
 title: External Accountancy Export
 ---
-# How to setup and export to Xero.
+# Xero API Intergration.
 
 ![](media/garagehive-xero.png)
 
@@ -32,13 +32,13 @@ To find the setup for the accountancy integration, search for Accountancy Integr
 
 You must decide whether to export the data via the posting date, or the document date. 
 
-The typical setup is via document date. Garage Hive users are typically restricted to only posting within the current date, therefore it is possible that the posting date of the document doesn't match the document on the invoice from the supplier, where as the document date should. 
+The typical setup is via document date. Garage Hive users are typically restricted to only posting within the current date, therefore it is possible that the posting date doesn't match the date on the invoice from the supplier, where as the document date should.
 
 ![](media/garagehive-export-setup.png)
 
-You can also dictate the state of the document when it is exported to Xero. The choices are Draft, Submitted or Approved. You can have a different option for Sales and Purchase documents. 
+You can also dictate the state of the document when it is exported to Xero. The choices are Draft, Submitted or Approved. You can have a different option for Sales and Purchase documents.
 
-**Please note, if you plan to export sales receipts/payments the sales documents must be approved** 
+**Please note, if you plan to export sales receipts/payments the sales documents must be approved**
 
 ![](media/garagehive-xero-setup.png)
 
