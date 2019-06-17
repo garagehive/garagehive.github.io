@@ -7,12 +7,6 @@ title: Cash Receipt Journal
 {% include youtube.html id="UHTlDVOgNNE" %}
 ---
 
-#   Registering Customer Payments 
-
-{% include youtube.html id="rmfIFULOCKY" %}
-
----
-
 Cash Receipt journals allow the user to record payments against a customers account, typically these payments are recorded to account customers. To record a cash receipt journal, use the search functionality to find "Cash Receipt Journal
 
 ![](media/garagehive-finance-cash-receipt-journal-search.png)
