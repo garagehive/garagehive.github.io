@@ -70,7 +70,7 @@
       url: /docs/garagehive-create-an-estimate.html
     - name: Posted & Archived Documents
       url: /docs/garagehive-posted-archived-documents.html
-    - name: Update an External Document Numner of a Posted Sales Invoice
+    - name: Update an External Document Number of a Posted Sales Invoice
       url: /docs/garagehive-update-external-document-number.html
 - name: Purchasing
   url: "#"
