@@ -5,7 +5,8 @@ title: Re-ordering Policies and Requisition Worksheets
 
 {% include youtube.html id="-RptpsLg2kk" %}
 
-Reordering policies and requisition worksheets will manage your stock, suggest orders and create purhcase orders based on available stock. It is recommended you run the requisition each day. 
+
+Reordering policies and requisition worksheets will manage your stock, suggest orders and create purhcase orders based on available stock. It is recommended you run the requisition worksheet each day. 
 
 # Setting up the Item Card
 
