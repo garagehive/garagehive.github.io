@@ -5,6 +5,46 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 29th June 2019
+
+* Autodata Open Beta now Live for all customers
+![](media/garagehive-autodata.png)
+* Multiple lines can now be selected when searching for repairs in Autodata
+
+* The "Day" is now visible on the schedule
+![](media/garagehive-schedule-days.png)
+* Available Hours is now visible on the schedule
+* Admin staff standard events no longer effect available hours on the schedule
+* Added a Jobsheet Statistics feature
+  * Clocked Hours per tech
+  * Total Clocked Hours
+  * Total Labour Quantity
+  * Gross Profit
+  * Labour Sales
+  * Item Sales
+  * Item Costs
+  * Item Margin
+
+![](media/garagehive-jobsheet-statistics.png)
+* "Line Check" is now clickable and will display a warning message related to the check
+![](media/garagehive-linechecker-messages.png)
+* Added a "Line Check" warning when labour resources haven't been added or equal 100%
+![](media/garagehive-linechecker.png)
+* Added a "Line Check" warning when line amount is 0 or less 
+* Added Extended Status to Purchase Orders
+* Added Drive to vehicle card transmission
+* Added Spark Plug Torque to vehicle card
+* Added Creation date field to customer table
+* Added Creation date field to vehicle table
+
+### 21st June 2019
+* Added VHC Priority column (Advisory, Urgent, Critical)
+![](media/garagehive-vhc-priority.png)
+* Booking Date/Time appears immediately on Jobsheets
+
+### 12th June 2019
+* Introduced [Non-Inventory Items](https://youtu.be/itE0goMsFCI "Non-Inventory Items")
+
 ### 31st May 2019
 * Improved the send SMS interface
 * Added the ability to attach documents such as PDFs to the following; 
