@@ -13,7 +13,7 @@ Below is a brief list of Garage Hive developments
 * Attachments can now be accessed by Technicians via Easy Clocking
 * Added "Jobsheets Total" tile
 * Technicians pausing a job now creates a new allocation with the actual remaining time of the job
-* Technicians completing a paused job will removed the paused allocation
+* Technicians completing a paused job will remove the paused allocation
 * Technicians can now see allocated time, spent time & remaining time on their Jobsheets - [Video](https://youtu.be/B9ol7J_4dhI "Technicians Remaining Time")
 ![](media/garagehive-technician-statistics.png)
 * Requestion Worksheet has been added to the Service Financial Controller role centre
