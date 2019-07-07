@@ -5,6 +5,21 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 7th July 2019
+
+* Added ability for technicians to create Jobsheets and clock onto them (Optional)
+* Attachments can now be added to Customer Cards and Vehicle Cards
+* Attachments can be added to Purchase Orders
+* Attachments can now be accessed by Technicians via Easy Clocking
+* Added "Jobsheets Total" tile
+* Technicians pausing a job now creates a new allocation with the actual remaining time of the job
+* Technicians completing a paused job will removed the paused allocation
+* Technicians can now see allocated time, spent time & remaining time on their Jobsheets - [Video](https://youtu.be/B9ol7J_4dhI "Technicians Remaining Time")
+![](media/garagehive-technician-statistics.png)
+* Requestion Worksheet has been added to the Service Financial Controller role centre
+* Added PLEO to bank statement Imports
+* Shelf No. can now be added to item lookup search box
+
 ### 29th June 2019
 
 * Autodata Open Beta now Live for all customers
