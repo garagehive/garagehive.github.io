@@ -5,6 +5,31 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 31st July 2019
+
+* Added ability to view 7 or 5 days on the schedule
+* Added Oil and Lubricant information to Estimates and VHCs
+* Added the ability to add location/branch information to booking reminders
+* Added the ability to send a booking confirmation
+* Added support for Sage Cloud Accounting
+* Power BI - Created a Web Service for varying labour rates across multiple locations
+* Power BI - Added Service Advisor Web Service
+* Power BI - Added Service Type / Job Type Web Service
+* Power BI - Updated Posted Jobsheet Web Service to include vehicle number for advanced vehicle reports
+* Added a pop-out window to checklists/vehicle inspections allowing technicians to see more of what they're typing. ![](media/garagehive-VI-popout.png)
+
+
+### 21st July 2019
+
+Added Autodata Oil and Lubricant information to Jobsheets
+![](media/garagehive-autodata-oil.png)
+
+### 14th July 2019
+
+* Added the ability for technicians to add signatures to vehicle inspections
+* Added the ability to filter vehicles by service/mot expiry dates that haven't got a booking
+* Fixed a bug where Autodata sometimes displayed the wrong registration in the menus
+
 ### 7th July 2019
 
 * Added ability for technicians to create Jobsheets and clock onto them (Optional)
