@@ -67,4 +67,6 @@ Please follow these steps on how to reopen the jobsheet and correct.
 
 ![](media\garagehive-jobsheet-incorrectpayment27.png)
 
-### THIS CAN ONLY BE DONE THIS WAY IF NOTICED ON THE DAY THE MISTAKE WAS MADE. UNLESS THE POSTING RESTRICTIONS ARE REMOVED. 
+17. Once you have corrected the payment method, you can now repost this document. 
+
+## THIS CAN ONLY BE DONE THIS WAY IF NOTICED ON THE DAY THE MISTAKE WAS MADE. UNLESS THE POSTING RESTRICTIONS ARE REMOVED. 
