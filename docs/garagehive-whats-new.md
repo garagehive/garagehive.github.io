@@ -17,6 +17,7 @@ Below is a brief list of Garage Hive developments
 * Power BI - Added Service Type / Job Type Web Service
 * Power BI - Updated Posted Jobsheet Web Service to include vehicle number for advanced vehicle reports
 * Added a pop-out window to checklists/vehicle inspections allowing technicians to see more of what they're typing. 
+
 ![](media/garagehive-VI-popout.png)
 
 
