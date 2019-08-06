@@ -17,6 +17,7 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 
 # Need help? 
 
+
 ## Support opening hours
 * **Monday** 8am - 6pm
 * **Tuesday** 8am - 6pm
