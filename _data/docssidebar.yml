@@ -28,6 +28,11 @@
       url: /docs/garagehive-faqs.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
+  - name: Power BI Reporting
+  url: "#"
+  subitems:
+    - name: Power BI
+      url: /docs/powerbi.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
