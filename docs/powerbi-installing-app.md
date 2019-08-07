@@ -37,7 +37,11 @@ After opening the app you are given 3 options, select "Connect your data"
 
 ![](media/powerbi-app-connect.png)
 
-Enter your company details, these will be supplied by the Garage Hive team. 
+Enter your company details, you can find these by using the search function to find "GH Power BI App Setup" with Garage Hive. 
+
+![](media/powerbi-tennant.png)
+
+Enter these details into the relevant fields. 
 
 ![](media/powerbi-connect-id.png)
 
