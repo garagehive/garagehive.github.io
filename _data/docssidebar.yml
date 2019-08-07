@@ -33,6 +33,9 @@
   subitems:
     - name: Power BI
       url: /docs/powerbi.html
+    - name: Install the App
+      url: /docs/powerbi-installing-app.html
+
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
