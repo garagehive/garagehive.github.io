@@ -37,7 +37,6 @@
       url: /docs/powerbi-installing-app.html
     - name: Refreshing your Data
       url: /docs/powerbi-refresh-data.html
-
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
