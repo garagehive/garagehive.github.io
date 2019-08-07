@@ -19,7 +19,7 @@ Once you are in your Admin Portal, select "Tenant settings", scroll to the botto
 
 ## Installing the App.
 
-To install the app, paste the URL suppliers by the Garage Hive team into your web browser, please make sure you are logged into your Garage Hive Power BI on the same web browser. 
+To install the app, paste the URL supplied by the Garage Hive team into your web browser, please make sure you are logged into your Garage Hive Power BI on the same web browser. 
 
 After entering the URL, Power BI will ask if you want to install the app. 
 
