@@ -33,7 +33,7 @@
   subitems:
     - name: Power BI
       url: /docs/powerbi.html
-    - name: Install the App
+    - name: Installing the App
       url: /docs/powerbi-installing-app.html
     - name: Refreshing your Data
       url: /docs/powerbi-refresh-data.html
