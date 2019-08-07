@@ -33,6 +33,8 @@
   subitems:
     - name: What is Power BI?
       url: /docs/powerbi.html
+    - name: Setting your labour rate
+      url: /docs/powerbi-labourrate.html
     - name: Installing the App
       url: /docs/powerbi-installing-app.html
     - name: Refreshing your Data

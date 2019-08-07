@@ -7,6 +7,7 @@ title: Refreshing your Data
 
 ## How to schedule a refresh
 
+{% include youtube.html id="iB1gOxYTn4k" %}
 
 To schedule refresh times, please select your app and then select edit. 
 
