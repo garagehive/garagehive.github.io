@@ -31,7 +31,7 @@
 - name: Power BI Reporting
   url: "#"
   subitems:
-    - name: Power BI
+    - name: What is Power BI?
       url: /docs/powerbi.html
     - name: Installing the App
       url: /docs/powerbi-installing-app.html
