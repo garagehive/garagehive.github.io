@@ -5,6 +5,10 @@ title: Installing the App
 
 #   How to Install the Power BI APP
 
+**PLEASE NOTE, YOU MUST SET YOUR LABOUR RATE IN GARAGE HIVE BEFORE INSTALLING THE APP -  [HOW TO SET YOUR AVERAGE LABOUR RATE](https://docs.garagehive.co.uk/docs/powerbi-labourrate.html "Set Average Labour Rate")** 
+
+{% include youtube.html id="iO17qPjBAc0" %}
+
 ## Admin Portal Settings.
 
 To install the Power BI App you must enable the ability to "install template apps not listed in AppSource"
