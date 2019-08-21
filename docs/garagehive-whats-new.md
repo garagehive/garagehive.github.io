@@ -5,6 +5,27 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 21st August 2019
+
+* Technicians now have access to Autodata Oil and Lubricant Data from Easy Clocking
+* Added Extended Labour Descriptions to Jobsheets & Estimates and Labour Cards, allowing upto 10,000 characters per description. 
+* Copy Document function will now copy work descriptions
+* Added ability for Service Advisors to Assign jobs to themselves - [Video](https://youtu.be/ALZgQyT-Xgg "Filtered Tiles")
+* Added ability to have tiles filtered to particular Service Advisors 
+* Added ability to attach external documents when emailing customers documents
+* Improved Vehicle Inspection print out - [Video](https://youtu.be/VGKiDqAG9bA "Vehicle Inspections")
+* Added ability to print signatures with Vehicle Inspection. 
+* When emailing a VHC, the Vehicle Inspection will automatically be attached. 
+* Added "Total Jobsheets" tile to Service Financial Controller Roll Centre
+
+**Irish Localisation** 
+* Ireland - Added VRM/VIN Lookup
+* Ireland - Added Support for 2/3 VAT Rule
+* Ireland - Added optional second VAT Rate on an Item Card
+* Ireland - Added Mobile Number Validation
+* Ireland - Added ability to adjust VAT Rate on all documents
+* Ireland - Added VAT Statement
+
 ### 31st July 2019
 
 * Added ability to view 7 or 5 days on the schedule
