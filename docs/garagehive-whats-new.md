@@ -5,10 +5,66 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 7th October 2019
+
+* Added the ability to send SMS from survey entries
+* Added ability to set a review requested date for survey entries
+* Added last survey requested / last review requested fields to customers cards
+* Added access to customer comments from survey entries
+* Added a 2 column layout printout for vehicle inspections
+* Added the ability to view tyre information graphically on vehicle inspections
+* Added a "faults and actions" section to vehicle inspections
+* Added the ability to add external website lines to any role centre homepage
+* Added the ability to opt customers out of booking reminders
+* Added vendor invoice number to aged accounts payable report
+
+
+
+### 29th September 2019
+
+* Added Customer Satisfaction, Net Promoter Score and Survey feature
+    * Automated SMS/Email feedback requests
+    * New detailed Power BI reports
+    * Live customer insights from any document
+    * Access to previous feedbacks from any document
+    * Ability to review and action all feedback recieved
+    * view much more here - [Video](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS")
+* Added the ability to add paragraphs to email reminders and confirmations
+* Added the ability to display tyre label information on documents
+* Added the ability to set estimate reminders
+* Added estimate reminders upcoming/overdue tiles to all role centres
+* Added the ability to add extended descriptions to items in all documents
+* Order numbers can now be made mandatory for specific customers
+
+
+### 22nd September 2019
+
+![](media/garagehive-factbox-update.jpg)
+
+* Added BHP to the Factbox
+* Added VIN that is a shortcut to the vehicle card to the Factbox
+* Added 6 operational tiles to the Factbox
+* Added MOT and Service dates to the Factbox
+* Added click-to-call contact numbers to the Factbox
+* Extended the part number visibility on printed Purchase Return Orders
+
+### 10th September 2019
+
+* 0% VAT Lines will no longer display a VAT sub-total on invoices
+* Added the ability to view caption texts next to radio buttons in Vehicle Inspections
+* Added the ability to adjust VAT amounts of documents for any discrepancies
+* Added the ability to counter-sign vehicle inspections
+
+### 2nd September 2019
+
+* Added the ability to search Autodata with Make/Model/Engine Code
+* Added Jobsheet Net & Gross Value to Jobsheet list
+* Added "Safety Check" to vehicle cards, for Irish Markets
+
 ### 21st August 2019
 
 * Technicians now have access to Autodata Oil and Lubricant Data from Easy Clocking
-* Added Extended Labour Descriptions to Jobsheets & Estimates and Labour Cards, allowing upto 10,000 characters per description. 
+* Added Extended Labour Descriptions to Jobsheets & Estimates and Labour Cards, allowing upto 10,000 characters per description
 * Copy Document function will now copy work descriptions
 * Added ability for Service Advisors to Assign jobs to themselves - [Video](https://youtu.be/ALZgQyT-Xgg "Filtered Tiles")
 * Added ability to have tiles filtered to particular Service Advisors 
