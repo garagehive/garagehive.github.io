@@ -18,18 +18,22 @@ Below is a brief list of Garage Hive developments
 * Added the ability to opt customers out of booking reminders
 * Added vendor invoice number to aged accounts payable report
 
+### 1st October 2019
+
+* Added the ability to let technicians select from a pool of "Group Tasks" [Video](https://youtu.be/oCRC4WCvHeQ "Find out more")
+
 
 
 ### 29th September 2019
 
-* Added Customer Satisfaction, Net Promoter Score and Survey feature
+* Added Customer Satisfaction, [Net Promoter Score and Survey feature](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS")
     * Automated SMS/Email feedback requests
     * New detailed Power BI reports
     * Live customer insights from any document
     * Access to previous feedbacks from any document
     * Ability to review and action all feedback recieved
-    * view much more here - [Video](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS")
-* Added the ability to add paragraphs to email reminders and confirmations
+    * More Information available here - [Click here](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS")
+* Added the ability to add paragraphs to email reminders and booking confirmations
 * Added the ability to display tyre label information on documents
 * Added the ability to set estimate reminders
 * Added estimate reminders upcoming/overdue tiles to all role centres
@@ -52,7 +56,7 @@ Below is a brief list of Garage Hive developments
 
 * 0% VAT Lines will no longer display a VAT sub-total on invoices
 * Added the ability to view caption texts next to radio buttons in Vehicle Inspections
-* Added the ability to adjust VAT amounts of documents for any discrepancies
+* Added the ability to adjust VAT amounts of documents for any discrepancies - [Video](https://youtu.be/zBXttdf0byg "Find out more")
 * Added the ability to counter-sign vehicle inspections
 
 ### 2nd September 2019
