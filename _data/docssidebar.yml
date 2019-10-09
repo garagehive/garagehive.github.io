@@ -83,6 +83,8 @@
       url: /docs/garagehive-posted-archived-documents.html
     - name: Update an External Document Number of a Posted Sales Invoice
       url: /docs/garagehive-update-external-document-number.html
+    - name: Removing Posting Restrictions 
+      url: /docs/garagehive-removing-posting-restrictions.html
 - name: Purchasing
   url: "#"
   subitems:
@@ -100,6 +102,8 @@
       url: /docs/garagehive-shipped-items-purchase-return-order.html
     - name: Posted & Archived Documentss
       url: /docs/garagehive-posted-archived-documents.html
+    - name: Removing Posting Restrictions 
+      url: /docs/garagehive-removing-posting-restrictions.html
 - name: Inventory
   url: "#"
   subitems:
