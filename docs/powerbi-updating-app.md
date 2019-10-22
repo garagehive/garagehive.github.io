@@ -9,8 +9,8 @@ Periodically you will need to update your Power BI Garage Hive App.
 
 To do this, login to your Garage Hive Power BI account and in a new web browser tab enter the following URL.
 
-## Garage Hive Power BI Open Beta V4 Version 32
-> [https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=861c316e-2dda-4ded-81ab-3a45cd928979kg4QggGERX2kpE5LHjgZBp8ZqVkRM922yZyZFrqIy0o&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d](https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=861c316e-2dda-4ded-81ab-3a45cd928979kg4QggGERX2kpE5LHjgZBp8ZqVkRM922yZyZFrqIy0o&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d "Power BI Update URL")
+## BETA - Garage Hive Power BI App Version 33
+> [https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=a6d4ded0-fa7c-4a60-9f9f-91f33873b42cKGlSm-vrcInMHNiays9vvX5ptt2q4k9kfZQPdQHWMuk&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d](https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=a6d4ded0-fa7c-4a60-9f9f-91f33873b42cKGlSm-vrcInMHNiays9vvX5ptt2q4k9kfZQPdQHWMuk&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d "Power BI Update URL")
    
 
 Select Install.
