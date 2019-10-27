@@ -41,6 +41,8 @@
       url: /docs/powerbi-refresh-data.html
     - name: Updating your Power BI App
       url: /docs/powerbi-updating-app.html
+    - name: Updating your Power Credentials
+      url: /docs/powerbi-update-credentials.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
