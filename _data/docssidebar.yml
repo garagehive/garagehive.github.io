@@ -58,6 +58,8 @@
       url: /docs/garagehive-create-a-vendor-card.html
     - name: Checklists
       url: /docs/garagehive-checklist-how-to-create.html
+    - name: Importing/Exporting Checklists
+      url: /garagehive-checklist-upload-download.html  
     - name: Setting up the TCard System
       url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages

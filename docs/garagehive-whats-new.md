@@ -5,7 +5,21 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 13th November 2019
+
+* Added the ability to send an SMS from the customer card
+* Added Service Advsior name to invoice printout (optional)
+* Added vehicle parking locations to jobsheets (Optional)
+    * User stamped
+    * Date stamped
+    * time stamped
+* Compressed the line spacing in labour extended descriptions
+* Added the ability to copy/paste service package versions
+* Added the ability to share/export/import checklists with other GH users
+* Added the ability to print checklist captions
+
 ### 30th October 2019
+
 * Introduced User Tasks - [Video](https://youtu.be/iz7FR3dOQKU "Find out more")
     * Create tasks for yourself
     * Create tasks for other users
