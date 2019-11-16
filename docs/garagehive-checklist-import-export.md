@@ -1,12 +1,13 @@
 ---
 layout: docs
-title: How to share your Checklists in Garage Hive
+title: How to Import & Export Checklists in Garage Hive
 ---
 # How to Import & Export Checklists
 
-You can share your created checklists with other users using the upload/download feature within checklist templates. 
+You can share your created Checklists with other users using the upload/download feature within Checklist Templates. 
 
-{% include youtube.html id="q7Vidsf-5dM" %}
+{% include youtube.html id="JT7NcMEEa8Y" %}
+
 
 User the search function to find "Checklist Templates"
 
@@ -20,7 +21,7 @@ The exported & imported files must be a file with the .cltx extension
 
 ![](media/garagehive-checklist-file.png)
 
-When importing Checklist Tempaltes it is essential that you understand that you will lose any existing Checklist templates or Checklist item groups with the same names. For this reason **it is strongly recommended that you export all of your existings Checklist Tempaltes and save them incase you need to re-import them.** 
+When importing Checklist Templates it is essential that you understand that you will lose any existing Checklist Templates or Checklist item groups with the same names. **For this reason it is strongly recommended that you export all of your existing Checklist Templates and save them in case you need to re-import them.** 
 
 ![](media/garagehive-checklist-import-warning.png)
 
