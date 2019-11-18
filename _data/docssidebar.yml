@@ -160,6 +160,8 @@
       url: /docs/garagehive-working-on-it.html
     - name: Archive Documents
       url: /docs/garagehive-posted-archived-documents.html
+    - name: Copy Documents
+      url: /docs/garagehive-copydocument.html
 - name: End of Day Process
   url: "#"
   subitems:
