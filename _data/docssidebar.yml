@@ -33,12 +33,16 @@
   subitems:
     - name: What is Power BI?
       url: /docs/powerbi.html
-    - name: Setting your labour rate
+    - name: Setting Your Labour Rate
       url: /docs/powerbi-labourrate.html
-    - name: Installing the App
+    - name: Installing The App
       url: /docs/powerbi-installing-app.html
-    - name: Refreshing your Data
+    - name: Refreshing Your Data
       url: /docs/powerbi-refresh-data.html
+    - name: Updating Your Power BI App
+      url: /docs/powerbi-updating-app.html
+    - name: Updating Your Power BI Credentials
+      url: /docs/powerbi-update-credentials.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
@@ -54,6 +58,8 @@
       url: /docs/garagehive-create-a-vendor-card.html
     - name: Checklists
       url: /docs/garagehive-checklist-how-to-create.html
+    - name: Importing/Exporting Checklists
+      url: /docs/garagehive-checklist-import-export.html  
     - name: Setting up the TCard System
       url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages
@@ -158,6 +164,8 @@
       url: /docs/garagehive-working-on-it.html
     - name: Archive Documents
       url: /docs/garagehive-posted-archived-documents.html
+    - name: Copy Documents
+      url: /docs/garagehive-copydocument.html
 - name: End of Day Process
   url: "#"
   subitems:

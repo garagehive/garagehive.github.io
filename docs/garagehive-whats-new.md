@@ -5,6 +5,51 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 13th November 2019
+
+* Added the ability to send an SMS from the customer card
+* Added Service Advsior name to invoice printout (optional)
+* Added vehicle parking locations to jobsheets (Optional)
+    * User stamped
+    * Date stamped
+    * time stamped
+* Compressed the line spacing in labour extended descriptions
+* Added the ability to copy/paste service package versions
+* Added the ability to share/export/import checklists with other GH users
+* Added the ability to print checklist captions
+
+### 30th October 2019
+
+* Introduced User Tasks - [Video](https://youtu.be/iz7FR3dOQKU "Find out more")
+    * Create tasks for yourself
+    * Create tasks for other users
+    * Set due dates on tasks
+    * Monitor tasks set for others
+    * Recurring tasks
+* Document Description and Work Description on Job sheets, Estimates and VHCs now pop-out into a full screen window. 
+    * Pop-out work description window
+    * Full-screen work description window
+    * Mouse over preview
+    * Compatible with templates
+    * Spellcheck compatible
+    * Available on job sheets, estimates and VHCs
+* Added a "Tyre" field checkbox to item cards. 
+* Changed the default column layout for technicians job sheets on tablet devices. 
+* Clocking terminal now supports different time zones. 
+* Introduced Item Overview report. Easily traceable item history, accessible from item lists, item cards and items to return reports with clarity of the following. 
+    * Purchase Invoices
+    * Customer Card
+    * Vendor Card
+    * Posted job sheets
+    * Open job sheets
+    * Job sheets related to PO
+
+
+### 20th October 2019
+
+* Introduced Open Estimate analysis Power BI report - [Video](https://youtu.be/DOXzAKsTxIo "Find out more")
+* Improved VHC analysis Power BI report
+
 ### 7th October 2019
 
 * Added the ability to send SMS from survey entries
