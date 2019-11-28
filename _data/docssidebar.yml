@@ -28,6 +28,8 @@
       url: /docs/garagehive-faqs.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
+    - name: Setting Up Devices 
+      url: /docs/garagehive-setting-up-devices.html
 - name: Power BI Reporting
   url: "#"
   subitems:
@@ -66,6 +68,8 @@
       url: /docs/garagehive-service-packages.html
     - name: Setting up Reminders
       url: /docs/garagehive-customer-notifications.html
+    - name: Setting Up Devices 
+      url: /docs/garagehive-setting-up-devices.html
 - name: Sales
   url: "#"
   subitems:
@@ -149,6 +153,8 @@
       url: /docs/garagehive-terminal-user.html 
     - name: Vehicle Card Contents
       url: /docs/garagehive-vehicle-card.html 
+    - name: Setting Up Devices 
+      url: /docs/garagehive-setting-up-devices.html
 - name: General Functionality
   url: "#"
   subitems:
