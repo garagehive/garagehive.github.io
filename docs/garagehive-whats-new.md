@@ -5,6 +5,21 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 30th November 2019
+
+* Added a Natwest Bankline statement import
+* Jobsheets Extended status are now visible on Posted Jobsheets
+* Added the ability to view the customer/vendor on the General Ledger entry table
+* Labour extended status descriptions will now transfer from an estimate to a jobsheet
+* Garage Hive client now has a 2 hour idle timeout instead of 20 minutes 
+
+### 24th November 2019
+
+* Autodata repair times now load 4x~ faster
+* Reduced the wasted space on the vehicle inspection printouts
+* Added the ability to score the quality of a vehicle inspection
+* Added the ability to mark a jobsheet as an online booking for reporting purposes when using an external online booking system
+
 ### 13th November 2019
 
 * Added the ability to send an SMS from the customer card
@@ -43,7 +58,6 @@ Below is a brief list of Garage Hive developments
     * Posted job sheets
     * Open job sheets
     * Job sheets related to PO
-
 
 ### 20th October 2019
 
