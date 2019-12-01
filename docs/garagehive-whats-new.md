@@ -11,7 +11,9 @@ Below is a brief list of Garage Hive developments
 * Jobsheets Extended status are now visible on Posted Jobsheets
 * Added the ability to view the customer/vendor on the General Ledger entry table
 * Labour extended status descriptions will now transfer from an estimate to a jobsheet
-* Garage Hive client now has a 2 hour idle timeout instead of 20 minutes 
+* Garage Hive client now has a 2 hour idle timeout instead of 20 minutes
+
+![](media/garagehive-whatsnew-timeout.jpg)
 
 ### 24th November 2019
 
@@ -28,9 +30,11 @@ Below is a brief list of Garage Hive developments
     * User stamped
     * Date stamped
     * time stamped
+
+![](media/garagehive-whatsnew-parking.jpg)
 * Compressed the line spacing in labour extended descriptions
 * Added the ability to copy/paste service package versions
-* Added the ability to share/export/import checklists with other GH users
+* Added the ability to share/export/import checklists with other GH users - [Video](https://youtu.be/JT7NcMEEa8Y "Find out more")
 * Added the ability to print checklist captions
 
 ### 30th October 2019
