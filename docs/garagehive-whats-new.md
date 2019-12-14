@@ -7,9 +7,8 @@ Below is a brief list of Garage Hive developments
 
 ### 14th December 2019
 
-* VHCs have been renamed to VI-Estimates system wide
-
 ![](media/garagehive-whatsnew-vie.jpg)
+* VHCs have been renamed to VI-Estimates system wide
 * Confirming a VI and creating a VI-Estimate will automatically open the VI-Estimate
 * Line Unit Costs are now copied to the Jobsheet when authorised from a Estimate/VI Estimate
 * Improved Survey information visible on phone app
