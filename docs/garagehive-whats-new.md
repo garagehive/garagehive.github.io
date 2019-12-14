@@ -12,13 +12,13 @@ Below is a brief list of Garage Hive developments
 ![](media/garagehive-whatsnew-vie.jpg)
 * Confirming a VI and creating a VI-Estimate will automatically open the VI-Estimate
 * Line Unit Costs are now copied to the Jobsheet when authorised from a Estimate/VI Estimate
-* Imrpoved Survey information visible on phone app
+* Improved Survey information visible on phone app
     * NPS Group now visible
     * Number of Answers now visible
 
 ![](media/garagehive-whatsnew-surveys.jpg)
 * Fixed a bug that prevented you from going back once viewing customer comments on a survey using the phone app. 
-* Added the ability to add extended descriptions to comrpessed service packages
+* Added the ability to add extended descriptions to compressed service packages
 * You can now access VI-Estimates from a vehicle card
 * Dual Column VI Printout now includes the Checklist template name
 * Dual column VI Printout now date & time stamps technician/authoriser signatures
