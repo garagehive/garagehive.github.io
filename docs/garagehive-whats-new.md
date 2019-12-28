@@ -5,6 +5,26 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+
+
+### 29th December 2019
+* Release second generation online booking  - [Video](https://youtu.be/QQwRSnH4oyk "Find out more")
+    * Works with any website
+    * Automated scheduling
+    * Automated capacity & availability
+    * Jobsheet generation
+    * Jobsheet population
+    * SMS and Email confirmations
+    * and much more
+
+
+* Added a "Labour Audit" report, allowing users to generate reports for DVSA MOT Audits
+
+### 15th December 2019
+
+* Added the ability to send surveys manually from posted jobsheets
+* Added the ability to send custom created surveys
+
 ### 14th December 2019
 
 ![](media/garagehive-whatsnew-vie.jpg)
