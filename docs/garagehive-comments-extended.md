@@ -11,7 +11,7 @@ Comments (Extended) are available on all documents. There is no character limit 
 Clicking on the comment extended cell will open up a pop-out window, this window can also go full screen and allows you to type as much text as you wish. 
 ![](media/garagehive-comment-window.png)
 
-If you scroll your cursor the Comments (Extended) you will get a pop-up preview. 
+If you scroll your cursor over the Comments (Extended) you will get a pop-up preview. 
 
 ![](media/garagehive-comment-preview.png)
 
