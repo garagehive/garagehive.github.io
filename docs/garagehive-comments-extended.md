@@ -5,6 +5,8 @@ title: Comments (Extended)
 
 #   How to use Comments (Extended)
 
+{% include youtube.html id="ebt1UsiP28k" %}
+
 Comments (Extended) are available on all documents. There is no character limit to Comments (Extended) and you can print comments on documents as well as hide comments from technicians. 
 ![](media/garagehive-comments.png)
 
@@ -38,6 +40,10 @@ Comments on a phone now also display additional information, such as time, date,
 
 ![](media/garagehive-comments-phone.png)
 
-When reading or entering comments on a phone, the comment now opens in a pop-up window.
+Technicians must select a type code before writing a comment. 
+
+![](media/garagehive-comment-tech-code.png)
+
+When reading or entering comments on a phone, the comment now opens in a pop-up window. Once the comment has been types, press OK. 
 
 ![](media/garagehive-comment-phone-input.png)
