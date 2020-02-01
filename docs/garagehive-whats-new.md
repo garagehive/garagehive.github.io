@@ -5,9 +5,41 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 29th January 2020
+
+* Add Vehicle Production Year and First Registration Date to the FactBox
+* Added Comments (Extended) to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/ebt1UsiP28k "Find out more")
+* Added Service Package filtering to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/QUHHTT2wBkM "Find out more")
+* Added Customer Arrival Time field to Jobsheets
+* Added Mobile Phone Number, Phone Number & Email Address to posted jobsheet list
+* Updated Xero API to oAuth 2.0
+* Added "Safety Inspection" due date to vehicle cards and reminders
+
+
+### Online Booking Updates
+
+* Added ability to disabled the expected time of a booking
+* Added the ability to add a Google Analytics ID to Embed
+* Added "Price From" option to service packages
+* Added Make filters to service package versions
+* Added "Conditions" feature to service package versions
+* Added the ability to make service packages additions only
+* Added the ability to hide prices online
+* Copy Service Package version line now also copies the conditions 
+
+### 11th January 2020
+
+ * Added Vehicle Sales module 
+    * Vehicle Sales Invoices  - [Video](https://youtu.be/CToJ_TIWhoU "Find out more")
+    * Vehicle Purchase Invoices  - [Video](https://youtu.be/7AzXrQQwDrM "Find out more")
+    * Vehicle Stock Report
+    * Vehicle Reservations  - [Video](https://youtu.be/SohtRJMdYoQ "Find out more")
+    * VAT Margin Scheme
+    * Internal Prepration Jobsheets  - [Video](https://youtu.be/uucqFgWc6I8 "Find out more")
 
 
 ### 29th December 2019
+
 * Release second generation online booking  - [Video](https://youtu.be/QQwRSnH4oyk "Find out more")
     * Works with any website
     * Automated scheduling
