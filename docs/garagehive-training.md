@@ -27,7 +27,7 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 
 {% include youtube.html id="ABnKqYB4f3A" %}
 
-###
+
 
 ### Module 1 test. 
 
@@ -37,11 +37,11 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 * Adding items to a jobsheet
 * Adding a service package to a jobsheet
 
-###
+
 
 ## Module 2 - Purchasing
 
-Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purhcase order once the invoice has arrived. 
+Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. 
 
 
 ###  How to create a purchase order
@@ -49,11 +49,11 @@ Module 2 looks at purchasing in Garage Hive. In this module you will learn how t
 {% include youtube.html id="M1KB7dSiZrY" %}
 
 
-### How to populate a process a purchase order/invoice
+### How to process a purchase order/invoice
 
 {% include youtube.html id="eKXEvrj1QQQ" %}
 
-###
+
 
 ### Module 2 test. 
 
