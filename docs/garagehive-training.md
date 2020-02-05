@@ -13,23 +13,23 @@ It is important to understand all elements of the process to benefit from all th
 
 Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
 
-### Welcome to your role centre
+#### Welcome to your role centre
 
 {% include youtube.html id="R_mLcdbFWdo" %}
 
 
-###  How to create a booking
+####  How to create a booking
 
 {% include youtube.html id="MJqFUQyV2Tc" %}
 
 
-### How to populate a jobsheet
+#### How to populate a jobsheet
 
 {% include youtube.html id="ABnKqYB4f3A" %}
 
 
 
-### Module 1 test. 
+### Module 1 test
 
 * Logging into Garage Hive
 * Creating a booking
@@ -44,18 +44,18 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. 
 
 
-###  How to create a purchase order
+####  How to create a purchase order
 
 {% include youtube.html id="M1KB7dSiZrY" %}
 
 
-### How to process a purchase order/invoice
+#### How to process a purchase order/invoice
 
 {% include youtube.html id="eKXEvrj1QQQ" %}
 
 
 
-### Module 2 test. 
+### Module 2 test
 
 * Creating a purchase order
 * Processing a purchase order/invoice
