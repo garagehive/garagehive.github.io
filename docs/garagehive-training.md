@@ -37,13 +37,13 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 
 * Logging into Garage Hive
 * Creating a booking
-* Creating a Customer Card
-* Adding comments to a Jobcard
-* Adding labours to a Jobsheet
+* Creating a customer card
+* Adding comments to a jobsheet
+* Adding labours to a jobsheet
 * Adding items to a jobsheet
-* Adding a service package to a Jobsheet
-* Processing a Vehicle onsite
-* Allocating the Jobsheet to a technician
+* Adding a service package to a jobsheet
+* Processing a vehicle onsite
+* Allocating the jobsheet to a technician
 
 
 
@@ -61,20 +61,30 @@ Module 2 looks at purchasing in Garage Hive. In this module you will learn how t
 
 {% include youtube.html id="eKXEvrj1QQQ" %}
 
+#### How view items to return
 
+{% include youtube.html id="EyVbV50EwaQ" %}
+
+#### How create a purchase return order
+
+{% include youtube.html id="X81T5UAOTNU" %}
 
 ### Module 2 test
 
-* Creating multiple Purchase Orders
-* Processing a Purchase Order
-* Creating an Item Card
-* Posting a Purchase Order
+* Creating multiple purchase orders
+* Processing a purchase order
+* Creating an item card
+* Posting a purchase order
+* Viewing your items to return report
+* Creating a purchase return order
+* Shipping items on return
+* Posting a purchase return order
 
 
 
 ## Module 3 - Estimates & Vehicle Inspections
 
-Module 3 looks at the differences between an Estimate and a Vehicle Inspection Estimate. You will learn how to create an Estimate and convert an Estimate to a Jobsheet. You will also learn how to process a Vehicle Inspection into a Vehicle Inspection Estimate and copy the authorised work back to the Jobsheet. 
+Module 3 looks at the differences between an estimate and a vehicle inspection estimate. You will learn how to create an estimate and convert an estimate to a jobsheet. You will also learn how to process a vehicle inspection into a vehicle inspection estimate and copy the authorised work back to the jobsheet. 
 
 
 ####  How to create an Estimate
@@ -90,9 +100,9 @@ Module 3 looks at the differences between an Estimate and a Vehicle Inspection E
 
 ### Module 3 test
 
-* Creating an Estimate]
-* Converting an Estimate to a Jobsheet
-* Processing a Vehicle Inspection
-* Copying authorised work to a Jobsheet
-* Setting VI-Estimate reminders
+* Creating an estimate
+* Converting an estimate to a jobsheet
+* Processing a vehicle inspection
+* Copying authorised work to a jobsheet
+* Setting estimate reminders
 
