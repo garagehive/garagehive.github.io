@@ -3,7 +3,7 @@ layout: docs
 title: Garage Hive Training Modules - Beginners
 --- 
 
-#   Garage Hive Training Modules - Beginners 
+#   Garage Hive Training Module - Service Advisor - Beginners 
 
 These training modules are designed to train users on the basic process in Garage Hive. Users will be tested on all the modules before your go-live date and scored on progress. 
 
@@ -27,11 +27,6 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 
 {% include youtube.html id="ABnKqYB4f3A" %}
 
-#### How to process a vehicle arriving
-
-{% include youtube.html id="pBSymFc-9m8" %}
-
-
 
 ### Module 1 test
 
@@ -42,8 +37,6 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 * Adding labours to a jobsheet
 * Adding items to a jobsheet
 * Adding a service package to a jobsheet
-* Processing a vehicle onsite
-* Allocating the jobsheet to a technician
 
 
 
@@ -80,11 +73,34 @@ Module 2 looks at purchasing in Garage Hive. In this module you will learn how t
 * Shipping items on return
 * Posting a purchase return order
 
+## Module 3 - Processing Jobsheets & Invoicing
+
+Module 3 looks at the process when a customer arrives to drop their vehicle off. You will learn how to use features for marking vehicles as on-site, assigning parking locations and key numbers and adding expected collection times. In module 3 you will also learn how to process a jobsheet from complete to ready for collection and how to convert a jobsheet into an invoice.  
+
+#### How to process a vehicle arriving
+
+{% include youtube.html id="pBSymFc-9m8" %}
+
+#### How to process a jobsheet to invoice
+
+{% include youtube.html id="SdgMs_uS9Y0" %}
+
+### Module 3 test
+
+* Marking a vehicle on-site
+* Assigning a key number to a jobsheet
+* Adding customer comments to a jobsheet
+* Adding an expected collection time to a jobsheet
+* Aloocating a jobsheet to a technician on the schedule
+* Processing a complete jobsheet
+* Marking a jobsheet as ready for collection
+* Taking payments to a jobsheet
+* Posting a jobsheet and creating an invoice
 
 
-## Module 3 - Estimates & Vehicle Inspections
+## Module 4 - Estimates & Vehicle Inspections
 
-Module 3 looks at the differences between an estimate and a vehicle inspection estimate. You will learn how to create an estimate and convert an estimate to a jobsheet. You will also learn how to process a vehicle inspection into a vehicle inspection estimate and copy the authorised work back to the jobsheet. 
+Module 4 looks at the differences between an estimate and a vehicle inspection estimate. You will learn how to create an estimate and convert an estimate to a jobsheet. You will also learn how to process a vehicle inspection into a vehicle inspection estimate and copy the authorised work back to the jobsheet. 
 
 
 ####  How to create an Estimate
@@ -98,7 +114,7 @@ Module 3 looks at the differences between an estimate and a vehicle inspection e
 
 
 
-### Module 3 test
+### Module 4 test
 
 * Creating an estimate
 * Converting an estimate to a jobsheet
