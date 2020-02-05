@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Garage Hive Training Modules 
+title: Garage Hive Training Modules - Beginners
 --- 
 
-#   Garage Hive Training Modules
+#   Garage Hive Training Modules - Beginners 
 
 These training modules are designed to train users on the basic process in Garage Hive. Users will be tested on all the modules before your go-live date and scored on progress. 
 
@@ -27,15 +27,23 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 
 {% include youtube.html id="ABnKqYB4f3A" %}
 
+#### How to process a vehicle arriving
+
+{% include youtube.html id="pBSymFc-9m8" %}
+
 
 
 ### Module 1 test
 
 * Logging into Garage Hive
 * Creating a booking
-* Adding labours to a jobsheet
+* Creating a Customer Card
+* Adding comments to a Jobcard
+* Adding labours to a Jobsheet
 * Adding items to a jobsheet
-* Adding a service package to a jobsheet
+* Adding a service package to a Jobsheet
+* Processing a Vehicle onsite
+* Allocating the Jobsheet to a technician
 
 
 
@@ -57,9 +65,34 @@ Module 2 looks at purchasing in Garage Hive. In this module you will learn how t
 
 ### Module 2 test
 
-* Creating a purchase order
-* Processing a purchase order/invoice
+* Creating multiple Purchase Orders
+* Processing a Purchase Order
+* Creating an Item Card
+* Posting a Purchase Order
 
 
 
+## Module 3 - Estimates & Vehicle Inspections
+
+Module 3 looks at the differences between an Estimate and a Vehicle Inspection Estimate. You will learn how to create an Estimate and convert an Estimate to a Jobsheet. You will also learn how to process a Vehicle Inspection into a Vehicle Inspection Estimate and copy the authorised work back to the Jobsheet. 
+
+
+####  How to create an Estimate
+
+{% include youtube.html id="otMUsW5hGAA" %}
+
+
+#### How to process a Vehicle Inspection
+
+{% include youtube.html id="LldJYN6HkeU" %}
+
+
+
+### Module 3 test
+
+* Creating an Estimate]
+* Converting an Estimate to a Jobsheet
+* Processing a Vehicle Inspection
+* Copying authorised work to a Jobsheet
+* Setting VI-Estimate reminders
 
