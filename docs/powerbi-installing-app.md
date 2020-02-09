@@ -23,8 +23,8 @@ Once you are in your Admin Portal, select "Tenant settings", scroll to the botto
 
 ## Installing the App.
 
-## BETA - Garage Hive Power BI App Version 74
-> [https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=30e9d1a2-794d-42bd-ab0d-ea96bfbaf1d64FUMgu5yrO4FgNYlM9jEp7K2oqpopH8PcrTl3R5-9U4&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d](https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=30e9d1a2-794d-42bd-ab0d-ea96bfbaf1d64FUMgu5yrO4FgNYlM9jEp7K2oqpopH8PcrTl3R5-9U4&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d "Power BI Update URL")
+## BETA - Garage Hive Power BI App Version 84
+> [https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=b998d79a-bafd-4212-8453-b2ebed7a7773E61z4XZTo-waxf57uDykdwCtpTVxPdfRBrcifdEIS5I&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=84](https://app.powerbi.com/Redirect?action=InstallApp&appId=99df594f-0769-4fb9-a067-b0f4a9a80880&packageKey=b998d79a-bafd-4212-8453-b2ebed7a7773E61z4XZTo-waxf57uDykdwCtpTVxPdfRBrcifdEIS5I&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=84 "Power BI Update URL")
 
 
 To install the app, paste the above URL into your web browser, please make sure you are logged into your Garage Hive Power BI on the same web browser. 
