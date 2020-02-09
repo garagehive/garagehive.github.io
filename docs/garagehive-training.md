@@ -42,7 +42,7 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 
 ## Module 2 - Purchasing
 
-Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. 
+Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
 
 
 ####  How to create a purchase order
@@ -91,7 +91,7 @@ Module 3 looks at the process when a customer arrives to drop their vehicle off.
 * Assigning a key number to a jobsheet
 * Adding customer comments to a jobsheet
 * Adding an expected collection time to a jobsheet
-* Aloocating a jobsheet to a technician on the schedule
+* Allocating a jobsheet to a technician on the schedule
 * Processing a complete jobsheet
 * Marking a jobsheet as ready for collection
 * Taking payments to a jobsheet
