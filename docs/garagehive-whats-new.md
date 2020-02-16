@@ -5,6 +5,25 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 16th February 2020
+
+* Added Comments for Attention Feature, allowing certain comment types to populate a red tile - [Video](https://youtu.be/X4zGgGS3CJw "Find out more")
+* Added the ability to automatically add service packages to documents depending on service type - [Video](https://youtu.be/6y-c47xIYfE "Find out more")
+* Post and Print will now open the take payment window unless payment terms are set
+* Added Vehicle Sales Web Services for Vehicle Sales Power BI App
+* Added the option for VRM to work with UK and Irish plates at the same time
+* When converting an estimate to a jobsheet, extended comments will now also copy over
+* When a jobsheet is assigned to a service advisor, creating a VI-Estimate will automatically assign it to the same advisor.
+* Added VRM Data for Weight, Heigh, Width and Length to the vehicle card
+![](media/garagehive-vehiclecard-weight.png)
+* Added the ability to refresh VRM data from the vehicle list
+![](media/garagehive-vehiclelist.png)
+* Added phone numbers to customer lookup page
+![](media/garagehive-customerlookup.png)
+* You can now display labour line discounts even if hiding the Unit Price and Qty
+![](media/garagehive-labour-discount.png)
+
+
 ### 29th January 2020
 
 * Add Vehicle Production Year and First Registration Date to the FactBox
