@@ -5,7 +5,7 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
-### 16th February 2020
+### 17th February 2020
 
 * Added Comments for Attention Feature, allowing certain comment types to populate a red tile - [Video](https://youtu.be/X4zGgGS3CJw "Find out more")
 * Added the ability to automatically add service packages to documents depending on service type - [Video](https://youtu.be/6y-c47xIYfE "Find out more")
