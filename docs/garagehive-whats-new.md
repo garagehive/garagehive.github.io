@@ -5,6 +5,26 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 27th March 2020 - Covid-19 requested features
+
+* Added MailChimp Export
+* Added Finance Plan feature
+* Added Bulk SMS feature
+* Added COVID-19 Option to online booking system
+
+### 22nd March 2020
+
+* Added the original Jobsheet value to VI-Estimates
+* Added VAT details to sales invoice document
+* Added the ability to create Vehicle Inspection text templates
+* Added "Business Insights" to role centre home page
+* Added key numbers to purchase orders
+* Added Vendor Email address to vendor list
+* Added the ability to print comments on Estimate and Vehicle Inspection Estimates
+* Added the ability to filer vehicle list by last visit date
+* Improved service schedules from Autodata
+
+
 ### 17th February 2020
 
 * Added Comments for Attention Feature, allowing certain comment types to populate a red tile - [Video](https://youtu.be/X4zGgGS3CJw "Find out more")
