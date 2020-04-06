@@ -5,9 +5,80 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 27th March 2020 - Covid-19 requested features
+
+* Added MailChimp Export
+* Added Finance Plan feature
+* Added Bulk SMS feature
+* Added COVID-19 Option to online booking system
+
+### 22nd March 2020
+
+* Added the original Jobsheet value to VI-Estimates
+* Added VAT details to sales invoice document
+* Added the ability to create Vehicle Inspection text templates
+* Added "Business Insights" to role centre home page
+* Added key numbers to purchase orders
+* Added Vendor Email address to vendor list
+* Added the ability to print comments on Estimate and Vehicle Inspection Estimates
+* Added the ability to filer vehicle list by last visit date
+* Improved service schedules from Autodata
+
+
+### 17th February 2020
+
+* Added Comments for Attention Feature, allowing certain comment types to populate a red tile - [Video](https://youtu.be/X4zGgGS3CJw "Find out more")
+* Added the ability to automatically add service packages to documents depending on service type - [Video](https://youtu.be/6y-c47xIYfE "Find out more")
+* Post and Print will now open the take payment window unless payment terms are set
+* Added Vehicle Sales Web Services for Vehicle Sales Power BI App
+* Added the option for VRM to work with UK and Irish plates at the same time
+* When converting an estimate to a jobsheet, extended comments will now also copy over
+* When a jobsheet is assigned to a service advisor, creating a VI-Estimate will automatically assign it to the same advisor.
+* Added VRM Data for Weight, Heigh, Width and Length to the vehicle card
+![](media/garagehive-vehiclecard-weight.png)
+* Added the ability to refresh VRM data from the vehicle list
+![](media/garagehive-vehiclelist.png)
+* Added phone numbers to customer lookup page
+![](media/garagehive-customerlookup.png)
+* You can now display labour line discounts even if hiding the Unit Price and Qty
+![](media/garagehive-labour-discount.png)
+
+
+### 29th January 2020
+
+* Add Vehicle Production Year and First Registration Date to the FactBox
+* Added Comments (Extended) to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/ebt1UsiP28k "Find out more")
+* Added Service Package filtering to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/QUHHTT2wBkM "Find out more")
+* Added Customer Arrival Time field to Jobsheets
+* Added Mobile Phone Number, Phone Number & Email Address to posted jobsheet list
+* Updated Xero API to oAuth 2.0
+* Added "Safety Inspection" due date to vehicle cards and reminders
+
+
+### Online Booking Updates
+
+* Added ability to disabled the expected time of a booking
+* Added the ability to add a Google Analytics ID to Embed
+* Added "Price From" option to service packages
+* Added Make filters to service package versions
+* Added "Conditions" feature to service package versions
+* Added the ability to make service packages additions only
+* Added the ability to hide prices online
+* Copy Service Package version line now also copies the conditions 
+
+### 11th January 2020
+
+ * Added Vehicle Sales module 
+    * Vehicle Sales Invoices  - [Video](https://youtu.be/CToJ_TIWhoU "Find out more")
+    * Vehicle Purchase Invoices  - [Video](https://youtu.be/7AzXrQQwDrM "Find out more")
+    * Vehicle Stock Report
+    * Vehicle Reservations  - [Video](https://youtu.be/SohtRJMdYoQ "Find out more")
+    * VAT Margin Scheme
+    * Internal Prepration Jobsheets  - [Video](https://youtu.be/uucqFgWc6I8 "Find out more")
 
 
 ### 29th December 2019
+
 * Release second generation online booking  - [Video](https://youtu.be/QQwRSnH4oyk "Find out more")
     * Works with any website
     * Automated scheduling

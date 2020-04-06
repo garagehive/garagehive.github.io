@@ -15,6 +15,8 @@
       url: /docs/garagehive-create-an-estimate.html
     - name: Device Users
       url: /docs/garagehive-device-user.html
+    - name: Using Comments
+      url: /docs/garagehive-comments-extended.html 
     - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
 - name: Getting started
