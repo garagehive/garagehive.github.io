@@ -12,4 +12,4 @@ Service Workgroups and Service Hours do not need to be amended under normal circ
 ![](media/garagehive-onlinebooking-22.png)
 
 
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-Resources.html)
+# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-resources.html)

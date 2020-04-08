@@ -198,7 +198,7 @@
   url: "/docs/garagehive-onlinebooking-Intro"
   subitems:
     - name: Intro
-      url: /docs/garagehive-onlinebooking-Intro.html
+      url: /docs/garagehive-onlinebooking-intro.html
     - name: Setup
       url: /docs/garagehive-onlinebooking-setup.html
     - name: Branches
