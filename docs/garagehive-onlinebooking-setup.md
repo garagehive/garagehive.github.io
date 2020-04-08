@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: Setting Up online booking.
+title: Setting Up online booking
 ---
-# Online Booking Setup. 
+# Online Booking Setup 
 Search for “online booking setup” 
 ![](media/garagehive-onlinebooking-1.png)
 
