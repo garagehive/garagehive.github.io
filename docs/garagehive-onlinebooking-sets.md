@@ -13,7 +13,7 @@ Select "Sets"
 
 ![](media/garagehive-onlinebooking-27.png) 
 
-Sets allow you to make widgets for specific sets of service packages, for instance, MOT only for use on your MOT landing page and have the full set of packages available on your home page. 
+Sets allow you to make widgets for specific sets of service packages. For instance, MOT only for use on your MOT landing page and have the full set of packages available on your home page. 
 
 Give your set a code and description,
 

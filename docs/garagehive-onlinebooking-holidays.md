@@ -9,7 +9,7 @@ Click on “navigate” so that you can see the list of set up tables.
 
 ![](media/garagehive-onlinebooking-5.png)
 
-Select "Holidays", Here you need to set your bank holidays and any other days you want to prevent people from making bookings online.
+Select "Holidays", here you need to set your bank holidays and any other days you want to prevent people from making bookings online.
 
 ![](media/garagehive-onlinebooking-11.png) 
 
