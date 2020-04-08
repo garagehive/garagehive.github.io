@@ -8,7 +8,7 @@ service package documentation can be found here - [Set Up Service Packages.](/do
 
 ![](media/garagehive-onlinebooking-35.png)
 
-Why not have a play with our demo system [here.](https://onlinebooking.garagehive.co.uk/cronusmotorsbc.html)
+Why not have a play with our demo system [here.](https://onlinebooking.garagehive.co.uk/cronusmotorsbc.html){:target="_blank"}
 
 N.B Its highly recommended that you get just one service package working with no errors first before adding the additional packages to the setup. 
 
