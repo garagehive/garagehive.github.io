@@ -194,6 +194,31 @@
       url: /docs/garagehive-posted-archived-documents.html      
     - name: Archived Documents 
       url: /docs/garagehive-archived-documents.html
+- name: Online Booking
+  url: "/docs/garagehive-onlinebooking-Intro"
+  subitems:
+    - name: Intro
+      url: /docs/garagehive-onlinebooking-inrto.html
+    - name: Setup
+      url: /docs/garagehive-onlinebooking-setup.html
+    - name: Branches
+      url: /docs/garagehive-onlinebooking-setup-branches.html     
+     - name: Holidays
+      url: /docs/garagehive-onlinebooking-setup-Holidays.html   
+     - name: Service Packages
+      url: /docs/garagehive-onlinebooking-setup-servicepackages.html    
+     - name: Time Grids
+      url: /docs/garagehive-onlinebooking-setup-timegrids.html           
+     - name: Service Workgroups and Service Hours
+      url: /docs/garagehive-onlinebooking-setup-Service-Workgroups-and-Service-Hours.html  
+     - name: Resources
+      url: /docs/garagehive-onlinebooking-setup-Resources.html  
+     - name: Resource Groups
+      url: /docs/garagehive-onlinebooking-setup-Resource-Groups.html 
+    - name: Sets
+      url: /docs/garagehive-onlinebooking-setup-sets.html 
+    - name: Testing
+      url: /docs/garagehive-onlinebooking-setup-testing.html       
 - name: Finance & Accountancy
   url: "#"
   subitems:
