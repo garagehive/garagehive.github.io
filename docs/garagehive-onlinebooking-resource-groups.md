@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Resource Groups".
+title: Setting Up online booking "Resource Groups"
 ---
 # Resource Groups
 BACK IN THE ONLINE BOOKING SETUP PAGE.
@@ -12,4 +12,4 @@ Select "Resources" next,
  “Resource groups” were created previously when we added them to service packages but this gives you quick access to that table if you need to make changes.
  ![](media/garagehive-onlinebooking-26.png)
 
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-sets.html)
+# [NEXT STEP](/docs/garagehive-onlinebooking-sets.html)

@@ -195,7 +195,7 @@
     - name: Archived Documents 
       url: /docs/garagehive-archived-documents.html
 - name: Online Booking
-  url: "#"
+  url: "/docs/garagehive-onlinebooking-intro.html"
   subitems:
     - name: Intro
       url: /docs/garagehive-onlinebooking-intro.html

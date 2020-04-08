@@ -12,4 +12,4 @@ Select "Holidays", Here you need to set your bank holidays and any other days yo
 ![](media/garagehive-onlinebooking-11.png) 
 
  
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-service-packages.html)
+# [NEXT STEP](/docs/garagehive-onlinebooking-service-packages.html)

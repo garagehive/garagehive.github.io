@@ -41,4 +41,4 @@ Send To Emails – This is usually left blank but this can be used for additiona
 
 * Send To Branch Email - Its best practice to tick this, this will send the confirmation message to the email in the branch set up that we will do later on in the setup. 
 
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-branches.html)
+# [NEXT STEP](docs/garagehive-onlinebooking-branches.html)

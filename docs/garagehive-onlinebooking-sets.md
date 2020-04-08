@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: Setting Up online booking "Sets".
+title: Setting Up online booking "Sets"
 ---
-# Sets. 
+# Sets
 BACK IN THE ONLINE BOOKING SETUP PAGE.
 
 Click on “navigate” so that you can see the list of set up tables.
@@ -23,4 +23,4 @@ From the Sets table, you can get the specific sets embed script and or test the 
 ![](media/garagehive-onlinebooking-31.png)
 
 
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-testing.html)
+# [NEXT STEP](/docs/garagehive-onlinebooking-testing.html)

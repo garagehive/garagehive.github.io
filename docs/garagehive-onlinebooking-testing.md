@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: Setting Up online booking "Testing".
+title: Setting Up online booking "Testing"
 ---
-# Testing. 
+# Testing
 
 We are almost there I promise, back in online booking set up you should select "actions" and 
 "test catalogue setup" 

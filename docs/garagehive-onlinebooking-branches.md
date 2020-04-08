@@ -23,4 +23,4 @@ Here you need to make sure the business location is turned on and fill in that l
 * Email address
 ![](media/garagehive-onlinebooking-10.png)
  
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-holidays.html)
+# [NEXT STEP](/docs/garagehive-onlinebooking-holidays.html)

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Resources".
+title: Setting Up online booking "Resources"
 ---
 # Resources
 BACK IN THE ONLINE BOOKING SETUP PAGE.
@@ -17,4 +17,4 @@ Select "Resources" next,
 If a resource only has the 1-hour time grid in it and someone tries to book an MOT at .75 and a service at 1.5 hours that resource would not be available to book as the total amount of time needed exceeds the time grid, as such its typical for Service, General resources etc to have all the time grids allocated 1,2,3,4 & 8 hours. 
 ![](media/garagehive-onlinebooking-25.png)  
 
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-resource-groups.html)
+# [NEXT STEP](/docs/garagehive-onlinebooking-resource-groups.html)
