@@ -203,17 +203,17 @@
       url: /docs/garagehive-onlinebooking-setup.html
     - name: Branches
       url: /docs/garagehive-onlinebooking-branches.html     
-     - name: Holidays
+    - name: Holidays
       url: /docs/garagehive-onlinebooking-holidays.html   
-     - name: Service Packages
+    - name: Service Packages
       url: /docs/garagehive-onlinebooking-service-packages.html    
-     - name: Time Grids
+    - name: Time Grids
       url: /docs/garagehive-onlinebooking-time-grids.html           
-     - name: Service Workgroups and Service Hours
+    - name: Service Workgroups and Service Hours
       url: /docs/garagehive-onlinebooking-service-workgroups-and-service-hours.html  
-     - name: Resources
+    - name: Resources
       url: /docs/garagehive-onlinebooking-resources.html  
-     - name: Resource Groups
+    - name: Resource Groups
       url: /docs/garagehive-onlinebooking-resource-groups.html 
     - name: Sets
       url: /docs/garagehive-onlinebooking-sets.html 
