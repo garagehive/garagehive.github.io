@@ -17,7 +17,7 @@ Their efficiencies and recovery rates can be reported on accurately.
 
 ####    Within Easy Clocking 
 
-See what can be done within: [Easy Clocking](https://docs.garagehive.co.uk/docs/garagehive-easy-clocking.html "Easy Clocking")
+See what can be done within: [Easy Clocking](/docs/garagehive-easy-clocking.html "Easy Clocking")
 
 * A technician who is using the device will have the ability to clock in and out of work. 
 
@@ -37,7 +37,7 @@ Select the  ![](media/garagehive-device-user9.png)
 
 A.      Add comments to the Jobsheet. 
 
-B.    View the [Vehicle Card](https://docs.garagehive.co.uk/docs/garagehive-vehicle-card.html "Vehicle Card")
+B.    View the [Vehicle Card](/docs/garagehive-vehicle-card.html "Vehicle Card")
 
 C.  Take photos of the vehicle. 
 
@@ -47,11 +47,11 @@ E.  View Engine Details.
 
 F.  View Tyres, Wheels & Brake Details. 
 
-G.  Show and/or Create Vehicle Inspections.<br> -   [How to setup Checklists](https://docs.garagehive.co.uk/docs/garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") and [How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection").
+G.  Show and/or Create Vehicle Inspections.<br> -   [How to setup Checklists](docs/garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") and [How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection").
 
-H.  View Vehicle History - [ Service History](https://docs.garagehive.co.uk/docs/garagehive-service-history.html "Service History")
+H.  View Vehicle History - [ Service History](/docs/garagehive-service-history.html "Service History")
 
-I.  View MOT History - [MOT Hisory](https://docs.garagehive.co.uk/docs/garagehive-service-history.html "Service History")
+I.  View MOT History - [MOT Hisory](/docs/garagehive-service-history.html "Service History")
 -   This will include all previous MOT history, including any failures and advisories. 
 
 ![](media/garagehive-device-user11.png)

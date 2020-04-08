@@ -30,7 +30,7 @@ B. Fill in Vehicle Registration No.<br>
 
 ![](media/garagehive-create-an-estimate9.png)
 
-*   If customer has not been in before it will ask you to [Create a new customer card](https://docs.garagehive.co.uk/docs/garagehive-create-a-customer-card.html "Create Customer Card").
+*   If customer has not been in before it will ask you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
 
 ![](media/garagehive-create-an-estimate11.png)
 

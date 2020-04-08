@@ -57,7 +57,7 @@ When creating your message template you can choose from the following field tags
 * [OptOutURL]
 
 Here is an example template]
-> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](https://docs.garagehive.co.uk/docs/ "A example URL") to book online or call us on 02031461163 - Opt-out [OptOutURL]
+> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](/docs/ "A example URL") to book online or call us on 02031461163 - Opt-out [OptOutURL]
 
 ![](media/garagehive-customer-notification-setup-required.png)
 

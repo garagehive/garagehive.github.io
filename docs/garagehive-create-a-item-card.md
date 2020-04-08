@@ -96,7 +96,7 @@ A.  **Reordering Policy** - This is where you can select a part to be a stock it
 
  #   See Also 
 
-[Items to Return Report](https://docs.garagehive.co.uk/docs/garagehive-items-to-return.html "Items to Return Report")
+[Items to Return Report](/docs/garagehive-items-to-return.html "Items to Return Report")
 
 
 

@@ -92,4 +92,4 @@ This is your labour card now created.
 
 #   See Also 
 
-[Creating Service Packages](https://docs.garagehive.co.uk/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive")
+[Creating Service Packages](/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive")
