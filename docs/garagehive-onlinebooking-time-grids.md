@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Time Grids".
+title: Setting Up online booking "Time Grids"
 ---
 # Time Grids
 BACK IN THE ONLINE BOOKING SETUP PAGE.
