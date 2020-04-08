@@ -49,4 +49,4 @@ Tick the "Print Remaining Statements" if you are running statements for multiple
 If you want to email a particular customer, make sure you enter the customer's account number at the bottom of the report. 
 
 # See Also
-[How to Print Statements](https://docs.garagehive.co.uk/docs/garagehive-statements-how-to-print.html "How to print Statements")
+[How to Print Statements](/docs/garagehive-statements-how-to-print.html "How to print Statements")

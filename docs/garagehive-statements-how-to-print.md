@@ -23,4 +23,4 @@ Tick the "Print Remaining Statements" if you are running statements for multiple
 If you want to print a particular customer, make sure you enter the customer's account number at the bottom of the report. 
 
 # See Also
-[How to Email Statements](https://docs.garagehive.co.uk/docs/garagehive-statements-how-to-email.html "How to email Statements")
+[How to Email Statements](/docs/garagehive-statements-how-to-email.html "How to email Statements")

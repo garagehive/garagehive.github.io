@@ -29,7 +29,7 @@ Service due date entered manually after the vehicle has been in for a service.
 This is a combination of information produced via VRM such as Engine No and Capacity. <br> 
 Manual updates to this section can be added such as Engine Oil Capacity and Engine Oil Specification.
 
-This section can also be accessed and updated by a technician if they are a [Device User](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device User").
+This section can also be accessed and updated by a technician if they are a [Device User](/docs/garagehive-device-user.html "Device User").
 
 ![](media/garagehive-vehicle-card3.png)
 
@@ -49,7 +49,7 @@ You can update this section manually with information such as Radio/Immobiliser/
 
 This section is to be manually updated. You can specific where the locking wheel nut location is, including manufacturers minimum thickness specficiation for brakes. 
 
-This section can also be accessed and updated by a technician if they are a [Device User](https://docs.garagehive.co.uk/docs/garagehive-device-user.html "Device User").
+This section can also be accessed and updated by a technician if they are a [Device User](/docs/garagehive-device-user.html "Device User").
 
 ![](media/garagehive-vehicle-card6.png)
 
@@ -85,9 +85,9 @@ Update MOT Data by VRM - If you specifically want to update the MOT Data.
 
 MOT History - View all MOT history of the vehicle which is taken from the DVSA website and includes all previous MOT failures and advisories. 
 
-[Vehicle History](https://docs.garagehive.co.uk/docs/garagehive-service-history.html "Vehicle History") - View all Service history of the vehicle.
+[Vehicle History](/docs/garagehive-service-history.html "Vehicle History") - View all Service history of the vehicle.
 
-[Posted MOT History](https://docs.garagehive.co.uk/docs/garagehive-mot-history.html "MOT History") - View all MOT history of the vehicle. 
+[Posted MOT History](/docs/garagehive-mot-history.html "MOT History") - View all MOT history of the vehicle. 
 
 Posted Jobsheets - View all posted jobsheets for this vehicle.
 
@@ -101,11 +101,11 @@ Posted Return Jobsheets - View any posted credits for this vehicle.
 
 ### Related 
 
-[Customer Card](https://docs.garagehive.co.uk/docs/garagehive-create-a-customer-card.html "Customer Card") - View the Customer information.  
+[Customer Card](/docs/garagehive-create-a-customer-card.html "Customer Card") - View the Customer information.  
 
 Process Checklist - See any completed checklists for this vehicle. 
 
-[Estimates](https://docs.garagehive.co.uk/docs/garagehive-create-an-estimate.html "Estimates") - View any estimates made for this vehicle. 
+[Estimates](/docs/garagehive-create-an-estimate.html "Estimates") - View any estimates made for this vehicle. 
 
 Vehicle Health Checks 
 

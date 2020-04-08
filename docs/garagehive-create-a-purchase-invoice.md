@@ -71,4 +71,4 @@ This will be your Purchase Invoice processed.
 
 #   See Also
 
- [Create a Vendor Card](https://docs.garagehive.co.uk/docs/garagehive-create-a-vendor-card.html "Create a Vendor Card") 
+ [Create a Vendor Card](/docs/garagehive-create-a-vendor-card.html "Create a Vendor Card") 
