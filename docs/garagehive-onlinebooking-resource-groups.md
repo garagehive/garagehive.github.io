@@ -11,6 +11,7 @@ Click on “navigate” so that you can see the list of set up tables.
 
 Select "Resources" next,
  “Resource groups” were created previously when we added them to service packages but this gives you quick access to that table if you need to make changes.
+ [Click here to see that document.](/docs/garagehive-service-resources.html)
  
  ![](media/garagehive-onlinebooking-26.png)
 

@@ -15,4 +15,6 @@ Select "Time Grids"
 
  You should have these by default and they cover most events its recommended that you use these and consult with the team if you have specific requirements that may require these being altered.
 
+![](media/garagehive-onlinebooking-36.png)
+
 # [NEXT STEP](/docs/garagehive-onlinebooking-service-workgroups-and-service-hours.html)
