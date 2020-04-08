@@ -47,4 +47,4 @@ here you can add the service packages that you want to display as additional ser
 ![](media/garagehive-onlinebooking19.png)
 ![](media/garagehive-onlinebooking-20.png)
 
-# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-timegrids.html)
+# [NEXT STEP](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-time-grids.html)
