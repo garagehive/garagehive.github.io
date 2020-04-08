@@ -4,9 +4,11 @@ title: Setting Up online booking
 ---
 # Online Booking Setup 
 Search for “online booking setup” 
+
 ![](media/garagehive-onlinebooking-1.png)
 
 Under the General tab, you will see your license type “full” or “solo” and whether or not your online booking is enabled.
+
 ![](media/garagehive-onlinebooking-2.png)
 
 Under the booking tab, you can make some set up changes as follows,
@@ -27,9 +29,11 @@ Under the booking tab, you can make some set up changes as follows,
 * Default Vehicle Status – Should be set to “CUSTOMER”
 
 * Hide Service Prices – This will hide the sales price of all service packages.
+
 ![](media/garagehive-onlinebooking-3.png)
 
 * Hide Service Expected Time – This hides the expected service times from service packages. (displayed when more info Is clicked along with any extended descriptions set up in the packages)
+
 ![](media/garagehive-onlinebooking-4.png)
 
 * Automatic Booking Confirmation – If enabled will send an email and/or an SMS to the customer confirming there booking.
@@ -41,4 +45,4 @@ Send To Emails – This is usually left blank but this can be used for additiona
 
 * Send To Branch Email - Its best practice to tick this, this will send the confirmation message to the email in the branch set up that we will do later on in the setup. 
 
-# [NEXT STEP](docs/garagehive-onlinebooking-branches.html)
+# [NEXT STEP](/docs/garagehive-onlinebooking-branches.html)
