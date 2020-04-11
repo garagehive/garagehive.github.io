@@ -25,8 +25,8 @@ Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/
 * **Sunday** Closed
 
 ### Support Contact Details
-* **Phone** 02031461164
-* **Email** help@garagehive.co.uk
+* **Phone** - 02031461164
+* **Email** - [help@garagehive.co.uk](mailto:help@garagehive.co.uk)
 
 ### Remote Support
 * **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download"){:target="_blank"}
