@@ -9,7 +9,7 @@ Search for “chart of accounts”
 
 ![](media/garagehive-search-chart-of-accounts.png)
 
-By default, you should have 1200 – bank account and 1201 – savings account.
+By default, you should have 1200 – Bank Account and 1201 – Savings Account.
 
 ![](media/garagehive-chart-of-accounts-default-banks.png)
 
@@ -49,4 +49,4 @@ Finally check the posting group selected is correct for the bank account.
 
 ![](media/garagehive-bank-accounts-posting-group-check.png)
 
-If you will be making payments directly in to or out of this account you may want to set up additional payment methods.
+**If you will be making payments directly in to or out of this account you may want to set up additional payment methods.**
