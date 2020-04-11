@@ -29,7 +29,11 @@ Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/
 * **Email** - [help@garagehive.co.uk](mailto:help@garagehive.co.uk)
 
 ### Remote Support
-* **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download"){:target="_blank"}
+* **ZOHO**
+    *[Windows](https://assist.zoho.eu/install-customer-plugin){:target="_blank"}
+    *[iOS](https://apps.apple.com/gb/app/zoho-assist-customer/id1277551323){:target="_blank"}
+    *[Android](https://play.google.com/store/apps/details?id=com.zoho.assist.agent&hl=en_GB){:target="_blank"}
+    
 
 ### Suggest a feature
 * **Email** alex@garagehive.co.uk with your ideas. 
