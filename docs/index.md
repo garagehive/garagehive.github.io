@@ -39,4 +39,4 @@ Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/
     
 
 ### Suggest a feature
-* **Email** alex@garagehive.co.uk with your ideas. 
+* **Email** [alex@garagehive.co.uk](mailto:alex@garagehive.co.uk) with your ideas.
