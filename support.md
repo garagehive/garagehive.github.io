@@ -15,14 +15,21 @@ title: Garage Hive Support
 * **Sunday** Closed
 
 ### Support Contact Details
-* **Phone** 02031461164
-* **Email** support@garagehive.co.uk
+* **Phone** - [02031461164](tel:02031461164)
+* **Email** - [help@garagehive.co.uk](mailto:help@garagehive.co.uk)
 
 ### Remote Support
-* **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download"){:target="_blank"}
+* **ZOHO - Desktop**
+    * [**Windows**](https://assist.zoho.eu/install-customer-plugin){:target="_blank"}
+    * [**Mac**](https://join.zoho.eu){:target="_blank"}
 
-### Suggest a Feature
-* **Email** alex@garagehive.co.uk
+* **ZOHO - Mobile/Tablets**
+    * [**iOS**](https://apps.apple.com/gb/app/zoho-assist-customer/id1277551323){:target="_blank"}
+    * [**Android**](https://play.google.com/store/apps/details?id=com.zoho.assist.agent&hl=en_GB){:target="_blank"}
+    
+
+### Suggest a feature
+* **Email** - [alex@garagehive.co.uk](mailto:alex@garagehive.co.uk) with your ideas.
 
 ### Community 
 
