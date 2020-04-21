@@ -255,3 +255,8 @@
       url: /docs/garagehive-video-of-common-tasks.html
     - name: Frequently Asked Questions
       url: /docs/garagehive-faqs.html
+    - name: Exports
+      url: "#"
+    subitems:
+      - name: GA3
+        url: /docs/ga3-export-data.html
