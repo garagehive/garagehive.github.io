@@ -257,6 +257,3 @@
       url: /docs/garagehive-faqs.html
     - name: Exports
       url: "#"
-    subitems:
-      - name: GA4
-        url: /docs/ga3-export-data.html
