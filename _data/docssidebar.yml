@@ -258,4 +258,5 @@
     - name: Exports
       url: "#"
       subitems:
-        - name: Exports
+        - name: GA3
+        url: /docs/ga3-export-data.html
