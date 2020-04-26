@@ -1,10 +1,11 @@
 ---
 layout: docs
-title: Customer Notifications
+title: Go Live setup tests 1/3
 ---
-# What are customer notifications?
 
-{% include youtube.html id="Bds8JQgDQN4" %}
+#   Customer notification setup  
+
+ {% include youtube.html id="Bds8JQgDQN4" %}
 ---
 
 In Garage Hive, there are several customer notifications, such as MOT Reminders, Service Reminders & online booking confirmations. In the Customer Notification Setup you can change settings such as how reminders are received, you can customise the templates and adjust the times in which messages are sent. 
@@ -92,3 +93,5 @@ You can find Customer Notification Logs by searching for **Customer Notification
 Alternatively, customer communication logs can also be accessed from a jobsheet.
 
 ![](media/garagehive-customer-notification-log-jobsheet.png)
+
+# [NEXT STEP 2/3 ->](/docs/golive-test-sms-email.html)

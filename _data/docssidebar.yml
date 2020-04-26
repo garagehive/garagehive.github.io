@@ -32,6 +32,8 @@
       url: /docs/garagehive-video-of-common-tasks.html
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
+    - name: Go Live Test's 
+      url: /docs/golive-cust-not-set.html
 - name: Power BI Reporting
   url: "#"
   subitems:
@@ -256,6 +258,4 @@
     - name: Frequently Asked Questions
       url: /docs/garagehive-faqs.html
     - name: Exports from your old GMS
-      url: /docs/export-data.html
-    - name: Export Data from your old GMS
       url: /docs/export-data.html
