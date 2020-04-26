@@ -5,7 +5,7 @@ title: Go Live setup tests 2/3
 
 #   Send an SMS and Email  
 
-Open your jobsheets - Total tile 
+Open your "Jobsheets - Total" tile 
 
 ![](media/garagehive-jobsheet-total-tile.png)
 
@@ -31,6 +31,6 @@ Enter your email address and some text to the body and send
 
 Review the document sent via Email for your company logo and quality
 
-# [<- 2/3 PREVIOUS STEP](/docs/golive-test-sms-email.html)
+# [<- 2/3 PREVIOUS STEP](/docs/golive-cust-not-set.html)
 
 # [NEXT STEP 3/3 ->](/docs/golive-print-invoice.html)

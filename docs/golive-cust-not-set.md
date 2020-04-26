@@ -3,7 +3,7 @@ layout: docs
 title: Go Live setup tests 1/3
 ---
 
-#   Customer notification setup  
+#   Customer Notification Setup  
 
  {% include youtube.html id="Bds8JQgDQN4" %}
 ---
@@ -14,7 +14,7 @@ You can find Customer Notification by searching for **Customer Notification Setu
 
 ![](media/serarch-cust-not-set.png)
 
-## How to setup Customer Notifications
+# How to setup Customer Notifications
 
 Clicking on the "Fast tab" heading will expand the tab 
 
@@ -42,7 +42,7 @@ Each customer notification type has different setup, in this example we will foc
 
 >Garage Hive will not send a reminder to a customer if they already have a booking made in the system for what the reminder is for. 
 
-## How to write your message template
+# How to write your message template
 
 When creating your message template you can choose from the following field tags, these tags will change the message dynamically based on the customer information.
 
@@ -72,7 +72,7 @@ Here is an example template]
 ![](media/garagehive-customer-notification-setup-required.png)
 
 
-## How to preview and verify your template
+# How to preview and verify your template
 
 You have the ability to preview and verify the  notification template you have created.
 
@@ -84,9 +84,9 @@ Simply select the customer and vehicle you want to preview the message for, if y
 
 ![](media/garagehive-customer-notification-setup-fields.png)
 
-## How to view sent messages
+# How to view sent messages
 
-You can find Customer Notification Logs by searching for **Customer Notification Log Entries.**
+You can find Customer Notification Logs by searching for **"Customer Notification Log Entries"**
 
 ![](media/garagehive-customer-notification-log.png)
 

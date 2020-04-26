@@ -5,7 +5,7 @@ title: Go Live setup tests 3/3
 
 #   Print an invoice   
 
-Open your jobsheets - Total tile 
+Open your "Jobsheets - Total" tile 
 
 ![](media/garagehive-jobsheet-total-tile.png)
 
@@ -19,7 +19,8 @@ Review the document for your company logo, quality and and line layout
 
 # Line layout options
 
-{% include youtube.html id="f6X9wVHk" %}
+{% include youtube.html id="ZV_f6X9wVHk" %}
+
 
 There are 9 line layout options to choose from 
 
@@ -33,39 +34,39 @@ There are 9 line layout options to choose from
 * Custom Grouping - Hide labour Qty. and Unit Price 
 * Custom Grouping - Show Totals Only 
 
-# Standard - Standard 
+# **Standard - Standard** 
 
 ![](media/garagehive-printlayout-stdstd.png)
 
-# Standard - Hide labour Qty. and Unit Price
+# **Standard - Hide labour Qty. and Unit Price**
 
 ![](media/garagehive-printlayout-stdhide.png)
 
-# Standard - Show Totals Only 
+# **Standard - Show Totals Only** 
 
 ![](media/garagehive-printlayout-stdtotalsonly.png)
 
-# Group by Line Type - Standard 
+# **Group by Line Type - Standard** 
 
 ![](media/garagehive-printlayout-grouplinestd.png)
 
-# Group by Line Type - Hide labour Qty. and Unit Price
+# **Group by Line Type - Hide labour Qty. and Unit Price**
 
 ![](media/garagehive-printlayout-grouplinehide.png)
 
-# Group by Line Type - Show Totals Only 
+# **Group by Line Type - Show Totals Only**
 
 ![](media/garagehive-printlayout-grouplibetotalsonly.png)
 
-# Custom Grouping - Standard 
+# **Custom Grouping - Standard** 
 
 ![](media/garagehive-printlayout-custstd.png)
 
-# Custom Grouping - Hide labour Qty. and Unit Price 
+# **Custom Grouping - Hide labour Qty. and Unit Price**
 
 ![](media/garagehive-printlayout-custhide.png)
 
-# Custom Grouping - Show Totals Only
+# **Custom Grouping - Show Totals Only**
 
 ![](media/garagehive-printlayout-custtotalsonly.png)
 
