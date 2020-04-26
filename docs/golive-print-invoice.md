@@ -21,6 +21,7 @@ Review the document for your company logo, quality and and line layout
 
 {% include youtube.html id="ZV_f6X9wVHk" %}
 
+---
 
 There are 9 line layout options to choose from 
 
