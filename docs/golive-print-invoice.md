@@ -73,4 +73,4 @@ There are 9 line layout options to choose from
 
 ![](media/garagehive-printlayout-custtotalsonly.png)
 
-# [<- PREVIOUS STEP 2/3](/docs/golive-test-sms-email.html)
+# [<- PREVIOUS STEP 2/3](/docs/golive-sms-email.html)
