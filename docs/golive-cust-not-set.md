@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Go Live setup tests 1/3
+title: Go Live setup 1/3 (Customer Notification Setup)
 ---
 
 #   Customer Notification Setup  
@@ -66,7 +66,7 @@ When creating your message template you can choose from the following field tags
 * [LPostcode]
 * [SurveyURL]
 
-Here is an example template]
+Here is an example template
 > Hi, this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit mot.com to book online. Opt-Out [OptOutURL]
 
 ![](media/garagehive-customer-notification-setup-required.png)
