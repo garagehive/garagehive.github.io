@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Go Live setup tests 3/3
+title: Go Live setup 3/3 (Print Invoice)
 ---
 
 #   Print an invoice   
@@ -13,7 +13,9 @@ Open any of the jobsheets via the job number on the left
 
 ![](media/garagehive-jobsheet-total-list.png)
 
-Select "Print/Send" from the top and "Print Invoice"
+Select "Print/Send" from the top and "Print Invoice" 
+
+![](media/garagehive-jobsheet-print-send-print-invoice.png)
 
 Review the document for your company logo, quality and and line layout 
 

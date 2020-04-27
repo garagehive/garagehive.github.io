@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Go Live setup tests 2/3
+title: Go Live setup 2/3 (SMS & Email)
 ---
 
 #   Send an SMS and Email  
