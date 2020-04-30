@@ -5,6 +5,27 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 30th April 2020
+
+* Added a self check-in feature, allowing customers to check in using a link on their booking reminder
+* Added Contact Name, Booking Date and Booking Time to printed jobsheets
+
+### 20th April 2020
+
+* Added the ability to add an item retail price from a purchase order
+* Added the ability to update an item card retail price from a jobsheet
+* Added the ability to update an item card retail price from the purchase order
+* Added the ability to bulk update MOT information by VRM
+* Added COVID-19 Pre-extended MOT expiry date to vehicle cards
+* Added COVID-19 MOT Exemption slider to Vehicle List and Vehicle Card
+* Added the Pre-extended MOT due date tag to the bulk-sms feature
+
+### 5th April 2020
+
+* Added the ability to print part numbers on sales invoices
+* Added the ability to automatically send booking confirmations
+* Added Payment terms to printed/emailed sales invoices
+
 ### 27th March 2020 - Covid-19 requested features
 
 * Added MailChimp Export
