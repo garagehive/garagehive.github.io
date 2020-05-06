@@ -3,7 +3,7 @@ layout: docs
 title: How to set up the customer self check-in  
 ---
 
-#   Setting up the customer self check-in
+##   Setting up the customer self check-in
 
 Please  Email [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk) and ask the team to activate the feature.
 
