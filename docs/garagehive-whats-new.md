@@ -5,6 +5,16 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 29th May 2020
+
+* Added Starling Bank Import
+* Added send booking reminder action from jobsheet
+* Added the ability to remove certain service types from receiving booking reminders
+* Added "Pay By Garage Link" allowing you to send an SMS or Email from a jobsheet requesting payment online
+* Added Payment Sense Integration
+* Added Document Statistics to Estimate and VI Estimates
+* Added the ability to set a minimum item margin for Jobsheets, Estimates and VI-Estimates per service type
+
 ### 30th April 2020
 
 * Added a self check-in feature, allowing customers to check in using a link on their booking reminder
