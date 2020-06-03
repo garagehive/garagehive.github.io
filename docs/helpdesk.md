@@ -2,7 +2,7 @@
 layout: docs
 title: Help
 ---
-<iframe src='https://outlook.office365.com/owa/calendar/GarageHiveSupport@garagehive.co.uk/bookings/' width='100%' height='100%' scrolling="no" onload="resizeIframe(this)" style='border:0'></iframe>
+<iframe src='https://outlook.office365.com/owa/calendar/GarageHiveSupport@garagehive.co.uk/bookings/' width='100%' height='1000' scrolling="no" style='border:0'></iframe>
 
 
 
