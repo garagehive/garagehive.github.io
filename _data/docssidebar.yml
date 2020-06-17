@@ -72,6 +72,8 @@
       url: /docs/garagehive-customer-notifications.html
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
+    - name: Setting Up eCom Payment Gateway  
+      url: /docs/garagehive-gateway-ecom.html
 - name: Sales
   url: "#"
   subitems:
