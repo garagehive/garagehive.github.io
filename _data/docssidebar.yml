@@ -75,7 +75,7 @@
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
     - name: Setting Up eCom Payment Gateway  
-      url: /docs/garagehive-gateway-ecom.html
+      url: /docs/garagehive-gatewayecom.html
     - name: Customer Self Check-in 
       url: /docs/garagehive-customer-self-check-in.html
 - name: Sales
