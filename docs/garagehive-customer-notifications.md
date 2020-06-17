@@ -11,15 +11,15 @@ In Garage Hive, there are several customer notifications, such as MOT Reminders,
 
 You can find Customer Notification by searching for **Customer Notification Setup.**
 
-![](media/garagehive-customer-notification-setup.png)
+![](media/serarch-cust-not-set.png)
 
-## How to setup Customer Notifications
+# How to setup Customer Notifications
 
-Each customer notification type has different setup, in this example we will focus on how to setup reminders. 
+Clicking on the "Fast tab" heading will expand the tab 
 
-![](media/garagehive-customer-notification-setup-entries.png)
+![](media/cust-not-set-1.png)
 
-Each reminder requires you to setup the following.
+Each customer notification type has different setup, in this example we will focus on how to setup reminders, Each reminder requires you to setup the following.
 * **Type** - _Select the type of reminder you want to send._
     * Disabled
     * SMS
@@ -41,28 +41,37 @@ Each reminder requires you to setup the following.
 
 >Garage Hive will not send a reminder to a customer if they already have a booking made in the system for what the reminder is for. 
 
-## How to write your message template
+# How to write your message template
 
 When creating your message template you can choose from the following field tags, these tags will change the message dynamically based on the customer information.
 
-* [CustName] 
-* [VehReg] 
-* [BookingDate] 
-* [BookingTime] 
-* [ServiceType] 
-* [Make] 
-* [Model] 
-* [MOTDueDate] 
+* [CustName]
+* [VehReg]
+* [BookingDate]
+* [BookingTime]
+* [BookingRef]
+* [SelfCheckInURL]
+* [ServiceType]
+* [Make]
+* [Model]
+* [MOTDueDate]
+* [SafetyCheckDueDate]
 * [ServiceNextDate]
 * [OptOutURL]
+* [LName]
+* [LAddr]
+* [LAddr2]
+* [LCity]
+* [LPostcode]
+* [SurveyURL]
 
 Here is an example template]
-> Hi [CustName] , this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit [docs.garagehive.co.uk](https://docs.garagehive.co.uk/docs/ "A example URL") to book online or call us on 02031461163 - Opt-out [OptOutURL]
+> Hi, this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit mot.com to book online. Opt-Out [OptOutURL]
 
 ![](media/garagehive-customer-notification-setup-required.png)
 
 
-## How to preview and verify your template
+# How to preview and verify your template
 
 You have the ability to preview and verify the  notification template you have created.
 
@@ -70,11 +79,11 @@ To do this, click "actions" in the ribbon, then select the message you wish to v
 
 ![](media/garagehive-customer-notification-setup-verify.png)
 
-Simply select the customer, vehicle or jobsheet you want to preview the message for, if you are happy with the message press OK. 
+Simply select the customer and vehicle you want to preview the message for, if you are happy with the message press OK. 
 
 ![](media/garagehive-customer-notification-setup-fields.png)
 
-## How to view sent messages
+# How to view sent messages
 
 You can find Customer Notification Logs by searching for **Customer Notification Log Entries.**
 

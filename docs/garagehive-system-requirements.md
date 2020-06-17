@@ -31,9 +31,9 @@ Cookies and JavaScript must be enabled in the browser.
 # Garage Hive Application
 
 For the latest information, see the app in the Windows Store, App Store, or Google Play.
-* **Microsoft Store**  [Download](https://www.microsoft.com/en-gb/p/microsoft-dynamics-365-business-central/9nblggh4ql79?rtc=1&activetab=pivot:overviewtab "Microsoft Store")
-* **App Store**  [Download](https://itunes.apple.com/us/app/project-madeira/id1093325047 "App Store")
-* **Google Play**  [Download](https://play.google.com/store/apps/details?id=com.microsoft.dynamics.ProjectMadeira "Google Play")
+* **Microsoft Store**  [Download](https://www.microsoft.com/en-gb/p/microsoft-dynamics-365-business-central/9nblggh4ql79?rtc=1&activetab=pivot:overviewtab "Microsoft Store"){:target="_blank"}
+* **App Store**  [Download](https://itunes.apple.com/us/app/project-madeira/id1093325047 "App Store"){:target="_blank"}
+* **Google Play**  [Download](https://play.google.com/store/apps/details?id=com.microsoft.dynamics.ProjectMadeira "Google Play"){:target="_blank"}
 
 ### Supported operating systems
 * Windows 10 S, Home, Pro, Enterprise, or Education (32-bit and 64-bit editions).
@@ -51,6 +51,6 @@ For the latest information, see the app in the Windows Store, App Store, or Goog
 * Device diagonal screen size 4” for phones.
 * Screen resolution 854 x 480 for phones.
 
-For additional information please visit [docs.microsoft](https://docs.microsoft.com/en-gb/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central "System Requirements for Dynamics 365 Business Central On-premises")
+For additional information please visit [docs.microsoft](https://docs.microsoft.com/en-gb/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central "System Requirements for Dynamics 365 Business Central On-premises"){:target="_blank"}
 
 

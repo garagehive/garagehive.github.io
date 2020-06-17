@@ -5,13 +5,13 @@ title: Garage Hive Documentation
 
 # Welcome to docs.garagehive
 
-We are currently hard at work refreshing all of our documentation for the release of [Business Central](https://www.youtube.com/watch?v=seX9jL-LaEw/ "Garage Hive Business Central")
+We are currently hard at work refreshing all of our documentation, If you cant find what you are looking for please don't hesitate to ask a member of the team.
 
-In the meantime, please visit our [Youtube](https://www.youtube.com/channel/UCEO94MEqoL9C2cIDCorxL6A/ "Garage Hive Youtube") page for our latest how-to videos. Alternatively you can visit our [Blog Page](https://www.garagehive.co.uk/live-blog "Garage Hive Blog") for the latest news
+Please visit our [Youtube Channel](https://www.youtube.com/channel/UCEO94MEqoL9C2cIDCorxL6A/ "Garage Hive Youtube"){:target="_blank"} page for our latest how-to videos. Alternatively you can visit our [Blog Page](https://www.garagehive.co.uk/live-blog "Garage Hive Blog"){:target="_blank"} for the latest news
 
 # Garage Hive Community 
 
-If you are a user of Garage Hive please feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions, community help and to get the chance to speak directly with our development team. 
+Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions, community help and to get the chance to speak directly with our development team. 
 
 # Need Help? 
 
@@ -25,11 +25,18 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 * **Sunday** Closed
 
 ### Support Contact Details
-* **Phone** 02031461164
-* **Email** support@garagehive.co.uk
+* **Phone** - [**02031461164**](tel:02031461164)
+* **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
 
 ### Remote Support
-* **Teamviewer**  [https://get.teamviewer.com/garagehive](https://get.teamviewer.com/garagehive "Remote Support Download")
+* **ZOHO - Desktop**
+    * [**Windows**](https://assist.zoho.eu/install-customer-plugin){:target="_blank"}
+    * [**Mac**](https://join.zoho.eu){:target="_blank"}
+
+* **ZOHO - Mobile/Tablets**
+    * [**iOS**](https://apps.apple.com/gb/app/zoho-assist-customer/id1277551323){:target="_blank"}
+    * [**Android**](https://play.google.com/store/apps/details?id=com.zoho.assist.agent&hl=en_GB){:target="_blank"}
+    
 
 ### Suggest a feature
-* **Email** alex@garagehive.co.uk with your ideas. 
+* **Email** - [**alex@garagehive.co.uk**](mailto:alex@garagehive.co.uk) with your ideas.

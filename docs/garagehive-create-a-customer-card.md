@@ -7,7 +7,7 @@ title: Create a Customer Card.
 
 A customer card can be made in several ways.
 
-Either from the home screen or when [Creating a Booking](https://docs.garagehive.co.uk/docs/garagehive-create-a-booking.html "Creating a Booking") for a new customer. 
+Either from the home screen or when [Creating a Booking](docs/garagehive-create-a-booking.html "Creating a Booking") for a new customer. 
 
 From the home screen 
 
