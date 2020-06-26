@@ -5,6 +5,36 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 28th June 2020
+
+
+* Added access to documents from the vehicle list/card factbox
+
+![](media/garagehive-vehiclelist.jpg)
+* Added customer details to vehicle list/card factbox
+* Added Reason code to VI-Estimate and Estimate list
+* Added the ability to add a "My Tasks Tomorrow" to easy clocking
+* Removed non-inventory items from items to return report
+* Added access to vehicle history from Vehicle Inspections
+* Added the ability for technicians to start task from within a jobsheet
+* Item card vendor no. is now updated when a vendor no. is added to a jobsheet to create a purchase order
+* Prevented the ability to clock onto multiple jobs at the same time unless set to allowed
+* Added email templates and the ability to preview emails before sending
+
+![](media/garagehive-emailtemplate.jpg)
+* Added email signatures taken from company information
+
+![](media/garagehive-emailpreview.jpg)
+* Added Bank of Ireland bank import
+* Contact details are now saved when a customer updates information via self check-in
+* You can no longer delete a vehicle associated with an item
+* Updated the terminology on the summary report inline with Power BI
+* Added the ability to export Sage data to different departments
+* Added a simplified way to make payments/refunds to cash receipt journals
+
+![](media/garagehive-crj.jpg)
+![](media/garagehive-makepayment.jpg)
+
 ### 29th May 2020
 
 ![](media/garagehive-paymentsense.jpg)
