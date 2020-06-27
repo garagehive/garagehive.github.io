@@ -16,7 +16,6 @@ Below is a brief list of Garage Hive developments
 * Added the ability to add a "My Tasks Tomorrow" to easy clocking
 * Removed non-inventory items from items to return report
 * Added access to vehicle history from Vehicle Inspections
-* Added the ability for technicians to start task from within a jobsheet
 * Item card vendor no. is now updated when a vendor no. is added to a jobsheet to create a purchase order
 * Prevented the ability to clock onto multiple jobs at the same time unless set to allowed
 * Added email templates and the ability to preview emails before sending
