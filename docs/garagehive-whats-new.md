@@ -5,6 +5,22 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 31st July 2020
+
+* Added Payment Sense terminal integration. This allows a user to send the payment amount directly to the terminal without having to manually enter the amount on the terminal
+
+![](media/paymentsense-terminal.jpg)
+
+* Added a Receipt Bank CSV bank import
+* Added amount VI-Estimate list
+* Added USER ID to customer communication log entries
+* Added VIN number to technicians jobsheet
+* Added Tech Confirmed columns to posted jobsheets
+* Added the ability to filter which reminders are sent based on last visit date
+* Fixed a bug that prevents discounts being removed from jobsheets when a part number is added to a purchase order
+* Added the ability to define the drop off time in online booking when multiple services are selected. This can be different from the scheduled time. 
+
+
 ### 28th June 2020
 
 
