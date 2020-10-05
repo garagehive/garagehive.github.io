@@ -12,7 +12,7 @@ Below is a brief list of Garage Hive developments
 ![](media/paymentsense-terminal.jpg)
 
 * Added a Receipt Bank CSV bank import
-* Added amount VI-Estimate list
+* Added amount column to VI-Estimate list
 * Added USER ID to customer communication log entries
 * Added VIN number to technicians jobsheet
 * Added Tech Confirmed columns to posted jobsheets
