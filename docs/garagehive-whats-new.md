@@ -5,6 +5,37 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 30th September 2020
+
+Major Power BI Update
+
+* 50 newly designed business reports
+* 3 new embed reports
+
+### 31st August 2020
+
+New Platform Features - [Video](https://youtu.be/3ovTA2JY2No "Find out more")
+
+Including features such as:
+* Multi window support
+* Ability to personalise the system 
+* New keyboard shortcuts
+* New ways to navigate Garage Hive
+* Ability to save filtered lists
+* Ability to add bookmarked pages to any rolecentre
+* Ability to customise role centres
+* and much more..
+
+New System Features - [Video](https://youtu.be/j55YgyCZzxk "Find out more")
+
+Including features such as:
+* New pricing matrix for sales markups
+* New discount matrix
+* Ability to send multiple customer reminders based on a single date field
+* Added lots of new vehicle reminder fields
+* Updated and renamed rolecentre tiles
+* Improved auto clockout function 
+
 ### 31st July 2020
 
 * Added Payment Sense terminal integration. This allows a user to send the payment amount directly to the terminal without having to manually enter the amount on the terminal
