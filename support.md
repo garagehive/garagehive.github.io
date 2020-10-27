@@ -11,11 +11,12 @@ title: Garage Hive Support
 * **Wednesday** 8am - 6pm
 * **Thursday** 8am - 6pm
 * **Friday** 8am - 6pm
-* **Saturday** 8am - 6pm
+* **Saturday** 8am - 1pm
 * **Sunday** Closed
 
 ### Support Contact Details
 * **Phone** - [**02031461164**](tel:02031461164)
+* **Portal** - [**garagehive.co.uk/helpdesk**](Help Desk)
 * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
 
 ### Remote Support
