@@ -24,10 +24,10 @@ Once you are in your Admin Portal, select "Tenant settings", scroll to the botto
 # **Installing the App.**
 
 
-# [Garage Hive Power BI App Version 17](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=14ff1c02-b849-43ff-8408-e5dafb26c958P1n2Sp7pqQPx86Tiojk4sN-fMFHzEE1EzP9-m81lhck&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=17"Power BI Update URL"){:target="_blank"}
+> # [Garage Hive Power BI App Version 17](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=14ff1c02-b849-43ff-8408-e5dafb26c958P1n2Sp7pqQPx86Tiojk4sN-fMFHzEE1EzP9-m81lhck&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=17){:target="_blank"}
 
 
-To install the app, click on teh link above, please make sure you are logged into your Garage Hive Power BI on the same web browser. 
+To install the app, click on th link above, please make sure you are logged into your Garage Hive Power BI on the same web browser. 
 
 After clicking the link, Power BI will ask if you want to install the app. 
 
