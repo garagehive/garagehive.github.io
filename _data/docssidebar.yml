@@ -78,9 +78,8 @@
       url: /docs/garagehive-gatewayecom.html
     - name: Customer Self Check-in 
       url: /docs/garagehive-customer-self-check-in.html
-    subitems: Easy Clocking
     - name: Creating Pool jobs
-      url: /docs/garagehive-customer-self-check-in.html          
+      url: /docs/garagehive-creating-pool-jobs.html          
 - name: Sales
   url: "#"
   subitems:
