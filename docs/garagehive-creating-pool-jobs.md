@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Creating Pool Jobs for easy clocking 
+title: Creating Pool Jobs for Easy Clocking 
 ---
 
 #   Creating Pool Jobs 
