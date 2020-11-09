@@ -233,7 +233,7 @@
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
     - name: Xero Integration
-      url: "#"
+      url: /docs/garagehive-finance-accountancy-export-xero.html
       subitems:
         - name: Xero Integration Setup
           url: /docs/garagehive-finance-accountancy-export-xero.html
