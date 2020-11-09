@@ -227,13 +227,18 @@
       url: /docs/garagehive-onlinebooking-sets.html 
     - name: Testing
       url: /docs/garagehive-onlinebooking-testing.html       
-- name: Dynamics Finance & Accountancy
+- name: Finance & Accountancy
   url: "#"
   subitems:
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
     - name: Xero Integration
       url: /docs/garagehive-finance-accountancy-export-xero.html
+      name: TEST
+      url: /docs/garagehive-finance-cash-receipt-journal.html
+      subitems:
+        - name: test2
+        - url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: Cash Receipt Journals
       url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: Registering Customer Payments
