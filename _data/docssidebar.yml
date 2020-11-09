@@ -235,7 +235,7 @@
     - name: Xero Integration
       url: /docs/garagehive-finance-accountancy-export-xero.html
     - name: TEST
-      url: "#"
+      url: /docs/xero-payment-is-applied-to-more-than-one-document.html
       subitems:
         - name: test2
         - url: /docs/garagehive-finance-cash-receipt-journal.html
