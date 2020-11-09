@@ -7,7 +7,7 @@ title: Updating your credentials
 
 {% include youtube.html id="dcvhako90OE" %}
 
-## Upating your Credentials
+# Upating your Credentials
 
 Sometimes you will need to update your Garage Hive credentials within Power BI, this allows Power BI to access your system to collect the necessary data to produce the reports. 
 

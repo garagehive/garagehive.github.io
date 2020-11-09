@@ -5,7 +5,7 @@ title: Refreshing your Data
 
 #   How to to refresh your data
 
-## How to schedule a refresh
+# How to schedule a refresh
 
 {% include youtube.html id="iB1gOxYTn4k" %}
 
@@ -27,7 +27,7 @@ You must press Apply once you have compelted your setup.
 
 ![](media/powerbi-schedule-refresh-times.png)
 
-## How to force a refresh.
+# How to force a refresh.
 
 Outside of the scheduled refresh, you can force a refresh at any time. please select your app and then select edit. 
 
