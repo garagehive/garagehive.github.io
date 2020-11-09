@@ -233,7 +233,10 @@
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
     - name: Xero Integration
-      url: /docs/garagehive-finance-accountancy-export-xero.html
+      url: "#"
+      subitems:
+        - name: Xero Integration Setup
+          url: /docs/garagehive-finance-accountancy-export-xero.html
     - name: Cash Receipt Journals
       url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: Registering Customer Payments
