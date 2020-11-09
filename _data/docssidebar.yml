@@ -259,13 +259,6 @@
       url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
     - name: How to create new Bank Accounts
       url: /docs/garagehive-create-new-bank-account.html
-- name: Xero Finance & Accountancy
-  url: "#"
-  subitems:
-    - name: Xero Integration
-      url: /docs/garagehive-finance-accountancy-export-xero.html
-    - name: Payment is applied to more than one document
-      url: /docs/xero-payment-is-applied-to-more-than-one-document.html
 - name: FAQS
   url: "#"
   subitems:
