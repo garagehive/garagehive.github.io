@@ -13,4 +13,5 @@ We often notice that the reminder file provided during the standard export only 
 
 There contact details are,
 
-* **Phone** - [**01226352904**](tel:01226 352904)
+* **Phone** - [**01226352904**](tel:01226 352904) 
+* **Email** - [**awolsupport@mamsoft.co.uk**](mailto:awolsupport@mamsoft.co.uk)
