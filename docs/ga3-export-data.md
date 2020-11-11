@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to extract the required data for Garage Hive 
+title: How to extract the required data for Garage Hive from GA3
 ---
 
 #   How to extract the required data 
