@@ -7,7 +7,6 @@ Below is a brief list of Garage Hive developments
 
 ### 31st November 2020
 
-
 * TCard Major Update
     * Full TCard customisation
     * Tooltips and tooltip customisation
@@ -15,7 +14,6 @@ Below is a brief list of Garage Hive developments
     * Each clocking integration
 
 * Checklist Major Update
-
     * Introduced a new checklist type - Quality Control
     * Added a new jobsheet tile - "Requires QC"
     * Added the ability to automatically create a checklist on jobsheet creation, depending on the service type and customer group
@@ -31,7 +29,6 @@ Below is a brief list of Garage Hive developments
     * Added VI-Estimate & Estimate reminder report
 
 * Additional Changes
-
     * Added a jobsheet complete tile, for jobsheets that are in-between allocation complete and ready for collection 
     * Phone number 2, Mobile number 2, Customer Contact Notes and the ability to add multiple email addresses to a Jobsheet & Customer Card
     * Add a new popup window on allocation completion for technicians that haven't "Tech Confirmed" all labours and items
@@ -39,8 +36,6 @@ Below is a brief list of Garage Hive developments
     * Service Advisor codes on Jobsheets and now synchronised with checklists
     * Customer Self check-in photos can now be made optional to the end user
     * Added the option to email a pro-forma invoice from a jobsheet
-
-
 
 ### 31st October 2020
 
