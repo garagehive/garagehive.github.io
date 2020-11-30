@@ -5,6 +5,10 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 31st November 2020 (Autumn Update)
+
+
+
 ### 30th September 2020
 
 Major Power BI Update
