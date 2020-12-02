@@ -4,7 +4,7 @@ title: How to use Checklists in Garage Hive
 ---
 # How to setup and work with Checklists
 
-{% include youtube.html id="q7Vidsf-5dM" %}
+{% include youtube.html id="biWot0Z4r9w" %}
 
 Checklists offer the ability to create an inspection sheet/checklist for all areas of your business. For example, a vehicle inspection is a type of checklist. 
 
@@ -12,39 +12,37 @@ Checklists offer the ability to create an inspection sheet/checklist for all are
 
 Checklists have the following structure 
 
-* Checklist
-    * Questionnaire Templates (Header)
-        * Question Groups (Questions belonging to a Questionnaire Template)
+* Checklist Templates
+    * Checklist Template Item Groups
+        * Checklist Items
 
-## Questionnaire Templates
+## Checklist Templates
 
-A questionnaire template is considered the header of the Checklist, each questionnaire template must have at least one **Linked Question Group**
+A Checklist Template is considered the header of the Checklist, each Checklist Template must have at least one **Checklist Template Item Group**
 
-## Question Groups
+## Checklist Items
 
-**Question Groups** are where you enter your checklist questions, a question group for example could be about "tyres" and could consist of a traffic light system and check boxes like the example below. 
+**Checklist Items** are where you enter your checklist questions, a checklist item for example could be about "tyres" and could consist of a traffic light system and check boxes like the example below. 
 
 ![](media/garagehive-checklists-group-example1.png)
 
-**Question groups** can be linked to multiple **Questionnaire Templates**, for example a **Tyre Question Group** could belong in the **Full Service Questionnaire Template** and the **Interim Service Questionnaire Template**. 
+**Checklist Template Item Groups** can be linked to multiple **Checklist Template**, for example a **Tyre Checkist Item Group** could belong in the **Full Service Checklist Template** and the **Interim Service Checklist Template**. 
 
 ## How to create a checklist
 
-From the home screen, click on the bulb on the top right hand corner
+From the home screen, click on the search icon in the top right hand corner
 
-Type in the search box Question Templates 
+Type in the search box "Checklist Templates"
 
-![](media/garagehive-checklists-how-to-create-menu1.png)
-
-Start by creating a new questionnaire template, the questionnaire template will be the description of your checklist that you select from when deciding which checklist to complete as a technician. You will be linking Question Groups to your Questionnaire Templates using the "Linked Question Groups". Before you do this, you must create your Question Groups
+Start by creating a new Checklist Template, the Checklist Template will be the description of your checklist that you select from when deciding which checklist to complete as a technician. You will be linking Checklist Templates to your Checklist Template Item Groups using the "Linked Item Groups" action. Before you do this, you must create your Checklist Items
 
 ![](media/garagehive-checklists-questionnaire-templates1.png)
 
-Now you need to create some Question Groups to link with your Questionnaire Template. 
+Now you need to create some Checklist Items to link with your Checklist Item Groups. 
 
 ![](media/garagehive-checklists-questiongroups1.png)
 
-There are several things you must do when creating a new Question Group. To do this select Question Groups from the menu and press "+New" 
+There are several things you must do when creating a new Checklist Item. To do this select Question Groups from the menu and press "+New" 
 
 * **No.** - Each line must have a number, this is the order in which the questions will appear. 
 * **Caption** - The caption is what will appear on the line of the questions
@@ -59,23 +57,23 @@ There are several things you must do when creating a new Question Group. To do t
 
 ![](media/garagehive-checklists-example-setup1.png)
 
-*   Then select Questions
+*   Then select Items
 
 ![](media/garagehive-checklists-example-setup2.png)
 
-The above example of a **Question Group** setup will result in the checklist example below. Select the "New Line from Template" button within the Process button along the action bar to use some of the preset examples. 
+The above example of a **Checklist Item** setup will result in the checklist example below. Select the "New Line from Template" button within the Process button along the action bar to use some of the preset examples. 
 
 ![](media/garagehive-checklists-setup-questions.png)
 
-In order to complete your setup, you need to link your **Question Group** to your **Questionnaire Templates**. do to this, go to the **Questionnaire Templates** menu and select the **Questionnaire Template** and press "Linked Question Groups". 
+In order to complete your setup, you need to link your **Checklist Items Groups** to your **Checklist Templates**. do to this, go to the **Checklist Templates** menu and select the **Checklist Template** and press "Linked Item Groups". 
 
 ![](media/garagehive-checklists-questionnaire-templates-linked-groups1.png)
 
-Select the Questionnaire Template Code, then select a Question Group Code. Finally, add a Sorting No. to determine the order in which the Question Groups appear on the checklist. 
+Select the Checklist Template Code, then select a Checklist Template Item Group. Finally, add a Sorting No. to determine the order in which the Checklist Template Item Groups appear on the checklist. 
 
 ![](media/garagehive-checklists-questionary-template-question-groups1.png)
 
-Once you have done this, your checklist is ready to preview. Simply create a Vehicle Inspection from the checklist menu and select the new checklist you have created to preview it. 
+Once you have done this, your checklist is ready to preview. Simply create a checklist from the checklist menu and select the new checklist you have created to preview it. 
 
 # See Also
 [How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection")
