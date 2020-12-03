@@ -5,9 +5,9 @@ title: Cancelling a Jobsheet and Reopening for Incorrect Payment Method.
 
 #   Cancelling a Jobsheet and Reopening for Incorrect Payment Method. 
 
-{% include youtube.html id="X7pi18919EE" %}
+{% include youtube.html id="4H50FX9LCPw" %}
 
-When a job has been invoiced and the incorrect payment method has been selected. 
+When a jobsheet has been posted and the incorrect payment method has been selected. 
 
 Please follow these steps on how to reopen the jobsheet and correct. 
 
