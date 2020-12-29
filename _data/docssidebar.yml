@@ -91,6 +91,10 @@
       url: /docs/garagehive-scheduling-work.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
+    - name: Take Payment (Preview) for posted sales documents
+      url: /docs/take-payment.html
+    - name: Taking a deposit against a customer account
+      url: /docs/take-payment-deposit.html            
     - name: How to Group Item Lines on a Jobsheet and Invoice
       url: /docs/garagehive-grouping.html
     - name: Correcting an Incorrect Payment
@@ -120,8 +124,10 @@
       url: /docs/garagehive-create-external-service.html
     - name: Process Purchase Returns
       url: /docs/garagehive-shipped-items-purchase-return-order.html
-    - name: Posted & Archived Documentss
+    - name: Posted Documents
       url: /docs/garagehive-posted-archived-documents.html
+    - name: Archived Documents
+      url: /docs/garagehive-archived-documents.html
     - name: Removing Posting Restrictions 
       url: /docs/garagehive-removing-posting-restrictions.html
 - name: Inventory
@@ -178,8 +184,6 @@
       url: /docs/garagehive-filter-lists.html
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-working-on-it.html
-    - name: Archive Documents
-      url: /docs/garagehive-posted-archived-documents.html
     - name: Copy Documents
       url: /docs/garagehive-copydocument.html
 - name: End of Day Process
@@ -195,7 +199,7 @@
       url: /docs/garagehive-items-to-return.html
     - name: Time Registration Entries
       url: /docs/garagehive-time-registration-entries.html
-- name: Posted & Archived Documents 
+- name: Payments 
   url: "#"
   subitems:
     - name: Posted Documents 
