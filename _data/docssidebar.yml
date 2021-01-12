@@ -70,7 +70,7 @@
       url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
-      name: Creating Service Package Conditions
+    - name: Creating Service Package Conditions
       url: /docs/service-package-conditions.html
     - name: Setting up Reminders
       url: /docs/garagehive-customer-notifications.html 
