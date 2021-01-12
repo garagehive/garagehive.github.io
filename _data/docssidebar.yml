@@ -71,7 +71,7 @@
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
       name: Creating Service Package Conditions
-      url: /docs/service-packages-conditions.html
+      url: /docs/service-package-conditions.html
     - name: Setting up Reminders
       url: /docs/garagehive-customer-notifications.html 
     - name: Setting Up Devices 
