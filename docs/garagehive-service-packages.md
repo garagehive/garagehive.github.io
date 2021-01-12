@@ -42,6 +42,6 @@ Once you start creating new versions, you may find the need or want to copy vers
 
 ![](media/service-package-manage.png)
 
-## For information about setting up service packages conditions [click here](/docs/service-package-conditions.html)
+For information about setting up service packages conditions [click here](/docs/service-package-conditions.html)
 
-## For information about setting up service packages for online booking [click here](/docs/garagehive-onlinebooking-service-packages.html)
+For information about setting up service packages for online booking [click here](/docs/garagehive-onlinebooking-service-packages.html)
