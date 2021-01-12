@@ -41,7 +41,6 @@ In addition to this you will get an additional column within the version lines "
 Once you start creating new versions, you may find the need or want to copy versions if each version is very similar, to do this select "manage" next to Versions. You will see two options "copy" copied the selected version to the line beneath and "Copy From" allows you to choose versions to form other packages and copy them into this package.
 
 ![](media/service-package-manage.png)
-![](media/test.png)
 
 For information about setting up service packages conditions [click here](/docs/service-package-conditions.html)
 
