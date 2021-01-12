@@ -31,6 +31,6 @@ Location, Production year ranges and engine capacity ranges are set from the ver
 
 ![](media/service-package-conditions-lines.png)
 
- ## For information about setting up service packages [click here](/docs/garagehive-service-packages.html)
+ For information about setting up service packages [click here](/docs/garagehive-service-packages.html)
 
- ## For information about setting up service packages for online booking [click here](/docs/garagehive-onlinebooking-service-packages.html)
+ For information about setting up service packages for online booking [click here](/docs/garagehive-onlinebooking-service-packages.html)
