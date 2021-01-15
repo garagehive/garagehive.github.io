@@ -42,7 +42,7 @@ Now edit the list and enter the correct payment method code.
 
 ---
 
-Finally re-apply the entry before running teh export to xero again.
+Finally re-apply the entry before running the export to xero again.
 
 ---
 
