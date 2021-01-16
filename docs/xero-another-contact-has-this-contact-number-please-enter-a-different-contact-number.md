@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Account could not be found.
+title: Another contact has this contact number. Please enter a different contact number.
 ---
 
-#   Account could not be found. 
+#   Another contact has this contact number. Please enter a different contact number. 
 
 This error is most commonly seen when a contact has been merged in Xero whilst there are outstanding documents for that contact, in this instance when Garage Hive tries to interact with the previous entries in Xero it produces an error. 
 
