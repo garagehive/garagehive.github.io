@@ -245,6 +245,18 @@
       subitems:
         - name: Payment is applied to more than one document
           url: xero-payment-is-applied-to-more-than-one-document.html
+        - name: Payments can only be made against Authorised documents Payment amount exceeds the amount outstanding on this document.
+          url: xero-payments-can-only-be-made-against-authorised-documents-payment-amount-exceeds-the-amount-outstanding-on-this-document.html
+        - name: Invoice not of valid status for modification This document cannot be edited as it has a payment or credit note allocated to it.
+          url: xero-invoice-not-of-valid-status-for-modification-this-document-cannot-be-edited-as-it-has-a-payment-or-credit-note-allocated-to-it.html
+        - name: Account could not be found.
+          url: xero-account-could-not-be-found.html
+        - name: Email address must be valid.
+          url: xero-Email-address-must-be-valid.html
+        - name: Another contact has this contact number. Please enter a different contact number.
+          url: xero-another-contact-has-this-contact-number-please-enter-a-different-contact-number.html
+        - name: This Payment is not applied.
+          url: xero-this-Payment-is-not-applied.html                    
     - name: Cash Receipt Journals
       url: /docs/garagehive-finance-cash-receipt-journal.html
     - name: Registering Customer Payments
