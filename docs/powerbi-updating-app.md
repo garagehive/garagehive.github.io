@@ -9,7 +9,7 @@ Periodically you will need to update your Power BI Garage Hive App.
 
 To do this, login to your Garage Hive Power BI account and click on the link below.
 
-# [Garage Hive Power BI App Version 19](https://app.powerbi.com/Redirect?action=InstallApp&amp;appId=739eb02b-643e-4bc3-a9ae-61191a89452d&amp;packageKey=38a53dd3-e1fa-4001-bcd0-3d0251f7856eqHJA246RcPKZYI2rVOg5hlOpvB0PA9TIzapdwYpqVM0&amp;ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&amp;buildVersion=19&amp;fbclid=IwAR2adQn6_MGZyvAwqW4k5cH8zOfv0t1FUxYSKHYtHAUyc2zy3t3Rgb3Pur0"Power BI Update URL"){:target="_blank"}
+# [Garage Hive Power BI App Version 20](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=d14ed8ad-ff80-4255-a467-af6df6f00f49FKINvwWskhP5QfduOI-514LNOFbL2o8YPmlWNQldkgc&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=20"Power BI Update URL"){:target="_blank"}
    
 
 Select Install.
