@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Create a Item Card.
+title: Create an Item Card.
 ---
 
-#   Create a Item Card.
+#   Create an Item Card.
 
 
 *   Select Catalogues in the Home Screen. 
@@ -21,7 +21,7 @@ title: Create a Item Card.
 #   You will now be able to start building the Item Card. 
 ####   The item card is split down into several Sub-Categories 
 
-## ITEM
+# ITEM
 
 ![](media/garagehive-create-a-item-card4.png)
 
@@ -42,7 +42,7 @@ BF - Brake Fluid - Unit of Measure = LTR (Litre)*<br>
 
 E.  **Item Category Code** - This is pre-selected when chosing which item template for the item card. 
 
-##  INVENTORY 
+#  INVENTORY 
 
 ![](media/garagehive-create-a-item-card5.png)
 
@@ -58,7 +58,7 @@ This can be changed to "No" in certain scenarios. <br>
 
 *i.e. CONSUMABLES - You are wanting to add a Consumables Cost on your invoices rather than booking out specific parts each time.*
 
-##  COSTS & POSTING 
+#  COSTS & POSTING 
 
 ![](media/garagehive-create-a-item-card6.png)
 
@@ -80,7 +80,7 @@ E.  **Inventory Posting Group** - These are pre-defined fields to select from - 
 
 **DO NOT Create your own without discussing with a member of the Support Team.**  
 
-##  PRICES & SALES 
+#  PRICES & SALES 
 
 ![](media/garagehive-create-a-item-card7.png)
 
@@ -88,28 +88,14 @@ A.  **Unit Price**  - You can set a fixed price you wish this item to be sold ou
 
 B.  **Price/Profit Calculation** - Profit=Price-Cost
 
-##  PLANNING
+#  PLANNING
 
 ![](media/garagehive-create-a-item-card8.png)
 
-A.  **Reordering Policy** - This is where you can select a part to be a stock item, so that it will not show on your *"Items to Return Report"*.
+A.  **Reordering Policy** - Choose Maximum Qty. to select denote this as a stock item, so that it will not show on your *"Items to Return Report"*.
 
  #   See Also 
 
+[Create item templates](/docs/create-item-templates.html "Create item templates") 
+
 [Items to Return Report](/docs/garagehive-items-to-return.html "Items to Return Report")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
