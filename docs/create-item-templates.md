@@ -7,6 +7,8 @@ title: Create item card templates.
 
 {% include youtube.html id="mbS2QuaEagE" %}
 
+---
+
 To create new item templates search for "Item Catagories." 
 Here you will see a column to the right "Item template count" this shows you any item templates are using this category already if you click on the value in this field the applicable templates will pop up. 
 

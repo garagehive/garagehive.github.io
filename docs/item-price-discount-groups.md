@@ -7,6 +7,8 @@ title: Create item Price/Discount groups and update items.
 
 {% include youtube.html id="Q7uRrSmHyMk" %}
 
+---
+
 Item price/Discount groups can be used to set up markups, pricing and discounts for specific items. 
 
 Search for the related table "Item price groups" or "item discount groups." 

@@ -147,7 +147,7 @@
       url: /docs/garagehive-stock-adjustments.html
     - name: How to set retail prices, margins & markups
       url: /docs/garagehive-item-pricing-markup.html
-    - name: Create item Price/Discount groups and update items
+    - name: ee
       url: /docs/item-price-discount-groups.html      
 - name: Workshop Operations
   url: "#"
