@@ -137,6 +137,8 @@
   subitems:
     - name: Create New Items
       url: /docs/garagehive-create-a-item-card.html
+    - name: Create Item Card Templates
+      url: /docs/create-item-templates.html      
     - name: How to setup Non Inventory Items 
       url: /docs/garagehive-non-inventory.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
@@ -145,6 +147,8 @@
       url: /docs/garagehive-stock-adjustments.html
     - name: How to set retail prices, margins & markups
       url: /docs/garagehive-item-pricing-markup.html
+    - name: Create item Price/Discount groups and update items
+      url: /docs/item-price-discount-groups.html      
 - name: Workshop Operations
   url: "#"
   subitems:
