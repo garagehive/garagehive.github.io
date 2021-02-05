@@ -147,7 +147,7 @@
       url: /docs/garagehive-stock-adjustments.html
     - name: How to set retail prices, margins & markups
       url: /docs/garagehive-item-pricing-markup.html
-    - name: ee
+    - name: How to create item Price/Discount groups and update items
       url: /docs/item-price-discount-groups.html      
 - name: Workshop Operations
   url: "#"
@@ -243,7 +243,7 @@
     - name: External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
     - name: Xero Integration
-      url: /docs/garagehive-finance-accountancy-export-xero.html
+      url: /docs/xero-api-intergration.html
     - name: Xero Integration Errors
       url: /docs/xero-errors.html
       subitems:
