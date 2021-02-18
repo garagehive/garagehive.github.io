@@ -21,7 +21,6 @@ You can export the following
 
 # Initial Setup
 
-If you wish to use the Xero API, a member of the team will complete the API setup. Once this has been completed you have to complete the final parts of the setup. 
 
 To find the setup for the accountancy integration, search for Accountancy Integration Setup 
 
@@ -38,6 +37,55 @@ You can also dictate the state of the document when it is exported to Xero. The 
 **Please note, if you plan to export sales receipts/payments the sales documents must be approved**
 
 ![](media/garagehive-xero-setup.png)
+
+To set up the integration, you will need to set up an "app" within Xero. 
+
+Go to https://developer.xero.com/myapps/ and sign in using your Xero credentials.
+Now select New App in the middle or top right of the screen.
+
+Name the App; It needs to be unique, so we recommend that you use your garage name -GH, but it can be anything. Fill out the following fields as described below and create the App.
+
+Company or application URL - ht<span>tps://www.garagehive.co.uk
+
+OAuth 2.0 redirect URI - ht<span>tps://hivemgtservice.garagehive.co.uk/xero-oauth2/callback
+
+---
+
+![](media/xero-2-orth-app.png)
+
+---
+
+Once created copy the client id and paste it into Garage Hive then select Generate secret, copy that and paste that ingo Garage Hive and click save in Xero.
+
+---
+
+![](media/xero-2-orth-app-2.png)
+
+---
+
+Now in Garage Hive select actions > Xero > Authorise
+
+---
+
+![](media/xero-2-orth-app-3.png)
+
+---
+
+You will be forwarded to a Xero page and asked to select the correct company and vary the connection details. 
+
+---
+
+![](media/xero-2-orth-app-4.png)
+
+---
+
+Select Allow access and a successful integration will be confirmed.
+
+---
+
+![](media/xero-2-orth-app-5.png)
+
+---
 
 # How to run the export 
 
