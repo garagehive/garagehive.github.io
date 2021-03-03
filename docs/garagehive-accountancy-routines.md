@@ -10,7 +10,7 @@ The purpose of this document is to assist with your accountancy routines, if all
 
 * Get used to using the search function (Alt+Q) instead of the menu to navigate around the accountancy system. 
 
-* If a customer has paid via a bank transfer, we strongly recommend that you apply the payment only whilst performing a "Payment Reconciliation Journal" and to avoid applying the payment manually.
+* If a customer has paid via a bank transfer, we strongly recommend that you apply the payment only whilst performing a "Payment Reconciliation Journal" and to avoid applying the payment manually. This greatly reduced the chance of duplicating transactions on your bank account. 
 
 * Watch this video to learn how to add new G/L Accounts (Nominal Codes) [Video](https://youtu.be/QljybTkEKYM "More Info")
 
@@ -32,6 +32,8 @@ These tasks should ideally be completed daily and if possible, the reconciliatio
 Your daily reconciliation is the most important aspect of your accountancy process. If your end of day process is strict and the reconciliation is accurate, the rest of your accountancy process will be a lot easier. 
 
 We recommend having a separate folder for each day of the week. Each Posted purchase invoice should be placed in this folder during the day, this is also useful to separate the posted purchase invoices from those that still need posting. 
+
+Some of these processes relate to the general use of the service side Garage Hive. 
 
 For an accurate daily reconciliation, the following must be complete:
 
@@ -60,6 +62,8 @@ This "End of Day" folder should then be passed to the person responsible for you
 ## Weekly Routines
 
 * Post Business Purchase Invoices (Utilities, etc) - [Video](https://youtu.be/BDwUIGrgRQo "How to post Business Purchase Invoices")
+* Check any outstanding Purchase Orders over a week old
+* Check any outstanding Purchase Return Orders over a week old
 * Bank reconciliation / Payment reconciliation journal (this can also be done daily) - [Video](https://youtu.be/WiAnm_VUQVQ "Payment Reconciliation Journal")
 * Check your bank balances are correct - Use the search function and search for "Bank Account", select the relevant bank account and in the action bar select Navigate -> Balance. Select the desired "View by" and "View as" options as necessary. If there is a difference, identify which date the difference occurred and select the balance figure, this will open the bank ledger entries related to that day for you to analyse. 
 
@@ -69,7 +73,9 @@ This "End of Day" folder should then be passed to the person responsible for you
 ## Monthly Routines 
 
 * Bank reconciliation / Payment reconciliation journal (this should have been done weekly, make sure the month is completely posted) - [Video](https://youtu.be/WiAnm_VUQVQ "Payment Reconciliation Journal")
-* Check your bank balances are correct - Use the search function and search for "Bank Account", select the relevant bank account and in the action bar select Navigate -> Balance. Select the desired "View by" and "View as" options as necessary. If there is a difference, identify which date the difference occurred and select the balance figure, this will open the bank ledger entries related to that day. 
+* Check your bank balances are correct - Use the search function and search for "Bank Account", select the relevant bank account and in the action bar select Navigate -> Balance. Select the desired "View by" and "View as" options as necessary. If there is a difference, identify which date the difference occurred and select the balance figure, this will open the bank ledger entries related to that day.
+* Check any outstanding Purchase Orders over a month old
+* Check any outstanding Purchase Return Orders over a month old
 * Reconcile Supplier Statements - [Video](https://youtu.be/1lD1oDTGNGA "More Info")
 * Check open Vendor ledger entries, if there are open entries make sure that they are legitimate transactions that do not need applying - [Video](https://youtu.be/9ZAu4ZsHWrU "More Info")
 * Check Aged Debtors is correct and matches the Trial Balance - [Video](https://youtu.be/_69SUvoUx-U "How to print Trial Balance, Aged Debtors and Aged Creditors - Business Central")
@@ -83,8 +89,8 @@ This "End of Day" folder should then be passed to the person responsible for you
 
 ## Quarterly Routines
 
-* Check your VAT Liability for the month - [Video](https://youtu.be/xOU4GByl7yg "More Info")
-* Analyse your VAT Entries for the month - [Video](https://youtu.be/bW8LF0xUdUQ "More Info")
+* Check your VAT Liability for the quarter - [Video](https://youtu.be/xOU4GByl7yg "More Info")
+* Analyse your VAT Entries for the quarter - [Video](https://youtu.be/bW8LF0xUdUQ "More Info")
 * Submit your VAT via MTD - [Video](https://youtu.be/nHc-qOl9e64 "More Info")
 * Make sure that once you have submitted your VAT you Calculate and Post your VAT Settlement as per this [Video](https://youtu.be/nHc-qOl9e64?t=211 "More Info"). **This is a critical process, if you have any questions please contact support.** 
 
