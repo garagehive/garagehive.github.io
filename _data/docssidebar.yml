@@ -281,8 +281,8 @@
       url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
     - name: How to create new Bank Accounts
       url: /docs/garagehive-create-new-bank-account.html
-    - name: Accountancy Routines
-      url: /docs/garagehive-accountancy-routine.html
+    - name Accountancy Routines
+      url: /docs/garagehive-accountancy-routines.html
 - name: FAQS
   url: "#"
   subitems:
