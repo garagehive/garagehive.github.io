@@ -16,7 +16,7 @@ The purpose of this document is to assist with your accountancy routines, if all
 
 ## Daily Routines
 
-These tasks should ideally be completed daily and if possible, the reconciliation should be done on the same day.  
+These tasks should ideally be completed daily and if possible, the reconciliation should be done on the same day. Some of these processes relate to the general use of the service side of Garage Hive. 
 
 * Post Jobsheets (Retail customers)
 * Post Jobsheets (Account customers with payment terms)
@@ -32,8 +32,6 @@ These tasks should ideally be completed daily and if possible, the reconciliatio
 Your daily reconciliation is the most important aspect of your accountancy process. If your end of day process is strict and the reconciliation is accurate, the rest of your accountancy process will be a lot easier. 
 
 We recommend having a separate folder for each day of the week. Each Posted purchase invoice should be placed in this folder during the day, this is also useful to separate the posted purchase invoices from those that still need posting. 
-
-Some of these processes relate to the general use of the service side Garage Hive. 
 
 For an accurate daily reconciliation, the following must be complete:
 
