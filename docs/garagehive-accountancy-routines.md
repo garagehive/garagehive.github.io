@@ -10,7 +10,7 @@ The purpose of this document is to assist with your accountancy routines, if all
 
 * Get used to using the search function (Alt+Q) instead of the menu to navigate around the accountancy system. 
 
-* If a customer has paid via a bank transfer, we strongly recommend that you apply the payment only whilst performing a "Payment Reconciliation Journal" and to avoid applying the payment manually. This greatly reduced the chance of duplicating transactions on your bank account. 
+* If a customer has paid via a bank transfer, we strongly recommend that you apply the payment only whilst performing a "Payment Reconciliation Journal" and to avoid applying the payment manually. This greatly reduces the chance of duplicating transactions on your bank account. 
 
 * Watch this video to learn how to add new G/L Accounts (Nominal Codes) [Video](https://youtu.be/QljybTkEKYM "More Info")
 
