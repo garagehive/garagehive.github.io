@@ -4,7 +4,7 @@ title: Garage Hive's Accountancy Routines
 ---
 # Accountancy Routines
 
-The purpose of this document is to assist with your accountancy routines, if all the tasks in this document are routinely complete your accounts should be accurate. If you are unsure how to complete any of the tasks, please contact support. 
+The purpose of this document is to assist with your accountancy routines, if all the tasks in this document are routinely completed your accounts should be accurate. If you are unsure how to complete any of the tasks, please contact support. 
 
 ## Tips and recommendations
 
