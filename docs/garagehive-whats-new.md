@@ -11,7 +11,7 @@ Below is a brief list of Garage Hive developments
 * Added the ability to view comments to archived documents, such as jobsheets
 * Added customer category to markups, sales prices and discounts
 * Purchase Orders & Purchase Return Orders will now auto re-open when released
-* Added a restriction to stop users accidentally correcting a posted sales invoice instead of a posted jobsheet
+* Added a restriction to stop users accidentally correcting a posted sales invoice instead of a posted jobsheet 
 * Added the ability to filter vehicle list by booking date for bulk SMS / data export
 * Changed the jobsheet line checker to a 🚩
 * Added the ability to print a posted sales credit memo
