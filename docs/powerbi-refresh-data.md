@@ -23,7 +23,7 @@ Enable "Keep your data up to date"
 
 You can also add additional refresh times if you wish, you can setup up to 8 refresh times. 
 
-You must press Apply once you have compelted your setup. 
+You must press Apply once you have compeleted your setup. 
 
 ![](media/powerbi-schedule-refresh-times.png)
 

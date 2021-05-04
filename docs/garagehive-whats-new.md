@@ -5,6 +5,44 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 28th February 2021
+
+* Added access to all customer documents from the customer card/list Factbox
+* Added the ability to view comments to archived documents, such as jobsheets
+* Added customer category to markups, sales prices and discounts
+* Purchase Orders & Purchase Return Orders will now auto re-open when released
+* Added a restriction to stop users accidentally correcting a posted sales invoice instead of a posted jobsheet 
+* Added the ability to filter vehicle list by booking date for bulk SMS / data export
+* Changed the jobsheet line checker to a 🚩
+* Added the ability to print a posted sales credit memo
+* Added the ability to have a default location code selected on an item card
+* Added Awaiting Parts and Awaiting Advisor tiles to Estimates
+* Added a Jobsheets Requires Parts Ordering tile
+
+### 31st January 2021
+
+* Updated the some of literature used from the customers perspective in online booking
+* Added the ability to make a service package in online booking "Morning Drop-Off" only
+* Customers booking online will now have the earliest time slot available automatically selected
+* Added Vehicle weight to service package conditions
+* Added Engine code to service package conditions
+* Added Transmission type to service package conditions
+* Added Extended Status to purchase return orders
+* When items are created, the item card will no longer open
+* Added the ability to update the Item Descriptions from documents to the Item card
+* Added "Item Price Groups" concept, allowing very detailed Markups rules, such as rim size
+* Added the ability to filter customer statements by Branch dimension
+
+### 31st December 2020
+
+* Introduced a Take Payment wizard, this wizard simplifies the payment application process
+* Added the ability to fix the line amount on a Service Package. When changing the quantity of an item such as oil, the line amount will remain fixed and the unit price will be automatically adjusted. 
+* Added Vehicle Registration Number to Jobsheets Attention tile list
+* Added Customer Category as a condition in Service Packages
+* Added the ability to copy service packages versions to new or existing Service Packages
+* Added the USER ID column to customer notification entries
+* A jobsheet will no longer release if it fails to post
+
 ### 31st November 2020
 
 * TCard Major Update
