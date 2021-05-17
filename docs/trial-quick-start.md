@@ -18,18 +18,27 @@ Module 1 looks at logging into Garage Hive for the first time, creating a bookin
 
 #### Welcome to your home screen (role centre)
 
+---
+
 {% include youtube.html id="R_mLcdbFWdo" %}
 
+---
 
 ####  How to create a booking
 
+---
+
 {% include youtube.html id="MJqFUQyV2Tc" %}
 
+---
 
 #### How to populate a jobsheet
 
+---
+
 {% include youtube.html id="ABnKqYB4f3A" %}
 
+---
 
 ### Now practice these steps
 

@@ -10,12 +10,19 @@ Finally we will look at the differences between an estimate and a vehicle inspec
 
 ####  How to create an Estimate
 
+---
+
 {% include youtube.html id="otMUsW5hGAA" %}
+
+---
 
 #### How to process a Vehicle Inspection
 
+---
+
 {% include youtube.html id="LldJYN6HkeU" %}
 
+---
 
 ### Now practice these steps
 

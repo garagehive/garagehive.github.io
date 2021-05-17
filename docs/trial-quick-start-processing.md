@@ -10,11 +10,19 @@ Here we will look at the process of when a customer arrives to drop their vehicl
 
 #### How to process a vehicle arriving
 
+---
+
 {% include youtube.html id="pBSymFc-9m8" %}
+
+---
 
 #### How to process a jobsheet to invoice
 
+---
+
 {% include youtube.html id="SdgMs_uS9Y0" %}
+
+---
 
 ### Now practice these steps
 
