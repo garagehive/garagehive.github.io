@@ -10,19 +10,35 @@ Here we will look at purchasing & Parts within Garage Hive. In this module you w
 
 ####  How to create a purchase order
 
+---
+
 {% include youtube.html id="M1KB7dSiZrY" %}
+
+---
 
 #### How to process a purchase order/invoice
 
+---
+
 {% include youtube.html id="eKXEvrj1QQQ" %}
+
+---
 
 #### How view items to return
 
+---
+
 {% include youtube.html id="EyVbV50EwaQ" %}
+
+---
 
 #### How create a purchase return order
 
+---
+
 {% include youtube.html id="X81T5UAOTNU" %}
+
+---
 
 ### Now practice these steps
 
