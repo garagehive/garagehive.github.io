@@ -12,9 +12,9 @@ Contact us on [**02031461164**](tel:02031461164) if you have any questions.
 
 It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. 
 
-## Getting started
+# Getting started
 
-Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
+Here we will look at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
 
 #### Welcome to your home screen (role centre)
 
