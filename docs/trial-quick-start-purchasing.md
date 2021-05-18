@@ -5,7 +5,7 @@ title: Trial Quick Start Guide
 
 #   Purchasing and Parts
 
-Here we will look at purchasing & Parts within Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
+Here we will look at purchasing & parts within Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
 
 
 ####  How to create a purchase order
