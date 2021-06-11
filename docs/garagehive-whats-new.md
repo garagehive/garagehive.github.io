@@ -17,9 +17,11 @@ Below is a brief list of Garage Hive developments
 * Improved the checklist UI for technician devices. The textbox will now expand as the technicians are typing
 * Added the ability to lookup a new MOT date from within a jobsheet
 * Improved the way in which vehicle reminder dates updated
+* Introduced the concept of labour types, allowing labour cards to be assigned to vehicle reminder dates. 
 * Added the ability to write off deposits as profit
 * Introduced Vehicle Sales Orders, with the ability to generate part exchange documents, take deposits and sales produce vehicle sales invoices
 * Introduced Vehicles Sales order status tiles
+* Improved the Comments for Attention tile, this now works with all service documents including Estimate and Vehicle Inspection Estimates
 
 ### 30th April 2021
 
