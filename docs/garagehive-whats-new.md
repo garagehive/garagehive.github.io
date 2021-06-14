@@ -5,6 +5,46 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 6th June 2021
+
+* Added the ability to filter service packages by Vehicle Model
+* Added the ability to have a separate online booking/service package description
+* Added the ability to request deposit payment and account payments by Garage Link
+
+### 31st May 2021
+
+* Added transmission type to service documents factbox
+* Improved the checklist UI for technician devices. The textbox will now expand as the technicians are typing
+* Added the ability to lookup a new MOT date from within a jobsheet
+* Improved the way in which vehicle reminder dates updated
+* Introduced the concept of labour types, allowing labour cards to be assigned to vehicle reminder dates. 
+* Added the ability to write off deposits as profit
+* Introduced Vehicle Sales Orders, with the ability to generate part exchange documents, take deposits and sales produce vehicle sales invoices
+* Introduced Vehicles Sales order status tiles
+* Improved the Comments for Attention tile, this now works with all service documents including Estimate and Vehicle Inspection Estimates
+
+### 30th April 2021
+
+* Made several UI improvements to Online Booking date selection process
+* Added vehicle registration to purchaes order print outs
+* Added the take payment feature to vehicle sales invoices
+* Added NPS score/gauge to customer list/card factbox
+* Created a report to produce a list of customers that have received an MOT reminder that haven't booked in
+* Introduced a QC awaiting confirmation tile
+
+### 31st March 2021
+
+* MOT Lookup now works for Northern Ireland Vehicles
+* Mileage entered on a vehicle inspection will also be pushed to the jobsheet
+* Posting a jobsheet will now automatically complete any allocations
+* Added the ability to report on Jobsheet/booking creation date in Power BI
+* Extended comments will now print on vehicle sales invoices
+* Added the ability to email Purchase Return Orders
+* Added the ability to automatically create a corresponding purchase invoice when posting internal jobsheets. 
+* Booking reminders will no longer be sent if the vehicle is already marked as onsite
+* Added the ability to print/email payment receipts and deposits
+* Introduced the ability to take deposits and apply deposits 
+
 ### 28th February 2021
 
 * Added access to all customer documents from the customer card/list Factbox
