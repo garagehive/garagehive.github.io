@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Account could not be found.
+title: User Management.
 ---
 
 #   How to manage system users within Garage Hive 

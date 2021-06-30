@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Service Package Creation
+title: My Notifications
 ---
 
 # How to edit your notifications within Garage Hive.
