@@ -54,6 +54,8 @@
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
+    - name: Managing user's
+      url: /docs/user-management.html
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
     - name: Create an External Service
@@ -82,6 +84,8 @@
       url: /docs/garagehive-gatewayecom.html
     - name: Customer Self Check-in 
       url: /docs/garagehive-customer-self-check-in.html
+    - name: My Notifications
+      url: /docs/my-notifications.html
     - name: Creating Pool jobs
       url: /docs/garagehive-creating-pool-jobs.html          
 - name: Sales
