@@ -5,19 +5,7 @@ title: How to extract the required data for Garage Hive from GA3
 
 #   How to extract the required data 
 
-Click on "Admin" at the top on the right .
-
-![](media/ga3-export-data-admin.png)
-
-Then select "CSV Data Export" ga3-export-data-export-vehicle-data.png
-
-![](media/ga3-export-data-csv.png)
-
-Then select "Export Vehicle Data" this will give us a list of vehicles and there owners. 
-
-![](media/ga3-export-data-export-vehicle-data.png)
-
-For vehicle history please talk to [**SWS Solutions (UK) Ltd**](https://www.sws-solutions.co.uk/contact.php){:target="_blank"}
+To obtain the correctly formatted data for us to import into Garage Hive you will need to ask [**SWS Solutions (UK) Ltd**](https://www.sws-solutions.co.uk/contact.php){:target="_blank"} to preform an export of your data for you, please don't forget to ask for your vehicle history.
 
 ### Support Contact Details
 * **Phone** - [**02031461164**](tel:02031461164)
