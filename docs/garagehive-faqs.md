@@ -35,7 +35,7 @@ Once you have built the quote up within the Vehicle Health Check and the custome
 
 ![](media/garagehive-faqs3.png)
 
-This will then ask you to choose which job you want the lines adding to, after you have selected this and conrfirmed the authorised work will be addded to the job. 
+This will then ask you to choose which job you want the lines adding to, after you have selected this and confirmed the authorised work will be addded to the job. 
 
 See video below as a guide.
 
@@ -45,7 +45,7 @@ See video below as a guide.
 
 If you search for the customer within the home screen. 
 
-Once you find the relevant customer, you will be able to see the customers Balance, together with any costs against them. You can also click on the figure it will open the Customer Ledger Entries, which will show the specifics whic  of this amount 
+Once you find the relevant customer, you will be able to see the customers Balance, together with any costs against them. You can also click on the figure it will open the Customer Ledger Entries, which will show the specifics of this amount 
 
 ![](media/garagehive-faqs4.png)
 
@@ -120,8 +120,8 @@ Yes a jobsheet can be split. See below step by step guide.
 
 1.  From within the jobsheet, select Process 
 2.  Within Process press Split Document. (This will load a new Service Splitting page). 
-3.  At this point you will see Service Splitting Lines. Untick the lines which you want putting on a seperate jobsheet/invoice.
+3.  At this point you will see Service Splitting Lines. Untick the lines which you want putting on a separate jobsheet/invoice.
 4.  Once you have unticked these select Actions within the Actions Bar and then press Split. 
 5.  You will then see a pop up message which will advise you of the new jobsheet number for the lines which you have unticked. 
 
-You will now have 2 jobsheets open for this customer/vehicle. 
+You will now have 2 jobsheets open for this customer/vehicle.

@@ -12,7 +12,7 @@ Power BI is a reporting platform as a service built by Microsoft. Garage Hive us
 
 Garage Hive has their own app built on the Power BI platform, the app is a paid for service and to access the app you must have paid for the Garage Hive Power BI subscription. 
 
-Power BI ins't restricted to just data from Garage Hive, you can import external data such as Google Analytics. 
+Power BI isn't restricted to just data from Garage Hive, you can import external data such as Google Analytics. 
 
 To get started, please follow the links below, in the right order. 
 

@@ -26,7 +26,7 @@ Below is a brief list of Garage Hive developments
 ### 30th April 2021
 
 * Made several UI improvements to Online Booking date selection process
-* Added vehicle registration to purchaes order print outs
+* Added vehicle registration to purchase orders print outs
 * Added the take payment feature to vehicle sales invoices
 * Added NPS score/gauge to customer list/card factbox
 * Created a report to produce a list of customers that have received an MOT reminder that haven't booked in
@@ -299,7 +299,7 @@ Including features such as:
     * Vehicle Stock Report
     * Vehicle Reservations  - [Video](https://youtu.be/SohtRJMdYoQ "Find out more")
     * VAT Margin Scheme
-    * Internal Prepration Jobsheets  - [Video](https://youtu.be/uucqFgWc6I8 "Find out more")
+    * Internal Preparation Jobsheets  - [Video](https://youtu.be/uucqFgWc6I8 "Find out more")
 
 
 ### 29th December 2019
@@ -465,7 +465,7 @@ Including features such as:
 ### 21st August 2019
 
 * Technicians now have access to Autodata Oil and Lubricant Data from Easy Clocking
-* Added Extended Labour Descriptions to Jobsheets & Estimates and Labour Cards, allowing upto 10,000 characters per description
+* Added Extended Labour Descriptions to Jobsheets & Estimates and Labour Cards, allowing up to 10,000 characters per description
 * Copy Document function will now copy work descriptions
 * Added ability for Service Advisors to Assign jobs to themselves - [Video](https://youtu.be/ALZgQyT-Xgg "Filtered Tiles")
 * Added ability to have tiles filtered to particular Service Advisors 

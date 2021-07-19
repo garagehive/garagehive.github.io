@@ -13,7 +13,7 @@ To copy a document, select "Process" and then select "Copy Document"
 
 Then select the "Document Type" you would like to copy. 
 
-> Tip - Posted Jobsheets are refered to as Posted Orders. 
+> Tip - Posted Jobsheets are referred to as Posted Orders. 
 
 Use the 3 dots (...) to select the document you want to copy. 
 

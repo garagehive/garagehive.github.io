@@ -9,7 +9,7 @@ title: Create item card templates.
 
 ---
 
-To create new item templates search for "Item Catagories." 
+To create new item templates search for "Item Categories." 
 Here you will see a column to the right "Item template count" this shows you any item templates are using this category already if you click on the value in this field the applicable templates will pop up. 
 
 The idea here is that item categories can be kept concise while using varying templates that contain specific information to be used for markups and pricing.

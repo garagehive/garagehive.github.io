@@ -13,7 +13,7 @@ User the search function to find "Checklist Templates"
 
 ![](media/garagehive-checklist-templates.png)
 
-Wtihin Checklist Tempaltes you can import or export selected checklists. 
+Within Checklist Templates you can import or export selected checklists. 
 
 ![](media/garagehive-checklist-import-export.png)
 

@@ -47,7 +47,7 @@ You can update this section manually with information such as Radio/Immobiliser/
 
 ### Tyre, Wheels & Brakes 
 
-This section is to be manually updated. You can specific where the locking wheel nut location is, including manufacturers minimum thickness specficiation for brakes. 
+This section is to be manually updated. You can specific where the locking wheel nut location is, including manufacturers minimum thickness specification for brakes. 
 
 This section can also be accessed and updated by a technician if they are a [Device User](/docs/garagehive-device-user.html "Device User").
 
