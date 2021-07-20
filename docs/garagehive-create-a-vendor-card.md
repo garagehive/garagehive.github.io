@@ -77,7 +77,7 @@ E.  **Vendor Posting Group** - These are pre-defined fields to select from.
 
 Please note that the majority of the time this should be set up as **DOMESTIC.**
 
-F.  **Non-stock Item Prefix** - If you have a non-stock profile for this Vendor, if you put a prefix here this will show in front of the part number when you bring it into stock.  
+F.  **Nonstock Item Prefix** - If you have a nonstock profile for this Vendor, if you put a prefix here this will show in front of the part number when you bring it into stock.  
 
 ##  PAYMENTS
 

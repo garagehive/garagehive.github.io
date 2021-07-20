@@ -54,11 +54,11 @@ Module 2 looks at purchasing in Garage Hive. In this module you will learn how t
 
 {% include youtube.html id="eKXEvrj1QQQ" %}
 
-#### How view items to return
+#### How to view items to return
 
 {% include youtube.html id="EyVbV50EwaQ" %}
 
-#### How create a purchase return order
+#### How to create a purchase return order
 
 {% include youtube.html id="X81T5UAOTNU" %}
 
