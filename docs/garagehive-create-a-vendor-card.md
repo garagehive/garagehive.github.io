@@ -77,7 +77,7 @@ E.  **Vendor Posting Group** - These are pre-defined fields to select from.
 
 Please note that the majority of the time this should be set up as **DOMESTIC.**
 
-F.  **Nonstock Item Prefix** - If you have a non-stock profile for this Vendor, if you put a prefix here this will show in front of the part number when you bring it into stock.  
+F.  **Nonstock Item Prefix** - If you have a nonstock profile for this Vendor, if you put a prefix here this will show in front of the part number when you bring it into stock.  
 
 ##  PAYMENTS
 
@@ -89,7 +89,7 @@ F.  **Nonstock Item Prefix** - If you have a non-stock profile for this Vendor, 
 
 **Payment Method Code** - Specifies how to make a payment, such as with bank transfers, cash or cheque. 
 
-**Priority** - Specifies the importance of the vendor when suggesting paymewnts using the Suggest Payments function. 
+**Priority** - Specifies the importance of the vendor when suggesting payments using the Suggest Payments function. 
 
 **Block Payment Tolerance** - Specifies if the vendor allows payment tolerance.  
 

@@ -31,7 +31,7 @@ A.  **No.** - This is pre populated when you select a Vendor Name.
 
 B.  **Vendor Name** - Choose your Vendor Name  
 
-C.  **Vendor Invoice No.** - Input the Vendoe Invoice Number here. 
+C.  **Vendor Invoice No.** - Input the Vendor Invoice Number here. 
 
 ![](media/garagehive-create-a-purchase-invoice4.png)
 
@@ -45,7 +45,7 @@ Fill in the lines
         -   Charge (Item) 
         -   External Service 
 
-**No.** - Input Part number/ G/L Acount etc.
+**No.** - Input Part number/ G/L Account etc.
 
 **Description/Comment** - Type what you will want to appear on the purchase invoice. 
 

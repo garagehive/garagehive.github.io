@@ -23,7 +23,7 @@ On the Cash Receipt Journal, it is recommend you setup the columns as per the im
 
 You must supply the following information to complete the Cash Receipt Journal
 
-* **Posting Date** - The date of the trasnaction
+* **Posting Date** - The date of the transaction
 * **Document Type** - Must be Payment
 * **Document Number** - Will be preset
 * **Account Type** - Must be Customer

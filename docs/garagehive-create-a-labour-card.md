@@ -62,7 +62,7 @@ I.  **Gen Prod. Posting Group** - These are pre-defined fields to select from. <
 Select the most relevant General Product Posting Group. 
 
 *   CONS - Consumables 
-*   DIAG - Diagnotic 
+*   DIAG - Diagnostic 
 *   EXTERNAL - External Services 
 *   FLUIDS - Fluids 
 *   MISC - Miscellaneous 

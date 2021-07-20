@@ -22,11 +22,11 @@ You can export the following
 * Vendor Invoices
 * Vendor Credit memos
 
-**Please note, we currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system** 
+**Please note, we currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system** 
 
 # How to run the export 
 
-To create an export, first you must ensure that you set up is complete, please contact a memeber of the team to assist you in the set up. Once the set up is complete you can run an export by searching for "Export to Accountancy System" 
+To create an export, first you must ensure that you set up is complete, please contact a member of the team to assist you in the set up. Once the set up is complete you can run an export by searching for "Export to Accountancy System" 
 
 ![](media/garagehive-finance-accountancy-export.png)
 

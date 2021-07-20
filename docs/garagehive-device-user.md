@@ -51,7 +51,7 @@ G.  Show and/or Create Vehicle Inspections.<br> -   [How to setup Checklists](do
 
 H.  View Vehicle History - [ Service History](/docs/garagehive-service-history.html "Service History")
 
-I.  View MOT History - [MOT Hisory](/docs/garagehive-service-history.html "Service History")
+I.  View MOT History - [MOT History](/docs/garagehive-service-history.html "Service History")
 -   This will include all previous MOT history, including any failures and advisories. 
 
 ![](media/garagehive-device-user11.png)

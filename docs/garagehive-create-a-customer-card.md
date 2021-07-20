@@ -102,7 +102,7 @@ You can set a specific customer payment terms within the customer card.
 
 ![](media/garagehive-create-a-customer-card10.png)
 
-Within the GDPR and Communcation Policy section, you can tick off the customer's preferences for communcation. 
+Within the GDPR and Communication Policy section, you can tick off the customer's preferences for communication. 
 
 Once the box for GDPR Consent Form signed box is ticked it will show YES on a jobsheet for this specific customer.  
 

@@ -16,9 +16,9 @@ In the mean time search (top right or Alt Q) for **"Customer Notification Setup"
 
 Scroll down to **Booking Reminder** and amend the text for both SMS and Email to include the field tag **[SelfCheckInURL]**.
 
-You will need to include some instructonal text for your customers for example
+You will need to include some instructional text for your customers for example
 
->"IMPORTANT -  please follow this link before posting your key in the designated drop off box and follow the onscreen instructions [SelfCheckInURL]".
+>"IMPORTANT -  please follow this link before posting your key in the designated drop off box and follow the on-screen instructions [SelfCheckInURL]".
 
 Once this is done click "actions" in the ribbon, then select the Booking Reminder option. 
 
