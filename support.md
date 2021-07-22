@@ -6,9 +6,9 @@ title: Garage Hive Support
 # Need help? 
 
 ### Support Opening Hours
-* **Monday** 8am - 6pm.
+* **Monday** 8am - 6pm
 * **Tuesday** 8am - 6pm
-* **Wednesday** 8am - 6pm.
+* **Wednesday** 8am - 6pm
 * **Thursday** 8am - 6pm
 * **Friday** 8am - 6pm
 * **Saturday** 8am - 1pm
