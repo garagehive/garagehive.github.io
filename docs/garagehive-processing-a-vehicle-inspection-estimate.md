@@ -4,7 +4,7 @@ title: How to Process a Vehicle Inspection Estimates (VIEs)
 ---
 # How to Process Vehicle Inspection Estimates (VIEs) 
 
-VIE in Garage Hive offer the ability to manage and monitor your upsell, additional authorisation and estimates across all of your service staff. VIE are created by confirming a checklist such as, [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") or **Quality Control**.
+VIE in Garage Hive offer the ability to manage and monitor your up-sell, additional authorisation and estimates across all of your service staff. VIE are created by confirming a checklist such as, [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") or **Quality Control**.
 
 ## In this article
 1. [Create a VIE from a checklist template](#create-a-vie-from-a-checklist-template)
