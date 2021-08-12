@@ -7,7 +7,7 @@ title: How to Process a Vehicle Inspection Estimates (VIEs)
 VIE in Garage Hive offer the ability to manage and monitor your upsell, additional authorisation and estimates across all of your service staff. VIE are created by confirming a checklist such as, [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") or **Quality Control**.
 
 ## In this article
-1. [Create a VIE from a checklist template](#create-a-vie-from-a-checklist-template).
+1. [Create a VIE from a checklist template](#create-a-vie-from-a-checklist-template)
 2. [Carry out the vehicle checks from the checklist template](#carry-out-the-vehicle-checks-from-the-checklist-template)
 3. [Confirm the checklist to create a vehicle inspection estimate](#confirm-the-checklist-to-create-a-vehicle-inspection-estimate)
 4. [Add items and labour to the VIE and change status](#add-items-and-labour-to-the-VIE-and-change-status)
@@ -19,13 +19,12 @@ To create a vehicle inspection estimate from a checklist template, click on **Ch
 
 ![](media/garagehive-vehicle-inspection-estimate1.gif)
 
-### Carry out the checks from the checklist template
+### Carry out the vehicle checks from the checklist template
 The checklist template created has fields to be filled according to the actual checks on the vehicle. For each field, there is colour codes indicate the level of priority required (refer to the colour key). Besides every colour codes, you can add a comment (see below).
 
 ![](media/garagehive-vehicle-inspection-estimate2.gif)
 
 ### Confirm the checklist to create a vehicle inspection estimate
-
 After completing the vehicle checks, the checklist is now ready for the next stage. Click on **Process** from the top navigation bar and select **Confirm**, you will get a query if you want to create a vehicle inspection estimate, say yes (see below).
 
 ![](media/garagehive-vehicle-inspection-estimate3.gif)
@@ -34,8 +33,8 @@ After completing the vehicle checks, the checklist is now ready for the next sta
 >
 > After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card.
 
-### Add Items and labour to the VIE and change status
- From the role centre, you can check the status tiles of the vehicle inspection estimate:
+### Add items and labour to the VIE and change status
+From the role centre, you can check the status tiles of the vehicle inspection estimate.
 
 ![](media/garagehive-vie-awaiting-action.png)
 
