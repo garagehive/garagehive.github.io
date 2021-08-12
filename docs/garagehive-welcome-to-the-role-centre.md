@@ -50,6 +50,6 @@ Click on the search icon (top right corner) and search **branch profile setup** 
 
 ![](media/garagehive-role-centre-add-external-links.gif)
 
-**See Also**
+### **See Also**
 
 [Video: Welcome to the role centre](https://www.youtube.com/watch?v=R_mLcdbFWdo).

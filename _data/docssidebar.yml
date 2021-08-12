@@ -26,8 +26,6 @@
       url: /docs/garagehive-whats-new.html
     - name: Minimum Requirements
       url: /docs/garagehive-system-requirements.html
-    - name: Trial Quick Start Guide
-      url: /docs/trial-quick-start.html
     - name: Garage Hive Training Modules - Beginners
       url: /docs/garagehive-training.html
     - name: Videos of Common Tasks
@@ -289,6 +287,17 @@
       url: /docs/garagehive-create-new-bank-account.html
     - name: Accountancy Routines
       url: /docs/garagehive-accountancy-routines.html
+- name: Trial Documentation
+  url: "#"
+  subitems:
+    - name: Trial Quick Start Guide
+      url: /docs/trial-quick-start.html
+    - name: Welcome to Your Role Centre 
+      url: /docs/garagehive-welcome-to-the-role-centre.html
+    - name: Create Your First Booking
+      url: /docs/garagehive-create-your-first-booking.html
+    - name: Adding Items and Labour in a Jobsheet
+      url: /docs/garagehive-adding-items-and-labour-to-a-jobsheet.html
 - name: FAQS
   url: "#"
   subitems:
