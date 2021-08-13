@@ -291,7 +291,7 @@
   url: "#"
   subitems:
     - name: Trial Quick Start Guide
-      url: /docs/trial-quick-start-guide.html
+      url: /docs/trial-quick-start.html
     - name: Welcome to Your Trial Role Centre
       url: /docs/garagehive-trial-welcome-to-the-role-centre.html
     - name: Creating Your First Booking in Your Trial
@@ -304,6 +304,8 @@
       url: /docs/garagehive-trial-processing-a-purchase-order.html
     - name: Viewing Items to Return in Your Trial
       url: /docs/garagehive-trial-viewing-items-to-return.html
+    - name: Creating a Purchase Return Order in Your Trial
+      url: /docs/garagehive-trial-creating-a-purchase-return-order.html
     - name: Processing a Vehicle Arriving in Your Trial
       url: /docs/garagehive-trial-processing-a-vehicle-arriving.html
     - name: Processing a Jobsheet to Invoice in Your Trial
