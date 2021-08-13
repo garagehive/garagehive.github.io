@@ -26,8 +26,6 @@
       url: /docs/garagehive-whats-new.html
     - name: Minimum Requirements
       url: /docs/garagehive-system-requirements.html
-    - name: Trial Quick Start Guide
-      url: /docs/trial-quick-start.html
     - name: Garage Hive Training Modules - Beginners
       url: /docs/garagehive-training.html
     - name: Videos of Common Tasks
@@ -289,6 +287,33 @@
       url: /docs/garagehive-create-new-bank-account.html
     - name: Accountancy Routines
       url: /docs/garagehive-accountancy-routines.html
+- name: Trial Documentation
+  url: "#"
+  subitems:
+    - name: Trial Quick Start Guide
+      url: /docs/trial-quick-start.html
+    - name: Welcome to Your Trial Role Centre
+      url: /docs/garagehive-trial-welcome-to-the-role-centre.html
+    - name: Creating Your First Booking in Your Trial
+      url: /docs/garagehive-trial-creating-your-first-booking.html
+    - name: Adding Items and Labour to a Jobsheet in Your Trial
+      url: /docs/garagehive-trial-adding-items-and-labour-to-a-jobsheet.html
+    - name: Creating a Purchase Order in Your Trial
+      url: /docs/garagehive-trial-creating-a-purchase-order.html
+    - name: Processing a Purchase Order/Invoice in Your Trial
+      url: /docs/garagehive-trial-processing-a-purchase-order.html
+    - name: Viewing Items to Return in Your Trial
+      url: /docs/garagehive-trial-viewing-items-to-return.html
+    - name: Creating a Purchase Return Order in Your Trial
+      url: /docs/garagehive-trial-creating-a-purchase-return-order.html
+    - name: Processing a Vehicle Arriving in Your Trial
+      url: /docs/garagehive-trial-processing-a-vehicle-arriving.html
+    - name: Processing a Jobsheet to Invoice in Your Trial
+      url: /docs/garagehive-trial-processing-a-jobsheet-to-invoice.html
+    - name: Creating an Estimate in Your Trial
+      url: /docs/garagehive-trial-creating-an-estimate.html
+    - name: Processing a Vehicle Inspection Estimate in Your Trial
+      url: /docs/garagehive-trial-processing-a-vehicle-inspection-estimate.html   
 - name: FAQS
   url: "#"
   subitems:

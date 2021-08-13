@@ -3,52 +3,33 @@ layout: docs
 title: Trial Quick Start Guide
 ---
 
-#   How to navigate your Garage Hive Trial.
+# Trial Quick Start Guide
 
 These training modules are designed to train you on the basic processes in Garage Hive. Whilst these are great for reference and self-learning, don't forget that the team are here to help. 
 
 Contact us on [**02031461164**](tel:02031461164) if you have any questions.
 
 
-It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. 
+It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. The following table includes some processes that you can start with:
 
-# Getting started
-
-Here we will look at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
-
-#### Welcome to your home screen (role centre)
-
----
-
-{% include youtube.html id="R_mLcdbFWdo" %}
-
----
-
-####  How to create a booking
-
----
-
-{% include youtube.html id="MJqFUQyV2Tc" %}
-
----
-
-#### How to populate a jobsheet
-
----
-
-{% include youtube.html id="ABnKqYB4f3A" %}
-
----
-
-### Now practice these steps
-
-* Log into Garage Hive
-* Create a booking
-* Create a customer card
-* Add comments to a jobsheet
-* Add labours to a jobsheet
-* Add items to a jobsheet
-* Add a service package to a jobsheet
+| To Learn About | See |
+| :--------------------------------- | :----------- |
+| The role centre (home page) | [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) |
+| How to create a booking | [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) |
+| How to add items and labour in a jobsheet | [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) |
+| How to create a purchase order | [Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) |
+| How to process a purchase order/invoice | [Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html) |
+| How to view items to return) | [Viewing Items to Return](garagehive-trial-viewing-items-to-return.html) |
+| How to create a purchase return order) | [Creating a Purchase Return Order](garagehive-trial-creating-a-purchase-return-order.html) |
+| How to process a vehicle arriving) | [Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) |
+| How to process a jobsheet to invoice | [Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) |
+| How to create an estimate | [Creating an Estimate](garagehive-trial-creating-an-estimate.html) |
+| How to process a vehicle inspection | [Processing a Vehicle Inspection](garagehive-trial-processing-a-vehicle-inspection-estimate.html) |
 
 
-# [NEXT STEP](/docs/trial-quick-start-purchasing.html)
+# Next Step
+We hope you find using your Garage Hive trial useful. If you may have some questions about how you can customise Garage Hive to suit your business and how to best implement its processes; why not contact Elliot now to discuss them:
+
+* **Phone** - [**02031461163**](tel:02031461163)
+
+* **Email** - [**elliot@garagehive.co.uk**](mailto:elliot@garagehive.co.uk)
