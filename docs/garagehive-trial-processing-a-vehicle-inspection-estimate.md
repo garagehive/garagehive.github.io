@@ -20,7 +20,7 @@ To create a vehicle inspection estimate from a checklist template, click on **Ch
 ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate1.gif)
 
 ### Carry out the vehicle checks from the checklist template
-The checklist template created has fields to be filled according to the actual checks on the vehicle. For each field, there is colour codes indicate the level of priority required (refer to the colour key). Besides every colour codes, you can add a comment (see below).
+The checklist template created has fields to be filled according to the actual checks on the vehicle. For each field, there is colour codes to indicate the level of priority required (refer to the colour key). Besides every colour codes, you can add a comment (see below).
 
 ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate2.gif)
 
@@ -45,11 +45,11 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 ![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-authorisation.png)
 
 ### Add customer authorisation and copy the authorised lines to jobsheet
-At this stage, you have already communicated with the customer and advised on which work should be done. The next step is to authorise the document lines; scroll to the right on the document lines up to the **Customer Authorised** column, tick on all the lines that the customer has approved. Click on **Process** from the action bar, and select **Copy Authorised Lines to Jobsheet**. You are given an option to create a new jobsheet or merge it to an existing one; you could do either, depending on your preference. The VIE is now complete (see below).
+At this stage, you have already communicated with the customer and advised on which work should be done. The next step is to authorise the document lines; scroll to the right on the document lines up to the **Customer Authorised** column, tick on all the lines that the customer has approved. Click on **Process** from the actions bar, and select **Copy Authorised Lines to Jobsheet**. You are given an option to create a new jobsheet or merge it to an existing one; you could do either, depending on your preference. The VIE is now complete (see below).
 
 ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.gif)
 
 > **Note**
 >
-> The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for it archiving the unapproved lines.
+> The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
 > ![](media/garagehive-trial-vehicle-inspection-estimate-completed.PNG)
