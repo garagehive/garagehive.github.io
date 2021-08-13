@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Processing a Purchase Order in Your Trial
+title: Processing a Purchase Order/Invoice in Your Trial
 ---
 
-# Processing a Purchase Order in Your Trial 
+# Processing a Purchase Order/Invoice in Your Trial 
 
 To process a purchase order means receiving the items ordered from the supplier and updating the respective ledger accounts for the items and vendor. To do this, you must have the supplier invoice with you. 
 

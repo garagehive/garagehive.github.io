@@ -10,7 +10,7 @@ VIE in Garage Hive offer the ability to manage and monitor your up-sell, additio
 1. [Create a VIE from a checklist template](#create-a-vie-from-a-checklist-template)
 2. [Carry out the vehicle checks from the checklist template](#carry-out-the-vehicle-checks-from-the-checklist-template)
 3. [Confirm the checklist to create a vehicle inspection estimate](#confirm-the-checklist-to-create-a-vehicle-inspection-estimate)
-4. [Add items and labour to the VIE and change status](#add-items-and-labour-to-the-VIE-and-change-status)
+4. [Add items and labour to the vehicle inspection estimate and change status](#add-items-and-labour-to-the-vehicle-inspection-estimate-and-change-status)
 5. [Add customer authorisation and copy the authorised lines to jobsheet](#add-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet)
 
 
@@ -33,10 +33,10 @@ After completing the vehicle checks, the checklist is now ready for the next sta
 >
 > After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card.
 
-### Add items and labour to the VIE and change status
+### Add items and labour to the vehicle inspection estimate and change status
 From the role centre, you can check the status tiles of the vehicle inspection estimate.
 
-![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-action.png)
+![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-action.PNG)
 
 After creating a VIE from the checklist, the status is **Awaiting Action**, to give the service advisor an alert to take action. Click on the **Awaiting Action** tile to open the VIE list, and select the VIE to work on. Add items and labour to the VIE according to the checks done, change the **VIE Status** to **Awaiting Authorisation** from the customer, which moves it from the **Awaiting Action** to **Awaiting Authorisation** tile (see below).
 
@@ -52,4 +52,4 @@ At this stage, you have already communicated with the customer and advised on wh
 > **Note**
 >
 > The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for it archiving the unapproved lines.
-> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
+> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.PNG)
