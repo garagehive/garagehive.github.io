@@ -5,7 +5,7 @@ title: Processing a Vehicle Arriving in Your Trial
 
 # Processing a Vehicle Arriving in Your Trial
 
-There are several things to process when the vehicle arrives to help in communicating with the technicians working on the vehicle, etc.
+There are several things to do when the vehicle arrives for repairs, and that is what we look at here.
 
 ## In this article
 
@@ -25,4 +25,4 @@ To add customer comments, scroll down on the jobsheet page to the **Comment Sect
 
 ### **See Also**
 
-[Video: How to process a vehicle arrival](https://www.youtube.com/watch?v=pBSymFc-9m8&t=159s).
+[Video: How to process a vehicle arrival](https://www.youtube.com/watch?v=pBSymFc-9m8&t=159s&:target="_blank")

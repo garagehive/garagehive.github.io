@@ -39,8 +39,8 @@ To add a comment, scroll down to the **Comments** section on the jobsheet, selec
 
 > **Note:** 
 >
-> Unlike other fields in the system, the comment can be as long as you want.
+> Unlike other fields in the system, the **Comment (Extended)** field can be as long as you want.
 
 
 ### See Also
-[Video: How to create your first booking](https://www.youtube.com/watch?v=MJqFUQyV2Tc).
+[Video: How to create your first booking](https://www.youtube.com/watch?v=MJqFUQyV2Tc&:target="_blank")

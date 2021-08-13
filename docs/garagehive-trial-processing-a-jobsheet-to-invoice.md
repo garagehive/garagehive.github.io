@@ -14,7 +14,7 @@ When a jobsheet is done, all the information is correct, and all the work is don
 3. [Posting a jobsheet and creating an invoice](#posting-a-jobsheet-and-creating-an-invoice)
 
 ### Mark the jobsheet ready for collection
-When the work on the vehicle is finished, confirm that everything in the jobsheet lines is ticked by the technician on the **Technician Confirmed** column and mark the jobsheet ready for collection. Select the field **Work Status Code** and enter the **Ready for Collection** status from the options; this moves the jobsheet to **Ready for Collection** tile (see below).
+When the work on the vehicle is finished, confirm that everything in the jobsheet lines is ticked by the technician on the **Technician Confirmed** column and mark the jobsheet ready for collection by select the field **Work Status Code** and enter the **Ready for Collection** status from the options; this moves the jobsheet to **Ready for Collection** tile (see below).
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice1.gif)
 
@@ -23,7 +23,7 @@ When the work on the vehicle is finished, confirm that everything in the jobshee
 > For the jobsheet to be complete, the technician must mark it **Complete**.
 
 ### Taking payments on a jobsheet
-To receive payment from the customer, click **Payments/Posting** from the action bar and select **Take Payment**. Various methods are available to receive the Payment; select the exact method(s) the customer has used. The amount is automatically updated at the bottom **Difference** row. Click on **Close** (see below). 
+To receive payment from the customer, click **Payments/Posting** from the actions bar and select **Take Payment**. Various methods are available to receive the Payment; select the exact method(s) the customer has used. The amount is automatically updated at the bottom **Difference** row. Click on **Close** (see below). 
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice2.gif)
 
@@ -34,4 +34,4 @@ After receiving the payment, the next step is to post the jobsheet. Confirm that
 
 ### **See Also**
 
-[Video: How to process a jobsheet to invoice](https://www.youtube.com/watch?v=SdgMs_uS9Y0&t=62s).
+[Video: How to process a jobsheet to invoice](https://www.youtube.com/watch?v=SdgMs_uS9Y0&t=62s&:target="_blank")
