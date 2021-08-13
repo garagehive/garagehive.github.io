@@ -3,7 +3,7 @@ layout: docs
 title: Creating an Estimate in Your Trial
 ---
 
-# Creating an Estimate an Estimate in Your Trial
+# Creating an Estimate in Your Trial
 There are two types of estimates available in Garage Hive: 
 1. Normal **Estimate** where the customer calls the business and requests to be sent a quotation on a job they need,
 2. **Vehicle Inspection Estimate** where the customer brings the vehicle for an inspection, after which an estimate is created depending on the issues found on the vehicle.
