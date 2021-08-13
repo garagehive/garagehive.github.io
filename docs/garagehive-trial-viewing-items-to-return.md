@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Viewing Items to Return
+title: Viewing Items to Return in Your Trial
 ---
 
-# Viewing Items to Return Report
+# Viewing Items to Return in Your Trial
 
 The items to return report is the report of items you shouldn’t have in stock. The report is generated based on the following:
 -	The item is not in a jobsheet
@@ -18,12 +18,12 @@ The items to return report is the report of items you shouldn’t have in stock.
 ### Open the items to return report
 To access the items to return report from the **Role Centre** (home page). Click on **Reports** from the action bar, point the mouse on **Additional** from the submenus, and select **Items to Return**, which opens a list of items listed to be returned (see below).
 
-![](media/garagehive-viewing-items-to-return1.gif)
+![](media/garagehive-trial-viewing-items-to-return1.gif)
 
 ### View the history of items in the return report
 From the opened report of **Items to Return**, select an item you want to view the history and click on **History** from the action bar. Select **History Overview** (see below).
 
-![](media/garagehive-viewing-items-to-return2.gif)
+![](media/garagehive-trial-viewing-items-to-return2.gif)
 
 ### **See Also**
 

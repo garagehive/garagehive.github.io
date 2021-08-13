@@ -3,7 +3,7 @@ layout: docs
 title: Trial Quick Start Guide
 ---
 
-#   How to Navigate Your Garage Hive Trial.
+#   Trial Quick Start Guide
 
 These training modules are designed to train you on the basic processes in Garage Hive. Whilst these are great for reference and self-learning, don't forget that the team are here to help. 
 

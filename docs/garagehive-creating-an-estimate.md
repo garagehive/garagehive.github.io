@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Creating an Estimate
+title: Creating an Estimate in Your Trial
 ---
 
-# Creating an Estimate
+# Creating an Estimate an Estimate in Your Trial
 There are two types of estimates available in Garage Hive: 
 1. Normal **Estimate** where the customer calls the business and requests to be sent a quotation on a job they need,
 2. **Vehicle Inspection Estimate** where the customer brings the vehicle for an inspection, after which an estimate is created depending on the issues found on the vehicle.
@@ -18,22 +18,22 @@ In this article,  we are going to look at the normal estimate.
 ### Create an estimate
 To create a new estimate from the role centre, click on **+Estimate** from the action bar. Fill in the vehicle and customer details on the **General** fast tab (see below)
 
-![](media/garagehive-creating-an-estimate1.gif)
+![](media/garagehive-trial-creating-an-estimate1.gif)
 
 Add items and labour from the **Lines** section. You can use **Misc** for the items you don't have part numbers yet (see below).
 
-![](media/garagehive-creating-an-estimate2.gif)
+![](media/garagehive-trial-creating-an-estimate2.gif)
 
 ### Copy authorised lines into a jobsheet
 There are two ways to convert an estimate into a jobsheet, first is copying the customer authorised lines into a jobsheet. To do this, click on **Process** from the action bar and select **Copy Authorised Lines Into a Jobsheet**. A jobsheet is automatically created if no previous jobsheet was available; if a jobsheet was available, you could merge the estimate and the jobsheet (see below).
 
-![](media/garagehive-creating-an-estimate3.gif)
+![](media/garagehive-trial-creating-an-estimate3.gif)
 
 ### Make an estimate into a jobsheet
 
 The other method to convert an estimate into a jobsheet is to use the option **Make Jobsheet**, which means that the customer has approved all the items and labour in the estimate. Click on **Process** from the action bar and select **Make Jobsheet** from the submenus. The jobsheet is automatically created, and the estimate is archived. (see below).
 
-![](media/garagehive-creating-an-estimate4.gif)
+![](media/garagehive-trial-creating-an-estimate4.gif)
 
 > Note
 >

@@ -1,16 +1,16 @@
 ---
 layout: docs
-title: Welcome to your Role Centre 
+title: Welcome to your Trial Role Centre 
 ---
 
-# Welcome to Your Role Centre (Home Screen)
+# Welcome to Your Trial Role Centre (Home Screen)
 The Role Centre is your entry point and home page for your Garage Hive system. From this page, you will have quick access to the most important information to your daily work and easily navigate to relevant pages for viewing data and doing tasks.
 
 ### Role centre sections
 
 The Service Advisor home screen (Role Centre) is divided into the following areas:    
 
-![](media/garagehive-role-centre-edit.png)
+![](media/garagehive-trial-role-centre-edit.png)
 
 #### 1. Navigation menu
 
