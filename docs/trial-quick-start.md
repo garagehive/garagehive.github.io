@@ -7,9 +7,6 @@ title: Trial Quick Start Guide
 
 These training modules are designed to train you on the basic processes in Garage Hive. Whilst these are great for reference and self-learning, don't forget that the team are here to help. 
 
-Contact us on [**02031461164**](tel:02031461164) if you have any questions.
-
-
 It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. The following table includes some processes that you can start with:
 
 | To Learn About | See |
@@ -27,9 +24,9 @@ It is important to understand all elements of the process to benefit from all th
 | How to process a vehicle inspection estimate | [Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html) |
 
 
-# Next Step
-We hope you find using your Garage Hive trial useful. If you may have some questions about how you can customise Garage Hive to suit your business and how to best implement its processes; why not contact Elliot now to discuss them:
+### Next Step
+We hope you find using your Garage Hive trial useful. If you may have some questions about how you can customise Garage Hive to suit your business and how to best implement its processes; why not contact our Garage Hive Team now to discuss them:
 
 * **Phone** - [**02031461163**](tel:02031461163)
 
-* **Email** - [**elliot@garagehive.co.uk**](mailto:elliot@garagehive.co.uk)
+* **Email** - [**getonboard@garagehive.co.uk**](mailto:getonboard@garagehive.co.uk)
