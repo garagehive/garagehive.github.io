@@ -23,10 +23,9 @@ It is important to understand all elements of the process to benefit from all th
 | How to create an estimate | [Creating an Estimate](garagehive-trial-creating-an-estimate.html) |
 | How to process a vehicle inspection estimate | [Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html) |
 
+&nbsp;
 
-
-
-
+&nbsp;
 
 ### Next Step
 We hope you find using your Garage Hive trial useful. If you may have some questions about how you can customise Garage Hive to suit your business and how to best implement its processes; why not contact our Garage Hive Team now to discuss them:
