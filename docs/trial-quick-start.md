@@ -21,8 +21,9 @@ It is important to understand all elements of the process to benefit from all th
 | How to process a vehicle arriving | [Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) |
 | How to process a jobsheet to invoice | [Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) |
 | How to create an estimate | [Creating an Estimate](garagehive-trial-creating-an-estimate.html) |
-| How to process a vehicle inspection estimate | [Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html) |  
+| How to process a vehicle inspection estimate | [Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html) |
 
+&nbsp;
 
 ### Next Step
 We hope you find using your Garage Hive trial useful. If you may have some questions about how you can customise Garage Hive to suit your business and how to best implement its processes; why not contact our Garage Hive Team now to discuss them:
