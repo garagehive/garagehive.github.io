@@ -20,7 +20,7 @@ To access the submenus under service: Click on **Service** and then select an op
 
 #### 2. Navigation bar
 
-The second-level navigation menu provides access to the most useful entities in the business process to help in quick navigation as soon as the home screen is opened.
+The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system. You can also check any open jobsheets, checklists, and estimates.
 
 To access the jobsheets page, click on **Jobsheets** from the navigation bar.
 
@@ -30,19 +30,16 @@ The actions bar provides submenus of the most often used tasks that enable you t
 
 To create a new estimate, click on **+Estimate**.
 
-#### 4. Data cues
+#### 4. Data tiles
 
-The data cues provide a visual representation of the business data, such as the number of total jobsheets created. There is a header on every data cue, which explains what the data is about.
+Each tile provides a visual representation of business data, such as total jobsheets open and vehicle inspections, for the vehicles in your workshop booked in for repairs. These tiles will also change to red when action needs to be taken, which prompts you or your service advisor to open it to complete a task relevant to that tile.
 
-Click on a specific data cue to access the specified data content. Sometimes the cues are red (depending on settings), which means a call to action for the service advisor.
+Click on a specific data tile to access the specified data content.
 
-#### 5. Listpart page
+#### 5. Web links Area
 
-The list part page displays a list of the external links that you have added to the system for easier access.
+This area allows you to add commonly used web links such as Power BI, tyre or parts suppliers so you can click on them and open them up for easier access.
 
-To add an external link, click on the search icon (top right corner) and search **branch profile setup**. From the window that appears, select **Main** with the **Profile ID** of **GHV Service Advisor**, click **Links +**, and add the link you want with a description. Go back to the role centre (see below).
-
-![](media/garagehive-role-centre-add-external-links.gif)
 
 ### **See Also**
 
