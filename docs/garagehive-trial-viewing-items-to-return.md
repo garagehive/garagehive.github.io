@@ -25,6 +25,16 @@ From the opened report of **Items to Return**, select an item you want to view t
 
 ![](media/garagehive-trial-viewing-items-to-return2.gif)
 
+
 ### **See Also**
 
-[Video: How to view items to return](https://www.youtube.com/watch?v=EyVbV50EwaQ&t=81s&:target="_blank")
+[Video: How to view items to return](https://www.youtube.com/watch?v=EyVbV50EwaQ&t=81s&:target="_blank") \
+[Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
+[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
+[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
+[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html) \
+[Creating a Purchase Return Order](garagehive-trial-creating-a-purchase-return-order.html) \
+[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) \
+[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) \
+[Creating an Estimate](garagehive-trial-creating-an-estimate.html) \
+[Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html)

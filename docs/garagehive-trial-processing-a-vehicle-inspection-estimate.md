@@ -53,3 +53,17 @@ At this stage, you have already communicated with the customer and advised on wh
 >
 > The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
 > ![](media/garagehive-trial-vehicle-inspection-estimate-completed.PNG)
+
+
+### **See Also**
+
+[Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
+[Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
+[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
+[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
+[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html) \
+[Viewing Items to Return](garagehive-trial-viewing-items-to-return.html) \
+[Creating a Purchase Return Order](garagehive-trial-creating-a-purchase-return-order.html) \
+[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) \
+[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) \
+[Creating an Estimate](garagehive-trial-creating-an-estimate.html)

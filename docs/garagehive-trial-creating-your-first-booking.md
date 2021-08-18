@@ -27,7 +27,7 @@ To create a booking from the home page, click on the **Schedule** from the actio
 
 ### Add customer details
 
-If the vehicle was already added before, the customer details would be added automatically. If not, start typing the customer's name under the field **Customer** and press the tab button to create a new customer. From the pop-up window that appears, add the customer's address by searching on **Lookup address from postcode**, add the customer's phone number and email address on the respective fields. Scroll down to the **Payments** section and add the payments terms. Scroll up to add a credit limit on the **Credit Limit (LCY)** Field (if necessary) and then click close to create the customer's card (see below).
+If the vehicle was already added before, the customer details would be added automatically. If not, start typing the customer's name under the field **Customer** and press the tab button to create a new customer. From the pop-up window that appears, add the customer's address by searching on **Lookup address from postcode**, add the customer's phone number and email address on the respective fields. If you have payment terms agreed with a customer (trade) and they pay every 30 days from the invoice date, for example, you can add the terms by scrolling down to the **Payments** section and add the payments terms. Scroll up to add a credit limit on the **Credit Limit (LCY)** Field (if necessary) and then click close to create the customer's card (see below).
 
 ![](media/garagehive-trial-create-a-booking3.gif)
    
@@ -43,6 +43,7 @@ To add a comment, scroll down to the **Comments** section on the jobsheet, selec
 
 
 ### See Also
+
 [Video: How to create your first booking](https://www.youtube.com/watch?v=MJqFUQyV2Tc&:target="_blank") \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \

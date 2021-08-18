@@ -17,11 +17,11 @@ In this article,  we are going to look at the normal estimate.
 3. [Convert an estimate into a jobsheet](#adding-items-and-labour-in-the-jobsheet-using-service-packages)
 
 ### Create an estimate
-To create a new estimate from the role centre, click on **+Estimate** from the actions bar. Fill in the vehicle and customer details on the **General** fast tab (see below)
+To create a new estimate from the role centre, click on **+Estimate** from the actions bar. Fill in the vehicle and customer details on the **General** FastTab (see below)
 
 ![](media/garagehive-trial-creating-an-estimate1.gif)
 
-Add items and labour from the **Lines** section. You can use **Misc** for the items you don't have part numbers yet (see below).
+Add items and labour from the **Lines** section. For the items which don't exist in the system(for example, items that you've not used before), you can use a placeholder item **No.** for example, **MISC** as you wait for the correct item **No.** (see below).
 
 ![](media/garagehive-trial-creating-an-estimate2.gif)
 
@@ -40,6 +40,17 @@ The other method to convert an estimate into a jobsheet is to use the option **M
 >
 > From the role centre estimate tiles, the estimate will be on the **Awaiting Action** tile. After making a jobsheet, the estimate is no longer available in the tile because it has been archived.
 
+
 ### **See Also**
 
-[Video: How to create an estimate](https://www.youtube.com/watch?v=otMUsW5hGAA&:target="_blank")
+[Video: How to create an estimate](https://www.youtube.com/watch?v=otMUsW5hGAA&:target="_blank") \
+[Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
+[Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
+[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
+[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
+[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html) \
+[Viewing Items to Return](garagehive-trial-viewing-items-to-return.html) \
+[Creating a Purchase Return Order](garagehive-trial-creating-a-purchase-return-order.html) \
+[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) \
+[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) \
+[Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html)
