@@ -14,7 +14,7 @@ To start communicating with the suppliers/vendors, you need to prepare the purch
 3.  [Creating a purchase order from the purchase orders page](#creating-a-purchase-order-from-the-purchase-orders-page)
 
 ### Creating a purchase order from the jobsheet
-To create a purchase order from the jobsheet, select the item lines you want to order by ticking on the box in column **Purchase(Special)**; these will typically be catalogue items where you have added a placeholder item **No.** such as **MISC**. Ticking this column selects the items and adds them to the purchase order. Now fill in the **Vendor No.** column to the right by selecting a supplier of your choice. At the top of your jobsheet in the actions bar, click on **Parts**, select **Create Purchase Order(s)** from the submenu, and a purchase order is created (see below).
+To create a purchase order from the jobsheet, select the item lines you want to order by ticking on the box in column **Purchase(Special)**; this can be items that don't exist in the system where you have added a placeholder item **No.** such as **MISC** or items that exist in the system but are currently not in stock. Ticking this column selects the items and marks them to be added to the purchase order. Now fill in the **Vendor No.** column to the right by selecting a supplier of your choice. At the top of your jobsheet in the actions bar, click on **Parts**, select **Create Purchase Order(s)** from the submenu, and a purchase order is created (see below).
 
 ![](media/garagehive-trial-creating-a-purchase-order4.gif)
 
@@ -32,7 +32,7 @@ From the navigation menu on the role centre, click on **Purchasing** to access t
 
 ![](media/garagehive-trial-creating-a-purchase-order1.gif)
 
-After adding the vendor details, add the item(s) to the purchase order **Lines**, specifying the item **No.**, **Quantity** and **Description**. For the catalogue items, you can use a placeholder item **No.** for example, **Misc** as you wait for the correct **No.** from the supplier's invoice (See Below).
+After adding the vendor details, add the item(s) to the purchase order **Lines**, specifying the item **No.**, **Quantity** and **Description**. For the items that don't exist in the system (for example, items that you've nover used before), you can use a placeholder item **No.** for example, **MISC** as you wait for the correct **No.** from the supplier's invoice (See Below).
 
 ![](media/garagehive-trial-creating-a-purchase-order2.gif) 
 

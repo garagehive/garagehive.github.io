@@ -21,7 +21,7 @@ To create a new estimate from the role centre, click on **+Estimate** from the a
 
 ![](media/garagehive-trial-creating-an-estimate1.gif)
 
-Add items and labour from the **Lines** section. For the catalogue items, you can use a placeholder item **No.** for example, **Misc** as you wait for the correct item **No.** (see below).
+Add items and labour from the **Lines** section. For the items which don't exist in the system(for example, items that you've not used before), you can use a placeholder item **No.** for example, **MISC** as you wait for the correct item **No.** (see below).
 
 ![](media/garagehive-trial-creating-an-estimate2.gif)
 

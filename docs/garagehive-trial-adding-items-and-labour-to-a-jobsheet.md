@@ -23,7 +23,7 @@ To open the jobsheet from the role centre, click on **Schedule** from the action
 > Avoid left-clicking to ensure you don’t open two jobsheets at the same time.
 
 ### Adding items and labour in the jobsheet manually
-There are several ways to add items and labour lines to a jobsheet. One way is to do it manually. To do this, select the first line cell on the **Type column**, select item or labour on the drop-down menu, and press the tab button to move to the next cell. In the next cell, select the specific code or **No.**, used to identify the item or labour. If you add a catalogue item, you can use a placeholder item **No.** such as **MISC** in the **No.** column. Next, add the **Quantity** and **Unit Price** (selling price) on the respective columns. The unit price can be updated manually or by use of the margin calculator (see below).  
+There are several ways to add items and labour lines to a jobsheet. One way is to do it manually. To do this, select the first line cell on the **Type column**, select item or labour on the drop-down menu, and press the tab button to move to the next cell. In the next cell, select the specific code or **No.**, used to identify the item or labour. You can use a placeholder item **No.** such as **MISC** in the **No.** column for the items that don't exist in the system. Next, add the **Quantity** and **Unit Price** (selling price) on the respective columns. The unit price can be updated manually or by use of the margin calculator (see below).  
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet2.gif)
 
