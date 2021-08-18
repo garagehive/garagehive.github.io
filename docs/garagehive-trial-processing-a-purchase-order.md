@@ -22,7 +22,7 @@ To post a purchase order in the system, all the details from the supplier invoic
 > All the information in the supplier invoice must match the purchase order, even if the invoice has incorrect information.
 
 ### Receive and post the purchase order
-After ensuring that all the information in the purchase order is correct, the purchase order needs to be posted. From the action bar, click on **Posting** and select **Post** from the submenus. Select **Receive and Invoice** from the pop-up menu; since you are now receiving the items with the supplier invoice available. The document is now posted and updated (see below).
+After ensuring that all the information in the purchase order is correct, the purchase order needs to be posted. From the actions bar, click on **Posting** and select **Post** from the submenus. Select **Receive and Invoice** from the pop-up menu; since you are now receiving the items with the supplier invoice available. The document is now posted and updated (see below).
 
 ![](media/garagehive-trial-processing-a-purchase-order2.gif) 
 

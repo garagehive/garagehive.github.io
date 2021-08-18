@@ -28,7 +28,7 @@ To receive payment from the customer, click **Payments/Posting** from the action
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice2.gif)
 
 ### Posting a jobsheet and creating an invoice
-After receiving the payment, the next step is to post the jobsheet. Confirm that all the details in the jobsheet are correct; the dates, amount, items signed out and customer details. The posting date should be today's date (the day you are posting). Click on **Payments/Posting** from the action bar and select **Post and Print**. The invoice is downloaded and ready to print (see below).
+After receiving the payment, the next step is to post the jobsheet. Confirm that all the details in the jobsheet are correct; the dates, amount, items signed out and customer details. The posting date should be today's date (the day you are posting). Click on **Payments/Posting** from the actions bar and select **Post and Print**. The invoice is downloaded and ready to print (see below).
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice3.gif) 
 

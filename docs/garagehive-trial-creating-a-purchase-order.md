@@ -34,7 +34,7 @@ To link a Purchase order with a jobsheet, scroll up to the **General** fast tab,
 > You can only link a purchase order to a jobsheet once you receive the supplier invoice.
 
 ### Creating a purchase order from the jobsheet
-To create a purchase order from the jobsheet, select the item lines you want to order by ticking on the box in column **Purchase(Special)**; this selects the items and adds them to the purchase order. Fill in the vendor to order from on the **Vendor No.** column. Click on **Parts** from the action bar, select **Create Purchase Order(s)** from the submenu, and a purchase order is created (see below).
+To create a purchase order from the jobsheet, select the item lines you want to order by ticking on the box in column **Purchase(Special)**; this selects the items and adds them to the purchase order. Fill in the vendor to order from on the **Vendor No.** column. Click on **Parts** from the actions bar, select **Create Purchase Order(s)** from the submenu, and a purchase order is created (see below).
 
 ![](media/garagehive-trial-creating-a-purchase-order4.gif)
 
