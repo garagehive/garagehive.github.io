@@ -216,6 +216,17 @@
       url: /docs/garagehive-posted-archived-documents.html      
     - name: Archived Documents 
       url: /docs/garagehive-archived-documents.html
+- name: Surveys
+  url: "#"
+  subitems:
+    - name: Setting Up Customer Surveys
+      url: /docs/garagehive-surveys-setting-up-customer-surveys.html
+    - name: Confirming Surveys are Sent
+      url: /docs/garagehive-surveys-confirming-surveys-are-sent.html
+    - name: Reviewing Your Customer Surveys
+      url: /docs/garagehive-surveys-reviewing-your-customer-surveys.html
+    - name: Sending Review Requests on Completed Survey Entries
+      url: /docs/garagehive-surveys-sending-review-requests-on-completed-survey-entries.html
 - name: Online Booking
   url: /docs/garagehive-onlinebooking-intro.html
   subitems:
