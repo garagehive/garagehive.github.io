@@ -53,7 +53,7 @@
   url: "#"
   subitems:
     - name: Managing user's
-      url: /docs/user-management.html
+      url: /docs/garagehive-user-management.html
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
     - name: Create an External Service

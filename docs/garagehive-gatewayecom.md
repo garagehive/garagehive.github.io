@@ -26,6 +26,11 @@ Once setup, it is recommended that you put a 0.01 pence transaction through as a
 
 Make sure the value is set to 0.01, select the notification type and enter your details. Once you receive the test SMS/Email please follow the link and complete the test payment. 
 
+> **Note**
+>
+> Normally, when requesting payment via the **Pay by GarageLink**, the details automatically picked to send the request are the **Bill-to Customer** details.
+
+
 ![](media/paybygaragelink-paymentwindow.jpg)
 
 You can check the status of the payment in Garage Hive by selecting the "Payment Gateway Entries" from the action bar. 

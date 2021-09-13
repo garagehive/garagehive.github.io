@@ -15,7 +15,7 @@ There are 2 ways of creating a purchase order, either directly from a jobsheet o
 
 ![](media/garagehive-creating-a-purchase-order10.png)
 
-2. Select Item. If you know the part number or it is an item from stock you can. Start typing description/start of part number into the No. box and it will show a list of all items with that in description in it. 
+2. Select an **Item** or the **External Service**. If you know the part number or an item from stock, you can start typing the description or part number into the **No.** column and it will show a list of all items with that description in it.
 
 ![](media/garagehive-creating-a-purchase-order11.png)
 

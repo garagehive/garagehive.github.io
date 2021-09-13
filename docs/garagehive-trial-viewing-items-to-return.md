@@ -18,17 +18,17 @@ The items to return report is the report of items you shouldn’t have in stock.
 ### Open the items to return report
 To access the items to return report from the **Role Centre** (home page), click on **Reports** from the actions bar, point the mouse on **Additional** from the submenus, and select **Items to Return**, which opens a list of items to be returned (see below).
 
-![](media/garagehive-trial-viewing-items-to-return1.gif)
+![](media/garagehive-items-to-return1.gif)
 
 ### View the history of items in the return report
 From the opened report of **Items to Return**, select an item you want to view the history and click on **History** from the actions bar. Select **History Overview** (see below).
 
-![](media/garagehive-trial-viewing-items-to-return2.gif)
+![](media/garagehive-items-to-return5.gif)
 
 
 ### **See Also**
 
-[Video: How to view items to return](https://www.youtube.com/watch?v=EyVbV50EwaQ&t=81s&:target="_blank") \
+[Video: How to use items to return](https://www.youtube.com/watch?v=WH-hKLISWds) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
 [Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \

@@ -3,25 +3,23 @@ layout: docs
 title: Create an External Service
 ---
 
-#   Create an External Service 
+# Creating an External Service
 
-###  If you are receiving a service from an External Service Provider and the charge is to be passed on to your customer, you can charge this out by creating an ***External Service***. 
+If you are receiving a service from an external service provider and you want the charge to be passed on to your customer, you can charge this out by creating an **External Service**.
 
-#####   Please follow the steps below on how to create an External Service. 
+#
 
-*   On the Jobsheet, within Lines, Select the type ***External Service***. 
+From the jobsheet lines under column **Type**, select **Item** from the dropdown menu and click on the Tab button to move to the next column, **No.**. Click on the arrow pointing down and select **+New** from the pop-up window. A list of several templates for new items will appear; scroll to **External Services** template and click on it. A new item card is created with **Item Category Code** as **External**. You can change the item **No.** and add the description of the external service. Click OK to create the external service item card and enter the quantity and value you are charging (see below). 
 
-    -   In No. either type the beginning of the Service Type or click on the ... and Select the Service Type. 
+![](media/garagehive-external-services1.png) 
 
-![](media/garagehive-create-external-service2.png) 
+#
+#
 
-        This will pre-populate a line with your standard description for that particular External Service.
+![](media/garagehive-external-services2.gif)
 
-*   Then enter the quantity and value which you are charging. 
+#
 
-![](media/garagehive-create-external-service1.png) 
-
-
-####   Unlike Parts, External Services can be invoiced out to a customer prior to receiving a purchase invoice. 
-
-####    This is due to the fact you may not have received the invoice from the External Service Provider at the time you invoice the Jobsheet to the customer. 
+> **Note:** 
+>
+> Unlike Parts, External Services can be invoiced out to a customer before receiving a purchase invoice; this is because you may not have received the invoice from the External Service Provider when you invoice the Jobsheet to the customer. 
