@@ -17,26 +17,32 @@ In this article,  we are going to look at the normal estimate.
 3. [Convert an estimate into a jobsheet](#adding-items-and-labour-in-the-jobsheet-using-service-packages)
 
 ### Create an estimate
-To create a new estimate from the role centre, click on **+Estimate** from the actions bar. Fill in the vehicle and customer details on the **General** FastTab (see below)
+To create a new estimate from the role centre:
+1. Click on **+Estimate** from the actions bar. 
+2. Fill in the vehicle and customer details on the **General** FastTab.
 
 ![](media/garagehive-trial-creating-an-estimate1.gif)
 
-Add items and labour from the **Lines** section. For the items which don't exist in the system(for example, items that you've not used before), you can use a placeholder item **No.** for example, **MISC** as you wait for the correct item **No.** (see below).
+3. Add items and labour from the **Lines** section. For the items which don't exist in the system(for example, items that you've not used before), you can use a placeholder item **No.** for example, **MISC** as you wait for the correct item **No.** (see below).
 
 ![](media/garagehive-trial-creating-an-estimate2.gif)
 
 ### Copy authorised lines into a jobsheet
-There are two ways to convert an estimate into a jobsheet, first is copying the customer authorised lines into a jobsheet. To do this, click on **Process** from the actions bar and select **Copy Authorised Lines Into a Jobsheet**. A jobsheet is automatically created, if no previous jobsheet was available. If a jobsheet was available, you could merge the estimate and the jobsheet (see below).
+There are two ways to convert an estimate into a jobsheet, first is copying the customer authorised lines into a jobsheet:
+1. Click on **Process** from the actions bar and select **Copy Authorised Lines Into a Jobsheet**. A jobsheet is automatically created, if no previous jobsheet was available. 
+2. If a jobsheet was available, you could merge the estimate and the jobsheet.
 
 ![](media/garagehive-trial-creating-an-estimate3.gif)
 
 ### Make an estimate into a jobsheet
 
-The other method to convert an estimate into a jobsheet is to use the option **Make Jobsheet**, which means that the customer has approved all the items and labour in the estimate. Click on **Process** from the actions bar and select **Make Jobsheet** from the submenus. The jobsheet is automatically created, and the estimate is archived. (see below).
+The other method to convert an estimate into a jobsheet:
+1. Use the option **Make Jobsheet**, which means that the customer has approved all the items and labour in the estimate.
+2. Click on **Process** from the actions bar and select **Make Jobsheet** from the submenus. The jobsheet is automatically created, and the estimate is archived.
 
 ![](media/garagehive-trial-creating-an-estimate4.gif)
 
-> Note
+> **Note:**
 >
 > From the role centre estimate tiles, the estimate will be on the **Awaiting Action** tile. After making a jobsheet, the estimate is no longer available in the tile because it has been archived.
 

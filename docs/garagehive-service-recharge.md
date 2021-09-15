@@ -29,22 +29,29 @@ Before you can assign item charges, you must set up item charge numbers for the 
 
 #
 
-Search **Item charges** from the search icon in the top-right corner to set up the item charges. Create a new item charge number for vehicle sales preparation **VEHICLEPREP**, with vehicle description as **Vehicle Sales Preparation**. Add the Gen. Prod. Posting Group as **VEHSALES** and the VAT Prod. Posting Group as **STANDARD** (depends on financial set up required).
+To set up the item charges:
+1. Search **Item charges** from the search icon in the top-right corner to set up the item charges. 
+2. Create a new item charge number for vehicle sales preparation **VEHICLEPREP**, with vehicle description as **Vehicle Sales Preparation**. 
+3. Add the Gen. Prod. Posting Group as **VEHSALES** and the VAT Prod. Posting Group as **STANDARD** (depends on financial set up required).
 
 ![](media/garagehive-service-recharge-item-charges1.gif)
 
-After setting up the item charges, you will need to set up a "customer" in the system who gets the internal bills for the added cost in the inventory value; this can be done by creating a customer card under the No. **INTERNAL-VEHSALES** and description **Vehicle Sales Preparation(Internal)**. You can now be able to do internal transactions with the "customer" created.
+After setting up the item charges, you will need to set up a "customer" in the system who gets the internal bills for the added cost in the inventory value:
+1. Create a customer card under the No. **INTERNAL-VEHSALES** and the description **Vehicle Sales Preparation(Internal)**.
+2. You can now be able to do internal transactions with the "customer" created.
 
 ![](media/garagehive-service-recharge-item-charges2.gif)
 
-On the other hand, you need to set up a corresponding "vendor" in the system where the internal purchase invoices are automatically generated and posted; this can be done by creating a vendor card under the No. **VEHICLE-PREP** and description **Vehicle Sales Preparation (Internal)**. You can now be able to create internal purchase orders with the "vendor" created.
+On the other hand, you need to set up a corresponding "vendor" in the system where the internal purchase invoices are automatically generated and posted:
+1. Create a vendor card under the No. **VEHICLE-PREP** and the description **Vehicle Sales Preparation (Internal)**. 
+2. You can now be able to create internal purchase orders with the "vendor" created.
 
 ![](media/garagehive-service-recharge-item-charges3.gif)
 
-Ensure the **Posting Details**, from the invoicing section, for the vendor and the customer you have set up, are as follows (these details depends on your financial set up):
-- General Bus. Posting Group as **VEHSALES**
-- VAT Bus. Posting Group **INTERNAL** (No VAT)
-- Vendor Posting Group as **VEHSALES**
+3. Ensure the **Posting Details**, from the invoicing section, for the vendor and the customer you have set up, are as follows (these details depends on your financial set up):
+    - General Bus. Posting Group as **VEHSALES**
+    - VAT Bus. Posting Group **INTERNAL** (No VAT)
+    - Vendor Posting Group as **VEHSALES**
 
 Customer card:
 
@@ -55,11 +62,14 @@ Vendor card:
 ![](media/garagehive-service-recharge-item-charges5.png)
 
 
-From the invoicing section of the customer card you have created, add **Service Recharge Item Charge No.** as **VEHICLEPREP** and the **Corresponding Vendor No.** as **VEHICLE-PREP** (as set up above).
+To set up the use of Item Charges:
+1. From the invoicing section of the customer card you have created, add **Service Recharge Item Charge No.** as **VEHICLEPREP**.
+2. Add the **Corresponding Vendor No.** as **VEHICLE-PREP** (as set up above).
 
 ![](media/garagehive-service-recharge-item-charges6.gif)
 
-Now, from the **Payment** section, add the payment method as **VEHPREP** to both the customer and vendor card to ensures that when the sales invoice is posted, it's paid off automatically and the record closed. On the other hand, the purchase invoice is also paid off and counters the sales invoice bill, ensuring that the debit and credit accounts are balanced off and closed down.
+3. From the **Payment** section, add the payment method as **VEHPREP** to both the customer and vendor card to ensures that when the sales invoice is posted, it's paid off automatically and the record closed. 
+4. On the other hand, the purchase invoice is also paid off and counters the sales invoice bill, ensuring that the debit and credit accounts are balanced off and closed down.
 
 Customer Card:
 
@@ -74,21 +84,20 @@ When you post a sales invoice/jobsheet for the customer **Vehicle Sales Preparat
 ### Internal charging using the General Ledger account
 General ledger accounts are used in internal charging when doing internal transactions between departments. For example, when a business with two departs - vehicle sales departments and service department - sells a vehicle through the vehicle sales department and later returns for warranty work, the service department will do the warranty work and charge it to the vehicle sales department. For this article, we'll use the example of warranty work but this feature can be used in other several ways.
 
-#
+<br>
 
-Start by setting up a customer card under the No. **VEHSALES-WARRANTY** and the description to be **Vehicle Sales Warranty(Internal)**; this is the customer where all the warranty work bill will be charged for the vehicle sold.
+1. Start by setting up a customer card under the No. **VEHSALES-WARRANTY** and the description to be **Vehicle Sales Warranty(Internal)**; this is the customer where all the warranty work bill will be charged for the vehicle sold.
 
 ![](media/garagehive-service-recharge-gl-account1.gif)
 
-Next, create a corresponding vendor card with the No. **VEHICLE-WARRANTY** and the description to be **Vehicle Sales Warranty (Internal)**; this is where a corresponding purchase invoice is created and posted when the internal customer is charged.
+2. Next, create a corresponding vendor card with the No. **VEHICLE-WARRANTY** and the description to be **Vehicle Sales Warranty (Internal)**; this is where a corresponding purchase invoice is created and posted when the internal customer is charged.
 
 ![](media/garagehive-service-recharge-gl-account2.gif)
 
-Ensure the **Posting Details**, from the invoicing section, for the vendor and the customer you have set up, are as follows (these details depends on your financial set up):
-
-- General Bus. Posting Group as **VEHWARRANTY**
-- VAT Bus. Posting Group **INTERNAL** (No VAT)
-- Vendor Posting Group as **VEHWARRANTY**
+3. Ensure the **Posting Details**, from the invoicing section, for the vendor and the customer you have set up, are as follows (these details depends on your financial set up):
+    - General Bus. Posting Group as **VEHWARRANTY**
+    - VAT Bus. Posting Group **INTERNAL** (No VAT)
+    - Vendor Posting Group as **VEHWARRANTY**
 
 Customer card:
 
@@ -98,7 +107,10 @@ Vendor card:
 
 ![](media/garagehive-service-recharge-gl-account4.png)
 
-From the invoicing section of the customer card you have created, add **Service Recharge G/L Account No.** as the account where the warranty costs are accounted for in your business (depends on your financial set up), the **Service Recharge Location Code** as **VEHSALES** (depends on whether you have set up the department in different locations) and the **Corresponding Vendor No.** as **VEHICLE-WARRANTY** (as set up above).
+To set up the use of Item Charges:
+1. From the invoicing section of the customer card you have created, add **Service Recharge G/L Account No.** as the account where the warranty costs are accounted for in your business (depends on your financial set up).
+2. Add the **Service Recharge Location Code** as **VEHSALES** (depends on whether you have set up the department in different locations).
+3. And the **Corresponding Vendor No.** as **VEHICLE-WARRANTY** (as set up above).
 
 ![](media/garagehive-service-recharge-gl-account5.gif)
 

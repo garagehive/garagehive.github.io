@@ -14,7 +14,10 @@ When a booking is made and all information added, the next step is adding items 
 3. [Adding items and labour in the jobsheet using service packages](#adding-items-and-labour-in-the-jobsheet-using-service-packages)
 
 ### Open the jobsheet via the schedule
-To open the jobsheet from the role centre, click on **Schedule** from the actions bar, right-click on the booking or jobsheet you want to access, select **Look Up** to open the jobsheet, and scroll down to the lines (see below).
+To open the jobsheet from the role centre:
+1. Click on **Schedule** from the actions bar.
+2. Right-click on the booking or jobsheet you want to access. 
+3. Select **Look Up** to open the jobsheet, and scroll down to the lines.
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet1.gif)
 
@@ -23,7 +26,11 @@ To open the jobsheet from the role centre, click on **Schedule** from the action
 > Avoid left-clicking to ensure you don’t open two jobsheets at the same time.
 
 ### Adding items and labour in the jobsheet manually
-There are several ways to add items and labour lines to a jobsheet. One way is to do it manually. To do this, select the first line cell on the **Type column**, select item or labour on the drop-down menu, and press the tab button to move to the next cell. In the next cell, select the specific code or **No.**, used to identify the item or labour. You can use a placeholder item **No.** such as **MISC** in the **No.** column for the items that don't exist in the system. Next, add the **Quantity** and **Unit Price** (selling price) on the respective columns. The unit price can be updated manually or by use of the margin calculator (see below).  
+There are several ways to add items and labour lines to a jobsheet. One way is to do it manually:
+1. Select the first line cell on the **Type column** and add item or labour on the drop-down menu.
+2. Press the tab button to move to the next cell. 
+3. In the next cell, select the specific code or **No.**, used to identify the item or labour. You can use a placeholder item number such as **MISC** in the **No.** column for the items that don't exist in the system.
+4. Next, add the **Quantity** and **Unit Price** (selling price) on the respective columns. The unit price can be updated manually or by use of the margin calculator.  
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet2.gif)
 
@@ -32,7 +39,10 @@ There are several ways to add items and labour lines to a jobsheet. One way is t
 > To move between cells, you can press the tab button or use the front and back arrows. 
 
 ### Adding items and labour in the jobsheet using service packages
-The second method to add items and labour lines to a jobsheet is through service packages. Click on **Look Up** at the top-level navigation bar and select **Service Packages** on the submenus. From the list that appears, select a service package that applies to the vehicle on the jobsheet. The items and labour lines are automatically added to the jobsheet.
+The second method to add items and labour lines to a jobsheet is through service packages:
+1. Click on **Look Up** at the top-level navigation bar and select **Service Packages** from the submenus.
+2. From the list that appears, select a service package that applies to the vehicle on the jobsheet.
+3. The items and labour lines are automatically added to the jobsheet.
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet3.gif)
 

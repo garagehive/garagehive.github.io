@@ -14,7 +14,10 @@ When a jobsheet is done, all the information is correct, and all the work is don
 3. [Posting a jobsheet and creating an invoice](#posting-a-jobsheet-and-creating-an-invoice)
 
 ### Mark the jobsheet ready for collection
-When the work on the vehicle is finished, confirm that everything in the jobsheet lines is ticked by the technician on the **Technician Confirmed** column and mark the jobsheet ready for collection by select the field **Work Status Code** and enter the **Ready for Collection** status from the options; this moves the jobsheet to **Ready for Collection** tile (see below).
+When the work on the vehicle is finished
+1. Confirm that everything in the jobsheet lines is ticked by the technician on the **Technician Confirmed** column. 
+2. Mark the jobsheet ready for collection by selecting the field **Work Status Code**.
+3. Enter the **Ready for Collection** status from the options; this moves the jobsheet to **Ready for Collection** tile.
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice1.gif)
 
@@ -23,12 +26,18 @@ When the work on the vehicle is finished, confirm that everything in the jobshee
 > For the jobsheet to be complete, the technician must mark it **Complete**.
 
 ### Taking payments on a jobsheet
-To receive payment from the customer, click **Payments/Posting** from the actions bar and select **Take Payment**. Various methods are available to receive the Payment; select the exact method(s) the customer has used. The amount is automatically updated at the bottom **Difference** row. Click on **Close** (see below). 
+To receive payment from the customer:
+1. Click **Payments/Posting** from the actions bar and select **Take Payment**. 
+2. Various methods are available to receive the Payment; select the exact method(s) the customer has used.
+3. The amount is automatically updated at the bottom **Difference** row. Click on **Close** when done. 
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice2.gif)
 
 ### Posting a jobsheet and creating an invoice
-After receiving the payment, the next step is to post the jobsheet. Confirm that all the details in the jobsheet are correct; the dates, amount, items signed out and customer details. The posting date should be today's date (the day you are posting). Click on **Payments/Posting** from the actions bar and select **Post and Print**. The invoice is downloaded and ready to print (see below).
+After receiving the payment, the next step is to post the jobsheet:
+1. Confirm that all the details in the jobsheet are correct; the dates, amount, items signed out and customer details.
+2. The posting date should be today's date (the day you are posting).
+3. Click on **Payments/Posting** from the actions bar and select **Post and Print**. The invoice is downloaded and ready to print.
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice3.gif) 
 
