@@ -16,19 +16,23 @@ The Service Advisor Role Centre (Home Screen) is divided into the following sect
 
 The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include **Service**, **Purchasing**, **Catalogues** and **Posted/Archived Documents**.
 
-To access the submenus under service: Click on **Service** and then select an option from the submenus.
+To access the submenus under service:
+1. Click on **Service**
+2. Select an option from the submenus.
 
 #### 2. Navigation bar
 
 The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system. You can also check any open jobsheets, checklists, and estimates.
 
-To access the jobsheets page, click on **Jobsheets** from the navigation bar.
+To access the jobsheets page:
+1 CLick on **Jobsheets** from the navigation bar.
 
 #### 3. Actions bar
 
 The actions bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
 
-To create a new estimate, click on **+Estimate**.
+To create a new estimate:
+1. Click on **+Estimate**.
 
 #### 4. Data tiles
 

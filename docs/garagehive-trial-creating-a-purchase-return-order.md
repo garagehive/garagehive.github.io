@@ -14,18 +14,25 @@ Purchase return orders are documents you use to monitor and maintain all your re
 3. [Posting a credit memo from the supplier](#posting-a-credit-memo-from-the-supplier)
 
 ### Creating a purchase return order
-From the role centre, click on **Purchasing** and select **Purchase Return Orders**. Click on **+New** to create a new purchase return order. Enter the vendor details and the items to return (see below).
+1. From the role centre, click on **Purchasing** and select **Purchase Return Orders**. 
+2. Click on **+New** to create a new purchase return order. 
+3. Enter the vendor details and the items to return.
 
 ![](media/garagehive-trial-creating-a-purchase-return-order1.gif)
 
 
 ### Shipping the items to the supplier
-When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed. Click **Posting** from the actions bar and select **Post** from the submenus. The pop-up menu gives you three options to choose from, select **Ship** as you wait for the supplier credit memo; this means the items have been returned to the supplier, and now you are waiting for a credit memo from the supplier (see below).
+When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed:
+1. Click **Posting** from the actions bar and select **Post** from the submenus.
+2. The pop-up menu gives you three options to choose from, select **Ship** as you wait for the supplier credit memo; this means the items have been returned to the supplier, and now you are waiting for a credit memo from the supplier.
 
 ![](media/garagehive-trial-creating-a-purchase-return-order2.gif) 
 
 ### Posting a credit memo from the supplier
-After receiving a credit memo from the supplier, ensure that all the details on the credit memo match the purchase return order; the date, document number, and the amounts. Click on **Posting** from the actions bar and select **Post** from the submenus. Now select **Invoice** from the three options, which posts the purchase return order to update the relevant ledger accounts and balance the stock levels.
+After receiving a credit memo from the supplier, 
+1. Ensure that all the details on the credit memo match the purchase return order; the date, document number, and the amounts. 
+2. Click on **Posting** from the actions bar and select **Post** from the submenus. 
+3. Select **Invoice** from the three options, which posts the purchase return order to update the relevant ledger accounts and balance the stock levels.
 
 ![](media/garagehive-trial-creating-a-purchase-return-order3.gif)
 

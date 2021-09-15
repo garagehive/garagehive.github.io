@@ -74,6 +74,8 @@
       url: /docs/garagehive-service-packages.html
     - name: Creating Service Package Conditions
       url: /docs/service-package-conditions.html
+    - name: Setting up Primary Makes and Models
+      url: /docs/garagehive-setting-up-primary-makes-and-models.html
     - name: Setting up Reminders
       url: /docs/garagehive-customer-notifications.html 
     - name: Setting Up Devices 
@@ -142,9 +144,13 @@
     - name: Create New Items
       url: /docs/garagehive-create-a-item-card.html
     - name: Create Item Card Templates
-      url: /docs/create-item-templates.html      
+      url: /docs/create-item-templates.html
+    - name: Create a Placeholder Item Card
+      url: /docs/garagehive-creating-a-placeholder-item.html    
     - name: How to setup Non Inventory Items 
       url: /docs/garagehive-non-inventory.html
+    - name: How to View Item History from a Document
+      url: /docs/garagehive-how-to-view-item-history-from-a-document.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
       url: /docs/garagehive-requisition-worksheet.html
     - name: How to carry out Stock Adjustments
@@ -184,6 +190,8 @@
 - name: General Functionality
   url: "#"
   subitems:
+    - name: How to Group Document Lines
+      url: /docs/garagehive-grouping-document-lines.html
     - name: How to Use the Schedule 
       url: /docs/garagehive-scheduling-work.html
     - name: How To View Service History
@@ -201,6 +209,8 @@
   subitems:
     - name: End of Day report
       url: /docs/garagehive-end-of-day.html
+    - name: Creating End of Day Customer Payments/Till Report
+      url: /docs/garagehive-creating-end-of-day-customer-payments-till-report.html
     - name: Work in Progress
       url: /docs/garagehive-work-in-progress.html
     - name: Summary Report
@@ -288,6 +298,8 @@
       url: /docs/garagehive-statements-how-to-email.html
     - name: How to Apply Payments to Unpaid Sales Documents
       url: /docs/garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html
+    - name: How to Use Service Recharge for Internal Charging
+      url: /docs/garagehive-service-recharge.html
     - name: How to reconcile customer payments manually
       url: /docs/garagehive-finance-reconcile-customer-payments-manually.html
     - name: Use Automatic Application to Reconcile Payments

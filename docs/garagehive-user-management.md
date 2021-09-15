@@ -12,50 +12,56 @@ Within Garage Hive, you can add and remove users in the system. The **GHADMIN** 
 3. [Enabling and disabling a user](#enabling-and-disabling-the-user)
 
 ### Creating a Service Advisor user
-Search for **User Management** in the search icon at the top-right corner. The user management table opens; it displays all the users, their roles, statuses, user licences and the GH User licences for the system (right-hand side).
+1. Search for **User Management** in the search icon at the top-right corner. 
+2. The user management table opens; it displays all the users, their roles, statuses, user licences and the GH User licences for the system (right-hand side).
 
 ![](media/garagehive-user-management1.gif)
 
-To create a new **Service Advisor** user, click on **Create User** from the actions bar and enter the user details in the pop-up window. The system generates a username and password.
+3. To create a new **Service Advisor** user, click on **Create User** from the actions bar and enter the user details in the pop-up window. 
+4. The system generates a username and password.
 
 ![](media/garagehive-user-management2.gif)
 
-Click **Next** to enter user contact details and notification settings for the user. Click **next** to specify the clocking preference for the user.
+5. Click **Next** to enter user contact details and notification settings for the user.
+6. Click **next** to specify the clocking preference for the user.
 
 ![](media/garagehive-user-management3.gif)
 
-The following two pages allow you to add the **Salesperson Code** or use an existing salesperson and choose whether to send a welcome email.
+7. The following two pages allow you to add the **Salesperson Code** or use an existing salesperson and choose whether to send a welcome email.
 
 ![](media/garagehive-user-management4.gif)
 
-After adding all the required information, click on **Create** to create the user.
+8. After adding all the required information, click on **Create** to create the user.
 
 ![](media/garagehive-user-management5.gif)
 
-An email is sent to the new user with the login details, and they can now sign in.
+9. An email is sent to the new user with the login details, and they can now sign in.
 
 ![](media/garagehive-user-management6.png)
 
 ### Creating a Technician user
-To create a **Technician** user, click on **Create** from the actions bar and enter the user details and contact details in the following two pages.
+To create a **Technician** user:
+1. Click on **Create** from the actions bar and enter the user details and contact details in the following two pages.
 
 ![](media/garagehive-user-management7.gif)
 
-On the third page, select **Will be using Easy Clocking** and add the **Schedule Resource Group Code** that the technician will be using. The **Resource No.** is automatically generated. No salesperson is required on the following pages, and you can send out a welcome email to the technician.
+2. On the third page, select **Will be using Easy Clocking** and add the **Schedule Resource Group Code** that the technician will be using. The **Resource No.** is automatically generated. 
+3. No salesperson is required on the following pages, and you can send out a welcome email to the technician.
 
 ![](media/garagehive-user-management8.gif)
 
-After creating the technician user, check the schedule to ensure the technician is added.
+4. After creating the technician user, check the schedule to ensure the technician is added.
 
 ![](media/garagehive-user-management9.gif)
 
 ### Enabling and disabling the user
-To enable or disable the user, click on **Enable** or **Disable** from the actions bar.
+To enable or disable the user:
+1. Click on **Enable** or **Disable** from the actions bar.
 
 ![](media/garagehive-user-management10.gif)
 
 
-> **Note**
+> **Note:**
 >
 >All users created in the system need a licence; talk to our support team to activate your licences, or [raise a ticket](https://www.garagehive.co.uk/subs).
 

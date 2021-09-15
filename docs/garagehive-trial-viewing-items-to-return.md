@@ -16,12 +16,17 @@ The items to return report is the report of items you shouldn’t have in stock.
 2. [View the history of items in the return report](#view-the-history-of-items-in-the-return-report)
 
 ### Open the items to return report
-To access the items to return report from the **Role Centre** (home page), click on **Reports** from the actions bar, point the mouse on **Additional** from the submenus, and select **Items to Return**, which opens a list of items to be returned (see below).
+To access the items to return report from the **Role Centre** (home page):
+1. Click on **Reports** from the actions bar, 
+2. Point the mouse on **Additional** from the submenus, and select **Items to Return**, which opens a list of items to be returned.
 
 ![](media/garagehive-items-to-return1.gif)
 
 ### View the history of items in the return report
-From the opened report of **Items to Return**, select an item you want to view the history and click on **History** from the actions bar. Select **History Overview** (see below).
+From the opened report of **Items to Return**:
+1. Select an item you want to view the history.
+2. Click on **History** from the actions bar.
+3. Select **History Overview** (see below).
 
 ![](media/garagehive-items-to-return5.gif)
 

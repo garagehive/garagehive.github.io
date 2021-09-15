@@ -13,12 +13,19 @@ There are several things to do when the vehicle arrives for repairs, and that is
 2. [Adding customer comment and allocating job to the technician on schedule](#adding-customer-comment-and-allocating-job-to-the-technician-on-schedule)
 
 ### Checking in the vehicle
-When the customer arrives with the vehicle, open the jobsheet, fill in the **Arrival Date** and **Arrival Time** from the **General** FastTab and select **Vehicle On Site** to confirm the vehicle is on-site. If the vehicle is staying overnight, select **Vehicle Staying Overnight**. If the customer has requested delivery date and time, add the **Requested Delivery Date** and **Requested Delivery Time** fields. Give the vehicle key a tag for easier tracking and add the tag number to the system. (see below).
+When the customer arrives with the vehicle:
+1. Open the jobsheet, fill in the **Arrival Date** and **Arrival Time** from the **General** FastTab and select **Vehicle On Site** to confirm the vehicle is on-site.
+2. If the vehicle is staying overnight, select **Vehicle Staying Overnight**. 
+3. If the customer has requested delivery date and time, add the **Requested Delivery Date** and **Requested Delivery Time** fields. 
+4. Give the vehicle key a tag for easier tracking and add the tag number to the system.
 
 ![](media/garagehive-trial-processing-a-vehicle-arriving1.gif)
 
 ### Adding customer comment and allocating job to the technician on schedule
-To add customer comments, scroll down on the jobsheet page to the **Comment Section**, select **Customer** from the **Type Code** and add the customer comments; this helps the technicians understand what other issues the customer might have highlighted. Now, you are ready to assign the job to a technician. Close the jobsheet page and go to the **Schedule**, left click and hold on the booking and drag it to the technician and time you want to allocate. Release when in the correct position (see below).
+To add customer comments:
+1. Scroll down on the jobsheet page to the **Comment Section**, select **Customer** from the **Type Code** and add the customer comments; this helps the technicians understand what other issues the customer might have highlighted.
+2. Now, you are ready to assign the job to a technician. Close the jobsheet page and go to the **Schedule**, left click and hold on the booking and drag it on the technician up to time you want to allocate. 
+3. Release when in the correct position (see below).
 
 ![](media/garagehive-trial-processing-a-vehicle-arriving2.gif)
 
