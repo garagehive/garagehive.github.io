@@ -13,7 +13,7 @@ To create the report:
 1. Click on **Reports** from the actions bar in the role centre.
 2. Point the cursor to **End of Day** submenu, and click on **Customer Payments/Till**.
 
-![](media/garagehive-customer-payments-report1.png)
+    ![](media/garagehive-customer-payments-report1.png)
 
 3. From the pop up window that appears, click on **Preview & Close** to preview the report.
 

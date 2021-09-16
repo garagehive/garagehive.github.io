@@ -8,18 +8,17 @@ title: Creating a Placeholder Item
 Placeholder Item is used when waiting on purchase invoice from the supplier; it enables you to add the items to the Estimates, Vehicle Inspection Estimates, Jobsheets, or Purchase Orders without the purchase invoice.
 
 <br>
-<br>
 
 To create a placeholder item:
 1. click on **Items** from the navigation bar in the role centre.
 
-![](media/garagehive-placeholder-item1.png)
+    ![](media/garagehive-placeholder-item1.png)
 
 2. Select **+New** from the items list page that opens.
 3. Assign an **Item Template** and click OK. 
 4. You can add an **Item No.** and **Description** according to your preference (in this case, the item no will be *MISC* and description *Placeholder Item*). 
 
-![](media/garagehive-placeholder-item1.gif)
+    ![](media/garagehive-placeholder-item1.gif)
 
 5. Scroll down to the **Costs and Posting** section and select the slider on **Placeholder Item**.
 6. If you can't see the option, click on **Show More** at the top-right corner of the section.

@@ -17,7 +17,7 @@ The items to return report is the report of items you shouldn’t have in stock.
 
 ### Open the items to return report
 To access the items to return report from the **Role Centre** (home page):
-1. Click on **Reports** from the actions bar, 
+1. Click on **Reports** from the actions bar. 
 2. Point the mouse on **Additional** from the submenus, and select **Items to Return**, which opens a list of items to be returned.
 
 ![](media/garagehive-items-to-return1.gif)

@@ -27,11 +27,11 @@ After posting a jobsheet, the system checks on the survey settings to send the s
 ### Check the survey has been sent to the customer
 To check the delivery status of the survey:
 1. Search for **Customer Notification Entries** and select it from the search results. 
-2. From the opened list, scroll to the right to see the current status of the survey sent (see below).
+2. From the opened list, scroll to the right to see the current status of the survey sent.
 
 ![](media/garagehive-surveys-customer7.gif)
 
-When the survey is sent, the status changes to **Sent** (see below).
+When the survey is sent, the status changes to **Sent**.
 
 ![](media/garagehive-surveys-customer8.png)
 

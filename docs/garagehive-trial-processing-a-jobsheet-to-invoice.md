@@ -14,7 +14,7 @@ When a jobsheet is done, all the information is correct, and all the work is don
 3. [Posting a jobsheet and creating an invoice](#posting-a-jobsheet-and-creating-an-invoice)
 
 ### Mark the jobsheet ready for collection
-When the work on the vehicle is finished
+When the work on the vehicle is finished:
 1. Confirm that everything in the jobsheet lines is ticked by the technician on the **Technician Confirmed** column. 
 2. Mark the jobsheet ready for collection by selecting the field **Work Status Code**.
 3. Enter the **Ready for Collection** status from the options; this moves the jobsheet to **Ready for Collection** tile.

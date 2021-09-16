@@ -17,7 +17,7 @@ One way to get started on Garage Hive is to make a booking. A booking ensures th
 
 To create a booking from the home page:
 1. Click on the **Schedule** from the actions bar.
-2. Select the **Bay** or the **Technician** to allocate the booking
+2. Select the **Bay** or the **Technician** to allocate the booking.
 3. Left click and drag horizontally on the right from the time the booking starts to the end of the booking, and then release. 
 4. A pop-up window appears, **Select Allocation Type** for the booking and click okay. After clicking okay, a jobsheet is created and appears on the pop-up window.
 
