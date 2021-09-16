@@ -19,7 +19,7 @@ The grouping feature is located above the **Lines** section in a document, under
 1. Type in the name in the **Description** column.
 2. Click on the cell under **Line Count** along the line you have created a group.
 
-gif
+    gif
 
 3. From the window that opens, select the lines to add to the group and close the window.
 4. The selected lines are added to the group, and the **Line Count** column shows the number of lines in that group.
@@ -37,7 +37,7 @@ gif
 2. Click on **Functions**.
 3. Select **Create Group Items** from the actions bar in the lines section. All the selected lines are placed in one group, with the group name being the description in the top selected line.
 
-gif
+    gif
 
 You can change the group name from the **Group Items** section.
 
@@ -55,7 +55,7 @@ To create a group from the checklist attention items, you first need to work on 
 2. Select **Add Checklist Attention Lines**; this takes the lines marked 'requires urgent attention' and pre-creates the groups for you.
 3. The **Action Category** is pre-selected to **Required**.
 
-gif
+    gif
 
 4. After the groups have been created, add the items and labour in the document lines as required and match the lines with the pre-created groups. 
 5. You can match the lines to the groups using the previous methods explained above.
@@ -68,7 +68,7 @@ To group the items and labour in a service package:
 2. Select the service package you want to be grouped.
 3. Click on **Card** from the service packages versions page.
 
-gif
+    gif
 
 4. Select the slider **Create Group Items** from the opened service package card to group the items and labour in the service package.
 5. Go back from the page and add the service package to the document; this creates a new group with the service package heading.

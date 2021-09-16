@@ -5,9 +5,7 @@ title: Create an External Service
 
 # Creating an External Service
 
-If you are receiving a service from an external service provider and you want the charge to be passed on to your customer, you can charge this out by creating an **External Service**.
-
-<br>
+If you are receiving a service from an external service provider and you want the charge to be passed on to your customer, you can charge this out by creating an **External Service**:
 
 1. From the jobsheet lines under column **Type**, select **Item** from the dropdown menu.
 2. Click on the Tab button to move to the next column, **No.**. 
@@ -19,11 +17,9 @@ If you are receiving a service from an external service provider and you want th
 ![](media/garagehive-external-services1.png) 
 
 <br>
-<br>
 
 ![](media/garagehive-external-services2.gif)
 
-<br>
 <br>
 
 > **Note:** 

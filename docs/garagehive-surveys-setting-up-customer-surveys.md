@@ -47,7 +47,7 @@ Finally, you need to check the message that you are going to send your customers
 2. From the window that appears, select **Survey** from the list. 
 3. In the General FastTab, set the **Scheduled Time** to send out the survey, and the date, relative to the date of sending the invoice, on the **Date Formula** field.
 
-![](media/garagehive-surveys-customer3.gif)
+    ![](media/garagehive-surveys-customer3.gif)
 
 4. Scroll down to the SMS section and select the **SMS Text** field to edit the message to send.
 5. Use the **Field Tags**, **CustName** to insert the customer's name, **SurveyURL** to insert the survey link, and **OptOutURL** to insert the link where customers can opt-out of the survey (click on the **Fields Tag** to see these options). 

@@ -14,7 +14,7 @@ To start communicating with the suppliers/vendors, you need to prepare the purch
 3.  [Creating a purchase order from the purchase orders page](#creating-a-purchase-order-from-the-purchase-orders-page)
 
 ### Creating a purchase order from the jobsheet
-To create a purchase order from the jobsheet
+To create a purchase order from the jobsheet:
 1. Select the item lines you want to order by ticking on the box in column **Purchase(Special)**; this can be items that don't exist in the system where you have added a placeholder item **No.** such as **MISC** or items that exist in the system but are currently not in stock. Ticking this column selects the items and marks them to be added to the purchase order. 
 2. Fill in the **Vendor No.** column to the right by selecting a supplier of your choice.
 3. At the top of your jobsheet in the actions bar, click on **Parts**.
@@ -24,7 +24,7 @@ To create a purchase order from the jobsheet
 
 ### Linking a purchase order with the jobsheet
 To link a Purchase order with a jobsheet:
-1. Scroll up to the **General** FastTab
+1. Scroll up to the **General** FastTab.
 2. Fill in the **Jobsheet No.** field, or choose from the list. 
 3. All the items in the purchase order will now be automatically added to the linked jobsheet.
 

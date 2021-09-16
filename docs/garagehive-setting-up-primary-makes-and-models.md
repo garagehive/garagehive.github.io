@@ -19,13 +19,13 @@ To set the Primary Makes:
 1. Search **Make List** from the search icon at the top-right corner, select it from the options that appear.
 2. The window that opens lists all the defined primary make vehicles to use when assigning a service package condition.
 
-![](media/garagehive-primary-make-and-model1.png)
+    ![](media/garagehive-primary-make-and-model1.png)
 
 2. To add a new vehicle make, click on **+New**. 
 3. From the Make Card that opens, add the **Code** as the vehicle's make and the **Name** as the name commonly used for the make. 
 4. Select the **Primary Make** slider, to mark it as a primary make.
 
-![](media/garagehive-primary-make-and-model2.gif)
+    ![](media/garagehive-primary-make-and-model2.gif)
 
 5. Or, you can click on **Manage**, and select **Edit**, to edit an existing vehicle make.
 
@@ -35,7 +35,7 @@ To set the condition for a particular primary make:
 1. Click on **Related** from the actions bar and select **Make**. 
 2. From the submenus that appear, select **Primary Make Conditions**. The primary make conditions help the system understand all the vehicle models under the selected primary make.
 
-![](media/garagehive-primary-make-and-model4.png)
+    ![](media/garagehive-primary-make-and-model4.png)
 
 3. Edit the column **Begins With** to instruct the system to find all the vehicle models that begin with the defined condition. For example, if a vehicle model begins with BMW, it automatically falls under the primary make. 
 4. **Vehicle Count** column indicates the number of vehicles that fall under the set condition.
@@ -47,7 +47,7 @@ After setting the primary make conditions, you can now set the primary models. T
 1. Click on **Related**, and **Make** submenu.
 2. Select **Models**.
 
-![](media/garagehive-primary-make-and-model6.png)
+    ![](media/garagehive-primary-make-and-model6.png)
 
 3. Click on **+New** to add a new vehicle model. 
 4. Select the **Make Code** from the dropdown list.
@@ -66,7 +66,7 @@ To set the condition for a particular primary model:
 1. Click on  **Related**. 
 2. Select **Primary Model Conditions**.
 
-![](media/garagehive-primary-make-and-model9.png)
+    ![](media/garagehive-primary-make-and-model9.png)
 
 3. Add the conditions to the vehicle models in the page that opens.
 
