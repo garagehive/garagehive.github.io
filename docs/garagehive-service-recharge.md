@@ -106,7 +106,7 @@ Vendor card:
 
 ![](media/garagehive-service-recharge-gl-account4.png)
 
-To set up the use of Item Charges:
+To set up the use G/L account No.:
 1. From the invoicing section of the customer card you have created, add **Service Recharge G/L Account No.** as the account where the warranty costs are accounted for in your business (depends on your financial set up).
 2. Add the **Service Recharge Location Code** as **VEHSALES** (depends on whether you have set up the department in different locations).
 3. And the **Corresponding Vendor No.** as **VEHICLE-WARRANTY** (as set up above).

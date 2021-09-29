@@ -1,0 +1,49 @@
+---
+layout: docs
+title: Previewing and Publishing Online Documents
+---
+
+# Previewing and Publishing Online Documents 
+
+Previewing an online document is done when the document to be previewed has been edited and you want to confirm how it will look when sent to the customer, whereas publishing is done when the document is finished and ready to send to the customer.
+
+## In this article
+
+1. [How to preview an online document](#how-to-preview-an-online-document)
+2. [How to publish an online document](#how-to-publish-an-online-document)
+
+### How to preview an online document
+To preview an online document from a jobsheet:
+1. Scroll down to the **Group Items** section (where you have already created the groups).
+2. Add **Action Category** to each group, depending on the level of urgency for the job.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing1.gif)
+
+3. Select **Print/Send** from the document actions bar, then **Preview Online Document**.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing2.gif)
+
+4. You can test the various actions that the customer will take from the online document, such as selecting the items to approve and so on.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing3.gif)
+
+### How to publish an online document
+After you have finished preparing the document and are ready to send it to the customer, you can now publish it. To make the document available to the customer, follow these steps:
+1. From the document actions bar, select **Print/Send**, then **Publish Online Document**.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing4.gif)
+
+2. In the resulting window, select the method for sending the online document. It could be via SMS, email, or both.
+3. You can also personalise the text used for the SMS, Email or the online document introduction, or use the previously saved text messages.
+4. Click **OK**, to send the online document to the customer.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing5.gif)
+
+5. To see what actions the customer takes from the sent online document, scroll down to the **Online Document** section, where you can see when the online document was opened, when it will expire, and so on.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing6.gif)
+
+
+> **Note:**
+>
+> If the document is edited after it has been published, it must be republished because the previously sent document is now a draft version.
