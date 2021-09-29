@@ -190,12 +190,12 @@
 - name: General Functionality
   url: "#"
   subitems:
-    - name: How to Group Document Lines
-      url: /docs/garagehive-grouping-document-lines.html
     - name: How to Use the Schedule 
       url: /docs/garagehive-scheduling-work.html
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
+    - name: How to Use the Timing Belt Intervals Feature
+      url: /docs/garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html
     - name: How to Export Customer and Vehicle Information
       url: /docs/garagehive-export-customer-vehicle-info.html
     - name: How to Filter Lists 
@@ -261,7 +261,20 @@
     - name: Sets
       url: /docs/garagehive-onlinebooking-sets.html 
     - name: Testing
-      url: /docs/garagehive-onlinebooking-testing.html       
+      url: /docs/garagehive-onlinebooking-testing.html 
+- name: Online Documents
+  url: /docs/garagehive-online-documents-intro.html
+  subitems:
+    - name: Introduction
+      url: /docs/garagehive-online-documents-introduction.html
+    - name: How to Group Document Lines
+      url: /docs/garagehive-group-items-grouping-document-lines.html
+    - name: Setting Up Online documents
+      url: /docs/garagehive-online-documents-setting-up-online-documents.html
+    - name: Previewing and Publishing Online documents
+      url: /docs/garagehive-online-documents-previewing-and-publishing-online-documents.html
+    - name: Using Online Documents in a Vehicle Inspection Estimate
+      url: /docs/garagehive-online-documents-using-online-documents-in-a-vehicle-inspection-estimate.html
 - name: Finance & Accountancy
   url: "#"
   subitems:
