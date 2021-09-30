@@ -263,7 +263,7 @@
     - name: Testing
       url: /docs/garagehive-onlinebooking-testing.html 
 - name: Online Documents
-  url: /docs/garagehive-online-documents-intro.html
+  url: "#"
   subitems:
     - name: Introduction
       url: /docs/garagehive-online-documents-introduction.html
@@ -273,8 +273,8 @@
       url: /docs/garagehive-online-documents-setting-up-online-documents.html
     - name: Previewing and Publishing Online documents
       url: /docs/garagehive-online-documents-previewing-and-publishing-online-documents.html
-    - name: Using Online Documents in a Vehicle Inspection Estimate
-      url: /docs/garagehive-online-documents-using-online-documents-in-a-vehicle-inspection-estimate.html
+    - name: Adding and Managing Media in Garage Hive
+      url: /docs/garagehive-online-documents-adding-and-managing-media.html
 - name: Finance & Accountancy
   url: "#"
   subitems:

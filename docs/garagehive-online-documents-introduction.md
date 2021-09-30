@@ -16,10 +16,10 @@ The following articles are available to help you better understand the feature:
 | Group Document Lines | [Grouping document lines](garagehive-grouping-document-lines.html) |
 | Set up online documents in the system | [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) |
 | Preview and publish online documents in the system | [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) |
-| Use online documents in a vehicle inspection estimates | [Using the online documents in a vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-a-vehicle-inspection-estimate.html) |
+| Add and manage media in Garage Hive | [Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) |
 
 <br>
 
 >**Note:**
 >
->This feature is available in the Estimates, Vehicle Inspection Estimates and the Jobsheets.
+>This feature is available in Checklists, Estimates, Vehicle Inspection Estimates, and Jobsheets.
