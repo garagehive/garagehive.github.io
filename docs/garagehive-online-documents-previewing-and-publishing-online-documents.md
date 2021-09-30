@@ -39,9 +39,13 @@ After you have finished preparing the document and are ready to send it to the c
 
    ![](media/garagehive-online-documents-previewing-and-publishing5.gif)
 
-5. To see what actions the customer takes from the sent online document, scroll down to the **Online Document** section, where you can see when the online document was opened, when it will expire, and so on.
+5. Scroll down to the **Online Document** section to see what actions the customer takes from the sent online document. Here you can see how many edit versions of the document are available, when the published online document was opened, when it will expire, and so on.
 
    ![](media/garagehive-online-documents-previewing-and-publishing6.gif)
+
+6. When a customer takes action, the **Online Document** section is updated after a while. The following is an example of when the customer approves the document.
+
+   ![](media/garagehive-online-documents-previewing-and-publishing7.png)
 
 
 > **Note:**
