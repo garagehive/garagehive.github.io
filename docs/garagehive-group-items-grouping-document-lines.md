@@ -7,11 +7,11 @@ title: How to Group Document Lines
 Grouping document lines is a feature available in the estimates, vehicle inspection estimates and jobsheets; this feature enables you to group the document lines under the same job or category. In this article, we will look at the various ways of grouping the lines.
 
 ## In this article
-1. [Grouping document lines by creating a group and then adding the lines](Grouping-document-lines-by-creating-a-group-and-then-adding-the-lines)
-2. [Grouping document lines by selecting the lines and then creating a group](#Grouping-document-lines-by-selecting-the-lines-and-then-creating-a-group)
+1. [Grouping document lines by creating a group and then adding the lines](#grouping-document-lines-by-creating-a-group-and-then-adding-the-lines)
+2. [Grouping document lines by selecting the lines and then creating a group](#grouping-document-lines-by-selecting-the-lines-and-then-creating-a-group)
 3. [Grouping document lines from the checklist attention items](#grouping-document-lines-from-the-checklist-attention-items)
 4. [Grouping document lines from the service package card](#grouping-document-lines-from-the-service-package-card)
-5. [Print or preview the document](Print-or-preview-the-document)
+5. [Print or preview the document](#print-or-preview-the-document)
 
 
 ### Grouping document lines by creating a group and then adding the lines
@@ -22,7 +22,7 @@ The grouping feature is located above the **Lines** section in a document and is
     ![](media/garagehive-group-items1.gif)
 
 3. From the window that appears, select the lines to add to the group (the group name is at the end of the table with check boxes) and close the window.
-4., Click on the cell under the **Line Count** column and select the lines to add to the selected group. The number of lines added to the group is displayed in the line count column.
+4. Click on the cell under the **Line Count** column and select the lines to add to the selected group. The number of lines added to the group is displayed in the line count column.
 
     ![](media/garagehive-group-items2.gif)
 
@@ -51,9 +51,9 @@ While working from a vehicle inspection estimate, there are issues identified in
 > Suppose you have identified that the vehicle requires service based on the mileage since the vehicle was last serviced. In that case, you can create a group under this heading (or rename the group to 'Full Servicing') and add servicing items and labour.
 
 
-To create a group from the checklist attention items, first work on the checklist lines and identify the'requires attention' lines. 
+To create a group from the checklist attention items, first work on the checklist lines and identify the 'requires attention' lines. 
 
-    ![](media/garagehive-group-items6.gif)
+![](media/garagehive-group-items6.gif)
 
 Then carry out the following steps:
 1. Select **Manage** from the **Group Items** section actions bar.
@@ -61,8 +61,8 @@ Then carry out the following steps:
 
     ![](media/garagehive-group-items7.gif)
 
-4. Once the groups have been created, add the necessary items and labour to the document lines and match the lines with the pre-created groups.
-5. Using the methods described above, match the lines to the groups.
+3. Once the groups have been created, add the necessary items and labour to the document lines and match the lines with the pre-created groups.
+4. Using the methods described above, match the lines to the groups.
 
 ### Grouping document lines from the service package card
 To create a group from a service package:
@@ -73,9 +73,17 @@ To create a group from a service package:
     ![](media/garagehive-group-items8.gif)
 
 ### Print or preview the document
-When you preview or print the document after creating the groups, all the grouped items and labour appear under the group's heading.
+To preview or print the document with the group names being the headers:
+1. Ensure that the you select **Custom Heading** from the **Invoice Print Options** section.
+2. Select **Print/Send** from the actions bar, then **Print Invoice**.
 
-    gif
+    ![](media/garagehive-group-items9.gif)
 
+<br>
 
+### **See Also**
 
+[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
+[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \

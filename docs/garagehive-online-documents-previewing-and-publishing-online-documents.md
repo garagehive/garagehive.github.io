@@ -51,3 +51,12 @@ After you have finished preparing the document and are ready to send it to the c
 > **Note:**
 >
 > If the document is edited after it has been published, it must be republished because the previously sent document is now a draft version.
+
+<br>
+
+### **See Also**
+
+[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
