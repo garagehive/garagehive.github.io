@@ -15,8 +15,6 @@ The following articles are available to help you better understand the feature:
 | Set up online documents in the system | [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) |
 | Preview and publish online documents in the system | [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) |
 | Add and manage media in Garage Hive | [Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) |
-|Use online documents in estimates, checklists and vehicle inspection estimates | [Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) |
-
 
 <br>
 
