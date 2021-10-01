@@ -9,7 +9,7 @@ Search the light bulb for Web Services.
 
 ![](media/autoiq-search-web-services.png)
 
-In this table you will find teh available web services, use the search function to find the desired service and you will find the feed URL on the right.
+In this table you will find the available web services, use the search function to find the desired service and you will find the feed URL on the right.
 
 ![](media/autoiq-web-services.png)
 
