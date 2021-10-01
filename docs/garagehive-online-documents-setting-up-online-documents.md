@@ -8,8 +8,8 @@ To enable the online documents in your system, you must first contact the Garage
 
 ## In this article
 
-1. [Online documents set up](#Online-documents-set-up)
-2. [Customer notification set up](#Customer-notification-set-up)
+1. [Online documents set up](#online-documents-set-up)
+2. [Customer notification set up](#customer-notification-set-up)
 
 ### Online documents set up
 If your system already has the service activated, the following steps will help you to fully configure the online documents:
@@ -59,3 +59,11 @@ The customer notification setup allows you to specify how the customer will rece
 
 After you have completed this setup, you are now ready to use the online document feature.
 
+<br>
+
+### **See Also**
+
+[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
+[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html)

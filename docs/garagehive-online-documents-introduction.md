@@ -11,7 +11,7 @@ The following articles are available to help you better understand the feature:
 
 | To learn how to |See this article |
 | :-------------- | :-------------- |
-| Group Document Lines | [Grouping document lines](garagehive-grouping-document-lines.html) |
+| Group Document Lines | [Grouping document lines](garagehive-group-items-grouping-document-lines.html) |
 | Set up online documents in the system | [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) |
 | Preview and publish online documents in the system | [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) |
 | Add and manage media in Garage Hive | [Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) |
