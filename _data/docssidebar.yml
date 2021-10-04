@@ -194,10 +194,6 @@
       url: /docs/garagehive-scheduling-work.html
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
-    - name: Managing Key Numbers in Garage Hive
-      url: /docs/garagehive-managing-key-numbers-in-the-system.html
-    - name: Automatically Adding Courtesy Car and Collection and Delivery Service Packages
-      url: /docs/garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html
     - name: How to Use the Timing Belt Intervals Feature
       url: /docs/garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html
     - name: How to Export Customer and Vehicle Information
@@ -279,8 +275,6 @@
       url: /docs/garagehive-online-documents-previewing-and-publishing-online-documents.html
     - name: Adding and Managing Media in Garage Hive
       url: /docs/garagehive-online-documents-adding-and-managing-media.html
-    - name: Using online documents in estimates, checklists and VIE's
-      url: /docs/garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html
 - name: Finance & Accountancy
   url: "#"
   subitems:

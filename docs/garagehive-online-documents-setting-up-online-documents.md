@@ -66,5 +66,4 @@ After you have completed this setup, you are now ready to use the online documen
 [Introduction to Online Documents](garagehive-online-documents-introduction.html) \
 [Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
 [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html)
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html)
