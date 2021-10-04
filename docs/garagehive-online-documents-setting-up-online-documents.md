@@ -19,7 +19,8 @@ If your system already has the service activated, the following steps will help 
    ![](media/garagehive-online-documents-setup1.gif)
 
 2. Make sure the **Enabled** slider is turned on.
-3. Set the **Valid Hours** for online documents, which is the number of hours the previewed or published online document lasts before expiring. 
+3. Set the **Valid Hours** for online documents, which is the number of hours the previewed or published online document lasts before expiring.
+4. Set the **Service Comment Line Type** field to **Online Doc**. This field specifies the internal notification that the online document will use; for example, when a customer approves the document, the system indicates the communication as a comment from the selected **Code** in the field.
 
    ![](media/garagehive-online-documents-setup2.gif)
 
@@ -67,4 +68,5 @@ After you have completed this setup, you are now ready to use the online documen
 [Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
 [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
 [Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html)
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)

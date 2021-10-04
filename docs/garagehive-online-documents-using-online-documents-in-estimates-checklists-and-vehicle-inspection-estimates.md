@@ -42,4 +42,5 @@ The customer can approve all of the items in a category or just some subitems.
 [Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
 [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
 [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html)
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)
