@@ -1,94 +1,92 @@
 ---
 layout: docs
-title: Customer Notifications
----
-# What are customer notifications?
-
-{% include youtube.html id="Bds8JQgDQN4" %}
+title: Customer Notifications in Garage Hive
 ---
 
-In Garage Hive, there are several customer notifications, such as MOT Reminders, Service Reminders & online booking confirmations. In the Customer Notification Setup you can change settings such as how reminders are received, you can customise the templates and adjust the times in which messages are sent. 
+# Customer Notifications in Garage Hive
 
-You can find Customer Notification by searching for **Customer Notification Setup.**
+In Garage Hive, customer notifications are system settings that allow the system to communicate specific information to the customer, such as MOT Reminders, Booking Reminders, Survey Notifications, and so on. These notifications enable the garage owner to engage the customer effectively while also keeping the customer up to date on important information. We'll go over the settings for customer notifications in the system.
 
-![](media/serarch-cust-not-set.png)
+## In this article
+1. [How to set up customer notification](#how-to-set-up-customer-notification)
+2. [Writing a message template](#writing-a-message-template)
+3. [Previewing and verifying message template](#previewing-and-verifying-message-template)
+4. [Enabling customer notification and setting recurrence](#enabling-customer-notification-and-setting-recurrence)
+4. [Viewing sent notification messages](#viewing-sent-notification-messages)
 
-# How to setup Customer Notifications
+### How to set up customer notification
+To set up the customer notification:
+1. Search for **Customer Notifications** in the top right corner and select it from the results.
+2. The window that appears displays a list of all the customer notifications that have been previously set up.
 
-Clicking on the "Fast tab" heading will expand the tab 
+   ![](media/garagehive-customer-notifications1.gif)
 
-![](media/cust-not-set-1.png)
+3. You can modify existing customer notifications or create new ones. We'll make a new one to help you understand customer notifications better.
+4. To create a new notification, click **+New**.
+5. From the **General** FastTab, begin by assigning a code to the customer notification in order to identify it in the system. In this case, we'll set up an **MOT Reminder**. So, we'll enter **MOT Reminder** in the field **Code**.
+6. Add the **Description** field as well, which populates the **Display Description** field but can be changed.
 
-Each customer notification type has different setup, in this example we will focus on how to setup reminders, Each reminder requires you to setup the following.
-* **Type** - _Select the type of reminder you want to send._
-    * Disabled
-    * SMS
-    * Email
-    * SMS & Email
+   ![](media/garagehive-customer-notifications2.gif)
 
-*  **Date Formula** - _This is where you state the time you wish to send the reminder before the due date._
-    * -1D _(1 Day before date)_
-    * -3D _(3 Days before date)_
-    * -1W _(1 Week before date)_
-    * -2W _(2 Weeks before date)_
-    * -1M _(1 Month before date)_
+7. The next step is to add the **Type** of notification to the system. The type of notification is usually predefined in the system; in this case, select **Vehicle Date Reminder** from the available options.
+8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **-ve sign**, for which the notification should be sent from the system before the due date. For example, adding **-1W** indicates that the notification will be sent out one week before the due date.
 
-    **Please note, you must only type the "-1D" and it is essential you have a -(negative sign) before the formula.**
+   ![](media/garagehive-customer-notifications3.gif)
 
-*  **SMS Text** - _This is where you create the message template the customer will receive via SMS._
+9. The following fields are set in the section titled **Vehicle Date Reminder**:
+   * **Vehicle Field** - specifies the date from which the reminder date is computed.
+   * **Scheduled Time** - specifies the time at which the customer notification will be sent.
+   * **Vehicle History Formula** - specifies the time period for which the system will look up the customer's service history; if no service history is found within that time frame, the notification is not sent. For example, adding **-18M** searches any service history for the last 18 months till today.
 
-*  **Email Text** - _This is where you create the message template the customer will receive via Email._
+   ![](media/garagehive-customer-notifications4.gif)
 
->Garage Hive will not send a reminder to a customer if they already have a booking made in the system for what the reminder is for. 
+10. The following criteria are set in the section titled **Existing Jobsheet Criteria**: 
+   * **Service Type Filter** - Specifies the types of services for which the customer notification will not be sent if the services are booked.
+* **Service Type Count** - Indicates the number of service types that have been selected so that no customer notification is sent when they are booked.
+* **Labour Count** - indicates the number of labour services selected so that no customer notification is sent when they are booked.
 
-# How to write your message template
+    ![](media/garagehive-customer-notifications5.gif)
 
-When creating your message template you can choose from the following field tags, these tags will change the message dynamically based on the customer information.
+> **Note:**
+>
+> Each **Customer Notification Type** in the system has a different setup depending on how it operates.
 
-* [CustName]
-* [VehReg]
-* [BookingDate]
-* [BookingTime]
-* [BookingRef]
-* [SelfCheckInURL]
-* [ServiceType]
-* [Make]
-* [Model]
-* [MOTDueDate]
-* [SafetyCheckDueDate]
-* [ServiceNextDate]
-* [OptOutURL]
-* [LName]
-* [LAddr]
-* [LAddr2]
-* [LCity]
-* [LPostcode]
-* [SurveyURL]
+### Writing a message template
+After setting up the details above, it's time to create the message that will be sent to the customer. To add a message template, follow the steps below:
+1. You can either send a message via the email or the SMS or both, so there are two sections to set up the messages for both SMS and email.
+2. In each section, there is a field called **Field Tags** that defines the specific tags to use in the message template, so that the tagged field is automatically added to the text based on the service document selected. Some examples are as follows:
+   * **[CustName]** - When included in the message template, the **Customer's Name** from the service document is automatically added in the message.
+   * **[VehReg]** - When included in the message template, the **Vehicle Registration No.** from the service document is automatically added in the message.
+   * **[Make]** - When included in the message template, the **Vehicle Make** from the service document is automatically added in the message.
+   * **[Model]** - When included in the message template, the **Vehicle Model** from the service document is automatically added in the message.
+   * **[DueDate]** - When included in the message template, the **Due Date** from the service document is automatically added in the message.
+   * **[OptOutURL]** - When included in the message template, the **Opt Out URL** for the notifications is automatically added in the message.
+3. Create a message in the field **SMS Text** and **Email Text**.
 
-Here is an example template]
-> Hi, this is a reminder that according to our records your vehicle [Make] [Model] - [VehReg] is due an MOT on [MOTDueDate]. Please visit mot.com to book online. Opt-Out [OptOutURL]
+> **Example:**
+>
+> Hello [CustName], This is a reminder that your vehicle [Make] - [VehReg] is due for an MOT on [DueDate] according to our records.
+> To schedule an appointment, please contact a member of our team. [OptOutURL] - Unsubscribe
 
-![](media/garagehive-customer-notification-setup-required.png)
+   ![](media/garagehive-customer-notifications6.gif)
 
+### Previewing and verifying message template
+To see a preview of the messages you've added:
+1. Enable the **Send SMS** and **Send Email** sliders and choose a **Vehicle No.** and **Customer No.** from which you can use the information as a sample. If you are satisfied with the message, click **Yes** for SMS and **OK** for email.
 
-# How to preview and verify your template
+   ![](media/garagehive-customer-notifications7.gif)
 
-You have the ability to preview and verify the  notification template you have created.
+### Enabling customer notification and setting recurrence
+Scroll down to the **Recurrence** section and select the slider on the days when you want the notification to be sent.
 
-To do this, click "actions" in the ribbon, then select the message you wish to verify. 
+![](media/garagehive-customer-notifications8.gif)
 
-![](media/garagehive-customer-notification-setup-verify.png)
+Then, from the **General** FastTab, enable the notification to make it operational. After enabling the customer notification, it cannot be edited unless it is disabled.
 
-Simply select the customer and vehicle you want to preview the message for, if you are happy with the message press OK. 
+![](media/garagehive-customer-notifications9.gif)
 
-![](media/garagehive-customer-notification-setup-fields.png)
+### Viewing sent notification messages
+To view the list of the customer notifications sent out, search for **Customer Notifications Entries** from the search icon at the top-right corner, the window that appears lists all details for the customer notifications sent.
 
-# How to view sent messages
+![](media/garagehive-customer-notifications10.gif)
 
-You can find Customer Notification Logs by searching for **Customer Notification Log Entries.**
-
-![](media/garagehive-customer-notification-log.png)
-
-Alternatively, customer communication logs can also be accessed from a jobsheet.
-
-![](media/garagehive-customer-notification-log-jobsheet.png)
