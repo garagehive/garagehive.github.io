@@ -73,5 +73,5 @@ A list of all added media to the system can be viewed and managed. To do so, fol
 [Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
 [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
 [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html)
-
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)

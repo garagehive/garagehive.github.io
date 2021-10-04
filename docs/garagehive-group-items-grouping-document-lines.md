@@ -87,4 +87,5 @@ To preview or print the document with the group names being the headers:
 [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
 [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
 [Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html)
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)

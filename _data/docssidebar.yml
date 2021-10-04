@@ -281,6 +281,8 @@
       url: /docs/garagehive-online-documents-adding-and-managing-media.html
     - name: Using online documents in estimates, checklists and VIE's
       url: /docs/garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html
+    - name: What Happens When a Customer Acts on a Sent Online Document?
+      url: /docs/garagehive-online-documents-what-happens-for-customers-actions.html
 - name: Finance & Accountancy
   url: "#"
   subitems:
