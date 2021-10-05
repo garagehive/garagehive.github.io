@@ -29,12 +29,12 @@ To set up the customer notification:
    ![](media/garagehive-customer-notifications2.gif)
 
 7. The next step is to add the **Type** of notification to the system. The type of notification is usually predefined in the system; in this case, select **Vehicle Date Reminder** from the available options.
-8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **-ve sign**, for which the notification should be sent from the system before the due date. For example, adding **-1W** indicates that the notification will be sent out one week before the due date. If you add the number of days without a **-ve sign**, the notification will be sent after the due date.
+8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **negative sign**, for which the notification should be sent from the system before the due date. For example, adding **-1W** indicates that the notification will be sent out one week before the due date. If you add the number of days without a **negative sign**, the notification will be sent after the due date.
 
    ![](media/garagehive-customer-notifications3.gif)
 
 9. The following fields are set in the section titled **Vehicle Date Reminder**:
-   * **Vehicle Field** - specifies the date from which the reminder date is computed.
+   * **Vehicle Field** - specifies the date from which the reminder date is calculated.
    * **Scheduled Time** - specifies the time at which the customer notification will be sent.
    * **Vehicle History Formula** - specifies the time period for which the system will look up the customer's service history; if no service history is found within that time frame, the notification is not sent. For example, adding **-18M** searches any service history for the last 18 months till today.
 

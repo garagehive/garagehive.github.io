@@ -1,59 +1,91 @@
 ---
 layout: docs
-title: VHC (Vehicle Health Check)
+title: Vehicle Inspection Estimates (VIEs)
 ---
-# How to use VHCs 
-{% include youtube.html id="qyT5Y_GEpfM" %}
----
-VHCs in Garage Hive offer the ability to manage and monitor your upsell, additional authorisation and estimates across all of your service staff. VHCs are created by confirming a [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"). Once a VHC has been created you have several features designed to assist the user such as the price calculator, copying authorised lines to a [Jobsheet](/docs/garagehive-jobsheet-create.html "How to create a jobsheet") and the ability to defer work for a later date. 
 
-The below flowchart explains the process from [Jobsheet](/docs/garagehive-jobsheet-create.html "How to create a jobsheet") -> [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") -> VHC -> [Jobsheet](/docs/garagehive-jobsheet-create.html "How to create a jobsheet"). 
+# How to use Vehicle Inspection Estimates (VIEs)
 
-![](media/garagehive-vhc-flowchart.png)
+VIEs in Garage Hive allow you to manage and monitor your upsell, additional authorization, and estimates across all of your service staff. VIEs are created by confirming a [Vehicle Inspection Checklist](/docs/garagehive-technicians-vehicle-inspections.html "How to Perform a Vehicle Inspection") or a **Quality Control Checklist**.
 
-From the Advisors role centre you can see if any [Vehicle Inspections](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") are in progress or awaiting confirmation, all [Vehicle Inspections](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") require an Advisor to confirm them. Confirming a [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") will present the advisor with an option of creating a VHC. 
+## In this article
+1. [Understanding the process from jobsheet to VIE back to jobsheet](#understanding-the-process-from-jobsheet-to-vie-back-to-jobsheet)
+2. [Confirming a checklist to a VIE](#confirming-a-checklist-to-a-vie)
+3. [Different VIE statuses](#different-vie-statuses)
+4. [Adding customer authorisation and copy the authorised lines to jobsheet](#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet)
 
-![](media/garagehive-vhc-vi-tile.png)
 
-Clicking on the VI - Awaiting Confirmation tile will present you with a list of [Vehicle Inspections](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") awaiting confirmation. Simply select the [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") you want to view and confirm.
+### Understanding the process from jobsheet to VIE and back to jobsheet
+To help you understand the process of creating a VIE from a jobsheet, we've created the flowchart below, which shows all of the steps involved.
 
-![](media/garagehive-vhc-confirm.png)
+![](media/garagehive-vehicle-inspection-estimate1.png)
 
-Once you have opened the [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") check that you are happy with the information and press the "Confirm" button in the action bar. You will be asked if you want to create a VHC. If the [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") requires you to contact the customer to gain authorisation press confirm and press Yes to create a new VHC. If you confirm and press No the Vehicle Inspection will be archived and no VHC will be created. You can access historic [Vehicle Inspections]/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") at any time. 
+1. Once the jobsheet is created, the technician creates a **Vehicle Inspection** linked to the jobsheet and inspects the vehicle.
+2. Depending on the outcome of the inspection, the vehicle may require additional work or not. If not, there is no need to create a VIE.
+3. If yes, then the service advisor checks and confirms the vehicle inspection and creates a **Vehicle Inspection Estimate**.
+4. The vehicle inspection estimate is filled out with the items and labour needed for the identified work, and the service advisor then shares the quotation with the customer **for authorisation**.
+5. When the customer gives approval for the work to be done, the work that has been approved is **copied to the linked jobsheet**, and the work that has not been approved is given a **reminder date** for future reference.
 
-After pressing Yes the VHC will be created, this VHC can either be accessed from the action bar of the [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") or from the Service Advisor role centre using the tiles below. 
+### Confirming a checklist to a VIE
+To verify a checklist that has been completed by a technician:
+1. On the checklist page, click **Process** and then **Confirm** from the actions bar.
+2. To create a VIE, answer **Yes** to the prompt question that appears.
 
-![](media/garagehive-vhc-tile.png)
+![](media/garagehive-vehicle-inspection-estimate2.gif)
 
-Each tile represents a different state of the VHC. 
+> **Note:**
+>
+> After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card.
 
-* Awaiting Action (Yet to be actioned)
-* Awaiting Parts (Actioned, awaiting parts information)
-* Awaiting Advisor (VHC Estimate is populated, awaiting an Advisor to check it)
-* Awaiting Authorisation (Awaiting customer to be contacted)
+### Different VIE statuses 
+From the **Role Centre**, the VIE has the following statuses that it goes through:
 
-The VHC status can be changed within the document, the status will effect which tile the VHC will appear in - this can be used to great effect to manage your Service Advisors or office staff. 
+![](media/garagehive-vehicle-inspection-estimate3.png)
 
-Clicking on the tiles will show you a list of the VHCs with that status. 
+* **Awaiting Action** tile - shows the number of VIEs that are created from completed checklists but have yet to be acted upon. 
+* **Awaiting Parts** tile - shows the number of VIEs that have been added items and labour but are now waiting for the parts department to fill in the parts information.
+* **Awaiting Advisor** - shows the number of completed VIEs that are awaiting confirmation and verification from the service advisor before being sent to the customer.
+* **Awaiting Authorisation** - the number of completed VIEs that have been sent to the customer and are now awaiting approval from the customer.
 
-![](media/garagehive-vhc-list.png)
+The VIE status can be changed from the document as follows:
+1. Click on the tile with the VIE you want to change the status.
+2. Select the VIE from the list that appears by clicking on the **No.** of the VIE to open.
+3. From the VIE's **General** FastTab, scroll to the **VIE Status** field and select the status to change to from the drop-down menu.
 
-Click on the VHC No. to open it. 
+![](media/garagehive-vehicle-inspection-estimate4.gif)
 
-![](media/garagehive-vhc-authorise.png)
+### Add items and labour to the vehicle inspection estimate
+After creating a VIE from the checklist, the status is **Awaiting Action**, to give the service advisor an alert to take action:
+1. Click on the **Awaiting Action** tile to open the VIE list, and select the VIE to work on.
+2. Add items and labour to the VIE according to the checks done.
+3. Change the **VIE Status** to **Awaiting Authorisation** from the customer, which moves it from the **Awaiting Action** to **Awaiting Authorisation** tile.
 
-A VHC document is a combination of the [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") and an estimate. You can view the [Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") from within the VHC by clicking on the FastTab "Check List Lines >". Using this information, you can generate an estimate of the work on the document lines. You can use [Service Packages](/docs/garagehive-service-packages.html "Service Packages") and Repair Times within a VHC document to assist with producing the estimate. 
+![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4.gif)
 
-If you contact the customer and gain authorisation for the additional work, tick the "Customer Authorised" box on the lines, then click "Copy Authorised lines to Jobsheet" in the action bar. This will copy all of the authorised lines back to the original Jobsheet. 
+![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-authorisation.png)
 
-For any work not authorised, you can use the "Reminder Date" column to set a reminder on the system. Once the reminder is due, a tile on the Service Advisors homepage will populate with the VHC requiring a reminder. 
+### Adding customer authorisation and copy the authorised lines to jobsheet
+You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
+1. The first is from the document lines:
+   * Scroll to the right on the document until you reach the **Customer Authorised** column. Tick all of the lines that the customer has approved.
+   * From the actions bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
 
-Once the document is complete, update the document status to "Completed". Completed VHCs are still accessible from a Jobsheet. 
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.gif)
 
-![](media/garagehive-vhc-status.png)
+2. Alternatively, from the group items where the document lines have been added:
+   * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html)), where the groups have already been created.
+   * Select the group items that have been approved from the **Customer Authorised** column. When a group is checked, all document lines within that group are approved. A single document line that is already part of a group cannot be separately authorised.
+   * From the actions bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
+
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
+
+> **Note:**
+>
+> The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
+> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.PNG)
 
 
 # See Also
-[How to setup Checklists](/docs/garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive")
 
-[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection")
+[How to setup Checklists](/docs/garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") \
+[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") \
+[Setting reminder date for deffered work](/docs/garagehive-vhc-reminder-date.html)
