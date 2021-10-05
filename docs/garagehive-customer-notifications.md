@@ -29,7 +29,7 @@ To set up the customer notification:
    ![](media/garagehive-customer-notifications2.gif)
 
 7. The next step is to add the **Type** of notification to the system. The type of notification is usually predefined in the system; in this case, select **Vehicle Date Reminder** from the available options.
-8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **-ve sign**, for which the notification should be sent from the system before the due date. For example, adding **-1W** indicates that the notification will be sent out one week before the due date.
+8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **-ve sign**, for which the notification should be sent from the system before the due date. For example, adding **-1W** indicates that the notification will be sent out one week before the due date. If you add the number of days without a **-ve sign**, the notification will be sent after the due date.
 
    ![](media/garagehive-customer-notifications3.gif)
 
@@ -53,7 +53,7 @@ To set up the customer notification:
 
 ### Writing a message template
 After setting up the details above, it's time to create the message that will be sent to the customer. To add a message template, follow the steps below:
-1. You can either send a message via the email or the SMS or both, so there are two sections to set up the messages for both SMS and email.
+1. You can either send a message via the email or the SMS or both. There are two sections to set up the messages for SMS and email.
 2. In each section, there is a field called **Field Tags** that defines the specific tags to use in the message template, so that the tagged field is automatically added to the text based on the service document selected. Some examples are as follows:
    * **[CustName]** - When included in the message template, the **Customer's Name** from the service document is automatically added in the message.
    * **[VehReg]** - When included in the message template, the **Vehicle Registration No.** from the service document is automatically added in the message.
@@ -86,7 +86,7 @@ Then, from the **General** FastTab, enable the notification to make it operation
 ![](media/garagehive-customer-notifications9.gif)
 
 ### Viewing sent notification messages
-To view the list of the customer notifications sent out, search for **Customer Notifications Entries** from the search icon at the top-right corner, the window that appears lists all details for the customer notifications sent.
+To see a list of the customer notifications that have been sent, use the search icon in the top-right corner to search for **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent.
 
 ![](media/garagehive-customer-notifications10.gif)
 
