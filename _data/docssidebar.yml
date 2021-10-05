@@ -159,14 +159,12 @@
       url: /docs/garagehive-item-pricing-markup.html
     - name: How to create item Price/Discount groups and update items
       url: /docs/item-price-discount-groups.html      
-- name: Workshop Operations
+- name: Service Advisor Operations
   url: "#"
   subitems:
-    - name: Vehicle Inspections
-      url: /docs/garagehive-technicians-vehicle-inspections.html
-    - name: Vehicle Health Checks
+    - name: Vehicle Inspection Estimates
       url: /docs/garagehive-VHC.html
-    - name: Vehicle Health Checks - Deferred Work Reminders
+    - name: Vehicle Inspection Estimates - Deferred Work Reminders
       url: /docs/garagehive-vhc-reminder-date.html
     - name: Internal Jobsheets
       url: /docs/garagehive-internal-jobsheet.html

@@ -1,73 +1,52 @@
 ---
 layout: docs
-title: VHC (Vehicle Health Check) Reminder Dates
+title: Vehicle Inspection Estimates (VIE) Reminder Dates
 ---
 
-#   VHC (Vehicle Health Check) - Reminder Dates
+#   Vehicle Inspection Estimates (VIE) Reminder Dates
 
-Within the Vehicle Health Check, you have the ability to deferred any advisory work reported which has not been authorised by the customer. 
+You have the option to defer any advisory work reported that has not been authorised by the customer within the vehicle inspection estimate. You can provide your customer with a follow-up call for the recommended work.
 
-You can offer your customer a follow up call for the advised work. 
+Once the date has been set within the vehicle inspection estimate, it will appear in the tiles on the home screen 2 weeks prior to the agreed date (this period can be specified by you and does not have to be 2 weeks).
 
-Once the date has been set within the Vehicle Health Check, 2 weeks prior to the agreed date *(this period can be specified by you and does not need to be 2 weeks.)* it will appear in the tiles on the home screen. 
+![](media/garagehive-vie-reminders1.png)
 
-![](media/garagehive-vhc-reminder-date1.png)
+## In this article
+1. [How to set reminder date](#how-to-set-reminder-date)
+2. [Knowing when the reminder date is coming up and or overdue](#Knowing-when-the-reminder-date-is-coming-up-and-or-overdue)
+3. [Following up on the reminders](#Following-up-on-the-reminders)
 
-#### How to set Reminder Date 
+### How to set reminder date 
+1. There is a column for Reminder Date in the vehicle inspection estimate **Group Items** section.
+2. Select a date in the cell along the group line for the work you want to set a reminder date for.
 
-Within the Vehicle Health Check Lines section, there is a column for Reminder Date. 
+![](media/garagehive-vie-reminders2.gif)
 
-![](media/garagehive-vhc-reminder-date2.png)
+### Knowing when the reminder date is coming up and or overdue 
+When a reminder date is approaching or has passed, it is displayed in the **Role Centre** under the vehicle inspection estimates tiles named **Reminders Upcoming** and **Reminders Overdue**, respectively.
 
-This is where you select a follow up date according to when you believe the work may be due. 
+> **Example:**
+>
+> You could specify that 2 weeks before the reminder date, the items selected will appear in the VIE **Reminders Upcoming** tile, and after the reminder date has passed and the work has not been authorised or the reminder date has not been removed, the items selected will appear in the **Reminders Overdue** tile.
 
-####    When the Reminder Date is coming up and or overdue 
+![](media/garagehive-vie-reminders3.png)
 
-2 weeks *(this period can be specified by you and does not need to be 2 weeks.)* prior to the reminder date the items selected will appear in the VHC Reminder - Upcoming Tile. 
+### Following up on the reminders
+When the reminder tiles are populated, you should ensure that you have followed up with the customer to obtain authorization for the work. To follow up on the items: 
+1. Click on the tile with the jobs to follow up on.
+2. The list that appears is for the items in the respective VIE that have been marked for reminder. Select the line containing the item you want to follow up on and then click **Open Document** from the actions bar, or simply click on the **Document No.**.
 
-After the date has passed, if the work has not been authorised or reminder date removed, the reminders will fall into the VHC - Reminder Overdue Tile. 
+   ![](media/garagehive-vie-reminders4.gif)
 
-![](media/garagehive-vhc-reminder-date1.png)
+3. After communicating with the customer, the work has been authorised, and a date has been agreed upon, you can open the schedule from the vehicle inspection estimate by selecting **Process** from the actions bar, followed by **Schedule** from the submenus. Ensure to remove the reminder date (which removes it from the reminders tile).
 
-####    How to add the authorised work to a job from a follow up call. 
+   ![](media/garagehive-vie-reminders5.gif)
 
-When selecting the relevant tile the work deferred will appear as several lines split up into labour and items. 
+4. Schedule the job for the agreed-upon date, then **Select Existing Jobsheet** and add the jobsheet linked to the vehicle inspection estimate.
+5. After booking, open the vehicle inspection estimate and copy the authorised lines to the jobsheet.
 
-**Ensure you make a note of the VHC number as there may be multiple open for the vehicle.**
-
-![](media/garagehive-vhc-reminder-date3.png)
-
-Highlight the relevant line which you are wanting to follow up. Then selected Related Information, followed by the Vehicle Health Check Card. This will open the original Vehicle Health Check and will show all work reported on that visit including any work previously authorised. 
-
-![](media/garagehive-vhc-reminder-date4.png)
-
-Once the work has been authorised and a date has been agreed you can open the schedule from the Vehicle Health Check Card by selecting Process followed by Schedule. 
-
-![](media/garagehive-vhc-reminder-date5.png)
-
-Create a booking on the schedule in the relevant bay depending on the type of work which has been authorised.
-
-When creating a new job it will alert you that there are VHC's exist for the vehicle. Select ok.
-
-![](media/garagehive-vhc-reminder-date6.png)
-
-Within the jobsheet ensure the factbox is open and the select the blue number against the VHCs within the factbox. 
-
-![](media/garagehive-vhc-reminder-date7.png)
-
-This will show all VHC for the vehicle. Select the VHC which the authorised work was reported on. 
-
-![](media/garagehive-vhc-reminder-date8.png)
-
-At this point you tick the customer authorised box as you would when authorising work from a Vehicle Health Check, followed by the Copy Authorised Lines to Jobsheet Tab. 
-
-![](media/garagehive-vhc-reminder-date9.png)
-
-Select the job upon you wish the work to be completed, if multiple jobs are open. 
-
-This is now a booking made and the authorised work added to it. 
-
-If all outstanding work has been authorised the reminder will disappear from within the tiles. 
-
-# How to use VHCs 
-{% include youtube.html id="qyT5Y_GEpfM" %}
+# See Also
+ 
+[How to setup Checklists](/docs/garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") \
+[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") \
+[How to use Vehicle Inspection Estimates](/docs/garagehive-VHC.html)
