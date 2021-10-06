@@ -10,11 +10,12 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 1. [Understanding the schedule layout](#understanding-the-schedule-layout)
 2. [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule)
 3. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
-4. [Adding resources calender changes](#adding-resources-calender-changes)
-5. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
-6. [Adding a standard event](#adding-a-standard-event)
-7. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-8. [Using the search function in the schedule](using-the-search-function-in-the-schedule)
+4. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
+5. [Adding resources calender changes](#adding-resources-calender-changes)
+6. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
+7. [Adding a standard event](#adding-a-standard-event)
+8. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
+9. [Using the search function in the schedule](using-the-search-function-in-the-schedule)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -31,7 +32,7 @@ The service schedule layout is divided into the following parts:
     >
     >    Garage Hive allows you to make multiple allocations of one job, therefore being able to accurately load your day with jobs you will actually be working on, therefore your statistics of available hours will also be accurate. 
 
-5. The Resources: these are all the resources available to work. When the resource is clocked as working, the colour changes to green.
+5. **The Resources:** these are all the resources available to work. When the resource is clocked as working, the colour changes to green.
 
 ###  Understanding the Colours Within the Schedule
 The schedule colours are used to help understand the different work statuses for each work schedule. The following table explains the default colours that are set up in the system. You can change the colours to your preference.
@@ -73,9 +74,26 @@ To rearrange:
 
     ![](media/garagehive-understanding-the-schedule-rearrange1.gif)
 
-4. From the list of all the resources is displayed, select the resource to rearrange and click on **Move Up** or **Move Down** from the actions bar.
+4. From the list of all the resources displayed, select the resource to rearrange and click on **Move Up** or **Move Down** from the actions bar.
 
     ![](media/garagehive-understanding-the-schedule-rearrange2.gif)
+
+> **Tip:**
+>
+> Remove any spaces before the resource name to ensure consistency.
+
+### Managing service hours in the schedule
+The service hours are the hours in the schedule when the resources are available for work. For example, you could add the technicians’ working hours as 08:00 a.m. to 17:00 p.m. every day. To change a resource's service hours:
+1. Using the search icon in the top-right corner, search for **Service Hours** and select it from the results.
+2. The list that appears contains all of the resources that have been added in the system, with their service hours specified for various days of the week.
+
+  ![](media/garagehive-understanding-the-schedule-service-hours1.gif)
+
+3. Scroll to the resource for which you want to change the service hours, and then click on the line with the day you want to change the time and enter the time.
+4. The schedule layout is updated to reflect this change.
+
+  ![](media/garagehive-understanding-the-schedule-service-hours2.gif)
+
 
 ### Adding resources calender changes
 Sometimes there might be a single change of the scheduled work time for the resources, and you have to change it in the schedule:
