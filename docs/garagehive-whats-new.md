@@ -5,6 +5,19 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 24th August 2021
+
+* Added AIB bank account import template.
+
+### 31st July 2021
+
+* Added the ability to display bank details in the footer. 
+* Added the ability to display unique footers based on location code.
+* Added the ability to display location-based logo details on the footers of sales documents, bookings, and survey emails.
+* Added the Print Line Discount Always option to VIE and Estimate printouts.
+* Improved how external links are added and removed from the role centre page. 
+* It is now easier to change the order of checklist groups by using simple up/down arrows.
+
 ### 6th June 2021
 
 * Added the ability to filter service packages by Vehicle Model
