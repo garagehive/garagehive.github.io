@@ -40,8 +40,9 @@ To enable the key numbers functionality, follow these steps:
 
 ### How to use key numbers from the jobsheet
 To begin using the **Key Tag No.** field, ensure that you have added all of the key numbers from the key tags list that you have in your garage. To accomplish this, follow these steps:
-1. Search for **Key Tags** in the top-right corner and select it from the search results.
-2. From the window that appears, add all of the key numbers you have, specifying their location.
+1. In the top-right corner, search for **Key Tags** and select it from the search results.
+2. The window that appears displays a list of all the key tags that have already been added, along with the details of where they have been assigned.
+3. You can add to the list of key tags that you already have.
 
    ![](media/garagehive-managing-key-numbers5.gif)
 
@@ -74,6 +75,6 @@ As a result, the **Jobsheet Key Tag No.** field displays the linked jobsheet's k
 
 ![](media/garagehive-managing-key-numbers11.png)
 
-If the vehicle has not yet arrived and the jobsheet is available, you can allocate a key number from the purchase order by clicking the three dots at the end of the **Jobsheet Key Tag No.** field and selecting the key number.
+If the vehicle has not yet arrived and the jobsheet is available, you can assign a key number from the purchase order by first linking the purchase order to the jobsheet, then clicking the three dots at the end of the **Jobsheet Key Tag No.** field and selecting the key number.
 
 ![](media/garagehive-managing-key-numbers12.gif)
