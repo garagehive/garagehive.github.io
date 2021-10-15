@@ -16,7 +16,7 @@ In Garage Hive, you can copy any document into another document using the copy d
 
    ![](media/garagehive-copydocument2.gif)
 
-5. Now, select the sliders **Include Header** to add the jobsheet's header, and **Copy Comments** to copy the comments from the posted jobsheet.
+5. Now, select the sliders **Include Header** to add the jobsheet's header (Which includes customer details, vehicle details, reminder dates, etc), and **Copy Comments** to copy the comments from the posted jobsheet.
 6. Then click **OK**. The posted jobsheet will now be copied into the estimate.
 
 ![](media/garagehive-copydocument3.gif)
