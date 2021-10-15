@@ -61,4 +61,4 @@ When reading or entering comments on a phone, the comment is now displayed in a 
 
 ### See Also
 
-[Video: How to process a jobsheet to invoice](https://www.youtube.com/watch?v=ebt1UsiP28k&:target="_blank") \
+[Video: How to use comments on service documents in Garage Hive](https://www.youtube.com/watch?v=ebt1UsiP28k&:target="_blank") \
