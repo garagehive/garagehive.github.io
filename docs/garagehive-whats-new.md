@@ -24,27 +24,33 @@ Below is a brief list of Garage Hive developments
 * Added ability to select multiple service packages to add in a job.
 * Added the service advisor's name to customer survey entries.
 * The collection and delivery slider now includes a service package selection, so that when enabled, the service package is automatically added to the job.
-* System created comments now have the user name blank.
+* System created comments now have the user ID blank.
 * Checklist text template increased to maximum length of 2048 characters.
 * Added the [key tag number](/docs/garagehive-managing-key-numbers-in-the-system.html) field to help manage key catalogue.
 * Added the ability to add the vendor invoice number to the inventory comment in a purchase return order.
 * Added vendor number and unit cost column to posted jobsheet lines.
-* Made the purchase order number clickable in posted jobsheets to open.
-* Made the 'Attention of User ID' column visible in attention comments list.
+* Made it possible to drill-down on purchase order number column in posted jobsheets.
+* Made the 'Attention of User ID' column visible by default in attention comments list.
 * Added service advisor code to printed jobsheet card.
 
+### 18th September 2021
+
+* Added [online job authorisation](/docs/garagehive-online-documents-introduction.html) for estimates, vehicle inspection estimates, and jobsheets. 
+* Added online sharing for vehicle inspections.
+* Improved [grouping of document job lines](/docs/garagehive-group-items-grouping-document-lines.html).
+* Improved on [media management](/docs/garagehive-online-documents-adding-and-managing-media.html) in Garage Hive.
 
 ### 15th September 2021
 
 * Usability improvements to the 'Items to Return Report'.
 * Added 'Statement Report and Aged Receivables Report' drop-down menu in customer's list.
-* Added ability to add external services to a jobsheet generated PO.
+* Added ability to add external services to a jobsheet generated purchase order.
 * Added checklist FastTab to posted jobsheets.
-* Added 'MISC Item' slider to Item Cards.
+* Added 'Placeholder Item' slider to Item Cards.
 * Engine Code field length increased from 20 to 30 characters.
 * Checklist text box increased to maximum length of 2048 characters.
 * Removed the ability to delete online booking customer.
-* Removed the ability to open the users page to all users except the 'GHADMIN'.
+* User management page made as default page to edit users.
 * Added a check on resource delete if resource is in schedule resource group.
 * Added Item unit cost column in Item History Overview report.
 
