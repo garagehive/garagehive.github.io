@@ -5,6 +5,55 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 17th October 2021
+
+* Added the ability to ask if the resources should be added automatically when posting a jobsheet.
+* Added 'Fuel Filter Due Date' to vehicle reminders.
+* Added series description to vehicle card under 'Model Series' field.
+
+### 9th October 2021
+
+* Added a restriction to posting a vehicle sale by ensuring the 'Receipt on Invoice' slider in purchase and payable setup is set to true.
+* Added customer category to vehicle list.
+* Added the ability to auto-open Purchase/Sales Invoice when creating from vehicle sales orders.
+* Included a 'Entry Type' column in the payment gateway entries page.
+* Added restrictions for an External Accountant user to create jobsheets/VIEs/Estimates, clock in time, and access service schedule.
+* Added ability to copy a line you are on and insert it below in the checklist. This is to help technicians add lines as needed if multiple issues exist for the same area.
+* Added 'Planning and Reminder Notes' field in the vehicle card.
+* Added the option to [Lookup 'Timing Belt Interval'](/docs/garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html) from Autodata.
+* Added ability to select multiple service packages to add in a job.
+* Added the service advisor's name to customer survey entries.
+* The collection and delivery slider now includes a service package selection, so that when enabled, the service package is automatically added to the job.
+* System created comments now have the user ID blank.
+* Checklist text template increased to maximum length of 2048 characters.
+* Added the [key tag number](/docs/garagehive-managing-key-numbers-in-the-system.html) field to help manage key catalogue.
+* Added the ability to add the vendor invoice number to the inventory comment in a purchase return order.
+* Added vendor number and unit cost column to posted jobsheet lines.
+* Made it possible to drill-down on purchase order number column in posted jobsheets.
+* Made the 'Attention of User ID' column visible by default in attention comments list.
+* Added service advisor code to printed jobsheet card.
+
+### 18th September 2021
+
+* Added [online job authorisation](/docs/garagehive-online-documents-introduction.html) for estimates, vehicle inspection estimates, and jobsheets. 
+* Added online sharing for vehicle inspections.
+* Improved [grouping of document job lines](/docs/garagehive-group-items-grouping-document-lines.html).
+* Improved on [media management](/docs/garagehive-online-documents-adding-and-managing-media.html) in Garage Hive.
+
+### 15th September 2021
+
+* Usability improvements to the 'Items to Return Report'.
+* Added 'Statement Report and Aged Receivables Report' drop-down menu in customer's list.
+* Added ability to add external services to a jobsheet generated purchase order.
+* Added checklist FastTab to posted jobsheets.
+* Added 'Placeholder Item' slider to Item Cards.
+* Engine Code field length increased from 20 to 30 characters.
+* Checklist text box increased to maximum length of 2048 characters.
+* Removed the ability to delete online booking customer.
+* User management page made as default page to edit users.
+* Added a check on resource delete if resource is in schedule resource group.
+* Added Item unit cost column in Item History Overview report.
+
 ### 24th August 2021
 
 * Added AIB bank account import template.
