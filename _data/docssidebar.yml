@@ -231,14 +231,30 @@
 - name: Surveys
   url: "#"
   subitems:
-    - name: Setting Up Customer Surveys
-      url: /docs/garagehive-surveys-setting-up-customer-surveys.html
-    - name: Confirming Surveys are Sent
-      url: /docs/garagehive-surveys-confirming-surveys-are-sent.html
-    - name: Reviewing Your Customer Surveys
-      url: /docs/garagehive-surveys-reviewing-your-customer-surveys.html
-    - name: Sending Review Requests on Completed Survey Entries
-      url: /docs/garagehive-surveys-sending-review-requests-on-completed-survey-entries.html
+    - name: Customer Surveys
+      url: /docs/garagehive-customer-surveys.html
+      subitems:
+        - name: Setting Up Customer Surveys
+          url: /docs/garagehive-surveys-setting-up-customer-surveys.html
+        - name: Confirming Surveys are Sent
+          url: /docs/garagehive-surveys-confirming-surveys-are-sent.html
+        - name: Reviewing Your Customer Surveys
+          url: /docs/garagehive-surveys-reviewing-your-customer-surveys.html
+        - name: Sending Review Requests on Completed Survey Entries
+          url: /docs/garagehive-surveys-sending-review-requests-on-completed-survey-entries.html
+    - name: Internal Surveys
+      url: /docs/garagehive-internal-surveys.html
+      subitems:
+        - name: Setting Up and Sending Internal Surveys
+          url: /docs/garagehive-setting-up-and-sending-internal-surveys.html
+        - name: Scheduling Recurring Internal Surveys
+          url: /docs/garagehive-scheduling-recurring-internal-surveys.html
+        - name: Reviewing Internal Surveys
+          url: /docs/reviewing-internal-surveys.html
+        - name: Importing/Exporting Internal Surveys
+          url: /docs/garagehive-importing-and-exporting-internal-surveys.html
+        - name: Setting Up an External HR Consultant Survey to Answer
+          url: /docs/setting-up-an-external-hr-consultant-survey-to-answer.html
 - name: Online Booking
   url: /docs/garagehive-onlinebooking-intro.html
   subitems:
