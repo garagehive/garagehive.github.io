@@ -96,7 +96,7 @@
     - name: Create a Jobsheet
       url: /docs/garagehive-jobsheet-create.html
     - name: Scheduling Work 
-      url: /docs/garagehive-scheduling-work.html
+      url: /docs/garagehive-understanding-the-schedule.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
     - name: Take Payment (Preview) for posted sales documents
@@ -189,7 +189,7 @@
   url: "#"
   subitems:
     - name: How to Use the Schedule 
-      url: /docs/garagehive-scheduling-work.html
+      url: /docs/garagehive-understanding-the-schedule.html
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
     - name: Managing Key Numbers in Garage Hive

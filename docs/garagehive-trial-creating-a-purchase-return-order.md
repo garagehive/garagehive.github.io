@@ -18,8 +18,11 @@ Purchase return orders are documents you use to monitor and maintain all your re
 2. Click on **+New** to create a new purchase return order. 
 3. Enter the vendor details and the items to return.
 
-![](media/garagehive-trial-creating-a-purchase-return-order1.gif)
+   ![](media/garagehive-trial-creating-a-purchase-return-order1.gif)
 
+4. When you add items to return, the **Inventory Comment** field is automatically populated with a comment about when the item was last purchased and in which invoice. You can also manually edit the **Inventory Comment** field.
+
+   ![](media/garagehive-trial-creating-a-purchase-return-order101.gif)
 
 ### Shipping the items to the supplier
 When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed:
