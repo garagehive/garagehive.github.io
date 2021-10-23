@@ -16,6 +16,7 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 7. [Adding a standard event](#adding-a-standard-event)
 8. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
 9. [Using the search function in the schedule](using-the-search-function-in-the-schedule)
+10. [Adding an allocation type](adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -154,13 +155,33 @@ When there are many bookings in the schedule, it becomes harder to find an alloc
 
 ![](media/garagehive-understanding-the-schedule-search1.gif)
 
+### Adding an allocation type
+To add an allocation type in the schedule:
+1. In the top-right corner, search for **Service Schedule New Allocation Menu** and select it from the results.
 
+   ![](media/garagehive-understanding-the-schedule11.gif)
+
+2. The list that appears contains all previously setup allocation menus. To add a new line, select **+New** from the actions bar. In the new line, select a **Work Group Code**. The work group code specifies the type of service work group that will be assigned.
+3. The next column, **Line No.**, is a number that will be applied to the allocation to determine the order in which it will appear when selecting an allocation type. The lower the number, the higher it appears in the list, and vice versa.
+
+   ![](media/garagehive-understanding-the-schedule12.gif)
+
+4. The **Type** column specifies the type of allocation; it can be **New Service Order**, **Standard Event**, or **Existing Service Order**. Select the type and enter the **Description** (the text to be displayed when you are selecting an allocation type).
+
+   ![](media/garagehive-understanding-the-schedule13.gif)
+
+5. If you did not select **Standard Event** as the **Type** of allocation, leave the **Standard Event** column blank, and fill out the **Service Type** column if you selected either of the other two types of allocation. If you chose **Standard Event** as the type of allocation, fill in the **Standard Event** column with the available options and leave the **Service Type** column blank.
+
+   ![](media/garagehive-understanding-the-schedule14.gif)
+
+6. After filling in the required columns, exit the current page, and a new allocation type will be created.
+
+<br>
 
 ### See Also
 
-[Video: Understanding the schedule](https://www.youtube.com/watch?v=JSHb-4I0PCY) <br>
-
-[Creating a booking from the schedule](/docs/garagehive-create-a-booking.html) <br>
+[Video: Understanding the schedule](https://www.youtube.com/watch?v=JSHb-4I0PCY) \
+[Creating a booking from the schedule](/docs/garagehive-create-a-booking.html)
 
 
 

@@ -3,7 +3,7 @@ layout: docs
 title: Reviewing Internal Surveys
 ---
 
-# Setting Up NPS Customer Surveys
+# Reviewing Internal Surveys
 
 To review the internal surveys after the employees have completed and submitted them:
 1. From the role centre, there are two sections of surveys tiles available: customer surveys and internal surveys, both with **To Review** and **This Week** tiles.
