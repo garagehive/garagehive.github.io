@@ -24,4 +24,5 @@ To review the internal surveys after the employees have completed and submitted 
 [Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
 [Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
 [Importing and exporting internal surveys](garagehive-importing-and-exporting-internal-surveys.html) \
-[Setting up an external HR consultant survey to answer](setting-up-an-external-hr-consultant-survey-to-answer.html)
+[Setting up an external consultant survey to answer](setting-up-an-external-consultant-survey-to-answer.html) \
+[Importing External Survey Updates](garagehive-importing-external-survey-updates.html)

@@ -196,8 +196,6 @@
       url: /docs/garagehive-managing-key-numbers-in-the-system.html
     - name: Automatically Adding Courtesy Car and Collection and Delivery Service Packages
       url: /docs/garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html
-    - name: How to Use the Timing Belt Intervals Feature
-      url: /docs/garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html
     - name: How to Export Customer and Vehicle Information
       url: /docs/garagehive-export-customer-vehicle-info.html
     - name: How to Filter Lists 
@@ -253,6 +251,8 @@
           url: /docs/reviewing-internal-surveys.html
         - name: Importing/Exporting Internal Surveys
           url: /docs/garagehive-importing-and-exporting-internal-surveys.html
+        - name: Importing External Survey Updates
+          url: /docs/garagehive-importing-external-survey-updates.html
         - name: Setting Up an External HR Consultant Survey to Answer
           url: /docs/setting-up-an-external-hr-consultant-survey-to-answer.html
 - name: Online Booking
@@ -371,7 +371,22 @@
     - name: Creating an Estimate
       url: /docs/garagehive-trial-creating-an-estimate.html
     - name: Processing a Vehicle Inspection Estimate
-      url: /docs/garagehive-trial-processing-a-vehicle-inspection-estimate.html   
+      url: /docs/garagehive-trial-processing-a-vehicle-inspection-estimate.html
+- name: Autodata Integration
+  url: "#"
+  subitems:
+    - name: Viewing Servicing Vehicle Intervals
+      url: /docs/garagehive-autodata-viewing-servicing-intervals.html
+    - name: Adding Repair Times in The Document Lines
+      url: /docs/garagehive-autodata-adding-repair-times.html
+    - name: How to Use the Timing Belt Intervals Feature
+      url: /docs/garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html
+    - name: Checking Vehicle Lubricant's Data
+      url: /docs/garagehive-checking-vehicle-lubricant-data.html
+    - name: Viewing Vehicle Engine Oil Data
+      url: /docs/garagehive-viewing-vehicle-engine-oil-data.html
+    - name: Checking Servicing Intervals and Adding Repair Times Using The Vehicle Engine Code
+      url: /docs/checking-servicing-intervals-and-adding-repair-times-using-engine-code.html
 - name: FAQS
   url: "#"
   subitems:
@@ -383,3 +398,5 @@
       url: /docs/garagehive-faqs.html
     - name: Exports from your old GMS
       url: /docs/export-data.html
+    - name: Common Keyboard Shortcuts in Garage Hive
+      url: /docs/garagehive-keyboard-shortcuts.html
