@@ -9,14 +9,15 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 ## In this article
 1. [Understanding the schedule layout](#understanding-the-schedule-layout)
 2. [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule)
-3. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
-4. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
-5. [Adding resources calender changes](#adding-resources-calender-changes)
-6. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
-7. [Adding a standard event](#adding-a-standard-event)
-8. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-9. [Using the search function in the schedule](using-the-search-function-in-the-schedule)
-10. [Adding an allocation type](adding-an-allocation-type)
+3. [Adding resources in the schedule](#adding-resources-in-the-schedule)
+4. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
+5. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
+6. [Adding resources calender changes](#adding-resources-calender-changes)
+7. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
+8. [Adding a standard event](#adding-a-standard-event)
+9. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
+10. [Using the search function in the schedule](using-the-search-function-in-the-schedule)
+11. [Adding an allocation type](adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -60,6 +61,22 @@ The schedule colours are used to help understand the different work statuses for
 ![](media/garagehive-understanding-the-schedule8.png) (**Brown**) | | **AWAITING PARTS** | | Parts have been ordered and you are waiting for them to arrive before reallocating. (You have to manually change the work status code to awaiting parts) |
 
 <br>
+
+### Adding resources in the schedule
+In Garage Hive, resources refer to all of the assets that the company has that aid and support the business in completing its work, including the technicians. Technicians are added via [User Management](/docs/garagehive-user-management.html), but their appearance in the schedule can be controlled. Here's how to add or manage resources in the schedule in general:
+1. In the top-right corner, search for **Schedule Resource Group** and select it from the results.
+2. In the list that appears, select the **Default** resource group and then click **Specifications** from the actions bar.
+
+    ![](media/garagehive-understanding-the-schedule-adding-resources1.gif)
+
+3. The **Default** resource group's resources are displayed in the list. You can add a resource to the schedule from here by selecting a cell in the **Resource No.** column and choosing from the drop-down list.
+
+    ![](media/garagehive-understanding-the-schedule-adding-resources2.gif) 
+
+4. The resource is automatically added to the schedule after it is added to the list.
+
+    ![](media/garagehive-understanding-the-schedule-adding-resources3.gif)
+
 
 ### Rearranging resources in the schedule
 Rearranging the resources, how they appear from top to bottom, helps organize which resources to be at the top and how they should follow each other. 

@@ -16,7 +16,7 @@ To enable internal surveys, you must first contact our support team to have the 
 4. The resulting window displays all previously setup surveys, both customer and internal.
 5. To create a new survey, click **+New** from the actions bar.
 
-   ![](media/garagehive-internal-surveys2.gif)
+   ![](media/garagehive-surveys-customer001.gif)
 
 6. From the window that appears, you can rename the **No.** field or press the tab button to have the survey number series automatically filled in.
 7. Fill out the **Description** field with a description of the survey.
