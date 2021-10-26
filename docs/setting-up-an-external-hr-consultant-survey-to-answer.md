@@ -23,4 +23,5 @@ At times, the external HR consultant for your company may ask you, the business 
 [Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
 [Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
 [Importing and exporting internal surveys](garagehive-importing-and-exporting-internal-surveys.html) \
-[Reviewing internal surveys](reviewing-internal-surveys.html) 
+[Reviewing internal surveys](reviewing-internal-surveys.html) \
+[Importing External Survey Updates](garagehive-importing-external-survey-updates.html)

@@ -31,4 +31,5 @@ Importing and exporting internal surveys is function available in internal surve
 [Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
 [Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
 [Reviewing internal surveys](reviewing-internal-surveys.html) \
-[Setting up an external HR consultant survey to answer](setting-up-an-external-hr-consultant-survey-to-answer.html)
+[Setting up an external HR consultant survey to answer](setting-up-an-external-hr-consultant-survey-to-answer.html) \
+[Importing External Survey Updates](garagehive-importing-external-survey-updates.html)
