@@ -56,5 +56,5 @@ To enable internal surveys, you must first contact our support team to have the 
 [Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
 [Reviewing internal surveys](reviewing-internal-surveys.html) \
 [Importing and exporting internal surveys](garagehive-importing-and-exporting-internal-surveys.html) \
-[Setting up an external HR consultant survey to answer](setting-up-an-external-hr-consultant-survey-to-answer.html) \
+[Setting up an external consultant survey to answer](setting-up-an-external-consultant-survey-to-answer.html) \
 [Importing External Survey Updates](garagehive-importing-external-survey-updates.html)

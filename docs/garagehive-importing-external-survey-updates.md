@@ -49,4 +49,4 @@ As a repeat user, you will have already activated the **Template** field, and al
 [Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
 [Importing and exporting internal surveys](garagehive-importing-and-exporting-internal-surveys.html) \
 [Reviewing internal surveys](reviewing-internal-surveys.html) \
-[Setting up an external HR consultant survey to answer](setting-up-an-external-hr-consultant-survey-to-answer.html)
+[Setting up an external consultant survey to answer](setting-up-an-external-consultant-survey-to-answer.html)
