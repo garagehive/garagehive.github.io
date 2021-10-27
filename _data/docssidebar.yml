@@ -376,17 +376,17 @@
   url: "#"
   subitems:
     - name: Viewing Servicing Vehicle Intervals
-      url: /docs/garagehive-autodata-viewing-servicing-intervals.html
+      url: /docs/garagehive-autodata-viewing-and-adding-servicing-intervals.html
     - name: Adding Repair Times in The Document Lines
       url: /docs/garagehive-autodata-adding-repair-times.html
     - name: How to Use the Timing Belt Intervals Feature
       url: /docs/garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html
     - name: Checking Vehicle Lubricant's Data
-      url: /docs/garagehive-checking-vehicle-lubricant-data.html
+      url: /docs/garagehive-autodata-checking-vehicle-lubricant-data.html
     - name: Viewing Vehicle Engine Oil Data
-      url: /docs/garagehive-viewing-vehicle-engine-oil-data.html
+      url: /docs/garagehive-autodata-viewing-vehicle-engine-oil-data.html
     - name: Checking Servicing Intervals and Adding Repair Times Using The Vehicle Engine Code
-      url: /docs/checking-servicing-intervals-and-adding-repair-times-using-engine-code.html
+      url: /docs/garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html
 - name: FAQS
   url: "#"
   subitems:
