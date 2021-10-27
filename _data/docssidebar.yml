@@ -253,8 +253,8 @@
           url: /docs/garagehive-importing-and-exporting-internal-surveys.html
         - name: Importing External Survey Updates
           url: /docs/garagehive-importing-external-survey-updates.html
-        - name: Setting Up an External HR Consultant Survey to Answer
-          url: /docs/setting-up-an-external-hr-consultant-survey-to-answer.html
+        - name: Setting Up an External Consultant Survey to Answer
+          url: /docs/setting-up-an-external-consultant-survey-to-answer.html
 - name: Online Booking
   url: /docs/garagehive-onlinebooking-intro.html
   subitems:
