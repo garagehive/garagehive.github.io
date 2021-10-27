@@ -11,7 +11,7 @@ Internal surveys can sometimes be sent as recurring surveys because the informat
 
    ![](media/garagehive-internal-surveys01.gif)
 
-3. From the **General** Fast, select the **Recurring** slider. This enables a new section in the survey setup called **Scheduling**.
+3. From the **General** FastTab, select the **Recurring** slider. This enables a new section in the survey setup called **Scheduling**.
 4. From the **Scheduling** section, select the **Frequency** of the survey.
 5. The starting date and time of sending out the survey will be automatically filled based on the frequency you select, but this is something you can customise for your survey.
 

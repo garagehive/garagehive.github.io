@@ -9,6 +9,9 @@ In this action, the autodata provides the engine oil data that is required befor
 
 Select **Lookup** and then **Oil(Autodata)** from the actions bar to access the engine oil data.
 
+![](media/garagehive-autodata-oil-data.gif)
+
+
 
 ### **See Also**
 

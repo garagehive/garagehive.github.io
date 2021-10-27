@@ -5,7 +5,7 @@ title: Importing and Exporting Internal Surveys
 
 # Importing and Exporting Internal Surveys
 
-Importing and exporting internal surveys is function available in internal surveys to help you receive or share a survey in the from of **stx** format. For example, you could import an a survey shared from an external HR consultant survey.
+Importing and exporting internal surveys is function available in internal surveys to help you receive or share a survey in the from of **stx** format. For example, you could import a survey shared from an external HR consultant.
 
 ### To import an internal survey:
 1. Search for **Surveys** at the top-right corner, and select it from the results. A list of previously created surveys is displayed.

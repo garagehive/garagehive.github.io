@@ -7,7 +7,7 @@ title: Importing External Survey Updates
 
 When you have previously imported a survey from an external source, and the external source wants to share some survey changes in the questions, schedule, or general information, the survey can be updated in the system without creating a new one, as long as the survey number remains the same. There are two ways to make use of this feature:
 
-**As a first time user:**
+**1. As a first time user:**
 When using this feature for the first time, you must add the **Template** field, which you can do by personalising:
 1. In the top-right corner, search for **Surveys** and select it from the results.
 2. Choose the survey for which you want to enable the **Template** field.
@@ -27,7 +27,7 @@ When using this feature for the first time, you must add the **Template** field,
 
 <br>
 
-**As a repeat user:**
+**2. As a repeat user:**
 As a repeat user, you will have already activated the **Template** field, and all you need to do now is use the feature:
 1. Locate and select the survey to be updated. 
 

@@ -18,11 +18,11 @@ Servicing intervals are the number of months or miles between services for the v
 
    ![](media/garagehive-autodata-service-intervals3.gif)
 
-4. In the next window, by clicking on the **Transfer Lines to Document** checkbox, you can remove some lines to add to the document (if you don't want to change everything indicated). Then, to add the lines to the document, click **Add Lines to Document**. The lines added and put in a group under the heading of the interval change.
+4. In the next window, by clicking on the **Transfer Lines to Document** checkbox, you can remove some lines to add to the document (if you don't want to change everything indicated). Then, to add the lines to the document, click **Add Lines to Document**. The lines are added and put in a group under the heading of the **Interval Change**.
 
    ![](media/garagehive-autodata-service-intervals4.gif)
 
-5. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection**. This initiates the process of confirming everything and creating a quotation for the customer.
+5. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the actions bar. This initiates the process of confirming everything and creating a quotation for the customer.
 
    ![](media/garagehive-autodata-service-intervals5.gif)
 
