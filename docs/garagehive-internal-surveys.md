@@ -12,6 +12,6 @@ Internal surveys, on the other hand, are questions sent out to employees working
 | Set up and send internal surveys | [Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) |
 | Schedule recurring internal surveys | [Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) |
 | Review internal surveys | [Reviewing internal surveys](reviewing-internal-surveys.html) |
-| Import/export internal surveys | [Importing/exporting internal surveys](garagehive-importing-and-exporting-internal-surveys.html) |
-| Set up an external HR consultant survey to answer | [Setting up an external consultant survey to answer](setting-up-an-external-consultant-survey-to-answer.html) |
-| Importing External Survey Updates | [Importing External Survey Updates](garagehive-importing-external-survey-updates.html) |
+| Export an internal survey | [Exporting an internal survey](garagehive-exporting-an-internal-survey.html) |
+| Import an internal survey | [Importing an internal survey](garagehive-importing-an-internal-survey.html) |
+| Get started with external consultant survey | [How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html) |

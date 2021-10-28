@@ -249,12 +249,12 @@
           url: /docs/garagehive-scheduling-recurring-internal-surveys.html
         - name: Reviewing Internal Surveys
           url: /docs/reviewing-internal-surveys.html
-        - name: Importing/Exporting Internal Surveys
-          url: /docs/garagehive-importing-and-exporting-internal-surveys.html
-        - name: Importing External Survey Updates
-          url: /docs/garagehive-importing-external-survey-updates.html
-        - name: Setting Up an External Consultant Survey to Answer
-          url: /docs/setting-up-an-external-consultant-survey-to-answer.html
+        - name: Exporting an Internal Survey
+          url: /docs/garagehive-exporting-an-internal-survey.html
+        - name: Importing an Internal Survey
+          url: /docs/garagehive-importing-an-internal-survey.html
+        - name: How to Get Started With External Consultant Survey
+          url: /docs/garagehive-how-to-get-started-with-external-consultant-survey.html
 - name: Online Booking
   url: /docs/garagehive-onlinebooking-intro.html
   subitems:
