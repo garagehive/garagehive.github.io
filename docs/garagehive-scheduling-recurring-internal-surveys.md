@@ -22,7 +22,7 @@ Internal surveys can sometimes be sent as recurring surveys because the informat
 ### **See Also**
 
 [Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
+[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html) \
 [Reviewing internal surveys](reviewing-internal-surveys.html) \
-[Importing and exporting internal surveys](garagehive-importing-and-exporting-internal-surveys.html) \
-[Setting up an external consultant survey to answer](setting-up-an-external-consultant-survey-to-answer.html) \
-[Importing External Survey Updates](garagehive-importing-external-survey-updates.html)
+[Exporting an internal survey](garagehive-exporting-an-internal-survey.html) \
+[Importing an internal survey](garagehive-importing-an-internal-survey.html)
