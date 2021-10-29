@@ -22,7 +22,8 @@ If you have external consultants who advise you on specific activities such as h
    ![](media/garagehive-internal-surveys-external-consultant3.gif)
 
 7. The survey should be a recurring survey. So the recurring feature at the **General** FastTab should be enabled, which activates a new section named **Recurrence Settings**. 
-8. From the **Recurrence Settings** select the frequency with which you receive the survey from the external consultant and enter a start date and time when you begin answering the survey.
+8. From the **Recurrence Settings** select the frequency with which you respond to the survey from the external consultant and enter a start date and time when you begin answering the survey.
+9. Choose **Enable** action, to enable the survey.
 
    ![](media/garagehive-internal-surveys-external-consultant4.gif)
 
