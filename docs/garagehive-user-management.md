@@ -4,7 +4,7 @@ title: User Management
 ---
 
 #   How to Manage System Users Within Garage Hive 
-In Garage Hive system, you can add and remove users in the system. The **GHADMIN** user is the **ONLY** user who can manage the users.
+In Garage Hive system, you can add and remove users in the system. The user with admin rights is the **ONLY** user who can manage the users.
 
 ## In this article
 1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
