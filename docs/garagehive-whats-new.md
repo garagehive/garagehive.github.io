@@ -5,6 +5,20 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 27th October 2021
+
+* [Internal Surveys](garagehive-internal-surveys.html): Similar to NPS surveys, but now for employees, you as a business owner when providing feedback to external consultants, and so on.
+* Added case sensitive search for online booking.
+* Added the ability to create service packages from Jobsheets, Vehicle Inspection Estimates and Estimates.
+* Added the [comment (extended)](garagehive-comments-extended.html) column to the comment setup to allow for the addition of standard comments that can be used multiple times.
+* Added an action to duplicate a group and its lines, after which you can change the prices.
+* Added the ability to select multiple groups and merge them.
+* Added the ability to use document mileage field tag for use in header text.
+* Created customer address field tags for use in online job authorisation header.
+* Added primary make to V16 pricing.
+* Added the ability to take only VIE linked jobsheet groups to online job authorisation.
+
+
 ### 17th October 2021
 
 * Added the ability to ask if the resources should be added automatically when posting a jobsheet.

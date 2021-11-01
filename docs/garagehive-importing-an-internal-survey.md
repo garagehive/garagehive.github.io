@@ -20,7 +20,7 @@ Importing an internal survey is a feature available in the surveys to help you r
 
 5. The system will automatically import the survey number, description, questions, external consultant email address, and **Recurrence Settings** fields.
 
-### As a repeat use:
+### Repeat use:
 When receiving a survey from an external source for a repeat time, the existing survey will be automatically updated when imported.
 
   ![](media/garagehive-internal-surveys204.gif)
