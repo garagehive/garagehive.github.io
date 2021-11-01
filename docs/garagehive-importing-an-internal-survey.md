@@ -5,22 +5,25 @@ title: Importing an Internal Survey
 
 # Importing an Internal Survey
 
-Importing an internal survey is function available in the surveys to help you receive a survey file with the extension **stx**. For example, you could import a survey shared from an external HR consultant.
+Importing an internal survey is a feature available in the surveys to help you receive a survey file with the extension **stx**. For example, you could import a survey shared from an external consultant.
 
 ### To import an internal survey:
-1. Search for **Surveys** at the top-right corner, and select it from the results. A list of previously created surveys is displayed.
+1. In the top-right corner, choose the search icon, enter **Surveys**, and choose the related link.
 2. From the actions bar, click on **Actions** and select **Import**.
 
    ![](media/garagehive-internal-surveys0001.gif)
 
-3. The import action allows you to select the file with the **stx** extension that you want to import, then click **OK**.
-4. The survey is imported and added to the list in the order of the survey numbering. The system will automatically import the survey number, description, questions, external consultant email address, and **Recurrence Settings** fields.
+3. The import action can also be applied from an open survey. Open the survey and select **Actions**, then **Import**.
+4. The import action allows you to select the file with the **stx** extension that you want to import, then click **Open**.
 
-   ![](media/garagehive-internal-surveys0002.gif)   
+   ![](media/garagehive-internal-surveys0002.gif)
 
-5. If you previously exported the survey with the same survey number and are now importing it, the **Template** field should be selected so that the survey can be updated rather than creating a new one.
+5. The system will automatically import the survey number, description, questions, external consultant email address, and **Recurrence Settings** fields.
 
-   (gif)
+### As a repeat use:
+When receiving a survey from an external source for a repeat time, the existing survey will be automatically updated when imported.
+
+  ![](media/garagehive-internal-surveys204.gif)
 
 
 > **Note:**
