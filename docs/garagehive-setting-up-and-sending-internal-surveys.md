@@ -35,7 +35,7 @@ To Create a new internal survey:
 
    ![](media/garagehive-internal-surveys5.png)
 
-7. In the **Participants Settings** FastTab, choose the whether the **Owner User** should receive the survey responses by selecting the **Email Owner Results** slider.
+7. In the **Participants Settings** FastTab, choose whether the **Owner User** should receive the survey responses by selecting the **Email Owner Results** slider.
 8. Select the **Participant User Count** number to choose which users will receive the survey, and specify the **Internal Notification Method** as SMS, email or both.
 
    > **Tip:**
@@ -47,12 +47,12 @@ To Create a new internal survey:
 9. Select the **Preview** action to preview the survey and the **Enable** action to enable the survey.
 10. If you are completely satisfied with the survey, select the **Send Now** action to send it to the participants.
 
-   ![](media/garagehive-internal-surveys7.gif)
+    ![](media/garagehive-internal-surveys7.gif)
 
 11. You can see previous surveys and their statuses by selecting **Related** and then **Entries** from the actions bar.
 12. The survey statistics are provided in the FactBox on the right side. By selecting the icon in the upper-right corner, you can expand or collapse the Factbox pane.
 
-   ![](media/garagehive-internal-surveys8.gif)
+    ![](media/garagehive-internal-surveys8.gif)
 
 <br>
 
