@@ -4,12 +4,18 @@ title: User Management
 ---
 
 #   How to Manage System Users Within Garage Hive 
-Within Garage Hive, you can add and remove users in the system. The **GHADMIN** user is the **ONLY** user who can manage the users.
+In Garage Hive system, you can add and remove users in the system. The **GHADMIN** user is the **ONLY** user who can manage the users.
 
 ## In this article
-1. [Creating a Service Advisor user](#creating-a-service-advisor-user)
-2. [Creating a Technician user](#creating-a-technician-user)
-3. [Enabling and disabling a user](#enabling-and-disabling-the-user)
+1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
+2. [Creating a Service Advisor user](#creating-a-service-advisor-user)
+3. [Creating a Technician user](#creating-a-technician-user)
+4. [Enabling and disabling a user](#enabling-and-disabling-the-user)
+
+### Adding and removing a user licence
+To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled on the development side. So, to initiate the process of adding or removing licence:
+1. Use [this link](https://www.garagehive.co.uk/subs) to raise a ticket. It will be taken up by a member of the support team.
+2. The user licence will be added or removed, and you will now be able to manage the users in your system, as indicated in the sub-headings below.
 
 ### Creating a Service Advisor user
 1. Search for **User Management** in the search icon at the top-right corner. 
