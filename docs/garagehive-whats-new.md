@@ -5,6 +5,18 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 1st November 2021
+
+* Added customisation for vehicle dates reminders.
+* Added a checklist template code to service package so that the service packages can add checklists to jobs.
+* Added the ability to fill in the Service Advisor code in the VI estimate from user setup, when creating a VI estimate by confirming a VI.
+* Added vehicle reminder dates in estimates and VI estimates same place as jobsheets.
+* Added the ability to authorise and deauthorise a group by authorising or deauthorising a line within the group.
+* Added **Repair Times** and **Service Interval Matrix** functions to group items sub-page actions, similar to service packages.
+* Added a service package number field to the checklist text template, to make it possible to automatically add a service package to a jobsheet when a text template is selected in the checklist.
+* Added the ability to group lines from the Autodata Service Interval Matrix and Repair Times.
+* Grouped actions in the **Group Items** sub-page.
+
 ### 27th October 2021
 
 * [Internal Surveys](garagehive-internal-surveys.html): Similar to NPS surveys, but now for employees, you as a business owner when providing feedback to external consultants, and so on.
