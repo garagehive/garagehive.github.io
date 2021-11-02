@@ -9,7 +9,7 @@ Below is a brief list of Garage Hive developments
 
 * Added customisation for vehicle dates reminders.
 * Added a checklist template code to service package so that the service packages can add checklists to jobs.
-* Added the ability to fill in the Service Advisor code in the VI estimate from user setup, when creating a VI estimate by confirming a VI.
+* Added the ability to fill in the Service Advisor code in the VI Estimate from user setup, when creating a VI Estimate by confirming a Vehicle Inspection (VI).
 * Added vehicle reminder dates in estimates and VI estimates same place as jobsheets.
 * Added the ability to authorise and deauthorise a group by authorising or deauthorising a line within the group.
 * Added **Repair Times** and **Service Interval Matrix** functions to group items sub-page actions, similar to service packages.
@@ -19,7 +19,7 @@ Below is a brief list of Garage Hive developments
 
 ### 27th October 2021
 
-* [Internal Surveys](garagehive-internal-surveys.html): Similar to NPS surveys, but now for employees, you as a business owner when providing feedback to external consultants, and so on.
+* [Internal Surveys](garagehive-internal-surveys.html): Similar to NPS surveys, but now for employees, for you as a business owner when providing feedback to external consultants, and so on.
 * Added case sensitive search for online booking.
 * Added the ability to create service packages from Jobsheets, Vehicle Inspection Estimates and Estimates.
 * Added the [comment (extended)](garagehive-comments-extended.html) column to the comment setup to allow for the addition of standard comments that can be used multiple times.
