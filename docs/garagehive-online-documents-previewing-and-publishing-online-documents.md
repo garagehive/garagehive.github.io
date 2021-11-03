@@ -58,6 +58,7 @@ After you have finished preparing the document and are ready to send it to the c
 
 [Introduction to Online Documents](garagehive-online-documents-introduction.html) \
 [Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
+[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html) \
 [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
 [Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
 [Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
