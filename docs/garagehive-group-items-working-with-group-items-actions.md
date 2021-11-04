@@ -23,17 +23,26 @@ These actions are available in jobsheets, estimates, and vehicle inspection esti
 
 
 ### Adding service packages, repair times and service interval matrix actions
-These actions are available in jobsheets, estimates, and vehicle inspection estimates and help in adding a service package, repair times, or service interval matrix as a group. When a group line is selected, and the action is used, the group heading is replaced with the service package heading, and the lines in the group are added to the service package group.
+These actions are available in jobsheets, estimates, and vehicle inspection estimates. In contrast to the same actions in the document's header, these actions only update existing group items. If you want to add a group in a new line, you must use the actions available in the document's header.
 1. Choose **Lookup** and then **Service Package**, **Repair Times** or **Service Interval Matrix** from the group items sub-page actions bar.
 
    ![](media/garagehive-group-actions2.gif)
 
 
 ### Duplicate and merge groups actions
-These actions are available in jobsheets, estimates, and vehicle inspection estimates and assist in duplicating or merging the selected groups. When the groups are merged, the document lines in the groups are placed in the newly formed group.
-1. From the groups items sub-page actions bar, select **Functions** and then **Duplicate Group** or **Merge Groups**.
-   
+These actions are available in jobsheets, estimates, and vehicle inspection estimates and assist in duplicating or merging the selected groups.
+**Duplicating:**
+1. From the groups items sub-page actions bar, select **Functions** and then **Duplicate Group**.
+
    ![](media/garagehive-group-actions3.gif)
+
+**Merging:**
+The merging action can be used to merge two or more groups. The document lines from the merged groups are added to the newly formed group when the groups are merged.
+1. Select one group to merge, then click on the vertically arranged dots after the first column and select **Select More** or press the **Ctrl** key and select the groups to merge with the mouse cursor.
+2. Select **Functions** and then **Merge Groups** from the group items sub-page actions bar.
+
+   ![](media/garagehive-group-actions3-1.gif)
+
 
 ### Creating service package version action
 This action is available in jobsheets, estimates, and vehicle inspection estimates and allows you to create a service package version from the selected group, making it easier to reuse the group as a service package.
@@ -46,6 +55,7 @@ This action is available in jobsheets, estimates, and vehicle inspection estimat
 If you change a group description or price after it has been published and the customer approves it, it is not automatically marked as authorised on the document. It generates an attention comment, which you can manually link to the current group in the document using this action. This action is available in jobsheets, estimates, and vehicle inspection estimates.
 1. From the group items sub-page actions bar, select **Functions**, followed by **Match Approved Line Groups**.
 
+   ![](media/garagehive-group-actions5.png)
 
 ### Adding checklist attention lines
 This action is available in vehicle inspection estimates and allows you to add vehicle inspection checklist lines as groups in the group items subpage.
