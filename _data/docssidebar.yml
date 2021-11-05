@@ -103,8 +103,6 @@
       url: /docs/take-payment.html
     - name: Taking a deposit against a customer account
       url: /docs/take-payment-deposit.html            
-    - name: How to Group Item Lines on a Jobsheet and Invoice
-      url: /docs/garagehive-grouping.html
     - name: Correcting an Incorrect Payment
       url: /docs/garagehive-jobsheet-incorrectpayment.html
     - name: Create a Return Jobsheet
@@ -169,7 +167,9 @@
     - name: Internal Jobsheets
       url: /docs/garagehive-internal-jobsheet.html
     - name: Vehicle Card Contents
-      url: /docs/garagehive-vehicle-card.html      
+      url: /docs/garagehive-vehicle-card.html
+    - name: Customising vehicle reminder dates
+      url: /docs/garagehive-customising-vehicle-reminder-dates.html      
 - name: Technicians Operations
   url: "#"
   subitems:

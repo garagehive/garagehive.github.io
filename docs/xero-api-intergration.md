@@ -40,7 +40,7 @@ You can also dictate the state of the document when it is exported to Xero. The 
 
 To set up the integration, you will need to set up an "app" within Xero. 
 
-Go to [this link](https://developer.xero.com/myapps/){target="_blank"} and sign in using your Xero credentials.
+Go to [this link](https://developer.xero.com/myapps/{target="_blank"}) and sign in using your Xero credentials.
 Now select New App in the middle or top right of the screen.
 
 Name the App; It needs to be unique, so we recommend that you use your garage name -GH, but it can be anything. Fill out the following fields as described below and create the App.
