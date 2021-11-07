@@ -23,7 +23,7 @@ To create or edit a service package:
 
    > **Note:**
    >
-   > The **General** FastTab's *Extended Description** field is used to elaborate or add more detailed information to the job. It appears on printouts if the **Main Description** is set to "package header," otherwise, extended descriptions are available for each version line. 
+   > The **General** FastTab's **Extended Description** field is used to elaborate or add more detailed information to the job. It appears on printouts if the **Main Description** is set to **Package Header**, otherwise, extended descriptions are available for each version line. 
 
 6. Under the **Versions** sub-page, you can now create any version of this package that you want. Add a description and select **Manage** then **Version Lines** to add item and labour lines to this version.
 
@@ -35,7 +35,7 @@ To create or edit a service package:
 
    ![](media/garagehive-create-service-package5.gif)
 
-7. There is a **Fixed Price and Discounts** slider at the bottom of the **Service Package Card** under the **Invoicing** FastTab; if enabled, you will be able to change the prices and discounts within the versions. When versions are added to documents, prices or discounts in the versions are added to the document rather than being pulled from the related labour or item card or any pricing matrix that has been configured. If you try to change the price on the document, you will be warned that it is part of a fixed price package and asked whether you want to break that special pricing.
+7. There is a **Fixed Price and Discounts** slider at the bottom of the **Service Package Card** under the **Invoicing** FastTab; if enabled, you will be able to change the prices and discounts within the versions. When versions are added to documents, prices or discounts in the versions are added to the document rather than being pulled from the related labour or item card or any pricing matrix that has been setup. If you try to change the price on the document, you will be warned that it is part of a fixed price package and asked whether you want to break that special pricing.
 
    ![](media/garagehive-create-service-package6.gif)
 
@@ -43,17 +43,17 @@ To create or edit a service package:
 
    ![](media/garagehive-create-service-package7.gif)
 
-9. When you begin creating new versions, you may find the need to copy versions if they are very similar. To do this, select **Manage** and from the submenus, you will see two options; **Copy** copies the selected version to the line beneath, and **Copy From** allows you to select versions from other packages to copy into this one.
+9. When you begin creating new versions, you may find the need to copy versions if they are very similar. To do this, select **Manage** and from the submenus, you will see two options; **Copy**, which copies the selected version to the line beneath, and **Copy From**, which allows you to select versions from other packages to copy into this one.
 
    ![](media/garagehive-create-service-package8.gif)
 
 10. We've also added the ability to add **Checklist Template Code** to a **Service Package Card** so that service packages can automatically add checklists to jobs when they're added to a jobsheet. To add a **Checklist Template Code**, select it from the **General** FastTab field named **Checklist Template Code**.
 
-   ![](media/garagehive-create-service-package9.gif)
+    ![](media/garagehive-create-service-package9.gif)
 
 11. As a result, when you create a new jobsheet and select the **Service Type** as one of the available **Service Packages** with a **Checklist Template Code**, the checklist is automatically added to the jobsheet.
 
-   ![](media/garagehive-create-service-package10.gif)
+    ![](media/garagehive-create-service-package10.gif)
 
 
 <br>
