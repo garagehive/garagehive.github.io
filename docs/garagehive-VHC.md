@@ -30,7 +30,11 @@ To verify a checklist that has been completed by a technician:
 1. On the checklist page, click **Process** and then **Confirm** from the actions bar.
 2. To create a VIE, answer **Yes** to the prompt question that appears.
 
-![](media/garagehive-vehicle-inspection-estimate2.gif)
+   ![](media/garagehive-vehicle-inspection-estimate2.gif)
+
+3. To auto-fill the **Service Advisor Code** when it is blank, search for **Service Mgt. Setup GH** in the top-right corner search icon and select **Yes** for **Auto-fill Service Advisor in VI Estimates** field in **General** FastTab, which now ensures that the **Service Advisor Code** is filled in after the vehicle inspection is confirmed.
+
+   ![](media/garagehive-vehicle-inspection-estimate2.1.gif)
 
 > **Note:**
 >
