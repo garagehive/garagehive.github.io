@@ -19,8 +19,7 @@ Basic information relating to the vehicle. This is produced by using the VRM loo
 
 ### Planning & Reminders 
 
-MOT due date updated via VRM lookup. <br>
-Service due date entered manually after the vehicle has been in for a service. 
+The vehicle planning and reminder dates can be manually updated, or a default period can be set to consistently update them. Learn more about customising vehicle planning and reminders dates [here](/docs/garagehive-customising-vehicle-reminder-dates.html "Customising Vehicle Reminder Dates").
 
 ![](media/garagehive-vehicle-card2.png)
 

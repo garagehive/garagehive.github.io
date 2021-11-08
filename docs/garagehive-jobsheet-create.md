@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Creating a new Jobsheet
+title: Creating a New Jobsheet
 ---
 
-# Creating a new Jobsheet
+# Creating a New Jobsheet
 
 {% include youtube.html id="4bic2AH6Lrw" %}
 
