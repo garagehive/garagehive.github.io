@@ -12,7 +12,7 @@ Vehicle reminder dates can be customised in the Jobsheet and Vehicle Card. Here 
 
    ![](media/garagehive-vehicle-reminder-customisation1.gif)
 
-3. In the **Service Labour** card, a field called **Default Period Date Formula** is under the **General** FastTab. Enter the number of days (D), months (M), or years (Y) after which the vehicle should have the **Service Labour** done. If your formula is a combination of days, months, or years, use a **+** in between, for example, **1Y+6M**. When this field is left blank, the default period is **1 Year**. Exit the **Service Labour** card by pressing the **Esc** key.
+3. In the **Service Labour** card, a field called **Default Period Date Formula** is under the **General** FastTab. Enter the number of days (D), months (M), or years (Y) after which the vehicle should have the **Service Labour** done. If your formula is a combination of days, months, or years, use a **+ (Plus sign)s** in between, for example, **1Y+6M**. When this field is left blank, the default period is **1 Year**. Exit the **Service Labour** card by pressing the **Esc** key.
 
    ![](media/garagehive-vehicle-reminder-customisation2.gif)
 
@@ -24,4 +24,7 @@ Vehicle reminder dates can be customised in the Jobsheet and Vehicle Card. Here 
 
    ![](media/garagehive-vehicle-reminder-customisation4.gif)
 
+If you start to post the jobsheet without updating the **Service Due Date**, you will be prompted to do so before proceeding.
 
+   ![](media/garagehive-vehicle-reminder-customisation5.gif)
+   

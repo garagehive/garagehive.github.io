@@ -53,7 +53,7 @@ The second method to add items and labour lines to a jobsheet is through service
 
 ### **See Also**
 
-[Video: How to add items and labour to a jobsheet](https://www.youtube.com/watch?v=ABnKqYB4f3A&:target="_blank") \
+[Video: How to add items and labour to a jobsheet](https://www.youtube.com/watch?v=ABnKqYB4f3A){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
