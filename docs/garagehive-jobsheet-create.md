@@ -12,8 +12,6 @@ A Jobsheet can be created from multiple places:
 3. From the schedule
 4. Online booking
 
-<br>
-
 Let's look at how to make a jobsheet from the places listed above:
 
 
