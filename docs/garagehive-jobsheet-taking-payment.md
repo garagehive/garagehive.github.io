@@ -4,10 +4,10 @@ title: Taking a Payment and Posting a Jobsheet
 ---
 
 ## In this article
-1. Taking a payment in a Jobsheet
-2. Adding resources to labour lines in a Jobsheet
-3. Updating the items numbers and quantities
-4. Posting the jobsheet
+1. [Taking a payment in a Jobsheet](#taking-a-payment-in-a-jobsheet)
+2. [Adding resources to labour lines in a Jobsheet](#adding-resources-to-labour-lines-in-a-jobsheet)
+3. [Updating the items numbers and quantities](#updating-the-items-numbers-and-quantities)
+4. [Posting the jobsheet](#posting-the-jobsheet)
 
 ### Taking a payment in a Jobsheet 
 When the job is complete and the financial information is correct. You now need to collect the payment from the customer and post the jobsheet.
@@ -48,14 +48,14 @@ Before posting the jobsheet, all labour lines must-have resource information add
 
 
 ### Posting the jobsheet
-Now, you have the option of:
-    
-    * To **Post** - Post/invoice this jobsheet without the option of printing or emailing it.
-    * To **Post and Print** - Post/invoice this jobsheet and print a copy of the invoice.
-    * To **Post and Email** - Post/invoice this jobsheet and email a copy of the invoice to the **Bill-To Customer**.
+Now, you have the option of:  
+* To **Post** - Post/invoice this jobsheet without the option of printing or emailing it.
+* To **Post and Print** - Post/invoice this jobsheet and print a copy of the invoice.
+* To **Post and Email** - Post/invoice this jobsheet and email a copy of the invoice to the **Bill-To Customer**.
 
-    ![](media/garagehive-jobsheet-posting.png)
+    ![](media/garagehive-jobsheet-posting1.gif)
 
+<br>
 
 > **Note:**
 >
