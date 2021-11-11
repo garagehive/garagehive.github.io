@@ -24,11 +24,19 @@ If your system already has the service activated, the following steps will help 
 
    ![](media/garagehive-online-documents-setup2.gif)
 
-4. Add an introduction text in the field **Job Auth Intro Text** from the section titled **Default Texts**. This is the text that appears at the top of the online document that has been previewed or published. You can use the **Field Tags** to automatically insert a particular field in the text.
+5. To avoid having a VI **Download PDF** option when publishing the Vehicle Inspection Estimate, as shown below...
+
+   ![](media/garagehive-online-documents-setup2.1.gif)
+
+   Enable the **Skip VIE Related VI Publish** slider.
+
+   ![](media/garagehive-online-documents-setup2.2.gif)
+
+6. Add an introduction text in the field **Job Auth Intro Text** from the FastTab titled **Default Texts**. This is the text that appears at the top of the online document that has been previewed or published. You can use the **Field Tags** to automatically insert a particular field in the text.
 
    ![](media/garagehive-online-documents-setup3.gif)
 
-5. Add the footer text in the next field, **Job Auth Footer Text**. This is the text that appears after the report in the online document.
+7. Add the footer text in the next field, **Job Auth Footer Text**. This is the text that appears after the report in the online document.
 
    ![](media/garagehive-online-documents-setup4.gif)
 

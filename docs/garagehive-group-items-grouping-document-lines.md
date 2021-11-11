@@ -15,26 +15,26 @@ Grouping document lines is a feature available in the estimates, vehicle inspect
 
 
 ### Grouping document lines by creating a group and then adding the lines
-The grouping feature is located above the **Lines** section in a document and is referred to as **Group Items**. To form a group, do the following:
+The grouping feature is located above the **Lines** sub-page in a document and is referred to as **Group Items**. To form a group, do the following:
 1. In the **Description** column, enter the name of the group.
-2. Click on the cell under **Line Count** along the line where have created a group.
+2. Click on the cell under **Line Count** along the line where you have created a group.
 
     ![](media/garagehive-group-items1.gif)
 
-3. From the window that appears, select the lines to add to the group (the group name is at the end of the table with check boxes) and close the window.
+3. From the **Line Group Update** page, select the lines to add to the group (the group name column is at the end of the table with check boxes) and close the window.
 4. Click on the cell under the **Line Count** column and select the lines to add to the selected group. The number of lines added to the group is displayed in the line count column.
 
     ![](media/garagehive-group-items2.gif)
 
 The **Lines** section can also be used to add the document lines in a group:
-1. Select the line cell in the **Group Description** column.
+1. Select the cell in the **Group Description** column.
 2. Choose the group to which you want to add the lines.
 
     ![](media/garagehive-group-items3.gif)
 
 ### Grouping document lines by selecting the lines and then creating a group
-1. In the **Lines** section, select the lines you want to group.
-2. Select **Functions** from the actions bar in the lines section.
+1. In the **Lines** sub-page, select the lines you want to group.
+2. Select **Functions** from the actions bar in the **Lines** sub-page.
 3. Click **Create Group Items**. All of the selected lines are grouped together, with the group name being the description of the top selected line.
 
    ![](media/garagehive-group-items4.gif)
@@ -48,15 +48,15 @@ While working from a vehicle inspection estimate, there are issues identified in
 
 > **Example**
 >
-> Suppose you have identified that the vehicle requires service based on the mileage since the vehicle was last serviced. In that case, you can create a group under this heading (or rename the group to 'Full Servicing') and add servicing items and labour.
+> Suppose you have identified that the vehicle requires service, based on the mileage since the vehicle was last serviced. In that case, you can create a group under this heading (or rename the group to 'Full Servicing') and add servicing items and labour.
 
 
-To create a group from the checklist attention items, first work on the checklist lines and identify the 'requires attention' lines. 
+To create a group from the checklist attention items, first work on the checklist lines and identify the 'requires attention' lines. **Confirm** and **Create a VIE**. 
 
 ![](media/garagehive-group-items6.gif)
 
-Then carry out the following steps:
-1. Select **Manage** from the **Group Items** section actions bar.
+Then carry out the following steps from VIE:
+1. Select **Functions** from the **Group Items** sub-page actions bar.
 2. Select **Add Checklist Attention Lines** to take the lines marked "requires attention" and create groups with the checklist line description.
 
     ![](media/garagehive-group-items7.gif)
@@ -74,7 +74,7 @@ To create a group from a service package:
 
 ### Print or preview the document
 To preview or print the document with the group names being the headers:
-1. Ensure that the you select **Custom Heading** from the **Invoice Print Options** section.
+1. Ensure that the you select **Custom Heading** from the **Invoice Print Options** FastTab.
 2. Select **Print/Send** from the actions bar, then **Print Invoice**.
 
     ![](media/garagehive-group-items9.gif)
