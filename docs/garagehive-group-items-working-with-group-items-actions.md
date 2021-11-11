@@ -30,10 +30,7 @@ These actions are available in jobsheets, estimates, and vehicle inspection esti
 
 
 ### Duplicate and merge groups actions
-These actions are available in jobsheets, estimates, and vehicle inspection estimates and assist in duplicating or merging the selected groups.
-
-<br>
-
+These actions are available in jobsheets, estimates, and vehicle inspection estimates and assist in duplicating or merging the selected groups. <br>
 **Duplicating:**
 1. From the groups items sub-page actions bar, select **Functions** and then **Duplicate Group**.
 

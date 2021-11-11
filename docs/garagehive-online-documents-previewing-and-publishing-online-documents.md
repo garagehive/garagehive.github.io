@@ -14,10 +14,14 @@ Previewing an online document is done when the document to be previewed has been
 
 ### How to preview an online document
 To preview an online document from a jobsheet:
-1. Scroll down to the **Group Items** section (where you have already created the groups).
-2. Add **Action Category** to each group, depending on the level of urgency for the job.
+1. Scroll down to the **Group Items** section (where you have already created the groups, read [Grouping document lines](garagehive-group-items-grouping-document-lines.html)).
+2. Depending on the level of urgency and the nature of the job, add a **Action Category** to each group. You have the option of customising the action categories or using the pre-defined action categories.
 
    ![](media/garagehive-online-documents-previewing-and-publishing1.gif)
+
+   > **Note:**
+   >
+   > All action categories must have an action category type to ensure that they are placed in a group online.
 
 3. Select **Print/Send** from the document actions bar, then **Preview Online Document**.
 
