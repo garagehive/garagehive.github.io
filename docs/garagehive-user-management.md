@@ -4,13 +4,14 @@ title: User Management
 ---
 
 #   How to Manage System Users Within Garage Hive 
-In Garage Hive system, you can add and remove users in the system. The user with admin rights is the **ONLY** user who can manage the users.
+In Garage Hive system, you can add and remove users in the system. The user marked as system admin is the **ONLY** user who can manage the users.
 
 ## In this article
 1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
 2. [Creating a Service Advisor user](#creating-a-service-advisor-user)
 3. [Creating a Technician user](#creating-a-technician-user)
 4. [Enabling and disabling a user](#enabling-and-disabling-the-user)
+5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
 
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled on the development side. So, to initiate the process of adding or removing licence:
@@ -66,6 +67,22 @@ To enable or disable the user:
 
 ![](media/garagehive-user-management10.gif)
 
+### Password reset for garage hive user
+To reset a garage hive user's password:
+1. In the top-right corner, choose the search icon, enter **User Management**, and choose the related link.
+2. Click on the name of the user you want to reset the password.
+
+   ![](media/garagehive-user-management11.gif)
+
+3. Click on **Reset Password** action, and then **OK**.
+
+   ![](media/garagehive-user-management12.gif)
+
+4. The user will receive an email with the new password and a link to login. When the user logs in, they will be prompted to change the password to a new password. The **Old Password** should be the password received via email, and the **New Password** should be the user coming up with it, and **Confirm Password**.
+
+   ![](media/garagehive-user-management13.png)
+
+**The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.**
 
 > **Note:**
 >
