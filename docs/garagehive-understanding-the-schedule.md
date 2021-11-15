@@ -158,12 +158,16 @@ The emojis are used in the allocations to visually help the service advisor and 
 
 * 📫 This indicates a posted jobsheet. <br>
 * ❌This indicates that the vehicle is not marked on site from the jobsheet. <br>
-* ✅ This indicates that the vehicle has been marked as on site from the jobsheet. <br>
-* 🔑 This indicates that the vehicle key has been assigned a key tag <br>
+* ✅ or ✔ This indicates that the vehicle has been marked as on site from the jobsheet. <br>
+* 🔑 This indicates that the vehicle key has been assigned a key tag. <br>
 * 🆑 This indicates that the vehicle has been marked as requiring collection and delivery. <br>
 * 🚗 This indicates that the customer requires a courtesy car, and it's marked in the jobsheet. <br>
 * 🌛 This indicates that the vehicle has been marked as staying overnight. <br>
 * ⏰ This indicates that the customer has specified a time to collect the vehicle. <br>
+* £ This indicates the amount including VAT. <br>
+* ⚓ This indicates that the vehicle has been assigned a parking location code. <br>
+* 🤷 or 🙋‍♀️ This indicates that the customer is waiting.
+
 
 ### Using the search function in the schedule
 When there are many bookings in the schedule, it becomes harder to find an allocation that you are looking for easily. The search function helps you overcome this challenge by enabling you to search for an allocation using the customer name, vehicle registration No., vehicle make or model, or the jobsheet No.:
