@@ -4,7 +4,7 @@ title: Items to Return Report
 ---
 
 # Items to Return Report 
-The Items to Return Report helps you monitor what parts you have in stock based on the following criteria:
+The Items to Return Report allows you to keep track of which parts are in stock and need to be returned based on the criteria listed below:
 - The item is not in a jobsheet
 - The item is not on a Purchase Return Order
 - The item doesn’t have any reorder policy
@@ -24,12 +24,12 @@ This report regularly ensures that parts are returned and not lost or thrown awa
 
     ![](media/garagehive-items-to-return2.gif)
 
-4. Or, you can click on **Fill Qty. For Return** from the actions bar to add all items in the report in the column **Qty. For Return**. 
-5. Add the vendor details in the **Vendor No.** or **Vendor Name** column.
+4. Or, you can click on **Fill Qty. to Return** from the actions bar to add all items in the report in the column **Qty. For Return**. 
+5. If not already added automatically from the item card, enter the vendor details in the **Vendor No.** or **Vendor Name** column.
 
     ![](media/garagehive-items-to-return3.gif)
 
-6. After selecting the items to return, click on **Create Return Orders** from the actions bar to create purchase return orders for the respective vendors. 
+6. After you've added the items you want to return, go to the actions bar and select **Process Return Orders**. You can **Create New Return Order** from the **Items to Return Vendor Actions** page, or you can add to Existing Return Order by clicking on the **Alternative Action** **Add to Existing Return Order**. Click **OK** to create the Purchase Return Order(s).
 
     ![](media/garagehive-items-to-return4.gif)
 
