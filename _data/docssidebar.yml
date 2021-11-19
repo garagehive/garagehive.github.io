@@ -87,7 +87,9 @@
     - name: My Notifications
       url: /docs/my-notifications.html
     - name: Creating Pool jobs
-      url: /docs/garagehive-creating-pool-jobs.html          
+      url: /docs/garagehive-creating-pool-jobs.html
+    - name: Extending Price, Markups and Discount Calculations
+      url: /docs/garagehive-extending-price-markup-and-discount-calculations.html         
 - name: Sales
   url: "#"
   subitems:
