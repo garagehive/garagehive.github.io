@@ -19,7 +19,7 @@ The **Map Text to Account** action allows you to create mappings between text on
 
    ![](media/garagehive-payment-reconciliation-map-text2.gif)
 
-8.	Repeat steps 3 through 7 for all text on payments that you want to map to accounts for direct posting without application.
+9.	Repeat steps 3 through 8 for all text on payments that you want to map to accounts for direct posting without application.
 
 <br>
 
