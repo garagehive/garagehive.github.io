@@ -5,6 +5,16 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 22nd November 2021
+
+* Speed improvement for clocking terminal v18.
+* Vehicle sales additions such as creating an order at the point of the deal, recording deposits, adding part exchange details, etc.
+* Added the option of adding items to return in an existing Purchase Return Order (PRO) [Read More](garagehive-items-to-return.html).
+* Added the ability to lookup service interval matrix by Make, Model, and Engine Code.
+* Optimized the Garage Hive media upload to handle larger images of up to 20MB JPEG.
+* Added key tag number to printed job card.
+* Added the possibility to select weekdays when to send out the internal surveys.
+
 ### 1st November 2021
 
 * Added customisation for vehicle dates reminders.
