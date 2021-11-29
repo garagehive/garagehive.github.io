@@ -339,6 +339,8 @@
       url: /docs/garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html
     - name: How to Use Service Recharge for Internal Charging
       url: /docs/garagehive-service-recharge.html
+    - name: Working With Payment Reconciliation Journals
+      url: /docs/garagehive-payment-reconciliation-journals.html
     - name: How to reconcile customer payments manually
       url: /docs/garagehive-finance-reconcile-customer-payments-manually.html
     - name: Use Automatic Application to Reconcile Payments
