@@ -9,10 +9,10 @@ You can also reconcile bank accounts without simultaneously applying payments on
 The following is a list of tasks involved in working with payment reconciliation journals, alongside links to topics that describe them:
 <br>
 
-1. Reconcile payments using the automatic application - [Link](garagehive-reconcile-payments-using-automatic-application.html){:target="_blank"}.
-2. Review or apply payments after automatic application - [Link](garagehive-review-or-apply-payments-after-automatic-application.html){:target="_blank"}.
-3. Reconcile payments that cannot be applied automatically - [Link](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html){:target="_blank"}.
-4. Map text on recurring payments to accounts for automatic reconciliation - [Link](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html){:target="_blank"}.
+1. [Reconcile payments using the automatic application](garagehive-reconcile-payments-using-automatic-application.html){:target="_blank"}.
+2. [Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html){:target="_blank"}.
+3. [Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html){:target="_blank"}.
+4. [Map text on recurring payments to accounts for automatic reconciliation](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html){:target="_blank"}.
 
 <br>
 
