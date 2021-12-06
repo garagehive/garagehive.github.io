@@ -5,7 +5,7 @@ title: Using Online Documents in Estimates, Checklists and Vehicle Inspection Es
 
 # Using Online Documents in Estimates, Checklists and Vehicle Inspections
 
-In this article, we'll take a look at how online documents are displayed when they're used in estimates, checklists, or vehicle inspection estimates. This will assist you in determining which document is the best for you at a given point in time to send out the online document to the customer.
+In this article, we'll take a look at how online documents are used and displayed in estimates, checklists, vehicle inspection estimates and jobsheets. This will assist you in determining which document is the best for you to use the online documents feature.
 
 ## In this article
 
