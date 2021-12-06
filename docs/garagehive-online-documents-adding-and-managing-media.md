@@ -17,7 +17,7 @@ With the ability to add images to the system, it is now easier to manage all of 
 ### Adding media to group lines
 To add media in group lines, follow these steps:
 1. In the **Group Items** section, under the **Media Count** column, select the cell in the line to add the media.
-2. In the window that appears, click **New** from the actions bar, and then choose the method for adding the media.
+2. On the **Linked Media** page, click **New** from the actions bar, and then choose the method for adding the media.
 3. You can link existing media in the system, take a picture, or upload from your device. In this case, we'll click **Upload Picture**, and select the media to add.
 
    ![](media/garagehive-adding-and-managing-media1.gif)
@@ -39,7 +39,7 @@ Follow these steps to add media into document lines:
 
 ### Adding media to checklist lines
 When creating a checklist, use the steps below to add media to the checklist lines:
-1. From the checklist lines, select the three dots at the end of each line.
+1. From the checklist lines, select the three dots at the end of the checklist line to add the media.
 2. From the pop-up menu, select the method for adding a picture to the line, in this case we'll use **Upload Line Picture**.
 
    ![](media/garagehive-adding-and-managing-media4.gif)
@@ -47,6 +47,10 @@ When creating a checklist, use the steps below to add media to the checklist lin
 3. The checklist line will now display an available media with a photo icon on the line. When the checklist is printed, emailed, or published to an online document, the media will be displayed as well.
 
    ![](media/garagehive-adding-and-managing-media5.png)
+
+4. To automatically start the take picture option when an attention option is selected, search for **Process Checklist Setup**, and on the **Process Checklist Setup** page, select the slider on **Take Line Picture On Attention** field.
+
+   ![](media/garagehive-adding-and-managing-media8.png)
 
 ### Managing all added media
 A list of all added media to the system can be viewed and managed. To do so, follow these steps:

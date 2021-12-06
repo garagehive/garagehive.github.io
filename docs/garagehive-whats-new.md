@@ -5,6 +5,15 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments
 
+### 1st December 2021
+* Customer Online Authorisation (Ninja Cat) developments:
+  - Added a summary page to help the customer view a summary of the selected items and amounts to approve.
+  - Added the ability to display finance plan option.
+  - Moved the preview action to publish page and made it possible to save introduction text in preview until it's published.
+  - Changed the payment plan first option from 'blank' to 'Not Available'.
+
+* Added the ability to adjust the labour time matrix in Autodata with a percentage or hours.
+
 ### 22nd November 2021
 
 * Speed improvement for clocking terminal v18.

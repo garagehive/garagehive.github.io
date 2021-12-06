@@ -13,7 +13,7 @@ The goal of sending the online document is to communicate with the customer abou
 2. [Customer requests for a call back](#customer-requests-for-a-call-back)
 
 ### Customer approves the job to be done
-When the customer approves the job to be done based on the online document sent, as shown below:
+When the customer receives and opens the online document, it displays a list of items organised by the action category. The customer can now approve the jobs to be done by using the slider on each item and selecting **Next** at the bottom to view the summary of the items selected, as shown below, and approve the items when satisfied:
 
 ![](media/garagehive-online-documents-customers-actions1.gif)
 
