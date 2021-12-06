@@ -168,6 +168,12 @@
       url: /docs/garagehive-vhc-reminder-date.html
     - name: Internal Jobsheets
       url: /docs/garagehive-internal-jobsheet.html
+    - name: How to Group Document Lines
+      url: /docs/garagehive-group-items-grouping-document-lines.html
+    - name: Working With Group Items Actions
+      url: /docs/garagehive-group-items-working-with-group-items-actions.html
+    - name: Adding and Managing Media in Garage Hive
+      url: /docs/garagehive-online-documents-adding-and-managing-media.html
     - name: Vehicle Card Contents
       url: /docs/garagehive-vehicle-card.html
     - name: Customising vehicle reminder dates
@@ -282,21 +288,15 @@
       url: /docs/garagehive-onlinebooking-sets.html 
     - name: Testing
       url: /docs/garagehive-onlinebooking-testing.html 
-- name: Online Documents
+- name: Customer Online Authorisation
   url: "#"
   subitems:
     - name: Introduction
       url: /docs/garagehive-online-documents-introduction.html
-    - name: How to Group Document Lines
-      url: /docs/garagehive-group-items-grouping-document-lines.html
-    - name: Working With Group Items Actions
-      url: /docs/garagehive-group-items-working-with-group-items-actions.html
-    - name: Setting Up Online documents
+    - name: Setting Up Online Documents
       url: /docs/garagehive-online-documents-setting-up-online-documents.html
     - name: Previewing and Publishing Online documents
       url: /docs/garagehive-online-documents-previewing-and-publishing-online-documents.html
-    - name: Adding and Managing Media in Garage Hive
-      url: /docs/garagehive-online-documents-adding-and-managing-media.html
     - name: Using online documents in estimates, checklists and VIE's
       url: /docs/garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html
     - name: What Happens When a Customer Acts on a Sent Online Document?

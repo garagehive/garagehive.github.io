@@ -9,8 +9,8 @@ Grouping document lines is a feature available in the estimates, vehicle inspect
 ## In this article
 1. [Grouping document lines by creating a group and then adding the lines](#grouping-document-lines-by-creating-a-group-and-then-adding-the-lines)
 2. [Grouping document lines by selecting the lines and then creating a group](#grouping-document-lines-by-selecting-the-lines-and-then-creating-a-group)
-3. [Grouping document lines from the checklist attention items](#grouping-document-lines-from-the-checklist-attention-items)
-4. [Grouping document lines from the service package card](#grouping-document-lines-from-the-service-package-card)
+3. [Creating group items from checklist attention lines](#creating-group-items-from-checklist-attention-lines)
+4. [Creating groups by inserting service packages](#creating-groups-by-inserting-service-packages)
 5. [Print or preview the document](#print-or-preview-the-document)
 
 
@@ -22,7 +22,7 @@ The grouping feature is located above the **Lines** sub-page in a document and i
     ![](media/garagehive-group-items1.gif)
 
 3. From the **Line Group Update** page, select the lines to add to the group (the group name column is at the end of the table with check boxes) and close the window.
-4. Click on the cell under the **Line Count** column and select the lines to add to the selected group. The number of lines added to the group is displayed in the line count column.
+4. The number of lines added to the group is displayed in the line count column.
 
     ![](media/garagehive-group-items2.gif)
 
@@ -43,7 +43,7 @@ The **Lines** section can also be used to add the document lines in a group:
 
     ![](media/garagehive-group-items5.gif)
 
-### Grouping document lines from the checklist attention items
+### Creating group items from checklist attention lines
 While working from a vehicle inspection estimate, there are issues identified in the vehicle which require urgent attention. From these issues, you can create groups to enable you add items and labour. 
 
 > **Example**
@@ -64,7 +64,7 @@ Then carry out the following steps from VIE:
 3. Once the groups have been created, add the necessary items and labour to the document lines and match the lines with the pre-created groups.
 4. Using the methods described above, match the lines to the groups.
 
-### Grouping document lines from the service package card
+### Creating groups by inserting service packages
 To create a group from a service package:
 1. Click **Look Up** and then select **Service Packages** from the document actions bar.
 2. Select the service package you want to add and click OK.
@@ -73,11 +73,16 @@ To create a group from a service package:
     ![](media/garagehive-group-items8.gif)
 
 ### Print or preview the document
-To preview or print the document with the group names being the headers:
+To preview or print the document with the group names being the document headers:
 1. Ensure that the you select **Custom Heading** from the **Invoice Print Options** FastTab.
 2. Select **Print/Send** from the actions bar, then **Print Invoice**.
 
     ![](media/garagehive-group-items9.gif)
+
+3. The other option is to change the setting, so that all documents in future will have the **Custom Heading** as default. Search for **Sales & Receivables Setup** from the search icon at the top-right corner.
+4. In the **General** FastTab, select **Custom Grouping** option in the **Line Layout** Field. Press **Esc** to exit the page.
+
+   ![](media/garagehive-group-items10.gif)
 
 <br>
 
