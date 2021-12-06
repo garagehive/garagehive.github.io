@@ -10,7 +10,7 @@ Below is a brief list of Garage Hive developments
   - Added a summary page to help the customer view a summary of the selected items and amounts to approve.
   - Added the ability to display finance plan option.
   - Moved the preview action to publish page and made it possible to save introduction text in preview until it's published.
-  - Changed the payment plan option from 'blank' to 'Not Available'.
+  - Changed the payment plan first option from 'blank' to 'Not Available'.
 
 * Added the ability to adjust the labour time matrix in Autodata with a percentage or hours.
 
