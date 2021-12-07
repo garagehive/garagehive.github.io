@@ -408,3 +408,5 @@
       url: /docs/export-data.html
     - name: Common Keyboard Shortcuts in Garage Hive
       url: /docs/garagehive-keyboard-shortcuts.html
+    - name: Tips and Tricks in When Working With Garage Hive
+      url: docs/garagehive-tips-and-tricks.html

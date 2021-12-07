@@ -8,7 +8,6 @@ title: Using Online Documents in Estimates, Checklists and Vehicle Inspection Es
 In this article, we'll take a look at how online documents are used and displayed in estimates, checklists, vehicle inspection estimates and jobsheets. This will assist you in determining which document is the best for you to use the online documents feature.
 
 ## In this article
-
 1. [Using online documents in estimates](#using-online-documents-in-estimates)
 2. [Using online documents in checklists](#using-online-documents-in-checklists)
 3. [Using online documents in vehicle inspection estimates](#using-online-documents-in-vehicle-inspection-estimates)
@@ -39,6 +38,8 @@ The customer can approve all of the items in a category or just some subitems. T
 
 ### Using online documents in jobsheets
 The customer may have previously approved some items, and you create a jobsheet for the items in the system, but if you have additional items to share with the customer, you can simply add them to the same jobsheet that shows the approved items. This allows the consumer to keep track of all approved items as well as any additional items that come up.
+
+![](media/garagehive-online-documents-using-in-jobsheets1.gif)
 
 <br>
 

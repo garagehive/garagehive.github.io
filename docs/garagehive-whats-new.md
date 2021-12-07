@@ -12,7 +12,7 @@ Below is a brief list of Garage Hive developments
   - Moved the preview action to publish page and made it possible to save introduction text in preview until it's published.
   - Changed the payment plan first option from 'blank' to 'Not Available'.
 
-* Added the ability to adjust the labour time matrix in Autodata with a percentage or hours.
+* Added the ability to [adjust the labour time matrix](garagehive-autodata-labour-time-adjustment.html) in Autodata with a percentage or hours.
 
 ### 22nd November 2021
 
