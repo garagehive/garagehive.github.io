@@ -34,9 +34,6 @@ To preview an online document from a jobsheet:
 ### How to publish an online document
 After you have finished preparing the document and are ready to send it to the customer, you can now publish it. To make the document available to the customer, follow these steps:
 1. From the document actions bar, select **Print/Send**, **Publish Online Document** and then choose the **Mode** to be **Publish to Customer**.
-
-   ![](media/garagehive-online-documents-previewing-and-publishing4.gif)
-
 2. In the **Publish Online Document** page, select the method for sending the online document. It could be via SMS, email, or both.
 3. You can also personalise the text used for the SMS, Email or the online document introduction, or use the previously saved text messages.
 4. Click **OK**, to send the online document to the customer.
@@ -54,7 +51,7 @@ After you have finished preparing the document and are ready to send it to the c
 
 > **Note:**
 >
-> If the document is edited after it has been published, it must be republished because the previously sent document is now a draft version.
+> If the document is edited after it has been published, it must be republished. The previously sent document is now a draft version.
 
 <br>
 

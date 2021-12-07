@@ -13,7 +13,7 @@ The goal of sending the online document is to communicate with the customer abou
 2. [Customer requests for a call back](#customer-requests-for-a-call-back)
 
 ### Customer approves the job to be done
-When the customer receives and opens the online document, it displays a list of items organised by the action category. The customer can now approve the jobs to be done by using the slider on each item and selecting **Next** at the bottom to view the summary of the items selected, as shown below, and approve the items when satisfied:
+When the customer receives and opens the online document, it displays a list of items organised by the action category. The customer can now approve the jobs to be done by using the slider on each item and selecting **Next** at the bottom to view the summary of the items selected, as shown below. From the **Summary Page** the customer can approve the items when satisfied or go **Back** remove an approval or approve more items:
 
 ![](media/garagehive-online-documents-customers-actions1.gif)
 
@@ -36,7 +36,6 @@ Sometimes, the customer might opt to request for a call back from the online doc
 When that happens, the **Request a Callback** button, also creates a comment marked attention and can be seen from the role centre **Attention** tile.
 
 ![](media/garagehive-online-documents-customers-actions5.gif)
-
 
 <br>
 

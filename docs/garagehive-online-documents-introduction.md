@@ -9,12 +9,13 @@ Garage Hive's customer online authorisation feature enables garage owners to int
 
 The following articles will help you better understand the functionality and use it more effectively:
 
-| To learn about |See this article |
+| To learn about | See this article |
 | :-------------- | :-------------- |
 | Online documents setup | [Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) |
 | Publish online documents | [Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) |
 | Online documents in use | [Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) |
-| Online document customer's action | [What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html) | \
+| Online document customer's action | [What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html) |
+
 <br>
 
 >**Note:**

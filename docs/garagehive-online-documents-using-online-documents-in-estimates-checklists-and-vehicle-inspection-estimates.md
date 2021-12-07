@@ -14,25 +14,25 @@ In this article, we'll take a look at how online documents are used and displaye
 4. [Using online documents in jobsheets](#using-online-documents-in-jobsheets)
 
 ### Using online documents in estimates
-Because the estimate is a document created for the customer prior to bringing the vehicle, there are no action categories in the online document; instead, all groups created are listed under the Estimate header.
+Let's say a customer phones the garage before bringing the vehicle in for repair, and the customer wants to know how much it will cost to do an **MOT** and a **Full Service**. The **Estimate** is the relevant document to use. There are no action categories in the online document for the Estimate; instead, all created group items are listed under the **Estimate** header, as shown below.
 
 ![](media/garagehive-online-documents-using-in-estimates.gif)
 
-So, once the group has been authorised by the customer, you can copy the authorised lines to a jobsheet.
+When the customer has brought in the vehicle and the work is ready to begin, you use the **Copy Authorised Lines to Jobsheet** action to add the items into a jobsheet after the group has been authorised by the customer.
 
 ### Using online documents in checklists
-The checklist entails having the vehicle on site and physically inspecting the vehicle; as a result, a report is prepared and can be sent to the customer via an online document link as a download for them to go through.
+When the customer brings the vehicle to the garage for pre-booked work, the technicians may notice some unforeseen faults in the vehicle while working on it. In such a scenario, the **Checklist** should be created, which involves physically checking the vehicle, taking pictures of the faults, and adding technicians' comments. As a result of the inspection, a report is created and can be sent to the customer as a download via an online document.
 
 ![](media/garagehive-online-documents-using-in-checklists.gif)
 
-After reviewing the checklist, the customer can request a call back if they have any questions or give the go-ahead to prepare a vehicle inspection estimate.
+After reviewing the checklist, the customer can **Request a Callback** if they have any questions or give the go-ahead to prepare a vehicle inspection estimate.
 
 ### Using online documents in vehicle inspection estimates
-When a customer requests for an estimate based on a completed vehicle inspection, the vehicle inspection estimate is prepared and can be shared via an online document with various categories of the groups, such as advised, required, additional, and so on.
+The **Vehicle Inspection Estimate** is created when there is some approved work going on in a vehicle, and more work require to be added therefore creating a **Checklist**, and then from the checklist a **Vehicle Inspection Estimate**. When the vehicle inspection estimate is prepared and it can be shared via an online document with various categories of the groups, such as advised, required, additional, and so on.
 
 ![](media/garagehive-online-documents-using-in-vehicle-inspection-estimates.gif)
 
-The customer can approve all of the items in a category or just some subitems. To copy the approved items in the online document to the jobsheet, use the **Copy Authorised Lines to Jobsheet** action under **Process** in the VIE actions bar.
+The customer can approve all of the items in a categories or just some subitems. To copy the approved items in the online document to the jobsheet, use the **Copy Authorised Lines to Jobsheet** action under **Process** in the VIE actions bar.
 
 ![](media/garagehive-online-documents-using-in-vehicle-inspection-estimate1.png)
 
