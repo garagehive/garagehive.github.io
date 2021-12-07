@@ -3,5 +3,6 @@
         "garagehive",
         "onlinebooking",
         "Reconciliations"
-    ]
+    ],
+    "markdown.extension.toc.updateOnSave": false
 }
