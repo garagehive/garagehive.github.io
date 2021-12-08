@@ -24,7 +24,7 @@ To do this:
 
 # **Installing the App.**
 
-> # Power BI installation link: [Garage Hive Power BI App - V40 Download](https://app.powerbi.com/groups/me/apps/739eb02b-643e-4bc3-a9ae-61191a89452d/package/5036903e-cde3-4bc5-9283-9021165f710bThVxZIUdgL9VO1ue4llxtcWiA6Xy1Q6IF19Rn1oo94g/install?ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&referrer=l.facebook.com&forceRedirectToPowerBiPortal=true "Power BI V40 Download")
+> # Power BI installation link: <ins>[Garage Hive Power BI App - V40 Download](https://app.powerbi.com/groups/me/apps/739eb02b-643e-4bc3-a9ae-61191a89452d/package/5036903e-cde3-4bc5-9283-9021165f710bThVxZIUdgL9VO1ue4llxtcWiA6Xy1Q6IF19Rn1oo94g/install?ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&referrer=l.facebook.com&forceRedirectToPowerBiPortal=true "Power BI V40 Download")</ins>
 
 To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
