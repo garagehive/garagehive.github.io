@@ -7,22 +7,27 @@ title: Updating the App
 
 Periodically you will need to update your Power BI Garage Hive App. 
 
-To do this, login to your Garage Hive Power BI account and click on the link below.
+To do this:
+1. Login to your **Garage Hive Power BI** account and click on the link below.
 
-> # [Garage Hive Power BI App - V40 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=5036903e-cde3-4bc5-9283-9021165f710bThVxZIUdgL9VO1ue4llxtcWiA6Xy1Q6IF19Rn1oo94g&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=40&fbclid=IwAR0u96idv4D4JFI8TLrouup2xgwHgJj8pb5GAmClaLg9QwsMazPMJ0cOL8Y "Power BI V40 Download")
+   > # Power BI installation link: [Garage Hive Power BI App - V40 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=5036903e-cde3-4bc5-9283-9021165f710bThVxZIUdgL9VO1ue4llxtcWiA6Xy1Q6IF19Rn1oo94g&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=40&fbclid=IwAR0u96idv4D4JFI8TLrouup2xgwHgJj8pb5GAmClaLg9QwsMazPMJ0cOL8Y "Power BI V40 Download")
  
-Select Install.
-![](media/powerbi-app-update.png)
+2. Select **Install**.
 
-Select Overwrite an existing version and find the workspace you previously installed the App into. 
-![](media/powerbi-app-overwrite.png)
+   ![](media/powerbi-app-update.png)
 
-The app will take a few minutes to update. Once updated select the edit button. 
-![](media/powerbi-app-update-overwrite-edit.png)
+3. Select **Overwrite an Existing Version** and find the **Workspace** you previously installed the **App** into. 
 
-Select the refresh button to refresh the data in the App. 
-![](media/powerbi-app-update-refresh.png)
+   ![](media/powerbi-app-overwrite.png)
 
-If you have performed the update correctly, you won't need to re-authorise your App or update your refresh schedule. 
+4. The app will take a few minutes to **Update**. Once updated select the **Edit** button.
+
+   ![](media/powerbi-app-update-overwrite-edit.png)
+
+5. Select the **Refresh** button to refresh the data in the App.
+
+   ![](media/powerbi-app-update-refresh.png)
+
+6. If you have performed the update correctly, you won't need to re-authorise your App or update your refresh schedule. 
 
 * For more information on refreshing your data visit - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
