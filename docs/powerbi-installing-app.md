@@ -65,6 +65,6 @@ To install the app:
 
    ![](media/powerbi-app-favourite.png)
 
-10. The app is now ready to use. 
+The app is now ready to use.
 
 You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
