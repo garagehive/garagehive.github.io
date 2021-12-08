@@ -42,7 +42,7 @@ To install the app:
 
 4. Enter your **Company Details**; you can find these by using the search function to find **Power BI App Setup** within **Garage Hive**.
 
-   ![](media/powerbi-tennant.png)
+   ![](media/powerbi-tennant2.png)
 
 5. Enter these details into the relevant fields. 
 
@@ -65,6 +65,6 @@ To install the app:
 
    ![](media/powerbi-app-favourite.png)
 
-11. The app is now ready to use. 
+10. The app is now ready to use. 
 
 You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")

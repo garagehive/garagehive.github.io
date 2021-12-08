@@ -24,7 +24,7 @@ Sometimes you will need to update your Garage Hive credentials within Power BI, 
 
 4. In **Garage Hive** search for **Power BI App Setup**...
 
-   ![](media/powerbi-tennant.png)
+   ![](media/powerbi-tennant2.png)
    
 5. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**., then press **Sign In**.
 
