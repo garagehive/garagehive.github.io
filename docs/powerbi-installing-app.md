@@ -49,21 +49,22 @@ To install the app:
    ![](media/powerbi-connect-id.png)
 
 5. You will now be asked to authorise the connection to your **Garage Hive** system. 
-6. Select the Authentication method as **Basic**, enter your **Garage Hive Username** and in the **Password** field use the **Web Service Access Key** (Click on the three dots to view) from your **Company Details**.
+6. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
+
+   > **NOTE:** We recommend using the **Web Service Access Key** since it's independent of the **Garage Hive** system password. This means, if your **Garage Hive** system is reset, your **Power BI App** will continue working as usual without crashing.
+   
 7. Leave the **Privacy Level** as blank and **Sign In**.  
 
    ![](media/powerbi-auth.png)
-
-   > **NOTE:** We recommend using the **Web Service Access Key** since it's independent of the **Garage Hive** system password. This means, if your **Garage Hive** system is reset, your **Power BI App** will continue working as usual without crashing.
 
 8. If you successfully authorise your **Garage Hive** system, you should see the data refreshing under the **Datasets** option.
 
    ![](media/powerbi-data-refreshing.png)
 
-9. You can now add the app to your favourites, for easier accessbility.
+9.  You can now add the app to your favourites, for easier accessbility.
 
    ![](media/powerbi-app-favourite.png)
 
-10. The app is now ready to use. 
+11. The app is now ready to use. 
 
 You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
