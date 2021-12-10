@@ -51,7 +51,7 @@ After you have finished preparing the document and are ready to send it to the c
 
 > **Note:**
 >
-> If the document is edited after it has been published, it must be republished. The previously sent document is now a draft version.
+> If the document is edited after it has been published, it must be republished. The previously sent document version is revoked and customer needs to use the latest online document link.
 
 <br>
 

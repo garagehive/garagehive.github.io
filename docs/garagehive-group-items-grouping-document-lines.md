@@ -66,7 +66,7 @@ Then carry out the following steps from VIE:
 
 ### Creating groups by inserting service packages
 To create a group from a service package:
-1. Click **Look Up** and then select **Service Packages** from the document actions bar. The service packages available in the system are placeholders that you can edit or create new based on your requirements, see [How to create service packages](garagehive-service-packages.html).
+1. Click **Look Up** and then select **Service Packages** from the document actions bar. The service packages available in the system can be fully priced or hold placeholder lines that you can edit based on your requirements, see [How to create service packages](garagehive-service-packages.html).
 2. Select the **Service Package** you want to add and click **OK**.
 3. The service package is automatically added as a group.
 
