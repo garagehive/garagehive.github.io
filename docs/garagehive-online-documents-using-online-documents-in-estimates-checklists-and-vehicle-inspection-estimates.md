@@ -18,9 +18,9 @@ Let's say a customer phones the garage before bringing the vehicle in for repair
 
 ![](media/garagehive-online-documents-using-in-estimates.gif)
 
-If a customer has authorised the work, you can use the **Make Jobsheet** action to create a new jobsheet for this work and schedule it in or add authorised work to existing jobsheet using the **Copy Authorised Lines to Jobsheet** action.
+If a customer has authorised the work, you can use the **Make Jobsheet** action to create a new jobsheet for this work and schedule it in, or you can add authorised work to the existing jobsheet using the **Copy Authorised Lines to Jobsheet** action.
 
-Picure??
+![](media/garagehive-online-documents-using-in-estimates1.png)
 
 ### Using online documents in checklists
 When the customer brings the vehicle to the garage for pre-booked work, the garage can have a policy doing overall vehicle health check. In such a scenario, the **Checklist** should be created, which involves physically checking the vehicle, taking pictures of the faults, and adding technicians' comments. As a result of the inspection, a report is created and can be sent to the customer as a download via an online document.
@@ -33,9 +33,9 @@ After reviewing the checklist, the customer can **Request a Callback** if they h
 When a **Checklist** is carried out and there are some previously unknown faults found, to prepare an Estimate for the work needed to fix them 
 the **Vehicle Inspection Estimate** is created.
 
-To make it quick and efficient to price up the previously found issues there are multiple features that help this. The perfect scenario would be that the checklist lines are configured to flag as attention if a technician marks them as amber or red. When the line is marked as attention, technician is prompted to take a picture of the fault to later show it to customer. Also technician adds a text explaining the fault and it can be taken from templates. Text template has a service package linked to it that holds description on why this needs to done and the work items.
+There are several features that help in the quick and efficient pricing of previously found issues. The perfect scenario would be for the checklist lines to be set up to flag as attention if a technician marks them as amber or red, see [How to create a checklist](garagehive-checklist-how-to-create.html). When a line is marked as attention, the technician is prompted to take a picture of the fault to show it to the customer later. Also, the technician adds text explaining the fault, which can be taken from templates. The text template is linked to a service package that contains a description of why this needs to be done as well as the work items.
 
-When vehicle inspection estimate is created, group items are generated with **Add Attention Lines** action. That brings all the faults from checklist to VIE **Group Items**, links checklist pictures to these groups, applies checklist text template packages with descriptions and lines. Then the lines can be priced up and item group descriptions edited according to the exact case.
+When a vehicle inspection estimate is created, group items are generated using the **Add Attention Lines** action. This transfers all the checklist faults to VIE **Group Items**, links checklist pictures to these groups, and applies checklist text template packages with descriptions and lines. The lines can then be priced and **Group Items** descriptions edited to the specific case.
 
 When the vehicle inspection estimate is priced up it can be shared via an online document with various categories of the groups, such as advised, required, additional, and so on.
 
