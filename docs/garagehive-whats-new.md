@@ -3,7 +3,20 @@ layout: docs
 title: What's New in Garage Hive
 ---
 # What's new?
-Below is a brief list of Garage Hive developments
+Below is a brief list of Garage Hive developments:
+
+### 15th December 2021
+* [Items to Report](garagehive-items-to-return.html) now considers stock keeping units.
+* **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet.html) now works with stock keeping units.
+* Added the possibility to correct a posted jobsheet.
+* Added the **Mark as Reviewed** button to the **Comments Attention**, **Surveys to Review**, **Online Booking to Review** and **Self Check-in** tiles.
+* Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-extending-price-markup-and-discount-calculations.html).
+* 
+
+### 8th December 2021
+* Added the ability to login to PowerBI using [Web Service Access Key](powerbi-installing-app.html), instead of Garage Hive System password.
+* On the [Payment Reconciliation Journal Page](garagehive-payment-reconciliation-journals.html), a notification has been added to direct users to the documentation site for more information on the payment reconciliation journals.
+* External consultants, like the owner, can now view the survey results.
 
 ### 1st December 2021
 * Customer Online Authorisation (Ninja Cat) developments:
