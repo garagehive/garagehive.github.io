@@ -11,7 +11,6 @@ Below is a brief list of Garage Hive developments:
 * Added the possibility to correct a posted jobsheet.
 * Added the **Mark as Reviewed** button to the **Comments Attention**, **Surveys to Review**, **Online Booking to Review** and **Self Check-in** tiles.
 * Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-extending-price-markup-and-discount-calculations.html).
-* 
 
 ### 8th December 2021
 * Added the ability to login to PowerBI using [Web Service Access Key](powerbi-installing-app.html), instead of Garage Hive System password.
