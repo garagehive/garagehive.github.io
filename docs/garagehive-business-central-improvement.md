@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: BC 18 Improvements - November 2021
+title: Business Central Improvements
 ---
 
-# BC 18 Improvements - November 2021
+# **BC 18 Improvements - November 2021**
 
 This article will list the improvements that come with the November 2021 upgrade to Microsoft Dynamics 365 Business Central 18. Most of these improvements are related to the regular operations you do in Garage Hive and you will find that they make it easier and more comfortable for you to use the system efficiently in your everyday operations.
 
