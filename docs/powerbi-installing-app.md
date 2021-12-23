@@ -9,20 +9,7 @@ title: Installing the App
 
 {% include youtube.html id="iO17qPjBAc0" %}
 
-# **Admin Portal Settings.**
-
-To install the Power BI App you must enable the ability to **install template apps not listed in AppSource**.
-
-To do this:
-1. login to your **Garage Hive Power BI** and go to your **Admin Portal**. 
-
-   ![](media/powerbi-admin.png)
-
-2. Once you are in your **Admin Portal**, select **Tenant settings**, scroll to the bottom of the page and enable **Install Template Apps Not Listed in AppSource** and click **Apply**. 
-
-![](media/powerbi-admin-install-template-apps.png)
-
-# **Installing the App.**
+## **Installing the App.**
 
 > # Power BI installation link: <ins>[Garage Hive Power BI App - V40 Download](https://app.powerbi.com/groups/me/apps/739eb02b-643e-4bc3-a9ae-61191a89452d/package/5036903e-cde3-4bc5-9283-9021165f710bThVxZIUdgL9VO1ue4llxtcWiA6Xy1Q6IF19Rn1oo94g/install?ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&referrer=l.facebook.com&forceRedirectToPowerBiPortal=true "Power BI V40 Download")</ins>
 
@@ -68,3 +55,16 @@ To install the app:
 The app is now ready to use.
 
 You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
+
+## **Admin Portal Settings.**
+If you are having any trouble when installing, check the **Admin Portal Settings**.
+
+To do this:
+1. login to your **Garage Hive Power BI** and go to your **Admin Portal**. 
+
+   ![](media/powerbi-admin.png)
+
+2. Once you are in your **Admin Portal**, select **Tenant settings**, scroll to the bottom of the page and enable **Install Template Apps Not Listed in AppSource** and click **Apply**. 
+
+![](media/powerbi-admin-install-template-apps.png)
+
