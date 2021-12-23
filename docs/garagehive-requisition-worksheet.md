@@ -2,10 +2,11 @@
 layout: docs
 title: Re-ordering Policies and Requisition Worksheets
 ---
+# Re-ordering Policies and Requisition Worksheets
 
 Reordering policies and requisition worksheets help manage your stock by suggesting orders and creating purchase orders based on your available inventory. It is recommended that you run the requisition worksheet each day. 
 
-# Setting up the Item Card
+## Setting up the Item Card
 
 To use the requisition worksheet you must first setup the item cards:
 1. Open each **Item Card** to setup and scroll down to the **Planning** FastTab. 
@@ -28,7 +29,7 @@ To use the requisition worksheet you must first setup the item cards:
 
 10. Repeat steps **7**, **8**, and **9** for all the locations.
 
-# Using the Requisition Worksheet
+## Using the Requisition Worksheet
 
 The **Requisition Worksheet** can be accessed from the Service Advisor's **Role Centre**:
 1. Select **Purchasing** from the **Navigation menu**, then **Requisition Worksheets Express**.
