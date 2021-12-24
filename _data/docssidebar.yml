@@ -110,8 +110,8 @@
       url: /docs/take-payment.html
     - name: Taking a deposit against a customer account
       url: /docs/take-payment-deposit.html            
-    - name: Correcting an Incorrect Payment
-      url: /docs/garagehive-jobsheet-incorrectpayment.html
+    - name: Cancelling and Correcting a Jobsheet
+      url: /docs/garagehive-jobsheet-cancel-and-correct.html
     - name: Create a Return Jobsheet
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
