@@ -22,7 +22,7 @@ To specify sales price for specific product(s):
 2. There are three statuses on the **Sales Prices V16** page lines:
 - **Draft:** For use when you want to edit the lines.
 - **Active:** For use when you want to go live with the prices.
-- **Inactive:** For use when you want to return to standard pricing.
+- **Inactive:** For use when you want to disable and archive the line.
 
    Choose **Draft** status when editing the lines.
 
@@ -46,8 +46,8 @@ To specify sales price for specific product(s):
 
    ![](media/garagehive-extending-pricing5.gif)
 
-9. Enter the **Unit of Measure Code** (if you use **Product Type** as **Item** or **Resource**) for the **Product No.** you selected (Where applicable), followed by the **Minimum Quantity** to apply the price and the **Unit Price** to use.
-10. You can also specify other fields such as **Allow Line Disc.**, which means that the price you're using can use the discount in the document lines, **Price Includes VAT**, which means that the price includes VAT, and so on.
+9. Enter the **Unit of Measure Code** (if you use **Product Type** as **Item** or **Resource**) for the **Product No.** you selected (where applicable), followed by the **Minimum Quantity** to apply the price and the **Unit Price** to use.
+10. You can also specify other fields such as **Allow Line Disc.**, which means that this price can be used with the discount in the document lines, **Price Includes VAT**, which means that the price includes VAT, and so on.
 
    ![](media/garagehive-extending-pricing6.gif)
    <br>
@@ -88,12 +88,12 @@ To specify sales markup for specific product(s):
 
    ![](media/garagehive-extending-markups5.gif)
 
-10. Add the **Markup Type** to be either **Amount** or **Percent**, the **Markup Base** to be either **Unit Cost** (which is the unit cost in the document lines) or **Unit Cost in Document** (which is the unit cost for the whole document).
+10. Add the **Markup Type** to be either **Amount** or **Percent**, the **Markup Base** to be either **Unit Cost** (which is the unit cost in related purchase item ledger entries or Item card) or **Unit Cost in Document** (which is the unit cost in the document line).
 11. Specify the **Markup Value** depending on the **Markup Type** you used. In this case, we'll use a **30% markup value for unit cost**.
 
    ![](media/garagehive-extending-markups6.gif)
 
-12. You can also specify other fields, such as **Minimum Markup Amount**, which means that the markup amount should not be less than this amount, and **Allow Line Discount**, which means that the line discount in the document will be used for the price after the markup is set.
+12. You can also specify other fields, such as **Minimum Markup Amount**, which means that the markup amount should not be less than this amount, and **Allow Line Discount**, which means that the line discount in the document can be used for the price after the markup is set.
 
    ![](media/garagehive-extending-markups6.png)
 
