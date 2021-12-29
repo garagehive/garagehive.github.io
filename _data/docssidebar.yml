@@ -22,8 +22,6 @@
 - name: Getting started
   url: "#"
   subitems:
-    - name: What's New
-      url: /docs/garagehive-whats-new.html
     - name: Minimum Requirements
       url: /docs/garagehive-system-requirements.html
     - name: Garage Hive Training Modules - Beginners
@@ -34,6 +32,13 @@
       url: /docs/garagehive-setting-up-devices.html
     - name: Go Live Setup
       url: /docs/golive-cust-not-set.html
+- name: What's New
+  url: "#"
+  subitems:
+    - name: What's New in Garage Hive
+      url: /docs/garagehive-whats-new.html
+    - name: Business Central Improvements
+      url: /docs/garagehive-business-central-improvement.html
 - name: Power BI Reporting
   url: "#"
   subitems:
@@ -59,7 +64,7 @@
     - name: Create an External Service
       url: /docs/garagehive-create-external-service.html
     - name: Create an Item Card
-      url: /docs/garagehive-create-a-item-card.html
+      url: /docs/garagehive-create-an-item-card.html
     - name: Create a Customer Card
       url: /docs/garagehive-create-a-customer-card.html
     - name: Create a Vendor Card
@@ -103,8 +108,8 @@
       url: /docs/take-payment.html
     - name: Taking a deposit against a customer account
       url: /docs/take-payment-deposit.html            
-    - name: Correcting an Incorrect Payment
-      url: /docs/garagehive-jobsheet-incorrectpayment.html
+    - name: Cancelling and Correcting a Jobsheet
+      url: /docs/garagehive-jobsheet-cancel-and-correct.html
     - name: Create a Return Jobsheet
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
@@ -140,7 +145,7 @@
   url: "#"
   subitems:
     - name: Create New Items
-      url: /docs/garagehive-create-a-item-card.html
+      url: /docs/garagehive-create-an-item-card.html
     - name: Create Item Card Templates
       url: /docs/create-item-templates.html
     - name: Create a Placeholder Item Card

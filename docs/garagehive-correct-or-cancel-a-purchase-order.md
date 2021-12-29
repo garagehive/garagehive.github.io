@@ -1,43 +1,41 @@
 ---
 layout: docs
-title: Correct or Cancel a Purchase Invoice.
+title: Correct or Cancel a Purchase Invoice
 ---
 
-#   Correct or Cancel a Purchase Invoice.
+# Correct or Cancel a Purchase Invoice
 
-{% include youtube.html id="klNMViU-6Ls" %}
+If you accidentally posted a purchase order for the incorrect amount or to the wrong Vendor, you can cancel it by following the steps below: 
+1. Select **Posted & Archived Documents** in the **Role Centre**, then **Posted Purchase Invoices**.
 
-If you have posted a purchase order for the incorrect amount or to the incorrect Vendor, you can cancel the purchase order by following the steps below: - 
+   ![](media/garagehive-correct-or-cancel-a-purchase-order1.png)
 
-Within the Home Screen select **Posted & Archived Documents**
+2. Use the **Search** option to locate the required **Posted Purchase Invoice** in the list, and then **Open** it.
 
-![](media/garagehive-correct-or-cancel-a-purchase-order1.png)
+   ![](media/garagehive-correct-or-cancel-a-purchase-order2.png)
 
-Then select **Posted Purchase Invoices**
+3. Select **Correct** from the actions bar, followed by **Cancel Invoice**.
 
-![](media/garagehive-correct-or-cancel-a-purchase-order2.png)
+   ![](media/garagehive-correct-or-cancel-a-purchase-order3.png)
 
-Find the required posted purchase invoice within the list or use the search option and then open.  
+4. The following message will appear, informing you that a purchase credit memo will be created and posted. This will result in the purchase invoice being reversed. Select **Yes**.
 
-![](media/garagehive-correct-or-cancel-a-purchase-order3.png)
+   ![](media/garagehive-correct-or-cancel-a-purchase-order4.png)
 
-Then select **Correct** followed by Cancel Invoice. 
+5. You'll get the following message if the original purchase order was posted before the day you're cancelling the document. Select **Yes**. 
 
-![](media/garagehive-correct-or-cancel-a-purchase-order4.png)
+   ![](media/garagehive-correct-or-cancel-a-purchase-order5.png)
 
-You will then see the following message, advising a purchase credit memo will be created and posted. This will reverse this purchase invoice.  
+6. After that, you'll see this message. This confirms that the credit memo was successfully posted. You are not required to open this, but you may do so if you so wish.
 
-![](media/garagehive-correct-or-cancel-a-purchase-order5.png)
+   ![](media/garagehive-correct-or-cancel-a-purchase-order6.png)
 
-If the original purchase order was posted before the day you are cancelling the document you will get the following message. Select **Yes**. 
+7. You'll need to create a new purchase order if it was posted incorrectly.
 
-![](media/garagehive-correct-or-cancel-a-purchase-order6.png)
 
-Finally, you will see this message. This confirms the credit memo was posted successfully. You do not need to open this, however, you can if you wish. 
+## See Also
 
-![](media/garagehive-correct-or-cancel-a-purchase-order7.png)
-
-If it was posted incorrectly, you simply now just need to create a new purchase order. 
+[Video: How to Cancel an Incorrect Purchase Invoice in Garage Hive](https://www.youtube.com/watch?v=klNMViU-6Ls)
 
 
 

@@ -30,8 +30,7 @@ Each customer is given an **NPS Group** according to how they answered the NPS q
 
 ### Marking submitted customer surveys as reviewed
 To mark the surveys as reviewed:
-1. Click on **Edit List** from the **To Review** list.
-2. Select the checkbox in column **Reviewed**; this marks the survey as reviewed and removes it from the **To Review** tile.
+1. Select the survey from the **To Review** page, and then select **Mark as Reviewed** action from the actions bar.
 
 ![](media/garagehive-surveys-customer10.gif)
 

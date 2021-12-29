@@ -96,7 +96,7 @@ If you have posted a jobsheet with the incorrect payment method, you will need t
 14. Select Home tab on the top of the page.
 15. You can now go into Take Payment and correct the payment method. 
 
-[Correcting Incorrect Payment Method](/docs/garagehive-jobsheet-incorrectpayment.html "Correcting Incorrect Payment Method")
+[Correcting Incorrect Payment Method](/docs/garagehive-jobsheet-cancel-and-correct.html "Correcting Incorrect Payment Method")
 
 >   Can I set specific discounts for different customers? 
 

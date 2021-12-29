@@ -7,7 +7,6 @@ title: Setting Up Primary Makes and Models
 
 The primary make and model function helps to set conditions to apply when assigning a service package to a vehicle. The condition set defines which vehicle can use the service package and which to exclude.
 
-<br>
 
 ## In this article
 
@@ -73,10 +72,7 @@ To set the condition for a particular primary model:
 
 ### **See Also**
 
-[Setting up service package conditions](/docs/service-package-conditions.html) <br>
-
-[Setting up service packages](/docs/garagehive-service-packages.html) <br>
-
-[Setting up service packages for online booking](/docs/garagehive-onlinebooking-service-packages.html) <br>
-
-[Video: Service Package conditions](http://www.youtube.com/watch?v=DDrB5v6kzM0){:target="_blank"} <br>
+[Setting up service package conditions](/docs/service-package-conditions.html) \
+[Setting up service packages](/docs/garagehive-service-packages.html) \
+[Setting up service packages for online booking](/docs/garagehive-onlinebooking-service-packages.html) \
+[Video: Service Package conditions](http://www.youtube.com/watch?v=DDrB5v6kzM0){:target="_blank"}
