@@ -160,8 +160,6 @@
       url: /docs/garagehive-requisition-worksheet.html
     - name: How to carry out Stock Adjustments
       url: /docs/garagehive-stock-adjustments.html
-    - name: How to set retail prices, margins & markups
-      url: /docs/garagehive-item-pricing-markup.html
     - name: How to create item Price/Discount groups and update items
       url: /docs/item-price-discount-groups.html      
 - name: Service Advisor Operations
