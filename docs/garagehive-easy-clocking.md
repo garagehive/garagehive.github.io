@@ -7,7 +7,7 @@ title: Easy Clocking Functionality
 
 {% include youtube.html id="FKGxkYSX8bs" %}
 
-Easy Clocking is where the Technician will work from the majority of the time. He will use Easy Clocking for most of his daily tasks such as:- 
+Easy Clocking is where the Technician will work from the majority of the time. He will use Easy Clocking for most of his daily tasks such as: -
 
 *   Clocking in/out of work. 
 *   Viewing their tasks for the day. 
