@@ -60,6 +60,7 @@ To create or edit a service package:
 
 ### **See Also**
 
-[Video: How to create service packages in Garage Hive](http://www.youtube.com/watch?v=J1-KVnbnBLs){:target="_blank"} \
-[Setting up service packages conditions](/docs/service-package-conditions.html) \
-[Setting up service packages for online booking](/docs/garagehive-onlinebooking-service-packages.html)
+[Video: How to create Service Packages in Garage Hive](http://www.youtube.com/watch?v=J1-KVnbnBLs){:target="_blank"} \
+[Setting up Service Packages conditions](/docs/service-package-conditions.html) \
+[Setting up Service Packages for online booking](/docs/garagehive-onlinebooking-service-packages.html) \
+[Automatically adding Service Packages in documents](/docs/garagehive-automatically-adding-service-packages.html)
