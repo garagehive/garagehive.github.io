@@ -1,15 +1,13 @@
 ---
 layout: docs
-title: Installing the App
+title: Installing the Power BI App
 ---
 
-#   How to Install the Power BI APP
+> **PLEASE NOTE:
+> 
+> You **MUST** set your labour rate in Garage Hive before installing the **Power BI App** - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/powerbi-labourrate.html "Set Average Labour Rate")** 
 
-> **PLEASE NOTE: YOU MUST SET YOUR LABOUR RATE IN GARAGE HIVE BEFORE INSTALLING THE APP -  [HOW TO SET YOUR AVERAGE LABOUR RATE](https://docs.garagehive.co.uk/docs/powerbi-labourrate.html "Set Average Labour Rate")** 
-
-{% include youtube.html id="iO17qPjBAc0" %}
-
-## **Installing the App.**
+# Installing the Power BI App
 
 > # Power BI installation link: <ins>[Garage Hive Power BI App - V40 Download](https://app.powerbi.com/groups/me/apps/739eb02b-643e-4bc3-a9ae-61191a89452d/package/5036903e-cde3-4bc5-9283-9021165f710bThVxZIUdgL9VO1ue4llxtcWiA6Xy1Q6IF19Rn1oo94g/install?ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&referrer=l.facebook.com&forceRedirectToPowerBiPortal=true "Power BI V40 Download")</ins>
 
@@ -17,40 +15,37 @@ To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
 2. After clicking the link, **Power BI** will ask if you want to **Install** the app, select **Install**. 
 
-   ![](media/powerbi-app-install.png)
+   ![](media/garagehive-installing-powerbi-app1.gif)
 
-2. Once the app  has installed, go to your apps on Power BI and open the **Garage Hive Power BI** app. Select the app to **Open**.
+3. Once the app  has installed, go to your apps on Power BI and open the **Garage Hive Power BI** app. Select the app to open.
+4. When you open the app, you are guided with a warning at the top that says, "You're viewing this app with sample data. **Connect Your Data**." Select **Connect Your Data**. A page to enter your **Company Details** opens.
 
-   ![](media/powerbi-app-open.png)
+   ![](media/garagehive-installing-powerbi-app2.gif)
 
-3. After opening the app you are given 3 options, select **Connect Your Data**.
+5. Enter your **Company Details**; you can find these by using the search function to find **Power BI App Setup** within **Garage Hive**.
 
-   ![](media/powerbi-app-connect.png)
+   ![](media/garagehive-installing-powerbi-app3.gif)
 
-4. Enter your **Company Details**; you can find these by using the search function to find **Power BI App Setup** within **Garage Hive**.
+6. Enter these details into the relevant fields.
 
-   ![](media/powerbi-tennant2.png)
+   ![](media/garagehive-installing-powerbi-app4.gif)
 
-5. Enter these details into the relevant fields. 
-
-   ![](media/powerbi-connect-id.png)
-
-5. You will now be asked to authorise the connection to your **Garage Hive** system. 
-6. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
+7. You will now be asked to authorise the connection to your **Garage Hive** system. 
+8. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
 
    > **NOTE:** We recommend using the **Web Service Access Key** since it's independent of the **Garage Hive** system password. This means, if your **Garage Hive** system is reset, your **Power BI App** will continue working as usual without crashing.
    
-7. Leave the **Privacy Level** as blank and **Sign In**.  
+9. Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. Your will now start refreshing.
 
-   ![](media/powerbi-auth.png)
+   ![](media/garagehive-installing-powerbi-app5.gif)
 
-8. If you successfully authorise your **Garage Hive** system, you should see the data refreshing under the **Datasets** option.
+10. If you successfully authorise your **Garage Hive** system, you should see the data refreshing under **Workspaces**, select **Garage Hive** app and then **Datasets+Dataflows** option.
 
-   ![](media/powerbi-data-refreshing.png)
+   ![](media/garagehive-installing-powerbi-app6.gif)
 
-9.  You can now add the app to your favourites, for easier accessbility.
+11. You can now add the app to your **Favourites**, for easier accessibility.
 
-   ![](media/powerbi-app-favourite.png)
+   ![](media/garagehive-installing-powerbi-app7.gif)
 
 The app is now ready to use.
 
@@ -67,4 +62,15 @@ To do this:
 2. Once you are in your **Admin Portal**, select **Tenant settings**, scroll to the bottom of the page and enable **Install Template Apps Not Listed in AppSource** and click **Apply**. 
 
 ![](media/powerbi-admin-install-template-apps.png)
+
+
+<br>
+
+### **See Also**
+[Video - How to install the Garage Hive Power BI report](https://youtu.be/iO17qPjBAc0) \
+[How to set your Average Labour Rate](powerbi-labourrate.html) \
+[Installing the Power BI App](powerbi-installing-app.html) \
+[Refreshing your Power BI data](powerbi-refresh-data.html) \
+[Updating your Power BI App](powerbi-updating-app.html) \
+[Updating your Power BI credentials](powerbi-updating-app.html)
 

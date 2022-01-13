@@ -50,4 +50,5 @@ To set the conditions for a service package
 [Video: Service Package conditions](http://www.youtube.com/watch?v=DDrB5v6kzM0){:target="_blank"} \
 [Setting up service packages](/docs/garagehive-service-packages.html) \
 [Setting up service packages for online booking](/docs/garagehive-onlinebooking-service-packages.html) \
-[Setting up primary makes and models](/docs/garagehive-setting-up-primary-makes-and-models.html)
+[Setting up primary makes and models](/docs/garagehive-setting-up-primary-makes-and-models.html) \
+[Automatically adding Service Packages in documents](/docs/garagehive-automatically-adding-service-packages.html)

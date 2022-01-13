@@ -31,3 +31,12 @@ After you've finished setting up the feature, you can begin using it by:
 
    ![](media/garagehive-courtesy-car3.gif)
 
+
+<br>
+
+### **See Also**
+
+[How to create Service Packages in Garage Hive](garagehive-service-packages.html) \
+[Service Packages conditions](service-package-conditions.html) \
+[Setting up online booking "Service Packages"](garagehive-onlinebooking-service-packages.html) \
+[Automatically adding Service Packages in documents](/docs/garagehive-automatically-adding-service-packages.html)

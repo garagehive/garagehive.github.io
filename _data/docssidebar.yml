@@ -69,7 +69,7 @@
       url: /docs/garagehive-create-a-customer-card.html
     - name: Create a Vendor Card
       url: /docs/garagehive-create-a-vendor-card.html
-    - name: Checklists
+    - name: How to Create Checklists
       url: /docs/garagehive-checklist-how-to-create.html
     - name: Importing/Exporting Checklists
       url: /docs/garagehive-checklist-import-export.html  
@@ -77,6 +77,8 @@
       url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
+    - name: Automatically Adding Service Packages in Documents
+      url: /docs/garagehive-automatically-adding-service-packages.md
     - name: Creating Service Package Conditions
       url: /docs/service-package-conditions.html
     - name: Setting up Primary Makes and Models
