@@ -44,8 +44,6 @@
   subitems:
     - name: What is Power BI?
       url: /docs/powerbi.html
-    - name: Setting Your Labour Rate
-      url: /docs/powerbi-labourrate.html
     - name: Installing The App
       url: /docs/powerbi-installing-app.html
     - name: Refreshing Your Data
@@ -84,7 +82,9 @@
     - name: Setting up Primary Makes and Models
       url: /docs/garagehive-setting-up-primary-makes-and-models.html
     - name: Setting up Reminders
-      url: /docs/garagehive-customer-notifications.html 
+      url: /docs/garagehive-customer-notifications.html
+    - name: Setting Your Average Labour Rate
+      url: /docs/garagehive-labour-rate.html 
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
     - name: Setting Up eCom Payment Gateway  
