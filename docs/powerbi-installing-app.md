@@ -5,7 +5,7 @@ title: Installing the Power BI App
 
 > **Important:**
 > 
-> Before installing the **Power BI App**, you should first setup your labour rate in Garage Hive. - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate").
+> Before installing the **Power BI App**, you should first setup your **Average Labour Rate** in Garage Hive. - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate").
 
 # Installing the Power BI App
 
