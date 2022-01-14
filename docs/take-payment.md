@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Take Payment (Preview) for posted sales documents
+title: Take Payment for Posted Sales Documents
 ---
 
-#   Taking Payment for a posted sales document.
+# Take Payment for Posted Sales Documents
 
 See the video below or follow the written instructions to take payments for posted sales documents.
 
@@ -13,33 +13,32 @@ See the video below or follow the written instructions to take payments for post
 
 ---
 
-From the home page, select Take Payment.
+1. From the home page, select **Take Payment**.
 
-![](media/take-payment-home.png)
+   ![](media/take-payment-home.png)
 
-Type to search for or use the arrow to select the customer.
+2. Enter the customer's name or click the arrow to select the customer.
 
-![](media/take-payment-customer.png)
+   ![](media/take-payment-customer.png)
 
-Once selected, you will see the customers' ballance and select a payment method by typing or selecting as with the customer name.
+3. When you select a customer, you will see their balance. In the **Payment Method Code** field, type or click the three dots to select a payment method.
 
-![](media/take-payment-payment-method.png)
+   ![](media/take-payment-payment-method.png)
 
-Now the **"NEXT"** button will be highlighted, and you can progress to the next page.
+4. The **Next** button will now be active; click it to proceed to the next page.
+5. In the **Amount** field, click on the value **"0.00"**.
 
-Select the value **"0.00"**
+   ![](media/take-payment-apply-to-document.png)
 
-![](media/take-payment-apply-to-document.png)
+6. On this page, you can pay for the documents you want by checking the **"Payment Made"** box. If the value paid differs from the balance of the document, change it in the **"Amount received"** column. When the Payment made check box is selected on any document, the amount received will default to the full amount owed.
 
-In this screen you can select the documents you wish to pay by selecting the **"Payment Made"** check box and if necessary change the value paid in the **"Amount received"** column if it differs from the balance of the document (note the amount received will default to the full amount outstanding when the Payment made check box is selected)
+   ![](media/take-payment-entries.png)
 
-![](media/take-payment-entries.png)
+7. Verify the total and, if necessary, change the description here before moving on to the next step.
+   
+   ![](media/take-payment-apply-to-document2.png)
 
-Verify the total and alter the description here if necessary then select next. 
+8. Before posting, you can review the Payment details on this final page. If you do not use the built-in accounting module, you will not see the **Lump Payment** option.
+9. If you have an integrated card terminal and have chosen a card payment method, the **Lump Payment** option will be selected by default. This means that if you choose to post this Payment, the card terminal will be triggered and the entry will be posted if the Payment is successful. 
 
-![](media/take-payment-apply-to-document2.png)
-
-On this last page, you can check the Payment details before posting. If you are not using the built-in accountancy module you won't see **"Lump Payment"** as an option.
-If you have an integrated card terminal and have selected a card payment method, you will see this option selected by default. This means that when you choose to post this Payment the card terminal will be triggered and the entry posted upon successful Payment. 
-
-![](media/take-payment-post-card.png)
+   ![](media/take-payment-post-card.png)
