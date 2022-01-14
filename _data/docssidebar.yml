@@ -76,7 +76,7 @@
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
     - name: Automatically Adding Service Packages in Documents
-      url: /docs/garagehive-automatically-adding-service-packages.md
+      url: /docs/garagehive-automatically-adding-service-packages.html
     - name: Creating Service Package Conditions
       url: /docs/service-package-conditions.html
     - name: Setting up Primary Makes and Models
