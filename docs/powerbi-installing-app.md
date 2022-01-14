@@ -69,7 +69,6 @@ To do this:
 ### **See Also**
 [Video - How to install the Garage Hive Power BI report](https://youtu.be/iO17qPjBAc0) \
 [How to set your Average Labour Rate](garagehive-labour-rate.html) \
-[Installing the Power BI App](powerbi-installing-app.html) \
 [Refreshing your Power BI data](powerbi-refresh-data.html) \
 [Updating your Power BI App](powerbi-updating-app.html) \
 [Updating your Power BI credentials](powerbi-updating-app.html)
