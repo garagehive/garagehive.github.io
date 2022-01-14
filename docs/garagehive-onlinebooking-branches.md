@@ -2,8 +2,9 @@
 layout: docs
 title: Setting Up online booking "Branches"
 ---
+
 # Branches 
-BACK IN THE ONLINE BOOKING SETUP PAGE.
+Back in the online booking setup page.
 
 Click on “navigate” so that you can see the list of set up tables.
 
