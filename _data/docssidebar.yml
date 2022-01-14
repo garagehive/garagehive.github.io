@@ -76,7 +76,7 @@
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
     - name: Automatically Adding Service Packages in Documents
-      url: /docs/garagehive-automatically-adding-service-packages.md
+      url: /docs/garagehive-automatically-adding-service-packages.html
     - name: Creating Service Package Conditions
       url: /docs/service-package-conditions.html
     - name: Setting up Primary Makes and Models
@@ -158,6 +158,8 @@
       url: /docs/garagehive-how-to-view-item-history-from-a-document.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
       url: /docs/garagehive-requisition-worksheet.html
+    - name: Doing a Physical Stock Take in Garage Hive
+      url: /docs/garagehive-doing-physical-stock-take.html
     - name: How to carry out Stock Adjustments
       url: /docs/garagehive-stock-adjustments.html
     - name: Extending Prices, Markups and Discounts Calculations
