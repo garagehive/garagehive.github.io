@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Updating the App
+title: Updating the Power BI App
 ---
 
-#   How to Update the Power BI App
+# Updating the Power BI App
 
 Periodically you will need to update your Garage Hive Power BI App. 
 
