@@ -2,51 +2,60 @@
 layout: docs
 title: How to Email Customer's Statements
 ---
-# How to setup customer card's to email statements
+# How to Email Customer's Statements 
+You can email customer statements directly from Garage Hive, but you must first complete some setup in the customer card.
 
-{% include youtube.html id="CTPgZKoyjec" %}
-
-You can email customer statements directly from Garage Hive, to do this you need to complete some setup in the customer card. 
-
-The default email address you enter on the homepage of a customer card isn't the email address that the statement will be emailed to. **You must complete the following set up for the statement email function to work.** 
+## In this article
+1. [How to setup customer cards to send statements via email](#how-to-setup-customer-cards-to-send-statements-via-email)
+2. [Sending customer statements via email](#sending-customer-statements-via-email)
 
 
-![](media/garagehive-statements-email.png)
-Open the customer card, select Navigate and open "Document Layouts"
+### How to setup customer cards to send statements via email
 
-![](media/garagehive-statements-document-layouts.png)
+> **Note:**
+> To use the statement email function, you should first complete the following setup.
 
-You must use the following settings - 
+To setup the customer card:
+1. First select **Customers** from the Role Centre, and then select the specific **Customer Card** to setup.
+2. Select **Navigate** from the actions bar, followed by **Document Layouts** in the submenus.
 
-* **Useage** - Customer Statement
-* **Report ID** - 25006973
-* **Report Caption** - Customer Statement AAR
-* **Custom Layout Description** - Blank
-* **Sent To Email** - Customers Email
-* **Use for Email Body** - Blank
-* **Email Body Layout Description** - Blank
+   ![](media/garagehive-customer-statements-email1.gif)
 
-![](media/garagehive-statements-document-layouts-edit.png)
+3. Fill in the following settings as indicated:
+   * **Usage** - Customer Statement
+   * **Report ID** - 25006141
+   * **Report Caption** - Customer Statement AAR
+   * **Custom Layout Description** - *Leave it blank*
+   * **Send To Email** - Customer's Email
+   * **Use for Email Body** - *Leave it blank*
+   * **Email Body Layout Description** - *Leave it blank*
 
-When running the statement report, selecting the "Report Output" to "Email" will now email the customer statement. 
+   ![](media/garagehive-customer-statements-email2.gif)
 
-# How to email statements
+4. When running the statement report, changing the **Report Output** to **Email** option will now email the customer statement.
+   
+### Sending customer statements via email
+To send the customer statement via email:
+1. Select the **Customers** list from the Role Centre, choose **Report**, and then **Statement**.
 
-Emailing statements is achieved using the same report as printing statements. 
+   ![](media/garagehive-customer-statements-print1.gif)
 
-![](media/garagehive-statements-how-to-print.png)
+2. Select **Aged As Of** as the date you want to run the statement from. Typically, this should be the date from which you still have outstanding invoices from the customer. In this case, we'll use the end of the previous month.
+3. The **Aged By** field can be set to the **Due Date**, **Posting Date**, or **Document Date**. This specifies the end date for running the statement. In this case, we will select **Due Date**.
 
-Go to your list of customers, in the action bar find the "Statement" report. 
+   ![](media/garagehive-customer-statements-print2.gif)
 
-![](media/garagehive-statements-email-report.png)
+4. Select the **Period Length** for which you want to view the statement. For days, use **D**, such as **5D**, for months, **M**, such as **1M**, and for years, **Y**, such as **1Y**.
+5. Choose the **Heading Type** as either **Date Interval**, which will appear as **01/12/21...31/12/21**, or **Number of Days**, which will appear as **1 - 31 days** on the balance amounts heading.
+6. Select **Email** as the **Report Output** under **Output Options**.
+7. Select the **Print Although Email is Missing** slider if you are running statements for multiple customers; this will produce PDF statements of all customers that don't have an email setup yet. 
+8. If you want to email a particular customer, make sure you enter the customer's account number at the **Filter: Customer** field.
+9. Click the **OK** button. The statement will now be sent to the customer that has an email setup.
 
-Set the "Aged As Of" date to the date you want to run the statement from, typically the end of the previous month. 
+   ![](media/garagehive-customer-statements-email4.gif)
 
-Change the "Report Output" to "Email"
 
-Tick the "Print Remaining Statements" if you are running statements for multiple customers, this will produce a PDF of all customers that don't have an email set. 
-
-If you want to email a particular customer, make sure you enter the customer's account number at the bottom of the report. 
+<br>
 
 # See Also
 [How to Print Statements](/docs/garagehive-statements-how-to-print.html "How to print Statements")
