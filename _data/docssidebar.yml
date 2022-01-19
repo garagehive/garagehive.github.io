@@ -162,6 +162,8 @@
       url: /docs/garagehive-doing-physical-stock-take.html
     - name: How to carry out Stock Adjustments
       url: /docs/garagehive-stock-adjustments.html
+    - name: Changing VAT Prod. Posting on Lines
+      url: /docs/garagehive-changing-vat-prod-posting-on-lines.html
     - name: Extending Prices, Markups and Discounts Calculations
       url: /docs/garagehive-extending-price-markup-and-discount-calculations.html
     - name: How to set retail prices, margins & markups
