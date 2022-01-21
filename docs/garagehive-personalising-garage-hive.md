@@ -11,7 +11,7 @@ Personalizing Garage Hive is quick and easy, such as adding fields to pages and 
 2. [Hiding or moving columns](#hiding-or-moving-columns)
 3. [Freezing and resizing the columns](#freezing-and-resizing-the-columns)
 4. [Adding or removing fields from a collapsed fasttab](#adding-or-removing-fields-from-a-collapsed-fasttab)
-5. [Customising Garage Hive for each user](#customizing-garage-hive-for-each-user)
+5. [Customising Garage Hive for each user](#customising-garage-hive-for-each-user)
 
 
 ### Adding fields to pages
