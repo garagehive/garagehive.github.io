@@ -11,7 +11,7 @@ Personalizing Garage Hive is quick and easy, such as adding fields to pages and 
 2. [Hiding or moving columns](#hiding-or-moving-columns)
 3. [Freezing and resizing the columns](#freezing-and-resizing-the-columns)
 4. [Adding or removing fields from a collapsed fasttab](#adding-or-removing-fields-from-a-collapsed-fasttab)
-5. [Customizing the role centre for each user](#customizing-the-role-centre-for-each-user)
+5. [Customising Garage Hive for each user](#customizing-garage-hive-for-each-user)
 
 
 ### Adding fields to pages
@@ -77,7 +77,7 @@ To add or remove a field in a fastab when collapsed:
    ![](media/garagehive-personalising-garage-hive8.gif)
 
 
-### Customizing for each user
+### Customising Garage Hive for each user
 When working with Garage Hive, you may want to customise Garage Hive differently for different users so that you can limit what a user can see when they are on the system. Here's how to personalise it for each user:
 1. Select the search icon in the top-right corner, enter **Profiles**, and select the related link.
 2. Search for the user whose system you want to customise, and then click on the user's **Profile ID** to open the user's profile.
