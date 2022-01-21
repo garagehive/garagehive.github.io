@@ -18,4 +18,4 @@ When you have items with different VAT requirements, you can change the **VAT Pr
 
 > **Note:**
 >
-> The same procedure as above can be used to change the **VAT Prod. Posting Group** on an **Estimate**, **Vehicle Inspection Estimate**, and a **Jobsheet**.
+> The same procedure as above can be used to change the **VAT Prod. Posting Group** on an **Estimate**, a **Vehicle Inspection Estimate**, a **Jobsheet** and the **Sales** documents.
