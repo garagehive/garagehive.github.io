@@ -94,7 +94,9 @@
     - name: My Notifications
       url: /docs/my-notifications.html
     - name: Creating Pool jobs
-      url: /docs/garagehive-creating-pool-jobs.html         
+      url: /docs/garagehive-creating-pool-jobs.html
+    - name: Personalisation of Garage Hive
+      url: /docs/garagehive-personalising-garage-hive.html       
 - name: Sales
   url: "#"
   subitems:
