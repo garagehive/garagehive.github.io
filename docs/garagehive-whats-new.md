@@ -5,6 +5,35 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 18th January 2022
+* The Autodata Service Interval Matrix now only has a tick on the replaceable items.
+* Move Up/Move Down actions have been added to the line control shortcut menu for Group Items lines.
+
+   ![](media/garagehive-group-items-move-up-move-down.png)
+
+* Nonstock Item features have been renamed Catalogue Item. 
+* Added Parts Sales Management function, with the following developments:
+  - A role centre for the **Parts Sales Admin** to simplify the management of parts sales.
+     
+     ![](media/garagehive-parts-sales-admin.png)
+
+  - An action to create a Jobsheet from a sales order.
+  - An SMS action under Print/Send submenus on sales order and sales invoice pages.
+  - Parts Sales Proforma Invoice printout.
+  - Renamed Service Type Code to Service Type in all sales documents.
+  - Sync Unit Price field between Items and Catalogue Items in both ways.
+  - The ability to update the related catalogue item description, when the user updates the item description in the system.
+  - Take payment wizard on the Parts Sales Admin role centre.
+  - Default lines layout for sales orders and sales quote.
+  - Card and item history overviews actions to lines in sales orders and quotes.
+* Added item substitution management function, with the following developments:
+  - The display of 🔃 in line checker on jobsheets if item has substitutions.
+
+     ![](media/garagehive-item-substitute.png)
+
+  - Line checker column for sales orders, and quotes.
+  - The ability to open the error page and display substitutions if a substitution setting exists for the item.
+
 ### 15th December 2021
 * [Items to Report](garagehive-items-to-return.html) now considers stock keeping units.
 * **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet.html) now works with stock keeping units.
