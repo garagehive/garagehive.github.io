@@ -145,7 +145,7 @@
       url: /docs/garagehive-archived-documents.html
     - name: Removing Posting Restrictions 
       url: /docs/garagehive-removing-posting-restrictions.html
-    - name: Changing VAT Prod. Posting on Lines
+    - name: Changing VAT Prod. Posting on Purchase Document Lines
       url: /docs/garagehive-changing-vat-prod-posting-on-lines.html
 - name: Inventory
   url: "#"
