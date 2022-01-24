@@ -108,7 +108,7 @@
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
-    - name: Take Payment (Preview) for posted sales documents
+    - name: Take Payment for posted sales documents
       url: /docs/take-payment.html
     - name: Taking a deposit against a customer account
       url: /docs/take-payment-deposit.html            
