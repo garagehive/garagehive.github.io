@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Unapplying and reversing transactions
+title: Unapplying and Reversing Transactions
 ---
 
-# Unapplying and reversing transactions
+# Unapplying and Reversing Transactions
 You may have applied a payment to the wrong invoice, made a payment to the wrong customer, completed the wrong transaction to a customer, and so on; in all of these cases, Garage Hive provides a way to have the transactions corrected or reversed.
 
 ## In this article
