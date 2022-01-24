@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Changing VAT Prod. Posting on Lines
+title: Changing VAT Prod. Posting on Purchase Document Lines 
 ---
 
-# Changing VAT Prod. Posting on Lines
+# Changing VAT Prod. Posting on Purchase Document Lines
 When you have items with different VAT requirements, you can change the **VAT Prod. Posting Group** to apply the appropriate VAT requirement. Here's how:
 1. When you create a **Purchase Invoice** for the items you received, scroll across to the column named **VAT Prod. Posting Group** in the **Lines** FastTab. If it isn't already there, use the [personalisation feature](garagehive-personalising-garagehive.html) to add it.
 
