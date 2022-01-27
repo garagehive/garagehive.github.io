@@ -97,7 +97,7 @@
       url: /docs/garagehive-creating-pool-jobs.html
     - name: Personalisation of Garage Hive
       url: /docs/garagehive-personalising-garage-hive.html       
-- name: Sales
+- name: Workshop Sales
   url: "#"
   subitems:
     - name: Create a Booking
@@ -108,9 +108,9 @@
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
-    - name: Take Payment (Preview) for posted sales documents
+    - name: Take Payment for posted sales documents
       url: /docs/take-payment.html
-    - name: Taking a deposit against a customer account
+    - name: Taking a Deposit Against a Customer Account
       url: /docs/take-payment-deposit.html            
     - name: Cancelling and Correcting a Jobsheet
       url: /docs/garagehive-jobsheet-cancel-and-correct.html
@@ -124,6 +124,18 @@
       url: /docs/garagehive-update-external-document-number.html
     - name: Removing Posting Restrictions 
       url: /docs/garagehive-removing-posting-restrictions.html
+- name: Parts Sales
+  url: "#"
+    - name: Creating a Parts Sales Quote
+      url: /docs/garagehive-creating-sales-quote.html
+    - name: Using Parts Sales Order
+      url: /docs/garagehive-using-parts-sales-order.html
+    - name: Creating a Sales Parts Invoice
+      url: /docs/garagehive-creating-sales-invoice.html
+    - name: Using Parts Sales Return Order
+      url: /docs/garagehive-using-sales-return-order.html
+    - name: Item Substitution Management
+      url: /docs/garagehive-item-substitution-management.html
 - name: Purchasing
   url: "#"
   subitems:
@@ -211,6 +223,8 @@
   subitems:
     - name: How to Use the Schedule 
       url: /docs/garagehive-understanding-the-schedule.html
+    - name: Adding a Resource in the System (Person or Machine)
+      url: /docs/garagehive-adding-a-resource.html
     - name: How To View Service History
       url: /docs/garagehive-how-to-view-service-history.html
     - name: Managing Key Numbers in Garage Hive
