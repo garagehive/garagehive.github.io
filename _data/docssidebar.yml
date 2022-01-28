@@ -376,7 +376,7 @@
       url: /docs/garagehive-finance-reconcile-payments-auto-application.html
     - name: Setting Up Text-to-Account Mapping for Recurring Payments
       url: /docs/garagehive-finance-how-map-text-recurring-payments-accounts-auto-reconcilliation.html
-    - name: How to Process Factored Debt in Garage Hive
+    - name: How to Process Customer Factored Debt in Garage Hive
       url: /docs/garagehive-processing-factored-debt.html
     - name: How to create new Bank Accounts
       url: /docs/garagehive-create-new-bank-account.html
