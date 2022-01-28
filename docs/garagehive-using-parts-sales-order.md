@@ -20,12 +20,12 @@ title: Using Parts Sales Order in Garage Hive
    ![](media/garagehive-parts-sales-order3.gif)
 
 6. When the customer has paid for the parts, select **Posting** from the actions bar and then **Post**. You are given three options: **Ship** if the customer hasn't paid but you have sent the parts to the customer, **Invoice** if the customer has paid but you haven't sent the parts to the customer, and **Ship and Invoice** if the customer has paid and you have sent the parts to the customer. Choose the suitable one for you and click **OK**.
-7. In the next window, select the mode of payment from the customer and enter the amount in the **Amount** field to receive the payment. Click the **Close** button.
+7. In the next window, select the method of payment from the customer and enter the amount in the **Amount** field to receive the payment. Click the **Close** button.
 8. In the next prompt pop-up, confirm the posting date and click **Yes** to continue. The **Sales Order** has been posted successfully. To view the invoice, open it.
 
    ![](media/garagehive-parts-sales-order4.gif)
 
-9. When a customer requests that the parts be fitted to his vehicle, you can generate a **Jobsheet** from the **Sales Order**. First, enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
+9. When a customer requests that the parts be fitted to the vehicle, you can generate a **Jobsheet** from the **Sales Order**. First, enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
 10. Choose **Process** from the actions bar, followed by **Create Jobsheet**.
 11. If you continue without entering a **Vehicle Registration No.**, the system will generate a dummy registration number that you can replace later.
 
