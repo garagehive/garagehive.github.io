@@ -126,6 +126,7 @@
       url: /docs/garagehive-removing-posting-restrictions.html
 - name: Parts Sales
   url: "#"
+  subitems:
     - name: Creating a Parts Sales Quote
       url: /docs/garagehive-creating-sales-quote.html
     - name: Using Parts Sales Order
