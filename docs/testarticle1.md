@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Process Factored Debt in Garage Hive
+title: Test article
 ---
 
 ![](media/garagehive-test1.gif)
