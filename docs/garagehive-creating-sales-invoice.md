@@ -14,7 +14,7 @@ title: Creating a Parts Sales Invoice in Garage Hive
 
    ![](media/garagehive-parts-sales-invoice2.gif)
 
-4. When the customer pays the bill, you can proceed with posting the document and taking payment. Select **Posting** from the actions bar, followed by **Post**. Confirm that you want to **Post**, and then select the mode of payment and enter the amount in the **Amount** field. Click **Close**.
+4. When the customer pays the bill, you can proceed with posting the document and taking payment. Select **Posting** from the actions bar, followed by **Post**. Confirm that you want to **Post**, and then select the method of payment and enter the amount in the **Amount** field. Click **Close**.
 
    ![](media/garagehive-parts-sales-invoice3.gif)
 
