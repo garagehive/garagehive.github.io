@@ -1,14 +1,12 @@
 ---
 layout: docs
-title: Xero API Integration
+title: Xero API Integration Setup
 ---
 {% include youtube.html id="WhGdR_xz9xo" %}
 
-# What you can export via the Xero API
+## What you can export via the Xero API
 
-Garage Hive allows you to export your data to Xero via an API. 
-
-You can export the following
+Garage Hive allows you to export your data to Xero via an API. You can export the following:
 
 * Customer Invoices
 * Customer Credit Memos
@@ -17,11 +15,11 @@ You can export the following
 * Vendor Invoices
 * Vendor Credit memos
 
-**Please note, we currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system**
+> **Note**
+>
+> We currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system.
 
-# Initial Setup
-
-
+## Initial Setup
 To find the setup for the accountancy integration, search for Accountancy Integration Setup 
 
 ![](media/garagehive-export-setup-search.png)
@@ -34,7 +32,9 @@ The typical setup is via document date. Garage Hive users are typically restrict
 
 You can also dictate the state of the document when it is exported to Xero. The choices are Draft, Submitted or Approved. You can have a different option for Sales and Purchase documents.
 
-**Please note, if you plan to export sales receipts/payments the sales documents must be approved**
+> **Note:**
+>
+> If you plan to export sales receipts/payments the sales documents must be approved.
 
 ![](media/garagehive-xero-setup.png)
 
@@ -87,9 +87,9 @@ Select Allow access and a successful integration will be confirmed.
 
 ---
 
-# How to run the export 
+## How to run the export 
 
-Once the set up is complete you can run an export by searching for "Export to Accountancy System" 
+Once the set up is complete you can run an export by searching for **Export to Accountancy System:**
 
 ![](media/garagehive-accountacy-export.png)
 
@@ -99,7 +99,7 @@ Once the set up is complete you can run an export by searching for "Export to Ac
 * **Export Type** - All or New. You can either export **ALL** of the documents within the date range or only the **NEW** documents. Selecting **NEW** will exclude any documents previously exported. This means it is **VITAL** that you keep all previous exported files safe as these can never be re-produced. Once a transaction has been exported it will be flagged and not exported again when using **NEW**
 * **Date From/To** Select your date range
 
-### Catalogs
+## Catalogs
 
 * **Export All Customers** - This will produce an export of every single customer in the system.
 * **Export All Vendors** - This will produce an export of every single vendor in the system. 
