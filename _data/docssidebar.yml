@@ -331,9 +331,11 @@
 - name: Finance & Accountancy
   url: "#"
   subitems:
-    - name: External Accountancy
+    - name: Exporting for External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
-    - name: Xero Integration
+    - name: External Accountancy Integration
+      url: /docs/garagehive-external-accountancy-integration.html
+    - name: Xero Integration Setup
       url: /docs/xero-api-intergration.html
     - name: Xero Integration Errors
       url: /docs/xero-errors.html
@@ -362,7 +364,7 @@
       url: /docs/garagehive-statements-how-to-print.html
     - name: How to Email Statements
       url: /docs/garagehive-statements-how-to-email.html
-    - name: How to Contra Payments
+    - name: How to perform a Customer/Vendor Balancing Payment
       url: /docs/garagehive-contra-payment.html
     - name: How to Apply Payments to Unpaid Sales Documents
       url: /docs/garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html
