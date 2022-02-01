@@ -54,7 +54,7 @@ When the job is finished:
 ## Customer comes to pick up the vehicle 
 When the customer arrives to pick up the vehicle:
 1. Choose the ready for collection tile to see the jobsheets in a list view. 
-2. In the list, you should be able to see: **Jobsheet No**. **Vehicle Reg**, **Make** and **Model**, **Customer Name**, and **Jobsheet Value**; if not, [**Personalise**](garagehive-personalising-garage-hive.html) this to these columns, so that you can tell the customer the details without even opening the jobsheet. 
+2. In the list, you should be able to see: **Jobsheet No**. **Vehicle Reg**, **Make** and **Model**, **Customer Name**, and **Jobsheet Value**; if not, [**Personalise**](garagehive-personalising-garage-hive.html) the list to these columns, so that you can tell the customer the details without even opening the jobsheet. 
 3. Print the jobsheet/invoice to give to the customer (if necessary). 
 4. [**Take payment and Post the Jobsheet**](garagehive-jobsheet-taking-payment.html).
 
