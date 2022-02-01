@@ -6,7 +6,10 @@ title: Recommended Customer Workflow
 # Recommended Customer Workflow 
 Starting with the customer's inquiry, Garage Hive gives the business a complete workflow to follow until the customer's job is completed. Here's a quick overview of how to use Garage Hive from the customer's inquiry: 
 
-## Customers calls your garage 
+## Customers calls your garage
+
+   ![](media/garagehive-customer-workflow1.png)
+
 When a customer calls your company, they might be calling to: 
 1. **Request for a quote** - Create a quote for the customer using [**Estimates**](garagehive-create-an-estimate.html) and send it to them via email or [**Customer Online Authorisation**](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html). 
 
@@ -20,7 +23,9 @@ The following are the crucial steps to do when a customer brings their vehicle i
 2. Mark the vehicle as being on-site. 
 3. [**Assign a Key/Bin Number**](garagehive-managing-key-numbers-in-the-system.html) to the vehicle's key. 
 4. Check that the customer's information is correct, including phone number, name, and address. 
-5. A technician should be allocated the vehicle. 
+5. A technician should be allocated the vehicle.
+
+   ![](media/garagehive-customer-workflow2.png)
 
 ## Vehicle is handed over to the technician 
 When the technician receives the vehicle, he or she needs to: 
@@ -29,12 +34,16 @@ When the technician receives the vehicle, he or she needs to:
 3. Do the [**Vehicle Inspection**](garagehive-technicians-vehicle-inspections.html) using the checklist templates, adding notes and images to the vehicle inspection template. 
 4. When they are finished, they clock out of the job after confirming that everything has been captured as planned. 
 
+   ![](media/garagehive-customer-workflow3.png)
+
 ## Vehicle Inspection Estimate and Authorisation 
 The service advisor can now create a [**Vehicle Inspection Estimate**](garagehive-VHC.html) and communicate it with the customer via the [**Customer Online Authorisation**](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) for approval on the job.
 
 <br>
 
-When the work is [**Approved**](garagehive-online-documents-what-happens-for-customers-actions.html), a new allocation is created by [**Copying the Authorized**](garagehive-jobsheet-create.html) groups from the VIE (Vehicle Inspection Estimate), a jobsheet is created, and the technician can begin working on the allocation. 
+When the work is [**Approved**](garagehive-online-documents-what-happens-for-customers-actions.html), a new allocation is created by [**Copying the Authorized**](garagehive-jobsheet-create.html) groups from the VIE (Vehicle Inspection Estimate), a jobsheet is created, and the technician can begin working on the allocation.
+
+   ![](media/garagehive-customer-workflow4.png)
 
 ## Job is completed 
 When the job is finished:
@@ -42,9 +51,13 @@ When the job is finished:
 2. Call, email, or SMS the customer to let them know the job is finished and they may come pick up their vehicle. 
 3. Change the jobsheet's status from finished to ready for collection. 
 
+   ![](media/garagehive-customer-workflow5.png)
+
 ## Customer comes to pick up the vehicle 
 When the customer arrives to pick up the vehicle:
 1. Choose the ready for collection tile to see the jobsheets in a list view. 
 2. In the list, you should be able to see: **Jobsheet No**. **Vehicle Reg**, **Make** and **Model**, **Customer Name**, and **Jobsheet Value**; if not, [**Personalise**](garagehive-personalising-garage-hive.html) this to these columns, so that you can tell the customer the details without even opening the jobsheet. 
 3. Print the jobsheet/invoice to give to the customer (if necessary). 
-4. [**Take payment and Post the Jobsheet**](garagehive-jobsheet-taking-payment.html). 
+4. [**Take payment and Post the Jobsheet**](garagehive-jobsheet-taking-payment.html).
+
+   ![](media/garagehive-customer-workflow6.png)
