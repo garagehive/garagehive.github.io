@@ -3,28 +3,47 @@ layout: docs
 title: Archived Documents 
 ---
 
-#   Archived Documents 
+# Archived Documents 
+You can archive purchase orders, estimates, jobsheets, checklists, and so on if you want to save a copy of a document for later use.
 
-{% include youtube.html id="mFmimPCl9ns" %}
+### Types of Archived Documents
+1. Archived **Estimates** and **Vehicle Inspection Estimates**:
+   - An **Estimate** or a **Vehicle Inspection Estimate** is archived when you delete it.
+   - An archived estimate can be copied to another document using [**Copy Document**](garagehive-copydocument.html) function.
+   - Using the **Restore** action from the archived document, you can restore the archived **Estimate** or **Vehicle Inspection Estimate**, where the original still exists and it's not posted.
 
-Whenever a document is deleted, this is not gone forever. It is placed into the relevant archived file. 
+      ![](media/garagehive-restore-estimate.png)
 
-You can archive sales and purchase orders, quotes, return orders, and blanket orders, and you can use the archived document to restore the document that it was archived from.
+2. Archived **Jobsheets** and **Return Jobsheets**:
+   - A **Jobsheet** or **Return Jobsheet** can be archived by deleting it or by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
 
-You can archive sales and purchase orders, quotes, return orders, and blanket orders, for example because you want to save a copy of a document for reuse later. You can archive a sales or purchase document several times, saving a different archived version each time.
+      ![](media/garagehive-archive-jobsheets.png)
+      
+   - An archived jobsheet can be copied to another document using [**Copy Document**](garagehive-copydocument.html) function.
+   - Using the **Restore** action from the archived document, you can restore the archived **Jobsheet** or **Return Jobsheet**, where the original still exists and it's not posted.
 
-For archived documents where the original still exists and is not posted, you can use the **Restore** function to overwrite the original with the archived version of the document. This is practical if you need to restore the contents of a document to an earlier state.
+3. Archived **Checklists**:
+   - A **Checklist** can be archived by deleting it or by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
 
-For archived documents where the original is deleted, you can only reuse the content by copying the data, for example with the **Copy Document** function.
+      ![](media/garagehive-archive-checklists1.png)
 
-####    Types of Archived Documents 
+   - You can print or send an archived checklist by selecting **Print** from the actions bar, followed by **Print Vehicle Inspection** or **Email**.
 
--   Archived Estimates 
-*   Archived Jobsheets
+      ![](media/garagehive-archive-checklists2.png)
 
-*   Archived VHC
+4. Archived **Purchase Orders**:
+   - A **Purchases Order** can be archived by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
 
-*   Archived Checklists 
+      ![](media/garagehive-archive-purchase-order.png)
 
-*   Archived Purchase Orders 
+   - You can print an archived purchase order by selecting **Related** from the actions bar, followed by **Version**, and then **Print**.
+
+      ![](media/garagehive-archive-purchase-order2.png)
+
+
+<br>
+
+### **See Also**
+[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html)
+https://www.youtube.com/watch?v=mFmimPCl9ns
 
