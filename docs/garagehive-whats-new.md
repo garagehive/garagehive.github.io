@@ -26,7 +26,7 @@ Below is a brief list of Garage Hive developments:
   - Take payment wizard on the Parts Sales Admin role centre.
   - Default lines layout for sales orders and sales quote.
   - Card and item history overviews actions to lines in sales orders and quotes.
-* Added item substitution management function, with the following developments:
+* Added [item substitution management](garagehive-item-substitution-management.html) function, with the following developments:
   - The display of 🔃 in line checker on jobsheets if item has substitutions.
 
      ![](media/garagehive-item-substitute.png)
