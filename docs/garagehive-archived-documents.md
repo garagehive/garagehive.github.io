@@ -44,6 +44,6 @@ You can archive purchase orders, estimates, jobsheets, checklists, and so on if 
 <br>
 
 ### **See Also**
-[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html)
-https://www.youtube.com/watch?v=mFmimPCl9ns
+[How to access posted and archived documents](https://www.youtube.com/watch?v=mFmimPCl9ns)
+
 
