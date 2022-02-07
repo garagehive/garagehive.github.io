@@ -39,16 +39,7 @@ title: How to perform a Customer/Vendor Balancing Payment
 
 6. Please note, the values are not likely to match, you must adjust the higher value down to match otherwise the journal won't balance. The below journal results in the customer and vendor balances reducing by £500, leaving the remaining balance to be physically paid. Once you are happy with journal, select **Post/Print** from actions bar, and then **Post**. 
 
-| Posting Date | Document Type | Document No. | Account Type |  Account No. | Account Name | Description | Amount | Applies-To-Doc.No. |
-| :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |:----------- | :----- | :----------- |
-| 12/06/2019 | Payment | GJ000004 | Customer | C00005 | Alex Lindley | Alex Lindley | -500.00 | SJ000093 |
-| 12/06/2019 | Payment | GJ000004 | Vendor | PARTSDIRECT001 | Parts Direct | Parts Direct | 500.00 | PPINV108028 |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| Account Name |  | Bal. Account Name |  |  |  |  | Balance | Total Balance |
-| Parts Direct |  |  |  |  |  |  | 0.00 | 0.00 |
-
+   ![](media/garagehive-document-contra.png)
 
 **Second Method:**
 1. If the payments aren't being directly applied to a document then the second method must be used. The second method utilises a balancing account, usually some form of suspense account to transfer the payment from customer to vendor. 
@@ -64,15 +55,7 @@ title: How to perform a Customer/Vendor Balancing Payment
    * Bal. Account Type
    * Bal. Account No. 
 
-| Posting Date | Document Type | Document No. | Account Type |  Account No. | Account Name | Description | Amount | Balance Account Type | Balance Account No. |
-| :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |:-----------| :----------- | :----------- | :----------- |
-| 12/06/2019 | Payment | GJ000004 | Customer | C00005 | Alex Lindley | Alex Lindley | -500.00 | G/L Account | 2998 |
-| 12/06/2019 | Payment | GJ000004 | Vendor | PARTSDIRECT001 | Parts Direct | Parts Direct | 500.00 | G/L Account | 2998 |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-| Account Name |  | Bal. Account Name |  |  |  |  |  | Balance | Total Balance |
-| Parts Direct |  | Suspense Account  |  |  |  |  |  | 0.00 | 0.00 |
+   ![](media/garagehive-contra-payment.png)
 
 
 
