@@ -9,7 +9,7 @@ This article will list the improvements that come with the November 2021 upgrade
 
 ## Dimension corrections (for G/L Entries)
 
-**Garage Hive Operation:** Working with dimensions
+**Garage Hive Operation:** [Working with dimensions](garagehive-understanding-dimensions-in-business-central.html)
 <br>
 
 **Feature Details**: On the General Ledger Entries page, the Correct Dimensions action lets you correct dimensions on posted entries by editing the dimension value, adding new dimensions, or removing them. Administrators can also lock dimensions for corrections, specify that corrections must respect closed accounting periods, and view a change log for a given G/L entry in order to revert the entry to its original value.

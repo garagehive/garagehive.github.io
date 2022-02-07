@@ -202,7 +202,9 @@
     - name: Vehicle Card Contents
       url: /docs/garagehive-vehicle-card.html
     - name: Customising vehicle reminder dates
-      url: /docs/garagehive-customising-vehicle-reminder-dates.html      
+      url: /docs/garagehive-customising-vehicle-reminder-dates.html
+    - name: Understanding Dimensions in Business Central
+      url: /docs/garagehive-understanding-dimensions-in-business-central.html     
 - name: Technicians Operations
   url: "#"
   subitems:
