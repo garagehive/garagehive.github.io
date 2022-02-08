@@ -57,5 +57,5 @@ title: How to perform a Customer/Vendor Balancing Payment
 
    ![](media/garagehive-contra-payment.png)
 
-
+7. Once you are happy with journal, select **Post/Print** from actions bar, and then **Post**. 
 
