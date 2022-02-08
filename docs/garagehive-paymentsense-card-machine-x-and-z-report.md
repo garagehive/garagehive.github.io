@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Generating Paymentsense Card Machine End of Day, X and Z Report
+title: Generating Paymentsense Card Machine End of Day, X Balance and Z Balance Report
 ---
 
 # Generating Paymentsense Card Machine End Of Day, X and Z Report
@@ -16,17 +16,18 @@ Garage Hive provides the following reports from the payments received for via th
 
    ![](media/garagehive-card-machine-reports1.gif)
 
-2. Under the **GroupName** FastTab, select the card machine in the **Card Machine**, followed by the **Report Type**; in this case **X Balance** report and then click **OK**. The report will be generated.
+2. Under the **GroupName** FastTab, select the payment machine to take the report from in the **Card Machine** field, followed by the **Report Type**; in this case **X Balance** report and then click **OK**. The report generated will show you the card transactions and the totals up to the time of processing the report. This report can be generated severally.
 
-   ![](media/garagehive-card-machine-reports1.gif)
+   ![](media/garagehive-card-machine-reports2.gif)
 
-3. To generate the **Z Balance** report, select **Z Balance** in the **Report Type** field, and click **OK**. The report will be generated.
+3. To generate the **Z Balance** report, select **Z Balance** in the **Report Type** field, and click **OK**. The report generated will show the card transactions and the day's totals, and reset the machine for the next day.
 
-   ![](media/garagehive-card-machine-reports1.gif)
+   ![](media/garagehive-card-machine-reports3.gif)
 
-4. To generate the **Banking** report, select **Banking** in the **Report Type** field, and click **OK**. The report will be generated.
+4. To generate the **Banking** report, select **Banking** in the **Report Type** field, and click **OK**. The report generated will show you current banking totals from the bank.
 
-   ![](media/garagehive-card-machine-reports1.gif)
+   ![](media/garagehive-card-machine-reports4.gif)
 
 5. To generate the **End of Day** report, select **End of Day** in the **Report Type** field, and click **OK**. The report will be generated.
 
+   ![](media/garagehive-card-machine-reports5.gif)
