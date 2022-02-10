@@ -7,15 +7,15 @@ title: How to Process Factored Debt in Garage Hive
 
 > **Important:**
 >
-> Because this is an accounting issue, please consult with your accountant about how they would like to handle factored debt.
+> Because this is an accounting issue, please consider sending this documentation to your accountant for approval and/or comments.
 
 **Debt Factoring** is an external, short-term source of finance for a business. With **Debt Factoring**, the business raises cash by selling their outstanding sales invoices (receivables) to a third party (a factoring company) at a discount. Here is how to process a factored debt in Garage Hive:
-1. Suppose you have a customer who owes the company £802, and then you transfer the money to a factoring company, in this case **Payment Assist**. So now **Payment Assist** now owes you £802 and the customer owes **Payment Assist**.
-2. In the agreement, **Payment Assist** pays the company £650, leaving a balance of £152, which is now the commission  **Payment Assist**. Now you need to process the balance as a commission for **Payment Assist**.
+1. Suppose you have a customer who owes the company £802, and then you transfer the money to a factoring company, in this case **Payment Assist**. So, now **Payment Assist** now owes you £802 and the customer owes them.
+2. In the agreement, **Payment Assist** pays the company £650, leaving a balance of £152 as its commission; You may now process the balance as the commission.
 
    ![](media/garagehive-processing-factored-debt1.png)
 
-3. To begin, [create an **Item** card](garagehive-create-an-item-card.html) as **Payment Assist Commission**, make it a **Non-Inventory**, and add an **Item Category Code**; you can name it **PAYMENTASSIST** to distinguish it from other item category codes. If you have more than one factoring company, create a separate item card for each.
+3. To begin, use the **Payment Assist Commission** item card available in the items list, or [create an **Item** card](garagehive-create-an-item-card.html) with this setup; make it a **Non-Inventory**, and add an **Item Category Code** (**PAYMENTASSIST**) to distinguish it from other item category codes. If you have more than one factoring company, create a separate item card for each.
 4. The **Posting Details** should be the same as the rest of the item cards.
 
    ![](media/garagehive-processing-factored-debt2.png)
