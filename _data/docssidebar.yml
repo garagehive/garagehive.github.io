@@ -337,6 +337,8 @@
       url: /docs/garagehive-finance-accountancy-export.html
     - name: External Accountancy Integration
       url: /docs/garagehive-external-accountancy-integration.html
+    - name: Generating Paymentsense Card Machine Reports
+      url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
     - name: Xero Integration Setup
       url: /docs/xero-api-intergration.html
     - name: Xero Integration Errors
