@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: External Accountancy Integration in Garage Hive
+title: How to Integrate Garage Hive With Your External Accountancy System
 ---
 
-# External Accountancy Integration in Garage Hive
-To integrate an external accountancy system to Garage Hive:
+# How to Integrate Garage Hive With Your External Accountancy System
+To integrate your external accountancy system with Garage Hive:
 1. In the top-right corner, enter **Accountancy Integration Setup** in the search icon, and select the related link.
 2. Select the accountancy system that you are using in the **General** FastTab, **Accountancy System** field. We'll use **QuickBooks Online** as an example.
 
@@ -27,6 +27,11 @@ To integrate an external accountancy system to Garage Hive:
    ![](media/garagehive-external-accountancy-integration4.gif)
 
 8. In the **External System No.** column, enter the account numbers for the accounts you want to integrate with the external system. In this case, we'll integrate all of the **4000s** accounts.
+
+   > **Note:**
+   >
+   > Typically only the **4000's and 5000's** accounts are needed.
+
 
    ![](media/garagehive-external-accountancy-integration5.gif)
 
