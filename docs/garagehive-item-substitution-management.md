@@ -21,11 +21,15 @@ To setup **Item Substitution**:
 
    ![](media/garagehive-item-substitution2.gif)
 
-3. Fill out the **Item Substitution Entry** page with the substitute item(s). When finished, close the page. The item now has substitutes that can be used in its place.
+3. Fill out the **Item Substitution Entry** page with the substitute item(s).
 
    ![](media/garagehive-item-substitution3.gif)
 
-4. If you want to know which items have a substitute, look at the **Substitutes Exist** column in the items list. If the column is not available, you can add it by [personalising](garagehive-personalising-garagehive.html#adding-fields-to-pages) the page.
+4. If the **Substitute** item you are adding can be used Interchangeably with the primary item, select the **Interchangeable** check box.
+
+   ![](media/garagehive-item-substitution3a.gif)
+
+5. If you want to know which items have a substitute, look at the **Substitutes Exist** column in the items list. If the column is not available, you can add it by [personalising](garagehive-personalising-garagehive.html#adding-fields-to-pages) the page.
 
    ![](media/garagehive-item-substitution4.png)
 

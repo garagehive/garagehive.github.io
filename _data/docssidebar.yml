@@ -130,8 +130,6 @@
       url: /docs/garagehive-creating-sales-quote.html
     - name: Using Parts Sales Order
       url: /docs/garagehive-using-parts-sales-order.html
-    - name: Creating a Sales Parts Invoice
-      url: /docs/garagehive-creating-sales-invoice.html
     - name: Using Parts Sales Return Order
       url: /docs/garagehive-using-sales-return-order.html
     - name: Item Substitution Management
