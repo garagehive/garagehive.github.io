@@ -4,8 +4,10 @@ title: Using Parts Sales Return Order in Garage Hive
 ---
 
 # Using Parts Sales Return Order in Garage Hive
-**Parts Sales Return Order** is the document you create to compensate your customers for incorrect or damaged parts that you sent to them and received payment for. **Parts Sales Return Order** allows you to receive parts from multiple sales documents with a single sales return and automatically create related **Parts Sales Credit Memo**. Here's how to use the **Parts Sales Return Order** in Garage Hive:
-1. Select **Sales** from the navigation menu, followed by **Sales Return Order** in the **Parts Sales Admin** role centre.
+**Parts Sales Return Order** is the document used to credit items sold to customers. **Parts Sales Return Order** allows you to receive parts from multiple sales documents with a single sales return and automatically create related **Parts Sales Credit Memo**. 
+
+Here's how to use the **Parts Sales Return Order** in Garage Hive:
+1. Select **Sales Return Orders** tile from the **Parts Sales Admin** role centre.
 2. From the **Sales Return Order** list page, select **New** from the actions bar.
 3. Enter the customer's name in the **Customer Name** field.
 
