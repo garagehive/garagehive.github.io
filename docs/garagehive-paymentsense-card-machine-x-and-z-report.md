@@ -27,4 +27,4 @@ If you have an integrated **Paymentsense Card Machine** you can print the follow
 
 [How to perform a Customer/Vendor Balancing Payment](garagehive-contra-payment.html) \
 [Working with Payment Reconciliation Journals](garagehive-payment-reconciliation-journals.html) \
-[How to create Bank Accounts](garagehive-create-new-bank-account.html) \
+[How to create Bank Accounts](garagehive-create-new-bank-account.html)
