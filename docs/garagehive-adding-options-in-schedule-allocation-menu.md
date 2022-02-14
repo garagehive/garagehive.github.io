@@ -28,7 +28,7 @@ To add a new option:
 
    ![](media/garagehive-schedule-allocation-menu4.gif)
 
-9.  When you make a booking and choose the new allocation, the jobsheet will be created with the selected **Service Type** and, if applicable, the linked **Service Package** will be added automatically.
+9.  When you make a booking and choose the new allocation, the jobsheet will be created with the selected **Service Type** and, if applicable, the linked **Service Package** will be added automatically once the **Vehicle Reg.** and **Customer** have been applied.
 
    ![](media/garagehive-schedule-allocation-menu5.gif)
 
