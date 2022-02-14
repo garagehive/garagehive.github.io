@@ -26,21 +26,21 @@ When you don't need to create a new jobsheet, you can use the **Cancel Document*
    ![](media/garagehive-cancel-jobsheet3.gif)
 
 ### Correcting a jobsheet
-The **Correct** function is used to make changes to an existing Jobsheet and enter the correct data. Follow these instructions to correct a jobsheet:
+The **Correct** function is used to make changes to a posted Jobsheet and enter the correct data. Follow these instructions to correct a jobsheet:
 1. Select the **Posted & Archived Documents** from the role centre, and choose **Posted Jobsheets**.
 2. Within the **Posted Jobsheets** page, **Search** for the Jobsheet to cancel or select from the list. 
 
    ![](media/garagehive-correct-jobsheet1.gif)
 
-3. To correct a jobsheet, open it and choose **Correct** from the actions bar, then **Correct Document** from the drop-down menu. You'll receive a notification confirming that the **Posted Jobsheet** will be cancelled and a new version of the Jobsheet will be created for you to make the correction; select **Yes**.
-
+3. To correct a jobsheet, open it and select **Correct** from the actions bar, then **Correct Document** from the drop-down menu. You'll see a notification confirming that the **Posted Jobsheet** will be cancelled and a new version of the Jobsheet will be created for you to make the correction; select **Yes**.
+4. The mileage is zero notification will appear, along with posting and work date notification; select **Yes** for both.
+5. A credit memo will be generated, as well as a new jobsheet that will be opened.
+   
    ![](media/garagehive-correct-jobsheet2.gif)
 
-4. Select **Yes** when asked if you want to copy the payment information from the previous jobsheet. 
-5. The mileage is zero notification will appear, along with posting and work date notification; select **Yes** for both.
-6. A credit memo will be generated, as well as a new jobsheet that will be opened.
+6. The posted jobsheet will now be indicated as **Cancelled**.
 
-   ![](media/garagehive-correct-jobsheet3.gif)
+   ![](media/garagehive-corrected-jobsheet3.png)
 
 7.  Fill in the details on the newly created jobsheet with the correct information, including the payment method if it was entered incorrectly, and then post it when ready. 
 
