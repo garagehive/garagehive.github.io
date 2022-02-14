@@ -106,6 +106,8 @@
       url: /docs/garagehive-jobsheet-create.html
     - name: Scheduling Work 
       url: /docs/garagehive-understanding-the-schedule.html
+    - name: Adding New Options in the Schedule Allocation Menu
+      url: /docs/garagehive-adding-options-in-schedule-allocation-menu.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
     - name: Take Payment for posted sales documents
