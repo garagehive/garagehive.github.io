@@ -92,7 +92,7 @@
     - name: Customer Self Check-in 
       url: /docs/garagehive-customer-self-check-in.html
     - name: My Notifications
-      url: /docs/my-notifications.html
+      url: /docs/garagehive-my-notifications.html
     - name: Creating Pool jobs
       url: /docs/garagehive-creating-pool-jobs.html
     - name: Personalisation of Garage Hive
