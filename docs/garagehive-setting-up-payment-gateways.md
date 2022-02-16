@@ -35,9 +35,9 @@ Garage Link is for online payments. To setup payment by **Garage Link**:
 1. Copy the **Website Address** from the page that appears and paste it into the **Merchant URL** in the Garage Hive’s **Payment Gateway Card**.
 1.  Then, copy the **JWT Token** and paste it in the **Gateway JWT Token** field of the Garage Hive’s **Payment Gateway Card**.
 
-   ![](media/garagehive-payment-gateways7.png)
+     ![](media/garagehive-payment-gateways7.png)
 
-   ![](media/garagehive-payment-gateways8.png)
+     ![](media/garagehive-payment-gateways8.png)
 
 1. Choose **SMS and Email** as the **Default Notification Type** and **Manual** as the **Notification Source Code** from the **Payment Gateway Card**.
 1. You can add internal user email address(es) in the **Payment Notification Emails** that the system will use to notify the user(s) when the customer makes a payment.
