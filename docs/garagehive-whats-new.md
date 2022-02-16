@@ -5,6 +5,15 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 15th February 2022
+* Improvement on the Technician Jobsheet:
+    - Group Items added into the Technician Jobsheet in read-only mode.
+    - Group description column added in the lines.
+    - Added a function within the Technician Jobsheet to mark all lines within a group as Tech confirmed.
+* Added the **Print Put-Away List** action to **Print/Send** menu in Purchase Orders and Purchase Invoices, which shows the list of items to be purchased and their shelf number.
+
+   ![](media/garagehive-put-away-list-po.png)
+
 ### 18th January 2022
 * The Autodata Service Interval Matrix now only has a tick on the replaceable items.
 * Move Up/Move Down actions have been added to the line control shortcut menu for Group Items lines.
