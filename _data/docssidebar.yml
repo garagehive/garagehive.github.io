@@ -115,7 +115,7 @@
     - name: Taking a Deposit Against a Customer Account
       url: /docs/take-payment-deposit.html
     - name: How to Print or Email Customer Payment Receipt
-      url: garagehive-print-email-customer-payment-receipt.html            
+      url: /docs/garagehive-print-email-customer-payment-receipt.html            
     - name: Cancelling and Correcting a Jobsheet
       url: /docs/garagehive-jobsheet-cancel-and-correct.html
     - name: Create a Return Jobsheet
