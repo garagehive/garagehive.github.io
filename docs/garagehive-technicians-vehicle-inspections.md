@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: How to perform in Vehicle Inspection Checklist
+title: How to perform a Vehicle Inspection Checklist as a Technician
 ---
-# How to perform in Vehicle Inspection Checklist as a technician
+# How to perform a Vehicle Inspection Checklist as a Technician
 
 {% include youtube.html id="BBjOZrxbzPs" %}
 

@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: How to Print or Email Customer Receipt
+title: How to Print or Email Customer Payment Receipt
 ---
 
-# How to Print or Email Customer Receipt
+# How to Print or Email Customer Payment Receipt
 You can print or email a customer payment receipt from **Take Payment** function or from the **Customer Ledger Entries**:
 
 ### From take payment function
