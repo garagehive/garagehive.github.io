@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Take Payment for Posted Sales Documents
+title: Take Payment for Posted Documents
 ---
 
-# Take Payment for Posted Sales Documents
+# Take Payment for Posted Documents
 
 See the video below or follow the written instructions to take payments for posted sales documents.
 
@@ -42,3 +42,9 @@ See the video below or follow the written instructions to take payments for post
 9. If you have an integrated card terminal and have chosen a card payment method, the **Lump Payment** option will be selected by default. This means that if you choose to post this Payment, the card terminal will be triggered and the entry will be posted if the Payment is successful. 
 
    ![](media/take-payment-post-card.png)
+
+<br>
+
+### **See Also**
+
+[Video: Take Payment for Posted Documents](https://www.youtube.com/watch?v=akx2eeBwRIo)
