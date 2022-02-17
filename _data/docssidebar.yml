@@ -110,7 +110,7 @@
       url: /docs/garagehive-adding-options-in-schedule-allocation-menu.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
-    - name: Take Payment for posted sales documents
+    - name: Take Payment for Posted Documents
       url: /docs/take-payment.html
     - name: Taking a Deposit Against a Customer Account
       url: /docs/take-payment-deposit.html            
@@ -257,7 +257,7 @@
       url: /docs/garagehive-items-to-return.html
     - name: Time Registration Entries
       url: /docs/garagehive-time-registration-entries.html
-- name: Payments 
+- name: Posted and Archived Documents 
   url: "#"
   subitems:
     - name: Posted Documents 
@@ -338,6 +338,8 @@
       url: /docs/garagehive-finance-accountancy-export.html
     - name: External Accountancy Integration
       url: /docs/garagehive-external-accountancy-integration.html
+    - name: Setting up Payment Gateways
+      url: /docs/garagehive-setting-up-payment-gateways.html
     - name: Generating Paymentsense Card Machine Reports
       url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
     - name: Xero Integration Setup
