@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Recommended Customer Workflow
+title: Garage Hive's Recommended Customer Workflow
 ---
 
-# Recommended Customer Workflow 
+# Garage Hive's Recommended Customer Workflow 
 Starting with the customer's inquiry, Garage Hive gives the business a complete workflow to follow until the customer's job is completed. Here's a quick overview of how to use Garage Hive from the customer's inquiry: 
 
 ## Customers calls your garage
