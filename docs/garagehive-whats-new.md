@@ -5,6 +5,20 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 22nd February 2022
+* Online Job Authorisation Item layout changes, where:
+    - The first few lines of the description are now always visible with a "Read More" option to see everything.
+    - Group pictures are visible always.
+    - Alternative Groups are visible right away.
+
+        ![](media/garagehive-online-job-authorisation-changes1.png)
+
+    - On mobile view --OR-- is added to separate alternatives.
+
+        ![](media/garagehive-online-job-authorisation-changes2.png)
+
+* Added location filter to booking confirmation and booking reminders.
+
 ### 15th February 2022
 * Improvement on the Technician Jobsheet:
     - Group Items added into the Technician Jobsheet in read-only mode.

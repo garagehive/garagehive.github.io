@@ -53,11 +53,11 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
    ![](media/garagehive-checklists-group-example1.png)
 
-1. To create new **Checklist Items** for the **Checklist Template Item Group** that you have created, select the three dots at the actions bar (when the **Checklist Item Group** is selected), and then **Items**.
+1. To create new **Checklist Items** for the **Checklist Template Item Group** that you have created, select the three dots at the actions bar, and then **Items**.
 
    ![](media/garagehive-checklist-setup5.gif)
 
-1. The following is what needs to be setup in the **Checklist Items** page:
+2. The following is what needs to be setup in the **Checklist Items** page:
       * **No.** - Each line must have a number, this is the order in which the questions will appear. 
       * **Description** - The caption is what will appear on the line of the questions.
       * **Item Type** - Choose from either Line (a title) or Control (an entry).
@@ -69,7 +69,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
       * **Default Value** - You can populate a field with a default value to determine which radio button is pre-ticked.
       * **Attention If Has Value** Ticking this box will allow the Advisor to see from the list of checklists if any particular checklist requires attention. Any entry on a line with this ticked will flag a checklist.
 
-1. To add **Checklist Items** lines, use the available template from the actions bar by selecting **New Line From Template**. This provides you with the following templates:
+3. To add **Checklist Items** lines, use the available template from the actions bar by selecting **New Line From Template**. This provides you with the following templates:
       * **Checkbox**
             
          ![](media/garagehive-checklist-checkbox.png)
@@ -86,15 +86,15 @@ A Checklist Template is considered the header of the Checklist. To view and crea
             
          ![](media/garagehive-two-small-textboxes.png)
 
-1. Add the templates according to the question or information required:
+4. Add the templates according to the question or information required:
 
    ![](media/garagehive-checklist-setup6.gif)
 
-1. After adding the **Checklist Items** ensure you link it to the **Checklist Item Group**, by clicking  the **OK** button in the **Select - Checklist Item Groups** page.
+5. After adding the **Checklist Items** ensure you link it to the **Checklist Item Group**, by clicking  the **OK** button in the **Select - Checklist Item Groups** page.
 
    ![](media/garagehive-checklist-setup7.gif)
 
-1. The **Checklist Template** is now ready to use. Create a new **Checklist** and select the **Checklist Template** you have created as the **Template Code**.
+6. The **Checklist Template** is now ready to use. Create a new **Checklist** and select the **Checklist Template** you have created as the **Template Code**.
 
    ![](media/garagehive-checklist-setup8.gif)
 
