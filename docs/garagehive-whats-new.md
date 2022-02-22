@@ -17,7 +17,7 @@ Below is a brief list of Garage Hive developments:
 
         ![](media/garagehive-online-job-authorisation-changes2.png)
 
-* Added location filter to booking confirmation and booking reminders.
+* Added location filter to Booking Confirmation and Booking Reminder Customer notifications to be able to differentiate notification by location.
 
 ### 15th February 2022
 * Improvement on the Technician Jobsheet:
