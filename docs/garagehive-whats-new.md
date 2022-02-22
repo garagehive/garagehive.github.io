@@ -5,7 +5,7 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
-### 15th February 2022
+### 22nd February 2022
 * Online Job Authorisation Item layout changes, where:
     - The first few lines of the description are now always visible with a "Read More" option to see everything.
     - Group pictures are visible always.
