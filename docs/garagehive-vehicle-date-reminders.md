@@ -3,14 +3,12 @@ layout: docs
 title: How to Setup Vehicle Date Reminders in Garage Hive
 ---
 
-# How to Setup Vehicle Date Reminders in Garage Hive
-
 ## In this article
-1. [How to set up customer notification](#how-to-set-up-customer-notification)
+1. [How to set up vehicle date reminders](#how-to-set-up-vehicle-date-reminders)
 2. [Writing a message template](#writing-a-message-template)
 3. [Previewing and verifying message template](#previewing-and-verifying-message-template)
-4. [Enabling customer notification and setting recurrence](#enabling-customer-notification-and-setting-recurrence)
-4. [Viewing sent notification messages](#viewing-sent-notification-messages)
+4. [Enabling notification and setting recurrence](#enabling-notification-and-setting-recurrence)
+5. [Viewing sent notification messages](#viewing-sent-notification-messages)
 
 ### How to set up vehicle date reminders
 To set up the vehicle date reminders:
@@ -70,7 +68,7 @@ To see a preview of the messages you've added:
 
    ![](media/garagehive-customer-notifications7-review.gif)
 
-### Enabling customer notification and setting recurrence
+### Enabling notification and setting recurrence
 Scroll down to the **Recurrence** section and select the slider on the days when you want the notification to be sent.
 
    ![](media/garagehive-customer-notifications8-review.gif)
