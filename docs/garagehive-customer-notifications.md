@@ -1,92 +1,66 @@
 ---
 layout: docs
-title: Customer Notifications in Garage Hive
+title: Types of Customer Notifications in Garage Hive
 ---
 
-# Customer Notifications in Garage Hive
+# Types of Customer Notifications in Garage Hive
 
-In Garage Hive, customer notifications are system settings that allow the system to communicate specific information to the customer, such as MOT Reminders, Booking Reminders, Survey Notifications, and so on. These notifications enable the garage owner to engage the customer effectively while also keeping the customer up to date on important information. We'll go over the settings for customer notifications in the system.
+In Garage Hive, customer notifications are system settings that allow the system to communicate specific information to the customer, such as MOT Reminders, Booking Reminders, Survey Notifications, and so on. These notifications enable the garage owner to engage the customer effectively while also keeping the customer up to date on important information. Let's look at the different customer notifications available in Garage Hive.
+
+   ![](media/garagehive-customer-notifications1.png)
 
 ## In this article
-1. [How to set up customer notification](#how-to-set-up-customer-notification)
-2. [Writing a message template](#writing-a-message-template)
-3. [Previewing and verifying message template](#previewing-and-verifying-message-template)
-4. [Enabling customer notification and setting recurrence](#enabling-customer-notification-and-setting-recurrence)
-4. [Viewing sent notification messages](#viewing-sent-notification-messages)
+1. [Vehicle date reminder notification](#vehicle-date-reminder-notification)
+2. [Booking reminder notification](#booking-reminder-notification)
+3. [Booking confirmation notification](#booking-confirmation-notification)
+4. [Survey notification](#-urvey-notification)
+4. [Checklist notification](#checklist-notification)
+5. [Job authorisation notification](#job-authorisation-notification)
 
-### How to set up customer notification
-To set up the customer notification:
-1. Search for **Customer Notifications** in the top right corner and select it from the results.
-2. The window that appears displays a list of all the customer notifications that have been previously set up.
+### Vehicle date reminder notification
+**Vehicle Date Reminder** notifications are used in the system when you need to notify the customer about upcoming due dates for recurring work on their vehicle, such as MOT reminders, service reminders, and so on.
+Here is an example of an **MOT Reminder** notification setup.
 
-   ![](media/garagehive-customer-notifications1.gif)
+   ![](media/garagehive-customer-notifications2.png)
+   
+Check out [this article](garagehive-customising-vehicle-reminder-dates.html) to learn more about setting up and using **Vehicle Date Reminders**.
 
-3. You can modify existing customer notifications or create new ones. We'll make a new one to help you understand customer notifications better.
-4. To create a new notification, click **+New**.
-5. From the **General** FastTab, begin by assigning a code to the customer notification in order to identify it in the system. In this case, we'll set up an **MOT Reminder**. So, we'll enter **MOT Reminder** in the field **Code**.
-6. Add the **Description** field as well, which populates the **Display Description** field but can be changed.
+### Booking reminder notification
+**Booking Reminder** notifications are used in the system to send reminders to customers the day before their previously made booking. This helps customers remember their booking and show up on time; if there are any changes, they communicate in advance.
+Here is an example of a **Booking Reminder** notification setup.
 
-   ![](media/garagehive-customer-notifications2.gif)
+   ![](media/garagehive-customer-notifications3.png)
 
-7. The next step is to add the **Type** of notification to the system. The type of notification is usually predefined in the system; in this case, select **Vehicle Date Reminder** from the available options.
-8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **negative sign**, for which the notification should be sent from the system before the due date. For example, adding **-1W** indicates that the notification will be sent out one week before the due date. If you add the number of days without a **negative sign**, the notification will be sent after the due date.
+See [this article](garagehive-booking-reminders.html) to learn more on how to setup and use the **Booking Reminder** notification.
 
-   ![](media/garagehive-customer-notifications3.gif)
+### Booking confirmation notification
+**Booking Confirmation** notifications are used in the system to send confirmations to customers right after they make a booking. The confirmation is sent to the customer to ensure that the customer is aware that the booking has been made successfully and to possibly share the details of the booking.
+Here is an example of a **Booking Confirmation** notification setup.
 
-9. The following fields are set in the section titled **Vehicle Date Reminder**:
-   * **Vehicle Field** - specifies the date from which the reminder date is calculated.
-   * **Scheduled Time** - specifies the time at which the customer notification will be sent.
-   * **Vehicle History Formula** - specifies the time period for which the system will look up the customer's service history; if no service history is found within that time frame, the notification is not sent. For example, adding **-18M** searches any service history for the last 18 months till today.
+   ![](media/garagehive-customer-notifications4.png)
 
-   ![](media/garagehive-customer-notifications4.gif)
+See [this article](garagehive-booking-confirmation.html) to learn more on how to setup and use the **Booking Confirmation** notification.
 
-10. The following criteria are set in the section titled **Existing Jobsheet Criteria**: 
-   * **Service Type Filter** - Specifies the types of services for which the customer notification will not be sent if the services are booked.
-* **Service Type Count** - Indicates the number of service types that have been selected so that no customer notification is sent when they are booked.
-* **Labour Count** - indicates the number of labour services selected so that no customer notification is sent when they are booked.
+### Survey notification
+**Survey Notification** is a system notification that automatically sends a survey link to customers right after their job is completed. Surveys help in determining the NPS score, which is a measure of customer loyalty and satisfaction.
+Here is an example of a **Survey Notification** setup.
 
-    ![](media/garagehive-customer-notifications5.gif)
+   ![](media/garagehive-customer-notifications5.png)
 
-> **Note:**
->
-> Each **Customer Notification Type** in the system has a different setup depending on how it operates.
+See [this article](garagehive-surveys-setting-up-customer-surveys.html) to learn more on how to setup and use the **Survey Notification**.
 
-### Writing a message template
-After setting up the details above, it's time to create the message that will be sent to the customer. To add a message template, follow the steps below:
-1. You can either send a message via the email or the SMS or both. There are two sections to set up the messages for SMS and email.
-2. In each section, there is a field called **Field Tags** that defines the specific tags to use in the message template, so that the tagged field is automatically added to the text based on the service document selected. Some examples are as follows:
-   * **[CustName]** - When included in the message template, the **Customer's Name** from the service document is automatically added in the message.
-   * **[VehReg]** - When included in the message template, the **Vehicle Registration No.** from the service document is automatically added in the message.
-   * **[Make]** - When included in the message template, the **Vehicle Make** from the service document is automatically added in the message.
-   * **[Model]** - When included in the message template, the **Vehicle Model** from the service document is automatically added in the message.
-   * **[DueDate]** - When included in the message template, the **Due Date** from the service document is automatically added in the message.
-   * **[OptOutURL]** - When included in the message template, the **Opt Out URL** for the notifications is automatically added in the message.
-3. Create a message in the field **SMS Text** and **Email Text**.
+### Checklist notification
+**Checklist Notification** is used to send a link to the online checklist to the customer, this helps to share visual material of the inspection report. 
+Here is an example of a **Checklist Notification** setup.
 
-> **Example:**
->
-> Hello [CustName], This is a reminder that your vehicle [Make] - [VehReg] is due for an MOT on [DueDate] according to our records.
-> To schedule an appointment, please contact a member of our team. [OptOutURL] - Unsubscribe
+   ![](media/garagehive-customer-notifications6.png)
 
-   ![](media/garagehive-customer-notifications6.gif)
+Read [this article](garagehive-checklist-notification.html) to understand more about checklist notification setup and use.
 
-### Previewing and verifying message template
-To see a preview of the messages you've added:
-1. Enable the **Send SMS** and **Send Email** sliders and choose a **Vehicle No.** and **Customer No.** from which you can use the information as a sample. If you are satisfied with the message, click **Yes** for SMS and **OK** for email.
+### Job authorisation notification
+**Job Authorisation Notification** is used to send customers an online authorization link for approval. The customer online authorisation link gives the customer access to the online document, which they can view and approve at their own time.
+Here is an example of a **Job Authorisation Notification** setup.
 
-   ![](media/garagehive-customer-notifications7.gif)
+   ![](media/garagehive-customer-notifications7.png)
 
-### Enabling customer notification and setting recurrence
-Scroll down to the **Recurrence** section and select the slider on the days when you want the notification to be sent.
-
-![](media/garagehive-customer-notifications8.gif)
-
-Then, from the **General** FastTab, enable the notification to make it operational. After enabling the customer notification, it cannot be edited unless it is disabled.
-
-![](media/garagehive-customer-notifications9.gif)
-
-### Viewing sent notification messages
-To see a list of the customer notifications that have been sent, use the search icon in the top-right corner to search for **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent.
-
-![](media/garagehive-customer-notifications10.gif)
-
+Read [this article](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up) to understand more about the **Job Authorisation Notification**.
