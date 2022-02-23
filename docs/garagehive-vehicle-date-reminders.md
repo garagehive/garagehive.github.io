@@ -82,3 +82,8 @@ To see a list of the customer notifications that have been sent, use the search 
 
 ![](media/garagehive-customer-notifications10-review.gif)
 
+
+<br>
+
+### **See Also**
+[Customising Vehicle Reminder Dates](garagehive-customising-vehicle-reminder-dates.html)
