@@ -23,7 +23,7 @@ Here is an example of an **MOT Reminder** notification setup.
 
    ![](media/garagehive-customer-notifications2.png)
    
-Check out [this article](garagehive-customising-vehicle-reminder-dates.html) to learn more about setting up and using **Vehicle Date Reminders**.
+Read [this article](garagehive-vehicle-date-reminders.html) to learn more about setting up and using **Vehicle Date Reminders**.
 
 ### Booking reminder notification
 **Booking Reminder** notifications are used in the system to send reminders to customers the day before their previously made booking. This helps customers remember their booking and show up on time; if there are any changes, they communicate in advance.
@@ -31,7 +31,7 @@ Here is an example of a **Booking Reminder** notification setup.
 
    ![](media/garagehive-customer-notifications3.png)
 
-See [this article](garagehive-booking-reminders.html) to learn more on how to setup and use the **Booking Reminder** notification.
+Read [this article](garagehive-booking-reminders.html) to learn more on how to setup and use the **Booking Reminder** notification.
 
 ### Booking confirmation notification
 **Booking Confirmation** notifications are used in the system to send confirmations to customers right after they make a booking. The confirmation is sent to the customer to ensure that the customer is aware that the booking has been made successfully and to possibly share the details of the booking.
@@ -39,7 +39,7 @@ Here is an example of a **Booking Confirmation** notification setup.
 
    ![](media/garagehive-customer-notifications4.png)
 
-See [this article](garagehive-booking-confirmation.html) to learn more on how to setup and use the **Booking Confirmation** notification.
+Read [this article](garagehive-booking-confirmation.html) to learn more on how to setup and use the **Booking Confirmation** notification.
 
 ### Survey notification
 **Survey Notification** is a system notification that automatically sends a survey link to customers right after their job is completed. Surveys help in determining the NPS score, which is a measure of customer loyalty and satisfaction.
@@ -47,7 +47,7 @@ Here is an example of a **Survey Notification** setup.
 
    ![](media/garagehive-customer-notifications5.png)
 
-See [this article](garagehive-surveys-setting-up-customer-surveys.html) to learn more on how to setup and use the **Survey Notification**.
+Read [this article](garagehive-surveys-setting-up-customer-surveys.html) to learn more on how to setup and use the **Survey Notification**.
 
 ### Checklist notification
 **Checklist Notification** is used to send a link to the online checklist to the customer, this helps to share visual material of the inspection report. 
