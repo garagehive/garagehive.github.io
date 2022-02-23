@@ -13,9 +13,13 @@ Starting with the customer's inquiry, Garage Hive gives the business a complete 
 When a customer calls your company, they might be calling to: 
 1. **Request for a quote** - Create a quote for the customer using [**Estimates**](garagehive-create-an-estimate.html) and send it to them via email or [**Customer Online Authorisation**](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html). 
 
-   or 
+    or 
 
-2. **Inquire about their vehicle having an issue**, such as squeaking brakes - At this point, request that the customer bring the vehicle in so that you may perform a [**Vehicle Inspection**](garagehive-technicians-vehicle-inspections.html) to provide a quote and possibly uncover additional issues with the vehicle that may be of assistance to the customer. After deciding on a time for the vehicle to be delivered with the customer, [**book-in the Vehicle**](garagehive-create-a-booking.html). 
+2. **To book in for routine maintenance like a diagnostic, MOT and/ or service** - Depending on the customer's vehicle routine maintenance, the customer will call and request that the vehicle be scheduled for a specific date. [**book-in the Vehicle**](garagehive-create-a-booking.html) and [customise the vehicle date reminders](garagehive-customising-vehicle-reminder-dates.html) so that you can send reminders to the customer about routine maintenance in the future.
+
+    or
+
+3. **Enquire about their vehicle having an issue** - At this point, request that the customer bring the vehicle in so that you may perform a [**Vehicle Inspection**](garagehive-technicians-vehicle-inspections.html) to provide a quote and possibly uncover additional issues with the vehicle that may be of assistance to the customer. After deciding on a time for the vehicle to be delivered with the customer, [**book-in the Vehicle**](garagehive-create-a-booking.html).
 
 ## The vehicle arrives at your garage
 

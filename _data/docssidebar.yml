@@ -32,6 +32,8 @@
       url: /docs/garagehive-setting-up-devices.html
     - name: Go Live Setup
       url: /docs/golive-cust-not-set.html
+    - name: Garage Hive’s Recommended Customer Workflow
+      url: /docs/garagehive-recommended-customer-workflow.html
 - name: What's New
   url: "#"
   subitems:
