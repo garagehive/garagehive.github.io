@@ -26,7 +26,7 @@ Here is an example of an **MOT Reminder** notification setup.
 Check out [this article](garagehive-customising-vehicle-reminder-dates.html) to learn more about setting up and using **Vehicle Date Reminders**.
 
 ### Booking reminder notification
-**Booking Reminder** notifications are used in the system to send reminders to customers about their previously made booking. This helps to confirm that the customer is still planning to come, and if there are any changes, they can be communicated in advance.
+**Booking Reminder** notifications are used in the system to send reminders to customers the day before their previously made booking. This helps customers remember their booking and show up on time; if there are any changes, they communicate in advance.
 Here is an example of a **Booking Reminder** notification setup.
 
    ![](media/garagehive-customer-notifications3review.png)
@@ -34,7 +34,7 @@ Here is an example of a **Booking Reminder** notification setup.
 See [this article](garagehive-booking-reminders.html) to learn more on how to setup and use the **Booking Reminder** notification.
 
 ### Booking confirmation notification
-**Booking Confirmation** notifications are used in the system to send confirmations to customers after they make a booking. The confirmation is sent to the customer to ensure that the customer is aware that the booking has been made and to possibly share the details of the booking.
+**Booking Confirmation** notifications are used in the system to send confirmations to customers right after they make a booking. The confirmation is sent to the customer to ensure that the customer is aware that the booking has been made successfully and to possibly share the details of the booking.
 Here is an example of a **Booking Confirmation** notification setup.
 
    ![](media/garagehive-customer-notifications4review.png)
@@ -42,7 +42,7 @@ Here is an example of a **Booking Confirmation** notification setup.
 See [this article](garagehive-booking-confirmation.html) to learn more on how to setup and use the **Booking Confirmation** notification.
 
 ### Survey notification
-**Survey Notification** is a system notification that sends surveys to customers. Surveys are used to collect feedback from customers after they have been attended to and their work has been completed.
+**Survey Notification** is a system notification that automatically sends a survey link to customers right after their job is completed. Surveys help in determining the NPS score, which is a measure of customer loyalty and satisfaction.
 Here is an example of a **Survey Notification** setup.
 
    ![](media/garagehive-customer-notifications5review.png)
@@ -50,7 +50,7 @@ Here is an example of a **Survey Notification** setup.
 See [this article](garagehive-surveys-setting-up-customer-surveys.html) to learn more on how to setup and use the **Survey Notification**.
 
 ### Checklist notification
-**Checklist Notification** is used to send the checklist link to the customer, so as to view the inspection report in the checklist. 
+**Checklist Notification** is used to send a link to the online checklist to the customer, this helps to share visual material of the inspection report. 
 Here is an example of a **Checklist Notification** setup.
 
    ![](media/garagehive-customer-notifications6review.png)
@@ -58,7 +58,7 @@ Here is an example of a **Checklist Notification** setup.
 Read [this article](garagehive-checklist-notification.html) to understand more about checklist notification setup and use.
 
 ### Job authorisation notification
-**Job Authorisation Notification** is used send customers the service documents online authorisation link, for preview and approval. The online job gives the customer access to the service document as an online document.
+**Job Authorisation Notification** is used to send customers an online authorization link for approval. The customer online authorisation link gives the customer access to the online document, which they can view and approve at their own time.
 Here is an example of a **Job Authorisation Notification** setup.
 
    ![](media/garagehive-customer-notifications7review.png)
