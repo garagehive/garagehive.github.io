@@ -15,11 +15,11 @@ When a customer calls your company, they might be calling to:
 
     or 
 
-2. **To book in for routine maintenance like a diagnostic, MOT and/ or service** - Depending on the customer's vehicle routine maintenance, the customer will call and request that the vehicle be scheduled for a specific date. [**book-in the Vehicle**](garagehive-create-a-booking.html) and [customise the vehicle date reminders](garagehive-customising-vehicle-reminder-dates.html) so that you can send reminders to the customer about routine maintenance in the future.
+2. **To book in for routine maintenance like an MOT and/ or service** - The customer will call and request that the vehicle be scheduled for a specific date; [**book-in the Vehicle**](garagehive-create-a-booking.html) and [**customise the vehicle date reminders**](garagehive-customising-vehicle-reminder-dates.html) so that you can send reminders to the customer about routine maintenance in the future.
 
     or
 
-3. **Enquire about their vehicle having an issue** - At this point, request that the customer bring the vehicle in so that you may perform a [**Vehicle Inspection**](garagehive-technicians-vehicle-inspections.html) to provide a quote and possibly uncover additional issues with the vehicle that may be of assistance to the customer. After deciding on a time for the vehicle to be delivered with the customer, [**book-in the Vehicle**](garagehive-create-a-booking.html).
+3. **Enquire about their vehicle having an issue** for example, squeaking brakes - At this point, request that the customer bring the vehicle in so that you may perform a [**Vehicle Inspection**](garagehive-technicians-vehicle-inspections.html) to provide a quote and possibly uncover additional issues with the vehicle that may be of assistance to the customer. After deciding on a time for the vehicle to be delivered with the customer, [**book-in the Vehicle**](garagehive-create-a-booking.html).
 
 ## The vehicle arrives at your garage
 
@@ -37,7 +37,7 @@ The following are the crucial steps to do when a customer brings their vehicle i
    ![](media/garagehive-customer-workflow3.png)
 
 When the technician receives the vehicle, he or she needs to: 
-1. Check on [My Tasks](garagehive-easy-clocking.html) from their phone or tablet using the Microsoft Dynamics app. 
+1. Check on [**My Tasks**](garagehive-easy-clocking.html) from their phone or tablet using the Microsoft Dynamics app. 
 2. Clock in for the work that has been allocated to them. 
 3. Do the [**Vehicle Inspection**](garagehive-technicians-vehicle-inspections.html) using the checklist templates, adding notes and images to the vehicle inspection template. 
 4. When they are finished, they clock out of the job after confirming that everything has been captured as planned. 
@@ -55,7 +55,7 @@ When the work is [**Approved**](garagehive-online-documents-what-happens-for-cus
    ![](media/garagehive-customer-workflow5.png)
 
 When the job is finished:
-1. Double-check that there are no [red flags on the item lines, that no resources are missing](garagehive-jobsheet-taking-payment.html#adding-resources-to-labour-lines-in-a-jobsheet), and that the pricing is correct. 
+1. Double-check that there are no [**red flags on the item lines, that no resources are missing**](garagehive-jobsheet-taking-payment.html#adding-resources-to-labour-lines-in-a-jobsheet), and that the pricing is correct. 
 2. Call, email, or SMS the customer to let them know the job is finished and they may come pick up their vehicle. 
 3. Change the jobsheet's status from finished to ready for collection. 
 
@@ -73,4 +73,4 @@ When the customer arrives to pick up the vehicle:
 
    ![](media/garagehive-customer-workflow7.png)
 
-When the work is completed, the customer is sent a [follow-up survey](garagehive-customer-surveys.html) to get feedback on the entire experience of being served at the garage; this helps in determining the NPS score, which is a measure of customer loyalty and satisfaction.
+When the work is completed, the customer is sent a [**follow-up survey**](garagehive-customer-surveys.html) to get feedback on the entire experience of being served at the garage; this helps in determining the NPS score, which is a measure of customer loyalty and satisfaction.
