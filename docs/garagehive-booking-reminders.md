@@ -43,7 +43,7 @@ To set up the booking reminder:
 
    ![](media/garagehive-booking-reminder6.gif)
 
-1. **Don't Show Booking Time** field, when enabled the booking reminder email doesn't include the time in the **Booking Date/Time** field and **Email Show Location Info** field, when enabled the booking reminder email uses company name, address, picture, contact details from **Location Info** and not the **Company Info**.
+1. **Don't Show Booking Time** field, when enabled the booking reminder email doesn't include the time in the **Booking Date/Time** field and **Email Show Location Info** field, when enabled the booking reminder email uses company name, address, picture, contact details from **Location Info** and not from the **Company Info**.
 
    ![](media/garagehive-booking-reminder6.png)
 
