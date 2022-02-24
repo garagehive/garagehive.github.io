@@ -49,14 +49,6 @@ Here is an example of a **Survey Notification** setup.
 
 Read [this article](garagehive-surveys-setting-up-customer-surveys.html) to learn more on how to setup and use the **Survey Notification**.
 
-### Checklist notification
-**Checklist Notification** is used to send a link to the online checklist to the customer, this helps to share visual material of the inspection report. 
-Here is an example of a **Checklist Notification** setup.
-
-   ![](media/garagehive-customer-notifications6.png)
-
-Read [this article](garagehive-checklist-notification.html) to understand more about checklist notification setup and use.
-
 ### Job authorisation notification
 **Job Authorisation Notification** is used to send customers an online authorization link for approval. The customer online authorisation link gives the customer access to the online document, which they can view and approve at their own time.
 Here is an example of a **Job Authorisation Notification** setup.
@@ -64,3 +56,10 @@ Here is an example of a **Job Authorisation Notification** setup.
    ![](media/garagehive-customer-notifications7.png)
 
 Read [this article](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up) to understand more about the **Job Authorisation Notification**.
+
+### Checklist notification
+**Checklist Notification** is used to send a link to the online checklist to the customer, this helps to share visual material of the inspection report. 
+Here is an example of a **Checklist Notification** setup.
+
+   ![](media/garagehive-customer-notifications6.png)
+

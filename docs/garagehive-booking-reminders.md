@@ -1,5 +1,6 @@
+---
 layout: docs
-title: How to Setup Booking Reminders
+title: How to Setup Booking Reminders in Garage Hive
 ---
 
 ## In this article
