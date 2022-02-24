@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Setup Vehicle Date Reminders in Garage Hive
+title: How to Setup Vehicle Date Reminders Notification in Garage Hive
 ---
 
 ## In this article
@@ -86,4 +86,8 @@ To see a list of the customer notifications that have been sent, use the search 
 <br>
 
 ### **See Also**
-[Customising Vehicle Reminder Dates](garagehive-customising-vehicle-reminder-dates.html)
+[Customising Vehicle Reminder Dates Notification](garagehive-customising-vehicle-reminder-dates.html) \
+[How to Setup Booking Reminder Notification in Garage Hive](garagehive-booking-reminders.html) \
+[How to Setup Booking Confirmation Notification in Garage Hive](garagehive-booking-confirmation.html) \
+[Setting Up Online Documents](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up) \
+[Setting Up NPS Customer Surveys](garagehive-surveys-setting-up-customer-surveys.html)

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Setup Booking Confirmation in Garage Hive
+title: How to Setup Booking Confirmation Notification in Garage Hive
 ---
 
 ## In this article
@@ -83,3 +83,13 @@ Then, from the **General** FastTab, enable the notification to make it operation
 To see a list of the customer notifications that have been sent, use the search icon in the top-right corner to search for **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
 
 ![](media/garagehive-booking-reminder10.gif)
+
+
+<br>
+
+### **See Also**
+[Customising Vehicle Reminder Dates Notification](garagehive-customising-vehicle-reminder-dates.html) \
+[How to Setup Booking Reminders Notification in Garage Hive](garagehive-booking-reminders.html) \
+[How to Setup Vehicle Date Reminders Notification in Garage Hive](garagehive-vehicle-date-reminders.html) \
+[Setting Up Online Documents](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up) \
+[Setting Up NPS Customer Surveys](garagehive-surveys-setting-up-customer-surveys.html)
