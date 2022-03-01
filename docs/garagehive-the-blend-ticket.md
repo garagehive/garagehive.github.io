@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Order a Blend Ticket From the Garage Hive
+title: How to Order a Blend Ticket From Garage Hive
 ---
 
 ## How to Order a Blend Ticket From the Garage Hive
@@ -20,7 +20,7 @@ If you are a Garage Hive customer, you can now order The Blend ticket(s) directl
 
    > **Note:**
    > 
-   > The **Edit/Cancel** action will be available until July 29th, 2022, after which no submitted order can be modified or altered. The refund policy will be in effect, and any cancellation will be charged.
+   > The **Edit/Cancel** action will be available until **July 29th, 2022**, after which no submitted order can be modified or altered. The refund policy will be in effect, and any cancellation will be charged.
 
 7. You have now successfully ordered your **The Blend 2022** ticket(s), and the ticket amount will be charged to your monthly bill for August 2022.
 
