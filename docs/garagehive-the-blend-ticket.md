@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: How to Order a Blend Ticket From Garage Hive
+title: How to Order The Blend Ticket From Garage Hive
 ---
 
-## How to Order a Blend Ticket From the Garage Hive
+## How to Order The Blend Ticket From the Garage Hive
 If you are a Garage Hive customer, you can now order The Blend ticket(s) directly from the Garage Hive system. To order:
 
 1. In the top-right corner, choose the search icon, enter **The Blend Ticket Order**, and select the related link.
