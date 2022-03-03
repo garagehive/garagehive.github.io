@@ -34,7 +34,7 @@ If you are a Garage Hive customer, you can now order The Blend ticket(s) directl
 ### How to Edit or Cancel your Blend Ticket from Garage Hive
 If you made an error, need to add an attendee, or change the information you've entered, you can edit or cancel your order; select **Edit/Cancel Order** from the actions bar. This cancels the previously submitted order, and you have to resubmit it when you finish editing.
 
-![](media/garagehive-the-blend-ticket3.gif)
+![](media/garagehive-the-blend-ticket4.gif)
 
 
 > **Important:**
