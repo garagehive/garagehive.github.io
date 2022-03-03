@@ -5,6 +5,21 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 3rd March 2022
+* eCommerce Garage Link web layout changes:
+    - The logo and company name are displayed at the top, and the company name and registration number are displayed at the bottom.
+    - **Terms and Conditions** link added, which hides the text until clicked.
+
+    ![](media/garagehive-online-payment-layout.png)
+
+* **Amount Including VAT** column added to Sales Quote, Sales Order, and Sales Invoice lists, as well as the **Calc. Price** column in document lines.
+
+   ![](media/garagehive-amount-incl-vat.png)
+
+* Created a searchable **Customer Field** within the sales documents.
+
+   ![](media/garagehive-searchable-customer-field.gif)
+
 ### 22nd February 2022
 * Online Job Authorisation Item layout changes, where:
     - The first few lines of the description are now always visible with a "Read More" option to see everything.
