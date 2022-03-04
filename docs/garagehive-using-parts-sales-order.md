@@ -17,6 +17,10 @@ Here's how to use the **Sales Order** in Garage Hive:
 
    ![](media/garagehive-parts-sales-order2.gif)
 
+4. The column **Unit Price (Calc.) Inc. VAT)** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items and so on.
+
+   ![](media/garagehive-parts-sales-order2a.gif)
+
 5. Select **Print/Send** from the actions bar, followed by **Email Proforma Invoice** to send the order confirmation to the customer.
 
    ![](media/garagehive-parts-sales-order3.gif)
@@ -33,7 +37,7 @@ Here's how to use the **Sales Order** in Garage Hive:
 
    ![](media/garagehive-parts-sales-order4.gif)
 
-9. If a customer requests that the parts be fitted to the vehicle, you can generate a **Jobsheet** from the **Sales Order**. Enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
+9.  If a customer requests that the parts be fitted to the vehicle, you can generate a **Jobsheet** from the **Sales Order**. Enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
 10. Choose **Process** from the actions bar, followed by **Create Jobsheet**.
     
     > **Note:**

@@ -15,6 +15,10 @@ When the job is complete and the financial information is correct. You now need 
 
     ![](media/garagehive-jobsheet-taking-payment1.gif)
 
+2. You can view other payments that have been applied in the document by selecting **Payment Gateway Entries** action, in the **Take Payment** window.
+
+    ![](media/garagehive-jobsheet-taking-payment1a.gif)
+
 ### Adding resources to labour lines in a Jobsheet
 Before posting the jobsheet, all labour lines must-have resource information added to them. There are several this can be done:
 1. If the Technician uses the Technician **Confirmed** button on their device, the resources column will be pre-populated.
