@@ -18,5 +18,5 @@ A Card Terminal, also known as a point of sale (POS) terminal, is an electronic 
 
    ![](media/garagehive-payment-gateways2.png)
 
-To learn more about how to set up **Card Terminal** follow [this link]().
+To learn more about how to set up **Card Terminal** follow [this link](garagehive-setting-up-payment-by-card-terminal.html).
 
