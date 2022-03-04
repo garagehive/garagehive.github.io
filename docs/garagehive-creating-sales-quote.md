@@ -16,11 +16,15 @@ To create a **Sales Quote**:
 
    ![](media/garagehive-parts-sales-quote2.gif)
 
-1. You can now preview and email the quote to the customer by selecting **Print/Send** from the actions bar, followed by **Email Quote**.
+4. The column **Unit Price (Calc.) Inc. VAT)** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items and so on.
+
+   ![](media/garagehive-parts-sales-quote2a.gif)
+
+5. You can now preview and email the quote to the customer by selecting **Print/Send** from the actions bar, followed by **Email Quote**.
 
    ![](media/garagehive-parts-sales-quote3.gif)
 
-2. When the customer receives and confirms the quote, you can proceed with the supply of the parts by creating a **Sales Order** to confirm the parts order or a **Sales Invoice** to confirm the order and receive payment. Choose Process from the actions bar, followed by **Make Order** or **Make Invoice**.
+6. When the customer receives and confirms the quote, you can proceed with the supply of the parts by creating a **Sales Order** to confirm the parts order or a **Sales Invoice** to confirm the order and receive payment. Choose Process from the actions bar, followed by **Make Order** or **Make Invoice**.
 
    ![](media/garagehive-parts-sales-quote4.gif)
 
