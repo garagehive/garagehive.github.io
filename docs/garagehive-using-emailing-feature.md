@@ -45,6 +45,10 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
    ![](media/garagehive-email-feature10.gif)
 
+9. If you want to save the email as a draft and return to it later, click the back button and choose **Keep as draft in Email Outbox**; otherwise, choose **Discard email**.
+
+   ![](media/garagehive-email-feature10a.gif)
+
 
 ### Email setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
