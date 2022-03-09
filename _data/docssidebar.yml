@@ -120,6 +120,8 @@
       url: /docs/take-payment.html
     - name: Taking a Deposit Against a Customer Account
       url: /docs/take-payment-deposit.html
+    - name: Using Emailing Feature
+      url: /docs/garagehive-using-emailing-feature.html
     - name: How to Print or Email Customer Payment Receipt
       url: /docs/garagehive-print-email-customer-payment-receipt.html            
     - name: Cancelling and Correcting a Jobsheet
