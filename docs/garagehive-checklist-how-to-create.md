@@ -29,7 +29,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
     > **Note:**
     >
-    > Checklist Template will be the description of your checklist that you select from when deciding which checklist to complete as a technician.
+    > The checklist template description will be the description of your checklist that you select from when deciding which checklist to complete as a technician.
 
 1. Each Checklist Template must have at least one **Checklist Template Item Group**. 
 
