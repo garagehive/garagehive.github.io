@@ -5,7 +5,7 @@ title: How to Return Parts to the Vendor Under Warranty in Garage Hive
 
 > **Important**:
 >
-> There are several other ways to return parts to the vendor under warranty, but this is the recommended method.
+> There are several other ways to return parts to the vendor under warranty, but this is a common method.
 
 ## Scenario
 You sold the customer a set of PAGID Brake Pads, and three days later, the customer calls the garage to complain that the brake pads that were fitted were squeaking heavily. So, you tell the customer to return the vehicle to change the brake pads to a different type.
