@@ -147,6 +147,8 @@
       url: /docs/garagehive-using-sales-return-order.html
     - name: Item Substitution Management
       url: /docs/garagehive-item-substitution-management.html
+    - name: Returning Warranty Parts to the Vendor
+      url: /docs/garagehive-return-warranty-parts-to-vendor.html
 - name: Purchasing
   url: "#"
   subitems:
