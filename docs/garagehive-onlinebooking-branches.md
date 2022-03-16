@@ -10,6 +10,8 @@ Back in the **Online Booking Setup** page:
 
    ![](media/garagehive-onlinebooking-branches1.gif)
 
+   Appearance in the online booking page:
+
    ![](media/garagehive-onlinebooking-branches2.png)
 
 3. Then, click the down arrow to the right of the location code and then click **select from full list**.

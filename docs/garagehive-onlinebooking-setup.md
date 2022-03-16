@@ -35,7 +35,7 @@ To setup online booking:
       - **Send To BCC Emails** – You can use these if you need to BCC the confirmation somewhere else. Multiple addresses can be entered using the ";" character, as in service@thegarage.com;management@thegarage.com.
       - **Send To Branch Email** - It is best practise to check this box, as this will send the confirmation message to the email address specified in the branch setup, which we will do later in the setup.
 
-        ![](media/garagehive-onlinebooking-setup5.gif)
+        ![](media/garagehive-onlinebooking-setup5.png)
 
 
 # [**NEXT STEP**](/docs/garagehive-onlinebooking-branches.html)
