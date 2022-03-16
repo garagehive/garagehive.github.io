@@ -28,7 +28,7 @@ When importing Checklist Templates it is essential that you understand that you 
 
 # See Also
 
-[How to create a Checklist](https://docs.garagehive.co.uk/docs/garagehive-checklist-how-to-create.html "How to create a Checklist")
+[How to create a Checklist](garagehive-checklist-how-to-create.html "How to create a Checklist")
 
 
 [How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection")

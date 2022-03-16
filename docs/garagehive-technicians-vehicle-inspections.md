@@ -41,6 +41,6 @@ The service advisor will now see that a Vehicle Inspection Checklist is awaiting
 ![](media/garagehive-technician-vehicleinspection-awaiting-confirmation.png)
 
 # See Also
-[How to setup Checklists](/docs/garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive")
+[How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive")
 
 [How to use VHCs](/docs/garagehive-VHC.html "How to use VHCs")
