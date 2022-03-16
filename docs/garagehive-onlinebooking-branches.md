@@ -3,32 +3,20 @@ layout: docs
 title: Setting Up online booking "Branches"
 ---
 
-# Branches 
-Back in the online booking setup page.
+## Branches 
+Back in the **Online Booking Setup** page:
+1. From the actions bar, choose **More Options**, then **Related**, and finally **Branches**. If More Options was previously selected, select **Related** right away; otherwise, **Fewer Options** will be available.
+2. You should rename the branch descriptions here because they will appear in the online booking widget, and then enable the **Publish Online Booking** checkbox.
 
-Click on “navigate” so that you can see the list of set up tables.
+   ![](media/garagehive-onlinebooking-branches1.gif)
 
-![](media/garagehive-onlinebooking-5.png)
+   ![](media/garagehive-onlinebooking-branches2.png)
 
-Branches – Here you should rename the branch descriptions as this will display in the online booking widget.
+3. Then, click the down arrow to the right of the location code and then click **select from full list**.
+4. Select the three dots at the top, then **Manage**, then **Edit**.
+5. In the page that appears, ensure that the **Business Location** is enabled and enter the **Address**, **Phone Number**, and **Email Address** of that location.
 
-![](media/garagehive-onlinebooking-6.png)
+   ![](media/garagehive-onlinebooking-branches3.gif)
 
-![](media/garagehive-onlinebooking-7.png)
-
-Next, click on the arrow to the right of the location code and select from full list.
-
-![](media/garagehive-onlinebooking-8.png)
-
-Then manage and edit.
-
-![](media/garagehive-onlinebooking-9.png)
-
-Here you need to make sure the business location is turned on and fill in that locations,
-* Address
-* Phone number
-* Email address
-
-![](media/garagehive-onlinebooking-10.png)
  
 # [NEXT STEP](/docs/garagehive-onlinebooking-holidays.html)
