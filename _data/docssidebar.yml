@@ -351,6 +351,8 @@
       url: /docs/garagehive-external-accountancy-integration.html
     - name: Setting up Payment by GLink
       url: /docs/garagehive-setting-up-payment-by-glink.html
+    - name: Setting up Payment by Card Terminal
+      url: /docs/garagehive-setting-up-payment-by-card-terminal.html
     - name: Generating Paymentsense Card Machine Reports
       url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
     - name: Xero Integration Setup
