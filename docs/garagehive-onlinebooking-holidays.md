@@ -3,15 +3,12 @@ layout: docs
 title: Setting Up online booking "Holidays"
 ---
 # Holidays
-BACK IN THE ONLINE BOOKING SETUP PAGE.
+Back in the **Online Booking Setup** page:
 
-Click on “navigate” so that you can see the list of set up tables.
+1. From the actions bar, choose **Related**, followed by **Holidays**.
+2. In the page that opens, add all of the **Bank Holidays** in the calendar year that you want to prevent customers from making online bookings.
 
-![](media/garagehive-onlinebooking-5.png)
-
-Select "Holidays", here you need to set your bank holidays and any other days you want to prevent people from making bookings online.
-
-![](media/garagehive-onlinebooking-11.png) 
+![](media/garagehive-onlinebooking-holidays1.gif)
 
  
 # [NEXT STEP](/docs/garagehive-onlinebooking-service-packages.html)
