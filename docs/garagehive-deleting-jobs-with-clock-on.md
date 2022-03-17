@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Deleting a Job after a Tech has Clocked On to It
+title: Deleting a Job after a Technician has Clocked On to It
 ---
 
-# Deleting a Job after a Tech has Clocked On to It
+# Deleting a Job after a Technician has Clocked On to It
 There will always be an error when you try to delete a jobsheet where the technician has clocked in. To avoid this, before deleting a jobsheet, consider what happened in each case.
 
 ## In this article
