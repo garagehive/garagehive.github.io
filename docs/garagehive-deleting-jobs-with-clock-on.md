@@ -14,7 +14,7 @@ There will always be an error when you try to delete a jobsheet where the techni
 
 **Scenario 1** - If the technician clocks onto a job, performs a vehicle inspection (VI), and the value of repairs exceeds the value of the car, and you decide not to charge for the job because the planned work will not be completed, it is recommended that you invoice the job at £0 (100% discount), so that the technician's time is accounted for and there is a record of the job and VI that was completed.
 
-![](media/garagehive-deleting-jobs-with-clock-on1.gif)
+   ![](media/garagehive-deleting-jobs-with-clock-on1.gif)
 
 
 ### Delete the jobsheet entirely
@@ -26,5 +26,5 @@ There will always be an error when you try to delete a jobsheet where the techni
 4. For each schedule allocation entry, repeat steps **2** and **3**.
 5. After you've deallocated all of the schedule allocation entries, delete the jobsheet by clicking the delete icon at the top of the jobsheet page.
 
-![](media/garagehive-deleting-jobs-with-clock-on2.gif)
+   ![](media/garagehive-deleting-jobs-with-clock-on2.gif)
 
