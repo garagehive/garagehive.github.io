@@ -2,7 +2,8 @@
 layout: docs
 title: Setting Up online booking "Holidays"
 ---
-# Holidays
+
+## Holidays
 Back in the **Online Booking Setup** page:
 
 1. From the actions bar, choose **Related**, followed by **Holidays**.
