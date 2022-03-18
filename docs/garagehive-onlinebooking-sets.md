@@ -1,35 +1,18 @@
 ---
 layout: docs
-title: Setting Up online booking "Sets"
+title: Setting Up online booking Sets
 ---
-# Sets
-BACK IN THE ONLINE BOOKING SETUP PAGE.
+# Setting Up online booking Sets
+Back in the **Online Booking Setup** page:
+1. From the actions bar, choose **Related**, followed by **Sets**.
+2. **Sets** allow you to create widgets for specific groups of **Service Packages**. For example, **MOT** only for use on your **MOT** landing page, and have the full set of packages available on your page. Give your set a **Code** and a **Description**.
+3. Select **Items** from the actions bar, and add the **Service Packages** you want to be included in that set.
 
-Click on “navigate” so that you can see the list of set up tables.
+    ![](media/garagehive-onlinebooking-sets1.gif) 
 
-![](media/garagehive-onlinebooking-5.png)
+4. From the **Sets** table, you can get the specific sets **Embed** and or test the setup via the **Open Test Page**.
 
-Select "Sets"
-
-![](media/garagehive-onlinebooking-27.png) 
-
-Sets allow you to make widgets for specific sets of service packages. For instance, MOT only for use on your MOT landing page and have the full set of packages available on your home page. 
-
-Give your set a code and description,
-
-![](media/garagehive-onlinebooking-28.png)
-
-Then go to process and items 
-
-![](media/garagehive-onlinebooking-29.png) 
-
-Then add the service packages you want to be included in that set. 
-
-![](media/garagehive-onlinebooking-30.png)
-
-From the Sets table, you can get the specific sets embed script and or test the setup via the test page. 
-
-![](media/garagehive-onlinebooking-31.png)
+    ![](media/garagehive-onlinebooking-sets2.png)
 
 
 # [NEXT STEP](/docs/garagehive-onlinebooking-testing.html)
