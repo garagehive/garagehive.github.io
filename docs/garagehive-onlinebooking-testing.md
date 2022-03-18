@@ -4,18 +4,21 @@ title: Setting Up online booking "Testing"
 ---
 # Testing
 
-We are almost there I promise, back in online booking set up you should select "actions" and 
-"test catalogue setup" 
+We're almost there, I promise. Back in the **Online Booking Setup** page:
+1. From the actions bar, select **Test Catalog Setup**. 
 
-![](media/garagehive-onlinebooking-32.png) 
+    ![](media/garagehive-onlinebooking-testing1.png)
 
-If all has gone well there will be no errors if there are errors,
+2. This validates all of your **Online Booking Setup**, and if everything went well, no errors will be displayed; if not, the errors will be displayed as follows.
+3. Clicking on the **Source** will open the relevant table.
 
-![](media/garagehive-onlinebooking-33.png)
+    ![](media/garagehive-onlinebooking-testing2.gif)
 
-Clicking on the description will open the relevant table.
-* warnings will not prevent the system working but errors will its best practice to have no errors or warnings.
+    > **Note:**
+    > 
+    > **Warnings** will not prevent the system from functioning, but **Errors** will. It is best practise to have no errors or warnings.
 
-Once all the errors are gone you can get the embed script and or use the test page to verify your setup. Please allow 5 minutes after the errors are clear before testing to allow the system time to validate the setup. 
+4. Once all errors have been resolved, select **Actions** from the actions bar to obtain the **Embed Script** and/or use the **Open Test Page** to verify your setup. Please wait 5 minutes after the errors have been cleared before testing to give the system time to validate the setup. 
 
-![](media/garagehive-onlinebooking-34.png) 
+    ![](media/garagehive-onlinebooking-testing3.png)
+
