@@ -14,9 +14,13 @@ Back in the **Online Booking Setup** page:
 
    ![](media/garagehive-onlinebooking-branches2.png)
 
-3. Then, click the down arrow to the right of the location code and then click **select from full list**.
-4. Select the three dots at the top, then **Manage**, then **Edit**.
-5. In the page that appears, ensure that the **Business Location** is enabled and enter the **Address**, **Phone Number**, and **Email Address** of that location.
+3. Add the **Online Booking (OB) Service Work Group Code** field for each branch.
+
+   ![](media/garagehive-onlinebooking-branches2a.gif)
+
+4. Then, click the down arrow to the right of the **Location Code** and then click **select from full list**.
+5. Select the three dots at the top, then **Manage**, followed by **Edit**.
+6. In the page that appears, ensure that the **Business Location** is enabled and enter the **Address**, **Phone Number**, and **Email Address** of that location. Repeat the process for each location you've added.
 
    ![](media/garagehive-onlinebooking-branches3.gif)
 
