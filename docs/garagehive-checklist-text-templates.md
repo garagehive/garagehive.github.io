@@ -5,7 +5,7 @@ title: How to Setup and Use Checklist Text Templates in Garage Hive
 
 # How to Setup and Use Checklist Text Templates in Garage Hive
 
-The **Checklist Text Templates** feature allows you to pre-assign templates in checklist lines, which technicians can use to ensure consistency in reporting. To setup the **Checklist Text Templates**:
+The **Checklist Text Templates** feature allows you to pre-assign templates in checklist Item lines, which technicians can use to ensure consistency in reporting and increased efficiency. To setup the **Checklist Text Templates**:
 1. In the top-right corner, choose the search icon, enter **Checklist Text Templates** and choose the related link.
 2. The page that opens contains a list of all the **Checklist Text Templates** that have been set up, or if none have been set up, this is where they will appear.
 3. Select **New**, to create a new one.
