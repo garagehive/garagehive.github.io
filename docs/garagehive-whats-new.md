@@ -5,6 +5,17 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 23rd March 2022
+* eCommerce Garage Link location details are now specific, where if the Sales & Receivables Setup **Show Branch Details** is enabled, it takes the company logo, trading name, and phone number from the **Location Card**, and the registered name and registered number from statutory in **Company Information**.
+
+   ![](media/garagehive-show-branch-details.png)
+
+* The **Key Tag No.** field is now available in the header of **Vehicle Inspections(VIs)** and **Vehicle Inspection Estimates(VIEs),** allowing service advisors, technicians, and others to see what bin parts are in and where the keys are.
+
+   ![](media/garagehive-checklist-key-tag-field.png)
+
+* Added a new emailing feature with rich-text editor that allows you to add text formatting, links, bullet points, and more to improve your emailing experience with customers from the system. Read more [here](garagehive-using-emailing-feature.html).
+
 ### 3rd March 2022
 * eCommerce Garage Link web layout changes:
     - The logo and company name are displayed at the top, and the company name and registration number are displayed at the bottom.
