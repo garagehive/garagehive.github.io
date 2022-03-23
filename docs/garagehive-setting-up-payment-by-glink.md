@@ -55,11 +55,11 @@ Garage Link is a payment gateway that is used for online payments. To setup paym
 
 
 ### Testing the Garage Link setup
-Once configured, it is recommended that you run a 0.01 pence transaction as a test. Create a new jobsheet with your personal information, add a labour or item, and then proceed to the **Take Payment** screen. Once on the **Take Payment** screen, select **Process** in the action bar and **Pay By Garage Link**.
+Once configured, it is recommended that you run a **£0.01** transaction as a test. Create a new jobsheet with your personal information, add a  or **consumable or a non-inventory item**, and then proceed to the **Take Payment** screen. Once on the **Take Payment** screen, select **Process** in the action bar and **Pay By Garage Link**.
 
 ![](media/paybygaragelink-takepayment.jpg)
 
-Make sure the value is set to 0.01, select the notification type and enter your details. Once you receive the test SMS/Email please follow the link and complete the test payment. 
+Make sure the value is set to **£0.01**, select the notification type and enter your details. Once you receive the test SMS/Email please follow the link and complete the test payment. 
 
 > **Note**
 >
@@ -72,4 +72,4 @@ You can check the status of the payment in Garage Hive by selecting the "Payment
 
 ![](media/paybygaragelink-gateway-entries.jpg)
 
-You should also receive an email confirming the payment has been received. 
+You should also receive an email confirming the payment has been received. Once you've received payment for this job, post it with the penny on it.
