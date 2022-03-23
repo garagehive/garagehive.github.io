@@ -32,11 +32,11 @@ The **Checklist Text Templates** feature allows you to pre-assign templates in c
 12. Then, under the **Text Template Code Filter** column, choose the **Text Tempate Code** to apply. This is where you use the prefix you created for the **Checklist Text Templates**. For example, to filter only the **Tyre Checklist Text Templates**, use the prefix **TY** followed by an asterix **'*'**, **TY***. 
 13. If you only want to select one **Checklist Text Template**, remove the asterix and choose the single **Checklist Text Template** from the list. If you want to add more than one group of **Checklist Text Template**, write the prefix code, followed by an asterix, and then a vertical bar (**|**) to separate the groups.
 
-   ![](media/garagehive-checklist-text-templates5.gif)
+      ![](media/garagehive-checklist-text-templates5.gif)
 
 14. To view the **Checklist Text Templates** in a checklist, open the checklist, click the three dots at the end of the **Checklist Item** line, and then click **Lookup Text Template** in the dialogue box. If you din't filter, the entire list of the **Checklist Text Template** will be displayed.
 
-   ![](media/garagehive-checklist-text-templates6.gif)
+      ![](media/garagehive-checklist-text-templates6.gif)
 
 
 <br>
