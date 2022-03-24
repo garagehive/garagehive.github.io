@@ -29,8 +29,8 @@ The **Checklist Text Templates** feature allows you to pre-assign templates in c
 
 10. Check that the **Control Assist Edit** and **Text Template Code Filter** columns are available; if not, learn how to add a column [here] (garagehive-personalising-garage-hive.html).
 11. To enable the **Checklist Text Templates** in a **Checklist Item** line, select the checkbox under **Control Assist Edit** with the **Control Type** set to **Textbox-Standard**.
-12. Then, under the **Text Template Code Filter** column, choose the **Text Template Code** to apply. This is where you use the prefix you created for the **Checklist Text Templates**. For example, to filter only the **Tyre Checklist Text Templates**, use the prefix **TY** followed by an asterisk (*), **(TY*)**. 
-13. If you only want to select one **Checklist Text Template**, remove the asterisk and choose the single **Checklist Text Template** from the list. If you want to add more than one group of **Checklist Text Template**, write the prefix code, followed by an asterisk, and then a vertical bar **(|)** to separate the groups.
+12. Then, under the **Text Template Code Filter** column, choose the **Text Template Code** to apply. This is where you use the prefix you created for the **Checklist Text Templates**. For example, to filter only the **Tyre Checklist Text Templates**, use the prefix **TY** followed by an asterisk (*) , **(TY*)**.
+13. If you only want to select one **Checklist Text Template**, remove the asterisk and choose the single **Checklist Text Template** from the list. If you want to add more than one group of **Checklist Text Template**, write the prefix code, followed by an asterisk, and then a vertical bar to separate the groups, for example **(TY*|SERV*)**.
 
       ![](media/garagehive-checklist-text-templates5.gif)
 
