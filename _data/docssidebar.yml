@@ -15,7 +15,7 @@
       url: /docs/garagehive-create-an-estimate.html
     - name: Device Users
       url: /docs/garagehive-device-user.html
-    - name: Using Comments
+    - name: How to Use Comments
       url: /docs/garagehive-comments-extended.html 
     - name: Vehicle Inspections
       url: /docs/garagehive-technicians-vehicle-inspections.html
@@ -248,7 +248,7 @@
     - name: How to Filter Lists 
       url: /docs/garagehive-filter-lists.html
     - name: Add Comments to Cards and Documents
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-comments-extended.html
     - name: Copy Documents
       url: /docs/garagehive-copydocument.html
 - name: End of Day Process

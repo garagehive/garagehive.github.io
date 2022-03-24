@@ -1,63 +1,77 @@
 ---
 layout: docs
-title: Comments (Extended)
+title: How to Use Comments in Garage Hive
 ---
 
-# How to Use Comments (Extended)
+# In this article
+1. [Adding comments in a document](#adding-comments-in-a-document)
+2. [How to use extended comments](#how-to-use-extended-comments)
+3. [Creating standard comments](#creating-standard-comments)
+4. [Adding comments in a card](#adding-comments-in-a-card)
 
-Comments (Extended) is a function in Garage Hive that enables the you to write comments which are longer and with more details. This function is available on all documents, can be printed in documents and has the possibility of hiding from the technicians.
+### Adding comments in a document
+To add a new comment in a document:
+1. Open the document and scroll down to the **Comments** subpage. 
+2. Select a **Type Code** or create your own custom **Type Code** with the following set-up:
+   * **Description** - Specifies what will be printed on the invoice.
+   * **Office Only** - Indicates whether the comment should be hidden from technicians.
+   * **Print On Invoice** - Indicates whether the comment should be printed for the customer to see.
+   * **Print Sequence** - This parameter specifies the order in which the comments are printed. Numbers are used to specify priority in ordering; the lower the number, the higher the priority in ordering, and vice versa.
+   * **Print Placement** - Specifies whether the comment appears at the top or bottom of the invoice.
 
-Clicking on the comment extended cell will open a pop-out window that can be made full screen and allows you to type as much text as you want. If you scroll your cursor over the Comments (Extended) cell, you will see a pop-up preview for the comment. 
+      ![](media/garagehive-comments1.gif)
 
-![](media/garagehive-comments1.gif)
+3. You can now add a comment to the document, by selecting the **Type Code** and adding the comment in the **Comment** field.
+4. Here's an example of what printed comments look like; you can be as creative as you want with the description, positions, and orders. 
 
-To add a new comment, you must first choose a type code or create your own custom type code with the specific set-up that you need. The set-up entails specifying the following:
-* **Description** - Specifies what will be printed on the invoice.
-* **Office Only** - Indicates whether the comment should be hidden from technicians.
-* **Print On Invoice** - Indicates whether the comment should be printed for the customer to see.
-* **Print Sequence** - This parameter specifies the order in which the comments are printed. Numbers are used to specify priority in ordering; the lower the number, the higher the priority in ordering, and vice versa.
-* **Print Placement** - Specifies whether the comment appears at the top or bottom of the invoice.
+   ![](media/garagehive-comments6.gif)
 
-![](media/garagehive-comments2.gif)
+5. Comments on a phone now include additional information such as the time, date, user, and type code.
 
+   ![](media/garagehive-comments-phone.png)
+
+6. Before writing a comment, technicians must choose a type code.
+
+   ![](media/garagehive-comment-tech-code.png)
+
+8. When reading or entering comments on a phone, the comment is now displayed in a pop-up window. Once you've finished typing your comment, click OK. 
+
+   ![](media/garagehive-comment-phone-input.png)
+
+### How to use extended comments
+**Comment (Extended)** is a function in Garage Hive that enables you to write comments which are longer and with more details. This function is available on all documents, can be printed in documents and has the possibility of hiding from the technicians.
+
+Under the **Comments** subpage, clicking on the **Comment(extended)** field will open a pop-out window that can be made full screen and allows you to type as much text as you want. When you move your cursor over the **Comment (extended)** field, a pop-up preview of the full comment appears. 
+
+   ![](media/garagehive-comments2.gif)
+
+### Creating standard comments
 You can also have standard comments that can be used multiple times. This helps to ensure consistency and makes it easier to remember what to write. Here's how to create a standard comment:
-1. Search for **Service Comments Types** in the top-right corner's search icon and select it from the results.
+1. In the top-right corner, choose the search icon, enter **Service Comments Types**, and select the related link.
 
    ![](media/garagehive-comments3.gif)
 
-2. In the window that appears, select the comment **Type Code** to which you want to add a standard comment and click on the cell under **Comment (extended)**.
+2. In the window that appears, select the comment **Type Code** to which you want to add a standard comment and click on the field **Comment (extended)**.
 3. Enter the standard comment and click OK.
 
    ![](media/garagehive-comments4.gif)
 
 4. The comment will now be available for adding in all documents, such as a jobsheet.
 
-![](media/garagehive-comments5.gif)
+   ![](media/garagehive-comments5.gif)
+
+### Adding comments in a card
+To add a new comment in card, for example a **Customer Card**:
+1. Open the **Customer Card**, then select **Customer** and then **Comments** from the actions bar.
+2. Add the comment and then close the card.
+
+   ![](media/garagehive-comments7.gif)
+
+3. When adding the customer in a new **Jobsheet** the comment will pop-up before editing the document.
+
+   ![](media/garagehive-comments8.gif)
 
 <br>
-
-Here's an example of what printed comments look like; you can be as creative as you want with the description, positions, and orders. 
-
-![](media/garagehive-comments6.gif)
-
-<br>
-
-Comments on a phone now include additional information such as the time, date, user, and type code.
-
-![](media/garagehive-comments-phone.png)
-
-<br>
-
-Before writing a comment, technicians must choose a type code.
-
-![](media/garagehive-comment-tech-code.png)
-
-<br>
-
-When reading or entering comments on a phone, the comment is now displayed in a pop-up window. Once you've finished typing your comment, click OK. 
-
-![](media/garagehive-comment-phone-input.png)
-
 
 ### See Also
 
