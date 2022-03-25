@@ -15,7 +15,7 @@ To add a new comment in a document:
 2. Select a **Type Code** or create your own custom **Type Code** with the following set-up:
    * **Description** - Specifies what will be printed on the invoice.
    * **Office Only** - Indicates whether the comment should be hidden from technicians.
-   * **Print On Invoice** - Indicates whether the comment should be printed for the customer to see.
+   * **Print On Document** - Indicates whether the comment should be printed for the customer to see.
    * **Print Sequence** - This parameter specifies the order in which the comments are printed. Numbers are used to specify priority in ordering; the lower the number, the higher the priority in ordering, and vice versa.
    * **Print Placement** - Specifies whether the comment appears at the top or bottom of the invoice.
 
