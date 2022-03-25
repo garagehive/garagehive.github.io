@@ -5,6 +5,11 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 25th Martch 2022
+* Added a **Create Alternative** action Within the **Group Item** subpage.
+
+   ![](media/garagehive-group-item-create-alternative.png)
+
 ### 23rd March 2022
 * eCommerce Garage Link location details are now specific, where if the Sales & Receivables Setup **Show Branch Details** is enabled, it takes the company logo, trading name, and phone number from the **Location Card**, and the registered name and registered number from statutory in **Company Information**.
 
