@@ -57,7 +57,7 @@ This action is available in jobsheets, estimates, and vehicle inspection estimat
 
 
 ### Matching approved line groups action
-If you change a group description or price after it has been published and the customer approves it, it is not automatically marked as authorised on the document. It generates an attention comment, which you can manually link to the current group in the document using this action. This action is available in jobsheets, estimates, and vehicle inspection estimates.
+If you change a group description or price after it has been published and the customer approves it, it is not automatically marked as authorised on the document. It generates an attention comment, which you can manually link to the current group in the document using **Match Approved Line Groups** action. This action is available in jobsheets, estimates, and vehicle inspection estimates.
 1. From the group items sub-page actions bar, select **Functions**, followed by **Match Approved Line Groups**.
 
    ![](media/garagehive-group-actions5.png)
