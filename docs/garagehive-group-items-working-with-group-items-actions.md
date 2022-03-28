@@ -43,7 +43,7 @@ The merging action can be used to merge two or more groups. The document lines f
 
    ![](media/garagehive-group-actions3-1.gif)
 
-**Create Alternative**
+**Create Alternative:**
 The **Create Alternative** action creates a new group that is identical to the selected group, which you can edit to make it cheaper, discounted, or otherwise. The group can now be published online alongside the selected group, with the option for the customer to choose. 
 1. Select the group for which you want to create an alternative, then select **Functions**, then **Create Alternative** from the actions bar.
 
