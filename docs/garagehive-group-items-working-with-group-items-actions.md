@@ -9,7 +9,7 @@ When it comes to using online documents, the group items feature is very importa
 ## In this article
 1. [Move up and move down actions](#move-up-and-move-down-actions)
 2. [Adding service packages, repair times and service interval matrix actions](#adding-service-packages-repair-times-and-service-interval-matrix-actions)
-3. [Duplicate and merge groups actions](#duplicate-and-merge-groups-actions)
+3. [Duplicate group, merge groups and create alternative actions](#Duplicate-group,-merge-groups-and-create-alternative-actions)
 4. [Creating service package version action](#creating-service-package-version-action)
 5. [Matching approved line groups action](#matching-approved-line-groups-action)
 6. [Adding checklist attention lines](Adding-checklist-attention-lines)
@@ -29,8 +29,8 @@ These actions are available in jobsheets, estimates, and vehicle inspection esti
    ![](media/garagehive-group-actions2.gif)
 
 
-### Duplicate and merge groups actions
-These actions are available in jobsheets, estimates, and vehicle inspection estimates and assist in duplicating or merging the selected groups. <br>
+### Duplicate group, merge groups and create alternative actions
+These actions are available in jobsheets, estimates, and vehicle inspection estimates and assist in duplicating or merging the selected groups as well as creating an alternative for the selected group. <br>
 **Duplicating:**
 1. From the groups items sub-page actions bar, select **Functions** and then **Duplicate Group**.
 
@@ -43,6 +43,11 @@ The merging action can be used to merge two or more groups. The document lines f
 
    ![](media/garagehive-group-actions3-1.gif)
 
+**Create Alternative**
+The **Create Alternative** action creates a new group that is identical to the selected group, which you can edit to make it cheaper, discounted, or otherwise. The group can now be published online alongside the selected group, with the option for the customer to choose. 
+1. Select the group for which you want to create an alternative, then select **Functions**, then **Create Alternative** from the actions bar.
+
+   ![](media/garagehive-group-actions3-2.gif)
 
 ### Creating service package version action
 This action is available in jobsheets, estimates, and vehicle inspection estimates and allows you to create a service package version from the selected group, making it easier to reuse the group as a service package.
