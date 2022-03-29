@@ -42,7 +42,7 @@ title: Using Tyre Click Booking System in Garage Hive
    * **Send To BCC Emails** – You can use this if you need to BCC the confirmation somewhere else. Multiple addresses can be entered using the “;” character, as in service@thegarage.com;management@thegarage.com.
    * **Send To Branch Email** - It is best practise to check this box, as this will send the confirmation message to the email address specified in the **Branch Setup**.
 
-   ![](media/garagehive-tyre-click-setup4.gif)
+   ![](media/garagehive-tyre-click-setup4.png)
 
 ### Tyre Click online booking example
 Here is the process of the customer getting to use the Tyre Click online booking:
