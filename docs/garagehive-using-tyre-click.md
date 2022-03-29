@@ -6,7 +6,7 @@ title: Using Tyre Click Booking System in Garage Hive
 ## In this article
 1. [Online Booking Connection Setup for Tyre Click](#online-booking-connection-setup-for-tyre-click)
 2. [Tyre Click online booking example](#tyre-click-online-booking-example)
-3. [Opening Tyre Click online booking in Garage Hive](#opening-tyre-click-online-booking-in-garage-hive)
+3. [Opening the booking in Garage Hive](#Opening-the-booking-in-Garage-Hive)
 
 ### Online Booking Connection Setup for Tyre Click
 **Tyre Click** is an online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. Tyre Click is now integrated with Garage Hive to enable online booking of tyre services, and creating of jobsheet from the booking.
@@ -42,7 +42,7 @@ title: Using Tyre Click Booking System in Garage Hive
    * **Send To BCC Emails** – You can use this if you need to BCC the confirmation somewhere else. Multiple addresses can be entered using the “;” character, as in service@thegarage.com;management@thegarage.com.
    * **Send To Branch Email** - It is best practise to check this box, as this will send the confirmation message to the email address specified in the **Branch Setup**.
 
-   ![](media/garagehive-tyre-click-setup4.gif)
+   ![](media/garagehive-tyre-click-setup4.png)
 
 ### Tyre Click online booking example
 Here is the process of the customer getting to use the Tyre Click online booking:
@@ -58,4 +58,8 @@ Here is the process of the customer getting to use the Tyre Click online booking
 7. By selecting **Confirm booking**, the order is completed, and they can print the invoice.
 
    ![](media/garagehive-tyre-click-example2.gif)
+
+8. An **Email** will be sent to the customer after booking.
+
+   ![](media/garagehive-tyre-click-example3.png)
 
