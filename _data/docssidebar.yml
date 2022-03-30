@@ -126,6 +126,8 @@
       url: /docs/garagehive-print-email-customer-payment-receipt.html            
     - name: Cancelling and Correcting a Jobsheet
       url: /docs/garagehive-jobsheet-cancel-and-correct.html
+    - name: Deleting a Job after a Technician has Clocked On to It
+      url: /docs/garagehive-deleting-jobs-with-clock-on.html
     - name: Create a Return Jobsheet
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
