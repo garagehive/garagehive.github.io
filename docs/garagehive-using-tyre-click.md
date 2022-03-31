@@ -69,9 +69,9 @@ When the customer makes a booking, the booking is recorded in the **Online Booki
 2.  You can search for the booking's **External Reference** or **TyreClick** in the entries. 
 3.  Open the Jobsheet in the booking.
 
-   ![](media/garagehive-tyre-click-opening1.gif)
+     ![](media/garagehive-tyre-click-opening1.gif)
 
 4. If the dummy customer was used, select **Lookup** in the Jobsheet notification to enter the actual customer details in the Jobsheet.
 5. Process the order for the customer.
 
-   ![](media/garagehive-tyre-click-opening2.gif)
+     ![](media/gi.gif)
