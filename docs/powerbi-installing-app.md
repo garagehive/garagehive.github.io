@@ -71,5 +71,6 @@ To do this:
 [How to set your Average Labour Rate](garagehive-labour-rate.html) \
 [Refreshing your Power BI data](powerbi-refresh-data.html) \
 [Updating your Power BI App](powerbi-updating-app.html) \
-[Updating your Power BI credentials](powerbi-updating-app.html)
+[Updating your Power BI credentials](powerbi-updating-app.html) \
+[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html) 
 
