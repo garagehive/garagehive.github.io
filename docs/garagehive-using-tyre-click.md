@@ -74,4 +74,4 @@ When the customer makes a booking, the booking is recorded in the **Online Booki
 4. If the dummy customer was used, select **Lookup** in the Jobsheet notification to enter the actual customer details in the Jobsheet.
 5. Process the order for the customer.
 
-     ![](media/gi.gif)
+     ![](media/garagehive-tyre-click-opening2.gif)
