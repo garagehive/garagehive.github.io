@@ -63,3 +63,15 @@ Here is the process of the customer getting to use the Tyre Click online booking
 
    ![](media/garagehive-tyre-click-example3.png)
 
+### Opening the booking in Garage Hive
+When the customer makes a booking, the booking is recorded in the **Online Booking Entries**. To open the booking:
+1.  In the top-right corner, choose the search icon, enter **Online Booking Entries**,  and select the related link.
+2.  You can search for the booking's **External Reference** or **TyreClick** in the entries. 
+3.  Open the Jobsheet in the booking.
+
+   ![](media/garagehive-tyre-click-opening1.gif)
+
+4. If the dummy customer was used, select **Lookup** in the Jobsheet notification to enter the actual customer details in the Jobsheet.
+5. Process the order for the customer.
+
+   ![](media/garagehive-tyre-click-opening2.gif)
