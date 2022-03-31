@@ -14,7 +14,7 @@ Garage Hive has their own app built on the Power BI platform, the app is a paid 
 
 Power BI isn't restricted to just data from Garage Hive, you can import external data such as Google Analytics. 
 
-To get started, please follow the links below, in the right order. 
+To get started, please follow the links below, in the right order:
 
 * 1st - [How to set your Average Labour Rate](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate")
 * 2nd - [How to install the Garage Hive Power BI App](https://docs.garagehive.co.uk/docs/powerbi-installing-app.html "How to install the Garage Hive Power BI App")
