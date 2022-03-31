@@ -5,7 +5,7 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
-### 25th Martch 2022
+### 25th March 2022
 * Added a **Create Alternative** action Within the **Group Item** subpage, read more [here](garagehive-group-items-working-with-group-items-actions.html).
 
    ![](media/garagehive-group-item-create-alternative.png)
