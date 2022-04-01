@@ -54,6 +54,8 @@
       url: /docs/powerbi-updating-app.html
     - name: Updating Your Power BI Credentials
       url: /docs/powerbi-update-credentials.html
+    - name: Deleting Your Old Power BI App and Install New One
+      url: /docs/garagehive-deleting-jobs-with-clock-on.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
