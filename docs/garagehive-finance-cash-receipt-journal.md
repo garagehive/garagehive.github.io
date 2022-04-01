@@ -4,34 +4,35 @@ title: Cash Receipt Journal
 ---
 
 # Cash Receipt Journals
-Cash Receipt journals allow the user to record payments against a customers account, typically these payments are recorded to account customers. To record a cash receipt journal, use the search functionality to find "Cash Receipt Journal
+Cash Receipt journals allow the user to record payments made to a customer's account. To record a cash receipt journal, follow these steps:
+1. Choose the search icon on the top-right corner, enter **Cash Receipt Journal**, and select the related link.
 
-![](media/garagehive-finance-cash-receipt-journal-search.png)
+   ![](media/garagehive-cash-receipt-journal1.gif)
 
-Alternatively Cash Receipt Journals can be accessed from the action bar of the customer list. 
+2. Alternatively, you can access Cash Receipt Journal from the customer list's actions bar by selecting **Navigate**, then **Cash Receipt Journal**. 
 
-![](media/garagehive-finance-cash-receipt-journal.png)
+   ![](media/garagehive-cash-receipt-journal2.gif)
 
-Select the payment method of the "Cash Receipt Journal". This will pre-populate the journal with some information, such as the balancing account.
+3. Choose the **Cash Receipt** as the journal template. This will fill in certain information in the journal, such as the **Balance Account**.
+4. To complete the Cash Receipt Journal, you need to provide the following information:
 
-![](media/garagehive-finance-cash-receipt-journal-template.png)
+   * **Posting Date** - This is the transaction date.
+   * **Document Type** - Set this to **Payment**.
+   * **Document Number** - This will be preset by the system.
+   * **Account Type** - Set this to **Customer**.
+   * **Account Number** - Select the customer's number in this field.
+   * **Payment Method Code** - Select the **Payment Method Code**, essential when using external accountancy.
+   * **Amount** - As you are crediting the customer, this should be set to a negative number.
+   * **Bal Account Type** - This will be preset by the system.
+   * **Bal Account Number** - This will be preset by the system.
+   * **Applies-to Doc Type** - If you are applying the payment directly to a document, select the type of document as **Invoice**. 
+   * **Applies-to Doc. No.** - Select which document here. 
 
-On the Cash Receipt Journal, it is recommend you setup the columns as per the image below. 
+      ![](media/garagehive-cash-receipt-journal3.gif)
 
-You must supply the following information to complete the Cash Receipt Journal
+5. Double-check the information you've entered, then select **Post/Print** from the actions bar, followed by **Post** to post the journal.
 
-* **Posting Date** - The date of the transaction
-* **Document Type** - Must be Payment
-* **Document Number** - Will be preset
-* **Account Type** - Must be Customer
-* **Account Number** - Select the customer No.
-* **Payment Method Code** - Select the payment method, essential when using external accountancy.
-* **Amount** - Must be a minus figure as you are crediting your customer. 
-* **Bal Account Type** - Will be preset
-* **Bal Account Number** - Will be preset
-* **Applies-to Doc. No.** - If you are applying the payment directly to a document, select which document here. 
-
-![](media/garagehive-finance-cash-receipt-journal-line.png)
+   ![](media/garagehive-cash-receipt-journal4.gif)
 
 
 <br>
