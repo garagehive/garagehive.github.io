@@ -3,99 +3,60 @@ layout: docs
 title: Creating an Estimate
 ---
 
-#   Creating an Estimate 
+# Creating an Estimate 
+To create a new Estimate:
+1. Select **Estimates** in the Home Screen, followed by **New.**
+2. Select the **Service Type** - This is the type of job that you are quoting.
 
-Select Estimates in the Home Screen, followed by + New
-
-![](media/garagehive-create-an-estimate7.png)
-
-You can then start to create your estimate. 
-
-![](media/garagehive-create-an-estimate8.png)
-
-A.  Select Service Type. 
-
-B. Fill in Vehicle Registration No.<br>
-
-*   If the vehicle has been in before it will fine the customer card. 
-
-![](media/garagehive-create-an-estimate10.png)
-
-*   If the vehicle has not been in before it will find the vehicle using VRM. <br>
-            - You will now need to fill in the Customer box. <br>
-            - Type in the customers name how you would like to appear on the invoice.<br>
-            
-
-- If the customer has been in before with another vehicle. It will find the customer details. 
-
-![](media/garagehive-create-an-estimate9.png)
-
-*   If customer has not been in before it will ask you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
-
-![](media/garagehive-create-an-estimate11.png)
-
-*    Fill in this section with as much information as you require. 
-
-        *   A.  Select "Lookup Address from Postcode".
-        *   B.  Fill in postcode and select ok, then select relevant address. 
-        *   C.  Fill in as much information in the contact section specifically contact numbers and email address. 
-
-![](media/garagehive-create-an-estimate12.png)
-
-*   You can fill in comments box with any information the customer has supplied regarding the estimate. 
-
-![](media/garagehive-create-a-booking10.png)
-
-*   You can now start building the estimate by adding Labour Lines, Items, Service Packages.
-
-![](media/garagehive-create-an-estimate13.png)
-
-*   Type - Select type - i.e. Labour, Item or External Service. 
-
-*   No. - Select Labour Line, Item number or External Service type.
-
-*  Description - Fill in the description as you would want it to show on the invoice. 
-
-*   Quantity - Complete quantity.   
-
-*   Unit Cost - This remains blank for Labour. This is the cost of an item to us. 
-
-*  Unit Price - This is the cost we are charging the customer. 
-
-*   Unit Price (Calc) Incl. VAT - You can add a % margin on the cost price by using this. If you click within this cell, it will open the following pop up for you to make your calculation. 
+   ![](media/garagehive-create-an-estimate1.gif)
 
 
-*   Line Discount - If you are wanting to add discount to a job. Complete the required % within this cell.
+3. Fill in the **Vehicle Registration No.**:
+    - If the vehicle is in the system, the customer card will be auto-filled.
+    - If the vehicle is not in the system, the system will look it up using **VRM** to obtain the vehicle's details.
 
-*   Line Amount Excl. VAT - This is the total line amount pre VAT. 
+    ![](media/garagehive-create-an-estimate2.gif)
 
-This is your estimate now built. 
+4. After the VRM lookup for the vehicle, enter the customer information:
+    - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
+    - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
+5. Fill in **Address & Contact** FastTab in the **Customer** card:
+    - Select **Lookup Address from Postcode**, enter the **Postcode**, click **OK**, and then select the appropriate address.
+    - Fill in the contact information, including phone numbers and email addresses.
 
-####    If the work is authorised. 
+         ![](media/garagehive-create-an-estimate3.gif)
 
-You can either create a jobsheet with all of the items within the estimate added to it, this will in turn close down the estimate or alternatively, if there is a jobsheet already open you can select specific lines from the estimate to add to the open job. 
+6. You can enter any information the customer has provided about the estimate in the **Comments** section. 
 
-##### To convert the whole estimate into a jobsheet. 
+   ![](media/garagehive-create-an-estimate4.gif)
+   
 
-You can create a completely new jobsheet by selecting Process followed by Make Jobsheet within the actions bar. 
+7. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
+    - **Type** column - Select either **Labour** or **Item** as the line, with **External Services** included in the latter.
+    - **No** column - Enter the number for **Labour** or **Item**, in the system. For the item that you don't have in stock, you can use a placeholder item number, such as **MISC**.
+    - **Description** column - This is the item or labour description that will appear in the customer's estimate.
+    - **Quantity** column - Enter the number of items or hours to quote.
+    - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.
+    - **Unit Price** - This is the price at which the customer will buy the item or labour per unit.
+    - **Line Amount Excl. VAT** - This is the pre-VAT total line amount. 
+    - **Unit Price (Calc) Incl. VAT** column - If you click on the amount in this field, a pop-up window will appear, allowing you to do your price calculation. This can be used to add a percent margin to the cost price.
+    - **Line Discount** column - If you'd like to apply a discount to the job, within this field, fill in the percentage discount. 
 
-![](media/garagehive-create-an-estimate16.png)
+      ![](media/garagehive-create-an-estimate5.gif)
 
-This will then convert your estimate into a jobsheet number. Then go to the schedule to the relevant day and create an allocation by Select Existing Jobsheet. Search the Job number provided during the conversion or Registration number. 
+8. If you click on any amount under the **Totals Including VAT**, which is below the estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Customer Authorised** totals and **Customer Unauthorised** totals.
 
-![](media/garagehive-create-an-estimate17.png)
+   ![](media/garagehive-create-an-estimate6.gif)
 
-######  Selecting partial lines from the estimate to add to an open jobsheet. 
+### When the work in the estimate is authorised
+You can either create a jobsheet with all of the items from the estimate added to it, which will close the estimate, or you can select specific lines from the estimate to add to an open jobsheet if one already exists. 
+To convert the whole estimate into a jobsheet:
+1. In the actions bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html) in the schedule for the relevant day.
 
-Within the lines section of the Estimate, tick the customer authorised section to the lines which you wish to add onto the jobsheet. 
+   ![](media/garagehive-create-an-estimate7.gif)
 
-![](media/garagehive-create-an-estimate14.png)
+To Select partial lines from the estimate to add to an open Jobsheet:
+1. From the estimate lines, tick the checkbox in **Customer Authorised** field, for all the lines that have been authorised by the customer.
+2. Then, select **Process** from actions bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
 
-Then select Process within the Action Bar followed by Copy Authorized Lines to Jobsheet, which will add the selected lines to the open jobsheet. 
-
-![](media/garagehive-create-an-estimate15.png)
-
-
-
-
-
+   ![](media/garagehive-create-an-estimate8.gif)
