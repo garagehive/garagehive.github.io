@@ -65,6 +65,8 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4.gif)
 
+   <br>
+
    ![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-authorisation.png)
 
 4. If you click on any amount under the **Totals Including VAT**, which is below the vehicle inspection estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Jobsheet Value (Current)** totals, **Customer Authorised** totals, **Customer Unauthorised** totals and **Combined Total (Authorised)**.
