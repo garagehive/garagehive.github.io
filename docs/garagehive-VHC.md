@@ -63,9 +63,13 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 2. Add items and labour to the VIE according to the checks done.
 3. Change the **VIE Status** to **Awaiting Authorisation** from the customer, which moves it from the **Awaiting Action** to **Awaiting Authorisation** tile.
 
-![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4.gif)
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4.gif)
 
-![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-authorisation.png)
+   ![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-authorisation.png)
+
+4. If you click on any amount under the **Totals Including VAT**, which is below the vehicle inspection estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Jobsheet Value (Current)** totals, **Customer Authorised** totals, **Customer Unauthorised** totals and **Combined Total (Authorised)**.
+
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4a.gif)
 
 ### Adding customer authorisation and copy the authorised lines to jobsheet
 You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
