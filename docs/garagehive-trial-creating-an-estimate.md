@@ -21,11 +21,15 @@ To create a new estimate from the role centre:
 1. Click on **+Estimate** from the actions bar. 
 2. Fill in the vehicle and customer details on the **General** FastTab.
 
-![](media/garagehive-trial-creating-an-estimate1.gif)
+   ![](media/garagehive-trial-creating-an-estimate1.gif)
 
 3. Add items and labour from the **Lines** section. For the items which don't exist in the system(for example, items that you've not used before), you can use a placeholder item **No.** for example, **MISC** as you wait for the correct item **No.**.
 
-![](media/garagehive-trial-creating-an-estimate2.gif)
+   ![](media/garagehive-trial-creating-an-estimate2.gif)
+
+4. If you click on any amount under the **Totals Including VAT**, which is below the estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Customer Authorised** totals and **Customer Unauthorised** totals.
+
+   ![](media/garagehive-create-an-estimate6.gif)
 
 ### Copy authorised lines into a jobsheet
 There are two ways to convert an estimate into a jobsheet, first is copying the customer authorised lines into a jobsheet:
