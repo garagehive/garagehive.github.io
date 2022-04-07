@@ -27,17 +27,17 @@ To create a new Jobsheet:
          ![](media/garagehive-create-an-estimate3.gif)
 
 6. You can now add the following details:
-   - **Arrival Date** and **Arrival Time** 
-   - **Requested Delivery Date** and **Requested Delivery Time**
-   - **External Document No.**
-   - **Work Status Code**
-   - **Vehicle on Site**
-   - **Vehicle Staying Overnight**
-   - **Collection and Delivery**
-   - **Key Tag Text**
-   - **Key Tag No.**
-   - **Marketing Channel**
-   - **Work Description**
+   - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
+   - **Requested Delivery Date** and **Requested Delivery Time** - This is the date and time the customer has requested that the car be delivered after the work has been completed.
+   - **External Document No.** - This is the number for the external document that is related to the work being done on the vehicle.
+   - **Work Status Code** - This is the status of the work being done on the vehicle.
+   - **Vehicle on Site** - This indicates that the vehicle is on site.
+   - **Vehicle Staying Overnight** - This indicates that the vehicle will be staying overnight in the garage.
+   - **Collection and Delivery** - This indicates whether the car should be picked up from the customer's location and delivered once the work is completed.
+   - **Key Tag Text** - This is the number marked on the vehicle key attachment, which can also be a text.
+   - **Key Tag No.** - This is the number marked on the vehicle key attachment, and set up in the system to help also identify parts that belong to the vehicle by using the same number in a purchase order.
+   - **Marketing Channel** - This is the channel through which the customer was acquired.
+   - **Work Description** - This is the description of the products or services being offered, it appears at the top of the invoice when printed.
 
 7. 
 7. You can enter any information the customer has provided about the estimate in the **Comments** section. 
