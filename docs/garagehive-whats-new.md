@@ -5,7 +5,7 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
-### 07th April 2022
+### 7th April 2022
 * Added a user-defined Fuel Type Group list.
 
    ![](media/garagehive-fuel-type-group.png)
