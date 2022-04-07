@@ -91,7 +91,7 @@ You've already communicated with the customer and been advised on what work need
 > **Note:**
 >
 > The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
-> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.PNG)
+> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
 
 
 # See Also
