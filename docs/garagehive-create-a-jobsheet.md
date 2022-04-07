@@ -1,37 +1,51 @@
 ---
 layout: docs
-title: Creating an Estimate
+title: Creating a Jobsheet
 ---
 
-# Creating an Estimate 
-To create a new Estimate:
-1. Select **Estimates** in the Home Screen, followed by **New.**
-2. Select the **Service Type** - This is the type of job that you are quoting.
+# Creating a Jobsheet 
+To create a new Jobsheet:
+1. Select **Jobsheets** in the Home Screen, followed by **New.**
+2. Select the **Service Type** - This is the type of job to do.
 
    ![](media/garagehive-create-an-estimate1.gif)
-
 
 3. Fill in the **Vehicle Registration No.**:
     - If the vehicle is in the system, the customer card will be auto-filled.
     - If the vehicle is not in the system, the system will look it up using **VRM** to obtain the vehicle's details.
+4. Enter the current vehicle mileage, in the **Mileage** field.
 
     ![](media/garagehive-create-an-estimate2.gif)
 
-4. After the VRM lookup for the vehicle, enter the customer information:
+5. After the VRM lookup for the vehicle, enter the customer information:
     - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
     - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
 5. Fill in **Address & Contact** FastTab in the **Customer** card:
     - Select **Lookup Address from Postcode**, enter the **Postcode**, click **OK**, and then select the appropriate address.
-    - Fill in the contact information, including phone numbers and email addresses.
+    - Fill in the contact information, including phone number and email address.
 
          ![](media/garagehive-create-an-estimate3.gif)
 
-6. You can enter any information the customer has provided about the estimate in the **Comments** section. 
+6. You can now add the following details:
+   - **Arrival Date** and **Arrival Time** 
+   - **Requested Delivery Date** and **Requested Delivery Time**
+   - **External Document No.**
+   - **Work Status Code**
+   - **Vehicle on Site**
+   - **Vehicle Staying Overnight**
+   - **Collection and Delivery**
+   - **Key Tag Text**
+   - **Key Tag No.**
+   - **Marketing Channel**
+   - **Work Description**
+
+7. 
+7. You can enter any information the customer has provided about the estimate in the **Comments** section. 
 
    ![](media/garagehive-create-an-estimate4.gif)
    
 
-7. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
+8. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
     - **Type** column - Select either **Labour** or **Item** as the line, with **External Services** included in the latter.
     - **No** column - Enter the number for **Labour** or **Item**, in the system. For the item that you don't have in stock, you can use a placeholder item number, such as **MISC**.
     - **Description** column - This is the item or labour description that will appear in the customer's estimate.
@@ -44,7 +58,7 @@ To create a new Estimate:
 
       ![](media/garagehive-create-an-estimate5.gif)
 
-8. If you click on any amount under the **Totals Including VAT**, which is below the estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Customer Authorised** totals and **Customer Unauthorised** totals.
+9.  If you click on any amount under the **Totals Including VAT**, which is below the estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Customer Authorised** totals and **Customer Unauthorised** totals.
 
    ![](media/garagehive-create-an-estimate6.gif)
 
