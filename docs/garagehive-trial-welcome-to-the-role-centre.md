@@ -10,7 +10,7 @@ The Role Centre is your entry point and home page for your Garage Hive system. F
 
 The Service Advisor Role Centre (Home Screen) is divided into the following sections:    
 
-![](media/garagehive-trial-role-centre-edit.PNG)
+![](media/garagehive-trial-role-centre-edit.png)
 
 #### 1. Navigation menu
 

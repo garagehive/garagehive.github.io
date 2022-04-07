@@ -80,7 +80,7 @@ To reset a garage hive user's password:
 
 4. The user will receive an email with the new password and a link to login. When the user logs in, they will be prompted to change the password to a new password. The **Old Password** should be the password received via email, and the **New Password** should be the user coming up with it, and **Confirm Password**.
 
-   ![](media/garagehive-user-management13.PNG)
+   ![](media/garagehive-user-management13.png)
 
 **The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.**
 

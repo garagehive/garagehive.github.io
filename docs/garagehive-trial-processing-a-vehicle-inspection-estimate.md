@@ -42,7 +42,7 @@ After completing the vehicle checks, the checklist is now ready for the next sta
 ### Add items and labour to the vehicle inspection estimate and change status
 From the role centre, you can check the status tiles of the vehicle inspection estimate.
 
-![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-action.PNG)
+![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-action.png)
 
 After creating a VIE from the checklist, the status is **Awaiting Action**, to give the service advisor an alert to take action:
 1. Click on the **Awaiting Action** tile to open the VIE list, and select the VIE to work on.
@@ -76,7 +76,7 @@ You've already communicated with the customer and been advised on what work need
 > **Note:**
 >
 > The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
-> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.PNG)
+> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
 
 
 ### **See Also**
