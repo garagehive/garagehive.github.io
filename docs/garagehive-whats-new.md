@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 Below is a brief list of Garage Hive developments:
 
 ### 25th March 2022
+* Added a user-defined Fuel Type Group list.
+
+   ![](media/garagehive-fuel-type-group.png)
+
+* Added the ability to copy the **VIN** in the factbox, for parts lookup.
+
+   ![](media/garagehive-copy-vin-to-clipboard.png)
+
+### 25th March 2022
 * Added a **Create Alternative** action Within the **Group Item** subpage, read more [here](garagehive-group-items-working-with-group-items-actions.html).
 
    ![](media/garagehive-group-item-create-alternative.png)
