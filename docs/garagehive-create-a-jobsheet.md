@@ -67,6 +67,9 @@ To create a new Jobsheet:
 
          ![](media/garagehive-create-a-jobsheet7.gif)
 
+11. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
+
+      ![](media/garagehive-create-a-jobsheet8.gif)
 
 <br>
 
