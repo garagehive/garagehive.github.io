@@ -1,11 +1,11 @@
 ---
 layout: docs
-title: Creating a New Jobsheet
+title: Creating a New Jobsheet From various places in Garage Hive
 ---
 
-# Creating a New Jobsheet
+# Creating a New Jobsheet From Various Places in Garage Hive
 
-A Jobsheet can be created from multiple places:
+A Jobsheet can be created from various places in Garage Hive:
 
 1. From a VIE
 2. From an Estimate
