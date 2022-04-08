@@ -20,24 +20,24 @@ To create a new Jobsheet:
 5. After the VRM lookup for the vehicle, enter the customer information:
     - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
     - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
-5. Fill in **Address & Contact** FastTab in the **Customer** card:
+6. Fill in **Address & Contact** FastTab in the **Customer** card:
     - Select **Lookup Address from Postcode**, enter the **Postcode**, click **OK**, and then select the appropriate address.
     - Fill in the contact information, including phone number and email address.
 
          ![](media/garagehive-create-a-jobsheet3.gif)
 
-6. You can now add the following details:
-   - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
-   - **Requested Delivery Date** and **Requested Delivery Time** - This is the date and time the customer has requested that the car be delivered after the work has been completed.
-   - **External Document No.** - This is the number for the external document that is related to the work being done on the vehicle.
-   - **Work Status Code** - This is the status of the work being done on the vehicle.
-   - **Vehicle on Site** - This indicates that the vehicle is on site.
-   - **Vehicle Staying Overnight** - This indicates that the vehicle will be staying overnight in the garage.
-   - **Collection and Delivery** - This indicates whether the car should be picked up from the customer's location and delivered once the work is completed.
-   - **Key Tag Text** - This is the number marked on the vehicle key attachment, which can also be a text.
-   - **Key Tag No.** - This is the number marked on the vehicle key attachment, and set up in the system to help also identify parts that belong to the vehicle by using the same number in a purchase order.
-   - **Marketing Channel** - This is the channel through which the customer found the business.
-   - **Work Description** - This is the description of the products or services being offered, it appears at the top of the invoice when printed.
+7. You can now add the following details:
+     - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
+     - **Requested Delivery Date** and **Requested Delivery Time** - This is the date and time the customer has requested that the car be delivered after the work has been completed.
+     - **External Document No.** - This is the number for the external document that is related to the work being done on the vehicle.
+     - **Work Status Code** - This is the status of the work being done on the vehicle.
+     - **Vehicle on Site** - This indicates that the vehicle is on site.
+     - **Vehicle Staying Overnight** - This indicates that the vehicle will be staying overnight in the garage.
+     - **Collection and Delivery** - This indicates whether the car should be picked up from the customer's location and delivered once the work is completed.
+     - **Key Tag Text** - This is the number marked on the vehicle key attachment, which can also be a text.
+     - **Key Tag No.** - This is the number marked on the vehicle key attachment, and set up in the system to help also identify parts that belong to the vehicle by using the same number in a purchase order.
+     - **Marketing Channel** - This is the channel through which the customer found the business.
+     - **Work Description** - This is the description of the products or services being offered, it appears at the top of the invoice when printed.
 
       ![](media/garagehive-create-a-jobsheet4.gif)
 
@@ -47,14 +47,14 @@ To create a new Jobsheet:
 
 8. Under the **Checklist** subpage, you can view and access any checklists that are linked to the jobsheet.
 
-   ![](media/garagehive-create-a-jobsheet5.gif)
+      ![](media/garagehive-create-a-jobsheet5.gif)
 
 9.  You can enter any information the customer has provided about the job to be done in the **Comments** subpage. 
 
-   ![](media/garagehive-create-a-jobsheet6.gif)
+      ![](media/garagehive-create-a-jobsheet6.gif)
    
 
-11.  You can now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
+10. You can now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
     - **Type** column - Select either **Labour** or **Item** as the line, with **External Services** included in the latter.
     - **No** column - Enter the number for **Labour** or **Item**, in the system.
     - **Description** column - This is the item or labour description that will appear in the customer's invoice.
@@ -65,7 +65,7 @@ To create a new Jobsheet:
     - **Unit Price (Calc) Incl. VAT** column - If you click on the amount in this field, a pop-up window will appear, allowing you to do your price calculation. This can be used to add a percent margin to the cost price.
     - **Line Discount** column - If you'd like to apply a discount to the job, within this field, fill in the percentage discount. 
 
-      ![](media/garagehive-create-a-jobsheet7.gif)
+         ![](media/garagehive-create-a-jobsheet7.gif)
 
 
 <br>
