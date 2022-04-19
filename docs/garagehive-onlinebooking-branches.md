@@ -25,4 +25,4 @@ Back in the **Online Booking Setup** page:
    ![](media/garagehive-onlinebooking-branches3.gif)
 
  
-# [NEXT STEP](/docs/garagehive-onlinebooking-holidays.html)
+[Next step](/docs/garagehive-onlinebooking-holidays.html)

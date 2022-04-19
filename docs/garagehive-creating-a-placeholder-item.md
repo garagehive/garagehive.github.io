@@ -33,14 +33,8 @@ After creating a placeholder item, you can add it to a document for items you ar
 3. Add a description and unit price. 
 4. You can as well [Create a Purchase Order for the Item from the Jobsheet](garagehive-create-a-purchase-order.html).
 
-> **Tip:**
->
-> The placeholder item can be used as many times as need be.
+{% include tip.html title="Tip" text="The placeholder item can be used as many times as need be." %}
 
 ![](media/garagehive-placeholder-item3.gif)
 
-
-> **Note**
-> 
-> When you receive the purchase invoice from the supplier, replace the placeholder item with the item in the purchase invoice. It is not possible to post a document with a placeholder item.
-
+{% include tip.html title="Note" text="When you receive the purchase invoice from the supplier, replace the placeholder item with the item in the purchase invoice. It is not possible to post a document with a placeholder item." %}
