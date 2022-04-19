@@ -21,14 +21,17 @@
 	{% endif %}
 {% endfor %}
 		  <!-- Sidebar -->
-			<div class="col-md-4 col-xl-3 order-last order-md-first">
-				<hr class="d-md-none">
-				<aside class="sidebar sidebar-stick-shadow pr-md-5 br-1">
+			<div class="col-xl-3 left-sidebar">
+				<div class="sidebar-opener">Table of Contents</div>
+				<aside class="sidebar sidebar-stick-shadow pr-md-5 br-1" style="width: 255px;">
+					<div class="sidbear-toggle-btn-box">
+						<div class="sidebar-toggle-btn"></div>
+					</div>
 					{% include searchform.html %}
 					<br>
 					<ul class="nav nav-sidebar nav-sidebar-hero" data-accordion="true">
 						{% for item in site.data.docssidebar %}
-						<li class="nav-item">
+						<li class="nav-item{% if item == activeitem %} opened{% endif %}">
 							<a class="nav-link{% if item == activeitem %} active{% endif %}" href="{{ item.url }}">{{ item.name }} <i class="nav-angle"></i></a>
 							{% if item.subitems[0] %}
 							<div class="nav">

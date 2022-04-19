@@ -1,19 +1,21 @@
 
-	<!-- Navbar -->
-	<nav class="navbar navbar-expand-lg navbar-dark navbar-stick-dark" data-navbar="static">
+  <!-- Navbar -->
+  <nav class="navbar">
     <div class="container">
 
       <div class="navbar-left">
-        <button class="navbar-toggler" type="button">&#9776;</button>
         <a class="navbar-brand" href="/index.html">
           <img class="logo-dark" src="/assets/img/logo-top.png" alt="logo">
           <img class="logo-light" src="/assets/img/logo-top.png" alt="logo">
         </a>
       </div>
 
+      <div class="col-btn-box">
+        <div class="col-btn"></div>
+      </div>
+
       <section class="navbar-mobile">
         <span class="navbar-divider d-mobile-none"></span>
-
         <nav class="nav nav-navbar ">
           {% for item in site.data.navigation %}
           <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
@@ -23,4 +25,4 @@
 
     </div>
   </nav>
-	<!-- /.navbar -->
+  <!-- /.navbar -->
