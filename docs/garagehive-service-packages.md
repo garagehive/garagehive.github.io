@@ -16,6 +16,8 @@ To create or edit a service package:
 
    ![](media/garagehive-create-service-package2.gif)
 
+   {% include tip.html title="Note" text="test" %}
+
 4. In the **General** FastTab, there is a slider for **Compress Document Lines**, which, when enabled, compresses all the lines in this package on the printed document to show only the package description and its value.
 5. In the **Main Description** field, select either **Package Header** or **Package Version**. This determines the description that will be added to the document; package header is the description in the **General** FastTab, and **Package Version** is the description of the version that you are about to setup in the **Versions** sub-page.
 
