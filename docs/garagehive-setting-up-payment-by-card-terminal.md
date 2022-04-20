@@ -23,7 +23,7 @@ To setup payment by **Card Terminal**:
 
    {% include tip.html title="Note" text="The User URL is the number that appears at the beginning of the API URL. Only the number should be copied into the User URL field." %}
 
-     ![](media/garagehive-card-terminal4.png)
+   ![](media/garagehive-card-terminal4.png)
 
 7. Click the **Back** arrow to exit the **Payment Gateway Card** and save your changes. Your new payment method is now active.
  
