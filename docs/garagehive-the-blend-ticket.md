@@ -17,7 +17,7 @@ If you are a Garage Hive customer, you can now order The Blend ticket(s) directl
 
 3. Choose a **Ticket Type** for the attendee; it can be **Conference & Evening Event**, which allows access to both the **Day Conference** and the **Evening Event**, or **Evening Event Only**, which only allows access to the **Evening Event**. 
 
-   {% include tip.html title="Note" text="A company cannot order only **Evening Event Only** ticket(s); a company is required to at least order one **Conference & Evening Event** ticket type." %}
+   {% include tip.html title="Note" text="A company cannot order only Evening Event Only ticket(s); a company is required to at least order one Conference & Evening Event ticket type." %}
 
 4. Add the **Email** for the attendee(s) in the **Email** field.
 

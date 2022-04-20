@@ -19,7 +19,7 @@ To preview an online document from a jobsheet:
 
    ![](media/garagehive-online-documents-previewing-and-publishing1.gif)
 
-   {% include tip.html title="Note" text="All action categories must have an action category **Type** to ensure that they are placed in a group online." %}
+   {% include tip.html title="Note" text="All action categories must have an action category Type to ensure that they are placed in a group online." %}
 
 3. To preview the online document, select **Print/Send** from the document actions bar, then **Publish Online Document** and set the **Mode** to **Internal Preview**. Because **Internal Preview** is always the default mode, you can click **OK**.
 

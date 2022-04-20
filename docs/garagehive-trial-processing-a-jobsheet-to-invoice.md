@@ -21,7 +21,7 @@ When the work on the vehicle is finished:
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice1.gif)
 
-{% include tip.html title="Note" text="For the jobsheet to be complete, the technician must mark it **Complete**." %}
+{% include tip.html title="Note" text="For the jobsheet to be complete, the technician must mark it Complete." %}
 
 ### Taking payments on a jobsheet
 To receive payment from the customer:

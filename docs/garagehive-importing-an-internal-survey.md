@@ -26,7 +26,7 @@ When receiving a survey from an external source for a repeat time, the existing 
   ![](media/garagehive-internal-surveys204.gif)
 
 
-{% include tip.html title="Note" text="When importing the survey as a **Template**, the participants settings remains unchanged." %}
+{% include tip.html title="Note" text="When importing the survey as a Template, the participants settings remains unchanged." %}
 
 
 <br>

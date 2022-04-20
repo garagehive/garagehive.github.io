@@ -21,7 +21,7 @@ To setup payment by **Card Terminal**:
 
 6. In the **Card Terminal (Connect)** FastTab, enter the details that are on the email from payment sense; that is **User URL**, **API Key** and the **Terminal ID**. After filling in the fields, enable the payment method by selecting the **Enabled** slider in **General** FastTab.
 
-   {% include tip.html title="Note" text="The **User URL** is the number that appears at the beginning of the **API URL**. Only the number should be copied into the **User URL** field." %}
+   {% include tip.html title="Note" text="The User URL is the number that appears at the beginning of the API URL. Only the number should be copied into the User URL field." %}
 
      ![](media/garagehive-card-terminal4.png)
 

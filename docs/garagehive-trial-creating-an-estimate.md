@@ -46,7 +46,7 @@ The other method to convert an estimate into a jobsheet:
 
 ![](media/garagehive-trial-creating-an-estimate4.gif)
 
-{% include tip.html title="Note" text="From the role centre estimate tiles, the estimate will be on the **Awaiting Action** tile. After making a jobsheet, the estimate is no longer available in the tile because it has been archived." %}
+{% include tip.html title="Note" text="From the role centre estimate tiles, the estimate will be on the Awaiting Action tile. After making a jobsheet, the estimate is no longer available in the tile because it has been archived." %}
 
 
 ### **See Also**

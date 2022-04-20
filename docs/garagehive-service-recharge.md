@@ -24,6 +24,7 @@ In this article, we'll look at recording the added cost in your inventory value.
 Before you can assign item charges, you must set up item charge numbers for the different types of item charges, including where G/L account costs related to sales, purchases, and inventory adjustments are posted. An item charge number contains a combination of general product posting group, VAT product posting group, and item charge. When you enter the item charge number on a purchase or sales document, the relevant G/L account is retrieved based on the setup of the item charge number and the information on the document.
 
 {% include tip.html title="Note" text="For help in setting up the item charges correctly, please get in touch with our support team." %}
+
 <br>
 
 To set up the item charges:
