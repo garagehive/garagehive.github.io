@@ -9,7 +9,7 @@ title: Create a Purchase Order
 
 There are 2 ways of creating a purchase order, either directly from a jobsheet or from the home screen and link to jobsheet if required.   
 
-##### First Method Creating a Purchase Order direct from a jobsheet. 
+### First Method Creating a Purchase Order direct from a jobsheet. 
 
 1. Open relevant jobsheet and scroll down to lines and select Item.
 
@@ -45,10 +45,9 @@ It will then alert that a purchase order has been created. If multiple suppliers
 
 ![](media/garagehive-creating-a-purchase-order17.png)
 
-***THE PURCHASE ORDER HAS NOW BEEN RAISED AND READY FOR THE PARTS TO BE ORDERED 
-THE NEXT STEP WILL BE TO RECEIVE THE PARTS INTO STOCK AND POST THE PURCHASE ORDER***
+> The Purchase Order has now been raised and ready for the parts to be ordered. The next step will be to receive the parts into stock and post the Purchase Order.
 
-##### Second Method Creating a Purchase Order to link to a jobsheet. 
+### Second Method Creating a Purchase Order to link to a jobsheet. 
 (This option is usually only used once the invoice has been received from the supplier)
 
 Within the Actions Bar on the Home screen, 

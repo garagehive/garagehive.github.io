@@ -19,4 +19,4 @@ Back in the **Online Booking Setup** page:
     ![](media/garagehive-onlinebooking-resources3.gif)
  
 
-# [NEXT STEP](/docs/garagehive-onlinebooking-resource-groups.html)
+[Next step](/docs/garagehive-onlinebooking-resource-groups.html)

@@ -50,4 +50,4 @@ Back in the **Online Booking Setup** page:
     ![](media/garagehive-onlinebooking-service-packages3.png)
 
 
-# [NEXT STEP](/docs/garagehive-onlinebooking-time-grids.html)
+[Next step](/docs/garagehive-onlinebooking-time-grids.html)

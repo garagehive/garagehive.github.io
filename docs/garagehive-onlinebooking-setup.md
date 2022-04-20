@@ -38,4 +38,4 @@ To setup online booking:
         ![](media/garagehive-onlinebooking-setup5.png)
 
 
-# [**NEXT STEP**](/docs/garagehive-onlinebooking-branches.html)
+[Next step](/docs/garagehive-onlinebooking-branches.html)
