@@ -1,18 +1,18 @@
 ---
 layout: docs
-title: Using Tyre Click Booking System in Garage Hive 
+title: Using TyreClick Booking System in Garage Hive 
 ---
 
 ## In this article
-1. [Online Booking Connection Setup for Tyre Click](#online-booking-connection-setup-for-tyre-click)
-2. [Tyre Click online booking example](#tyre-click-online-booking-example)
+1. [Online Booking Connection Setup for TyreClick](#online-booking-connection-setup-for-tyre-click)
+2. [TyreClick online booking example](#tyre-click-online-booking-example)
 3. [Opening the booking in Garage Hive](#Opening-the-booking-in-Garage-Hive)
 
-### Online Booking Connection Setup for Tyre Click
-**Tyre Click** is an online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. Tyre Click is now integrated with Garage Hive to enable online booking of tyre services, and creating of jobsheet from the booking.
+### Online Booking Connection Setup for TyreClick
+**TyreClick** is a [Micheldever](https://www.micheldever.co.uk/){:target="_blank"} tyre supplier online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. TyreClick is now integrated with Garage Hive to enable online booking of tyre services, and creating of jobsheet from the booking.
 
 1. In the top-right corner, choose the search icon, enter **Online Booking Connections**,  and select the related link.
-2. Select **New** from the actions bar on the **Online Booking Connections** page to create a new online connection for Tyre Click integration.
+2. Select **New** from the actions bar on the **Online Booking Connections** page to create a new online connection for TyreClick integration.
 
    ![](media/garagehive-tyre-click-setup1.gif)
 
@@ -44,9 +44,9 @@ title: Using Tyre Click Booking System in Garage Hive
 
    ![](media/garagehive-tyre-click-setup4.png)
 
-### Tyre Click online booking example
-Here is the process of the customer getting to use the Tyre Click online booking:
-1. To buy and book a tyre, the customer goes to the tyre click website address provided. They begin by entering their vehicle registration in the **Enter your registration** field, or they can search for tyres by size; we'll use the registration number in this case, and then click on **Search**.
+### TyreClick online booking example
+Here is the process of the customer getting to use the TyreClick online booking:
+1. To buy and book a tyre, the customer goes to the TyreClick website address provided. They begin by entering their vehicle registration in the **Enter your registration** field, or they can search for tyres by size; we'll use the registration number in this case, and then click on **Search**.
 2. On the next page, customers choose a type of tyre that meets their needs and is available for the car registration they specified, then click **Continue**.
 3. Then, on the following page, customers can choose the tyre to **Buy** from the many ranges and brands of recommended tyres.
 

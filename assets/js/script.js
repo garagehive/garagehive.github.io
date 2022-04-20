@@ -1,63 +1,55 @@
-'use strict';
+jQuery(function($){
+	$( document ).ready(function() {
+		$('table').wrap('<div class="table-inner-wrapper"></div>');
+		$('.table-inner-wrapper').wrap('<div class="table-wrapper"></div>');
+		$('.sidebar ul.nav div.nav').parent().addClass('sub-menu');
 
-$(function() {
+		$('.sidebar ul.nav .sub-menu > a').on('click', function(e) {
+			e.preventDefault();
+			if ($(this).parent().hasClass('opened')) {
+				$(this).parent().removeClass('opened');
+			} else {
+				$('.sidebar ul.nav .sub-menu').removeClass('opened');
+				$(this).parent().addClass('opened');
+			}
+		});
 
-
-  /*
-  |--------------------------------------------------------------------------
-  | Configure your website
-  |--------------------------------------------------------------------------
-  |
-  | We provided several configuration variables for your ease of development.
-  | Read their complete description and modify them based on your need.
-  |
-  */
-
-  page.config({
-
-    /*
-    |--------------------------------------------------------------------------
-    | Google Analytics Tracking
-    |--------------------------------------------------------------------------
-    |
-    | If you want to use Google Analytics, you can specify your Tracking ID in
-    | this option. Your key would be a value like: UA-12345678-9
-    |
-    */
-
-    googleAnalyticsId: '',
-
-    /*
-    |--------------------------------------------------------------------------
-    | Smooth Scroll
-    |--------------------------------------------------------------------------
-    |
-    | If true, the browser's scrollbar moves smoothly on scroll and gives your
-    | visitor a better experience for scrolling.
-    |
-    */
-
-    smoothScroll: true,
-
-  });
+		$('.navbar .col-btn-box').on('click', function(e){
+			e.preventDefault();
+			toggleMobileMenu();
+		});
 
 
+		$('.left-sidebar .sidebar-opener').on('click', function(e){
+			e.preventDefault();
+			toggleMobileMenu('sidebar-opened');
+		});
+		$('.left-sidebar .sidebar-toggle-btn').on('click', function(e){
+			e.preventDefault();
+			toggleMobileMenu('sidebar-opened');
+		});
 
-
-
-  /*
-  |--------------------------------------------------------------------------
-  | Custom Javascript code
-  |--------------------------------------------------------------------------
-  |
-  | Now that you configured your website, you can write additional Javascript
-  | code below this comment. You might want to add more plugins and initialize
-  | them in this file.
-  |
-  */
-
-
-
-
+		function openPopUp() {
+ 			const scrollY = document.documentElement.style.getPropertyValue('--scroll-y');
+ 			const body = document.body;
+ 			body.style.position = 'fixed';
+ 			body.style.top = `-${scrollY}`;
+ 		}
+ 		function closePopUp() {
+ 			const body = document.body;
+ 			const scrollY = body.style.top;
+ 			body.style.position = '';
+ 			body.style.top = '';
+ 			window.scrollTo(0, parseInt(scrollY || '0') * -1);
+ 		}
+		function toggleMobileMenu(classToToggle = 'top-navs-opened') {
+			if($('body').hasClass(classToToggle)) {
+				$('body').removeClass(classToToggle);
+				closePopUp();
+			} else {
+				$('body').addClass(classToToggle);
+				openPopUp();
+			}
+		}
+	});
 });
-
