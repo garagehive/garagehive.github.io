@@ -4,7 +4,7 @@ title: User Management
 ---
 
 #   How to Manage System Users Within Garage Hive 
-In Garage Hive system, you can add and remove users in the system. The user marked as system admin is the **ONLY** user who can manage the users.
+In Garage Hive system, you can add and remove users in the system. The user marked as system admin is the **only** user who can manage the users.
 
 ## In this article
 1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
@@ -82,9 +82,9 @@ To reset a garage hive user's password:
 
    ![](media/garagehive-user-management13.png)
 
-**The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.**
+> The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.
 
-{% include tip.html title="Note" text="All users created in the system need a licence; talk to our support team to activate your licences, or [raise a ticket](https://www.garagehive.co.uk/subs)." %}
+{% include tip.html title="Note" text="All users created in the system need a licence; talk to our support team to activate your licences." %}
 
 
 ### **See Also**
