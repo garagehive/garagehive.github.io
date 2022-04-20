@@ -40,9 +40,7 @@ Here's how to use the **Sales Order** in Garage Hive:
 1.  If a customer requests that the parts be fitted to the vehicle, you can generate a **Jobsheet** from the **Sales Order**. Enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
 1. Choose **Process** from the actions bar, followed by **Create Jobsheet**.
     
-    > **Note:**
-    > 
-    > If you continue without entering a **Vehicle Registration No.**, the system will generate a dummy registration number that you can replace later.
+    {% include tip.html title="Note" text="If you continue without entering a **Vehicle Registration No.**, the system will generate a dummy registration number that you can replace later." %}
 
    ![](media/garagehive-parts-sales-order5.gif)
 

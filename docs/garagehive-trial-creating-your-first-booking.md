@@ -51,9 +51,7 @@ To add a comment:
 
 ![](media/garagehive-trial-create-a-booking4.gif)
 
-> **Note:** 
->
-> Unlike other fields in the system, the **Comment (Extended)** field can be as long as you want.
+{% include tip.html title="Note" text="Unlike other fields in the system, the **Comment (Extended)** field can be as long as you want." %}
 
 
 ### See Also

@@ -21,9 +21,7 @@ To open the jobsheet from the role centre:
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet1.gif)
 
-> **Note:** 
->
-> Avoid left-clicking to ensure you don’t open two jobsheets at the same time.
+{% include tip.html title="Note" text="Avoid left-clicking to ensure you don’t open two jobsheets at the same time." %}
 
 ### Adding items and labour in the jobsheet manually
 There are several ways to add items and labour lines to a jobsheet. One way is to do it manually:
@@ -34,9 +32,7 @@ There are several ways to add items and labour lines to a jobsheet. One way is t
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet2.gif)
 
-> **Tip:**
->
-> To move between cells, you can press the tab button or use the front and back arrows. 
+{% include tip.html title="Tip" text="To move between cells, you can press the tab button or use the front and back arrows." %} 
 
 ### Adding items and labour in the jobsheet using service packages
 The second method to add items and labour lines to a jobsheet is through service packages:
@@ -46,9 +42,7 @@ The second method to add items and labour lines to a jobsheet is through service
 
 ![](media/garagehive-trial-adding-items-and-labour-to-a-jobsheet3.gif)
 
-> **Tip:** 
->
-> You can pin the navigation menu on top.
+{% include tip.html title="Tip" text="You can pin the navigation menu on top." %}
 
 
 ### **See Also**

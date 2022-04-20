@@ -28,9 +28,7 @@ To integrate your external accountancy system with Garage Hive:
 
 8. In the **External System No.** column, enter the account numbers for the accounts you want to integrate with the external system. In this case, we'll integrate all of the **4000s** accounts.
 
-   > **Note:**
-   >
-   > Typically only the **4000's and 5000's** accounts are needed.
+   {% include tip.html title="Note" text="Typically only the **4000's and 5000's** accounts are needed." %}
 
 
    ![](media/garagehive-external-accountancy-integration5.gif)

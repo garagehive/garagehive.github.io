@@ -20,10 +20,9 @@ Autodata Labour Time Adjustment is a feature that ensures that the actual time i
 
    ![](media/garagehive-autodata-labour-time-adjustment3.gif)
 
-> **Note:**
->
-> Some autodata repair times maybe cached in the system, and to make sure that the changes you make have immediate effect consider using the **Clear Autodata Cache**. In the **Labour Time Adjustment** page, click on **More Options**, Choose **Actions** and select **Clear Autodata Cache**.
-> ![](media/garagehive-autodata-labour-time-adjustment4.png)
+{% include tip.html title="Note" text="Some autodata repair times maybe cached in the system, and to make sure that the changes you make have immediate effect consider using the **Clear Autodata Cache**. In the **Labour Time Adjustment** page, click on **More Options**, Choose **Actions** and select **Clear Autodata Cache**." %}
+
+![](media/garagehive-autodata-labour-time-adjustment4.png)
 
 <br>
 

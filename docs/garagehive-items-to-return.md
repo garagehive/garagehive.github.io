@@ -16,9 +16,7 @@ This report regularly ensures that parts are returned and not lost or thrown awa
 
     ![](media/garagehive-items-to-return1.gif)
 
-    > **Note:**
-    >
-    > Based on the criteria stated above, the report opens a list of suggested items that you shouldn't have in stock. 
+    {% include tip.html title="Note" text="Based on the criteria stated above, the report opens a list of suggested items that you shouldn't have in stock." %}
 
 3. You can now select the items to return by adding the quantity in **Qty. For Return** column and the respective **Vendor No.** or **Vendor Name** column.
 

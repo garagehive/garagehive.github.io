@@ -35,9 +35,7 @@ After completing the vehicle checks, the checklist is now ready for the next sta
 
 ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate3.gif)
 
-> **Note:**
->
-> After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card.
+{% include tip.html title="Note" text="After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card." %}
 
 ### Add items and labour to the vehicle inspection estimate and change status
 From the role centre, you can check the status tiles of the vehicle inspection estimate.
@@ -73,10 +71,8 @@ You've already communicated with the customer and been advised on what work need
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
 
 
-> **Note:**
->
-> The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
-> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
+{% include tip.html title="Note" text="The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines." %}
+![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
 
 
 ### **See Also**

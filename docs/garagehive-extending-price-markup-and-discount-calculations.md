@@ -131,6 +131,4 @@ To specify sales markup for specific item(s) or labour(s):
 
 <br>
 
-> **Note:**
->
-> This may be a little bit complicated setup, but if you have any questions, please get in touch with our support team.
+{% include tip.html title="Note" text="This may be a little bit complicated setup, but if you have any questions, please get in touch with our support team." %}

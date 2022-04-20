@@ -20,9 +20,7 @@ To post a purchase order in the system:
 
 ![](media/garagehive-trial-processing-a-purchase-order1.gif)
 
-> **Note:** 
->
-> All the information in the supplier invoice must match the purchase order, even if the invoice has incorrect information.
+{% include tip.html title="Note" text="All the information in the supplier invoice must match the purchase order, even if the invoice has incorrect information." %}
 
 ### Receive and post the purchase order
 After ensuring that all the information in the purchase order is correct, the purchase order needs to be posted:
