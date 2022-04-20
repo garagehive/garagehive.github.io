@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Creating a New Jobsheet From various places in Garage Hive
+title: Creating a New Jobsheet From Various Places in Garage Hive
 ---
 
 # Creating a New Jobsheet From Various Places in Garage Hive
@@ -12,7 +12,7 @@ A Jobsheet can be created from various places in Garage Hive:
 3. From the schedule
 4. Online booking
 
-Let's look at how to make a jobsheet from the places listed above:
+Let's look at how to make a Jobsheet from the places listed above:
 
 
 ### Creating Jobsheet from Vehicle Inspection Estimate (VIE)
