@@ -27,7 +27,7 @@ To create or edit a service package:
 
    ![](media/garagehive-create-service-package4.gif)
 
-{% include tip.html title="Tip" text="Here you can build the version as if it were lines on a jobsheet, and we recommend using **Placeholder Items** like "MISC" to hold the place of items needed for this version." %}
+   {% include tip.html title="Tip" text="Here you can build the version as if it were lines on a jobsheet, and we recommend using **Placeholder Items** like **MISC** to hold the place of items needed for this version." %}
 
    ![](media/garagehive-create-service-package5.gif)
 
