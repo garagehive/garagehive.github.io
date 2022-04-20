@@ -4,7 +4,7 @@ title: Creating a Jobsheet
 ---
 
 # Creating a Jobsheet 
-To create a new Jobsheet:
+There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create.html). In this article we'll look at the standard way to create a new Jobsheet:
 1. Select **Jobsheets** in the Home Screen, followed by **New.**
 2. Select the **Service Type** - This is the type of job to do.
 
@@ -41,33 +41,37 @@ To create a new Jobsheet:
 
       ![](media/garagehive-create-a-jobsheet4.gif)
 
-7. The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
+8. The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
 
    ![](media/garagehive-create-a-jobsheet4a.png)
 
-8. Under the **Checklist** subpage, you can view and access any checklists that are linked to the jobsheet.
+9. Under the **Checklist** subpage, you can view and access any checklists that are linked to the jobsheet.
 
       ![](media/garagehive-create-a-jobsheet5.gif)
 
-9.  You can enter any information the customer has provided about the job to be done in the **Comments** subpage. 
+10. You can enter any information the customer has provided about the job to be done in the **Comments** subpage. 
 
       ![](media/garagehive-create-a-jobsheet6.gif)
    
+11. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html). 
 
-10. You can now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
-    - **Type** column - Select either **Labour** or **Item** as the line, with **External Services** included in the latter.
-    - **No** column - Enter the number for **Labour** or **Item**, in the system.
+    ![](media/garagehive-create-a-jobsheet6a.png)
+
+12. You can now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
+    - **Type** column - Select either **Labour** or **Item** to define what type of details are to be entered in the line.
+    - **No** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour**, and so on; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on.
     - **Description** column - This is the item or labour description that will appear in the customer's invoice.
-    - **Quantity** column - Enter the number of items or hours to sell.
+    - **Quantity** column - Enter the quantity of items or hours to sell.
     - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.
     - **Unit Price** - This is the price at which the customer will buy the item or labour per unit.
-    - **Line Amount Excl. VAT** - This is the pre-VAT total line amount. 
-    - **Unit Price (Calc) Incl. VAT** column - If you click on the amount in this field, a pop-up window will appear, allowing you to do your price calculation. This can be used to add a percent margin to the cost price.
-    - **Line Discount** column - If you'd like to apply a discount to the job, within this field, fill in the percentage discount. 
-
+    - **Unit Price (Calc) Incl. VAT** column - When you click on the amount in this field, a pop-up window will appear, showing the **Unit Price**, **Margin %**, **Unit Price Incl. VAT**, and **Total Incl. VAT**, allowing you to do price calculation.
+    - **Line Discount %** column - If you want to apply a discount to the line, within this field, fill in the percentage discount.
+    - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html) to add it.
+    - **Line Amount Excl. VAT** - This is the pre-VAT total line amount.
+    
          ![](media/garagehive-create-a-jobsheet7.gif)
 
-11. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
+13. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)
 
@@ -75,7 +79,8 @@ To create a new Jobsheet:
 
 ### **See Also**
 
-[Creating a New Jobsheet From various places in Garage Hive](garagehive-jobsheet-create.html) \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
+[Creating a New Jobsheet From Various Places in Garage Hive](garagehive-jobsheet-create.html) \
 [Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html) \
 [Posted & Archived Jobsheets](garagehive-posted-archived-documents.html) \
 [Managing Key Numbers in Garage Hive](garagehive-managing-key-numbers-in-the-system.html) \
