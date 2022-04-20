@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Testing"
+title: Setting Up Online Booking - Testing
 ---
 # Testing
 

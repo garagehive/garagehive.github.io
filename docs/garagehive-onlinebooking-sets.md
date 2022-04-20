@@ -1,8 +1,8 @@
 ---
 layout: docs
-title: Setting Up online booking Sets
+title: Setting Up Online Booking Sets
 ---
-# Setting Up online booking Sets
+# Setting Up Online Booking Sets
 Back in the **Online Booking Setup** page:
 1. From the actions bar, choose **Related**, followed by **Sets**.
 2. **Sets** allow you to create widgets for specific groups of **Service Packages**. For example, **MOT** only for use on your **MOT** landing page, and have the full set of packages available on your page. Give your set a **Code** and a **Description**.

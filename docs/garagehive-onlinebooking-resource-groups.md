@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Resource Groups"
+title: Setting Up Online Booking - Resource Groups
 ---
 
 # Resource Groups

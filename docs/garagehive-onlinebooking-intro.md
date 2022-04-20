@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Introduction To Setting Up online booking
+title: Introduction To Setting Up Online Booking
 ---
 # Intro 
 Before starting this if you haven’t already set your service packages up its recommended that you do that first. Service package documentation can be found here - [Set Up Service Packages.](/docs/garagehive-service-packages.html)
