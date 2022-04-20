@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Branches"
+title: Setting Up Online Booking - Branches
 ---
 
 ## Branches 

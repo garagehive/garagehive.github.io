@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking Holidays
+title: Setting Up Online Booking - Holidays
 ---
 
 ## Holidays

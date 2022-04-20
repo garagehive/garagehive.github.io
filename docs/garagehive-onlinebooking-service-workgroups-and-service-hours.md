@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking "Service Workgroups and Service Hours"
+title: Setting Up Online Booking - Service Workgroups and Service Hours
 ---
 
 # Service Workgroups and Service Hours
