@@ -18,9 +18,7 @@ The following articles will help you better understand the functionality and use
 
 <br>
 
->**Note:**
->
->This feature is available in Checklists, Estimates, Vehicle Inspection Estimates, and Jobsheets.
+{% include tip.html title="Note" text="This feature is available in Checklists, Estimates, Vehicle Inspection Estimates, and Jobsheets." %}
 <br>
 
 ### **See Also**

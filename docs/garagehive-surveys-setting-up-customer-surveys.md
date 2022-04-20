@@ -62,18 +62,14 @@ For the customer surveys to work effectively, you must ensure that the system se
 4. From the side panel that appears, choose **No** or **Yes** from the dropdown to filter the customers who are not into the service and customers who are into the service, respectively. 
 
 
->**Tip:**
->
-> It is advisable to opt all your customers in, and after sending the survey, you give them the option of opting out.
+{% include tip.html title="Tip" text="It is advisable to opt all your customers in, and after sending the survey, you give them the option of opting out." %}
 
 ![](media/garagehive-surveys-customer1.gif)
 
 ### Automatically opt in new customers
 Secondly, you need to ensure that customers are automatically opted in when you create a new customer. 
 
->**Note:**
->
->If this is not the case, contact a member of our support team to set this up. 
+{% include tip.html title="Note" text="If this is not the case, contact a member of our support team to set this up." %}
 
 To confirm:
 1. Click **+New** to create a new customer card from the customers' list page. 

@@ -36,9 +36,7 @@ To verify a checklist that has been completed by a technician:
 
    ![](media/garagehive-vehicle-inspection-estimate2.1.gif)
 
-> **Note:**
->
-> After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card.
+{% include tip.html title="Note" text="After confirming the checklist, change the **Process Status** on the checklist to **Completed**, so as archive the checklist card." %}
 
 ### Different VIE statuses 
 From the **Role Centre**, the VIE has the following statuses that it goes through:
@@ -88,10 +86,9 @@ You've already communicated with the customer and been advised on what work need
 
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
 
-> **Note:**
->
-> The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines.
-> ![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
+{% include tip.html title="Note" text="The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines." %}
+
+![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
 
 
 # See Also

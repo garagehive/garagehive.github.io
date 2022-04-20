@@ -81,9 +81,7 @@ In Garage Hive, resources refer to all of the assets that the company has that a
 ### Rearranging resources in the schedule
 Rearranging the resources, how they appear from top to bottom, helps organize which resources to be at the top and how they should follow each other. 
 
->**Note:**
->
->It is recommended to have the bays at the top and the technicians at the bottom.
+{% include tip.html title="Note" text="It is recommended to have the bays at the top and the technicians at the bottom." %}
 
 To rearrange:
 1. Search **Schedule Resource Group** from the search icon at the top-right corner, and select it from the options that appear. 
@@ -96,9 +94,7 @@ To rearrange:
 
     ![](media/garagehive-understanding-the-schedule-rearrange2.gif)
 
-> **Tip:**
->
-> Remove any spaces before the resource name to ensure consistency.
+{% include tip.html title="Tip" text="Remove any spaces before the resource name to ensure consistency." %}
 
 ### Managing service hours in the schedule
 The service hours are the hours in the schedule when the resources are available for work. For example, you could add the technicians’ working hours as 08:00 a.m. to 17:00 p.m. every day. To change a resource's service hours:

@@ -28,15 +28,11 @@ To link a Purchase order with a jobsheet:
 2. Fill in the **Jobsheet No.** field, or choose from the list. 
 3. All the items in the purchase order will now be automatically added to the linked jobsheet.
 
->**Note:**
->
-> Do this before adding any items to the purchase order.
+{% include tip.html title="Note" text="Do this before adding any items to the purchase order." %}
 
 ![](media/garagehive-trial-creating-a-purchase-order3.gif)
 
-> **Note:**
-> 
-> You can only link a purchase order to a jobsheet once you receive the supplier invoice.
+{% include tip.html title="Note" text="You can only link a purchase order to a jobsheet once you receive the supplier invoice." %}
 
 ### Creating a purchase order from the purchase orders page
 1. From the navigation menu on the role centre, click on **Purchasing** to access the submenus and select **Purchase Orders**. 

@@ -26,10 +26,8 @@ A Checklist Template is considered the header of the Checklist. To view and crea
     * **Printout Type** - It can be either **Standard** or **Two Columns**.
 
         ![](media/garagehive-checklist-setup2.gif)
-
-    > **Note:**
-    >
-    > The checklist template description will be the description of your checklist that you select from when deciding which checklist to complete as a technician.
+      
+   {% include tip.html title="Note" text="The checklist template description will be the description of your checklist that you select from when deciding which checklist to complete as a technician." %}
 
 1. Each Checklist Template must have at least one **Checklist Template Item Group**. 
 
@@ -44,9 +42,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
    ![](media/garagehive-checklist-setup4.gif)
 
-      > **Note:**
-      > 
-      > **Checklist Template Item Groups** can be linked to multiple **Checklist Template**, for example a **Tyre Checkist Item Group** could belong in the **Full Service Checklist Template** and the **Interim Service Checklist Template**. 
+      {% include tip.html title="Note" text="**Checklist Template Item Groups** can be linked to multiple **Checklist Template**, for example a **Tyre Checkist Item Group** could belong in the **Full Service Checklist Template** and the **Interim Service Checklist Template**." %}
 
 ## Checklist Items
 **Checklist Items** are where you enter your checklist questions; a checklist item for example could be about tyres and could consist of a traffic light system and check boxes like the example below. 

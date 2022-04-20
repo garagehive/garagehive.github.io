@@ -84,9 +84,7 @@ To reset a garage hive user's password:
 
 **The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.**
 
-> **Note:**
->
->All users created in the system need a licence; talk to our support team to activate your licences, or [raise a ticket](https://www.garagehive.co.uk/subs).
+{% include tip.html title="Note" text="All users created in the system need a licence; talk to our support team to activate your licences, or [raise a ticket](https://www.garagehive.co.uk/subs)." %}
 
 
 ### **See Also**

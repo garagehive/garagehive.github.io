@@ -23,9 +23,7 @@ The Item Charges features is used in the following:
 In this article, we'll look at recording the added cost in your inventory value. <br>
 Before you can assign item charges, you must set up item charge numbers for the different types of item charges, including where G/L account costs related to sales, purchases, and inventory adjustments are posted. An item charge number contains a combination of general product posting group, VAT product posting group, and item charge. When you enter the item charge number on a purchase or sales document, the relevant G/L account is retrieved based on the setup of the item charge number and the information on the document.
 
-> **Note**
->
-> For help in setting up the item charges correctly, please get in touch with our support team.
+{% include tip.html title="Note" text="For help in setting up the item charges correctly, please get in touch with our support team." %}
 <br>
 
 To set up the item charges:
@@ -113,8 +111,6 @@ To set up the use G/L account No.:
 
 ![](media/garagehive-service-recharge-gl-account5.gif)
 
-> **Note**
->
-> Remember to add payment details for both the customer and vendor card you have created, just like for the item charges set up.
+{% include tip.html title="Note" text="Remember to add payment details for both the customer and vendor card you have created, just like for the item charges set up." %}
 
 When you post a sales invoice/jobsheet (warranty work) for the customer **Vehicle Sales Warranty(Internal)**, the total bill of the invoice is charged to the vehicle sales department, and the service department gets the revenue for the warranty work done. A corresponding purchase invoice **Vehicle Sales Warranty (Internal)** is created and posted.

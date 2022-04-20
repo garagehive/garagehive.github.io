@@ -42,6 +42,4 @@ The timing belt interval information box is also accessible via the vehicle remi
    ![](media/garagehive-timing-belt-intervals4.gif)
 
 
-> **Note:**
->
-> The timing belt interval feature is available for Jobsheets, Estimates, Vehicle Inspection Estimates, and the Vehicle Card.
+{% include tip.html title="Note" text="The timing belt interval feature is available for Jobsheets, Estimates, Vehicle Inspection Estimates, and the Vehicle Card." %}

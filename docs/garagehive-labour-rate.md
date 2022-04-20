@@ -20,8 +20,7 @@ To calculate Garage Hive Efficiency, you must first enter your **Average Labour 
    ![](media/garagehive-labour-rate-setup3.gif)
 
 
-> **Note:**
-> The Power BI report will only function if this **Statistical Value** table is set up. Before installing the **Power BI App**, make sure you set up this table.
+{% include tip.html title="Note" text="The Power BI report will only function if this **Statistical Value** table is set up. Before installing the **Power BI App**, make sure you set up this table." %}
 
 <br>
 

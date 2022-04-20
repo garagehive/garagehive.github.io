@@ -21,17 +21,13 @@ To create or edit a service package:
 
    ![](media/garagehive-create-service-package3.gif)
 
-   > **Note:**
-   >
-   > The **General** FastTab's **Extended Description** field is used to elaborate or add more detailed information to the job. It appears on printouts if the **Main Description** is set to **Package Header**, otherwise, extended descriptions are available for each version line. 
+   {% include tip.html title="Note" text="The **General** FastTab's **Extended Description** field is used to elaborate or add more detailed information to the job. It appears on printouts if the **Main Description** is set to **Package Header**, otherwise, extended descriptions are available for each version line." %}
 
 6. Under the **Versions** sub-page, you can now create any version of this package that you want. Add a description and select **Manage** then **Version Lines** to add item and labour lines to this version.
 
    ![](media/garagehive-create-service-package4.gif)
 
-   > **Tip:**
-   > 
-   > Here you can build the version as if it were lines on a jobsheet, and we recommend using **Placeholder Items** like "MISC" to hold the place of items needed for this version.
+   {% include tip.html title="Tip" text="Here you can build the version as if it were lines on a jobsheet, and we recommend using **Placeholder Items** like "MISC" to hold the place of items needed for this version." %}
 
    ![](media/garagehive-create-service-package5.gif)
 

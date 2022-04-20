@@ -26,9 +26,7 @@ Unapplying payments means that you want to deallocate or unlink a transaction fr
 
 ### Reversing transactions
 
-> **Note:**
->
-> You can only reverse entries that are posted from journals.
+{% include tip.html title="Note" text="You can only reverse entries that are posted from journals." %}
 
 Reversing transactions means completely undoing the entry and removing it from the system. To completely reverse a transaction, use the following process:
 1. Select the customer's list from the role centre, and then select the customer to whom the transaction is applied.

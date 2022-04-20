@@ -61,6 +61,4 @@ Now, you have the option of:
 
 <br>
 
-> **Note:**
->
-> After the jobsheet has been posted, it can be found in **Posted & Archived Documents** under **Posted Jobsheet**, which can be accessed from the role centre navigation menu.
+{% include tip.html title="Note" text="After the jobsheet has been posted, it can be found in **Posted & Archived Documents** under **Posted Jobsheet**, which can be accessed from the role centre navigation menu." %}

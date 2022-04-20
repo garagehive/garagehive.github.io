@@ -41,8 +41,6 @@ To check if the customer has opened and submitted the survey:
 2. From the opened list, you will see all the surveys that have been sent out with customer details.
 3. Scroll to right to see the date and time of opening and answering the survey.
 
-> **Note:**
->
-> When the survey is not opened or answered the date and time column will be blank.
+{% include tip.html title="Note" text="When the survey is not opened or answered the date and time column will be blank." %}
 
 ![](media/garagehive-surveys-customer9.gif)

@@ -15,9 +15,7 @@ Garage Hive allows you to export to your external accountancy package. You can e
 * Vendor Invoices
 * Vendor Credit memos
 
-> **Note:**
->  
-> We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system.
+{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
 
 ## How to run the export 
 

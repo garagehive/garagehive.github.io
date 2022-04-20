@@ -15,9 +15,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 * Vendor Invoices
 * Vendor Credit memos
 
-> **Note**
->
-> We currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system.
+{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system." %}
 
 ## Initial Setup
 To find the setup for the accountancy integration, search for Accountancy Integration Setup 
@@ -32,9 +30,7 @@ The typical setup is via document date. Garage Hive users are typically restrict
 
 You can also dictate the state of the document when it is exported to Xero. The choices are Draft, Submitted or Approved. You can have a different option for Sales and Purchase documents.
 
-> **Note:**
->
-> If you plan to export sales receipts/payments the sales documents must be approved.
+{% include tip.html title="Note" text="If you plan to export sales receipts/payments the sales documents must be approved." %}
 
 ![](media/garagehive-xero-setup.png)
 

@@ -22,6 +22,4 @@ In Garage Hive, you can copy any document into another document using the copy d
 ![](media/garagehive-copydocument3.gif)
 
 
-> **Note:**
->
-> A document cannot be copied into another document that already has items and labour assigned to it.
+{% include tip.html title="Note" text="A document cannot be copied into another document that already has items and labour assigned to it." %}

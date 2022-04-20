@@ -21,6 +21,4 @@ If you are receiving a service from an external service provider and you want th
 
 <br>
 
-> **Note:** 
->
-> Unlike Parts, External Services can be invoiced out to a customer before receiving a purchase invoice; this is because you may not have received the invoice from the External Service Provider when you invoice the Jobsheet to the customer. 
+{% include tip.html title="Note" text="Unlike Parts, External Services can be invoiced out to a customer before receiving a purchase invoice; this is because you may not have received the invoice from the External Service Provider when you invoice the Jobsheet to the customer." %}

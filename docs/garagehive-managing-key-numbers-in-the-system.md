@@ -34,9 +34,7 @@ To enable the key numbers functionality, follow these steps:
 
    ![](media/garagehive-managing-key-numbers4.gif)
 
-> **Note:**
->
-> In the future, the **Parts Bin** feature will be developed independently to accommodate garages with more bins than key tags.
+{% include tip.html title="Note" text="In the future, the **Parts Bin** feature will be developed independently to accommodate garages with more bins than key tags." %}
 
 ### How to use key numbers from the jobsheet
 To begin using the **Key Tag No.** field, ensure that you have added all of the key numbers from the key tags list that you have in your garage. To accomplish this, follow these steps:
@@ -62,9 +60,7 @@ To begin using the **Key Tag No.** field, ensure that you have added all of the 
 
    ![](media/garagehive-managing-key-numbers9.gif)
 
-> **Note:**
->
-> A key number cannot be assigned to more than one jobsheet; doing so will result in an error from the system.
+{% include tip.html title="Note" text="A key number cannot be assigned to more than one jobsheet; doing so will result in an error from the system." %}
 
 ### How to use key numbers from the purchase order
 If the **Use Key Tags** option is selected on the **Service Mgt. Setup GH** page under the **Use Parts Bin Catalogue** field, the key numbers functionality can be used in purchase orders. When this option is enabled, the purchase order will include the field **Jobsheet Key Tag No.**.

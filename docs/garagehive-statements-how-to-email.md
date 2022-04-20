@@ -12,8 +12,7 @@ You can email customer statements directly from Garage Hive, but you must first 
 
 ### How to setup customer cards to send statements via email
 
-> **Note:**
-> To use the statement email function, you should first complete the following setup.
+{% include tip.html title="Note" text="To use the statement email function, you should first complete the following setup." %}
 
 To setup the customer card:
 1. First select **Customers** from the Role Centre, and then select the specific **Customer Card** to setup.
