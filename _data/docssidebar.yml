@@ -453,7 +453,7 @@
       url: /docs/garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html
     - name: Adding Labour Times Adjustments
       url: /docs/garagehive-autodata-labour-time-adjustment.html
-- name: FAQS
+- name: FAQs
   url: "#"
   subitems:
     - name: Common Error Messages
