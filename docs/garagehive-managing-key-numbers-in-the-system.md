@@ -34,7 +34,7 @@ To enable the key numbers functionality, follow these steps:
 
    ![](media/garagehive-managing-key-numbers4.gif)
 
-{% include tip.html title="Note" text="In the future, the **Parts Bin** feature will be developed independently to accommodate garages with more bins than key tags." %}
+{% include tip.html title="Note" text="In the future, the Parts Bin feature will be developed independently to accommodate garages with more bins than key tags." %}
 
 ### How to use key numbers from the jobsheet
 To begin using the **Key Tag No.** field, ensure that you have added all of the key numbers from the key tags list that you have in your garage. To accomplish this, follow these steps:

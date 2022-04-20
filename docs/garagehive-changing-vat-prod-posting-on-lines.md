@@ -16,4 +16,4 @@ When you have items with different VAT requirements, you can change the **VAT Pr
 
 4. You can now add the remaining items (if any) and post the **Purchase Invoice**.
 
-{% include tip.html title="Note" text="The same procedure as above can be used to change the **VAT Prod. Posting Group** on an **Estimate**, a **Vehicle Inspection Estimate**, a **Jobsheet** and the **Sales** documents." %}
+{% include tip.html title="Note" text="The same procedure as above can be used to change the VAT Prod. Posting Group on an Estimate, a Vehicle Inspection Estimate, a Jobsheet and the Sales documents." %}

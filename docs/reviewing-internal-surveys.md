@@ -18,7 +18,7 @@ To review the internal surveys after the respondents have completed and submitte
 
    ![](media/garagehive-internal-surveys002.gif)
 
-{% include tip.html title="Note" text="The responses to all questions marked **Protected Data** in the survey will be visible only to the person with the **Owner User ID**." %}
+{% include tip.html title="Note" text="The responses to all questions marked Protected Data in the survey will be visible only to the person with the Owner User ID." %}
 
 <br>
 

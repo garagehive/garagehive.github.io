@@ -15,7 +15,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 * Vendor Invoices
 * Vendor Credit memos
 
-{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommened that this is done in your external accountancy system." %}
+{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
 
 ## Initial Setup
 To find the setup for the accountancy integration, search for Accountancy Integration Setup 

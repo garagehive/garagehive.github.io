@@ -42,7 +42,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
    ![](media/garagehive-checklist-setup4.gif)
 
-      {% include tip.html title="Note" text="**Checklist Template Item Groups** can be linked to multiple **Checklist Template**, for example a **Tyre Checkist Item Group** could belong in the **Full Service Checklist Template** and the **Interim Service Checklist Template**." %}
+      {% include tip.html title="Note" text="Checklist Template Item Groups can be linked to multiple Checklist Template, for example a Tyre Checkist Item Group could belong in the Full Service Checklist Template and the Interim Service Checklist Template." %}
 
 ## Checklist Items
 **Checklist Items** are where you enter your checklist questions; a checklist item for example could be about tyres and could consist of a traffic light system and check boxes like the example below. 

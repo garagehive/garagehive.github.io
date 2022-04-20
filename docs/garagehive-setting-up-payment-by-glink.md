@@ -61,7 +61,7 @@ Once configured, it is recommended that you run a **£0.01** transaction as a te
 
 Make sure the value is set to **£0.01**, select the notification type and enter your details. Once you receive the test SMS/Email please follow the link and complete the test payment. 
 
-{% include tip.html title="Note" text="Normally, when requesting payment via the **Pay by GarageLink**, the details automatically picked to send the request are the **Bill-to Customer** details." %}
+{% include tip.html title="Note" text="Normally, when requesting payment via the Pay by GarageLink, the details automatically picked to send the request are the Bill-to Customer details." %}
 
 
 ![](media/paybygaragelink-paymentwindow.jpg)
