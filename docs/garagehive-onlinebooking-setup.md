@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Setting Up online booking
+title: Setting Up Online Booking
 ---
 
 # Online Booking Setup 
