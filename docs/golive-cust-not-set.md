@@ -94,4 +94,4 @@ Alternatively, customer communication logs can also be accessed from a jobsheet.
 
 ![](media/garagehive-customer-notification-log-jobsheet.png)
 
-# [NEXT STEP 2/3 ->](/docs/golive-sms-email.html)
+[Next step 2/3 ->](/docs/golive-sms-email.html)

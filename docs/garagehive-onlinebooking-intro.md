@@ -11,4 +11,4 @@ Why not have a play with our demo system [here.](https://onlinebooking.garagehiv
 
 N.B Its highly recommended that you get just one service package working with no errors first before adding any additional packages to the setup. 
 
-# [NEXT STEP](/docs/garagehive-onlinebooking-setup.html)
+[Next step](/docs/garagehive-onlinebooking-setup.html)

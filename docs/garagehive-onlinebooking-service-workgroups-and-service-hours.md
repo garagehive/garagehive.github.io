@@ -11,4 +11,4 @@ Back in the **Online Booking Setup** page:
 ![](media/garagehive-onlinebooking-service-workgroups-and-service-hours1.gif)
 
 
-# [NEXT STEP](/docs/garagehive-onlinebooking-resources.html)
+[Next step](/docs/garagehive-onlinebooking-resources.html)
