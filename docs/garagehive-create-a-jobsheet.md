@@ -5,7 +5,7 @@ title: Creating a Jobsheet
 
 # Creating a Jobsheet 
 There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create.html). In this article we'll look at the standard way to create a new Jobsheet:
-1. Select **Jobsheets** in the Home Screen, followed by **New.**
+1. Select **Jobsheets** in the Home Screen, and then choose **New.**
 2. Select the **Service Type** - This is the type of job to do.
 
    ![](media/garagehive-create-a-jobsheet1.gif)
