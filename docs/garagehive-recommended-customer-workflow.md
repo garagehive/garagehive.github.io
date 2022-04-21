@@ -48,7 +48,7 @@ When the technician receives the vehicle, he or she needs to:
 
 The service advisor can now create a [**Vehicle Inspection Estimate**](garagehive-VHC.html) and communicate it with the customer via the [**Customer Online Authorisation**](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) for approval on the job.
 
-When the work is [**Approved**](garagehive-online-documents-what-happens-for-customers-actions.html), a new allocation is created by [**Copying the Authorized**](garagehive-jobsheet-create.html) groups from the VIE (Vehicle Inspection Estimate), a jobsheet is created, and the technician can begin working on the allocation.
+When the work is [**Approved**](garagehive-online-documents-what-happens-for-customers-actions.html), a new allocation is created by [**Copying the Authorized**](garagehive-VHC.html#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet) groups from the VIE (Vehicle Inspection Estimate), a jobsheet is created, and the technician can begin working on the allocation.
 
 ## Job is completed
 
