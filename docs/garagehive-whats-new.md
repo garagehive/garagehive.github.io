@@ -8,6 +8,8 @@ Below is a brief list of Garage Hive developments:
 ### 19th April 2022
 * Added an action in the Jobsheet, Estimate and VI Estimate **Group Items** FastTab, which creates groups based on MOT test lookup data, creates a group for each attention line for one selected MOT test and automatically fills in the description, action category, and dangerous mark.
 
+   ![](media/add-mot-attention-lines.png)
+
 ### 7th April 2022
 * Added a user-defined Fuel Type Group list.
 
