@@ -31,6 +31,6 @@ Enter your email address and some text to the body and send
 
 Review the document sent via Email for your company logo and quality
 
-[<- 2/3 Previos step](/docs/golive-cust-not-set.html)
+[<- 2/3 Previous step](/docs/golive-cust-not-set.html)
 
 [Next step 3/3 ->](/docs/golive-print-invoice.html)

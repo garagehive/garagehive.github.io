@@ -3,7 +3,7 @@ layout: docs
 title: Setting Up Online Booking - Service Packages
 ---
 
-# Setting Up Online Booking Service Packages
+# Setting Up Online Booking - Service Packages
 Back in the **Online Booking Setup** page:
 1. From the actions bar, choose **Related**, followed by **Service Packages**.
 2. Open the **Service Package** you want to show in the **Online Booking(OB)** widget. Please see [here](garagehive-service-packages.html) for more information on creating service packages.
