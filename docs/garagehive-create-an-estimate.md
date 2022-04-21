@@ -5,7 +5,7 @@ title: Creating an Estimate
 
 # Creating an Estimate 
 To create a new Estimate:
-1. Select **Estimates** in the Home Screen, followed by **New.**
+1. Select **Estimates** in the Home Screen, and then choose **New.**
 2. Select the **Service Type** - This is the type of job that you are quoting.
 
    ![](media/garagehive-create-an-estimate1.gif)
@@ -29,22 +29,26 @@ To create a new Estimate:
 6. You can enter any information the customer has provided about the estimate in the **Comments** section. 
 
    ![](media/garagehive-create-an-estimate4.gif)
-   
 
-7. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
-    - **Type** column - Select either **Labour** or **Item** as the line, with **External Services** included in the latter.
-    - **No** column - Enter the number for **Labour** or **Item**, in the system. For the item that you don't have in stock, you can use a placeholder item number, such as **MISC**.
+7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** and so on. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html).
+
+   ![](media/garagehive-create-an-estimate4.gif)
+
+8. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
+    - **Type** column - Select either **Labour** or **Item** as the line.
+    - **No** column - Enter the number for **Labour** or **Item**, in the system. For example, for item, you can use a placeholder item number, such as **MISC** for items you currently don't have in stock, **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on; for labour, you can choose **service labour**, **standard labour**, and so on.
     - **Description** column - This is the item or labour description that will appear in the customer's estimate.
-    - **Quantity** column - Enter the number of items or hours to quote.
+    - **Quantity** column - Enter the quantity of items or hours to quote.
     - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.
     - **Unit Price** - This is the price at which the customer will buy the item or labour per unit.
-    - **Line Amount Excl. VAT** - This is the pre-VAT total line amount. 
-    - **Unit Price (Calc) Incl. VAT** column - If you click on the amount in this field, a pop-up window will appear, allowing you to do your price calculation. This can be used to add a percent margin to the cost price.
-    - **Line Discount** column - If you'd like to apply a discount to the job, within this field, fill in the percentage discount. 
+    - **Unit Price (Calc) Incl. VAT** column - When you click on the amount in this field, a pop-up window will appear, showing the **Unit Price**, **Margin %**, **Unit Price Incl. VAT**, and **Total Incl. VAT**, allowing you to do price calculation.
+    - **Line Discount %** column - If you'd like to apply a discount to the job, within this field, fill in the percentage discount.
+    - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html) to add it.
+    - **Line Amount Excl. VAT** - This is the pre-VAT total line amount.
 
       ![](media/garagehive-create-an-estimate5.gif)
 
-8. If you click on any amount under the **Totals Including VAT**, which is below the estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Customer Authorised** totals and **Customer Unauthorised** totals.
+9. If you click on any amount under the **Totals Including VAT** section, which is below the estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Customer Authorised** totals and **Customer Unauthorised** totals.
 
    ![](media/garagehive-create-an-estimate6.gif)
 
