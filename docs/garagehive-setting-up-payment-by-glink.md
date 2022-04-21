@@ -53,7 +53,7 @@ Garage Link is a payment gateway that is used for online payments. To setup paym
 
 1. You can preview the payment link by selecting **Open Preview Link** from the actions bar, in the **Payment Gateway Card**.
 
-   ![](media/garagehive-payment-gateways11.png)
+   ![](media/garagehive-payment-gateways11.gif)
 
 1. Click the **Back** arrow to exit the **Payment Gateway Card** and save your changes. Your new payment method is now active.
 
