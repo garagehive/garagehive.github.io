@@ -4,7 +4,7 @@ title: Creating a Jobsheet
 ---
 
 # Creating a Jobsheet 
-There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create.html). In this article we'll look at the standard way to create a new Jobsheet:
+There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create-from-various-places.html). In this article we'll look at the standard way to create a new Jobsheet:
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
 2. Select the **Service Type** - This is the type of job to do.
 
@@ -80,7 +80,7 @@ There are various methods for creating a jobsheet, as described in [this article
 ### **See Also**
 
 [Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
-[Creating a New Jobsheet From Various Places in Garage Hive](garagehive-jobsheet-create.html) \
+[Creating a New Jobsheet From Various Places in Garage Hive](garagehive-jobsheet-create-from-various-places.html) \
 [Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html) \
 [Posted & Archived Jobsheets](garagehive-posted-archived-documents.html) \
 [Managing Key Numbers in Garage Hive](garagehive-managing-key-numbers-in-the-system.html) \

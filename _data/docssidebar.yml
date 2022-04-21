@@ -111,7 +111,9 @@
     - name: Create a Booking
       url: /docs/garagehive-create-a-booking.html
     - name: Create a Jobsheet
-      url: /docs/garagehive-jobsheet-create.html
+      url: /docs/garagehive-create-a-jobsheet.html
+    - name: Creating a Jobsheet from Various Places in Garage Hive
+      url: /docs/garagehive-jobsheet-create-from-various-places.html
     - name: Scheduling Work 
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Adding New Options in the Schedule Allocation Menu
@@ -333,7 +335,9 @@
     - name: Sets
       url: /docs/garagehive-onlinebooking-sets.html 
     - name: Testing
-      url: /docs/garagehive-onlinebooking-testing.html 
+      url: /docs/garagehive-onlinebooking-testing.html
+    - name: TyreClick Booking Integration
+      url: /docs/garagehive-using-tyre-click.html
 - name: Customer Online Authorisation
   url: "#"
   subitems:
