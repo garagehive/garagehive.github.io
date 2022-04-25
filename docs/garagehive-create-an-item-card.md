@@ -1,101 +1,78 @@
 ---
 layout: docs
-title: Create an Item Card.
+title: Creating an Item Card.
 ---
 
-#   Create an Item Card.
+# Creating an Item Card.
+To create a new **Item Card:**
+1. Select **Catalogues** in the Home Screen/Role Centre, and then choose **Items**.
+2. Click on **New**, to create a new **Item Card.**
+
+   ![](media/garagehive-create-an-item-card1.gif)
+
+3. In the next window, select the most relevant **Template** for the item you wish to create, which pre-selects the **Item Category** within the item card.
+
+   ![](media/garagehive-create-an-item-card2.png)
 
 
-*   Select Catalogues in the Home Screen. 
+The item card is split into the following FastTabs:
 
-*   Followed by Items 
+## Item
+Fill in the following details:
+1. **No.**  - This is the the part number of the item either from your supplier or the part number you wish to give a particular part. For example **BF** for Brake Fluid, and so on.
+2. **Description** - This is the description of the part. The description is what appears on the Jobsheet/invoice when printed for the customer. In the above example of brake fluid, the description will be **Brake Fluid.**
+3. **Type** - This defines the type of the item card to create. You can select **Inventory** for parts to add in inventory, **Service** for services or **Non-Inventory** for non-inventory items.
+4. **Base Unit of Measure** - Select the relevant unit of measure for the item. For example, **Brake Fluid** Unit of Measure = LTR (Litre), **Bulb** Unit of Measure = PCS (Piece), **Brake Pipe** Unit of Measure = MTR (Metre) and so on.
+5. **Item Category Code** - This is the category for item which contain assigned item attributes, and it's pre-selected when choosing the item template for the item card.
 
-*   Choose **+ New**    
+   ![](media/garagehive-create-an-item-card3.png)
 
-![](media/garagehive-create-a-item-card1.png)
+## Inventory
+Fill in the following details:
+1. **Shelf No.** - This is the physical location of the part.
+2. **Stockout Warning** - This is always set to **Default (Yes)**, to alert you if you try and sell something out which is not in stock but can be changed to **No** in certain scenarios. For example, in Non-inventory item like **Consumables** - when you want to add a Consumables Cost on your invoices rather than booking out specific parts each time.
+3. **Prevent Negative Inventory** - This is set to **Default (Yes)**, to prevent you from selling something out you do not have in stockbut can be changed to **No** in certain scenarios. For example, in Non-inventory item like **Consumables**.
 
-*   Select most relevant template for the item you wish to create. *This will pre select the item category within the item card.*
+   ![](media/garagehive-create-an-item-card4.png)
 
-![](media/garagehive-create-a-item-card2.png)
+## Cost & Posting
+Fill in the following details:
+1. **Costing Method** - This should be set to **FIFO** (First In First Out).
+2. **Unit Cost** - This is the buying price of the part from the supplier, and will automatically be populated when receiving the part via the purchase order.
+3. **Gen. Prod Posting Group** - This is the item's product type to link transactions made for this item with the appropriate general ledger account according to the general posting setup; select the appropriate group from the pre-defined list. 
+4. **VAT Prod. Posting Group** - This is the VAT specification of the invoice item to link transactions made for this item with the appropriate general ledger account acording to the VAT posting setup; select from the pre-defined list. Most of the time it's set to **STANDARD**.
+5. **Inventory Posting Group** - These are pre-defined fields to select from - Usually linked to the specific Item Category Code used.
 
-#   You will now be able to start building the Item Card. 
-####   The item card is split down into several Sub-Categories 
+   ![](media/garagehive-create-an-item-card5.png)
 
-# ITEM
+{% include tip.html title="Note" text="Do not create a new General Product Posting Group, VAT Product Posting Group or Inventory Posting Group without discussing with a member of the support team." %}
 
-![](media/garagehive-create-a-item-card4.png)
+## Prices and Sales
+Fill in the following details:
+1. **Unit Price**  - This is the selling price of the part, and you can set a price for selling this time every time it's sold.
+2. **Price/Profit Calculation** - This is the calculation relationship among the **Price**, **Profit** and the **Cost** of the part, normally set to **Profit=Price-Cost.**
 
-A. **No.**  - This needs to be the part number either from your supplier or set part number you wish to give a particular part. <br>  
+   ![](media/garagehive-create-an-item-card6.png)
 
-*i.e. BF for Brake Fluid. So everytime you order this from any supplier you can use the same part number.* 
+## Replenishment
+No details should be added in this FastTab.
 
-B.  **Description** - The description of the part. *This description will be what appears on the jobsheet/invoice.*
+## Planning
+Fill the following detail:
+1. **Reordering Policy** - This is the method in which the **Item** should be reordered when there is almost a stock out of the item; select **Maximum Qty.** to select denote this as a stock item, so that it will not show on your *"Items to Return Report"*.
 
-C.  **Type** - Select Inventory 
+   ![](media/garagehive-create-an-item-card7.png)
 
-D.  **Base Unit of Measure** - Select the relevant unit of measure. <br>
+## Item Tracking
+No details should be added in this FastTab.
 
-*i.e.<br> 
-BF - Brake Fluid - Unit of Measure = LTR (Litre)*<br>
-*Bulb - Bulb - Unit of Measure = PCS (Piece)* <br>
-*BP - Brake Pipe - Unit of Measure = MTR (Metre)*
+## Warehouse
+No details should be added in this FastTab.
 
-E.  **Item Category Code** - This is pre-selected when chosing which item template for the item card. 
 
-#  INVENTORY 
+<br>
 
-![](media/garagehive-create-a-item-card5.png)
+ # See Also 
 
-A.  **Stockout Warning** - This is always preset to "Default (Yes)". This will alert you if you try and sell something out which is not in stock. 
-
-This can be changed to "No" in certain scenarios. <br> 
-
-*i.e. CONSUMABLES - You are wanting to add a Consumables Cost on your invoices rather than booking out specific parts each time.*
-
-B.  **Prevent Negative Inventory** - This is always preset to "Default (Yes)". This will prevent you selling something out you do not have in stock.
-
-This can be changed to "No" in certain scenarios. <br> 
-
-*i.e. CONSUMABLES - You are wanting to add a Consumables Cost on your invoices rather than booking out specific parts each time.*
-
-#  COSTS & POSTING 
-
-![](media/garagehive-create-a-item-card6.png)
-
-A.  **Costing Method** - FIFO (First In First Out)
-
-B.  **Unit Cost** - This will automatically be populated when receiving the part in via a purchase order. 
-
-C.  **Gen. Prod Posting Group** - These are pre-defined fields to select from. 
-
-**DO NOT Create your own without discussing with a member of the Support Team.**  
-
-D.  **VAT Prod. Posting Group** - These are pre-defined fields to select from. 
-
-**DO NOT Create your own without discussing with a member of the Support Team.**  
-
-Please note that the majority of the time this should be set up as **STANDARD.**
-
-E.  **Inventory Posting Group** - These are pre-defined fields to select from - Usually linked to the specific Item Category Code used. 
-
-**DO NOT Create your own without discussing with a member of the Support Team.**  
-
-#  PRICES & SALES 
-
-![](media/garagehive-create-a-item-card7.png)
-
-A.  **Unit Price**  - You can set a fixed price you wish this item to be sold out at each time. 
-
-B.  **Price/Profit Calculation** - Profit=Price-Cost
-
-#  PLANNING
-
-![](media/garagehive-create-a-item-card8.png)
-
-A.  **Reordering Policy** - Choose Maximum Qty. to select denote this as a stock item, so that it will not show on your *"Items to Return Report"*.
-
- #   See Also 
-
-[Create item templates](/docs/create-item-templates.html "Create item templates") 
-
+[Create item templates](/docs/create-item-templates.html "Create item templates") \
 [Items to Return Report](/docs/garagehive-items-to-return.html "Items to Return Report")
