@@ -1,48 +1,26 @@
 ---
 layout: docs
-title: Create item card templates.
+title: Create item card templates
 ---
 
-#   Create item card templates.
+# Create item card templates
+To create new **Item Card Templates**:
+1. In the top-right corner, choose the search icon, enter **Item Categories**, and select the related link. 
+2. In the page that opens, you will see a column to the right **Item Template Count** this shows number of item templates using this category. If you click on the value in this field the applicable templates list will pop up.
 
-{% include youtube.html id="mbS2QuaEagE" %}
+   ![](media/garagehive-create-item-template1.gif)
+   
 
----
+   {% include tip.html title="Note" text="The idea here is that item categories can be kept concise while using varying templates that contain specific information to be used for markups and pricing." %}
 
-To create new item templates search for "Item Categories." 
-Here you will see a column to the right "Item template count" this shows you any item templates are using this category already if you click on the value in this field the applicable templates will pop up. 
+3. From the actions bar, select **Create Item Template**, to create a new item template for the selected **Item Category**; the other option is to create a new **Item Category** by selecting **New** from the actions bar, and create **Item Templates** for the category.
+4. From the pop-up window, when you click **Create Item Template**, select anthe **Example Template Code** (which should be a template related to the one you are creating).
+5. Enter **New Template Code** and the **New Template Description**, for example **18TYRES** and **18 Tyres** respectively.
+6. Select any applicable price or discount groups in the **Item Price Group Code** and **Item Discount Group Code**.
+7. Click **OK** and a new **Item Template** will be created.
 
-The idea here is that item categories can be kept concise while using varying templates that contain specific information to be used for markups and pricing.
+   ![](media/garagehive-create-item-template2.gif)
 
----
-
-![](media/item-categories.png)
-
----
-
-
-To create a new template select "Create item template" at the top of the page and you will be presented with a list of options 
-
-
----
-
-![](media/create-item-template.png)
-
----
-
-- choose an example template to copy basic setting form 
-- Enter a new code for this new template 
-- Give the new template a description 
-- Select the appropriate category for the item
-- Select or create any applicable price or discount groups that can later be used for markups and pricing.
-
----
-
-![](media/create-item-template-filled.png)
-
----
-
-Select ok, and a new template will be created. 
 
  #   See Also 
 
