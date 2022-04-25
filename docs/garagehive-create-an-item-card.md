@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Creating an Item Card.
+title: Creating an Item Card
 ---
 
-# Creating an Item Card.
+# Creating an Item Card
 To create a new **Item Card:**
 1. Select **Catalogues** in the Home Screen/Role Centre, and then choose **Items**.
 2. Click on **New**, to create a new **Item Card.**
@@ -19,7 +19,7 @@ The item card is split into the following FastTabs:
 
 ## Item
 Fill in the following details:
-1. **No.**  - This is the the part number of the item either from your supplier or the part number you wish to give a particular part. For example **BF** for Brake Fluid, and so on.
+1. **No.**  - This is the the part number of the item either from your supplier or the part number you wish to give a particular part. For example **BF** for Brake Fluid, **and so on.
 2. **Description** - This is the description of the part. The description is what appears on the Jobsheet/invoice when printed for the customer. In the above example of brake fluid, the description will be **Brake Fluid.**
 3. **Type** - This defines the type of the item card to create. You can select **Inventory** for parts to add in inventory, **Service** for services or **Non-Inventory** for non-inventory items.
 4. **Base Unit of Measure** - Select the relevant unit of measure for the item. For example, **Brake Fluid** Unit of Measure = LTR (Litre), **Bulb** Unit of Measure = PCS (Piece), **Brake Pipe** Unit of Measure = MTR (Metre) and so on.

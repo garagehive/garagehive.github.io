@@ -13,7 +13,7 @@ Here we will look at the NPS customer surveys, which help you measure the custom
 3. [Opt in all customers to the survey](#opt-in-all-customers-to-the-survey)
 4. [Automatically opt in new customers](#automatically-opt-in-new-customers)
 5. [Confirm message to send in the surveys](#confirm-message-to-send-in-the-surveys)
-6. [Preview the message to send](preview-the-message-to-send)
+6. [Preview the message to send](#preview-the-message-to-send)
 
 
 ### Enabling customer surveys
