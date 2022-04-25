@@ -31,7 +31,7 @@ Fill in the following details:
 Fill in the following details:
 1. **Shelf No.** - This is the physical location of the part.
 2. **Stockout Warning** - This is always set to **Default (Yes)**, to alert you if you try and sell something out which is not in stock but can be changed to **No** in certain scenarios. For example, in Non-inventory item like **Consumables** - when you want to add a Consumables Cost on your invoices rather than booking out specific parts each time.
-3. **Prevent Negative Inventory** - This is set to **Default (Yes)**, to prevent you from selling something out you do not have in stockbut can be changed to **No** in certain scenarios. For example, in Non-inventory item like **Consumables**.
+3. **Prevent Negative Inventory** - This is set to **Default (Yes)**, to prevent you from selling something out you do not have in stock but can be changed to **No** in certain scenarios. For example, in Non-inventory item like **Consumables**.
 
    ![](media/garagehive-create-an-item-card4.png)
 
@@ -59,7 +59,7 @@ No details should be added in this FastTab.
 
 ## Planning
 Fill the following detail:
-1. **Reordering Policy** - This is the method in which the **Item** should be reordered when there is almost a stock out of the item; select **Maximum Qty.** to select denote this as a stock item, so that it will not show on your *"Items to Return Report"*.
+1. **Reordering Policy** - This is the method by which the **Item** should be reordered when it is almost out of stock; select **Maximum Qty** as the reordering policy and enter the **Reorder Point** as the quantity of items that when the item stock reaches it, the item is reordered. When the reordering policy is selected, the item won't appear in the [Items to return report](garagehive-items-to-return.html).
 
    ![](media/garagehive-create-an-item-card7.png)
 
@@ -72,7 +72,7 @@ No details should be added in this FastTab.
 
 <br>
 
- # See Also 
+### See Also 
 
 [Create item templates](/docs/create-item-templates.html "Create item templates") \
 [Items to Return Report](/docs/garagehive-items-to-return.html "Items to Return Report")
