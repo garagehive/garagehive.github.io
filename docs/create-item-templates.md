@@ -21,6 +21,9 @@ To create new **Item Card Templates**:
 
    ![](media/garagehive-create-item-template2.gif)
 
+8. To view all the list of all **Item Templates**, in the top-right corner, choose the search icon, enter **Item Templates**, and select the related link.
+
+   ![](media/garagehive-create-item-template3.gif)
 
  #   See Also 
 
