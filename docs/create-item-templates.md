@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Create item card templates
+title: Create Item Card Templates
 ---
 
-# Create item card templates
+# Create Item Card Templates
 To create new **Item Card Templates**:
 1. In the top-right corner, choose the search icon, enter **Item Categories**, and select the related link. 
 2. In the page that opens, you will see a column to the right **Item Template Count** this shows number of item templates using this category. If you click on the value in this field the applicable templates list will pop up.
@@ -26,7 +26,7 @@ To create new **Item Card Templates**:
    ![](media/garagehive-create-item-template3.gif)
 
 
- ### See Also 
+### See Also 
 
- [Video: How to create and sort item card templates](https://www.youtube.com/watch?v=mbS2QuaEagE) \
- [Create item Price/Discount groups and update items](/docs/item-price-discount-groups.html "Create item Price/Discount groups and update items") 
+[Video: How to create and sort item card templates](https://www.youtube.com/watch?v=mbS2QuaEagE) \
+[Create item Price/Discount groups and update items](/docs/item-price-discount-groups.html "Create item Price/Discount groups and update items") 
