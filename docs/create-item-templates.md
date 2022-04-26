@@ -25,6 +25,8 @@ To create new **Item Card Templates**:
 
    ![](media/garagehive-create-item-template3.gif)
 
- #   See Also 
 
+ ### See Also 
+
+ [Video: How to create and sort item card templates](https://www.youtube.com/watch?v=mbS2QuaEagE) \
  [Create item Price/Discount groups and update items](/docs/item-price-discount-groups.html "Create item Price/Discount groups and update items") 
