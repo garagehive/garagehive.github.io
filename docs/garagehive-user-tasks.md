@@ -62,11 +62,3 @@ You can check the task that are due from the role centre:
 3. To check other tasks, that you have created and are due, click on the **Raised by Me Due** tile.
 
    ![](media/garagehive-user-tasks7.gif)
-
-
-<br>
-
-### See Also 
-
-[Video: How to create and sort item card templates](https://www.youtube.com/watch?v=mbS2QuaEagE) \
-[Create item Price/Discount groups and update items](/docs/item-price-discount-groups.html "Create item Price/Discount groups and update items") 
