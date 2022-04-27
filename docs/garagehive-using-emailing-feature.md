@@ -4,10 +4,33 @@ title: Using Emailing Feature in Garage Hive
 ---
 
 ## In this article
-1. [Using emailing feature in Garage Hive](#using-emailing-feature-in-garage-hive)
-2. [Email setup](#email-setup)
+1. [Email setup](#email-setup)
+2. [Using the emailing feature](#using-the-emailing-feature)
 3. [Accessing email outbox](#accessing-email-outbox)
 4. [Accessing sent emails](#accessing-sent-emails)
+
+### Email setup
+If your system does not have an email setup, you must do the setup before using the emailing feature:
+1. In the top-right corner, choose the search icon, enter **Email Accounts**, and select the related link.
+2. Select **New** and then **Add an email account**.
+
+   ![](media/garagehive-email-feature11.gif)
+
+3. From the pop-up window, read the information in the window, and click **Next**.
+4. You can set up three account types: **Microsoft 365**, **Current User**, and **SMTP**. We'll go through on how to set up each account. To get to the setup you require, click on any of the links below.
+   - [Microsoft-365](#microsoft-365)
+   - [Current user](#current-user)
+   - [SMTP](#smtp)
+
+#### Microsoft 365
+
+
+#### Current user
+
+
+#### SMTP
+
+
 
 # Using Emailing Feature in Garage Hive
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
@@ -48,15 +71,6 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 9. If you want to save the email as a draft and return to it later, click the back button and choose **Keep as draft in Email Outbox**; otherwise, choose **Discard email**.
 
    ![](media/garagehive-email-feature10a.gif)
-
-
-### Email setup
-If your system does not have an email setup, you must do the setup before using the emailing feature:
-1. In the top-right corner, choose the search icon, enter **Email Accounts**, and select the related link.
-2. Select **New** and then **Add an email account** from the page that opens. Follow the prompts or contact the Garage Hive Support team for assistance with the setup.
-
-   ![](media/garagehive-email-feature11.gif)
-
 
 ### Accessing email outbox
 To access the draft emails in the outbox:
