@@ -22,48 +22,66 @@ If your system does not have an email setup, you must do the setup before using 
    - [Gmail email account setup](#gmail-email-account-setup)
 
 #### Microsoft office 365 email account setup
-1. There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
-1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9). 
-1. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/) and select **Security info**.
+There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
+1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9). An App Password is a 16-digit passcode that gives the Garage Hive app permission to access your Microsoft Account.
+2. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/) and select **Security info**.
 
    ![](media/garagehive-email-setup1.png)
 
-1. Select **Add sign-in method**, choose **App password** from the list, and then select **Add**.
+3. Select **Add sign-in method**, choose **App password** from the list, and then select **Add**.
 
    ![](media/garagehive-email-setup2.png)
 
-1. Enter a name for the app password, and then select **Next**; this name helps differentiate the app password from others.
+4. Enter a name for the app password, and then select **Next**; this name helps differentiate the app password from others.
 
    ![](media/garagehive-email-setup3.png)
 
-1. Copy the password from the **App password** page, and then select **Done**.
+5. Copy the password from the **App password** page, and then select **Done**.
 
    ![](media/garagehive-email-setup4.png)
 
-1. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
+6. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
 
    ![](media/garagehive-email-setup5.png)
 
-1. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
-1.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the email address to setup), the **User Name** (this is the email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
+7. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
+8.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the Microsoft office 365 email address to setup), the **User Name** (this is the Microsoft office 365 email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
 
      ![](media/garagehive-email-setup6.png)
 
-1. When you're finished, click **Next**.
-1. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
-1. Select **Finish** to add the email.
+9. When you're finished, click **Next**.
+10. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
+11. Select **Finish** to add the email.
 
      ![](media/garagehive-email-setup7.png)
 
-1. If you don't have **Multi-factor Authentication** enabled, repeat steps 8 and 9 and enter your email account password instead of the **App Password** in the **Password** field.
+12. If you don't have **Multi-factor Authentication** enabled, repeat steps 7 and 8 and enter your email account password instead of the **App Password** in the **Password** field.
 
      ![](media/garagehive-email-setup8.png)
 
 
 #### Gmail email account setup
-Details to be updated soon.
+To set up a **Gmail email account:**
+1. First you have to generate an **App Password**, from your [Google Account](https://myaccount.google.com/). An App Password is a 16-digit passcode that gives a Garage Hive app permission to access your Google Account. App Passwords can only be used with accounts that have 2-Step Verification turned on, [read more](https://support.google.com/accounts/answer/185833?hl=en).
+1. From your google account, select **Security**, and under **Signing in to Google**, select **App Passwords.**
+1. At the bottom, choose **Select app** and select **Other (Custom name)**. Enter the name of the **App Password**, and click **Generate**.
+1. Copy the **App Password** generated in the yellow bar.
+1. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
 
-# Using Emailing Feature in Garage Hive
+   ![](media/garagehive-email-setup5.png)
+
+1. In the **Setup SMTP Account** page, enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the Gmail email address to setup), select **Authentication** as **Basic**, the **User Name** (this is the Gmail email address), and then paste the **App Password**, that you created in your Google account, in the **Password** Field. 
+1. For the **Server Url** and **Port** (Port for SSL), copy from **Outgoing Mail (SMTP) Server** section in [this page from google](https://support.google.com/mail/answer/7126229?hl=en#zippy=%2Cstep-change-smtp-other-settings-in-your-email-client).
+1. When you're finished, click **Next**.
+
+   ![](media/garagehive-email-setup9.png)
+
+1. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
+1. Select **Finish** to add the email.
+
+   ![](media/garagehive-email-setup7.png)
+
+### Using Emailing Feature in Garage Hive
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
 1. To use the Email feature, go to the document's actions bar and select **Email** for Estimates, Vehicle Inspection Estimates, and Checklists, or **Email Invoice** for the Jobsheets.
 
