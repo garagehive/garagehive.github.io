@@ -53,11 +53,11 @@ If your system does not have an email setup, you must do the setup before using 
 1. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
 1. Select **Finish** to add the email.
 
-   ![](media/garagehive-email-setup7.png)
+    ![](media/garagehive-email-setup7.png)
 
 1. If you don't have **Multi-factor Authentication** enabled, repeat steps 8 and 9 and enter your email account password instead of the **App Password** in the **Password** field.
 
-   ![](media/garagehive-email-setup8.png)
+    ![](media/garagehive-email-setup8.png)
 
 
 #### Gmail email account setup
