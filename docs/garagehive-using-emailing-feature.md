@@ -47,17 +47,17 @@ If your system does not have an email setup, you must do the setup before using 
 1. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
 1.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the email address to setup), the **User Name** (this is the email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
 
-   ![](media/garagehive-email-setup6.png)
+     ![](media/garagehive-email-setup6.png)
 
 1. When you're finished, click **Next**.
 1. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
 1. Select **Finish** to add the email.
 
-    ![](media/garagehive-email-setup7.png)
+     ![](media/garagehive-email-setup7.png)
 
 1. If you don't have **Multi-factor Authentication** enabled, repeat steps 8 and 9 and enter your email account password instead of the **App Password** in the **Password** field.
 
-    ![](media/garagehive-email-setup8.png)
+     ![](media/garagehive-email-setup8.png)
 
 
 #### Gmail email account setup
