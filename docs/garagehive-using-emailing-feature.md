@@ -23,39 +23,39 @@ If your system does not have an email setup, you must do the setup before using 
 
 #### Microsoft office 365 email account setup
 1. There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
-2. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9). 
-3. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/) and select **Security info**.
+1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9). 
+1. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/) and select **Security info**.
 
    ![](media/garagehive-email-setup1.png)
 
-4. Select **Add sign-in method**, choose **App password** from the list, and then select **Add**.
+1. Select **Add sign-in method**, choose **App password** from the list, and then select **Add**.
 
    ![](media/garagehive-email-setup2.png)
 
-5. Enter a name for the app password, and then select **Next**; this name helps differentiate the app password from others.
+1. Enter a name for the app password, and then select **Next**; this name helps differentiate the app password from others.
 
    ![](media/garagehive-email-setup3.png)
 
-6. Copy the password from the **App password** page, and then select **Done**.
+1. Copy the password from the **App password** page, and then select **Done**.
 
    ![](media/garagehive-email-setup4.png)
 
-7. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
+1. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
 
    ![](media/garagehive-email-setup5.png)
 
-8. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
-9.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the email address to setup), the **User Name** (this is the email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
+1. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
+1.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the email address to setup), the **User Name** (this is the email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
 
    ![](media/garagehive-email-setup6.png)
 
-10. When you're finished, click **Next**.
-11. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
-12. Select **Finish** to add the email.
+1. When you're finished, click **Next**.
+1. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
+1. Select **Finish** to add the email.
 
    ![](media/garagehive-email-setup7.png)
 
-13. If you don't have **Multi-factor Authentication** enabled, repeat steps 8 and 9 and enter your email account password instead of the **App Password** in the **Password** field.
+1. If you don't have **Multi-factor Authentication** enabled, repeat steps 8 and 9 and enter your email account password instead of the **App Password** in the **Password** field.
 
    ![](media/garagehive-email-setup8.png)
 
