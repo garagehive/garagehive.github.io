@@ -16,12 +16,12 @@ To edit the **Fuel Type Groups**:
 
    ![](media/garagehive-fuel-types2.png)
 
-4. Then, in the top right corner search icon, type **Fuel Types** and select the related link to add as many **Fuel Types** as you want.
-5. Select **New**, then fill in the table with the **Fuel Type** and a **Fuel Group Code** in the **Group Code** field.
+4. Then, in the top right corner search icon, type **Fuel Types** and select the related link. **Fuel Types** list is automatically generated when **Vehicle Data Lookup** is done.
+5. From the **Fuel Type** list, add **Fuel Group Code** in the **Group Code** field.
 
    ![](media/garagehive-fuel-types3.gif)
 
-6. After adding the **Fuel Type Groups** and **Fuel Types**, select a vehicle from the **Vehicle** list, scroll down to the **Engine** FastTab, and select the fuel type it uses in the **Fuel Type Code** field. Repeat this process for all the vehicles.
+6. You can view a vehicle's **Fuel Type Code** from the **Vehicle** card; select a vehicle from the **Vehicle** list and scroll down to the **Engine** FastTab, where the **Fuel Type Code** field is.
 
    ![](media/garagehive-fuel-types4.gif)
 
