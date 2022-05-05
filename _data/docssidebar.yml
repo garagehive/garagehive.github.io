@@ -252,6 +252,8 @@
       url: /docs/garagehive-managing-key-numbers-in-the-system.html
     - name: Automatically Adding Courtesy Car and Collection and Delivery Service Packages
       url: /docs/garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html
+    - name: Adding Fuel Type Group Code
+      url: /docs/garagehive-fuel-types.html
     - name: How to Export Customer and Vehicle Information
       url: /docs/garagehive-export-customer-vehicle-info.html
     - name: How to Filter Lists 
