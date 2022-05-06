@@ -41,7 +41,7 @@ Back in the **Online Booking Setup** page:
     ![](media/garagehive-onlinebooking-service-packages6.gif)
 
 8. Return to the **Service Package** Card and select **Related**, then **Package**, and finally **Additional Services**. Here, you can add the service packages that you want to show as an additional service for the service packages. 
-9. Add the **Type** as **Online Booking** and select the additional services from the **Additional Service Pack**. No. ** column You can add as many additional services as you need.
+9. Add the **Type** as **Online Booking** and select the additional services from the **Additional Service Pack No.** column; you can add as many additional services as you need.
 
     ![](media/garagehive-onlinebooking-service-packages7.gif)
 
