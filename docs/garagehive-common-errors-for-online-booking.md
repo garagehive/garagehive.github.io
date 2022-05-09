@@ -11,7 +11,7 @@ The **Online Booking Setup** page in Garage Hive has the **Test Catalog Setup** 
 
 ![](media/garagehive-online-booking-errors1.png)
 
-{% include tip.html title="Note" text="It is highly recommended that whenever you make changes to your online booking, such as publishing a new service package or removing a service package, you run a /"Test Catalog Setup/" to check for any setup errors. If there are any live errors within the Test Catalog Setup, your online booking will not update the changes made." %}
+{% include tip.html title="Note" text="It is highly recommended that whenever you make changes to your online booking, such as publishing a new service package or removing a service package, you run a Test Catalog Setup to check for any setup errors. If there are any live errors within the Test Catalog Setup, your online booking will not update the changes made." %}
 
 When you select the **Test Catalog Setup** action, the errors in the setup are displayed. Select one error at a time and click **Open Related Record** to go to the page where the error is.
 
