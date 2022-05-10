@@ -340,6 +340,8 @@
       url: /docs/garagehive-onlinebooking-testing.html
     - name: TyreClick Booking Integration
       url: /docs/garagehive-using-tyre-click.html
+    - name: Common Errors for Online Booking
+      url: /docs/garagehive-common-errors-for-online-booking.html
 - name: Customer Online Authorisation
   url: "#"
   subitems:
