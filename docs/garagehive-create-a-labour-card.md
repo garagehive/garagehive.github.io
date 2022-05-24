@@ -1,9 +1,45 @@
 ---
 layout: docs
-title: Create a Labour Card 
+title: Creating a Labour Card & Using Standard Times in Garage Hive 
 ---
 
-#   Create a Labour Card 
+## In this article
+1. [Creating a labour card](#creating-a-labour-card)
+2. [Using Standard Times](#using-standard-times)
+
+### Creating a labour card
+To create a new **Labour Card**:
+1. Select **Catalogues** from the role centre, then **Labours**.
+2. Select **New** from the actions bar to create a new labour card and start entering the labour details.
+
+The labour card is divided into the following FastTabs:
+
+#### General
+Fill in the following details:
+1. **No.** - This is the unique code for the labour in the system. Create one without spaces, and with less than 20 characters.
+2. **Description** - This is the description of the labour which will be shown on the jobsheet/invoice.
+3. **Type** - This is they type of labour; select from the predefined list in the system.
+4. **Group Code**  - This is the Service Labour Group Code that groups all the labours in the same category.
+5. **Unit of Measure Code** - This is the Unit of Measure for the labour; select **HOUR**.
+
+
+    ![](media/garagehive-create-a-labour-card1.png)
+
+![](media/garagehive-create-a-labour-card2.png)
+
+![](media/garagehive-create-a-labour-card3.png)
+
+
+ #### Invoicing
+ Fill in the following details:
+ 1. **VAT Bus. Posting Gr. (Price)** - 
+ 2. **Unit Price** -  This is the selling price of the labour, and you can set a price for selling this labour every time it’s sold.
+ 3. **Price/Profit Calculation** - This is the formula used for **Price** and **Profit**; select **Profit=Price-Cost**.
+ 4. **Profit %** - This is the percentage Profit for the labour; set it as **100%**.
+ 5. **Gen Prod. Posting Group** - This is the labour’s product type to link transactions made for this labour with the appropriate general ledger account according to the general posting setup; select the appropriate group from the pre-defined list.
+ 6. **VAT Prod. Posting Group** - This is the VAT specification of the invoice labour to link transactions made for this labour with the appropriate general ledger account according to the VAT posting setup; select from the pre-defined list. Most of the time it’s set to **DOMESTIC**.
+
+{% include tip.html title="Note" text="Do not create a new General Product Posting Group, or VAT Product Posting Group without discussing with a member of the support team." %}
 
 #### You can create as many customised labour cards as you like. 
 
@@ -11,85 +47,22 @@ title: Create a Labour Card
 
 #### *Labour Cards can also be used to build Service Packages.*  
 
-*   Select Catalogues followed by Labours in the Home Screen.
-
-    ![](media/garagehive-create-a-labour-card1.png)
-    
-*  Select **+ New**
-
-![](media/garagehive-create-a-labour-card2.png)
-
-##    *You will now be able to start building the Labour Card*
-
-![](media/garagehive-create-a-labour-card3.png)
-
-A.  **No.** - Create a unique and relevant Labour No (Code) - Complete without Spaces
-
-B.  **Description** - This is the description which will be shown on the jobsheet/invoice. 
-
-C.  **Group Code**  - Select the most relevant Labour Group code.
-
-*   AC
-*   ALIGN
-*   DIAG
-*   LABOUR
-*   MOT
-*   TYRE 
-
-D.  **Unit of Measure Code** - Select (HOUR) 
-
-E.  **VAT Bus. Posting Gr. (Price)** - Select the most relevant from the options 
-
-*   DOMESTIC - Domestic customers and vendors 
-*   EU - Customers and vendors in EU
-*   EXPORT - Other customers and vendors (not EU) 
-
-F.  **Unit Price** - This is to be the total unit price. This will vary depending on your **Standard Times**. Example below: - 
-
-*You charge a brake fluid change at £30plus VAT and allow 30 mins labour.* 
-
-*Unit Price = 60.00*<br>
-*Standard Times = 0.5*
-
-G.  **Price/Profit Calculation** = Profit=Price-Cost 
-
-H.  **Profit %** = 100
-
-I.  **Gen Prod. Posting Group** - These are pre-defined fields to select from. <br>
-
- ***DO NOT - Create your own without discussing with a member of the Support Team.***
-
-Select the most relevant General Product Posting Group. 
-
-*   CONS - Consumables 
-*   DIAG - Diagnostic 
-*   EXTERNAL - External Services 
-*   FLUIDS - Fluids 
-*   MISC - Miscellaneous 
-*   NO-POST - Miscellaneous No Post Items 
-*   PARTS - Parts 
-*   TYRES - Tyres 
-
-J.  **VAT Prod. Posting Group** - These are pre-defined fields to select from. <br>
-
-***DO NOT - Create your own without discussing with a member of the Support Team.***
-
-Please note that the majority of the time this should be set up as **STANDARD**. 
-
-*   Select the Navigate Tab 
-
-*   Select the Labour Tab    
-
-*   Followed by ***Standard Times***
+### Using Standard Times
+**Standard Times** are the recommended labour hours for completing a certain job. They are used to determine how many labour hours to charge customers. To add **Standard Times** in the labour card:
+1. Select **Related** from the actions bar, then **Labour** and then **Standard Times**.
 
 ![](media/garagehive-create-a-labour-card4.png)
 
-*   At this point you set the standard labour time you wish to be applied to this labour line.
+2. Set the standard time that you want to be applied for the labour. You can add several **Standard Times** using the **Make**, **Model** and **Production Years** for the vehicle.
 
 ![](media/garagehive-create-a-labour-card5.png)
 
-This is your labour card now created. 
+2. When you add the labour in the Jobsheet, the **Standard Time** is used, of which it can be changed from the **Quantity** field. If there are several **Standard Times** available, a pop-up appears with the preset **Standard Times**, and you can choose the relevant one.
 
-#   See Also 
 
+<br>
+
+### **See Also**
+
+[Creating an Item Card](garagehive-create-an-item-card.html)
 [Creating Service Packages](/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive")
