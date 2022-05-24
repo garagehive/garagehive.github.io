@@ -40,7 +40,7 @@ Fill in the following details:
 1. **Costing Method** - This should be set to **FIFO** (First In First Out).
 2. **Unit Cost** - This is the buying price of the part from the supplier, and will automatically be populated when receiving the part via the purchase order.
 3. **Gen. Prod Posting Group** - This is the item's product type to link transactions made for this item with the appropriate general ledger account according to the general posting setup; select the appropriate group from the pre-defined list. 
-4. **VAT Prod. Posting Group** - This is the VAT specification of the invoice item to link transactions made for this item with the appropriate general ledger account acording to the VAT posting setup; select from the pre-defined list. Most of the time it's set to **STANDARD**.
+4. **VAT Prod. Posting Group** - This is the VAT specification of the invoice item to link transactions made for this item with the appropriate general ledger account according to the VAT posting setup; select from the pre-defined list. Most of the time it's set to **STANDARD**.
 5. **Inventory Posting Group** - These are pre-defined fields to select from - Usually linked to the specific Item Category Code used.
 
    ![](media/garagehive-create-an-item-card5.png)
@@ -49,7 +49,7 @@ Fill in the following details:
 
 ## Prices and Sales
 Fill in the following details:
-1. **Unit Price**  - This is the selling price of the part, and you can set a price for selling this time every time it's sold.
+1. **Unit Price**  - This is the selling price of the part, and you can set a price for selling this item every time it's sold.
 2. **Price/Profit Calculation** - This is the calculation relationship among the **Price**, **Profit** and the **Cost** of the part, normally set to **Profit=Price-Cost.**
 
    ![](media/garagehive-create-an-item-card6.png)
@@ -77,3 +77,5 @@ No details should be added in this FastTab.
 
 [Create item templates](/docs/create-item-templates.html "Create item templates") \
 [Items to Return Report](/docs/garagehive-items-to-return.html "Items to Return Report")
+[Creating a Labour Card](/docs/garagehive-create-a-labour-card)
+[Creating Service Packages](/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive")
