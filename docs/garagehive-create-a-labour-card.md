@@ -26,8 +26,8 @@ Fill in the following details:
 
 ![](media/garagehive-create-a-labour-card2.png)
 
- #### Invoicing
- Fill in the following details:
+#### Invoicing
+Fill in the following details:
  1. **VAT Bus. Posting Gr. (Price)** - This is the VAT Business Posting Group Specification for the labour. Select from the pre-defined list. Most of the time it’s set to **DOMESTIC**.
  2. **Unit Price** -  This is the selling price of the labour, and you can set a price for selling this labour each time it is sold.
  3. **Price/Profit Calculation** - This is the formula used for **Price** and **Profit**. Select **Profit=Price-Cost**.
