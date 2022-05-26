@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: External Accountancy Export
+title: How to Export to Your External Accountancy System
 ---
-# How to export to your external accountancy system
+# How to Export to Your External Accountancy System
 
-Garage Hive allows you to export to your external accountancy package. You can export the following:
+Garage Hive allows you to export data to your **external accounting system**. You can export the following:
 
 * Customer Invoices
 * Customer Credit Memos
@@ -15,29 +15,30 @@ Garage Hive allows you to export to your external accountancy package. You can e
 * Vendor Invoices
 * Vendor Credit memos
 
-{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
+{% include tip.html title="Note" text="We currently do not support exporting vendor payments; this should be done in your external accounting system." %}
 
 ## How to run the export 
 
-To create an export, first you must ensure that you set up is complete, please contact a member of the team to assist you in the set up. Once the set up is complete you can run an export by searching for **Export to Accountancy System**. 
+To create an export, first confirm that your setup is complete; please contact a member of the team to assist you with the setup. Once the setup is complete, you can carry out the following:
+1. In the top-right corner, choose the search icon, enter **Export to Accountancy System**, and select the related link.
 
-![](media/garagehive-finance-accountancy-export.png)
+   ![](media/garagehive-accountancy-export1.gif)
 
-Once you have opened the Export page, you have the ability to select from the following options: 
+2. Once you've opened the **Export to Accounting System** page, you can choose from the following options: 
 
 * **Export Customer Invoices/Credit Memos** - This will export all of the Customer invoices/credit memos within the date range selected. 
 * **Export Customer Payments/Refunds** - This will export the Invoice payments/refunds, as well as payments to accounts within the date range selected.
 * **Export Vendor Invoices/Credit Memos** - This will export all of the posted purchase orders/purchase invoices and the posted purchase return orders/purchase credit memos within the date range selected. 
-* **Export Type** - All or New. You can either export **all** of the documents within the date range or only the **new** documents. Selecting **new** will exclude any documents previously exported. This means it is **vital** that you keep all previous exported files safe as these can never be re-produced. Once a transaction has been exported it will be flagged and not exported again when using **new**.
+* **Export Type** - All or New. You can either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any documents previously exported. This means it is important that you keep all previous exported files safe as these can never be re-produced. Once a transaction has been exported it will be flagged and not exported again when using **New**.
 * **Date From/To** - Select your date range.
 
-## Catalogs
+3. **Catalogs** options:
 
 * **Export All Customers** - This will produce an export of every single customer in the system.
-* **Export All Vendors** - This will produce an export of every single vendor in the system. 
+* **Export All Vendors** - This will produce an export of every single vendor in the system.
 
-![](media/garagehive-finance-accountancy-export-report.png)
+   ![](media/garagehive-accountancy-export2.png)
 
-Running the export will produce a zip file of the transactions and the customers/vendors related to the transactions. You can export Invoice/Credit memos, Customer Payments and Refunds and Vendor Invoices/Credit memos at the same time. 
+4. When you're done, click **OK**. Running the export will generate a zip file containing the transactions and the customers/vendors linked with the transactions. You can export Invoices/Credit Memos, Customer Payments and Refunds, and Vendor Invoices/Credit Memos all at once. 
 
 To understand how these transactions are imported into your accountancy software, please refer to their documentation. 
