@@ -41,4 +41,13 @@ To create an export, first confirm that your setup is complete; please contact a
 
 4. When you're done, click **OK**. Running the export will generate a zip file containing the transactions and the customers/vendors linked with the transactions. You can export Invoices/Credit Memos, Customer Payments and Refunds, and Vendor Invoices/Credit Memos all at once. 
 
-To understand how these transactions are imported into your accountancy software, please refer to their documentation. 
+To understand how these transactions are imported into your accountancy software, please refer to their documentation.
+
+
+<br>
+
+### **See Also**
+
+[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html) \
+[Xero API Integration Setup](xero-api-integration.html) \
+[How to Import Your Exported Data Into Sage 50 Cloud](garagehive-import-exported-data-to-sage-50-cloud.html) 
