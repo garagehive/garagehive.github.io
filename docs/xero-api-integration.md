@@ -100,4 +100,13 @@ Once the set up is complete you can run an export by searching for **Export to A
 * **Export All Customers** - This will produce an export of every single customer in the system.
 * **Export All Vendors** - This will produce an export of every single vendor in the system. 
 
-There is no physical file created when using the Xero integration. The transactions will appear directly in your Xero account. 
+There is no physical file created when using the Xero integration. The transactions will appear directly in your Xero account.
+
+
+<br>
+
+### **See Also**
+
+[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html) \
+[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html) \
+[How to Import Your Exported Data Into Sage 50 Cloud](garagehive-import-exported-data-to-sage-50-cloud.html)
