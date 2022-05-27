@@ -109,4 +109,4 @@ There is no physical file created when using the Xero integration. The transacti
 
 [How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html) \
 [How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html) \
-[How to Import Your Exported Data Into Sage 50 Cloud](garagehive-import-exported-data-to-sage-50-cloud.html)
+[How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html)
