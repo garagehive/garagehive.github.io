@@ -5,6 +5,12 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 30th May 2022
+* Added the ability to assign user tasks to a group of users; read more [here](garagehive-user-tasks.html).
+* Added the ability to set different print layout settings based on document types.
+
+   ![](media/print-layout-options.png)
+
 ### 19th April 2022
 * Added an action in the Jobsheet, Estimate and VI Estimate **Group Items** FastTab, which creates groups based on MOT test lookup data, creates a group for each attention line for one selected MOT test and automatically fills in the description, action category, and dangerous mark.
 

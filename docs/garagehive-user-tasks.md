@@ -8,14 +8,14 @@ title: Creating User Tasks in Garage Hive
 
 ## In this article
 1. [Creating user tasks groups](#creating-user-tasks-groups)
-2. [Add and assign task to a user](#add-and-assign-task-to-a-user)
+2. [Assign tasks to a user or user tasks group](#assign-tasks-to-a-user-or-user-tasks-group)
 3. [Create a recurring task](#create-a-recurring-task)
 4. [Check due tasks and mark as complete](#check-due-task-and-mark-as-complete)
 
 
 ### Creating user tasks groups
-**User Tasks Groups**, help in grouping tasks and adding users to a group for easy task management. To create a **User Task Group:**
-1. In the top-right corner, choose the search icon, enter **User Group Task**, and select the related link.
+**User Task Groups**, help in grouping tasks and adding users to a group for easy task management. To create a **User Task Group:**
+1. In the top-right corner, choose the search icon, enter **User Task Groups**, and select the related link.
 2. Click on **New**.
 
    ![](media/garagehive-user-tasks1.gif)
@@ -27,8 +27,8 @@ title: Creating User Tasks in Garage Hive
 
 5. The group is now successfully created. Click the back arrow, to go back to the groups list. You can create as many groups as required.
 
-### Add and assign task to a user
-After creating the groups, now you can add tasks to assign the user. To Create a task:
+### Assign tasks to a user or user tasks group
+After creating the groups, now you can assign tasks to **User** or the **User Task Group**. To Create a task:
 1. In the top-right corner, choose the search icon, enter **User Tasks**, and select the related link.
 2. Click on **New.**
 
@@ -36,11 +36,12 @@ After creating the groups, now you can add tasks to assign the user. To Create a
 
 3. Enter the **Subject** of the task, under the **General** FastTab, and then expound more about the subject in the **Description** field.
 4. Under the **Status** FastTab, select the user to assign the task in the **User Assigned To** field, and then add the **Start Date** and the **Due Date** for the task.
-5. In the **Priority** field, select the level of urgency for the task.
+5. You could, on the other hand, assign the task to the **User Task Group** instead, by selecting from the list in the **User Task Group** field.
+6. Finally, in the **Priority** field, specify the level of urgency for the task.
 
    ![](media/garagehive-user-tasks4.gif)
 
-6. The task now is added. Click on the back arrow to exit.
+7. The task now is added. Click on the back arrow to exit.
 
 ### Create a recurring task
 To create a recurring task:
