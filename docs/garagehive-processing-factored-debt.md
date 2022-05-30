@@ -30,7 +30,12 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt4.gif)
 
-1. To post the amount, select **Posting** from the actions bar, followed by **Post**. Before posting ensure that you have added the **Payment Terms Code** field, under the **Credit Memo Details** FastTab.
+1. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo actions bar.
+1. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
+
+   ![](media/garagehive-processing-factored-debt4.gif)
+
+1. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**. Before posting ensure that you have added the **Payment Terms Code** field, under the **Credit Memo Details** FastTab.
 
    ![](media/garagehive-processing-factored-debt5a.png)
    
@@ -40,16 +45,7 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt6.png)
 
-1. To apply the amount in the customer account, select the **Customer**, and click on the amount in the **Balance** column.
-1. Select **Process** from the actions bar, followed by **Apply Entries**.
-
-   ![](media/garagehive-processing-factored-debt6.gif)
-
-1. In the lines that are yet to be applied, add the **Applies-to ID** by selecting **Process** from the actions bar, followed by **Set Applies-to ID**.
-1. When done adding the **Applies-to ID**, select **Process** and then **Post Application**. Click **OK** in the pop-up window.
 1. The entries are now applied for **Payment Assist**, and are no longer open.
-
-   ![](media/garagehive-processing-factored-debt7.gif)
 
 
 <br>

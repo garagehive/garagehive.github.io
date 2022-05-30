@@ -49,7 +49,7 @@ To integrate your external accountancy system with Garage Hive:
 
 [How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html) \
 [Xero API Integration Setup](xero-api-integration.html) \
-[How to Import Your Exported Data Into Sage 50 Cloud](garagehive-import-exported-data-to-sage-50-cloud.html)
+[How to Import Your Exported Data Into Sage 50 Cloud](garagehive-import-exported-data-to-sage-50-accounts.html)
 
 
 
