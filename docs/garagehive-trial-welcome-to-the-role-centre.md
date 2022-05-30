@@ -24,15 +24,13 @@ To access the submenus under service:
 
 The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system. You can also check any open jobsheets, checklists, and estimates.
 
-To access the jobsheets page:
-1 CLick on **Jobsheets** from the navigation bar.
+To access the jobsheets page, cLick on **Jobsheets** from the navigation bar.
 
 #### 3. Actions bar
 
 The actions bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
 
-To create a new estimate:
-1. Click on **+Estimate**.
+To create a new estimate, click on **+Estimate**.
 
 #### 4. Data tiles
 
@@ -42,7 +40,11 @@ Click on a specific data tile to access the specified data content.
 
 #### 5. Web links Area
 
-This area allows you to add commonly used web links such as Power BI, tyre or parts suppliers so you can click on them and open them up for easier access.
+This area allows you to add commonly used web links such as Power BI, tyre or parts suppliers so you can click on them and open them up for easier access. To add a link or manage the list:
+1. Click the **Links** down arrow and choose either **New** to add a new link or **Manage List** to manage the current list.
+2. You can delete an existing link by selecting **Delete Line**.
+
+   ![](media/garagehive-trial-role-centre-manage-list.png)
 
 
 ### **See Also**
