@@ -35,17 +35,15 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt7.gif)
 
-1. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**. Before posting ensure that you have added the **Payment Terms Code** field, under the **Credit Memo Details** FastTab.
-
-   ![](media/garagehive-processing-factored-debt5a.png)
+2. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**.
    
    ![](media/garagehive-processing-factored-debt5.gif)
 
-1. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
+3. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
 
    ![](media/garagehive-processing-factored-debt6.png)
 
-1. The entries are now applied for **Payment Assist**, and are no longer open.
+4. The entries are now applied for **Payment Assist**, and are no longer open.
 
 
 <br>
