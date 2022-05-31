@@ -10,7 +10,7 @@ title: Autodata Seamless Integration in Garage Hive
 1. From the document that you are working from, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
 2. You can now access all the vehicle's technical information on the **Autodata Website.**
 
-   ![](media/garagehive-processing-factored-debt1.gif)
+   ![](media/garagehive-autodata-seamless-integration1.gif)
 
 
 <br>
