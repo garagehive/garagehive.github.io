@@ -6,7 +6,7 @@ title: Adding Repair Times in the Document
 # Checking and Adding Repair Time in the Document
 
 Repair times in Garage Hive are the number of hours estimated to repair parts of a vehicle based on the model and make of the vehicle. This aids in estimating and understanding the type of work required while repairing the vehicle. Here's how to get to the repair times:
-1. Open the jobsheet for the vehicle for which you want to check the repair times, and then click on **Lookup** and select **Repair Times** from the actions bar.
+1. Open the document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) with the vehicle for which you want to check the repair times, and then click on **Lookup** and select **Repair Times** from the actions bar.
 
    ![](media/garagehive-autodata-repair-times1.gif)
 
@@ -18,6 +18,10 @@ Repair times in Garage Hive are the number of hours estimated to repair parts of
 
    ![](media/garagehive-autodata-repair-times3.gif)
 
+4. On the other hand, you can use the **Advanced Search** to look up a key word related to the repairs that need to be done. Select **Repair Times** from the **Lookup** menu. Select **Advanced Search** on the **Repair Categories** page and type the keyword, for example, pads, into the **Search** field.
+
+   ![](media/garagehive-autodata-repair-times4.gif)
+
 
 ### **See Also**
 
@@ -26,4 +30,5 @@ Repair times in Garage Hive are the number of hours estimated to repair parts of
 [Checking vehicle engine oil data](garagehive-autodata-viewing-vehicle-engine-oil-data.html) \
 [Checking and adding servicing intervals and repair times using engine code](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html) \
 [How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html) \
-[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html)
+[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html) \
+[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html)

@@ -19,4 +19,5 @@ Select **Lookup** and then click on **Lubricants (Autodata)** from the actions b
 [Checking vehicle engine oil data](garagehive-autodata-viewing-vehicle-engine-oil-data.html) \
 [Checking and adding servicing intervals and repair times using engine code](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html) \
 [How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html) \
-[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html)
+[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html) \
+[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html)
