@@ -1,56 +1,27 @@
 ---
 layout: docs
-title: Autodata Seamless Integration (Autodata Advanced) in Garage Hive
+title: Autodata Seamless Integration in Garage Hive
 ---
 
-# How to Process Factored Debt in Garage Hive
+# Autodata Seamless Integration in Garage Hive
 
-> **Important:**
->
-> Because this is an accounting issue, please consider sending this documentation to your accountant for approval and/or comments.
+**Autodata Seamless Integration**, which can be accessed via the Jobsheets, Estimates, and Vehicle Inspection Estimates, is a feature in Garage Hive that allows the user to directly access technical information for the vehicle from the **Autodata Website**, such as vehicle service, repair, diagnostics, and so on. Here's how to access it:
 
-**Debt Factoring** is an external, short-term source of finance for a business. With **Debt Factoring**, the business raises cash by selling their outstanding sales invoices (receivables) to a third party (a factoring company) at a discount. Here is how to process a factored debt in Garage Hive:
-1. Suppose you have a customer who owes the company £802, and then you transfer the money to a factoring company, in this case **Payment Assist**. So, now **Payment Assist** now owes you £802 and the customer owes them.
-1. In the agreement, **Payment Assist** pays the company £650, leaving a balance of £152 as its commission; You may now process the balance as the commission.
+1. From the document that you are working from, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
+2. You can now access all the vehicle's technical information on the **Autodata Website.**
 
-   ![](media/garagehive-processing-factored-debt1.png)
-
-1. To begin, use the **Payment Assist Commission** item card available in the items list, or [create an **Item** card](garagehive-create-an-item-card.html) with this setup; make it a **Non-Inventory**, and add an **Item Category Code** (**PAYMENTASSIST**) to distinguish it from other item category codes. If you have more than one factoring company, create a separate item card for each.
-1. The **Posting Details** should be: **Gen. Prod. Posting Group** - **FDEBT** and **VAT Prod. Posting Group** - **STANDARD**. If this is not set up in your system, please contact the support team for assistance.
-
-   ![](media/garagehive-processing-factored-debt2.png)
-
-1. After you've created the item card, search for **Sales Credit Memo** in the top-right corner and select the related link.
-1. To create a new sales credit memo, click **New** from the actions bar.
-
-   ![](media/garagehive-processing-factored-debt3.gif)
-
-1. In the **General** FastTab **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
-1. In the **Lines** sub-page, enter the **Item** you created as the **Payment Assist Commission**, **Quantity** to be one, and the **Unit Price** as the balance, in this case **£152**.
-
-   ![](media/garagehive-processing-factored-debt4.gif)
-
-1. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo actions bar.
-1. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
-
-   ![](media/garagehive-processing-factored-debt7.gif)
-
-1. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**. Before posting ensure that you have added the **Payment Terms Code** field, under the **Credit Memo Details** FastTab.
-
-   ![](media/garagehive-processing-factored-debt5a.png)
-   
-   ![](media/garagehive-processing-factored-debt5.gif)
-
-1. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
-
-   ![](media/garagehive-processing-factored-debt6.png)
-
-1. The entries are now applied for **Payment Assist**, and are no longer open.
+   ![](media/garagehive-processing-factored-debt1.gif)
 
 
 <br>
 
-### See also
+### **See Also**
 
-[Video: How to review your customer surveys in Garage Hive](https://www.youtube.com/watch?v=UWpPgs-rJJg&t=136s)
+[Viewing and adding servicing intervals data](garagehive-autodata-viewing-and-adding-servicing-intervals.html) \
+[Adding repair times](garagehive-autodata-adding-repair-times.html) \
+[Checking vehicle lubricant's data](garagehive-autodata-checking-vehicle-lubricant-data.html) \
+[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html) \
+[Checking vehicle engine oil data](garagehive-autodata-viewing-vehicle-engine-oil-data.html) \
+[Checking and adding servicing intervals and repair times using engine code](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html) \
+[How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html)
 
