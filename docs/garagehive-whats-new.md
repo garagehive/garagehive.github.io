@@ -5,6 +5,9 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 2nd June 2022
+* Improvements to external accounting exports for vehicle sales invoices. When exporting vehicle sales invoices and credit memos to **Sage 50**, the **Vehicle Reg. No.**, **Make**, and **Model** are included in the description.
+
 ### 30th May 2022
 * Added the ability to assign user tasks to a group of users; read more [here](garagehive-user-tasks.html).
 * Added the ability to set different print layout settings based on document types.
