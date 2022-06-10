@@ -28,13 +28,15 @@ If you're using **Sage 50 Accounts** as your accounting system, you'll need to i
    ![](media/garagehive-import-exported-data-to-sage4.gif)
 
 9.  The data will now be imported into your **Sage 50 Accounts** system, click **Close**.
-10. Repeat the process for the **Supplier Records**, making sure to choose the **Supplier Records** as the **Data Type**.
-11. Lastly, import the **Audit Trail Transactions** and set the **Data Type** to **Audit Trail Transactions**. The **Audit Trail Transactions** are now the real documents for the transactions you've done with the imported customer and supplier records.
+1. Repeat the process for the **Supplier Records**, making sure to choose the **Supplier Records** as the **Data Type**.
+1. Lastly, import the **Audit Trail Transactions** and set the **Data Type** to **Audit Trail Transactions**. The **Audit Trail Transactions** are now the real documents for the transactions you've done with the imported customer and supplier records.
 
    ![](media/garagehive-import-exported-data-to-sage5.gif)
 
-12. When finished, all data will be captured in your **Sage 50 Accounts** system, just as it is in **Garage Hive**.
-13. Open the **Sage Exports** folder on your PC and copy all the imported files to the **Done** folder you created; this ensures that you do not reimport the same files the next time you import files to the **Sage 50 Accounts** system.
+1. When finished, all data will be captured in your **Sage 50 Accounts** system, just as it is in **Garage Hive**.
+1. Open the **Sage Exports** folder on your PC and copy all the imported files to the **Done** folder you created; this ensures that you do not reimport the same files the next time you import files to the **Sage 50 Accounts** system.
+
+   ![](media/garagehive-import-exported-data-to-sage6.png)
 
 
 <br>
