@@ -5,6 +5,13 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 6th June 2022
+* Added the schedule action in the **Parts Sales Admin** role centre.
+* Added the ability to show the original (full price) and the discounted price in an online job authorisation, if there is a discount applied.
+* Added the **Unlink From Purchase Document** action in Jobsheet and Sales Order to unlink the purchase order created from the Jobsheet or Sales Order document.
+
+   ![](media/unlink-from-purchase-document.png)
+
 ### 2nd June 2022
 * Improvements to external accounting exports for vehicle sales invoices. When exporting vehicle sales invoices and credit memos to **Sage 50**, the **Vehicle Reg. No.**, **Make**, and **Model** are included in the description.
 
