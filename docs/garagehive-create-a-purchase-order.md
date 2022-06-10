@@ -1,70 +1,72 @@
 ---
 layout: docs
-title: Create a Purchase Order 
+title: How to Create Purchase Orders in Garage Hive
 ---
 
-# Create a Purchase Order
+# How to Create Purchase Orders in Garage Hive
+There are two ways to create a **Purchase Order** in Garage Hive:
+1. [Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
+2. [From the home screen](#creating-a-purchase-order-from-the-home-screen)
 
-{% include youtube.html id="CxgRuv8eTT4" %}
+### Creating a Purchase Order directly from a Jobsheet
+To create a purchase order directly from a Jobsheet:
+1. Open the relevant Jobsheet and scroll down to the **Lines** FastTab.
+2. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
+3. Use a **Placeholder Item** number, such as **MISC**, for items that you don't know the part number. This will be the placeholder part number until you receive the items.
+4. Enter the quantity to be ordered in the **Quantity** column.
 
-There are 2 ways of creating a purchase order, either directly from a jobsheet or from the home screen and link to jobsheet if required.   
+   ![](media/garagehive-creating-a-purchase-order1.gif)
 
-### First Method Creating a Purchase Order direct from a jobsheet. 
-
-1. Open relevant jobsheet and scroll down to lines and select Item.
-
-![](media/garagehive-creating-a-purchase-order10.png)
-
-2. Select an **Item** or the **External Service**. If you know the part number or an item from stock, you can start typing the description or part number into the **No.** column and it will show a list of all items with that description in it.
-
-![](media/garagehive-creating-a-purchase-order11.png)
-
-If you do not know the part number of the item you are ordering then type ‘MISC’ into the No. box, this will be a placeholder part until you receive the item.
-
-![](media/garagehive-creating-a-purchase-order12.png)
+5. Enter the supplier name to order from in the **Vendor No.** column and select from the list. If there are several parts from the same supplier, enter the same supplier in all the item lines.
+6. If, on the other hand, some items are from a different supplier, enter the relevant supplier name in the **Vendor No.** column. This creates separate purchase orders for the different suppliers.
+7. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
    
-Select required quantity to be ordered
+   ![](media/garagehive-creating-a-purchase-order2.gif)
 
-![](media/garagehive-creating-a-purchase-order13.png)
+8. Select **Parts** from the actions bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
 
-In the vendor column type in the beginning of the suppliers name/vendor number and select from the list. If there are multiple parts from the same supplier put their information in each box.
+   ![](media/garagehive-creating-a-purchase-order3.gif)
 
-![](media/garagehive-creating-a-purchase-order14.png)
+9. The Purchase Order(s) has now been created and is ready for the parts to be ordered. The next step will be to receive the parts and post the Purchase Order.
+   
+   ![](media/garagehive-creating-a-purchase-order4.gif)
 
-* You can create multiple purchase orders for different suppliers by select the relevant supplier in the vendor column against the specific parts.
+1. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the actions bar, allowing you to create a new purchase order with a different supplier.
+1. Delete the lines from the previously created purchase order(s).
 
-* Place a tick in the  ‘Purchase (Special)’ box column against all parts you need to order. Even if they are from different suppliers tick all boxes and separate Purchase Order numbers will be created for each vendor you have specified.
+   ![](media/garagehive-creating-a-purchase-order5.gif)
 
-![](media/garagehive-creating-a-purchase-order15.png)
 
-* Within the Actions Bar select Parts, followed by 'Create a Purchase Order(s)’.
+### Creating a Purchase Order from the home screen
+This option is typically used only after the invoice has been received from the supplier. To create a Purchase Order from the home screen:
+1. Select **Purchasing**, and then **Purchase Orders** from the navigation menu in the home screen.
+2. Choose **New** from the **Purchase Orders** page.
+3. Start typing the vendor name in the **Vendor No.** field, and select from the list. If the vendor is not available in the system you can [create a new vendor card](garagehive-create-a-vendor-card.html).
+4. In the **General** FastTab, enter the invoice number in the **Vendor Invoice No.** field.
 
-![](media/garagehive-creating-a-purchase-order16.png)
+   ![](media/garagehive-creating-a-purchase-order6.gif)
 
-It will then alert that a purchase order has been created. If multiple suppliers have been selected this will bring an alert up for each supplier. You can take note of the purchase order numbers here.
+5. Scroll down to the **Lines** FastTab and add the items from the supplier invoice by selecting **Item** in the **Type** column and entering the part number in the **No.** column, or [create an item card](garagehive-create-an-item-card.html) for items not in stock list.
 
-![](media/garagehive-creating-a-purchase-order17.png)
+   ![](media/garagehive-creating-a-purchase-order7.gif)
 
-> The Purchase Order has now been raised and ready for the parts to be ordered. The next step will be to receive the parts into stock and post the Purchase Order.
+6. If you want to link the purchase order to a jobsheet, go to the **General** FastTab, then to the **Purch. Source Type** field, and choose **Jobsheet.**
+7. Select the Jobsheet to link to in the **Jobsheet No.** field, which is located below the **Purch. Source Type** field.
+8. Select **Special Order** from the actions bar, followed by **Add Item Lines to Jobsheet** action.
 
-### Second Method Creating a Purchase Order to link to a jobsheet. 
-(This option is usually only used once the invoice has been received from the supplier)
+   ![](media/garagehive-creating-a-purchase-order8.gif)
 
-Within the Actions Bar on the Home screen, 
+9. You can now post the Purchase Order by choosing **Posting** and then **Post** from the actions bar.
 
-![](media/garagehive-creating-a-purchase-order18.png)
+   ![](media/garagehive-creating-a-purchase-order9.gif)
 
-*   Fill in your Vendors Details. 
 
-This will populate you a purchase order 
+<br>
 
-*   Complete the Jobsheet number which you wish to link the parts onto. 
+### **See Also**
 
-*   Then select Add Item Lines to Jobsheet. 
+[Video: How to Create Purchase Orders in Garage Hive](https://www.youtube.com/watch?v=CxgRuv8eTT4)
 
-![](media/garagehive-creating-a-purchase-order19.png)
-
-At this point you now post this purchase order and bring the parts into stock. 
 
 
 

@@ -7,7 +7,7 @@ title: Autodata Seamless Integration in Garage Hive
 
 **Autodata Seamless Integration**, which can be accessed via the Jobsheets, Estimates, and Vehicle Inspection Estimates, is a feature in Garage Hive that allows the user to directly access technical information for the vehicle from the **Autodata Website**, such as vehicle service, repair, diagnostics, and so on. Here's how to access it:
 
-1. From the document that you are working from, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
+1. From the document that you are working in, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
 2. You can now access all the vehicle's technical information on the **Autodata Website.**
 
    ![](media/garagehive-autodata-seamless-integration1.gif)
