@@ -449,6 +449,8 @@
 - name: Autodata Integration
   url: "#"
   subitems:
+    - name: Autodata Seamless Integration in Garage Hive
+      url: /docs/garagehive-autodata-seamless-integration.html
     - name: Viewing Servicing Vehicle Intervals
       url: /docs/garagehive-autodata-viewing-and-adding-servicing-intervals.html
     - name: Adding Repair Times in The Document Lines
