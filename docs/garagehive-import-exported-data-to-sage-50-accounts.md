@@ -36,6 +36,8 @@ If you're using **Sage 50 Accounts** as your accounting system, you'll need to i
 12. When finished, all data will be captured in your **Sage 50 Accounts** system, just as it is in **Garage Hive**.
 13. Open the **Sage Exports** folder on your PC and copy all the imported files to the **Done** folder you created; this ensures that you do not reimport the same files the next time you import files to the **Sage 50 Accounts** system.
 
+   ![](media/garagehive-import-exported-data-to-sage6.png)
+
 
 <br>
 
