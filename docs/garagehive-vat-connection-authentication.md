@@ -1,17 +1,58 @@
 ---
 layout: docs
-title: How to Create Purchase Orders in Garage Hive
+title: How to Authenticate VAT Connection in Garage Hive
 ---
 
-# How to Create Purchase Orders in Garage Hive
+# How to Authenticate VAT Connection in Garage Hive
+To authenticate your VAT connection from the HMRC website:
+1. In the top-right corner, choose the search icon, enter **Service Connections**, and select the related link.
+2. Select **HMRC VAT Setup**, that is already setup in your system.
+
+   ![](media/garagehive-vat-connection-authentication1.png)
+
+3. On the **HMRC VAT** page, select **Request Authorisation Code**, and click **No** on the pop-up. This redirects you to the HMRC website authorisation page, click **Continue.**
+
+   ![](media/garagehive-vat-connection-authentication2.png)
+
+   ![](media/garagehive-vat-connection-authentication3.png)
+
+   ![](media/garagehive-vat-connection-authentication4.png)
+
+4. The **HMRC Sign-in**page opens, where you can now enter your **Government Gateway user ID** and **Password.**
+
+   ![](media/garagehive-vat-connection-authentication5.png)
+
+5. **Grant Authority** on the website, and copy the code in the **Authorisation granted** page.
+
+   ![](media/garagehive-vat-connection-authentication6.png)
+
+   ![](media/garagehive-vat-connection-authentication7.png)
+
+6. Paste the code in the **Request Authorisation Code** FastTab, and close the **HMRC VAT** page.
+
+   ![](media/garagehive-vat-connection-authentication8.png)
+
+7. The authorisation is now completed, and you can open the **Company Information Setup** to verify the VAT registration number by clicking **Yes** on the pop-up.
+
+  ![](media/garagehive-vat-connection-authentication9.png)
+
+  ![](media/garagehive-vat-connection-authentication10.png)
+
+
+
+
+
+
+
+
+
+
 There are two ways to create a **Purchase Order** in Garage Hive:
 1. [Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
 2. [From the home screen](#creating-a-purchase-order-from-the-home-screen)
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
-<br>
-
 **Option 1**
 1. Open the relevant Jobsheet and scroll down to the **Lines** FastTab.
 2. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
@@ -38,8 +79,6 @@ To create a purchase order directly from a Jobsheet:
 1. Delete the lines from the previously created purchase order(s).
 
    ![](media/garagehive-creating-a-purchase-order5.gif)
-
-<br>
 
 **Option 2**
 1. When creating a purchase order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**.
