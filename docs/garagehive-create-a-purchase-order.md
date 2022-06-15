@@ -10,6 +10,7 @@ There are two ways to create a **Purchase Order** in Garage Hive:
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
+**Option 1**
 1. Open the relevant Jobsheet and scroll down to the **Lines** FastTab.
 2. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
 3. Use a **Placeholder Item** number, such as **MISC**, for items that you don't know the part number. This will be the placeholder part number until you receive the items.
@@ -36,6 +37,13 @@ To create a purchase order directly from a Jobsheet:
 
    ![](media/garagehive-creating-a-purchase-order5.gif)
 
+**Option 2**
+1. When creating a purchase order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**.
+2. Select **Parts** from the actions bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
+3. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
+4. Select **Create Purchase Order(s)** from the actions bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
+
+   ![](media/garagehive-creating-a-purchase-order10.gif)
 
 ### Creating a Purchase Order from the home screen
 This option is typically used only after the invoice has been received from the supplier. To create a Purchase Order from the home screen:
