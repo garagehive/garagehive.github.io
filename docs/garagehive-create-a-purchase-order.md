@@ -10,6 +10,8 @@ There are two ways to create a **Purchase Order** in Garage Hive:
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
+<br>
+
 **Option 1**
 1. Open the relevant Jobsheet and scroll down to the **Lines** FastTab.
 2. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
