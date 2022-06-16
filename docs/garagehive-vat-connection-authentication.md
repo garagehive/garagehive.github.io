@@ -14,7 +14,7 @@ To authenticate your VAT connection from the HMRC website:
 
    ![](media/garagehive-vat-connection-authentication2.png)
 
-4. Click **No** on the pop-up about the **Data Encryption**. This redirects you to the **HMRC Website Authorisation** page, click **Continue.**
+4. On the **Data Encryption** pop-up, click **No**. This takes you to the **HMRC Website Authorisation** page; click Continue.
 
    ![](media/garagehive-vat-connection-authentication3.png)
 
