@@ -395,6 +395,8 @@
       url: /docs/garagehive-registering-customer-payments.html
     - name: Unapplying and Reversing Transactions
       url: /docs/garagehive-unapplying-and-reversing-transactions.html
+    - name: How to Authenticate VAT Connection
+      url: /docs/garagehive-vat-connection-authentication.html
     - name: How to Print Statements
       url: /docs/garagehive-statements-how-to-print.html
     - name: How to Email Statements
