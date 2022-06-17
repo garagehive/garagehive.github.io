@@ -5,6 +5,9 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 17th June 2022
+* Improvements to sage accountancy integration.
+
 ### 6th June 2022
 * Added the schedule action in the **Parts Sales Admin** role centre.
 * Added the ability to show the original (full price) and the discounted price in an online job authorisation, if there is a discount applied.
