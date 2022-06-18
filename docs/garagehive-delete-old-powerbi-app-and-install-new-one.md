@@ -11,7 +11,7 @@ title: How to Delete Your Old Power BI App and Install the New One
 
 3. Now click on the following link to install the new application version of Power BI and follow the instructions [here](powerbi-installing-app.html).
 
-   > # Power BI installation link: <ins>[Garage Hive Power BI App - V41 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=ddc5bc04-9e0d-461b-a994-9eb94d4ec37dhvf-9k1pShWgJ0pydqYO9aZzmXXSxGZBD4DEOy1m3hM&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=41 "Power BI V41 Download")</ins>
+   > # Power BI installation link: <ins>[Garage Hive Power BI App - V46 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=e556b931-ad22-4a77-8c04-342a0492b6283sj9xxYOIZHU-JeAjyv6YERz-rg5Nfw2FP-7ZNQ2B8E&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=46 "Power BI V46 Download")</ins>
 
 
 <br>
