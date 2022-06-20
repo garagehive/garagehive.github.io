@@ -33,9 +33,9 @@ To install the app:
 7. You will now be asked to authorise the connection to your **Garage Hive** system. 
 8. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
 
-   > **NOTE:** We recommend using the **Web Service Access Key** since it's independent of the **Garage Hive** system password. This means, if your **Garage Hive** system is reset, your **Power BI App** will continue working as usual without crashing.
+   {% include tip.html title="Note" text="We recommend using the Web Service Access Key since it's independent of the Garage Hive system password. This means, if your Garage Hive system is reset, your Power BI App will continue working as usual without crashing." %}
    
-9. Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. Your will now start refreshing.
+9. Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. Your **Power BI App** will now start refreshing.
 
    ![](media/garagehive-installing-powerbi-app5.gif)
 
