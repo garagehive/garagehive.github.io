@@ -17,6 +17,10 @@ Here's how to use the **Sales Order** in Garage Hive:
 
    ![](media/garagehive-parts-sales-order2.gif)
 
+1. Scroll down to **Invoice Print Options** and select the **Print Item No.** slider if you want to print the **Part/Item Numbers** in the invoice. **Part Numbers** will be printed in brackets in the invoice line description.
+
+   ![](media/garagehive-parts-sales-order2aa.gif)
+
 1. The column **Unit Price (Calc.) Inc. VAT)** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items and so on.
 
    ![](media/garagehive-parts-sales-order2a.gif)

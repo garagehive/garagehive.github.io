@@ -4,7 +4,10 @@ title: Creating a Parts Sales Invoice in Garage Hive
 ---
 
 # Creating a Parts Sales Invoice in Garage Hive
-**Parts Sales Invoice** is the document on which you register your parts sales to customers and invite them to pay according to the delivery and payment terms agreed upon. To manage the shipment process, use [sales orders](garagehive-using-parts-sales-order.html), in which sales invoicing is integrated. To create a **Sales Invoice**:
+**Parts Sales Invoice** is the document on which you register your parts sales to customers and invite them to pay according to the delivery and payment terms agreed upon. To manage the shipment process, use [Sales Orders](garagehive-using-parts-sales-order.html), in which sales invoicing is integrated. 
+<br>
+
+To create a **Sales Invoice**:
 1. You can create a new **Sales Invoice** by selecting **Sales** from the navigation menu, followed by **Sales Invoice** in the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html); select **Process** from the **Sales Quote** actions bar, followed by **Make Invoice**.
 2. In the **Sales Invoice** list, select **New** from the action bars.
 
