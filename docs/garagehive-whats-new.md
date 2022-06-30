@@ -5,6 +5,12 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 30th June 2022
+* Payment methods and balance due have been added to print layouts, which helps in knowing how the customer has paid and the balance due.
+* Added **Reason Code** for deleted jobsheets; when deleting a jobsheet, you can now specify the reason for the deletion.
+
+   ![](media/reason-code-jobsheet.png)
+
 ### 17th June 2022
 * Improvements to sage accountancy integration.
 
