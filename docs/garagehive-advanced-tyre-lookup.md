@@ -13,5 +13,5 @@ To use this feature, you should first import a tyre stock file from the supplier
 2. The **Advanced Tyre Lookup** page will open, displaying a list of all available tyres in the specified size. This excludes any additional **Catalogue Items** added to the system. Select the tyre you need from the list.
 3. Click **OK** to add the tyre to the Jobsheet. A tyre item will be created in the system and added to the Jobsheet.
 
-![](media/garagehive-advanced-tyre-lookup4.gif)
+![](media/garagehive-advanced-tyre-lookup1.gif)
 
