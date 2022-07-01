@@ -42,7 +42,7 @@ After creating a placeholder item, you can add it to a document for items you ar
 When you receive the purchase invoice from the supplier, convert the placeholder item to the item on the purchase invoice after posting the purchase invoice. To do this:
 1. Open the Jobsheet with the placeholder items, select **Parts** followed by **Convert Placeholder Items** from the actions bar.
 2. Scroll right to the **Action** column, and click on **Select Item**. Select the item from the **Items** List, and click **OK**.
-3. Repeat the step **2** for all placeholder items.
+3. Repeat step **2** for all placeholder items.
 
    ![](media/garagehive-placeholder-item4.gif)
 
