@@ -4,29 +4,37 @@ title: Creating a Jobsheet
 ---
 
 # Creating a Jobsheet 
-There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create-from-various-places.html). In this article we'll look at the standard way to create a new Jobsheet:
+There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create-from-various-places.html). In this article we'll look at the standard way to create a new Jobsheet.
+
+## In this article
+1. [Creating a new Jobsheet](#create-a-new-jobsheet)
+2. [Add Items and Labour](#add-items-and-labour)
+3. [View the Factbox](#view-the-factbox)
+4. [Deleting a Jobsheet](#deleting-a-jobsheet)
+
+### Create a new Jobsheet
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
-2. Select the **Service Type** - This is the type of job to do.
+1. Select the **Service Type** - This is the type of job to do.
 
    ![](media/garagehive-create-a-jobsheet1.gif)
 
-3. Fill in the **Vehicle Registration No.**:
+2. Fill in the **Vehicle Registration No.**:
     - If the vehicle is in the system, the customer card will be auto-filled.
     - If the vehicle is not in the system, the system will look it up using **VRM** to obtain the vehicle's details.
-4. Enter the current vehicle mileage, in the **Mileage** field.
+3. Enter the current vehicle mileage, in the **Mileage** field.
 
     ![](media/garagehive-create-a-jobsheet2.gif)
 
-5. After the VRM lookup for the vehicle, enter the customer information:
+4. After the VRM lookup for the vehicle, enter the customer information:
     - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
     - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
-6. Fill in **Address & Contact** FastTab in the **Customer** card:
+5.  Fill in **Address & Contact** FastTab in the **Customer** card:
     - Select **Lookup Address from Postcode**, enter the **Postcode**, click **OK**, and then select the appropriate address.
     - Fill in the contact information, including phone number and email address.
 
          ![](media/garagehive-create-a-jobsheet3.gif)
 
-7. You can now add the following details:
+6.  You can now add the following details:
      - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
      - **Requested Delivery Date** and **Requested Delivery Time** - This is the date and time the customer has requested that the car be delivered after the work has been completed.
      - **External Document No.** - This is the number for the external document that is related to the work being done on the vehicle.
@@ -41,23 +49,24 @@ There are various methods for creating a jobsheet, as described in [this article
 
       ![](media/garagehive-create-a-jobsheet4.gif)
 
-8. The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
+7.  The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
 
    ![](media/garagehive-create-a-jobsheet4a.png)
 
-9. Under the **Checklist** subpage, you can view and access any checklists that are linked to the jobsheet.
+13. Under the **Checklist** subpage, you may view and access any checklists that are linked to the jobsheet.
 
       ![](media/garagehive-create-a-jobsheet5.gif)
 
-10. You can enter any information the customer has provided about the job to be done in the **Comments** subpage. 
+14. In the **Comments** subpage, you can enter any information the customer has provided about the job to be done. 
 
       ![](media/garagehive-create-a-jobsheet6.gif)
    
-11. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html). 
+15. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html). 
 
     ![](media/garagehive-create-a-jobsheet6a.png)
 
-12. You can now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
+### Add Items and Labour
+16. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
     - **Type** column - Select either **Labour** or **Item** to define what type of details are to be entered in the line.
     - **No** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour**, and so on; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on.
     - **Description** column - This is the item or labour description that will appear in the customer's invoice.
@@ -71,9 +80,28 @@ There are various methods for creating a jobsheet, as described in [this article
     
          ![](media/garagehive-create-a-jobsheet7.gif)
 
-13. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
+### View the Factbox
+17. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)
+
+### Deleting a Jobsheet
+To delete a Jobsheet, make sure that there are no allocation available for the jobsheet, then:
+1. In the top-right corner, choose the search icon, enter **Service Mgt. Setup GH**, and select the related link.
+2. Scroll to the **Archive** FastTab and select the **Ask for Reason on Jobsheet Delete** slider to the right. Exit the setup page.
+
+   ![](media/garagehive-create-a-jobsheet9.gif)
+
+3. To personalise your Jobsheet deletion reasons, click the search icon, enter **Document Deletion Reasons**, and select the related link.
+4. Choose **New** from the actions bar, then **Document Type** as **Jobsheet**, a **Code** for the reason, and then the description. For example, you may enter **Booking** as the code and **Booking Cancelled** as the description.
+5. Add several reasons and then exit the page when done.
+
+   ![](media/garagehive-create-a-jobsheet10.gif)
+
+6. Open the Jobsheet to delete, and at the top of the jobsheet, you'll see an icon to delete a jobsheet; click on it, choose **Yes** on the pop-up, and choose the reason for deleting the Jobsheet.
+
+   ![](media/garagehive-create-a-jobsheet11.gif)
+
 
 <br>
 

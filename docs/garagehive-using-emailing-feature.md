@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Using Emailing Feature in Garage Hive 
+title: Setting Up and Using Emailing Feature in Garage Hive 
 ---
 
 ## In this article
