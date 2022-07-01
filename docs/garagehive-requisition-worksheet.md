@@ -53,7 +53,7 @@ The **Requisition Worksheet** can be accessed from the Service Advisor's **Role 
 
    ![](media/garagehive-requisition-worksheet6a.gif)
 
-7. The **Item Card** can also be accessed from the actions bar, and the **Item Policies** can be viewed from the **FactBox** on the right (if not visible, click on the **FactBox** icon).
+7. The **Item Card** may be accessed from the actions bar, and the **Item Policies** can be viewed from the **FactBox** on the right (if not visible, click on the **FactBox** icon).
 
    ![](media/garagehive-requisition-worksheet7.gif)
 
