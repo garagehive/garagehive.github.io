@@ -7,6 +7,8 @@ Below is a brief list of Garage Hive developments:
 
 ### 4th July 2022
 * Added the [Requisition Worksheet Express](garagehive-requisition-worksheet.html) tile to the role centre and an automatic recalculation of what needs to be ordered each day.
+
+   ![](media/garagehive-requisition-worksheet4.png)
   
 ### 30th June 2022
 * Payment methods and balance due have been added to print layouts, which helps in knowing how the customer has paid and the balance due.
