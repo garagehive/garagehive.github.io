@@ -14,7 +14,7 @@ Below is a brief list of Garage Hive developments:
 * Payment methods and balance due have been added to print layouts, which helps in knowing how the customer has paid and the balance due.
 * Added **Reason Code** for deleted jobsheets; when [deleting a Jobsheet](garagehive-create-a-jobsheet.html#setup-for-jobsheet-deletion-reasons), you can now specify the reason for the deletion.
 
-   ![](media/reason-code-jobsheet.png)
+   ![](media/reason-code-jobsheet.jpg)
 
 ### 17th June 2022
 * Improvements to sage accountancy integration.
