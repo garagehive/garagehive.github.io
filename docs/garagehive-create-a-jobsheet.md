@@ -9,7 +9,7 @@ There are various methods for creating a jobsheet, as described in [this article
 ## In this article
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
 2. [Add Items and Labour](#add-items-and-labour)
-3. [View the Factbox](#view-the-factbox)
+3. [View the Factbox and copy the VIN](#view-the-factbox-and-copy-the-vin)
 4. [Setup for Jobsheet Deletion Reasons](#setup-for-jobsheet-deletion-reasons)
 
 ### Create a new Jobsheet
@@ -80,7 +80,7 @@ There are various methods for creating a jobsheet, as described in [this article
     
          ![](media/garagehive-create-a-jobsheet7.gif)
 
-### View the Factbox
+### View the Factbox and copy the VIN
 17. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)

@@ -8,7 +8,7 @@ Reordering policies and requisition worksheets help manage your stock by suggest
 ## In this article
 1. [Setting up the Item Card](#setting-up-the-item-card)
 2. [Setting up the Item Card for multiple locations](#setting-up-the-item-card-for-multiple-locations)
-3. [Using the Requisition Worksheet and setting up automatic recalculation](#using-the-requisition-worksheet-and-setting-up-automatic-recalculation)
+3. [Using the Requisition Worksheet Express and setting up automatic recalculation](#using-the-requisition-worksheet-express-and-setting-up-automatic-recalculation)
 
 ### Setting up the Item Card
 To use the requisition worksheet you must first setup the item cards:
@@ -33,7 +33,7 @@ To use the requisition worksheet you must first setup the item cards:
 
 10. Repeat steps **7**, **8**, and **9** for all the locations.
 
-## Using the Requisition Worksheet and setting up automatic recalculation
+## Using the Requisition Worksheet Express and setting up automatic recalculation
 The **Requisition Worksheet** can be accessed from the Service Advisor's **Role Centre** tiles:
 1. Scroll down through the tiles in the **Role Centre**, to the **Purchasing** section, and select **Items to Order** tile.
 
