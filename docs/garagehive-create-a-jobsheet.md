@@ -10,7 +10,7 @@ There are various methods for creating a jobsheet, as described in [this article
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
 2. [Add Items and Labour](#add-items-and-labour)
 3. [View the Factbox](#view-the-factbox)
-4. [Deleting a Jobsheet](#deleting-a-jobsheet)
+4. [Setup for Jobsheet Deletion Reasons](#setup-for-jobsheet-deletion-reasons)
 
 ### Create a new Jobsheet
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
@@ -85,7 +85,7 @@ There are various methods for creating a jobsheet, as described in [this article
 
       ![](media/garagehive-create-a-jobsheet8.gif)
 
-### Deleting a Jobsheet
+### Setup for Jobsheet Deletion Reasons
 To delete a Jobsheet, make sure that there are no allocation available for the jobsheet, then:
 1. In the top-right corner, choose the search icon, enter **Service Mgt. Setup GH**, and select the related link.
 2. Scroll to the **Archive** FastTab and select the **Ask for Reason on Jobsheet Delete** slider to the right. Exit the setup page.
