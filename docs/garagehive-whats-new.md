@@ -5,9 +5,12 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 4th July 2022
+* Added the [Requisition Worksheet Express](garagehive-requisition-worksheet.html) tile to the role centre and an automatic recalculation of what needs to be ordered each day.
+  
 ### 30th June 2022
 * Payment methods and balance due have been added to print layouts, which helps in knowing how the customer has paid and the balance due.
-* Added **Reason Code** for deleted jobsheets; when deleting a jobsheet, you can now specify the reason for the deletion.
+* Added **Reason Code** for deleted jobsheets; when [deleting a Jobsheet](garagehive-create-a-jobsheet.html#setup-for-jobsheet-deletion-reasons), you can now specify the reason for the deletion.
 
    ![](media/reason-code-jobsheet.png)
 
