@@ -4,8 +4,8 @@ title: Adding Optional Tiles in Garage Hive
 ---
 
 There are several tiles in Garage Hive that are hidden by default from the **Role Centre**, which means they are not visible and cannot be used. These tiles are listed below:
-   * Work status **Await Parts**
-   * Work status **Await Auth.**
+   * Jobsheet Work status **Await Parts**
+   * Jobsheet Work status **Await Auth.**
    * **User Tasks** tile
    * **Document Attention** tile
    * **Jobsheet Complete** tile
@@ -13,7 +13,7 @@ There are several tiles in Garage Hive that are hidden by default from the **Rol
 
 To add these tiles in the **Role Centre**:
 1. In the top-right corner, choose the search icon, enter **Service Mgt. Setup GH**, and select the related link.
-2. There are several settings that may be changed on the page that opens, including the addition of the tiles. To add work status tiles, go to the work status fields and type in the tile name, for example, **AWAITPARTS** for the **AWAIT. PARTS** tile, and so on.
+2. There are several settings that may be changed on the page that opens, including the addition of the tiles. To add work status tiles, go to the work status fields and type in the corresponding **Status Code**, for example, **AWAITPARTS** for the **AWAIT. PARTS** tile, and so on.
 
    ![](media/garagehive-optional-tiles1.gif)
 
