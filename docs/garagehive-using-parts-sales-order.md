@@ -21,6 +21,10 @@ Here's how to use the **Sales Order** in Garage Hive:
 
    ![](media/garagehive-parts-sales-order2aa.gif)
 
+1. To change the default **Invoice Print Options** for all **Sales Order** documents, choose the search icon in the top-right corner, enter **Sales & Receivables Setup**, and select the related link. Select the **Print Item No.** slider from the **Document Print Option** FastTab.
+
+   ![](media/garagehive-parts-sales-order2aaa.gif)
+
 1. The column **Unit Price (Calc.) Inc. VAT)** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items and so on.
 
    ![](media/garagehive-parts-sales-order2a.gif)

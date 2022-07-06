@@ -3,14 +3,14 @@ layout: docs
 title: Managing My Notifications
 ---
 
-# How to edit your notifications within Garage Hive.
+# How to Edit Your Notifications Within Garage Hive.
 When using Garage Hive, you can manage your notifications to ensure that you have reminders for some of the actions you take. The following are some examples of notifications that you can manage:
 
 * Show warning when you close a document that you have not posted.
 
    ![](media/garagehive-my-notifications1.png)
 
-* Show warning when you post a document where you can choose to view the posted document.
+* When you post a document, provide a warning about whether you can select to view the posted document.
 
    ![](media/garagehive-my-notifications2.png)
 
@@ -24,9 +24,13 @@ To manage the notifications:
 
    ![](media/garagehive-my-notifications4.gif)
 
+4. Here's an example of how to setup the **My Notifications** page:
+
+   ![](media/garagehive-my-notifications5.png)
+
 
 <br>
 
 ### **See Also**
 
-[My Notifications in Microsoft Dynamics 365 Business Central Garage Hive](https://www.youtube.com/watch?v=1BxUESRf4dw)
+[My Notifications in Microsoft Dynamics 365 Business Central Garage Hive](https://www.youtube.com/watch?v=1BxUESRf4dw){:target="_blank"}
