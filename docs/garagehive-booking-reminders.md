@@ -12,38 +12,38 @@ title: How to Setup Booking Reminders Notification in Garage Hive
 
 ### How to set up booking reminders
 To set up the booking reminder:
-1. Search for **Customer Notifications** in the top right corner and select related result.
-1. The window that appears displays a list of all the customer notifications that have been previously set up.
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Customer Notifications** and select the related link.
+2. The window that appears displays a list of all the customer notifications that have been previously set up.
 
    ![](media/garagehive-booking-reminder1.gif)
 
-1. You can modify existing **Booking Reminder** or create a new one. We'll create a new one to help you understand booking reminders better.
-1. To create a new notification, click **+New**.
-1. From the **General** FastTab, begin by assigning a code to the customer notification in order to identify it in the system. In this case, we'll set up an **Booking Reminder**. So, we'll enter **BOOKINGREMINDER2** in the field **Code**.
-1. Add the **Description** field as well, which also populates the **Display Description** field but can be changed. **Display Description** is what the customer sees when the notification is sent.
+3. You can modify existing **Booking Reminder** or create a new one. We'll create a new one to help you understand booking reminders better.
+4. To create a new notification, click **+New**.
+5. From the **General** FastTab, begin by assigning a code to the customer notification in order to identify it in the system. In this case, we'll set up an **Booking Reminder**. So, we'll enter **BOOKINGREMINDER2** in the field **Code**.
+6. Add the **Description** field as well, which also populates the **Display Description** field but can be changed. **Display Description** is what the customer sees when the notification is sent.
 
    ![](media/garagehive-booking-reminder2.gif)
 
-1. The next step is to add the **Type** of notification to the system; in this case, select **Booking Reminder** from the available options.
-1. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **negative sign**, for which the notification should be sent from the system before the due date. It is recommended that the notifications is sent 1 day before the booking date; so we'll add **-1D**.
-1. Select the **Source Code** as **Booking Reminder**.
-1. Add the **Scheduled Time**; this is the time at which the notification will be sent to the customer.
+7. The next step is to add the **Type** of notification to the system; in this case, select **Booking Reminder** from the available options.
+8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **negative sign**, for which the notification should be sent from the system before the due date. It is recommended that the notifications is sent 1 day before the booking date; so we'll add **-1D**.
+9. Select the **Source Code** as **Booking Reminder**.
+10. Add the **Scheduled Time**; this is the time at which the notification will be sent to the customer.
 
    ![](media/garagehive-booking-reminder3.gif)
 
-1. Select the **Service Type Filter**; this filters the **Service Types** for which the booking reminder will be sent if the services are allocated in the jobsheet(s). You can select all that are applicable.
+11. Select the **Service Type Filter**; this filters the **Service Types** for which the booking reminder will be sent if the services are allocated in the jobsheet(s). You can select all that are applicable.
     
    ![](media/garagehive-booking-reminder4.gif)
     
-1. To exclude a service and select all the others, use **<>** before the service. This will select all other services and leave out the one that has been added. You can add more services to exclude by adding **&<>** after the already excluded service, and then add another service. For example: **<>INTERNAL&<>VEHPREP&<>VEHSALES**, this means that all the other services, excluding **INTERNAL**, **VEHPREP** and **VEHSALES** are set to have the **Booking Reminder** sent if they are allocated in the jobsheet(s).
+12. To exclude a service and select all the others, use **<>** before the service. This will select all other services and leave out the one that has been added. You can add more services to exclude by adding **&<>** after the already excluded service, and then add another service. For example: **<>INTERNAL&<>VEHPREP&<>VEHSALES**, this means that all the other services, excluding **INTERNAL**, **VEHPREP** and **VEHSALES** are set to have the **Booking Reminder** sent if they are allocated in the jobsheet(s).
 
    ![](media/garagehive-booking-reminder5.gif)
 
-1. Add the **Location Filter**; this filters the locations for which the **Booking Reminder** will be sent if the jobsheet(s) are in that location. To exclude a location and select all other locations, use **<>** before the location, and you can exclude more locations by adding **&<>** after the already excluded location. For example: **<>NOTTINGHAM&<>BIRMINGHAM**, this means that all the other locations, excluding **NOTTINGHAM** and **BIRMINGHAM** will receive the **Booking Reminder** if the jobsheet(s) are in that location.
+13. Add the **Location Filter**; this filters the locations for which the **Booking Reminder** will be sent if the jobsheet(s) are in that location. To exclude a location and select all other locations, use **<>** before the location, and you can exclude more locations by adding **&<>** after the already excluded location. For example: **<>NOTTINGHAM&<>BIRMINGHAM**, this means that all the other locations, excluding **NOTTINGHAM** and **BIRMINGHAM** will receive the **Booking Reminder** if the jobsheet(s) are in that location.
 
    ![](media/garagehive-booking-reminder6.gif)
 
-1. **Don't Show Booking Time** field, when enabled the booking reminder email doesn't include the time in the **Booking Date/Time** field and **Email Show Location Info** field, when enabled the booking reminder email uses company name, address, picture, contact details from **Location Info** and not from the **Company Info**.
+14. **Don't Show Booking Time** field, when enabled the booking reminder email doesn't include the time in the **Booking Date/Time** field and **Email Show Location Info** field, when enabled the booking reminder email uses company name, address, picture, contact details from **Location Info** and not from the **Company Info**.
 
    ![](media/garagehive-booking-reminder6.png)
 
@@ -77,7 +77,7 @@ Then, from the **General** FastTab, enable the notification to make it operation
    ![](media/garagehive-booking-reminder9.gif)
 
 ### Viewing sent notifications
-To see a list of the customer notifications that have been sent, use the search icon in the top-right corner to search for **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
+To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, and enter **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
 
 ![](media/garagehive-booking-reminder10.gif)
 

@@ -21,7 +21,7 @@ Here's how to use the **Sales Order** in Garage Hive:
 
    ![](media/garagehive-parts-sales-order2aa.gif)
 
-1. To change the default **Invoice Print Options** for all **Sales Order** documents, choose the search icon in the top-right corner, enter **Sales & Receivables Setup**, and select the related link. Select the **Print Item No.** slider from the **Document Print Option** FastTab.
+1. To change the default **Invoice Print Options** for all **Sales Order** documents, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales & Receivables Setup**, and select the related link. Select the **Print Item No.** slider from the **Document Print Option** FastTab.
 
    ![](media/garagehive-parts-sales-order2aaa.gif)
 

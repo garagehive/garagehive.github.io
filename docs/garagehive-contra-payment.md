@@ -7,7 +7,7 @@ title: How to perform a Customer/Vendor Balancing Payment
 **Customer/Vendor Balancing Payments** (also known as **Contra Payments**) are typically made when you have a contact who is both a customer and a supplier; in the example below, you owe the supplier £1000 and the supplier owes you £500. You will owe the supplier £500 once the journal below has been posted.
 
 **Customer/Vendor Balancing Payments** can be achieved via a general journal. Here is how:
-1. In the top-right corner, choose the search icon, enter **General Journals**, and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **General Journals**, and choose the related link.
 2. Select **Page** from the actions bar, then **Show More Columns** to show all columns. If it's already enabled, you'll see a **Show Fewer Columns** option; leave it at that.
    
    ![](media/garagehive-general-journals-columns.png)

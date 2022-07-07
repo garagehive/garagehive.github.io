@@ -8,7 +8,7 @@ title: Setting Up and Sending Internal Surveys
 To enable the internal surveys, you need to call the **Garage Hive Support Team**, to help you in setting up the internal surveys. Here are contact details: **Phone:** - [**02031461164**](tel:02031461164), or **Email:** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk).
 
 To Create a new internal survey:
-1. In the top-right corner, choose the search icon, enter **Surveys**,  and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Surveys**,  and choose the related link.
 2. From the **Surveys List** page, choose the **New** action.
 
    ![](media/garagehive-internal-surveys01.gif)

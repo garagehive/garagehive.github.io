@@ -15,7 +15,7 @@ When a company needs to use a specific price, markup, or discount for a particul
 
 ### Extending sales prices calculations
 To specify sales price for specific product(s):
-1. In the top-right corner, choose the search icon, enter **Sales Prices V16**, and choose the related link. V16 is an abbreviation for Version 16, which was the version when this feature was released.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Sales Prices V16**, and choose the related link. V16 is an abbreviation for Version 16, which was the version when this feature was released.
 
    ![](media/garagehive-extending-pricing1.gif)
 
@@ -61,7 +61,7 @@ To specify sales price for specific product(s):
 
 ### Extending sales markups calculations
 To specify sales markup for specific product(s):
-2. In the top-right corner, choose the search icon, enter **Sales Markups V16**, and choose the related link.
+2. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Sales Markups V16**, and choose the related link.
 
    ![](media/garagehive-extending-markups1.gif)
 
@@ -102,7 +102,7 @@ To specify sales markup for specific product(s):
 
 ### Extending sales discounts calculations
 To specify sales markup for specific item(s) or labour(s):
-3. In the top-right corner, choose the search icon, enter **Sales Discounts V16**, and choose the related link.
+3. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Sales Discounts V16**, and choose the related link.
 
    ![](media/garagehive-extending-discounts1.gif)
 

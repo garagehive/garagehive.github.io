@@ -64,7 +64,7 @@ The schedule colours are used to help understand the different work statuses for
 
 ### Adding resources in the schedule
 In Garage Hive, resources refer to all of the assets that the company has that aid and support the business in completing its work, including the technicians. Technicians are added via [User Management](/docs/garagehive-user-management.html), but their appearance in the schedule can be controlled. Here's how to add or manage resources in the schedule in general:
-1. In the top-right corner, search for **Schedule Resource Group** and select it from the results.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Schedule Resource Group** and select the related link.
 2. In the list that appears, select the **Default** resource group and then click **Specifications** from the actions bar.
 
     ![](media/garagehive-understanding-the-schedule-adding-resources1.gif)
@@ -98,7 +98,7 @@ To rearrange:
 
 ### Managing service hours in the schedule
 The service hours are the hours in the schedule when the resources are available for work. For example, you could add the technicians’ working hours as 08:00 a.m. to 17:00 p.m. every day. To change a resource's service hours:
-1. Using the search icon in the top-right corner, search for **Service Hours** and select it from the results.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Hours** and select related result.
 2. The list that appears contains all of the resources that have been added in the system, with their service hours specified for various days of the week.
 
   ![](media/garagehive-understanding-the-schedule-service-hours1.gif)
@@ -174,7 +174,7 @@ When there are many bookings in the schedule, it becomes harder to find an alloc
 
 ### Adding an allocation type
 To add an allocation type in the schedule:
-1. In the top-right corner, search for **Service Schedule New Allocation Menu** and select it from the results.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Schedule New Allocation Menu** and select the related result.
 
    ![](media/garagehive-understanding-the-schedule11.gif)
 

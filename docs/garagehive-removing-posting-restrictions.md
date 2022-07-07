@@ -11,7 +11,7 @@ This can be removed however it is recommended placing the restriction back on on
 
 ####    To remove the posting restriction 
 
-*   Click on the 💡 in the top right hand corner. 
+*   Click on the ![](media/search_icon.png) in the top right hand corner. 
 *   Search for User Setup 
 *   Select User Setup from the List 
 

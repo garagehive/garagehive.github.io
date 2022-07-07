@@ -8,7 +8,7 @@ title: Exporting an Internal Survey
 Exporting an internal survey is a feature available in surveys to help you in sharing internal surveys file for external use with the extension **stx**. For example, you could export a survey to share with a member of Garage Hive Community.
 
 ### To export an internal survey:
-1. In the top-right corner, choose the search icon, enter **Surveys**, and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Surveys**, and choose the related link.
 2. Select the survey to export, then click **Actions** and then **Export** from the actions bar. Click **Yes** to export. You can also select more surveys from the list to export them all at once.
 
    ![](media/garagehive-internal-surveys0003.gif)

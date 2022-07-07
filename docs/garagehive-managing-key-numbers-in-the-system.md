@@ -19,7 +19,7 @@ Normally, the **Key Tag Text** at the **General** FastTab is the only field on t
 ![](media/garagehive-managing-key-numbers1.png)
 
 To enable the key numbers functionality, follow these steps:
-1. Use the search icon in the top-right corner to search for **Service Mgt. Setup GH**, and select it from the search results.
+1. Choose the ![](media/search_icon.png) icon in the top-right corner, enter **Service Mgt. Setup GH**, and select the related link.
 2. Scroll down to **Use Key Tag Catalogue** field and select the slider to enable it.
 
    ![](media/garagehive-managing-key-numbers2.gif)
@@ -38,7 +38,7 @@ To enable the key numbers functionality, follow these steps:
 
 ### How to use key numbers from the jobsheet
 To begin using the **Key Tag No.** field, ensure that you have added all of the key numbers from the key tags list that you have in your garage. To accomplish this, follow these steps:
-1. In the top-right corner, search for **Key Tags** and select it from the search results.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Key Tags** and select the related link.
 2. The window that appears displays a list of all the key tags that have already been added, along with the details of where they have been assigned.
 3. You can add to the list of key tags that you already have.
 

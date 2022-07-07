@@ -6,7 +6,7 @@ title: Scheduling Recurring Internal Surveys
 # Scheduling Recurring Internal Surveys
 
 If the information being collected is needed on a regular basis, such as daily, weekly, monthly, quarterly, or yearly, you can set up an Internal Survey to be a recurring survey. The following is how to set up a recurring survey:
-1. In the top-right corner, choose the search icon, enter **Surveys**, and choose the related link.
+1. In the top-right corner, choose the search![](media/search_icon.png) icon, enter **Surveys**, and choose the related link.
 2. From the **Surveys List** page, choose the **New** action.
 
    ![](media/garagehive-internal-surveys01.gif)

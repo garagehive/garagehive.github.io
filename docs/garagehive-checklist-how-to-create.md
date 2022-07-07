@@ -116,7 +116,7 @@ Checklists can be set to be created automatically in response to a specific syst
 
    ![](media/garagehive-checklist-setup10.gif)
 
-5. This now allows you to create Checklists based on the criteria you've specified.
+5. This now allows you to automatically create Checklists based on the criteria you've specified.
 
 
 <br>

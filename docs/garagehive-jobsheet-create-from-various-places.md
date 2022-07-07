@@ -7,15 +7,14 @@ title: Creating a New Jobsheet From Various Places in Garage Hive
 
 A Jobsheet can be created from various places in Garage Hive:
 
-1. From a VIE
-2. From an Estimate
-3. From the schedule
-4. Online booking
+1. [From a VIE](#creating-jobsheet-from-vehicle-inspection-estimate)
+2. [From an Estimate](#creating-a-jobsheet-from-an-estimate)
+3. [From the schedule](#creating-a-jobsheet-from-the-schedule)
+4. [Online booking](#creating-a-jobsheet-from-online-booking)
 
 Let's look at how to make a Jobsheet from the places listed above:
 
-
-### Creating Jobsheet from Vehicle Inspection Estimate (VIE)
+### Creating Jobsheet from Vehicle Inspection Estimate
 When creating a VIE for a customer, the **Customer Authorised** lines can be used to generate a Jobsheet. This makes it simpler to convert an estimate directly into a Jobsheet. To make a Jobsheet from a VIE:
 1. Select **Process** and then **Copy Authorized Lines to Jobsheet** from the actions bar. You have the option of creating a new Jobsheet or selecting an existing one.
 

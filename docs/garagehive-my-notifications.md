@@ -15,7 +15,7 @@ When using Garage Hive, you can manage your notifications to ensure that you hav
    ![](media/garagehive-my-notifications2.png)
 
 To manage the notifications:
-1. In the top-right corner, choose the search icon, enter **My Notifications**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **My Notifications**, and select the related link.
 2. On the **My Notifications** page, all of the notifications that you can manage are listed, and the **Enabled** column shows the notifications that have been enabled.
 
    ![](media/garagehive-my-notifications3.gif)

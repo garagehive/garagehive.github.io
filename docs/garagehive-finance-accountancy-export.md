@@ -20,7 +20,7 @@ Garage Hive allows you to export data to your **external accounting system**. Yo
 ## How to run the export 
 
 To create an export, first confirm that your setup is complete; please contact a member of the team to assist you with the setup. Once the setup is complete, you can carry out the following:
-1. In the top-right corner, choose the search icon, enter **Export to Accountancy System**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
    ![](media/garagehive-accountancy-export1.gif)
 

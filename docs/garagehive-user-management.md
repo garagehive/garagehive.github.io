@@ -69,7 +69,7 @@ To enable or disable the user:
 
 ### Password reset for garage hive user
 To reset a garage hive user's password:
-1. In the top-right corner, choose the search icon, enter **User Management**, and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **User Management**, and choose the related link.
 2. Click on the name of the user you want to reset the password.
 
    ![](media/garagehive-user-management11.gif)

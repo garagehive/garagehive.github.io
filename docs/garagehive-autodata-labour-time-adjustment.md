@@ -6,7 +6,7 @@ title: Autodata Labour Time Adjustment
 # Autodata Labour Time Adjustment
 
 Autodata Labour Time Adjustment is a feature that ensures that the actual time it takes to complete a job is captured when labour times are pulled from Autodata. The goal is to ensure that the garage does not undercharge for labour hours. Here's how you can change the time:
-1. In the top-right corner, choose the search icon, enter **Labour Time Adjustment**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Labour Time Adjustment**, and select the related link.
 
    ![](media/garagehive-autodata-labour-time-adjustment1.gif)
 
