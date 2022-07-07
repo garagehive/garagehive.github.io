@@ -4,7 +4,17 @@ title: How to Setup and Work With Checklists
 ---
 
 # How to Setup and Work With Checklists
-Checklists allow you to create an inspection sheet/checklist for vehicle diagnosis, service, troubleshooting, and so on. A vehicle inspection is an example of a checklist. The following is the structure of a checklist:
+Checklists allow you to create an inspection sheet/checklist for vehicle diagnosis, service, troubleshooting, and so on. A vehicle inspection is an example of a checklist. 
+
+## In this article
+1. [Structure of a Checklist](#structure-of-a-checklist)
+2. [Checklist Templates](#checklist-templates)
+3. [Checklist Template Item Groups](#checklist-template-item-groups)
+4. [Checklist Items](#checklist-items)
+5. [Setup to create a Checklist automatically](#setup-to-create-a-checklist-automatically)
+
+### Structure of a Checklist
+The following is the structure of a checklist:
 
    ![](media/garagehive-checklist-setup1.png)
 
@@ -12,7 +22,7 @@ Here's an example of how a checklist looks when it's fully set up:
 
    ![](media/garagehive-checklist-setup1a.png)
 
-## Checklist Templates
+### Checklist Templates
 A Checklist Template is considered the header of the Checklist. To view and create new **Checklist Templates** in your system:
 1. Enter **Checklist Templates** in the search icon and select the related link.
 1. Select **New** from the actions bar, to create a new **Checklist Template**.
@@ -93,6 +103,20 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 6. The **Checklist Template** is now ready to use. Create a new **Checklist** and select the **Checklist Template** you have created as the **Template Code**.
 
    ![](media/garagehive-checklist-setup8.gif)
+
+### Setup to create a Checklist automatically
+Checklists can be set to be created automatically in response to a specific system trigger, as follows:
+1. In the top-right corner, choose the search icon, enter **Checklist Template Selection**, and select the related link.
+
+   ![](media/garagehive-checklist-setup9.gif)
+
+2. In the **Trigger** column, choose either **On Jobsheet Creation**, which means the Checklist will be created when a new Jobsheet is created, or **On Allocation Completion**, which means the Checklist will be created when an allocation is marked as complete.
+3. Then, on the other columns, define the criteria for creating the **Checklist**. Select the **Customer Category Code** to create a checklist for if the customer falls into this category.
+4. Select the **Service Type** that the document has for the Checklist to be created, followed by the **Checklist Template Code** that the Checklist created will have.
+
+   ![](media/garagehive-checklist-setup10.gif)
+
+5. This now allows you to create Checklists based on the criteria you've specified.
 
 
 <br>
