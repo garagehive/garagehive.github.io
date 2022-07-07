@@ -40,7 +40,14 @@ After creating a placeholder item, you can add it to a document for items you ar
 
 ### Convert Placeholder Item to Inventory Item
 When you receive the purchase invoice from the supplier, convert the placeholder item to the item on the purchase invoice. To do this from the **Purchase Order**:
-1. Open the **Purchase Order**
+1. Open the **Purchase Order** and enter the **Vendor Item No.** for each item from the vendor's purchase invoice.
+2. Select **Process**, then **Convert Placeholder Items** from the actions bar.
+3. Scroll to the right to the **Action** column, and for each item, click the **Create Item** action and select the template on the page that appears.
+4. When you're done with all of the items, click **OK**.
+
+   ![](media/garagehive-placeholder-item5.gif)
+
+To convert the items in the **Jobsheet**:
 1. Open the Jobsheet with the placeholder items, select **Parts** followed by **Convert Placeholder Items** from the actions bar.
 2. Scroll right to the **Action** column, and click on **Select Item**. Select the item from the **Items** List, and click **OK**.
 3. Repeat step **2** for all placeholder items.
