@@ -24,7 +24,7 @@ To manage the notifications:
 
    ![](media/garagehive-my-notifications4.gif)
 
-4. Here's an example of how to setup the **My Notifications** page:
+4. Here's an example of the recommended setup for the **My Notifications** page:
 
    ![](media/garagehive-my-notifications5.png)
 
