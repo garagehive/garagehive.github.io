@@ -10,7 +10,7 @@ title: Setting Up Payment by GLink (Garage Link) in Garage Hive
 
 ### Setting Up Payment by Garage Link in Garage Hive
 Garage Link is a payment gateway that is used for online payments. To setup payment by **Garage Link**:
-1. In the top-right corner, choose the search icon, enter **Payment Gateways**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Payment Gateways**, and select the related link.
 1. Select **New** from the **Payment Gateways** page to add a new payment method.
 
    ![](media/garagehive-payment-gateways1.gif)

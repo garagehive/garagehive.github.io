@@ -39,7 +39,7 @@ Time grids are system time allocations that help manage time slot availability f
 
 ### Adding time grids for a resource
 Time grids are added to the resource to specify the duration of time that the resource can work and the time slots that the resource can be booked. For example, if we add **1Hr** to the time grid for the resource, it means that the resource can be booked for the full 60-minute duration. Here's how to add time grids for resources:
-1. In the top-right corner, search for **Resources** and select it from the results.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Resources** and select the related link.
 2. The window that appears lists all of the resources that have been added to the system; select the resource to which you want to add the time grids. In this instance, we'll go with **MOT**.
 
   ![](media/garagehive-online-booking-time-grids4.gif)

@@ -11,7 +11,7 @@ When you book an allocation in the schedule, the following menu appears, giving 
 Garage Hive allows you to add and customise a new option to have a service package, so that when you add the allocation and create a jobsheet, the service package is automatically added.
 
 To add a new option:
-1. In the top-right corner, choose the search icon, enter **Service Schedule New Allocation Menu**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Schedule New Allocation Menu**, and select the related link.
 2. Select **New** from the actions bar in the **Service Schedule New Allocation Menu** page.
 
    ![](media/garagehive-schedule-allocation-menu2.gif)

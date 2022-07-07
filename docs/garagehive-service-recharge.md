@@ -28,7 +28,7 @@ Before you can assign item charges, you must set up item charge numbers for the 
 <br>
 
 To set up the item charges:
-1. Search **Item charges** from the search icon in the top-right corner to set up the item charges. 
+1. Search **Item charges** from the ![](media/search_icon.png) icon in the top-right corner to set up the item charges. 
 2. Create a new item charge number for vehicle sales preparation **VEHICLEPREP**, with vehicle description as **Vehicle Sales Preparation**. 
 3. Add the Gen. Prod. Posting Group as **VEHSALES** and the VAT Prod. Posting Group as **STANDARD** (depends on financial set up required).
 

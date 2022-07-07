@@ -14,7 +14,7 @@ To enable the online documents in your system, you must first contact the Garage
 ### Online documents set up
 If your system already has the service activated, the following steps will help you to fully configure the online documents:
 
-1. Search **Online Documents Setup** on the search icon in the top-right corner and select it from the search results.
+1. in the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Documents Setup**  and select the related link.
 
    ![](media/garagehive-online-documents-setup1.gif)
 

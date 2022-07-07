@@ -13,7 +13,7 @@ GSF integrations allow you to link Garage Hive to the [GSF Car Parts website](ht
 
 ### Linking GSF to Garage Hive system
 As a GSF customer, you will need to contact GSF and get the **Customer ID** before you can begin the process of linking the Garage Hive system to GSF. If you have multiple locations, you should get a **Customer ID** for each location. After getting the **Customer ID**:
-1. In the top-right corner, choose the search icon, enter **GSF Integrations**, and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **GSF Integrations**, and choose the related link.
 2. Select **New** to add the location to which you want to link with GSF, then choose the **Location Code** and enter the **Customer ID** that you got.
 
    ![](media/garagehive-gsf-integration1.gif)

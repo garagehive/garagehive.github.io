@@ -12,7 +12,7 @@ title: How to Setup Vehicle Date Reminders Notification in Garage Hive
 
 ### How to set up vehicle date reminders
 To set up the vehicle date reminders:
-1. Search for **Customer Notifications** in the top right corner and select related result.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Customer Notifications**, and select the related result.
 2. The window that appears displays a list of all the customer notifications that have been previously set up.
 
    ![](media/garagehive-vehicle-date-reminder1.gif)
@@ -78,7 +78,7 @@ Then, from the **General** FastTab, enable the notification to make it operation
 ![](media/garagehive-vehicle-date-reminder9.gif)
 
 ### Viewing sent notification messages
-To see a list of the customer notifications that have been sent, use the search icon in the top-right corner to search for **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent.
+To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent.
 
 ![](media/garagehive-vehicle-date-reminder10.gif)
 

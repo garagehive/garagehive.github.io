@@ -11,7 +11,7 @@ title: Using TyreClick Booking System in Garage Hive
 ### Online Booking Connection Setup for TyreClick
 **TyreClick** is a [Micheldever](https://www.micheldever.co.uk/){:target="_blank"} tyre supplier online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. TyreClick is now integrated with Garage Hive to enable online booking of tyre services, and creating of jobsheet from the booking.
 
-1. In the top-right corner, choose the search icon, enter **Online Booking Connections**,  and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Connections**,  and select the related link.
 2. Select **New** from the actions bar on the **Online Booking Connections** page to create a new online connection for TyreClick integration.
 
    ![](media/garagehive-tyre-click-setup1.gif)
@@ -65,7 +65,7 @@ Here is the process of the customer getting to use the TyreClick online booking:
 
 ### Opening the booking in Garage Hive
 When the customer makes a booking, the booking is recorded in the **Online Booking Entries**. To open the booking:
-1.  In the top-right corner, choose the search icon, enter **Online Booking Entries**,  and select the related link.
+1.  In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Entries**,  and select the related link.
 2.  You can search for the booking's **External Reference** or **TyreClick** in the entries. 
 3.  Open the Jobsheet in the booking.
 

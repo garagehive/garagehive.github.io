@@ -5,7 +5,7 @@ title: Setting Up Online Booking
 
 # Online Booking Setup 
 To setup online booking:
-1. In the top-right corner, choose the search icon, enter **Online Booking Setup**, and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and choose the related link.
 
    ![](media/garagehive-onlinebooking-setup1.gif)
 

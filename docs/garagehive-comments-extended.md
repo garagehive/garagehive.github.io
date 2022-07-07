@@ -47,7 +47,7 @@ Under the **Comments** subpage, clicking on the **Comment(extended)** field will
 
 ### Creating standard comments
 You can also have standard comments that can be used multiple times. This helps to ensure consistency and makes it easier to remember what to write. Here's how to create a standard comment:
-1. In the top-right corner, choose the search icon, enter **Service Comments Types**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Comments Types**, and select the related link.
 
    ![](media/garagehive-comments3.gif)
 

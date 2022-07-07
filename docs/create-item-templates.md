@@ -5,7 +5,7 @@ title: Create Item Card Templates
 
 # Create Item Card Templates
 To create new **Item Card Templates**:
-1. In the top-right corner, choose the search icon, enter **Item Categories**, and select the related link. 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Item Categories**, and select the related link. 
 2. In the page that opens, you will see a column to the right **Item Template Count** this shows number of item templates using this category. If you click on the value in this field the applicable templates list will pop up.
 
    ![](media/garagehive-create-item-template1.gif)

@@ -20,30 +20,30 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt2.png)
 
-1. After you've created the item card, search for **Sales Credit Memo** in the top-right corner and select the related link.
-1. To create a new sales credit memo, click **New** from the actions bar.
+2. After you've created the item card, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales Credit Memo** and select the related link.
+3. To create a new sales credit memo, click **New** from the actions bar.
 
    ![](media/garagehive-processing-factored-debt3.gif)
 
-1. In the **General** FastTab **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
-1. In the **Lines** sub-page, enter the **Item** you created as the **Payment Assist Commission**, **Quantity** to be one, and the **Unit Price** as the balance, in this case **£152**.
+4. In the **General** FastTab **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
+5. In the **Lines** sub-page, enter the **Item** you created as the **Payment Assist Commission**, **Quantity** to be one, and the **Unit Price** as the balance, in this case **£152**.
 
    ![](media/garagehive-processing-factored-debt4.gif)
 
-1. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo actions bar.
-1. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
+6. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo actions bar.
+7. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
 
    ![](media/garagehive-processing-factored-debt7.gif)
 
-2. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**.
+8. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**.
    
    ![](media/garagehive-processing-factored-debt5.gif)
 
-3. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
+9. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
 
    ![](media/garagehive-processing-factored-debt6.png)
 
-4. The entries are now applied for **Payment Assist**, and are no longer open.
+10. The entries are now applied for **Payment Assist**, and are no longer open.
 
 
 <br>

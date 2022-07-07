@@ -6,7 +6,7 @@ title: Setting Your Average Labour Rate in Garage Hive
 # Setting Your Average Labour Rate in Garage Hive
 
 To calculate Garage Hive Efficiency, you must first enter your **Average Labour Rate** into the system. This is because the hours sold at full value are calculated by dividing Labour sales by your average labour rate for any given date range. To set the **Average Labour Rate**:
-1. In the top-right corner, choose the search icon, enter **Statistical Value** and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Statistical Value** and choose the related link.
    
    ![](media/garagehive-labour-rate-setup1.gif)
 

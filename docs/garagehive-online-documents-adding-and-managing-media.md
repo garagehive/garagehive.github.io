@@ -54,7 +54,7 @@ When creating a checklist, use the steps below to add media to the checklist lin
 
 ### Managing all added media
 A list of all added media to the system can be viewed and managed. To do so, follow these steps:
-1. Using the search icon in the top-right corner, search for **Media List** and select it from the results.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Media List** and select the related link.
 
    ![](media/garagehive-adding-and-managing-media6.gif)
 

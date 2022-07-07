@@ -8,7 +8,7 @@ title: Importing an Internal Survey
 Importing an internal survey is a feature available in the surveys to help you receive a survey file with the extension **stx**. For example, you could import a survey shared from an external consultant.
 
 ### To import an internal survey:
-1. In the top-right corner, choose the search icon, enter **Surveys**, and choose the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Surveys**, and choose the related link.
 2. From the actions bar, click on **Actions** and select **Import**.
 
    ![](media/garagehive-internal-surveys0001.gif)

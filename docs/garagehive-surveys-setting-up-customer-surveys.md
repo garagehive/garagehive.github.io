@@ -18,14 +18,14 @@ Here we will look at the NPS customer surveys, which help you measure the custom
 
 ### Enabling customer surveys
 To enable customer surveys, you must first contact our support team to have the service activated in your system. To see if the service is enabled, do the following:
-1. Search for **Survey Setup** in the top-right corner search icon and select it from the search results.
+1. Search for **Survey Setup** in the top-right corner ![](media/search_icon.png) icon and select it from the search results.
 2. In the resulting window, there is an option to enable the surveys service with a slider, which should be enabled if the service is activated.
 3. When the surveys service is enabled, the customer surveys are enabled by default.
 
 ![](media/garagehive-surveys-customer01.gif)
 
 ### Creating a new customer survey
-1. Search for **Surveys** in the top right corner search icon and select it from the list to create a new customer survey.
+1. Search for **Surveys** in the top right corner ![](media/search_icon.png) icon and select it from the list to create a new customer survey.
 2. The window that appears displays a list of the previously setup surveys. To create a new one, go to the actions bar and select **+New**.
 
    ![](media/garagehive-surveys-customer001.gif)

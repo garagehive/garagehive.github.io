@@ -12,40 +12,40 @@ title: How to Setup Booking Confirmation Notification in Garage Hive
 
 ### How to set up booking confirmation
 To set up the booking reminder:
-1. Search for **Customer Notifications** in the top right corner and select related result.
-1. The window that appears displays a list of all the customer notifications that have been previously set up.
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Customer Notifications**, and select the related link.
+2. The window that appears displays a list of all the customer notifications that have been previously set up.
 
    ![](media/garagehive-booking-reminder1.gif)
 
-1. You can modify existing **Booking Confirmation** or create a new one. We'll create a new one to help you understand booking confirmations better.
-1. To create a new notification, click **+New**.
-1. From the **General** FastTab, begin by assigning a code to the customer notification in order to identify it in the system. In this case, we'll set up an **Booking Confirmation**. So, we'll enter **BOOKINGCONFIRMATION2** in the field **Code**.
-1. Add the **Description** field as well, which also populates the **Display Description** field but can be changed. **Display Description** is what the customer sees when the notification is sent.
+3. You can modify existing **Booking Confirmation** or create a new one. We'll create a new one to help you understand booking confirmations better.
+4. To create a new notification, click **+New**.
+5. From the **General** FastTab, begin by assigning a code to the customer notification in order to identify it in the system. In this case, we'll set up an **Booking Confirmation**. So, we'll enter **BOOKINGCONFIRMATION2** in the field **Code**.
+6. Add the **Description** field as well, which also populates the **Display Description** field but can be changed. **Display Description** is what the customer sees when the notification is sent.
 
    ![](media/garagehive-booking-confirmation1.gif)
 
-1. The next step is to add the **Type** of notification to the system; in this case, select **Booking Confirmation** from the available options.
-1. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **negative sign**, for which the notification should be sent from the system before the due date. It is recommended that the notifications is sent right after the booking has been made; so we'll add **-1D**.
-1. Select the **Source Code** as **Booking Confirmation**.
+7. The next step is to add the **Type** of notification to the system; in this case, select **Booking Confirmation** from the available options.
+8. In the field **Date Formula**, enter the number of days (D), weeks(W), or months(M), preceded by a **negative sign**, for which the notification should be sent from the system before the due date. It is recommended that the notifications is sent right after the booking has been made; so we'll add **-1D**.
+9. Select the **Source Code** as **Booking Confirmation**.
 
    ![](media/garagehive-booking-confirmation2.gif)
 
-1. **Don't Show Booking Time** field: when enabled the booking confirmation email doesn't include the time in the **Booking Date/Time** field.
-1. **Email Show Location Info** field: when enabled the booking confirmation email uses company name, address, picture, contact details from **Location Info** and not from the **Company Info**.
-1. **Send on Jobsheet Close** field: when enabled the booking confirmation notification is sent after closing the jobsheet.
+10. **Don't Show Booking Time** field: when enabled the booking confirmation email doesn't include the time in the **Booking Date/Time** field.
+11. **Email Show Location Info** field: when enabled the booking confirmation email uses company name, address, picture, contact details from **Location Info** and not from the **Company Info**.
+12. **Send on Jobsheet Close** field: when enabled the booking confirmation notification is sent after closing the jobsheet.
 
    ![](media/garagehive-booking-confirmation3.png)
 
-1. To set which location to apply to the **Booking Confirmation**, search for **Locations** in the top right corner search icon, and select the related link.
-1. Open the location to apply, and under **General** FastTab select the **Code** for the booking confirmation to use in the **Booking Confirmation Notif. Code** field.
+13. To set which location to apply to the **Booking Confirmation**, search for **Locations** in the top right corner ![](media/search_icon.png) icon, and select the related link.
+14. Open the location to apply, and under **General** FastTab select the **Code** for the booking confirmation to use in the **Booking Confirmation Notif. Code** field.
 
    ![](media/garagehive-booking-confirmation4.gif)
 
-1. The number of locations using the **Booking Confirmation** will be indicated in the **Used in Locations**. 
+15. The number of locations using the **Booking Confirmation** will be indicated in the **Used in Locations**. 
 
    ![](media/garagehive-booking-confirmation5.png)
 
-1. The **Default** slider indicates whether the **Booking Confirmation** is the default. To change the **Default** booking confirmation, search for **Service Mgt. Setup GH** in the top right corner search icon and select the related link. Scroll down to the **Notifications** section and enter the booking confirmation code in the **Default Booking Confirmation Notif. Code** field to make it the default.
+16. The **Default** slider indicates whether the **Booking Confirmation** is the default. To change the **Default** booking confirmation, search for **Service Mgt. Setup GH** in the top right corner ![](media/search_icon.png) icon and select the related link. Scroll down to the **Notifications** section and enter the booking confirmation code in the **Default Booking Confirmation Notif. Code** field to make it the default.
 
    ![](media/garagehive-booking-confirmation6.gif)
 
@@ -80,7 +80,7 @@ Then, from the **General** FastTab, enable the notification to make it operation
    ![](media/garagehive-booking-confirmation9.gif)
 
 ### Viewing sent notification messages
-To see a list of the customer notifications that have been sent, use the search icon in the top-right corner to search for **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
+To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, and enter **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
 
 ![](media/garagehive-booking-reminder10.gif)
 

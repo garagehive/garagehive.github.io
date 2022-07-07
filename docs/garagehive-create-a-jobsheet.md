@@ -87,7 +87,7 @@ There are various methods for creating a jobsheet, as described in [this article
 
 ### Setup for Jobsheet Deletion Reasons
 To setup Jobsheet deletion reasons:
-1. In the top-right corner, choose the search icon, enter **Service Mgt. Setup GH**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
 2. Scroll to the **Archive** FastTab and select the **Ask for Reason on Jobsheet Delete** slider to the right. Exit the setup page.
 
    ![](media/garagehive-create-a-jobsheet9.gif)

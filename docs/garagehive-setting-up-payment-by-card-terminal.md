@@ -9,7 +9,7 @@ To setup payment by **Card Terminal**:
 
    ![](media/garagehive-card-terminal1.png)
 
-2. Open your Garage Hive system, in the top-right corner, choose the search icon, enter **Payment Gateways**, and select the related link.
+2. Open your Garage Hive system, in the top-right corner, choose the ![](media/search_icon.png) icon, enter **Payment Gateways**, and select the related link.
 3. Select **New** from the **Payment Gateways** page to add a new payment method.
 
    ![](media/garagehive-card-terminal2.gif)

@@ -5,7 +5,7 @@ title: How to Authenticate VAT Connection in Garage Hive
 
 # How to Authenticate VAT Connection in Garage Hive
 To authenticate your VAT connection from the HMRC website:
-1. In the top-right corner, choose the search icon, enter **Service Connections**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Connections**, and select the related link.
 2. Select **HMRC VAT Setup**, that is already setup in your system.
 
    ![](media/garagehive-vat-connection-authentication1.png)

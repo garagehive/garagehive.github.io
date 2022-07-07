@@ -79,7 +79,7 @@ To add or remove a field in a fastab when collapsed:
 
 ### Customising Garage Hive for each user
 When working with Garage Hive, you may want to customise Garage Hive differently for different users so that you can limit what a user can see when they are on the system. Here's how to personalise it for each user:
-1. Select the search icon in the top-right corner, enter **Profiles**, and select the related link.
+1. Select the ![](media/search_icon.png) icon in the top-right corner, enter **Profiles**, and select the related link.
 2. Search for the user whose system you want to customise, and then click on the user's **Profile ID** to open the user's profile.
 
    ![](media/garagehive-personalising-garage-hive9.gif)

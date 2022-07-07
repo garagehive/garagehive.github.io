@@ -11,7 +11,7 @@ title: Setting Up and Using Emailing Feature in Garage Hive
 
 ### Email setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
-1. In the top-right corner, choose the search icon, enter **Email Accounts**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Email Accounts**, and select the related link.
 2. Select **New** and then **Add an email account**.
 3. Read the information in the pop-up window and then press **Next**.
 
@@ -123,7 +123,7 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
 ### Accessing email outbox
 To access the draft emails in the outbox:
-1. In the top-right corner, choose the search icon, enter **Email Outbox**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Email Outbox**, and select the related link.
 2. Choose the draft email that you want to continue editing. You can view the document from which the email was created by selecting **Show Source**.
 
    ![](media/garagehive-email-feature12.gif)
@@ -131,7 +131,7 @@ To access the draft emails in the outbox:
 
 ### Accessing sent emails
 To access the sent emails in the system:
-1. In the top-right corner, choose the search icon, enter **Sent Emails**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Sent Emails**, and select the related link.
 2. You can view the sent email by selecting it from the list that appears.
 3. Select **Resend** if you want to resend the email, or **Edit and Send** if you made an error and want to correct it.
 
