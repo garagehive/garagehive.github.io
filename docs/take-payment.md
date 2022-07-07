@@ -47,4 +47,4 @@ See the video below or follow the written instructions to take payments for post
 
 ### **See Also**
 
-[Video: Take Payment for Posted Documents](https://www.youtube.com/watch?v=akx2eeBwRIo)
+[Video: Take Payment for Posted Documents](https://www.youtube.com/watch?v=akx2eeBwRIo){:target="_blank"}

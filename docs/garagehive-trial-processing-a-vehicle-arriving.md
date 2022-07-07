@@ -32,7 +32,7 @@ To add customer comments:
 
 ### **See Also**
 
-[Video: How to process a vehicle arrival](https://www.youtube.com/watch?v=pBSymFc-9m8&t=159s&:target="_blank") \
+[Video: How to process a vehicle arrival](https://www.youtube.com/watch?v=pBSymFc-9m8&t=159s){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \

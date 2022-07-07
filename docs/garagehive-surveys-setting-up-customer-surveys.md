@@ -101,4 +101,4 @@ After confirming the message is okay to send out to the customers:
 
 ### See Also
 
-[Video: Essential setup before using customer surveys](https://www.youtube.com/watch?v=76r8iXfzEck)
+[Video: Essential setup before using customer surveys](https://www.youtube.com/watch?v=76r8iXfzEck){:target="_blank"}

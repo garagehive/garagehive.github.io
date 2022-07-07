@@ -25,7 +25,7 @@ The **Map Text to Account** action allows you to create mappings between text on
 
 ### **See Also**
 
-[Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ) \
+[Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ){:target="_blank"} \
 [Reconcile payments using the automatic application](garagehive-reconcile-payments-using-automatic-application.html) \
 [Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html) \
 [Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html) 

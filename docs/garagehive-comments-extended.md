@@ -75,4 +75,4 @@ To add a new comment in card, for example a **Customer Card**:
 
 ### See Also
 
-[Video: How to use comments on service documents in Garage Hive](https://www.youtube.com/watch?v=ebt1UsiP28k&:target="_blank") \
+[Video: How to use comments on service documents in Garage Hive](https://www.youtube.com/watch?v=ebt1UsiP28k){:target="_blank"} \

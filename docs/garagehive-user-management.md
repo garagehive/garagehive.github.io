@@ -89,4 +89,4 @@ To reset a garage hive user's password:
 
 ### **See Also**
 
-[Video: How to manage system users within Garage Hive](https://www.youtube.com/watch?v=Icq0D8j4HIc)
+[Video: How to manage system users within Garage Hive](https://www.youtube.com/watch?v=Icq0D8j4HIc){:target="_blank"}

@@ -42,7 +42,7 @@ After receiving a credit memo from the supplier:
 
 ### **See Also**
 
-[Video: How to create a purchase return order](https://www.youtube.com/watch?v=X81T5UAOTNU&t=83s&:target="_blank") \
+[Video: How to create a purchase return order](https://www.youtube.com/watch?v=X81T5UAOTNU&t=83s){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \

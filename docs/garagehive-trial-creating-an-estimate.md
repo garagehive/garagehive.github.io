@@ -51,7 +51,7 @@ The other method to convert an estimate into a jobsheet:
 
 ### **See Also**
 
-[Video: How to create an estimate](https://www.youtube.com/watch?v=otMUsW5hGAA&:target="_blank") \
+[Video: How to create an estimate](https://www.youtube.com/watch?v=otMUsW5hGAA){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \

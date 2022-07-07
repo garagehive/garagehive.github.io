@@ -42,7 +42,7 @@ After receiving the payment, the next step is to post the jobsheet:
 
 ### **See Also**
 
-[Video: How to process a jobsheet to invoice](https://www.youtube.com/watch?v=SdgMs_uS9Y0&t=62s&:target="_blank") \
+[Video: How to process a jobsheet to invoice](https://www.youtube.com/watch?v=SdgMs_uS9Y0&t=62s){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \

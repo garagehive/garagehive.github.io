@@ -32,7 +32,7 @@ After ensuring that all the information in the purchase order is correct, the pu
 
 ### **See Also**
 
-[Video: How to process a purchase order/invoice](https://www.youtube.com/watch?v=eKXEvrj1QQQ&:target="_blank") \
+[Video: How to process a purchase order/invoice](https://www.youtube.com/watch?v=eKXEvrj1QQQ){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
