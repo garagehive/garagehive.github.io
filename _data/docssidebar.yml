@@ -94,7 +94,9 @@
     - name: Setting up Booking Confirmation Notifications
       url: /docs/garagehive-booking-confirmation.html
     - name: Setting Your Average Labour Rate
-      url: /docs/garagehive-labour-rate.html 
+      url: /docs/garagehive-labour-rate.html
+    - name: Set Up of the Cues and Actions Tiles on the Role Centre
+      url: /docs/garagehive-cue-setup.html 
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
     - name: Customer Self Check-in 
@@ -193,6 +195,8 @@
       url: /docs/garagehive-how-to-view-item-history-from-a-document.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
       url: /docs/garagehive-requisition-worksheet.html
+    - name: How to Use Advance Tyre Lookup Feature
+      url: /docs/garagehive-advanced-tyre-lookup.html
     - name: Doing a Physical Stock Take in Garage Hive
       url: /docs/garagehive-doing-physical-stock-take.html
     - name: How to carry out Stock Adjustments
