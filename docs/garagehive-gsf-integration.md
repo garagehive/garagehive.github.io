@@ -12,14 +12,14 @@ GSF integrations allow you to link Garage Hive to the [GSF Car Parts website](ht
 
 
 ### Linking GSF to Garage Hive system
-As a GSF customer, you will need to contact GSF and get the **Customer ID** before you can begin the process of linking the Garage Hive system to GSF. If you have multiple locations, you should get a **Customer ID** for each location. After getting the **Customer ID**:
+As a GSF customer, you will need to contact your GSF local branch and get the **Customer ID** before you can begin the process of linking the Garage Hive system to GSF. If you have multiple locations, you should get a **Customer ID** for each location. After getting the **Customer ID**:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **GSF Integrations**, and choose the related link.
 2. Select **New** to add the location to which you want to link with GSF, then choose the **Location Code** and enter the **Customer ID** that you got.
 
    ![](media/garagehive-gsf-integration1.gif)
 
 3. Under the **Additional** FastTab, enter the **Placeholder Item No.** for the items you order from GSF.
-4. choose the **Vendor No.** to which you want to link the items, when making a **Special Order**, then select the **Vendor Reference Format** as the **Purchase Order Number** or **VRM/KEYNO/SA** to assist GSF in referencing your order when the items are delivered. 
+4. Choose the **Vendor No.** to which you want to link the items, when making a **Special Order**, then select the **Vendor Reference Format** as the **Purchase Order Number** or **VRM/KEYNO/SA** to assist GSF in referencing your order when the items are delivered. 
 5. Slide the **Enable** slider to the right to enable the integration, and then exit the page.
 
    ![](media/garagehive-gsf-integration2.gif)
@@ -35,7 +35,10 @@ To order parts from the GSF website:
 
    ![](media/garagehive-gsf-integration4.gif)
 
-4. Add the items you require from your **Shopping List**, then select **Send Quote to Garage Hive**.
+4. Add the items from your **Shopping List** to your **Basket**, then open the **Basket** and choose **Send Quote to Garage Hive**.
+
+   ![](media/garagehive-gsf-integration9.gif)
+
 5. Open the Jobsheet you're working on and, from the actions bar, choose **Parts**, then **Get AlliCat Basket**.
 6. Return to the Garage Hive system, select an item to add to the Jobsheet from the page that opens, then scroll to the right and click the **Action** column. You can add it as a **New line**, **New line to a group**, or **Update an existing line**. When you're finished, click **OK**.
 
@@ -46,11 +49,11 @@ To order parts from the GSF website:
 
    ![](media/garagehive-gsf-integration6.gif)
 
-9. When the customer approves the work, create a purchase order for the from the actions bar by selecting **Parts** and then **Create Purchase Order(s)**. Open the newly created **Purchase Order.**
+9.  When the customer approves the work, create a purchase order for the from the actions bar by selecting **Parts** and then **Create Purchase Order(s)**. Open the newly created **Purchase Order.**
 
    ![](media/garagehive-gsf-integration7.gif)
 
-10. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Process** from the actions bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
+11. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Process** from the actions bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
 
    ![](media/garagehive-gsf-integration8.gif)
 
