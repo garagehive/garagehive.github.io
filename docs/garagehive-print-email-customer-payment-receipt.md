@@ -33,4 +33,4 @@ To print or email a payment receipt when taking a payment with the **Take Paymen
 
 ### **See Also**
 
-[Video: How to print or email payment receipts](https://www.youtube.com/watch?v=L0XsAnP2UAI&t=6s)
+[Video: How to print or email payment receipts](https://www.youtube.com/watch?v=L0XsAnP2UAI&t=6s){:target="_blank"}

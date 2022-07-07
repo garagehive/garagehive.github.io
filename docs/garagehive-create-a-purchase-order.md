@@ -77,7 +77,7 @@ This option is typically used only after the invoice has been received from the 
 
 ### **See Also**
 
-[Video: How to Create Purchase Orders in Garage Hive](https://www.youtube.com/watch?v=CxgRuv8eTT4)
+[Video: How to Create Purchase Orders in Garage Hive](https://www.youtube.com/watch?v=CxgRuv8eTT4){:target="_blank"}
 
 
 

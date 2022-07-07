@@ -18,5 +18,5 @@ The following is a list of tasks involved in working with payment reconciliation
 
 ### **See Also**
 
-[Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ)
+[Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ){:target="_blank"}
 

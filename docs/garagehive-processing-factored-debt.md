@@ -50,5 +50,5 @@ title: How to Process Factored Debt in Garage Hive
 
 ### See also
 
-[Video: How to review your customer surveys in Garage Hive](https://www.youtube.com/watch?v=UWpPgs-rJJg&t=136s)
+[Video: How to review your customer surveys in Garage Hive](https://www.youtube.com/watch?v=UWpPgs-rJJg&t=136s){:target="_blank"}
 

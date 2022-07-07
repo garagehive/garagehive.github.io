@@ -99,6 +99,6 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 ### See also
 
-[Video: How to create Checklist Templates in Garage Hive](https://www.youtube.com/watch?v=biWot0Z4r9w) \
+[Video: How to create Checklist Templates in Garage Hive](https://www.youtube.com/watch?v=biWot0Z4r9w){:target="_blank"} \
 [How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") \
 [How to use VHCs](https://docs.garagehive.co.uk/docs/garagehive-VHC.html "How to use VHCs")

@@ -56,7 +56,7 @@ To add a comment:
 
 ### See Also
 
-[Video: How to create your first booking](https://www.youtube.com/watch?v=MJqFUQyV2Tc&:target="_blank") \
+[Video: How to create your first booking](https://www.youtube.com/watch?v=MJqFUQyV2Tc){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
 [Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \

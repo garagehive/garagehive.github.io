@@ -51,7 +51,7 @@ After adding the vendor details:
 
 ### **See Also**
 
-[Video: How to create a purchase order](https://www.youtube.com/watch?v=M1KB7dSiZrY&:target="_blank") \
+[Video: How to create a purchase order](https://www.youtube.com/watch?v=M1KB7dSiZrY){:target="_blank"} \
 [Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \

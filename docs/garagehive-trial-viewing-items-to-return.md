@@ -33,7 +33,7 @@ From the opened report of **Items to Return**:
 
 ### **See Also**
 
-[Video: How to use items to return](https://www.youtube.com/watch?v=WH-hKLISWds) \
+[Video: How to use items to return](https://www.youtube.com/watch?v=WH-hKLISWds){:target="_blank"} \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
 [Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \

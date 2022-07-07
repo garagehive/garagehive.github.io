@@ -61,7 +61,7 @@ Lines in the **Payment Reconciliation Journal** can be filled in by importing a 
 
 ### **See Also**
 
-[Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ) \
+[Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ){:target="_blank"} \
 [Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html) \
 [Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html) \
 [Map text on recurring payments to accounts for automatic reconciliation](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html) 

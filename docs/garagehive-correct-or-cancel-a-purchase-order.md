@@ -35,7 +35,7 @@ If you accidentally posted a purchase order for the incorrect amount or to the w
 
 ## See Also
 
-[Video: How to Cancel an Incorrect Purchase Invoice in Garage Hive](https://www.youtube.com/watch?v=klNMViU-6Ls)
+[Video: How to Cancel an Incorrect Purchase Invoice in Garage Hive](https://www.youtube.com/watch?v=klNMViU-6Ls){:target="_blank"}
 
 
 

@@ -37,5 +37,5 @@ This report regularly ensures that parts are returned and not lost or thrown awa
 
 ### **See Also**
 
-[Video: How to use items to return](https://www.youtube.com/watch?v=WH-hKLISWds)
+[Video: How to use items to return](https://www.youtube.com/watch?v=WH-hKLISWds){:target="_blank"}
 

@@ -49,7 +49,7 @@ This area allows you to add commonly used web links such as Power BI, tyre or pa
 
 ### **See Also**
 
-[Video: Welcome to the role centre](https://www.youtube.com/watch?v=R_mLcdbFWdo) \
+[Video: Welcome to the role centre](https://www.youtube.com/watch?v=R_mLcdbFWdo){:target="_blank"} \
 [Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
 [Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
 [Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
