@@ -223,7 +223,9 @@
     - name: Customising vehicle reminder dates
       url: /docs/garagehive-customising-vehicle-reminder-dates.html
     - name: Understanding Dimensions in Business Central
-      url: /docs/garagehive-understanding-dimensions-in-business-central.html     
+      url: /docs/garagehive-understanding-dimensions-in-business-central.html
+    - name: Adding Optional Tiles in the Role Centre
+      url: /docs/garagehive-adding-optional-tiles.html
 - name: Technicians Operations
   url: "#"
   subitems:
