@@ -60,4 +60,5 @@ The **Requisition Worksheet** can be accessed from the Service Advisor's **Role 
 
 ### **See Also**
 
-[Video - Requisition Worksheet Express (V1) & Stock Control in Garage Hive](https://www.youtube.com/watch?v=-RptpsLg2kk){:target="_blank"}
+[Video - Requisition Worksheet Express (V1) & Stock Control in Garage Hive](https://www.youtube.com/watch?v=-RptpsLg2kk){:target="_blank"} \
+[Set up of the Cues and Actions tiles on the Role Centre](/docs/garagehive-cue-setup.html)

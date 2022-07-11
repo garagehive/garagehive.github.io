@@ -1,14 +1,15 @@
 ---
 layout: docs
-title: Creating a Placeholder Item
+title: Working with a Placeholder Item
 ---
 
-Placeholder Item is used when waiting on purchase invoice from the supplier; it enables you to add the items to the Estimates, Vehicle Inspection Estimates, Jobsheets, or Purchase Orders without the purchase invoice.
+## Working with a Placeholder Item
+Placeholder Item is used when waiting on purchase invoice from the supplier; it enables you to add the items to the Estimates, Vehicle Inspection Estimates, Jobsheets, or Purchase Orders without the supplier's purchase invoice.
 
 ## In this article
 1. [Creating a Placeholder Item](#creating-a-placeholder-item)
 2. [Add Placeholder Item in a document](#add-placeholder-item-in-a-document)
-3. [Convert Placeholder Item to Inventory Item](#convert-placeholder-item-to-inventory-item)
+3. [Convert a Placeholder Item into an inventory item](#convert-a-placeholder-item-into-an-inventory-item)
 
 ### Creating a Placeholder Item
 To create a placeholder item:
@@ -38,7 +39,7 @@ After creating a placeholder item, you can add it to a document for items you ar
 
 ![](media/garagehive-placeholder-item3.gif)
 
-### Convert Placeholder Item to Inventory Item
+### Convert a Placeholder Item into an inventory item
 When you receive the purchase invoice from the supplier, convert the placeholder item to the item on the purchase invoice. To do this from the **Purchase Order**:
 1. Open the **Purchase Order** and enter the **Vendor Item No.** for each item from the vendor's purchase invoice.
 2. Select **Process**, then **Convert Placeholder Items** from the actions bar.
@@ -55,4 +56,4 @@ To convert the items in the **Jobsheet**:
    ![](media/garagehive-placeholder-item4.gif)
 
 
-{% include tip.html title="Note" text="It is not possible to post a document with a placeholder item." %}
+{% include tip.html title="Note" text="It is not possible to post a document with a Placeholder Item; it must be converted into an inventory item." %}
