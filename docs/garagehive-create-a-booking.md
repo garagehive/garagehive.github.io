@@ -4,48 +4,32 @@ title: Creating a booking from the Schedule
 ---
 
 # Creating a booking from the Schedule
+To create a booking from the schedule:
+1. Open the schedule from the **Role Centre**, and then choose the relevant day for the booking in the **Start Date** field. Press the **Tab** key.
 
-{% include youtube.html id="4bic2AH6Lrw" %}
+   ![](media/garagehive-create-a-booking1.gif)
 
-1. Select relevant day for booking
+2. For a **Technician**, find the technician's name to allocate for on the left side and the time to allocate at the top. To begin the allocation, click on the row from the start time. Drag up to the time you want the allocation to finish without releasing the mouse.
+3. Select the **Allocation Type** from the pop-up menu, which can be a **warranty job**, an **existing Jobsheet** or a **standard event**. Click **OK**.
 
-![](media/garagehive-create-a-booking1.png)
+   ![](media/garagehive-create-a-booking2.gif)
 
-2. Find relevant allocation row/technician
+4. For other resources, such as **MOT Bay**, choose the **Allocation Type** after creating the allocation by dragging along the row. Enter the **Vehicle Registration No.** and press the **Tab** key. 
+5. If the vehicle is in the system, you will be notified that it is linked with a customer, and you will be able to apply allocation to the customer.
 
-![](media/garagehive-create-a-booking2.png)
+   ![](media/garagehive-create-a-booking3.gif)
 
-3. Click on the relevant line at the start time required.<br>
-Drag and drop for length of time for booking required. <br> Select required allocation type. 
+5. If the vehicle is not in the system, the system will find it using the VRM, and you will now need to provide the customer information in the **Customer** field. If the customer is already in the system, you can choose from the list; or else, create a new **Customer** card.
 
-![](media/garagehive-create-a-booking3.png)
+   ![](media/garagehive-create-a-booking4.gif)
 
-4.	Fill in Vehicle Registration No.<br>
+6. Add any information that the customer has given in the **Comments** FastTab about the job on the vehicle. The top line is the line the technician will see prior to to opening the job card, add the most relevant information in this line.
 
-![](media/garagehive-create-a-booking4.png)
+   ![](media/garagehive-create-a-booking5.gif)
 
-5.  If the vehicle has been in before it will fine the customer card. 
 
-![](media/garagehive-create-a-booking5.png)
+<br>
 
-6. If the vehicle has not been in before it will find the vehicle using VRM. <br>
-            - You will now need to fill in the Customer box. <br>
-            - Type in the customers name how you would like to appear on the invoice.<br>
-            
-![](media/garagehive-create-a-booking6.png)
-
-- If the customer has been in before with another vehicle. It will find the customer details. 
-
-![](media/garagehive-create-a-booking7.png)
-
-7.  If customer has not been in before it will ask you to (Create a new customer card).
-
-![](media/garagehive-create-a-booking8.png)
-
-6. Fill in this section with as much information as you require (Use Lookup Address Action in the ribbon for postcode search).
-
-![](media/garagehive-create-a-customer-card4.png)
-
-7.	 Fill in comments box with any information the customer has supplied regarding the job. (Top line is the line the technician will see against their tasks prior to opening the job card. Put most relevant information in this line).
-
-![](media/garagehive-create-a-booking10.png)
+### **See Also**
+[Video: How to schedule a booking in Garage Hive](https://www.youtube.com/watch?v=4bic2AH6Lrw) \
+[Understanding the Schedule](garagehive-understanding-the-schedule.html)
