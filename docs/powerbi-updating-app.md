@@ -10,7 +10,7 @@ Periodically you will need to update your Garage Hive Power BI App.
 To do this:
 1. Login to your **Garage Hive Power BI App** account and click on the link below.
 
-   > # Power BI installation link: <ins>[Garage Hive Power BI App - V46 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=e556b931-ad22-4a77-8c04-342a0492b6283sj9xxYOIZHU-JeAjyv6YERz-rg5Nfw2FP-7ZNQ2B8E&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=46 "Power BI V46 Download")</ins>
+   > # Power BI installation link: <ins>[Garage Hive Power BI App - V46 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=e556b931-ad22-4a77-8c04-342a0492b6283sj9xxYOIZHU-JeAjyv6YERz-rg5Nfw2FP-7ZNQ2B8E&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=46 "Power BI V46 Download"){:target="_blank"}</ins>
  
 2. Select **Install**, then **Update the workspace and the app**. It will take a few moments for the app to **Update**.
    
@@ -23,7 +23,7 @@ To do this:
 
 5. If you performed the update correctly, you will not need to re-authorize your App or change your refresh schedule.
 
-* For more information on refreshing your data visit - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
+* For more information on refreshing your data visit - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
 
 
 <br>

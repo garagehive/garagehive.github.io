@@ -16,6 +16,6 @@ Power BI isn't restricted to just data from Garage Hive, you can import external
 
 To get started, please follow the links below, in the right order:
 
-* 1st - [How to set your Average Labour Rate](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate")
-* 2nd - [How to install the Garage Hive Power BI App](https://docs.garagehive.co.uk/docs/powerbi-installing-app.html "How to install the Garage Hive Power BI App")
-* 3rd - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
+* 1st - [How to set your Average Labour Rate](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate"){:target="_blank"}
+* 2nd - [How to install the Garage Hive Power BI App](https://docs.garagehive.co.uk/docs/powerbi-installing-app.html "How to install the Garage Hive Power BI App"){:target="_blank"}
+* 3rd - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
