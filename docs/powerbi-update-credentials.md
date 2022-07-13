@@ -27,7 +27,7 @@ Sometimes you will need to update your Garage Hive credentials within Power BI, 
 
    ![](media/garagehive-powerbi-update-credentials5.png)
 
-6. Your credentials have now been updated, you might need to re-enable your scheduled refresh. Learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
+6. Your credentials have now been updated, you might need to re-enable your scheduled refresh. Learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
 
 
 <br>

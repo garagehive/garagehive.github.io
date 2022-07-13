@@ -5,11 +5,11 @@ title: Installing the Power BI App
 
 > **Important:**
 > 
-> Before installing the **Power BI App**, you should first setup your **Average Labour Rate** in Garage Hive. - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate").
+> Before installing the **Power BI App**, you should first setup your **Average Labour Rate** in Garage Hive. - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate"){:target="_blank"}.
 
 # Installing the Power BI App
 
-> # Power BI installation link: <ins>[Garage Hive Power BI App - V46 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=e556b931-ad22-4a77-8c04-342a0492b6283sj9xxYOIZHU-JeAjyv6YERz-rg5Nfw2FP-7ZNQ2B8E&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=46 "Power BI V46 Download")</ins>
+> # Power BI installation link: <ins>[Garage Hive Power BI App - V46 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=e556b931-ad22-4a77-8c04-342a0492b6283sj9xxYOIZHU-JeAjyv6YERz-rg5Nfw2FP-7ZNQ2B8E&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=46 "Power BI V46 Download"){:target="_blank"}</ins>
 
 To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
@@ -49,7 +49,7 @@ To install the app:
 
 The app is now ready to use.
 
-You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data")
+You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
 
 ## **Admin Portal Settings.**
 If you are having any trouble when installing, check the **Admin Portal Settings**.

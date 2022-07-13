@@ -23,7 +23,7 @@ To create a booking from the schedule:
 
    ![](media/garagehive-create-a-booking4.gif)
 
-6. Add any information that the customer has given in the **Comments** FastTab about the job on the vehicle. The top line is the line the technician will see prior to to opening the job card, add the most relevant information in this line.
+6. Add any information that the customer has given in the **Comments** FastTab about the job on the vehicle. The top line is the line the technician will see prior to to opening the job card, add the most relevant information in this line. **Close** the open page.
 
    ![](media/garagehive-create-a-booking5.gif)
 
