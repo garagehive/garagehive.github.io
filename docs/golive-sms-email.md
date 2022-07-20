@@ -1,35 +1,23 @@
 ---
 layout: docs
-title: Go Live setup 2/3 (SMS & Email)
+title: Go Live Setup - Send an SMS and Email (2/3)
 ---
 
-#   Send an SMS and Email  
+## Send an SMS and Email
+To send an SMS or an Email from a jobsheet:
+1. Open the Jobsheet by clicking on the **Total** tile in the Role Centre and then selecting the Jobsheet.
 
-Open your "Jobsheets - Total" tile 
+   ![](media/garagehive-go-live-setup-sms-and-email1.gif)
 
-![](media/garagehive-jobsheet-total-tile.png)
+2. Select **Print/Send** menu, then **Send SMS** from the actions bar. In the **Mobile Phone No.** field, enter the phone number, and in the **Message Body** area, enter the message.
+3. When done, click **Send**.
 
-Open any of the jobsheets via the job number on the left 
+   ![](media/garagehive-go-live-setup-sms-and-email2.gif)
 
-![](media/garagehive-jobsheet-total-list.png)
+4. To send an email, select **Print/Send** menu and then select **Email Invoice**. Enter the email address in the **To** field and the message in the **Message** field.
+5. When done, select **Send Email** from the actions bar.
 
-Select "Print/Send" from the top and "Send SMS"
-
-![](media/garagehive-jobsheet-print-send-sms.png)
-
-Enter your phone number and some text to the body and send
-
-![](media/garaeghive-send-sms-popup.png)
-
-Then do the same for "Email Invoice" 
-
-![](media/garagehive-jobsheet-print-send-email.png)
-
-Enter your email address and some text to the body and send
-
-![](media/garagehive-email-popup.png)
-
-Review the document sent via Email for your company logo and quality
+   ![](media/garagehive-go-live-setup-sms-and-email3.gif)
 
 [<- 2/3 Previous step](/docs/golive-cust-not-set.html)
 
