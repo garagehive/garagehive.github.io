@@ -5,6 +5,11 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 19th July 2022
+* Added **Autodata Workshop Application** action to the Role Centre under the **Service** menu.
+
+   ![](media/garagehive-autodata-workshop-appliction-action.png)
+
 ### 4th July 2022
 * Added the [Requisition Worksheet Express](garagehive-requisition-worksheet.html) tile to the role centre and an automatic recalculation of what needs to be ordered each day.
 
