@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Go Live setup - Customer Notification Setup (1/3)
+title: Go Live Setup - Customer Notification Setup (1/3)
 ---
 
 ## Customer Notification Setup  
