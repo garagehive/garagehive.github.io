@@ -49,17 +49,15 @@ To order parts from the GSF website:
 
    ![](media/garagehive-gsf-integration6.gif)
 
-1.  When the customer approves the work, create a purchase order from the actions bar by selecting **Parts** and then **Create Purchase Order(s)**. 
-
-   ![](media/garagehive-gsf-integration6a.gif)
-
-### Ordering Parts from the Purchase Order
-1. Open the newly created **Purchase Order.**
+1.  When the customer approves the work, create a purchase order from the actions bar by selecting **Parts** and then **Create Purchase Order(s)**.
+1.  In the pop-up notification, you have the option to select **Yes** and place an order from **Allicat** as well as create a Purchase Order for the items, or **No** and simply create the Purchase Order.
 
    ![](media/garagehive-gsf-integration7.gif)
 
-1. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Process** from the actions bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
+### Ordering Parts from the Purchase Order
+1. Open the newly created **Purchase Order.**
+2. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Process** from the actions bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
 
    ![](media/garagehive-gsf-integration8.gif)
 
-1. When the items arrive, you may now convert the placeholder items to the actual item number; learn more [here](garagehive-creating-a-placeholder-item.html#convert-placeholder-item-to-inventory-item).
+3. When the items arrive, you may now convert the placeholder items to the actual item number; learn more [here](garagehive-creating-a-placeholder-item.html#convert-placeholder-item-to-inventory-item).
