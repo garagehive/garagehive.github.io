@@ -5,14 +5,18 @@ title: Autodata Seamless Integration in Garage Hive
 
 # Autodata Seamless Integration in Garage Hive
 
-**Autodata Seamless Integration**, which can be accessed via the Jobsheets, Estimates, and Vehicle Inspection Estimates, is a feature in Garage Hive that allows the user to directly access technical information for the vehicle from the **Autodata Website**, such as vehicle service, repair, diagnostics, and so on. Here's how to access it:
+**Autodata Seamless Integration**, which can be accessed from the Role Centre or via the Jobsheets, Estimates, and Vehicle Inspection Estimates, is a feature in Garage Hive that allows the user to directly access technical information for the vehicle from the **Autodata Website**, such as vehicle service, repair, diagnostics, and so on. Here's how to access it:
 
-1. From the document that you are working in as the **Service Advisor**, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
-2. You can now access all the vehicle's technical information on the **Autodata Website.**
+1. From the Role Centre, select **Service** from the navigation menu followed by **Autodata Workshop Application**.
 
    ![](media/garagehive-autodata-seamless-integration1.gif)
 
-3. If you are logged in as a **Technician**, you need to **Open the Jobsheet** you are working on and select **History** from the actions bar, followed by **Autodata Workshop Application**. This takes you to the **Autodata Website.**
+2. To access it from the document that you are working in as the **Service Advisor**, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
+3. You can now access all the vehicle's technical information on the **Autodata Website.**
+
+   ![](media/garagehive-autodata-seamless-integration1.gif)
+
+4. If you are logged in as a **Technician**, you need to **Open the Jobsheet** you are working on and select **History** from the actions bar, followed by **Autodata Workshop Application**. This takes you to the **Autodata Website.**
 
    ![](media/garagehive-autodata-seamless-integration2.gif)
 
