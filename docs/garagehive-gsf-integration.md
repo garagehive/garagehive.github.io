@@ -10,6 +10,7 @@ GSF integrations allow you to link Garage Hive to the [GSF Car Parts website](ht
 1. [Linking GSF to Garage Hive system](#linking-gsf-to-garage-hive-system)
 2. [Ordering Parts from the GSF Website using the Garage Hive system](#ordering-parts-from-the-gsf-website-using-the-garage-hive-system)
 3. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
+4. [Receiving Parts from the GSF Invoice into the System](#receiving-parts-from-the-gsf-invoice-into-the-system)
 
 ### Linking GSF to Garage Hive system
 As a GSF customer, you will need to contact your GSF local branch and get the **Customer ID** before you can begin the process of linking the Garage Hive system to GSF. If you have multiple locations, you should get a **Customer ID** for each location. After getting the **Customer ID**:
@@ -60,4 +61,11 @@ To order parts from the GSF website:
 
    ![](media/garagehive-gsf-integration8.gif)
 
-3. When the items arrive, you may now convert the placeholder items to the actual item number; learn more [here](garagehive-creating-a-placeholder-item.html#convert-placeholder-item-to-inventory-item).
+### Receiving Parts from the GSF Invoice into the System
+When the items arrive, you may now convert the placeholder items to the actual item number. To do this, use the **Convert Placeholder Items** action, which is available in both the Purchase Order and the Jobsheet. Learn more [here](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
+
+   ![](media/garagehive-gsf-integration9.png)
+
+<br>
+
+   ![](media/garagehive-gsf-integration10.png)
