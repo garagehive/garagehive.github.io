@@ -30,9 +30,11 @@ There are 9 line layout options for the document to choose from:
 * Custom Grouping - Hide labour Qty. and Unit Price 
 * Custom Grouping - Show Totals Only
 
-Scroll down to the **Invoice Print Options** FastTab to select your preferred line layout. Choose the **Line Layout** and **Column Layout** fields.
+To select your preferred line layout, scroll down to the **Invoice Print Options** FastTab in the document. Select the **Line Layout** and **Column Layout** options.
 
    ![](media/garagehive-go-live-print-invoice2.png)
+
+Here is an example of each **Line Layout**:
 
 #### Standard - Standard
 
