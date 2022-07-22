@@ -95,6 +95,8 @@
       url: /docs/garagehive-booking-confirmation.html
     - name: Setting Your Average Labour Rate
       url: /docs/garagehive-labour-rate.html
+    - name: Setup of Resource Service Hours and Auto Clock Out
+      url: /docs/garagehive-service-hours-and-auto-clockout.html
     - name: Set Up of the Cues and Actions Tiles on the Role Centre
       url: /docs/garagehive-cue-setup.html 
     - name: Setting Up Devices 
