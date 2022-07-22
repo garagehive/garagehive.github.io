@@ -10,6 +10,7 @@ Placeholder Item is used when waiting on purchase invoice from the supplier; it 
 1. [Creating a Placeholder Item](#creating-a-placeholder-item)
 2. [Add Placeholder Item in a document](#add-placeholder-item-in-a-document)
 3. [Convert a Placeholder Item into an inventory item](#convert-a-placeholder-item-into-an-inventory-item)
+4. [Convert a Placeholder Item to the Vendor Item Number](#convert-a-placeholder-item-to-the-vendor-item-number)
 
 ### Creating a Placeholder Item
 To create a placeholder item:
@@ -41,10 +42,17 @@ After creating a placeholder item, you can add it to a document for items you ar
 
 ### Convert a Placeholder Item into an inventory item
 When you receive the purchase invoice from the supplier, convert the placeholder item to the item on the purchase invoice. To do this from the **Purchase Order**:
-1. Open the **Purchase Order** and enter the **Vendor Item No.** for each item from the vendor's purchase invoice.
-2. Select **Process**, then **Convert Placeholder Items** from the actions bar.
-3. Scroll to the right to the **Action** column, and for each item, click the **Create Item** action and select the template on the page that appears.
-4. When you're done with all of the items, click **OK**.
+1. Open the **Purchase Order** and replace the placeholder item **No** with the actual item **No.** from the vendor's purchase invoice.
+2. Select **Create a new item card for (Item No.)** in the pop-up window and click **OK**.
+3. On the next page, choose a template for the new item and click **OK**. The placeholder item **No.** will be replaced, but the description will stay.
+
+   ![](media/garagehive-placeholder-item3a.gif)
+
+### Convert a Placeholder Item to the Vendor Item Number
+Use this method when the **Vendor Item No.** field is prefilled using the external integration available in Garage Hive. To do this from the Purchase Order:
+1. Open the **Purchase Order** and select **Process**, then **Convert Placeholder Items** from the actions bar.
+2. Scroll to the right to the **Action** column, and for each item, click the **Create Item** action and select the template on the page that appears.
+3. When you're done with all of the items, click **OK**.
 
    ![](media/garagehive-placeholder-item5.gif)
 
