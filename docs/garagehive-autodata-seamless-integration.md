@@ -16,9 +16,13 @@ title: Autodata Seamless Integration in Garage Hive
 
    ![](media/garagehive-autodata-seamless-integration1.gif)
 
-4. If you are logged in as a **Technician**, you need to **Open the Jobsheet** you are working on and select **History** from the actions bar, followed by **Autodata Workshop Application**. This takes you to the **Autodata Website.**
+4. If you are logged in as a **Technician**, you need to **Open Jobsheet** you are working on and select **Lookup** from the three dots menu, followed by **Autodata Workshop Application**. This takes you to the **Autodata Website.**
 
    ![](media/garagehive-autodata-seamless-integration2.gif)
+
+5. When working from the **Vehicle** card, select **Lookup** from the actions bar, followed by **Autodata Workshop Application**.
+
+   ![](media/garagehive-autodata-seamless-integration3.gif)
 
 
 <br>
