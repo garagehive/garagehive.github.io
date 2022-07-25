@@ -5,10 +5,9 @@ title: Payment is applied to more than one document error in Xero.
 
 #   Payment is applied to more than one document.  
 
-This error is most commonly seen when the lump payment feature has been used.
-N.B this feature is not compatible with Xero.
+This error is most typically seen when the lump payment feature is used. This feature does not work with Xero.
 
-When you see any error in Garage Hive if you hover over the red text you will get a full description of the error.
+The full description of the error will appear if you hover your mouse pointer over the red text of the error.
 
 ---
 
@@ -16,7 +15,7 @@ When you see any error in Garage Hive if you hover over the red text you will ge
 
 ---
 
-If you click on the blue text under source to the right of the error, it will open the customer ledger entries, and the offending entry will be highlighted.
+Click on the blue text in the **Source** column to the right of the error to open the customer ledger entries and highlight the offending entry.
 
 ---
 
@@ -24,14 +23,15 @@ If you click on the blue text under source to the right of the error, it will op
 
 ---
 
-Scroll over to the right and take note of how this payment was made under payment method code.
+Scroll to the right and note how this payment was made in the **Payment Method Code** column.
 
 ---
 
 ![](media/xero-cust-ledger-entries2.png)
+
 ---
 
-Then select Process and Unapply entries. 
+From the actions bar, choose **Process**, then **Unapply Entries**.
 
 ---
 
@@ -39,15 +39,14 @@ Then select Process and Unapply entries.
 
 ---
 
-Here you will see the multiple entries that where applied, make a note of these for later and unapply the entries.
-
+Make a note of the multiple entries that were applied on the page that opens, and then select **Unapply** from the actions bar to unapply the entries.
 ---
 
 ![](media/xero-unapply-cust-ledger-entries.png)
 
 ---
 
-Once unapplied, from back in the Customer ledger entries, select process and reverse the transaction. 
+Return to the **Customer Ledger Entries** page, choose **Process**, and then **Reverse Transaction** from the actions bar.
 
 ---
 
@@ -55,7 +54,7 @@ Once unapplied, from back in the Customer ledger entries, select process and rev
 
 ---
 
-and select reverse on the next page. 
+Select **Reverse** on the next page. 
 
 ---
 
@@ -63,25 +62,34 @@ and select reverse on the next page.
 
 ---
 
-Now search the magnifying glass for customers and open the customer list. 
+From the Role Centre, select the **Take Payment** action to allocate the payments again.
 
 ---
 
-![](media/garagehive-search-customers.png)
+![](media/garagehive-take-payment-role-centre.png)
 
 ---
 
-Now use the register customer payments feature to allocate the payments again. 
+Enter the **Customer Name** and the **Payment Method Code**. Click **Next**. 
 
 ---
 
-![](media/xero-register-customer-payments.png)
----
-
-Be sure to use post payments, not post lump payments.
+![](media/garagehive-take-payment-role-centre2.png)
 
 ---
 
-![](media/xero-post-cust-payment.png)
+Select the **Amount** field, to allocate the payment to the documents. Click **Next**.
+
+---
+
+![](media/garagehive-take-payment-role-centre3.png)
+
+---
+
+Post the **Payment**.
+
+---
+
+![](media/garagehive-take-payment-role-centre4.png)
 
 ---
