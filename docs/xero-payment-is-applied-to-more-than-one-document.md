@@ -3,7 +3,7 @@ layout: docs
 title: Payment is applied to more than one document error in Xero.
 ---
 
-#   Payment is applied to more than one document.  
+## Payment is applied to more than one document.  
 
 This error is most typically seen when the lump payment feature is used. This feature does not work with Xero.
 
@@ -40,6 +40,7 @@ From the actions bar, choose **Process**, then **Unapply Entries**.
 ---
 
 Make a note of the multiple entries that were applied on the page that opens, and then select **Unapply** from the actions bar to unapply the entries.
+
 ---
 
 ![](media/xero-unapply-cust-ledger-entries.png)
