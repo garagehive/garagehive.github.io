@@ -34,59 +34,39 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
 1. Scroll down to the **Xero** FastTab. In the **Xero Sales Document Status** and **Xero Purchase Document Status** fields, specify the status of the documents when they are exported to Xero. The options are **Draft**, **Submitted**, or **Authorised**. You can select a different option for Sales and Purchase documents.
 
-{% include tip.html title="Note" text="If you plan to export sales receipts/payments the sales documents must be approved." %}
+   {% include tip.html title="Note" text="If you plan to export sales receipts/payments the sales documents must be approved." %}
 
-   ![](media/garagehive-xero-setup.png)
+    ![](media/garagehive-xero-setup.png)
 
 1. To get started with the integration, you'll need to create an "app" in Xero. Sign in with your Xero credentials at [this link](https://developer.xero.com/myapps/){:target="_blank"}. Now, in the middle or top right of the screen, choose **New App**.
 1. Name the App; It should be unique, thus we recommend using **GarageName-GH**, but it may be anything. Fill up the details shown below and **Create The App**.
    * **Company or Application URL** - ht<span>tps://www.garagehive.co.uk
    * **OAuth 2.0 redirect URI** - ht<span>tps://hivemgtservice.garagehive.co.uk/xero-oauth2/callback
 
----
-
-    ![](media/xero-2-orth-app.png)
-
----
+     ![](media/xero-2-orth-app.png)
 
 1. Once created, copy the client id and paste it into Garage Hive in the **Xero Client Id** field under **Xero** FastTab.
 1. Then choose Generate secret, copy it, and enter it into Garage Hive in the **Xero Client Secret** field.
 1. Select **Save** in Xero.
 
----
-
      ![](media/xero-2-orth-app-2.png)
-
----
 
 1. Now, under Garage Hive's **Accountancy Integration Setup**, from the actions bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
 
----
+     ![](media/xero-2-orth-app-3.png)
 
-    ![](media/xero-2-orth-app-3.png)
+1. You will be redirected to a **Xero Website** where you will be prompted to select the correct company and update the connection details.
 
----
-
-1. You will be redirected to a **Xero Website** where you will be prompted to select the correct company and update the connection details. 
-
----
-
-![](media/xero-2-orth-app-4.png)
-
----
+     ![](media/xero-2-orth-app-4.png)
 
 1. Select **Allow** access, and a successful integration will be confirmed.
 
----
-
-![](media/xero-2-orth-app-5.png)
-
----
+     ![](media/xero-2-orth-app-5.png)
 
 ### How to run the export 
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
-![](media/garagehive-accountacy-export.png)
+    ![](media/garagehive-accountacy-export.png)
 
 2. Select the following options:
    * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
