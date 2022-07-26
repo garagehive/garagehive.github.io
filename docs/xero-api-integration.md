@@ -2,9 +2,14 @@
 layout: docs
 title: Xero API Integration Setup
 ---
-{% include youtube.html id="WhGdR_xz9xo" %}
 
-## What you can export via the Xero API
+## In this article
+1. [What you can export via the Xero API](#what-you-can-export-via-the-xero-api)
+2. [Initial Setup](#initial-setup)
+3. [How to run the export](#how-to-run-the-export)
+
+
+### What you can export via the Xero API
 
 Garage Hive allows you to export your data to Xero via an API. You can export the following:
 
@@ -17,57 +22,52 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
 {% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
 
-## Initial Setup
-To find the setup for the accountancy integration, search for Accountancy Integration Setup 
+### Initial Setup
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
 
-![](media/garagehive-export-setup-search.png)
+   ![](media/garagehive-export-setup-search.png)
 
-You must decide whether to export the data via the posting date, or the document date. 
+1. Select **Xero** as the **Accountancy System** in the **General** FastTab.
+1. Specify whether the data should be exported using the posting date or the document date in the **Export Customer Ledger by** and **Export Vendor Ledger by** fields. The most commonly used approach is by **Document Date**. Garage Hive users are often limited to only posting within the current date, therefore the posting date may differ from the date on the invoice from the supplier, whereas the document date would match.
 
-The typical setup is via document date. Garage Hive users are typically restricted to only posting within the current date, therefore it is possible that the posting date doesn't match the date on the invoice from the supplier, where as the document date should.
+   ![](media/garagehive-export-setup.png)
 
-![](media/garagehive-export-setup.png)
-
-You can also dictate the state of the document when it is exported to Xero. The choices are Draft, Submitted or Approved. You can have a different option for Sales and Purchase documents.
+1. Scroll down to the **Xero** FastTab. In the **Xero Sales Document Status** and **Xero Purchase Document Status** fields, specify the status of the documents when they are exported to Xero. The options are **Draft**, **Submitted**, or **Authorised**. You can select a different option for Sales and Purchase documents.
 
 {% include tip.html title="Note" text="If you plan to export sales receipts/payments the sales documents must be approved." %}
 
-![](media/garagehive-xero-setup.png)
+   ![](media/garagehive-xero-setup.png)
 
-To set up the integration, you will need to set up an "app" within Xero. 
-
-Go to [this link](https://developer.xero.com/myapps/){:target="_blank"} and sign in using your Xero credentials.
-Now select New App in the middle or top right of the screen.
-
-Name the App; It needs to be unique, so we recommend that you use your garage name -GH, but it can be anything. Fill out the following fields as described below and create the App.
-
-Company or application URL - ht<span>tps://www.garagehive.co.uk
-
-OAuth 2.0 redirect URI - ht<span>tps://hivemgtservice.garagehive.co.uk/xero-oauth2/callback
+1. To get started with the integration, you'll need to create an "app" in Xero. Sign in with your Xero credentials at [this link](https://developer.xero.com/myapps/){:target="_blank"}. Now, in the middle or top right of the screen, choose **New App**.
+1. Name the App; It should be unique, thus we recommend using **GarageName-GH**, but it may be anything. Fill up the details shown below and **Create The App**.
+   * **Company or Application URL** - ht<span>tps://www.garagehive.co.uk
+   * **OAuth 2.0 redirect URI** - ht<span>tps://hivemgtservice.garagehive.co.uk/xero-oauth2/callback
 
 ---
 
-![](media/xero-2-orth-app.png)
+    ![](media/xero-2-orth-app.png)
 
 ---
 
-Once created copy the client id and paste it into Garage Hive then select Generate secret, copy that and paste that ingo Garage Hive and click save in Xero.
+1. Once created, copy the client id and paste it into Garage Hive in the **Xero Client Id** field under **Xero** FastTab.
+1. Then choose Generate secret, copy it, and enter it into Garage Hive in the **Xero Client Secret** field.
+1. Select **Save** in Xero.
 
 ---
 
-![](media/xero-2-orth-app-2.png)
+     ![](media/xero-2-orth-app-2.png)
 
 ---
 
-Now in Garage Hive select actions > Xero > Authorise
+1. Now, under Garage Hive's **Accountancy Integration Setup**, from the actions bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
 
 ---
 
-![](media/xero-2-orth-app-3.png)
+    ![](media/xero-2-orth-app-3.png)
 
 ---
 
-You will be forwarded to a Xero page and asked to select the correct company and vary the connection details. 
+1. You will be redirected to a **Xero Website** where you will be prompted to select the correct company and update the connection details. 
 
 ---
 
@@ -75,7 +75,7 @@ You will be forwarded to a Xero page and asked to select the correct company and
 
 ---
 
-Select Allow access and a successful integration will be confirmed.
+1. Select **Allow** access, and a successful integration will be confirmed.
 
 ---
 
@@ -83,30 +83,30 @@ Select Allow access and a successful integration will be confirmed.
 
 ---
 
-## How to run the export 
-
-Once the set up is complete you can run an export by searching for **Export to Accountancy System:**
+### How to run the export 
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
 ![](media/garagehive-accountacy-export.png)
 
-* **Export Customer Invoices/Credit Memos** - This will export all of the Customer invoices/credit memos within the date range selected. 
-* **Export Customer Payments/Refunds** - This will export the Invoice payments/refunds, as well as payments to accounts within the date range selected
-* **Export Vendor Invoices/Credit Memos** - This will export all of the posted purchase orders/purchase invoices and the posted purchase return orders/purchase credit memos within the date range selected. 
-* **Export Type** - All or New. You can either export **ALL** of the documents within the date range or only the **NEW** documents. Selecting **NEW** will exclude any documents previously exported. This means it is **VITAL** that you keep all previous exported files safe as these can never be re-produced. Once a transaction has been exported it will be flagged and not exported again when using **NEW**
-* **Date From/To** Select your date range
+2. Select the following options:
+   * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
+   * **Export Customer Payments/Refunds** - This will export Invoice payments/refunds as well as payments to accounts within the specified date range.
+   * **Export Vendor Invoices/Credit Memos** - This will export all posted purchase orders/purchase invoices as well as posted purchase return orders/purchase credit memos within the given date range.
+   * **Export Type** - All or New. You may either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any previously exported documents. This implies that it is **important** that you keep all prior exported files secure since they will never be reproduced. When using **New**, a transaction that has already been exported will be flagged and will not be exported again.
+   * **Date From** and **Date To** - Choose your date range.
 
-## Catalogs
+3. Under Catalogs:
+   * **Export All Customers** - This will generate an export of all customers in the system.
+   * **Export All Vendors** - This will generate an export of all vendors in the system.
 
-* **Export All Customers** - This will produce an export of every single customer in the system.
-* **Export All Vendors** - This will produce an export of every single vendor in the system. 
-
-There is no physical file created when using the Xero integration. The transactions will appear directly in your Xero account.
+{% include tip.html title="Note" text="There is no physical file created when using the Xero integration. The transactions will appear directly in your Xero account." %}
 
 
 <br>
 
 ### **See Also**
 
+[Video: Xero Integration in Garage Hive](https://www.youtube.com/watch?v=WhGdR_xz9xo) \
 [How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html) \
 [How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html) \
 [How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html)
