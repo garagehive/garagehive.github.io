@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Payment is applied to more than one document error in Xero.
+title: Payment is applied to more than one document error in Xero
 ---
 
 ## Payment is applied to more than one document.  
