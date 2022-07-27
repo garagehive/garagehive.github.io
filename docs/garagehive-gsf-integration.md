@@ -4,7 +4,7 @@ title: GSF Integrations in Garage Hive
 ---
 
 # GSF Integrations in Garage Hive
-GSF integrations allow you to link Garage Hive to the [GSF Car Parts website](https://www.gsfcarparts.com/), where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
+![](media/garagehive-gsf-logo.png) GSF integrations allow you to link Garage Hive to the [GSF Car Parts website](https://www.gsfcarparts.com/), where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
 
 ## In this article
 1. [Getting the System Integration Customer ID](#getting-the-system-integration-customer-id)
@@ -19,7 +19,7 @@ You will need to do the following to obtain this information:
 1. #### Existing GSF Customer
    If you are an existing GSF Customer please complete the form within the link below. You will then receive your **System Integration Customer ID** back via email.
 
-      [Complete this form]()
+      [Complete this form.]()
 
    Alternatively, you can contact your local [GSF Branch Finder](https://www.gsfcarparts.com/branches){:target="_blank"} with your **GSF Account No.** and request your **System Integration Customer ID** directly from them.
 
