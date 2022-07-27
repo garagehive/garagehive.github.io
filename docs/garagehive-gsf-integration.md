@@ -26,10 +26,10 @@ You will need to do the following to obtain this information:
 
       [Complete this form.](https://docs.google.com/forms/d/e/1FAIpQLSdKunTIs9KA2b-xQs2hjEPvhKTKfdLrNE86fOQLGKBqxrAXkQ/viewform){:target=" blank"}
 
-   Alternatively, you can contact your local GSF Branch with your **GSF Account No.** and request your **System Integration Customer ID** directly from them. Use this [Finder](https://www.gsfcarparts.com/branches){:target=" blank"} to find your local branch.
+   Alternatively, you can contact your local GSF Branch with your **GSF Account No.** and request your **System Integration Customer ID** directly from them. Use this GSF Branch [Finder](https://www.gsfcarparts.com/branches){:target=" blank"} to find your local branch.
 
 2. ##### New GSF Customer
-   As a new GSF customer, you will need to contact your local GSF Branch to create an account and advise them that you would like a **System Integration Customer ID**. To find your local branch, use this [Finder](https://www.gsfcarparts.com/branches){:target=" blank"}.
+   As a new GSF customer, you will need to contact your local GSF Branch to create an account and advise them that you would like a **System Integration Customer ID**. To find your local branch, use this GSF Branch [Finder](https://www.gsfcarparts.com/branches){:target=" blank"}.
 
 After getting the **System Integration Customer ID**, continue to [Linking GSF to Garage Hive System](#linking-gsf-to-garage-hive-system).
 
