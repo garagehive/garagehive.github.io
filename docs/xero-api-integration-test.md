@@ -83,24 +83,36 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 {% include tip.html title="Note" text="There is no physical file created when using the Xero integration. The transactions will appear directly in your Xero account." %}
 
 ### Adding Tracking Categories in Xero
-1. To add **Tracking Category** such as **Branch** in Xero, choose the ![](media/search icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
-2. Scroll down to **Xero** FastTab, and in the **Department Dimension Code** field, enter **Branch**.
+1. To add **Tracking Category** such as **Branch** in Xero, choose the ![](media/search icon.png) icon, enter **Dimensions**, and select the related link.
+2. Select the row with the **Branch** dimension and then select **Dimension** from the actions bar, followed by **Dimension Values**.
+
+    ![](media/garagehive-xero-dimensions.png)
+
+3. Add the column **External Dimension Value Code** to the page that appears by using Garage Hive's [personalising feature](garagehive-personalising-garagehive.html#adding-fields-to-pages).
+4. Enter the values in this column to match the **Code** for the branch, then exit the page.
+
+    ![](media/garagehive-xero-external-dimension-values-personalisation.png)
+    
+    ![](media/garagehive-xero-external-dimension-values.png)
+
+5. Choose the ![](media/search icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
+6. Scroll down to **Xero** FastTab, and in the **Department Dimension Code** field, enter **Branch**.
 
     ![](media/garagehive-xero-dimension-department.png)
 
-3. Now, log in to your Xero account and select **Accounting** from the top menu, followed by **Advanced**.
+7. Now, log in to your Xero account and select **Accounting** from the top menu, followed by **Advanced**.
 
     ![](media/garagehive-xero-accounting-advanced.png)
 
-4. Select **Tracking Categories** from the page that appears, then bookmark it by selecting the star on the left. By bookmarking it, it will appear under **Advanced** in the **Accounting** main menu.
+8. Select **Tracking Categories** from the page that appears, then bookmark it by selecting the star on the left. By bookmarking it, it will appear under **Advanced** in the **Accounting** main menu.
 
     ![](media/garagehive-xero-tracking-categories.png)
 
-5. Select **Add Tracking Category** on the **Tracking Categories** page and name it the same as the **Department Dimension Code** (case sensitive) as in Garage Hive. Then, add the **Category Options**, same as the various branches of your business (case sensitive).
+9.  Select **Add Tracking Category** on the **Tracking Categories** page and name it the same as the **Department Dimension Code** (case sensitive) as in Garage Hive. Then, add the **Category Options**, same as the various branches of your business (case sensitive).
 
     ![](media/garagehive-xero-tracking-categories-branch.png)
 
-6. The **Tracking Categories** will be added successfully, and you may now [run the export](#how-to-run-the-export) as described above.
+10. The **Tracking Categories** will be added successfully, and you may now [run the export](#how-to-run-the-export) as described above.
 
 
 <br>
