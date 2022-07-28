@@ -3,7 +3,7 @@ layout: docs
 title: How to Import Your Exported Data Into Sage Accounting
 ---
 
-# How to Import Your Exported Data Into Sage 50 Accounts
+# How to Import Your Exported Data Into Sage Accounting
 If you're using **Sage Accounting** as your accounting system, you'll need to import the data you [exported from Garage Hive](garagehive-finance-accountancy-export.html){:target="_blank"} and ensure that your accounting system is [integrated with Garage Hive](garagehive-external-accountancy-integration.html){:target="_blank"}. Here's how to import the data:
 1. Begin by creating a folder named **Sage Exports** and saving it to a cloud storage service of your choice; this ensures that it will not be lost even if your PC data is lost.
 2. Create a new folder within the **Sage Exports** folder, and name it **Done**.
