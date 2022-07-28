@@ -9,7 +9,7 @@ title: GSF Integrations in Garage Hive
     <img width="33%" src="docs/media/../../media/garagehive-gsf-logo.png"> 
 </p>
 
-GSF integrations allow you to link Garage Hive to the [GSF Car Parts website](https://www.gsfcarparts.com/), where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
+GSF integrations allow you to link Garage Hive to the GSF Car Parts website, where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
 
 ## In this article
 1. [Getting the System Integration Customer ID](#getting-the-system-integration-customer-id)
@@ -26,17 +26,17 @@ You will need to do the following to obtain this information:
 
       [Complete this form.](https://docs.google.com/forms/d/e/1FAIpQLSdKunTIs9KA2b-xQs2hjEPvhKTKfdLrNE86fOQLGKBqxrAXkQ/viewform){:target=" blank"}
 
-   Alternatively, you can contact your local GSF Branch with your **GSF Account No.** and request your **System Integration Customer ID** directly from them. Use this GSF Branch [Finder](https://www.gsfcarparts.com/branches){:target=" blank"} to find your local branch.
+   Alternatively, you can contact your local GSF Branch with your **GSF Account No.** and request your **System Integration Customer ID** directly from them. Use this [GSF Branch Finder](https://www.gsfcarparts.com/branches){:target=" blank"} to find your local branch.
 
 2. ##### New GSF Customer
-   As a new GSF customer, you will need to contact your local GSF Branch to create an account and advise them that you would like a **System Integration Customer ID**. To find your local branch, use this GSF Branch [Finder](https://www.gsfcarparts.com/branches){:target=" blank"}.
+   As a new GSF customer, you will need to contact your local GSF Branch to create an account and advise them that you would like a **System Integration Customer ID**. Use this [GSF Branch Finder](https://www.gsfcarparts.com/branches){:target=" blank"} to find your local branch.
 
 After getting the **System Integration Customer ID**, continue to [Linking GSF to Garage Hive System](#linking-gsf-to-garage-hive-system).
 
 ### Linking GSF to Garage Hive system
-As a GSF customer, you will need to contact your GSF local branch and get the **Customer ID** before you can begin the process of linking the Garage Hive system to GSF. If you have multiple locations, you should get a **Customer ID** for each location. After getting the **Customer ID**:
+Follow the steps below to link GSF to the Garage Hive System using the **System Integration Customer ID** you received:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **GSF Integrations**, and choose the related link.
-2. Select **New** to add the location to which you want to link with GSF, then choose the **Location Code** and enter the **Customer ID** that you got.
+2. Select **New** to add the location to which you want to link GSF, then choose the **Location Code** and enter the **System Integration Customer ID** that you received in the **Customer ID** field.
 
    ![](media/garagehive-gsf-integration1.gif)
 
