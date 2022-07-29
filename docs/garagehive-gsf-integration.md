@@ -14,9 +14,10 @@ GSF integrations allow you to link Garage Hive to the GSF Allicat Online, where 
 ## In this article
 1. [Getting the System Integration Customer ID](#getting-the-system-integration-customer-id)
 2. [Linking GSF to Garage Hive system](#linking-gsf-to-garage-hive-system)
-3. [Ordering Parts from the GSF Website using the Garage Hive system](#ordering-parts-from-the-gsf-website-using-the-garage-hive-system)
+3. [Ordering Parts from the GSF Allicat Online using the Garage Hive system](#ordering-parts-from-the-gsf-allicat-online-using-the-garage-hive-system)
 4. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
 5. [Receiving Parts from the GSF Invoice into the System](#receiving-parts-from-the-gsf-invoice-into-the-system)
+6. [Ordering Service Package Items from GSF](#ordering-service-package-items-from-gsf)
 
 ### Getting the System Integration Customer ID
 You will require a **System Integration Customer ID** before you can begin the process of linking the Garage Hive system to GSF. If you have multiple locations, you should get a **System Integration Customer ID** for each location.
@@ -46,7 +47,7 @@ Follow the steps below to link GSF to the Garage Hive System using the **System 
 
    ![](media/garagehive-gsf-integration2.gif)
 
-### Ordering Parts from the GSF Website using the Garage Hive system
+### Ordering Parts from the GSF Allicat Online using the Garage Hive system
 To order parts from the GSF website:
 1. You may add the items from the external data lookup to the Jobsheet that you want to work on. Choose **Lookup**, followed by **Repair Times** and/or **Service Interval Matrix**. Choose the type of labour and items required for the vehicle.
 1. **MISC** will be used as a placeholder for the added items.
@@ -90,3 +91,16 @@ When the items arrive, you may now convert the placeholder items to the actual i
 <br>
 
    ![](media/garagehive-gsf-integration10.png)
+
+### Ordering Service Package Items from GSF
+1. When items from the **Service Packages** are added to a document and you try to place an order from GSF, the items are not automatically added to the **Shopping List** as they are when items from the **Autodata Repair Times** are added. This is because the items have not yet been linked with the **General Part No.** that the system uses for item identification in the **GSF Allicat Online** system. Here is an example.
+
+   ![](media/garagehive-gsf-integration10.gif)
+
+2. The **General Part No.** is automatically added to items via the **Autodata Repair Times** or the **GSF Allicat Online**, therefore any other item that is not from these sources does not have the **General Part No.**.
+
+   ![](media/garagehive-gsf-integration11.gif)
+
+3. To ensure that the items in the **Service Packages** can be ordered from **GSF Allicat Online**, you need manually link them to the relevant **General Part No.**. And this number can be added to/found in the column **General Part Nos.** When you add it, the items will be added to the shopping list in GSF Allicat Online.
+
+   ![](media/garagehive-gsf-integration12.gif)
