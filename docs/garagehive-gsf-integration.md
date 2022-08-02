@@ -101,6 +101,8 @@ When the items arrive, you may now convert the placeholder items to the actual i
 
    ![](media/garagehive-gsf-integration11.gif)
 
-3. To ensure that the items in the **Service Packages** can be ordered from **GSF Allicat Online**, you need manually link them to the relevant **General Part No.**. And this number can be added to/found in the column **General Part Nos.** When you add it, the items will be added to the shopping list in GSF Allicat Online.
+3. To ensure the Shopping List in **GSF Allicat Online** is automatically generated for items within a **Service Packages**, you need to manually link them to the relevant **General Part No.**. And this number can be added to/found in the column **General Part Nos.** When you add it, the items will be added to the shopping list in **GSF Allicat Online**.
 
    ![](media/garagehive-gsf-integration12.gif)
+
+4. So here is the complete process flow.
