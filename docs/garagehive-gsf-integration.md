@@ -105,4 +105,7 @@ When the items arrive, you may now convert the placeholder items to the actual i
 
    ![](media/garagehive-gsf-integration12.gif)
 
-4. So here is the complete process flow.
+
+So, here is the complete process flow.
+
+![](media/garagehive-gsf-integration13.gif)
