@@ -3,7 +3,11 @@ layout: docs
 title: Creating a Vehicle Inspection Checklist from Autodata
 ---
 
-# Creating a Vehicle Inspection Checklist from Autodata
+## In this article
+1. [Creating a Vehicle Inspection Checklist from Autodata](#creating-a-vehicle-inspection-checklist-from-autodata)
+2. [Add Custom Checklist Templates at the bottom of Autodata Checklists](#add-custom-checklist-templates-at-the-bottom-of-autodata-checklists)
+
+### Creating a Vehicle Inspection Checklist from Autodata
 When using the Autodata **Service Interval Matrix**, you may create a Vehicle Inspection Checklist with the data from Autodata, allowing you to generate a quotation for the customer.
 1. Select **Lookup** from the actions bar of the document you're working on, then **Service Interval Matrix**. In the pop-up notification, click **Yes**.
 
@@ -23,12 +27,13 @@ When using the Autodata **Service Interval Matrix**, you may create a Vehicle In
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist5.png)
 
-4. When you want to add an additional Checklist template for each Checklist you create, in the top right corner, choose the ![](media/search_icon.png) icon, enter **Autodata Setup** and select the related link.
+### Add Custom Checklist Templates at the bottom of Autodata Checklists.
+1. When you want to add an additional Checklist template for each Checklist you create, in the top right corner, choose the ![](media/search_icon.png) icon, enter **Autodata Setup** and select the related link.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist6.png)
 
-5. Go to the **Additional Checklist Templ. Code** field and choose the template to use for all Autodata checklists. Close the **Autodata Setup** page.
+2. Go to the **Additional Checklist Templ. Code** field and choose the template to use for all Autodata checklists. Close the **Autodata Setup** page.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist7.png)
 
-6. If you now create a Checklist from Autodata, it will include the additional template checklist alongside the one from Autodata.
+3. If you now create a Checklist from Autodata, it will include the additional template checklist alongside the one from Autodata.
