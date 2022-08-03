@@ -108,4 +108,4 @@ When the items arrive, you may now convert the placeholder items to the actual i
 
 So, here is the complete process flow.
 
-![](media/garagehive-gsf-integration13.gif)
+![](media/garagehive-gsf-integration13.png)
