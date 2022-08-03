@@ -477,6 +477,8 @@
       url: /docs/garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html
     - name: Adding Labour Times Adjustments
       url: /docs/garagehive-autodata-labour-time-adjustment.html
+    - name: Creating a Vehicle Inspection Checklist from Autodata
+      url: /docs/garagehive-creating-a-vehicle-inspection-checklist-from-autodata.html
 - name: FAQs
   url: "#"
   subitems:
