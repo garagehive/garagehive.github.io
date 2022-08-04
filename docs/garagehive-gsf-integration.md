@@ -5,9 +5,7 @@ title: GSF Integrations in Garage Hive
 
 # GSF Integrations in Garage Hive
 
-<p align="center" width="100%">
-    <img width="33%" src="docs/media/../../media/garagehive-gsf-logo.png"> 
-</p>
+![](media/garagehive-gsf-to-garage-hive.png)
 
 GSF integrations allow you to link Garage Hive to the GSF Allicat Online, where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
 
