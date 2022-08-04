@@ -462,7 +462,7 @@
   url: "#"
   subitems:
     - name: Autodata Integration
-      url: "#"
+      url: /docs/garagehive-autodata-integration.html
       subitems:
         - name: Autodata Seamless Integration in Garage Hive
           url: /docs/garagehive-autodata-seamless-integration.html
