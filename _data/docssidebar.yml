@@ -182,6 +182,8 @@
       url: /docs/garagehive-removing-posting-restrictions.html
     - name: Changing VAT Prod. Posting on Purchase Document Lines
       url: /docs/garagehive-changing-vat-prod-posting-on-lines.html
+    - name: GSF Integration
+      url: /docs/garagehive-gsf-integration.html
 - name: Inventory
   url: "#"
   subitems:
