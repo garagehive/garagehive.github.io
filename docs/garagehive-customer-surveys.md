@@ -9,7 +9,7 @@ In Garage Hive, customer surveys are questions sent to customers after they visi
 
 | To learn how to | See this article |
 | :-------------- | :-------------- |
-| Set up customer surveys | [Setting up customer surveys](garagehive-surveys-setting-up-customer-surveys.html) |
-| Confirm customer surveys are sent | [Confirming surveys are sent](garagehive-surveys-confirming-surveys-are-sent.html) |
-| Review customer surveys | [Reviewing your customer surveys](garagehive-surveys-reviewing-your-customer-surveys.html) |
-| Send review requests on completed surveys | [Sending review requests on completed survey entries](garagehive-surveys-sending-review-requests-on-completed-survey-entries.html) |
+| Set up customer surveys | [Setting up customer surveys](garagehive-surveys-setting-up-customer-surveys.html){:target="_blank"} |
+| Confirm customer surveys are sent | [Confirming surveys are sent](garagehive-surveys-confirming-surveys-are-sent.html){:target="_blank"} |
+| Review customer surveys | [Reviewing your customer surveys](garagehive-surveys-reviewing-your-customer-surveys.html){:target="_blank"} |
+| Send review requests on completed surveys | [Sending review requests on completed survey entries](garagehive-surveys-sending-review-requests-on-completed-survey-entries.html){:target="_blank"} |
