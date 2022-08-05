@@ -6,7 +6,7 @@ title: Autodata Integration
 # Autodata Integration
 With the Autodata API integration, you can quickly and easily access technical content in Garage Hive. As a result, you may identify and fix vehicle faults more faster and enhance labour efficiencies.
 
-| To learn how about | See this article |
+| To learn about | See this article |
 | :-------------- | :-------------- |
 | Autodata Seamless Integration | [Autodata Seamless Integration](garagehive-autodata-seamless-integration.html){:target="_blank"} |
 | Service Vehicle Intervals | [Viewing and Adding Servicing Intervals Data](garagehive-autodata-viewing-and-adding-servicing-intervals.html){:target="_blank"} |
