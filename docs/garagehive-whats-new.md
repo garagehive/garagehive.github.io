@@ -5,6 +5,9 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 29th July 2022
+* Added linking of locations as Xero's tracking categories, to enable exports into Xero to be split for different branches/locations.
+
 ### 19th July 2022
 * Added **Autodata Workshop Application** action to the Role Centre under the **Service** menu.
 
