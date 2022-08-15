@@ -5,6 +5,9 @@ title: What's New in Garage Hive
 # What's new?
 Below is a brief list of Garage Hive developments:
 
+### 15th August 2022
+* Added the **Workshop Application** (Autodata) to the Checklist to help technicians in looking up timing belt internals, minimum brake specifications, and so on.
+
 ### 29th July 2022
 * Added linking of locations as Xero's tracking categories, to enable exports into Xero to be split for different branches/locations.
 
