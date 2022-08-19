@@ -5,6 +5,8 @@ title: Setting Up and Using Emailing Feature in Garage Hive
 
 ## In this article
 1. [Email setup](#email-setup)
+   - [Microsoft office 365 email account setup](#microsoft-office-365-email-account-setup)
+   - [Gmail email account setup](#gmail-email-account-setup)
 2. [Using the emailing feature](#using-the-emailing-feature)
 3. [Accessing email outbox](#accessing-email-outbox)
 4. [Accessing sent emails](#accessing-sent-emails)
