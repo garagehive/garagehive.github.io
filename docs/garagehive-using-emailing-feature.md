@@ -83,7 +83,7 @@ To set up a **Gmail email account:**
 
    ![](media/garagehive-email-setup7.png)
 
-### Using Emailing Feature in Garage Hive
+### Using the emailing feature
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
 1. To use the Email feature, go to the document's actions bar and select **Email** for Estimates, Vehicle Inspection Estimates, and Checklists, or **Email Invoice** for the Jobsheets.
 
