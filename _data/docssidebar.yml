@@ -87,12 +87,15 @@
       url: /docs/service-package-conditions.html
     - name: Setting up Primary Makes and Models
       url: /docs/garagehive-setting-up-primary-makes-and-models.html
-    - name: Setting up Vehicle Date Reminder Notifications
-      url: /docs/garagehive-vehicle-date-reminders.html
-    - name: Setting up Booking Reminder Notifications
-      url: /docs/garagehive-booking-reminders.html
-    - name: Setting up Booking Confirmation Notifications
-      url: /docs/garagehive-booking-confirmation.html
+    - name: Setting Up the Customer Notifications
+      url: "#"
+      subitems:
+        - name: Setting up Vehicle Date Reminder Notifications
+          url: /docs/garagehive-vehicle-date-reminders.html
+        - name: Setting up Booking Reminder Notifications
+          url: /docs/garagehive-booking-reminders.html
+        - name: Setting up Booking Confirmation Notifications
+          url: /docs/garagehive-booking-confirmation.html
     - name: Setting Your Average Labour Rate
       url: /docs/garagehive-labour-rate.html
     - name: Setup of Resource Service Hours and Auto Clock Out
