@@ -8,7 +8,7 @@ title: How to Use the Teaching Tips
 2. [Enabling and Disabling the Teaching Tips](#enabling-and-disabling-the-teaching-tips)
 
 ### Using the Teaching Tips
-Teaching tips are business central pages tours, which help in onboarding and educating users about the business central pages. Here is how to use them:
+Teaching tips are Business Central pages tours. These will help in onboarding and educating users about the Business Central pages. Here is how to use them:
 1. When you open a new page that you haven't visited or opened before, the teaching tips will appear automatically. To go through the teaching tips, click the **Take a Tour** button, or the **Close Button** to close them.
 
    ![](media/garagehive-teaching-tips1.png)
