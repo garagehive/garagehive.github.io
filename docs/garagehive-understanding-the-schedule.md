@@ -141,13 +141,10 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 1. Click and drag in the booking slot along the resource to allocate.
 2. Release up to the time when the standard event ends. 
 3. Select the **Allocation Type** as **Standard Event**.
-
-    ![](media/garagehive-understanding-the-schedule-standard-event1.gif)
-
 4. Select a standard event from the list or create a new standard event.
 5. Add a **Comment** about the standard event and click **Ok**; this reduces the available hours and ensures that the resource is accurately booked.
 
-![](media/garagehive-understanding-the-schedule-standard-event2.gif)
+    ![](media/garagehive-understanding-the-schedule-standard-event1.gif)
 
 ### Understanding the emojis in an allocation
 The emojis are used in the allocations to visually help the service advisor and technicians understand status and requirements of the job. Here are some of the most commonly used emojis: <br>
