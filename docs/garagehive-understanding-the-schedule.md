@@ -16,8 +16,8 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 7. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
 8. [Adding a standard event](#adding-a-standard-event)
 9. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-10. [Using the search function in the schedule](using-the-search-function-in-the-schedule)
-11. [Adding an allocation type](adding-an-allocation-type)
+10. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
+11. [Adding an allocation type](#adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -170,6 +170,10 @@ When there are many bookings in the schedule, it becomes harder to find an alloc
 ![](media/garagehive-understanding-the-schedule-search1.gif)
 
 ### Adding an allocation type
+Allocation Type appears after the drag and release action on the schedule, where you select which allocation to add.
+
+   ![](media/garagehive-understanding-the-schedule15.png)
+
 To add an allocation type in the schedule:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Schedule New Allocation Menu** and select the related result.
 
