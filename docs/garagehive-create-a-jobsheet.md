@@ -18,23 +18,23 @@ There are various methods for creating a jobsheet, as described in [this article
 
    ![](media/garagehive-create-a-jobsheet1.gif)
 
-2. Fill in the **Vehicle Registration No.**:
-    - If the vehicle is in the system, the customer card will be auto-filled.
+1. Fill in the **Vehicle Registration No.**:
+    - If the vehicle is in the system, the vehicle information will be auto-filled.
     - If the vehicle is not in the system, the system will look it up using **VRM** to obtain the vehicle's details.
-3. Enter the current vehicle mileage, in the **Mileage** field.
+1. Enter the current vehicle mileage, in the **Mileage** field.
 
     ![](media/garagehive-create-a-jobsheet2.gif)
 
-4. After the VRM lookup for the vehicle, enter the customer information:
+1. After the VRM lookup for the vehicle, enter the customer information:
     - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
     - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
-5.  Fill in **Address & Contact** FastTab in the **Customer** card:
+1.  Fill in **Address & Contact** FastTab in the **Customer** card:
     - Select **Lookup Address from Postcode**, enter the **Postcode**, click **OK**, and then select the appropriate address.
     - Fill in the contact information, including phone number and email address.
 
          ![](media/garagehive-create-a-jobsheet3.gif)
 
-6.  You can now add the following details:
+1.  You can now add the following details:
      - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
      - **Requested Delivery Date** and **Requested Delivery Time** - This is the date and time the customer has requested that the car be delivered after the work has been completed.
      - **External Document No.** - This is the number for the external document that is related to the work being done on the vehicle.
@@ -49,26 +49,26 @@ There are various methods for creating a jobsheet, as described in [this article
 
       ![](media/garagehive-create-a-jobsheet4.gif)
 
-7.  The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
+1.  The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
 
    ![](media/garagehive-create-a-jobsheet4a.png)
 
-13. Under the **Checklist** subpage, you may view and access any checklists that are linked to the jobsheet.
+1. Under the **Checklist** subpage, you may view and access any checklists that are linked to the jobsheet.
 
       ![](media/garagehive-create-a-jobsheet5.gif)
 
-14. In the **Comments** subpage, you can enter any information the customer has provided about the job to be done. 
+1. In the **Comments** subpage, you can enter any information the customer has provided about the job to be done. 
 
       ![](media/garagehive-create-a-jobsheet6.gif)
    
-15. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html). 
+1. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html). 
 
     ![](media/garagehive-create-a-jobsheet6a.png)
 
 ### Add Items and Labour
-16. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
+1. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
     - **Type** column - Select either **Labour** or **Item** to define what type of details are to be entered in the line.
-    - **No** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour**, and so on; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on.
+    - **No.** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour**, and so on; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on.
     - **Description** column - This is the item or labour description that will appear in the customer's invoice.
     - **Quantity** column - Enter the quantity of items or hours to sell.
     - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.
@@ -81,7 +81,7 @@ There are various methods for creating a jobsheet, as described in [this article
          ![](media/garagehive-create-a-jobsheet7.gif)
 
 ### View the Factbox and copy the VIN
-17. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
+1. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)
 
