@@ -20,7 +20,7 @@ When the job is complete and the financial information is correct. You now need 
     ![](media/garagehive-jobsheet-taking-payment1a.gif)
 
 ### Adding resources to labour lines in a Jobsheet
-Before posting the jobsheet, all labour lines must-have resource information added to them. There are several this can be done:
+Before posting the jobsheet, all labour lines must-have resource information added to them. There are several ways this can be done:
 1. If the Technician uses the Technician **Confirmed** button on their device, the resources column will be pre-populated.
 
     ![](media/garagehive-jobsheet-adding-resources1.gif)
@@ -29,7 +29,7 @@ Before posting the jobsheet, all labour lines must-have resource information add
 
     ![](media/garagehive-jobsheet-adding-resources2.gif)  
 
-3. If there are multiple technician's working on the job or there are multiple labour lines upon which a sole technician has clocked onto a job you can Select **Process** followed by **Add Resources to Lines**. This will either split the total time spent between multiple technicians on all lines or it will add 100% to all labour lines for the one specific technician. 
+3. If multiple technicians are working on the job or there are multiple labour lines upon which a sole technician has clocked onto a job, you can select **Process** followed by A**dd Resources to Lines**. This will either split the total time spent between multiple technicians on all lines, or it will add 100% to all labour lines for one specific technician. 
 
     ![](media/garagehive-jobsheet-adding-resources3.gif)
 
@@ -56,6 +56,7 @@ Now, you have the option of:
 * To **Post** - Post/invoice this jobsheet without the option of printing or emailing it.
 * To **Post and Print** - Post/invoice this jobsheet and print a copy of the invoice.
 * To **Post and Email** - Post/invoice this jobsheet and email a copy of the invoice to the **Bill-To Customer**.
+Select **Payment/Posting** from the actions bar and select either of the above according to your requirements. Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
 
     ![](media/garagehive-jobsheet-posting1.gif)
 

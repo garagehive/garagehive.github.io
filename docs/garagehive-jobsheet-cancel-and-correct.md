@@ -11,7 +11,7 @@ When you post a jobsheet with incorrect information, such as wrong item or labou
 2. [Correcting a jobsheet](#correcting-a-jobsheet)
  
 ### Cancelling a jobsheet
-When you don't need to create a new jobsheet, you can use the **Cancel Document** function to cancel an existing one. Follow these instructions to cancel a jobsheet: 
+When you don't need to create a new jobsheet, you can use the **Cancel Document** function to cancel an existing one. Follow these steps to cancel a jobsheet: 
 1. Select the **Posted & Archived Documents** from the role centre, and choose **Posted Jobsheets**.
 2. Within the **Posted Jobsheets** page, **Search** for the Jobsheet to cancel or select from the list. 
 
@@ -44,7 +44,7 @@ The **Correct** function is used to make changes to a posted Jobsheet and enter 
 
 7.  Fill in the details on the newly created jobsheet with the correct information, including the payment method if it was entered incorrectly, and then post it when ready. 
 
-   [](media/garagehive-correct-jobsheet4.gif)
+   ![](media/garagehive-correct-jobsheet4.gif)
 
 
 ## See Also

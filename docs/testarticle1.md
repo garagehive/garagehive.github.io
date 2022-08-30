@@ -7,6 +7,7 @@ title: Tyre Scanner Integration in Garage Hive
 1. [Tyre Scanner System Setup](#tyre-scanner-system-setup)
 2. [Tyre Scanner Checklist Template](#tyre-scanner-checklist-template)
 3. [Getting the Tyre Scanner Report](#getting-the-tyre-scanner-report)
+4. [Create VIE from the Tyre Scanner Report](#create-vie-from-the-tyre-scanner-report)
 
 ### Tyre Scanner System Setup
 To connect the **Tyre Scanner** to the system:
@@ -69,3 +70,13 @@ After scanning the tyres and sending the report to the system, you should create
 8. Select **Open Report** from the **View** column on the **Tyre Scans Page**.
 
    ![](media/garagehive-tyre-scanner9.gif)
+
+### Create VIE from the Tyre Scanner Report
+1. To create a VIE from the tyre scanner report, select **Related** from the actions bar, then **Show VIE**.
+2. If no VIE is linked with the checklist, the system will prompt you to create one; click **Yes**.
+
+   ![](media/garagehive-tyre-scanner10.gif)
+
+3. Select **Prepare** from the actions bar of the newly created VIE, followed by **Add Checklist Attention Lines**.
+
+   ![](media/garagehive-tyre-scanner11.gif)
