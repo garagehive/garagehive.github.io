@@ -78,5 +78,6 @@ After scanning the tyres and sending the report to the system, you should create
    ![](media/garagehive-tyre-scanner10.gif)
 
 3. Select **Prepare** from the actions bar of the newly created VIE, followed by **Add Checklist Attention Lines**.
+4. The checklist attention lines will be added in the VIE under the **Group Items** FastTab.
 
    ![](media/garagehive-tyre-scanner11.gif)
