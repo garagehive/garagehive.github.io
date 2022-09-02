@@ -27,5 +27,5 @@ Including an external review follow-up in a customer survey allows the garage to
 ### How the External Review Link Appears to the Customer
 When the **External Review Follow Up Setup** is setup, the customer after answering the **Net Promoter Score** survey, will get have the option of reviewing your business as following.
 
-   ![](media/garagehive-external-review-follow-up2.png)
+   ![](media/garagehive-external-review-follow-up3.png)
 
