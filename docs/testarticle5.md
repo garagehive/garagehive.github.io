@@ -31,6 +31,6 @@ title: How to Set Business Targets (Gross Profit) in Garage Hive
 
 9.  All of the days you added will be imported, and you will have finished setting the business targets in your system.
 
-   ![](media/garagehive-business-targets7.png)
+     ![](media/garagehive-business-targets7.png)
 
 10. If you need to edit the file in bulk, simply **Export** it, edit it, and then **Import** it; otherwise, you can edit individual lines from the **Business Targets** page.
