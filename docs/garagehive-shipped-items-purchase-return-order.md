@@ -6,7 +6,7 @@ title: Creating a Purchase Return Order and Purchase Credit Memo
 # Creating a Purchase Return Order and Purchase Credit Memo
 Purchase return orders are documents that you use to manage and track all of your returns. They facilitate you in tracking items you ship back to the supplier and receiving a credit memo when the supplier processes them.
 
-## In this article+
+## In this article
 
 1. [Shipping and Invoicing Parts in a Purchase Return Order with a One Credit Memo from the Supplier](#shipping-and-invoicing-parts-in-a-purchase-return-order-with-a-one-credit-memo-from-the-supplier)
 2. [Shipping and Invoicing Parts in a Purchase Return Order with More than one Credit Memo from the Supplier](#shipping-and-invoicing-parts-in-a-purchase-return-order-with-more-than-one-credit-memo-from-the-supplier)
