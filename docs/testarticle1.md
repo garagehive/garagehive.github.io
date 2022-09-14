@@ -4,21 +4,21 @@ title: Tyre Scanner Integration in Garage Hive
 ---
 
 ## In this article
-1. [Tyre Scanner New Customer Registration](#tyre-scanner-new-customer-registration)
+1. [Tyre Scanner New Account Registration](#tyre-scanner-new-account-registration)
 2. [Tyre Scanner System Setup](#tyre-scanner-system-setup)
 3. [Tyre Scanner Checklist Template](#tyre-scanner-checklist-template)
 4. [Getting the Tyre Scanner Report](#getting-the-tyre-scanner-report)
 5. [Create VIE from the Tyre Scanner Report](#create-vie-from-the-tyre-scanner-report)
 
-### Tyre Scanner New Registration
+### Tyre Scanner New Account Registration
 As a new **Tyre Scanner** customer, you should first register as follows:
-1.  Click this [link](https://docs.google.com/document/d/1sE6lQMpRB57wtRTCGUKDOVosVJI7BxAL/edit) to download the word document and save it locally on your computer.
+1.  Click this [link](https://docs.google.com/document/d/1sE6lQMpRB57wtRTCGUKDOVosVJI7BxAL/edit){:target="_blank"} to download the word document and save it locally on your computer.
 2.  Fill out all the details in the Word document. To obtain the **Endpoint URL** required in the word document's final section, select the ![](media/search icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
 3.  In the **Tyre Scan Setup** page, click **Get Endpoint Url** and copy the URL from the pop-up notification.
 
-   ![](media/garagehive-tyre-scanner0.png)
+     ![](media/garagehive-tyre-scanner0.png)
 
-4.  Compose an email to info.uk@tscan.eu, attach the Word document and company logo, and send it.
+4.  Compose an email to [**info.uk@tscan.eu**](mailto:info.uk@tscan.eu), attach the Word document and company logo, and send it.
 
 ### Tyre Scanner System Setup
 To connect the **Tyre Scanner** to the system:
