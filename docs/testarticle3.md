@@ -26,15 +26,16 @@ Including an external review follow-up in a customer survey allows the garage to
 6. The setup is now completed, and you can close the page.
 
 ### External Review Follow Up Setup for Multi Location
-1. When you have several locations for your business and you need a different review platform/link for each, follow the steps above for setting up a single location and then choose the ![](media/search_icon.png) icon, enter **Locations**, and select the related link.
+1. When you have multiple locations for your business and need a different review platform and link for each, follow the steps above for setting up a single location, but the only field that is required is the **Min. NPS Question Value**. You can leave the **Review Platform Name** and **Review Link** fields blank.
+2. Choose the ![](media/search_icon.png) icon, enter **Locations**, and select the related link.
 
    ![](media/garagehive-external-review-follow-up3.png)
 
-2. Select the location card to which you want to add a follow-up review link, and then add the **Review Platform Name** and the **Review Link** in the **External Review Platform** section under **Address and Contact** FastTab.
+3. Select the location card to which you want to add a follow-up review link, and then add the **Review Platform Name** and the **Review Link** in the **External Review Platform** section under **Address and Contact** FastTab.
 
    ![](media/garagehive-external-review-follow-up4.png)
 
-3. Repeat these steps for each location where you want to add a follow-up review link.
+4. Repeat these steps for each location where you want to add a follow-up review link.
 
 {% include tip.html title="Note" text="If the review link is the same for all locations, there is no need to add a review link in the location card. Use the setup for a single location." %}
 
