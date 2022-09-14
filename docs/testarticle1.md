@@ -16,7 +16,7 @@ As a new **Tyre Scanner** customer, you should first register as follows:
 2.  Fill out all the details in the Word document. To obtain the **Endpoint URL** required in the word document's final section, select the ![](media/search icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
 3.  In the **Tyre Scan Setup** page, click **Get Endpoint Url** and copy the URL from the pop-up notification.
 
-   ![](media/garagehive-tyre-scanner0.gif)
+   ![](media/garagehive-tyre-scanner0.png)
 
 4.  Compose an email to info.uk@tscan.eu, attach the Word document and company logo, and send it.
 
