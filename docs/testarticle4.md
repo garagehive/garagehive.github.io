@@ -3,6 +3,8 @@ layout: docs
 title: How to Merge Duplicate Records
 ---
 
+# How to Merge Duplicate Records
+
 ## In this article
 1. [How to Merge Duplicate Records](#how-to-merge-duplicate-records)
 2. [How to Merge Duplicate Records with Conflicts](#how-to-merge-duplicate-records-with-conflicts)
