@@ -21,12 +21,12 @@ Physical stock takes enable comparisons between items in the system and those th
    
    ![](media/garagehive-physical-stock-take3.gif)
 
-8. After physically couinting the items in your store, come back to the system table and fill in the **Qty. (Phys. Inventory)** column with the actual count that you have done. Currently the column is filled in with the same quantity as it is in the system.
-9. The **Entry Type** column indicates the type of transaction that will be created by the item journal line. It is **Positive Adjustment** by default if the quantity on the columns **Qty. (Calculated)** - from the system, and column **Qty. (Phys. Inventory)** - from the physical count are equal. When you fill in the **Qty. (Phys. Inventory)** column, the **Entry Type** column changes depending on whether it is a **Negative or Positive Adjustment**.
+8. After physically counting the items in your store, come back to the system table and fill in the **Qty. (Phys. Inventory)** column with the actual count that you have done. Currently the column is filled in with the same quantity as it is in the system.
+9. The **Entry Type** column indicates the type of entry that will be created by the item journal line. It is **Positive Adjustment** by default if the quantity on the columns **Qty. (Calculated)** - from the system, and column **Qty. (Phys. Inventory)** - from the physical count are equal. When you fill in the **Qty. (Phys. Inventory)** column, the **Entry Type** column changes to either **Negative Adjustment** or **Positive Adjustment** depending on the discrepancy between physical and system quantities.
 
    ![](media/garagehive-physical-stock-take4.gif)
 
-10. After filling out the **Qty (Phys. Inventory)** column and confirming that the quantities are correct and that the **Entry Type** column contains the accurate transaction, select **Post/Print** from the actions bar, and then **Post** to post the item journals. This will make the quantities in the system equal to the quantities in physical.
+10. After filling out the **Qty (Phys. Inventory)** column and confirming that the quantities are correct and that the **Entry Type** column is accurate;;;;;, select **Post/Print** from the actions bar, and then **Post** to post the item journals. This will make the quantities in the system equal to the quantities in physical.
 
    ![](media/garagehive-physical-stock-take5.gif)
 
