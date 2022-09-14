@@ -3,7 +3,13 @@ layout: docs
 title: What's New in Garage Hive
 ---
 # What's new?
-Below is a brief list of Garage Hive developments:
+Below is a list of Garage Hive developments:
+
+### 14th September 2022
+* When you open a vehicle's **MOT History**, you'll see a notification that tells you when it was last updated and gives you the option of updating.
+
+   ![](media/garagehive-mot-history-notification.png)
+
 
 ### 15th August 2022
 * Added the **Workshop Application** (Autodata) to the Checklist to help technicians in looking up timing belt internals, minimum brake specifications, and so on.
