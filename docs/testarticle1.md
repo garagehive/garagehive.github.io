@@ -3,6 +3,8 @@ layout: docs
 title: Tyre Scanner Integration in Garage Hive
 ---
 
+# Tyre Scanner Integration in Garage Hive
+
 ## In this article
 1. [Tyre Scanner New Account Registration](#tyre-scanner-new-account-registration)
 2. [Tyre Scanner System Setup](#tyre-scanner-system-setup)
