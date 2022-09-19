@@ -14,13 +14,13 @@ title: Tyre Scanner Integration in Garage Hive
 
 ### Tyre Scanner New Account Registration
 As a new **Tyre Scanner** customer, you should first register as follows:
-1.  Click this [link](https://docs.google.com/forms/d/e/1FAIpQLSfM5vv00IhOp3UTMwX0VPKpmUkvgaQle8uPVELZTlyVtbwBFw/viewform){:target="_blank"} to enter the necessary information required the creation and setup of your customer account.
-2.  Fill out all the details in the form, as required. To obtain the **Endpoint URL**, which is required in the form, select the ![](media/search icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
+1.  Click this [link](https://docs.google.com/forms/d/e/1FAIpQLSfM5vv00IhOp3UTMwX0VPKpmUkvgaQle8uPVELZTlyVtbwBFw/viewform){:target="_blank"} to enter the necessary information required for the creation and setup of your customer account.
+2.  Fill out all the details in the form, as required. To obtain the **Endpoint URL**, which is required in the form, select the ![](media/search_icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
 3.  In the **Tyre Scan Setup** page, click **Get Endpoint Url** and copy the URL from the pop-up notification.
 
      ![](media/garagehive-tyre-scanner0.png)
 
-4.  When you've finished filling out the form, click **Submit** and wait to hear from the **tScan** team.
+4.  When you've finished filling out the form, click **Submit** and wait back to hear from the **tScan** team.
 
 ### Tyre Scanner System Setup
 To connect the **Tyre Scanner** to the system:
