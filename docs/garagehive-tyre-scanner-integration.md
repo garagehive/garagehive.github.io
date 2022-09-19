@@ -20,7 +20,7 @@ As a new **Tyre Scanner** customer, you should first register as follows:
 
      ![](media/garagehive-tyre-scanner0.png)
 
-4.  When you've finished filling out the form, click **Submit** and wait back to hear from the **tScan** team.
+4.  When you've finished filling out the form, click **Submit** and wait to hear back from the **tScan** team.
 
 ### Tyre Scanner System Setup
 To connect the **Tyre Scanner** to the system:
