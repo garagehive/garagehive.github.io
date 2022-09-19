@@ -5,6 +5,16 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 19th September 2022
+* Added **Tyre Scanner** integration which enables the Garage Hive System to receive data from the tyre scanner devices and add it to the checklist, [read more](https://docs.garagehive.co.uk/docs/garagehive-tyre-scanner-integration.html){:target="_blank"}.
+* Added the ability to follow-up with the customer for a review in **Customer Surveys** for the customer who rate the garage services with the defined NPS score, [read more](https://docs.garagehive.co.uk/docs/garagehive-adding-external-review-follow-up.html){:target="_blank"}.
+
+   ![](media/garagehive-follow-up-review-survey.png)
+
+* Added an opt-in service for garages that allows them to anonymously share their data and view the **Garage Industry Trends** based on data shared by other garages who have opted in for the service. The data is based on the KPIs **Average Future Bookings**, **Average Invoice Value**, **Labour Rate**, and **NPS score**.
+
+   ![](media/garagehive-garage-industry-trends.png)
+
 ### 16th September 2022
 * Power BI Changes:
       - Added Published online % to VIE Estimate Analysis.
