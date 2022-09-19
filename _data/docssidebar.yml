@@ -313,6 +313,8 @@
           url: /docs/garagehive-surveys-reviewing-your-customer-surveys.html
         - name: Sending Review Requests on Completed Survey Entries
           url: /docs/garagehive-surveys-sending-review-requests-on-completed-survey-entries.html
+        - name: Adding External Review Follow-up on Customer Surveys
+          url: /docs/garagehive-adding-external-review-follow-up.html
     - name: Internal Surveys
       url: /docs/garagehive-internal-surveys.html
       subitems:
@@ -491,6 +493,8 @@
           url: /docs/garagehive-creating-a-vehicle-inspection-checklist-from-autodata.html
     - name: GSF Integration
       url: /docs/garagehive-gsf-integration.html
+    - name: Tyre Scanner Integration
+      url: /docs/garagehive-tyre-scanner-integration.html
 - name: FAQs
   url: "#"
   subitems:

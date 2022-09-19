@@ -5,6 +5,22 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 16th September 2022
+* Power BI Changes:
+      - Added Published online % to VIE Estimate Analysis.
+      - Added Average VIE Value to Monthly/Weekly Analysis Reports.
+      - Added a worktime data filter to the WIP report.
+      - All reports now sort by descending date.
+      - Added GP Per Hour to Service Type report.
+
+* Power BI New Reports:
+    - Customer / Vehicle Count - This report displays the ratio of customers/vehicles to posted Jobsheets.
+    - Deleted Jobsheet Analysis - This report displays how many Jobsheets are deleted each month by Reason, Service Type and Advisor. 
+    - Vehicle On-Site Time Analysis - This report displays the average time a vehicle is on-site by Location and Service Advisors. 
+    - VI-E Time Log Analysis - This report displays the time taken to process a Vehicle Inspection Estimate and the time taken during each status. 
+    - Tyre Scans - This report displays the number of Tyre scans, average tread depth, count of urgent and advisory tyres and recommended alignments. 
+    - GP Targets - This set of reports displays your accumulated Gross Profit for the defined period against your Gross Profit Target. 
+
 ### 14th September 2022
 * When you open a vehicle's **MOT History**, you'll see a notification that tells you when it was last updated and gives you the option of updating.
 
