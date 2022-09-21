@@ -497,6 +497,8 @@
       url: /docs/garagehive-gsf-integration.html
     - name: Tyre Scanner Integration
       url: /docs/garagehive-tyre-scanner-integration.html
+- name: Garage Industry Trends
+  url: /docs/garagehive-garage-industry-trends.html
 - name: FAQs
   url: "#"
   subitems:
