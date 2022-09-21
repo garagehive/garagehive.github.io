@@ -34,3 +34,15 @@ title: How to Set Business Targets (Gross Profit) in Garage Hive
      ![](media/garagehive-business-targets7.png)
 
 10. If you need to edit the file in bulk, simply **Export** it, edit it, and then **Import** it; otherwise, you can edit individual lines from the **Business Targets** page.
+
+
+<br>
+
+### **See Also**
+[Video - How to install the Garage Hive Power BI report](https://youtu.be/iO17qPjBAc0) \
+[How to set your Average Labour Rate](garagehive-labour-rate.html) \
+[Installing the Power BI App](powerbi-installing-app.html) \
+[Refreshing your Power BI data](powerbi-refresh-data.html) \
+[Updating your Power BI App](powerbi-updating-app.html) \
+[Updating your Power BI credentials](powerbi-updating-app.html) \
+[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html) 
