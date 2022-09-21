@@ -35,3 +35,5 @@ Any Garage Hive customer can opt-in to the service and share their data anonymou
 
    ![](media/garagehive-garage-industry-trends6.png)
 
+{% include tip.html title="Note" text="If you do not see the Garage Industry Trends sub-section on the home screen, please contact the support team at help@garagehive.co.uk." %}
+
