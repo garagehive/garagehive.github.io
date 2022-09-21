@@ -12,7 +12,7 @@ title: Garage Industry Trends
 
       ![](media/garagehive-garage-industry-trends1.png)
 
-Any Garage Hive customer can opt-in to the service and share their data anonymously, as the more garages that participate, the more accurate the industry averages will be. Before you opt-in, please read the **Terms of Service** [here](https://garagehive.co.uk/tos/). The following is the process for opting in:
+Any Garage Hive customer can opt-in to the service and share their data anonymously, as the more garages that participate, the more accurate the industry averages will be. Before you opt-in, please read the **Terms of Service** [here](https://garagehive.co.uk/tos/){:target="_blank"}. The following is the process for opting in:
 1. Scroll down to the **Garage Industry Trends** section on the Garage Hive **Home Screen** and select the **Enable** action.
 
    ![](media/garagehive-garage-industry-trends2.png)
