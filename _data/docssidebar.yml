@@ -56,6 +56,8 @@
       url: /docs/powerbi-update-credentials.html
     - name: Deleting Your Old Power BI App and Install New One
       url: /docs/garagehive-delete-old-powerbi-app-and-install-new-one.html
+    - name: How to Set Business Targets
+      url: /docs/garagehive-how-to-set-business-targets.html
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
