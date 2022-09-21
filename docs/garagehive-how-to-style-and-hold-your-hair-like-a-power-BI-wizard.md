@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to style and hold your fair like a power BI wizard
+title: How to style and hold your hair like a Power BI wizard
 ---
 
 ### Read More About Power BI here
