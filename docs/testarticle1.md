@@ -25,3 +25,13 @@ Any Garage Hive customer can opt-in to the service and share their data anonymou
 4. The service is now activated, and your garage's data will be shared and presented as a rolling 30-day average in combination with data from garages that have opted-in.
 
    ![](media/garagehive-garage-industry-trends4.png)
+
+5. To open the Garage Industry Trends website, go to the Home Screen and select the **Open** action in the **Garage Industry Trends** section.
+
+   ![](media/garagehive-garage-industry-trends5.png)
+
+6. To view the data that is being calculated, stored and shared from your system, search for **Industry Trends Entries** in the top right corner ![](media/search_icon.png) icon, and select the related link.
+7. The page that opens shows the different data that have already been shared from your system.
+
+   ![](media/garagehive-garage-industry-trends6.png)
+
