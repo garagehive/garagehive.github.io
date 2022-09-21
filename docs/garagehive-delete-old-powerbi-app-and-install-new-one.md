@@ -21,4 +21,5 @@ title: How to Delete Your Old Power BI App and Install the New One
 [How to set your Average Labour Rate](garagehive-labour-rate.html) \
 [Refreshing your Power BI data](powerbi-refresh-data.html) \
 [Updating your Power BI App](powerbi-updating-app.html) \
-[Updating your Power BI credentials](powerbi-updating-app.html)
+[Updating your Power BI credentials](powerbi-updating-app.html) \
+[How to Set Business Targets](garagehive-how-to-set-business-targets.html)
