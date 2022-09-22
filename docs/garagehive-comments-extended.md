@@ -4,12 +4,13 @@ title: How to Use Comments in Garage Hive
 ---
 
 # In this article
-1. [Adding comments in a document](#adding-comments-in-a-document)
-2. [How to use extended comments](#how-to-use-extended-comments)
-3. [Creating standard comments](#creating-standard-comments)
-4. [Adding comments in a card](#adding-comments-in-a-card)
+1. [Adding Comments in a Document](#adding-comments-in-a-document)
+2. [How to Use Extended Comments](#how-to-use-extended-comments)
+3. [Creating Standard Comments](#creating-standard-comments)
+4. [Adding Comments in a Card](#adding-comments-in-a-card)
+5. [Adding Predefined Jobsheet Comments](#adding-predefined-jobsheet-comments)
 
-### Adding comments in a document
+### Adding Comments in a Document
 To add a new comment in a document:
 1. Open the document and scroll down to the **Comments** subpage. 
 2. Select a **Type Code** or create your own custom **Type Code** with the following set-up:
@@ -38,14 +39,14 @@ To add a new comment in a document:
 
    ![](media/garagehive-comment-phone-input.png)
 
-### How to use extended comments
+### How to Use Extended Comments
 **Comment (Extended)** is a function in Garage Hive that enables you to write comments which are longer and with more details. This function is available on all documents, can be printed in documents and has the possibility of hiding from the technicians.
 
 Under the **Comments** subpage, clicking on the **Comment(extended)** field will open a pop-out window that can be made full screen and allows you to type as much text as you want. When you move your cursor over the **Comment (extended)** field, a pop-up preview of the full comment appears. 
 
    ![](media/garagehive-comments2.gif)
 
-### Creating standard comments
+### Creating Standard Comments
 You can also have standard comments that can be used multiple times. This helps to ensure consistency and makes it easier to remember what to write. Here's how to create a standard comment:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Comments Types**, and select the related link.
 
@@ -60,7 +61,7 @@ You can also have standard comments that can be used multiple times. This helps 
 
    ![](media/garagehive-comments5.gif)
 
-### Adding comments in a card
+### Adding Comments in a Card
 To add a new comment in card, for example a **Customer Card**:
 1. Open the **Customer Card**, then select **Customer** and then **Comments** from the actions bar.
 2. Add the comment and then close the card.
@@ -71,8 +72,33 @@ To add a new comment in card, for example a **Customer Card**:
 
    ![](media/garagehive-comments8.gif)
 
+### Adding Predefined Jobsheet Comments
+**Predefined Jobsheet Comments** can be added using **Service Types** or **Service Packages**, which means that when a Service Type or a Serviced Package is added to the Jobsheet, the predefined comments are automatically added in the **Comments** sub-page. To add predefined comments:
+1. Search for **Service Types** in the top right corner ![](media/search_icon.png) icon, and select the related link.
+
+   ![](media/garagehive-comments9.png)
+
+2. Select the Service Type for which you want predefined comment(s), then scroll down to the **Predefined Jobsheet Comments** sub-page, select the comment **Type Code**, and enter the comment in the **Comment(Extended)** column. You may add as many comments as you need.
+3. Select the checkbox in the **Print on Document** or **Attention** column if you want it printed on the document or marked as **Attention**.
+
+   ![](media/garagehive-comments10.png)
+
+4. When finished, close the page.
+5. Similarly, to add the predefined comment(s) in **Service Packages**, go to the **Catalogues** menu on the home screen and select **Service Packages**.
+
+   ![](media/garagehive-comments11.png)
+
+6. Select the **Service Package** for which you want to add predefined comment(s), then scroll down to the **Predefined Jobsheet Comments** sub-page, select the comment **Type Code**, and enter the comment in the **Comment (Extended)** column.
+
+   ![](media/garagehive-comments12.png)
+
+7. When a **Service Type** or **Service Package** with a predefined comment is added to the Jobsheet, the comment(s) are automatically added to the **Comments** subpage.
+
+   ![](media/garagehive-comments13.png)
+
+
 <br>
 
 ### See Also
 
-[Video: How to use comments on service documents in Garage Hive](https://www.youtube.com/watch?v=ebt1UsiP28k){:target="_blank"} \
+[Video: How to use comments on service documents in Garage Hive](https://www.youtube.com/watch?v=ebt1UsiP28k){:target="_blank"}
