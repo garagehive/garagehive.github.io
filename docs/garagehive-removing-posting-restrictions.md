@@ -3,36 +3,27 @@ layout: docs
 title: Removing and Adding Posting Restrictions   
 ---
 
-#   Removing and Adding Posting Restrictions
+## Removing and Adding Posting Restrictions
+Garage Hive is set up by default with a posting restriction for both Sales and Purchase Invoices. This is done to prevent documents from being posted to the original document date rather than the actual date when they are posted to the ledgers. 
 
-Garage Hive as default is set with a posting restriction for both Sales and Purchase Invoices. This is to prevent documents being posted to the original document date rather than the actual date when the document is being posted to the ledgers. 
+This can be removed, but it is recommended that you return the restriction once you have completed any rectification work. 
 
-This can be removed however it is recommended placing the restriction back on once you have completed any rectification work. 
+### To remove the posting restriction:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **User Management** and select the related link. 
 
-####    To remove the posting restriction 
+   ![](media/garagehive-removing-posting-restriction1.png)
 
-*   Click on the ![](media/search_icon.png) in the top right hand corner. 
-*   Search for User Setup 
-*   Select User Setup from the List 
+2. Select the relevant user name from the list who needs the restriction removed, and then select **Manage** followed by **Edit** from the actions bar.
 
-![](media/garagehive-removing-posting-restriction1.png)
+   ![](media/garagehive-removing-posting-restriction2.png)
 
-**You will then see a list of all of your users within Garage Hive.**
+3. Scroll down to the **Other** FastTab on the **Manage User** page to find the **Service Posting Only Today** and **Purchase Posting Only Today** sliders. By removing this slider option, the User will now be able to post a document to a previous date. 
 
-*   Highlight the relevant user name from the list who needs the restriction removing. 
-*   Select Manage from the Taskbar 
-*   Choose ✏ Edit
+   ![](media/garagehive-removing-posting-restriction3.png)
 
-![](media/garagehive-removing-posting-restriction2.png)
 
-**This will open up the User Setup Card** 
+### To return the posting restriction:
 
-*   Within the User Setup Card, you will see Service Posting Only Today and Purchase Posting Only Today. By removing this slider selection this will now enable that User to post a document to a previous date. 
+1. Confirm that the sliders for **Service Posting Only Today** and **Purchase Posting Only Today** have been reselected.  
 
-![](media/garagehive-removing-posting-restriction3.png)
-
-####    To replace the posting restriction 
-
-*   Ensure that the slider against either Service Posting Only Today and Purchase Posting Only Today has been reselected.   
-
-***Please note, that all documents default the posting date to the date they were created, therefore if the restriction is not put back on you may have issues with incorrect dates for both Sales and Purchase Invoices.***
+{% include tip.html title="Note" text="Since all documents default the posting date to the date they were created, if the restriction is not returned, you may encounter issues with incorrect dates for both Sales and Purchase Invoices." %}
