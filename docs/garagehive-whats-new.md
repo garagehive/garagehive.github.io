@@ -11,9 +11,11 @@ Below is a list of Garage Hive developments:
 
    ![](media/garagehive-follow-up-review-survey.png)
 
-* Added an opt-in service for garages that allows them to anonymously share their data and view the **Garage Industry Trends** based on data shared by other garages who have opted in for the service. The data is based on the KPIs **Average Future Bookings**, **Average Invoice Value**, **Labour Rate**, and **NPS score**.
+* Added an opt-in service for garages that allows them to anonymously share their data and view the **Garage Industry Trends** based on data shared by other garages who have opted in for the service. The data is based on the KPIs **Average Future Bookings**, **Average Invoice Value**, **Labour Rate**, and **NPS score**, [read more](https://docs.garagehive.co.uk/docs/garagehive-garage-industry-trends.html){:target="_blank"}.
 
    ![](media/garagehive-garage-industry-trends.png)
+
+* Added the ability to automatically add pre-defined comments to jobs when using service types or service packages, [read more](https://docs.garagehive.co.uk/docs/garagehive-comments-extended.html#adding-predefined-jobsheet-comments){:target="_blank"}.
 
 ### 16th September 2022
 * Power BI Changes:
