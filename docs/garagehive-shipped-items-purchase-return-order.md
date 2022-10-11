@@ -88,12 +88,12 @@ As an example, suppose you created two separate **Purchase Return Orders** and s
 
    ![](media/garagehive-shipped-items-purchase-return-order12.png)
 
-6. Find the relevant parts from the pop-up box and select **Ok**. Repeat this step for each item on the **Vendor Invoice**.
+6. Find the relevant parts from the pop-up box and select **Ok**. Repeat this step for each item on the **Vendor Credit Memo**.
 7. This will add all the parts onto the **Purchase Credit Memo**.
 
    ![](media/garagehive-shipped-items-purchase-return-order12.gif)
 
-8. Once you have all of the parts from the Credit Memo from your supplier on the Purchase Credit Memo, select **Posting** followed by **Post**.  
+8. Once you have all the parts from the Credit Memo from your supplier on the Purchase Credit Memo, select **Posting** followed by **Post**.  
 
    ![](media/garagehive-shipped-items-purchase-return-order15.png)
 

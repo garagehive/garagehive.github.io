@@ -5,15 +5,23 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 11th  October 2022
+* Added the **Checklist** page action to vehicle sales admin role centre by default.
+* Added the **request call back** function to online checklists.
+* As requested at **The Blend 2022**, we made the **Time Log Entries** page accessible from documents operationally.
+* As requested at **The Blend 2022**, we added the **Sent-to Emails** column in the **Sent Emails** page.
+
 ### 19th September 2022
 * Added **Tyre Scanner** integration which enables the Garage Hive System to receive data from the tyre scanner devices and add it to the checklist, [read more](https://docs.garagehive.co.uk/docs/garagehive-tyre-scanner-integration.html){:target="_blank"}.
 * Added the ability to follow-up with the customer for a review in **Customer Surveys** for the customer who rate the garage services with the defined NPS score, [read more](https://docs.garagehive.co.uk/docs/garagehive-adding-external-review-follow-up.html){:target="_blank"}.
 
    ![](media/garagehive-follow-up-review-survey.png)
 
-* Added an opt-in service for garages that allows them to anonymously share their data and view the **Garage Industry Trends** based on data shared by other garages who have opted in for the service. The data is based on the KPIs **Average Future Bookings**, **Average Invoice Value**, **Labour Rate**, and **NPS score**.
+* Added an opt-in service for garages that allows them to anonymously share their data and view the **Garage Industry Trends** based on data shared by other garages who have opted in for the service. The data is based on the KPIs **Average Future Bookings**, **Average Invoice Value**, **Labour Rate**, and **NPS score**, [read more](https://docs.garagehive.co.uk/docs/garagehive-garage-industry-trends.html){:target="_blank"}.
 
    ![](media/garagehive-garage-industry-trends.png)
+
+* Added the ability to automatically add pre-defined comments to jobs when using service types or service packages, [read more](https://docs.garagehive.co.uk/docs/garagehive-comments-extended.html#adding-predefined-jobsheet-comments){:target="_blank"}.
 
 ### 16th September 2022
 * Power BI Changes:
