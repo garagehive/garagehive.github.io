@@ -5,6 +5,12 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 11th  October 2022
+* Added the **Checklist** page action to vehicle sales admin role centre by default.
+* Added the **request call back** function to online checklists.
+* As requested at **The Blend 2022**, we made the **Time Log Entries** page accessible from documents operationally.
+* As requested at **The Blend 2022**, we added the **Sent-to Emails** column in the **Sent Emails** page.
+
 ### 19th September 2022
 * Added **Tyre Scanner** integration which enables the Garage Hive System to receive data from the tyre scanner devices and add it to the checklist, [read more](https://docs.garagehive.co.uk/docs/garagehive-tyre-scanner-integration.html){:target="_blank"}.
 * Added the ability to follow-up with the customer for a review in **Customer Surveys** for the customer who rate the garage services with the defined NPS score, [read more](https://docs.garagehive.co.uk/docs/garagehive-adding-external-review-follow-up.html){:target="_blank"}.
