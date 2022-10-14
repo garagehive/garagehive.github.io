@@ -39,28 +39,35 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
     ![](media/garagehive-xero-setup.png)
 
-1. To get started with the integration, you'll need to create an "app" in Xero. Sign in with your Xero credentials at [this link](https://developer.xero.com/myapps/){:target="_blank"}. Now, in the middle or top right of the screen, choose **New App**.
-1. Name the App; It should be unique, thus we recommend using **GarageName-GH**, but it may be anything. Fill up the details shown below and **Create The App**.
+1. To get started with the integration, you'll need to create an "**App**" in Xero. Sign in with your Xero credentials at [this link](https://developer.xero.com/myapps/){:target="_blank"}. Now, in the middle or top right of the screen, choose **New App**.
+1. Name the App; It should be unique, thus we recommend using **GarageName-GH**, but it may be any other name that you choose. Fill up the details shown below.
    * **Company or Application URL** - ht<span>tps://www.garagehive.co.uk
-   * **OAuth 2.0 redirect URI** - ht<span>tps://hivemgtservice.garagehive.co.uk/xero-oauth2/callback
+   * **Redirect URL** - ht<span>tps://hivemgtservice.garagehive.co.uk/xero-oauth2/callback
+
+1. Select the **Terms & Conditions** checkbox and then click **Create App**.
 
      ![](media/xero-2-orth-app.png)
 
-1. Once created, copy the client id and paste it into Garage Hive in the **Xero Client Id** field under **Xero** FastTab.
-1. Then choose Generate secret, copy it, and enter it into Garage Hive in the **Xero Client Secret** field.
-1. Select **Save** in Xero.
+1. In the next page, select **Configuration** on the left hand side.
+
+     ![](media/xero-2-orth-app1.png)
+
+1. Copy the client id and paste it into Garage Hive in the **Xero Client Id** field under **Xero** FastTab.
+1. Then choose **Generate a Secret**, copy it, and enter it into Garage Hive in the **Xero Client Secret** field.
 
      ![](media/xero-2-orth-app-2.png)
 
-1. Now, under Garage Hive's **Accountancy Integration Setup**, from the actions bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
+     ![](media/xero-2-orth-app2.png)
+
+     ![](media/xero-2-orth-app3.png) 
+
+2. Now, under Garage Hive's **Accountancy Integration Setup**, from the actions bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
 
      ![](media/xero-2-orth-app-3.png)
 
-1. You will be redirected to a **Xero Website** where you will be prompted to select the correct company and update the connection details.
+3. You will be redirected to the **Xero Website** and prompted to select **Allow Access** before a successful integration is confirmed.
 
      ![](media/xero-2-orth-app-4.png)
-
-1. Select **Allow** access, and a successful integration will be confirmed.
 
      ![](media/xero-2-orth-app-5.png)
 
