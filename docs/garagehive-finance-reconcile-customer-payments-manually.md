@@ -20,7 +20,7 @@ You can apply customer payments manually in the **Cash Receipt Journal** window.
 You can also apply customer and vendor payments in the **Payment Reconciliation Journal** window, by using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](garagehive-finance-reconcile-payments-auto-application.html). Alternatively, you can reconcile customer payments based on a list of unpaid sales documents in the **Payment Registration** window. For more information, see [Reconcile Customer Payments From a List of Unpaid Sales Documents](garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html)
 
 ## <a name="to-fill-and-post-a-cash-receipt-journal"></a>To fill and post a cash receipt journal
-1. Choose the search icon, enter **Cash Receipt Journal**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Cash Receipt Journal**, and then choose the related link.
 2. Choose the **Edit Journal** action.
 3. Select the relevant batch in the **Batch Name** field.
 4. Fill in the **Posting Date** field.  
@@ -36,7 +36,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 12. Post the journal.
 
 ## <a name="to-apply-a-payment-to-a-single-customer-ledger-entry"></a>To apply a payment to a single customer ledger entry
-1. Choose the search icon, enter **Cash Receipt Journal** and choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Cash Receipt Journal** and choose the related link.
 2. Choose the **Edit Journal** action.
 3. On the first journal line, enter the relevant information about the entry to be applied.
 4. In the **Document Type** field, enter **Payment**.
@@ -51,7 +51,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 11. Post the cash receipt journal.
 
 ## <a name="to-apply-a-payment-to-multiple-customer-ledger-entries"></a>To apply a payment to multiple customer ledger entries
-1. Choose the search icon, enter **Cash Receipt Journal**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Cash Receipt Journal**, and then choose the related link.
 2. Choose the **Edit Journal** action.
 3. On the first journal line, enter the relevant information about the entry to be applied.
 4. In the **Document Type** field, enter **Payment**.
@@ -67,7 +67,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 12. Post the cash receipt journal.
 
 ## <a name="to-apply-a-credit-memo-to-a-single-customer-ledger-entry"></a>To apply a credit memo to a single customer ledger entry
-1. Choose the search icon, enter **Sales Credit Memos**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Sales Credit Memos**, and then choose the related link.
 2. Open the relevant sales credit memo.
 3. To apply the credit memo to a single customer ledger entry when posting, in the **Applies-to Doc. No.** field, select the entry to which you want to apply the payment.
 4. On the line in the **Amount to Apply** field, enter the amount you want to apply to the entry.  
@@ -77,7 +77,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 6. Post the credit memo.
 
 ## <a name="to-apply-a-credit-memo-to-multiple-customer-ledger-entries"></a>To apply a credit memo to multiple customer ledger entries
-1. Choose the search icon, enter **Sales Credit Memos**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Sales Credit Memos**, and then choose the related link.
 2. Open the relevant sales credit memo.
 3. To apply the credit memo to multiple customer ledger entries when posting, choose the **Apply Entries** action.
 4. Select the lines with the entries that you want the applying entry to be applied to, and then choose the **Set Applies-to ID** action.
@@ -88,7 +88,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 7. Post the credit memo.
 
 ## <a name="to-apply-posted-customer-ledger-entries"></a>To apply posted customer ledger entries
-1. Choose the search icon, enter **Customers**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Customers**, and then choose the related link.
 2. Open the customer card for the customer with entries that you want to apply.
 3. Choose the **Ledger Entries** action, and then select the line with the entry that will be the applying entry.
 4. Choose the **Apply Entries** action. The **Apply Customer Entries** window opens showing the open entries for the customer.
@@ -100,7 +100,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 8. Choose the **OK** button to post the application.
 
     If the posted application has resulted in closed customer ledger entries, the **Open** field is cleared for these ledger entries.    
-9. To see the ledger entries, choose the search icon, enter **Customers**, and then choose the related link. Browse to the card for the relevant customer to see the ledger entries.  
+9. To see the ledger entries, choose the ![](media/search_icon.png) icon, enter **Customers**, and then choose the related link. Browse to the card for the relevant customer to see the ledger entries.  
 
 On the ledger entry list, on the line that contains the ledger entry that was fully applied to, you can see that the **Open** check box is not selected.  
 
@@ -111,7 +111,7 @@ On the ledger entry list, on the line that contains the ledger entry that was fu
 ## <a name="to-correct-an-application-of-customer-entries"></a>To correct an application of customer entries
 When you correct an application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.  
 
-1. Choose the search icon, enter **Customers**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Customers**, and then choose the related link.
 2. Open the relevant customer card.
 3. Choose the **Ledger Entries** action.
 4. Select the relevant ledger entry, and then choose the **Unapply Entries** action.

@@ -26,7 +26,7 @@ So, when you analyse entries in your system, the branch dimension values show yo
 
 ### Setting up dimensions
 To set up Dimensions in your system:
-1.	Choose the search icon, enter **Dimensions**, and then select the related link.
+1.	Choose the ![](media/search_icon.png) icon, enter **Dimensions**, and then select the related link.
 2.	On the **Dimensions** page, add the dimensions to work with in your system, such as **Area**, **Branch**, **Department** etc.
 
    ![](media/garagehive-setting-up-dimensions1.gif)
@@ -38,7 +38,7 @@ To set up Dimensions in your system:
 
 ### Defining dimensions in the General Ledger Setup
 You can define dimensions on the **General Ledger Setup** page as follows:
-1.	Choose the search icon, enter **General Ledger Setup**, and select the related link.
+1.	Choose the ![](media/search_icon.png) icon, enter **General Ledger Setup**, and select the related link.
 
    ![](media/garagehive-defining-general-ledger-setup-dimensions1.gif)
 
@@ -78,7 +78,7 @@ You can create **Default Dimensions** to documents for specific accounts, custom
 
 ### Correcting dimensions
 If you discover that an incorrect dimension has been used on posted general ledger entries, you can correct the dimension values; this helps in keeping the financial reports and analyses accurate. To start a dimension correction:
-1.	Choose the search icon, enter **General Ledger Entries**, and choose the related link.
+1.	Choose the ![](media/search_icon.png) icon, enter **General Ledger Entries**, and choose the related link.
 
    ![](media/garagehive-correcting-dimensions1.gif)
 

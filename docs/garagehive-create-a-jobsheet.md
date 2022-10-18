@@ -92,7 +92,7 @@ To setup Jobsheet deletion reasons:
 
    ![](media/garagehive-create-a-jobsheet9.gif)
 
-3. To personalise your Jobsheet deletion reasons, click the search icon, enter **Document Deletion Reasons**, and select the related link.
+3. To personalise your Jobsheet deletion reasons, choose the ![](media/search_icon.png) icon, enter **Document Deletion Reasons**, and select the related link.
 4. Choose **New** from the actions bar, then **Document Type** as **Jobsheet**, a **Code** for the reason, and then the description. For example, you may enter **Booking** as the code and **Booking Cancelled** as the description.
 5. Add several reasons and then exit the page when done.
 

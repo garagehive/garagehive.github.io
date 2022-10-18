@@ -25,7 +25,7 @@ To integrate your external accountancy system with Garage Hive:
 
    ![](media/garagehive-external-accountancy-integration3-b.png)
 
-7. You should then integrate the **Chart of Accounts** to the external system. In the search icon, enter **Chart of Accounts** and select the related link.
+7. You should then integrate the **Chart of Accounts** to the external system. Choose the ![](media/search_icon.png) icon, enter **Chart of Accounts** and select the related link.
 8. In the **Chart of Accounts** page, select **Edit List** from the actions bar.
 
    ![](media/garagehive-external-accountancy-integration4.gif)
@@ -37,7 +37,7 @@ To integrate your external accountancy system with Garage Hive:
 
    ![](media/garagehive-external-accountancy-integration5.gif)
 
-11. Finally, add the **External System No.** to the **Payments Methods**. In the search icon, type **Payment Methods** and select the related link.
+11. Finally, add the **External System No.** to the **Payments Methods**. Choose the ![](media/search_icon.png) icon, type **Payment Methods** and select the related link.
 12. In the **External System No.** column, enter the corresponding code for the **Payment Methods** that you use in your external system.
 
    ![](media/garagehive-external-accountancy-integration6.gif)

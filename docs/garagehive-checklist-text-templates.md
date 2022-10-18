@@ -17,7 +17,7 @@ The **Checklist Text Templates** feature allows you to pre-assign templates in c
    ![](media/garagehive-checklist-text-templates2.gif)
 
 5. After you've added the **Checklist Text Templates**, you'll need to enable them in the **Checklist Template**; learn more about **Checklist Templates** [here](garagehive-checklist-how-to-create.html).
-6. Enter **Checklist Templates** in the search icon and select the related link. Choose one of the **Checklist Templates** from the list to which you want to add the **Checklist Text Templates** that you have created. In this case we'll use the **VHC Checklist Template**. 
+6. Enter **Checklist Templates** in the ![](media/search_icon.png) icon, and select the related link. Choose one of the **Checklist Templates** from the list to which you want to add the **Checklist Text Templates** that you have created. In this case we'll use the **VHC Checklist Template**. 
 7. Select **Linked Item Groups** from the actions bar to open a list of **Checklist Template Item Groups** in the **Checklist Template**; learn more about **Checklist Template Item Groups** [here](garagehive-checklist-how-to-create.html).
 
    ![](media/garagehive-checklist-text-templates3.gif)

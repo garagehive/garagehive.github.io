@@ -5,7 +5,7 @@ title: Reconcile Payments Using the Automatic Application
 
 # Reconcile Payments Using the Automatic Application 
 Lines in the **Payment Reconciliation Journal** can be filled in by importing a bank statement as a file or manually entering transactions made on your payment service. The following describes how to reconcile payments using the automatic application:
-1. Choose the search icon on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
+1. Choose the ![](media/search_icon.png) icon, on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
 
    ![](media/garagehive-payment-reconciliation1.gif)
 

@@ -5,7 +5,7 @@ title: Map Text on Recurring Payments to Accounts for Automatic Reconciliation
 
 # Map Text on Recurring Payments to Accounts for Automatic Reconciliation 
 The **Map Text to Account** action allows you to create mappings between text on payments and specific debit, credit, and balancing accounts, ensuring that such payments are posted to the specified accounts when the payment reconciliation journal is posted. This is useful for recurring cash receipts or expenses, such as bank fees or interest, that regularly appear on the bank statement and do not require a related business document. The following describes how to map text on recurring payments to accounts for automatic reconciliation:
-1. Choose the search icon on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
+1. Choose the ![](media/search_icon.png) icon, on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
 2. Open a previously payment reconciliation journal.
 
    ![](media/garagehive-payment-reconciliation-map-text1.gif)
