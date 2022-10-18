@@ -20,7 +20,7 @@ For each journal line in the **Payment Reconciliation Journal** window, you can 
 >   You can start the bank transactions import at the same time as you open the **Payment Reconciliation** Journal window for an existing payment reconciliation journal in the **Payment Reconciliation Journals** window. The following procedure describes how to import bank transactions into the **Payment Reconciliation Journal** window after you have created a new journal.
 
 ## <a name="to-reconcile-payments-using-automatic-application"></a>To reconcile payments using automatic application
-1. Choose the search icon, enter **Payment Reconciliation Journals**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Payment Reconciliation Journals**, and then choose the related link.
 2. To work in a new payment reconciliation journal, choose the **New Journal** action.
 3. In the **Payment Bank Account List** window, select the bank account that you want to reconcile payments for, and then choose the **OK** button.
    The **Payment Reconciliation Journal** window opens prepared for the selected bank account.

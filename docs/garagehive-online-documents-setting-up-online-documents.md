@@ -45,7 +45,7 @@ If your system already has the service activated, the following steps will help 
 ### Customer notification set up
 The customer notification setup allows you to specify how the customer will receive the online documents link, when and after how long, and the message body. The following are the steps to take for the setup:
 
-1. From the search icon at the top-right corner, search for **Customer Notifications** and select it from the search results.
+1. From the ![](media/search_icon.png) icon, at the top-right corner, search for **Customer Notifications** and select it from the search results.
 2. From the window that opens, choose **Online Job Auth**.
 
    ![](media/garagehive-online-documents-setup5.gif)

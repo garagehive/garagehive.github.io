@@ -19,7 +19,7 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 2. The user licence will be added or removed, and you will now be able to manage the users in your system, as indicated in the sub-headings below.
 
 ### Creating a Service Advisor user
-1. Search for **User Management** in the search icon at the top-right corner. 
+1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner. 
 2. The user management table opens; it displays all the users, their roles, statuses, user licences and the GH User licences for the system (right-hand side).
 
     ![](media/garagehive-user-management1.gif)

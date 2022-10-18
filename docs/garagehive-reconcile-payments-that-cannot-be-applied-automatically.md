@@ -5,7 +5,7 @@ title: Reconcile Payments that Cannot be Applied Automatically
 
 # Reconcile Payments that Cannot be Applied Automatically 
 There may be no suggested application for journal lines; this could be due to a missing document or a customer overpaid, resulting in an excess amount after applying the payment to another journal line. In such cases, the **Transfer Difference to Account** action can be used to create and post the missing general ledger entry, such as a refund, that is required to apply the payment to. The following describes how to reconcile payments that cannot be applied automatically:
-1. Choose the search icon on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
+1. Choose the ![](media/search_icon.png) icon, on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
 2. Open a previously created Payment Reconciliation Journal with the payments to reconcile.
 
    ![](media/garagehive-payment-reconciliation-not-applied1.gif)

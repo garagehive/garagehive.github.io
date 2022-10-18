@@ -15,7 +15,7 @@ The primary make and model function helps to set conditions to apply when assign
 
 ### Setting the primary makes
 To set the Primary Makes:
-1. Search **Make List** from the search icon at the top-right corner, select it from the options that appear.
+1. Search **Make List** from the ![](media/search_icon.png) icon, at the top-right corner, select it from the options that appear.
 2. The window that opens lists all the defined primary make vehicles to use when assigning a service package condition.
 
     ![](media/garagehive-primary-make-and-model1.png)
@@ -56,7 +56,7 @@ After setting the primary make conditions, you can now set the primary models. T
 ![](media/garagehive-primary-make-and-model7.gif)
 
 The second method:
-1. Searching **Model List** in the search icon at the top-right corner and select it from the list. 
+1. Searching **Model List** in the ![](media/search_icon.png) icon, at the top-right corner and select it from the list. 
 2. The model list opens, and you can create a new model as explained above.
 
 ![](media/garagehive-primary-make-and-model8.gif)

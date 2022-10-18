@@ -12,7 +12,7 @@ Payments posted based on text-to-account mapping are not applied to open entries
 On a payment reconciliation journal line where the payment has been set to posting according to text-to-account mapping, the **Match Confidence** field contains **High - Text-to-Account Mapping**, and the **Account Type** and **Account No.** fields contain the mapped accounts.
 
 ## <a name="to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>To map text on recurring payments to accounts for automatic reconciliation
-1. Choose the search icon, enter **Payment Reconciliation Journals**, and then choose the related link.
+1. Choose the ![](media/search_icon.png) icon, enter **Payment Reconciliation Journals**, and then choose the related link.
 2. Open a payment reconciliation journal. For more information, see [Reconcile Payments Using Automatic Application](garagehive-finance-reconcile-payments-auto-application.html).
 3. Choose the **Map Text to Account** action. The **Text-to-Account Mapping** window opens.
 4. In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry. You can enter up to 50 characters.
@@ -31,5 +31,5 @@ Next time you import a bank statement file or choose the **Apply Automatically**
 To always post fuel expenses incurred at Shell gas stations to the general ledger account for gasoline (account 8510), fill a line in the **Text-to-Account Mapping** window as follows.
 
 | Mapping Text | Debit Acc. No. | Credit Acc. No. | Bal. Source Type | Bal. Source No. |
-| --- | --- | --- | --- | --- |
-| Shell |BLANK |8510 |G/L Account |BLANK |
+| ------------ | -------------- | --------------- | ---------------- | --------------- |
+| Shell        | BLANK          | 8510            | G/L Account      | BLANK           |

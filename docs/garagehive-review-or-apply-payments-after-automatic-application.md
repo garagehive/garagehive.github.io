@@ -5,7 +5,7 @@ title: Review or Apply Payments after Automatic Application
 
 # Review or Apply Payments after Automatic Application 
 Some payment applications require your review as defined by the used matching rule, such as lines with Low match confidence. Other lines require your review and manual change because there is a value in the Difference field. The following describes how to review or apply payments after automatic application:
-1. Choose the search icon on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
+1. Choose the ![](media/search_icon.png) icon, on the top-right corner, enter **Payment Reconciliation Journals**, and select the related link.
 2. Open the payment reconciliation journal for a bank account that you want to reconcile payments for. For more information, see Reconcile Payments Using Automatic Application.
 
    ![](media/garagehive-payment-reconciliation-review1.gif)

@@ -24,7 +24,7 @@ Here's an example of how a checklist looks when it's fully set up:
 
 ### Checklist Templates
 A Checklist Template is considered the header of the Checklist. To view and create new **Checklist Templates** in your system:
-1. Enter **Checklist Templates** in the search icon and select the related link.
+1. Enter **Checklist Templates** in the ![](media/search_icon.png) icon, and select the related link.
 1. Select **New** from the actions bar, to create a new **Checklist Template**.
 1. The following is what you can setup in the **Checklist Templates** page:
     * **Code** - To identify the template in the system.
@@ -106,7 +106,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 ### Setup to create a Checklist automatically
 Checklists can be set to be created automatically in response to a specific system trigger, as follows:
-1. In the top-right corner, choose the search icon, enter **Checklist Template Selection**, and select the related link.
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Template Selection**, and select the related link.
 
    ![](media/garagehive-checklist-setup9.gif)
 
