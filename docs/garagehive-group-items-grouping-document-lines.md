@@ -79,7 +79,7 @@ To preview or print the document with the group names being the document headers
 
     ![](media/garagehive-group-items9.gif)
 
-3. The other option is to change the setting, so that all documents in future will have the **Custom Heading** as default. Search for **Sales & Receivables Setup** from the search icon at the top-right corner.
+3. The other option is to change the setting, so that all documents in future will have the **Custom Heading** as default. Search for **Sales & Receivables Setup** from the ![](media/search_icon.png) icon, at the top-right corner.
 4. In the **General** FastTab, select **Custom Grouping** option in the **Line Layout** Field. Press **Esc** to exit the page.
 
    ![](media/garagehive-group-items10.gif)

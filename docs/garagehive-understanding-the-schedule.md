@@ -40,25 +40,25 @@ The service schedule layout is divided into the following parts:
 The schedule colours are used to help understand the different work statuses for each work schedule. The following table explains the default colours that are set up in the system. You can change the colours to your preference.
 <br>
 
-| Default Colour | | Status | | Notes |
-| :--------------------------------- | :--- | :----------- | :--- | :----------- |
-![](media/garagehive-understanding-the-schedule1.png) (**Light Green**) | | **IN PROCESS** | | A technician is currently working on this allocation (Do not move this allocation). It is dynamic and will grow or shrink based on the technician's clockings for this allocation. |
-| | | | |
-![](media/garagehive-understanding-the-schedule2.png) (**Blue**) | | **PENDING** | | This is an allocation that hasn't been started. |
-| | | | |
-![](media/garagehive-understanding-the-schedule3.png) (**Purple**) | | **FINISHED** | | A technician has clocked onto this allocation and completed their part of this job, whether that be due to requiring additional authorisation or that it is fully completed (Do not move this allocation). |
-| | | | |
-![](media/garagehive-understanding-the-schedule4.png) (**Green**) | | **READY** | | The jobsheet status has been manually set to **READY**, meaning the vehicle is ready for collection. The customer has been contacted and the invoice has been prepared. (Do not move this allocation) |
-| | | | |
-![](media/garagehive-understanding-the-schedule5.png) (**Grey with** 📫) | | **POSTED** | | The postbox symbol means that the jobsheet for this allocation has been invoiced and posted to the accounts. |
-| | | | |
-![](media/garagehive-understanding-the-schedule6.png) (**Grey with** ✅) | | **REALLOCATED** | | The vehicle is still on site and the jobsheet is still open. A new allocation has been made for this vehicle within the schedule, turning any previous allocations grey. |
-| | | | |
-![](media/garagehive-understanding-the-schedule9.png) (**Red**) | | **ON HOLD** | | A paused allocation can be moved on the schedule during the same day for a technician to resume this job. If it gets to the end of the day and there are still paused allocations, deallocate these and make a new allocation for the next day. |
-| | | | |
-![](media/garagehive-understanding-the-schedule7.png) (**Pink**) | | **AWAITING AUTHORISATION** | | You are waiting for authorisation from either the customer/ lease/ fleet company (You have to manually change the work status code to awaiting authorisation) |
-| | | | |
-![](media/garagehive-understanding-the-schedule8.png) (**Brown**) | | **AWAITING PARTS** | | Parts have been ordered and you are waiting for them to arrive before reallocating. (You have to manually change the work status code to awaiting parts) |
+| Default Colour                                                          |      | Status                     |      | Notes                                                                                                                                                                                                                                           |
+| :---------------------------------------------------------------------- | :--- | :------------------------- | :--- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](media/garagehive-understanding-the-schedule1.png) (**Light Green**) |      | **IN PROCESS**             |      | A technician is currently working on this allocation (Do not move this allocation). It is dynamic and will grow or shrink based on the technician's clockings for this allocation.                                                              |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule2.png) (**Blue**)        |      | **PENDING**                |      | This is an allocation that hasn't been started.                                                                                                                                                                                                 |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule3.png) (**Purple**)      |      | **FINISHED**               |      | A technician has clocked onto this allocation and completed their part of this job, whether that be due to requiring additional authorisation or that it is fully completed (Do not move this allocation).                                      |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule4.png) (**Green**)       |      | **READY**                  |      | The jobsheet status has been manually set to **READY**, meaning the vehicle is ready for collection. The customer has been contacted and the invoice has been prepared. (Do not move this allocation)                                           |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule5.png) (**Grey with** 📫) |      | **POSTED**                 |      | The postbox symbol means that the jobsheet for this allocation has been invoiced and posted to the accounts.                                                                                                                                    |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule6.png) (**Grey with** ✅) |      | **REALLOCATED**            |      | The vehicle is still on site and the jobsheet is still open. A new allocation has been made for this vehicle within the schedule, turning any previous allocations grey.                                                                        |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule9.png) (**Red**)         |      | **ON HOLD**                |      | A paused allocation can be moved on the schedule during the same day for a technician to resume this job. If it gets to the end of the day and there are still paused allocations, deallocate these and make a new allocation for the next day. |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule7.png) (**Pink**)        |      | **AWAITING AUTHORISATION** |      | You are waiting for authorisation from either the customer/ lease/ fleet company (You have to manually change the work status code to awaiting authorisation)                                                                                   |
+|                                                                         |      |                            |      |
+| ![](media/garagehive-understanding-the-schedule8.png) (**Brown**)       |      | **AWAITING PARTS**         |      | Parts have been ordered and you are waiting for them to arrive before reallocating. (You have to manually change the work status code to awaiting parts)                                                                                        |
 
 <br>
 
@@ -84,7 +84,7 @@ Rearranging the resources, how they appear from top to bottom, helps organize wh
 {% include tip.html title="Note" text="It is recommended to have the bays at the top and the technicians at the bottom." %}
 
 To rearrange:
-1. Search **Schedule Resource Group** from the search icon at the top-right corner, and select it from the options that appear. 
+1. Search **Schedule Resource Group** from the ![](media/search_icon.png) icon, at the top-right corner, and select it from the options that appear. 
 2. From the window that opens, select **Default**, as it is the group the resources are created.
 3. Click on **Specifications** from the actions bar.
 

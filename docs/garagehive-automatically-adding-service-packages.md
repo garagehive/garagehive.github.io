@@ -6,7 +6,7 @@ title: Automatically Adding Service Packages in Documents
 # Adding Service Packages Automatically 
 
 To begin automatically applying service packages in jobsheets, link **Service Types** with **Service Packages**. Here's how to do it:
-1. To access the **Service Types** list from an open jobsheet, choose the **Service Type** field and click **See Full List**, or search for **Service Types** using the search icon.
+1. To access the **Service Types** list from an open jobsheet, choose the **Service Type** field and click **See Full List**, or search for **Service Types** using the ![](media/search_icon.png) icon.
 
    ![](media/garagehive-automatically-adding-service-packages1.gif)
 
