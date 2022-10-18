@@ -44,7 +44,7 @@ When creating a checklist, use the steps below to add media to the checklist lin
 
    ![](media/garagehive-adding-and-managing-media4.gif)
 
-3. The checklist line will now display an available media with a photo icon on the line. When the checklist is printed, emailed, or published to an online document, the media will be displayed as well.
+3. The checklist line will now display an available media with a photo icon on the line. When the checklist is printed, emailed, or published to an online document, the media will be displayed as well. 
 
    ![](media/garagehive-adding-and-managing-media5.png)
 
