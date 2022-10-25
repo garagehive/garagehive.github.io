@@ -5,6 +5,13 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 24th October 2022
+* From the **User Management** page, you can now send a request to Garage Hive support for a licence change.
+
+   ![](media/garagehive-add-or-remove-user-licence.png)
+
+* Added a slider to service packages for **Create Estimate**, allowing customers to Create an Estimate in Garage Hive for online enquiry, and added to the Online Enquiries tile for Review.
+
 ### 11th  October 2022
 * Added the **Checklist** page action to vehicle sales admin role centre by default.
 * Added the **request call back** function to online checklists.
