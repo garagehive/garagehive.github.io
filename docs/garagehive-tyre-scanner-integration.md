@@ -14,9 +14,12 @@ title: Tyre Scanner Integration in Garage Hive
 
 ### Tyre Scanner New Account Registration
 As a new **Tyre Scanner** customer, you should first register as follows:
-1.  Click this [link](https://docs.google.com/forms/d/e/1FAIpQLSfM5vv00IhOp3UTMwX0VPKpmUkvgaQle8uPVELZTlyVtbwBFw/viewform){:target="_blank"} to enter the necessary information required for the creation and setup of your customer account.
-2.  Fill out all the details in the form, as required. To obtain the **Endpoint URL**, which is required in the form, select the ![](media/search_icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
-3.  In the **Tyre Scan Setup** page, click **Get Endpoint Url** and copy the URL from the pop-up notification.
+
+ > # Tyre Scanner new account registration link: <ins>[tSCAN UK Account Information](https://docs.google.com/forms/d/e/1FAIpQLSfM5vv00IhOp3UTMwX0VPKpmUkvgaQle8uPVELZTlyVtbwBFw/viewform){:target="_blank"}</ins>
+
+1. Click on the link above to enter the necessary information required for the creation and setup of your customer account.
+2. To obtain the **Endpoint URL**, which is required in the form, select the ![](media/search_icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
+3. In the **Tyre Scan Setup** page, click **Get Endpoint Url** and copy the URL from the pop-up notification.
 
      ![](media/garagehive-tyre-scanner0.png)
 
@@ -33,7 +36,7 @@ To connect the **Tyre Scanner** to the system:
    ![](media/garagehive-tyre-scanner1.gif)
 
 ### Tyre Scanner Checklist Template
-The Tyre Scanner is used in conjunction with the Checklist, which is where the Tyre Scan report is obtained. For achieve this, you should create a checklist template to be used with the tyre scanner report. Here's how to do it:
+The Tyre Scanner is used in conjunction with the Checklist, which is where the Tyre Scan report is obtained. To achieve this, you should create a checklist template to be used with the tyre scanner report. Here's how to do it:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Templates**, and select the related link.
 2. Select the **MOT** checklist template from the list, and then click on **Linked Item Groups** in the actions bar.
 
@@ -47,12 +50,12 @@ The Tyre Scanner is used in conjunction with the Checklist, which is where the T
 5. Customize the **Checklist Items** lines with tyres for the vehicle by filling in the following fields:
 
    | Checklist Item Group Description | Data Type | Vehicle Axle | Vehicle Position | Wheel Position |
-   | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ |
-   | Nearside front tyre & wheel | Tyres | 1 | N/S | Inner |
-   | Offside front tyre & wheel | Tyres | 1 | O/S | Inner |
-   | Nearside rear tyre & wheel | Tyres | 2 | N/S | Inner |
-   | Offside rear tyre & wheel | Tyres | 2 | O/S | Inner |
-   | Wheel alignment | Alignment | *blank* | *blank* | *blank* |
+   | :------------------------------- | :-------- | :----------- | :--------------- | :------------- ||
+   | Nearside front tyre & wheel      | Tyres     | 1            | N/S              | Inner          |
+   | Offside front tyre & wheel       | Tyres     | 1            | O/S              | Inner          |
+   | Nearside rear tyre & wheel       | Tyres     | 2            | N/S              | Inner          |
+   | Offside rear tyre & wheel        | Tyres     | 2            | O/S              | Inner          |
+   | Wheel alignment                  | Alignment | *blank*      | *blank*          | *blank*        |
 
    ![](media/garagehive-tyre-scanner4.gif)
 

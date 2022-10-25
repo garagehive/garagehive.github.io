@@ -23,7 +23,7 @@ You will need to do the following to obtain this information:
 1. ##### Existing GSF Customer
    If you are an existing GSF Customer please complete the form within the link below. You will then receive your **System Integration Customer ID** back via email.
 
-      [Complete this form.](https://docs.google.com/forms/d/e/1FAIpQLSdKunTIs9KA2b-xQs2hjEPvhKTKfdLrNE86fOQLGKBqxrAXkQ/viewform){:target=" blank"}
+      > # GSF existing customer registration form: <ins>[Hive Direct Integration Form](https://docs.google.com/forms/d/e/1FAIpQLSdKunTIs9KA2b-xQs2hjEPvhKTKfdLrNE86fOQLGKBqxrAXkQ/viewform){:target="_blank"}</ins>
 
    Alternatively, you can contact your local GSF Branch with your **GSF Account No.** and request your **System Integration Customer ID** directly from them. Use this [GSF Branch Finder](https://www.gsfcarparts.com/branches){:target=" blank"} to find your local branch.
 
