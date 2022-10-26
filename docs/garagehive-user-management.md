@@ -14,9 +14,19 @@ In Garage Hive system, you can add and remove users in the system. The user mark
 5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
 
 ### Adding and removing a user licence
-To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled on the development side. So, to initiate the process of adding or removing licence:
-1. Use [this link](https://www.garagehive.co.uk/subs) to raise a ticket. It will be taken up by a member of the support team.
-2. The user licence will be added or removed, and you will now be able to manage the users in your system, as indicated in the sub-headings below.
+To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
+1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
+2. From the actions bar, select **Add/Remove User Licences**.
+
+    ![](media/garagehive-user-management-add-licence1.png)
+
+3. Enter the number of licences to be added, as shown in the image below, and then click **OK**.
+
+    ![](media/garagehive-user-management-add-licence2.png)
+
+4. You will receive a notification with the following message:
+
+   **'Your request was submitted to Garage Hive support. You should receive a confirmation email immediately. Please note that processing Microsoft licences can take up to 48 hours.'**
 
 ### Creating a Service Advisor user
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner. 
