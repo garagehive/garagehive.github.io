@@ -28,6 +28,8 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 
    **'Your request was submitted to Garage Hive support. You should receive a confirmation email immediately. Please note that processing Microsoft licences can take up to 48 hours.'**
 
+   {% include tip.html title="Note" text="If you did not receive the automated email confirmation, please contact the support team as they may not have received the request." %}
+
 ### Creating a Service Advisor user
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner. 
 2. The user management table opens; it displays all the users, their roles, statuses, user licences and the GH User licences for the system (right-hand side).
