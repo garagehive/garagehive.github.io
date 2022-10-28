@@ -10,8 +10,6 @@ Below is a list of Garage Hive developments:
 
    ![](media/garagehive-add-or-remove-user-licence.png)
 
-* Added a slider to service packages for **Create Estimate**, allowing customers to Create an Estimate in Garage Hive for online enquiry, and added to the Online Enquiries tile for Review.
-
 ### 11th  October 2022
 * Added the **Checklist** page action to vehicle sales admin role centre by default.
 * Added the **request call back** function to online checklists.
