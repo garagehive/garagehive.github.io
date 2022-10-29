@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Enabling Service Advisor Time Logs and How It Works on Garage Hive
+title: Enabling Service Advisor Time Logs and How It Works in Garage Hive
 ---
 
 # Enabling Service Advisor Time Logs and How It Works on Garage Hive
