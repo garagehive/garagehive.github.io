@@ -19,7 +19,7 @@ This will allow the card machine to integrate with your EPOS system.
 
 ### Ingenico iWL250 Card Terminal
 
-   ![](media/garagehive-ingenico-iwl250-card-terminal.png)
+   ![](media/garagehive-ingenico-iwl250-card-terminal.jpg)
 
 To switch between till and standalone mode of the card terminal, follow these steps:
 
@@ -45,7 +45,7 @@ To switch between till and standalone mode of the card terminal, follow these st
 
 ### Ingenico Desk/3500 Card Terminal
 
-   ![](media/garagehive-ingenico-desk3500-card-terminal.png)
+   ![](media/garagehive-ingenico-desk3500-card-terminal.jpg)
 
 To switch between till and standalone mode of the card terminal, follow these steps:
 
