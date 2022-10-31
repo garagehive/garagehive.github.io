@@ -235,6 +235,8 @@
       url: /docs/garagehive-vehicle-card.html
     - name: Customising vehicle reminder dates
       url: /docs/garagehive-customising-vehicle-reminder-dates.html
+    - name: Enabling Service Advisor Time Logs and How it works
+      url: /docs/garagehive-service-advisor-time-logs.html
     - name: Understanding Dimensions in Business Central
       url: /docs/garagehive-understanding-dimensions-in-business-central.html
     - name: Adding Optional Tiles in the Role Centre
@@ -391,6 +393,8 @@
       url: /docs/garagehive-setting-up-payment-by-card-terminal.html
     - name: Generating Paymentsense Card Machine Reports
       url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
+    - name: How to Set Card Terminal Into Integration Mode
+      url: /docs/garagehive-setting-card-terminals-into-integration-mode.html
     - name: Xero Integration Setup
       url: /docs/xero-api-integration.html
     - name: Xero Integration Errors

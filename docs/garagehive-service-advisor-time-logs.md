@@ -3,7 +3,7 @@ layout: docs
 title: Enabling Service Advisor Time Logs and How It Works in Garage Hive
 ---
 
-# Enabling Service Advisor Time Logs and How It Works on Garage Hive
+# Enabling Service Advisor Time Logs and How It Works in Garage Hive
 **Service Advisor Time Logs** is a feature in Garage Hive that records the duration of an action that the Service Advisor takes in the system, which in turn helps in the creation of PowerBI reports on **Service Advisor KPIs**. The following actions are recorded in the time logs:
    * **Vehicle On-Site** - Records the duration the vehicle has been on-site.
    * **Work Status Code** - Records the duration a vehicle has been in a specific status on the Jobsheet.
