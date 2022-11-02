@@ -34,7 +34,7 @@ To create an export, first confirm that your setup is complete; please contact a
 
 3. **Catalogs** options:
 
-   * **Export All Customers** - This will produce an export of every single customer in the system.
+   * **Export All Customers** - This slider should always be off.
    * **Export All Vendors** - This will produce an export of every single vendor in the system.
 
    ![](media/garagehive-accountancy-export2.png)

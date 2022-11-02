@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Set Card Terminal Into Integration Mode
+title: How to Set Card Terminals Into Integration Mode
 ---
 
 ### Dojo A920 Card Terminal
