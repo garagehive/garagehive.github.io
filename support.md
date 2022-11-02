@@ -16,9 +16,9 @@ title: Garage Hive Support
 
 ### Support Contact Details
 * **Phone** - [**02031461164**](tel:02031461164)
-* **Portal** - [**Help Desk**](https://garagehive.co.uk/helpdesk){:target="_blank"}
 * **WhatsApp** - [**Message Us**](https://wa.me/442031461164){:target="_blank"} 
 * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
+* **Screen Record** - [**Record Screen and Share**](https://garage-hive.hellozest.io/recorder?rl=eyJvIjozNTY0fQ==){:target="_blank"}
 
 ### Remote Support
 * **ZOHO - Desktop**
