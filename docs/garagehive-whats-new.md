@@ -5,6 +5,10 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 7th November 2022
+* We made the red and amber blocks open by default within online authorisation, as requested at **The Blend 2022**. This helps to avoid customers missing the advisories.
+* Added the **Create Estimate** slider in service packages, for online enquiries.
+
 ### 24th October 2022
 * From the **User Management** page, you can now send a request to Garage Hive support for a licence change.
 
