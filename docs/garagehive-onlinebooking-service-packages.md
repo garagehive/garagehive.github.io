@@ -1,10 +1,14 @@
 ---
 layout: docs
-title: Setting Up Online Booking - Service Packages
+title: Setting Up Service Packages (Online Booking and Enquiries)
 ---
 
-# Setting Up Online Booking - Service Packages
-Back in the **Online Booking Setup** page:
+## In this article
+1. [Setting up online booking](#setting-up-online-booking)
+2. [Setting up online enquiries](#setting-up-online-enquiries)
+
+### Setting Up Online Booking
+Online booking is used in the system to create Jobsheets. Choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and select the related link:
 1. From the actions bar, choose **Related**, followed by **Service Packages**.
 2. Open the **Service Package** you want to show in the **Online Booking(OB)** widget. Please see [here](garagehive-service-packages.html) for more information on creating service packages.
 
@@ -25,7 +29,6 @@ Back in the **Online Booking Setup** page:
       * **Only as Additional Package** - When the slider is enabled, this package is hidden from the first page of the online booking but can be added as an additional item to other packages. This is ideal for things like discounted MOTs or fuel treatments.
 
         ![](media/garagehive-onlinebooking-service-packages3.png)
-
 
 4. Under the **Versions** FastTab, select the **Online Booking Prices From** checkbox for the version that does not have a fixed price, so that you can have the price defined as **Price From** without specific figure.
 
@@ -48,6 +51,28 @@ Back in the **Online Booking Setup** page:
 10. The selected **Additional Services** will appear as follows in the online booking widget.
 
     ![](media/garagehive-onlinebooking-service-packages3.png)
+
+
+### Setting Up Online Enquires
+1. Online enquiries is used in the system to create Estimates. Select the **Create Estimate** slider in the **General** FastTab to make the Service Package as an estimate.
+
+   ![](media/garagehive-onlinebooking-service-packages4.png)
+
+2. Select the **OB Customer Instructions** FastTab under the **Online Booking** FastTab and enter the instruction to prompt the customer on what they require on their Estimate, for example, *'When was it done last time? Do you have any tuning done?'* This assists in providing an estimate to the customer.
+
+   ![](media/garagehive-onlinebooking-service-packages8.gif)
+
+3. You should then add lines under the **Versions** FastTab, but without pricing because it is an estimate. This will prevent prices from being displayed online. Select **Manage**, followed by **Version Lines**.
+
+   ![](media/garagehive-onlinebooking-service-packages9.gif)
+
+3. When a service package is published as an Estimate, it is marked with the **Estimate** tag, as shown below.
+
+   ![](media/garagehive-onlinebooking-service-packages5.png)
+
+4. If the customer selects both online booking and enquiry, the next page will have two tabs to confirm their options, as shown below.
+
+   ![](media/garagehive-onlinebooking-service-packages6.png)
 
 
 [Next step](/docs/garagehive-onlinebooking-time-grids.html)

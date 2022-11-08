@@ -4,7 +4,7 @@ title: Setting Up Online Booking - Resources
 ---
 
 # Setting Up Online Booking - Resources
-Back in the **Online Booking Setup** page:
+In the **Online Booking Setup** page:
 1. From the actions bar, choose **Related**, followed by **Resources**.
 2. Open each **Resource** that is part of the **Resource Groups** you created previously (MOT, all techs, etc).
 

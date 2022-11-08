@@ -4,7 +4,7 @@ title: Setting Up Online Booking - Holidays
 ---
 
 ## Holidays
-Back in the **Online Booking Setup** page:
+In the **Online Booking Setup** page:
 
 1. From the actions bar, choose **Related**, followed by **Holidays**.
 2. In the page that opens, add all of the **Bank Holidays** in the calendar year that you want to prevent customers from making online bookings.
