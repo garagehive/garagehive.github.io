@@ -4,7 +4,7 @@ title: Setting Up Online Booking - Testing
 ---
 # Testing
 
-We're almost there, I promise. Back in the **Online Booking Setup** page:
+We're almost there, I promise. In the **Online Booking Setup** page:
 1. From the actions bar, select **Test Catalog Setup**. 
 
     ![](media/garagehive-onlinebooking-testing1.png)

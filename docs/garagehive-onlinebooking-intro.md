@@ -9,6 +9,6 @@ Before starting this if you haven’t already set your service packages up its r
 
 Why not have a play with our demo system [here.](https://onlinebooking.garagehive.co.uk/cronusmotorsbc.html){:target="_blank"}
 
-N.B Its highly recommended that you get just one service package working with no errors first before adding any additional packages to the setup. 
+{% include tip.html title="Note" text="Its highly recommended that you get just one service package working with no errors first before adding any additional packages to the setup." %} 
 
 [Next step](/docs/garagehive-onlinebooking-setup.html)
