@@ -5,7 +5,7 @@ title: Setting Up Service Packages (Online Booking and Enquiries)
 
 ## In this article
 1. [Setting up online booking](#setting-up-online-booking)
-2. [Setting up online enquiries](#setting-up-online-enquiries)
+2. [Setting up online enquiries](#setting-up-online-enquires)
 
 ### Setting Up Online Booking
 Online booking is used in the system to create Jobsheets. Choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and select the related link:
