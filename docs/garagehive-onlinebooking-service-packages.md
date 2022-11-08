@@ -58,7 +58,7 @@ Online booking is used in the system to create Jobsheets. Choose the ![](media/s
 
    ![](media/garagehive-onlinebooking-service-packages4.png)
 
-2. Select the **OB Customer Instructions** FastTab under the **Online Booking** FastTab and enter the instruction to prompt the customer on what they require on their Estimate, for example, *'When was it done last time? Do you have any tuning done?'* This assists in providing an estimate to the customer.
+2. Select the **OB Customer Instructions** FastTab under the **Online Booking** FastTab and enter the instruction to prompt the customer on what they require on their Estimate, for example, *'When was it done last time?'* This assists in providing an estimate to the customer.
 
    ![](media/garagehive-onlinebooking-service-packages8.gif)
 
@@ -66,11 +66,11 @@ Online booking is used in the system to create Jobsheets. Choose the ![](media/s
 
    ![](media/garagehive-onlinebooking-service-packages9.gif)
 
-3. When a service package is published as an Estimate, it is marked with the **Estimate** tag, as shown below.
+4. When a service package is published as an Estimate, it is marked with the **Estimate** tag, as shown below.
 
    ![](media/garagehive-onlinebooking-service-packages5.png)
 
-4. If the customer selects both online booking and enquiry, the next page will have two tabs to confirm their options, as shown below.
+5. If the customer selects both online booking and enquiry, the next page will have two tabs to confirm their options, as shown below.
 
    ![](media/garagehive-onlinebooking-service-packages6.png)
 
