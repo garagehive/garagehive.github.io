@@ -359,6 +359,8 @@
       url: /docs/garagehive-onlinebooking-sets.html 
     - name: Testing
       url: /docs/garagehive-onlinebooking-testing.html
+    - name: Reviewing Online Bookings and Enquiries
+      url: /docs/garagehive-reviewing-online-bookings-and-enquiries.html
     - name: TyreClick Booking Integration
       url: /docs/garagehive-using-tyre-click.html
     - name: Common Errors for Online Booking
