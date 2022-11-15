@@ -27,6 +27,8 @@ You sold the customer a set of PAGID Brake Pads, and three days later, the custo
 
    ![](media/garagehive-return-warranty-parts-to-vendor4.png)
 
+   ![](media/garagehive-return-warranty-parts-to-vendor4a.png)
+
 5. You can now create a **Purchase Return Order** for the originally fitted brake pads that were returned to stock when the **Return Jobsheet** was posted, post the return order, and ship the brake pads back to the vendor.
 
    ![](media/garagehive-return-warranty-parts-to-vendor5.gif)
