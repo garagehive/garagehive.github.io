@@ -5,6 +5,9 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 16th November 2022
+* All service documents now include the ability to add pre-defined comments, [read more](https://docs.garagehive.co.uk/docs/garagehive-comments-extended.html#adding-predefined-jobsheet-comments){:target="_blank"}.
+
 ### 7th November 2022
 * We made the red and amber blocks open by default within online authorisation, as requested at **The Blend 2022**. This helps to avoid customers missing the advisories.
 * Added the **Create Estimate** slider in service packages, for online enquiries.
