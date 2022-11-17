@@ -8,7 +8,7 @@ title: How to Use Comments in Garage Hive
 2. [How to Use Extended Comments](#how-to-use-extended-comments)
 3. [Creating Standard Comments](#creating-standard-comments)
 4. [Adding Comments in a Card](#adding-comments-in-a-card)
-5. [Adding Predefined Jobsheet Comments](#adding-predefined-jobsheet-comments)
+5. [Adding Predefined Comments](#adding-predefined-comments)
 
 ### Adding Comments in a Document
 To add a new comment in a document:
@@ -72,27 +72,31 @@ To add a new comment in card, for example a **Customer Card**:
 
    ![](media/garagehive-comments8.gif)
 
-### Adding Predefined Jobsheet Comments
-**Predefined Jobsheet Comments** can be added using **Service Types** or **Service Packages**, which means that when a Service Type or a Serviced Package is added to the Jobsheet, the predefined comments are automatically added in the **Comments** sub-page. To add predefined comments:
+### Adding Predefined Comments
+**Predefined Comments** can be added using **Service Types** or **Service Packages**, which means that when a Service Type or a Serviced Package is added to the Jobsheet, Estimate or VIE, the predefined comments are automatically added in the **Comments** sub-page. To add predefined comments:
 1. Search for **Service Types** in the top right corner ![](media/search_icon.png) icon, and select the related link.
 
    ![](media/garagehive-comments9.png)
 
-2. Select the Service Type for which you want predefined comment(s), then scroll down to the **Predefined Jobsheet Comments** sub-page, select the comment **Type Code**, and enter the comment in the **Comment(Extended)** column. You may add as many comments as you need.
-3. Select the checkbox in the **Print on Document** or **Attention** column if you want it printed on the document or marked as **Attention**.
+2. Select the Service Type for which you want predefined comment(s), then scroll down to the **Predefined Comments** sub-page, select the comment **Type Code**, and enter the comment in the **Comment(Extended)** column.
+3. Select the checkboxes on the right to have the comment added to **Jobsheets**, **Estimates**, or **VIEs**. At least one document, if not all, should be selected.
+
+   ![](media/garagehive-comments9a.png)
+
+4. Select the checkbox in the **Print on Document** or **Attention** column if you want it printed on the document or marked as **Attention**.
 
    ![](media/garagehive-comments10.png)
 
-4. When finished, close the page.
-5. Similarly, to add the predefined comment(s) in **Service Packages**, go to the **Catalogues** menu on the home screen and select **Service Packages**.
+5. When finished, close the page.
+6. Similarly, to add the predefined comment(s) in **Service Packages**, go to the **Catalogues** menu on the home screen and select **Service Packages**.
 
    ![](media/garagehive-comments11.png)
 
-6. Select the **Service Package** for which you want to add predefined comment(s), then scroll down to the **Predefined Jobsheet Comments** sub-page, select the comment **Type Code**, and enter the comment in the **Comment (Extended)** column.
+7. Select the **Service Package** for which you want to add predefined comment(s), then scroll down to the **Predefined Comments** sub-page, select the comment **Type Code**, and enter the comment in the **Comment (Extended)** column.
 
    ![](media/garagehive-comments12.png)
 
-7. When a **Service Type** or **Service Package** with a predefined comment is added to the Jobsheet, the comment(s) are automatically added to the **Comments** subpage.
+8. When a **Service Type** or **Service Package** with a predefined comment is added to the Jobsheet, Estimate or a VIE, the comment(s) are automatically added to the **Comments** subpage.
 
    ![](media/garagehive-comments13.png)
 
