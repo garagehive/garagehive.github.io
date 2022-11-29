@@ -1,10 +1,11 @@
 ---
 layout: docs
-title: How to Merge Duplicate Records
+title: How to Create Warranty Work 
 ---
 
-# How to Merge Duplicate Records
-1* Create a job sheet for parts and labour
+# How to Create Warranty Work
+
+Create a job sheet for parts and labour
 
 * Invoice the supplier – agree parts and labour
 
