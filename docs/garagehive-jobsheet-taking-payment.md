@@ -13,11 +13,13 @@ title: Taking a Payment and Posting a Jobsheet
 When the job is complete and the financial information is correct. You now need to collect the payment from the customer and post the jobsheet.
 1. Select **Payments/Posting** from the jobsheet's actions bar, then **Take Payment** to mark the customer's payment method and add the amount paid along the customer's payment method row.
 
-    ![](media/garagehive-jobsheet-taking-payment1.gif)
+    ![](media/garagehive-jobsheet-taking-payment1.png)
+
+    ![](media/garagehive-jobsheet-taking-payment2.png)
 
 2. You can view other payments that have been applied in the document by selecting **Payment Gateway Entries** action, in the **Take Payment** window.
 
-    ![](media/garagehive-jobsheet-taking-payment1a.gif)
+    ![](media/garagehive-jobsheet-taking-payment2a.png)
 
 ### Adding resources to labour lines in a Jobsheet
 Before posting the jobsheet, all labour lines must-have resource information added to them. There are several ways this can be done:
