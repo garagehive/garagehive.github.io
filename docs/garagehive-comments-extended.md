@@ -73,7 +73,7 @@ To add a new comment in card, for example a **Customer Card**:
    ![](media/garagehive-comments8.gif)
 
 ### Adding Predefined Comments
-**Predefined Comments** can be added using **Service Types** or **Service Packages**, which means that when a Service Type or a Serviced Package is added to the Jobsheet, Estimate or VIE, the predefined comments are automatically added in the **Comments** sub-page. To add predefined comments:
+**Predefined Comments** can be added using **Service Types** or **Service Packages**, which means that when a Service Type or a Service Package is added to the Jobsheet, Estimate or VIE, the predefined comments are automatically added in the **Comments** sub-page. To add predefined comments:
 1. Search for **Service Types** in the top right corner ![](media/search_icon.png) icon, and select the related link.
 
    ![](media/garagehive-comments9.png)
