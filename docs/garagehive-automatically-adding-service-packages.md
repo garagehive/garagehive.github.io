@@ -26,7 +26,7 @@ To begin automatically applying service packages in jobsheets, link **Service Ty
 ### **See Also**
 
 [Video: automatically insert Service Packages to documents in Garage Hive](https://youtu.be/6y-c47xIYfE){:target="_blank"} \
-[How to create Service Packages in Garage Hive](garagehive-service-packages.html) \
-[Service Packages conditions](service-package-conditions.html) \
-[Automatically adding Courtesy Car and Collection and Delivery Service Packages](garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html) \
-[Setting up online booking "Service Packages"](garagehive-onlinebooking-service-packages.html)
+[How to create Service Packages in Garage Hive](garagehive-service-packages.html){:target="_blank"} \
+[Service Packages conditions](service-package-conditions.html){:target="_blank"} \
+[Automatically adding Courtesy Car and Collection and Delivery Service Packages](garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html){:target="_blank"} \
+[Setting up online booking "Service Packages"](garagehive-onlinebooking-service-packages.html){:target="_blank"}

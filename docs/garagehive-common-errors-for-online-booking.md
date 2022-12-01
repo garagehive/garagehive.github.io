@@ -5,7 +5,7 @@ title: Common Errors for Online Booking
 
 # Common Errors for Online Booking 
 
-To begin, read these [articles](garagehive-onlinebooking-intro.html) to learn how to set up **Online Booking** (Click **Next step** at the end of each article).
+To begin, read these [articles](garagehive-onlinebooking-intro.html){:target="_blank"} to learn how to set up **Online Booking** (Click **Next step** at the end of each article).
 
 The **Online Booking Setup** page in Garage Hive has the **Test Catalog Setup** action, which you can use to view any setup errors.
 

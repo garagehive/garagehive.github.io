@@ -15,5 +15,5 @@ To view an item history from a jobsheet, estimate, or vehicle inspection estimat
 
 ### **See Also**
 
-[Create an Item Card](garagehive-create-an-item-card.html) \
-[Create Item Templates](create-item-templates.html)
+[Create an Item Card](garagehive-create-an-item-card.html){:target="_blank"} \
+[Create Item Templates](create-item-templates.html){:target="_blank"}

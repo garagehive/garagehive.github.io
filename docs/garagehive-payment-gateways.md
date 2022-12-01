@@ -11,12 +11,12 @@ Garage Link (GLink) is a payment method in which the payment is processed online
 
    ![](media/garagehive-payment-gateways1.png)
 
-To learn more about how to set up **Garage Link** follow [this link](garagehive-setting-up-payment-by-glink.html).
+To learn more about how to set up **Garage Link** follow [this link](garagehive-setting-up-payment-by-glink.html){:target="_blank"}.
 
 ### Payment by Card Terminal
 A Card Terminal, also known as a point of sale (POS) terminal, is an electronic device that allows a business to accept credit card payments from customers. The card terminal is linked to the Garage Hive system, and the customer must physically present the credit card for payment.
 
    ![](media/garagehive-payment-gateways2.png)
 
-To learn more about how to set up **Card Terminal** follow [this link](garagehive-setting-up-payment-by-card-terminal.html).
+To learn more about how to set up **Card Terminal** follow [this link](garagehive-setting-up-payment-by-card-terminal.html){:target="_blank"}.
 

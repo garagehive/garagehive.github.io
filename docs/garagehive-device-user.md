@@ -47,11 +47,11 @@ E.  View Engine Details.
 
 F.  View Tyres, Wheels & Brake Details. 
 
-G.  Show and/or Create Vehicle Inspections.<br> -   [How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") and [How to perform a Vehicle Inspection](garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection").
+G.  Show and/or Create Vehicle Inspections.<br> -   [How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive"){:target="_blank"} and [How to perform a Vehicle Inspection](garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"){:target="_blank"}.
 
-H.  View Vehicle History - [ Service History](garagehive-how-to-view-service-history.html "Service History")
+H.  View Vehicle History - [ Service History](garagehive-how-to-view-service-history.html "Service History"){:target="_blank"}
 
-I.  View MOT History - [MOT History](garagehive-how-to-view-service-history.html "Service History")
+I.  View MOT History - [MOT History](garagehive-how-to-view-service-history.html "Service History"){:target="_blank"}
 -   This will include all previous MOT history, including any failures and advisories. 
 
 ![](media/garagehive-device-user11.png)

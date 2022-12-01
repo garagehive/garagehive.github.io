@@ -33,7 +33,7 @@ To create a **Sales Quote**:
 
 ### **See Also**
 
-[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html) \
-[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html) \
-[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html) \
-[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html)
+[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html){:target="_blank"} \
+[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html){:target="_blank"} \
+[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html){:target="_blank"} \
+[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html){:target="_blank"}

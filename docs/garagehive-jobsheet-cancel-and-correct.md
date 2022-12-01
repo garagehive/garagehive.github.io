@@ -49,4 +49,4 @@ The **Correct** function is used to make changes to a posted Jobsheet and enter 
 
 ## See Also
 
-[Video - How to Cancel/Correct a Posted Jobsheet in Garage Hive](https://youtu.be/4H50FX9LCPw)
+[Video - How to Cancel/Correct a Posted Jobsheet in Garage Hive](https://youtu.be/4H50FX9LCPw){:target="_blank"}

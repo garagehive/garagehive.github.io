@@ -33,12 +33,12 @@ Sometimes you will need to update your Garage Hive credentials within Power BI, 
 <br>
 
 ### **See Also**
-[Video - How to update your Garage Hive's Power BI App credentials](https://youtu.be/dcvhako90OE) \
-[How to set your Average Labour Rate](garagehive-labour-rate.html) \
-[Installing the Power BI App](powerbi-installing-app.html) \
-[Refreshing your Power BI data](powerbi-refresh-data.html) \
-[Updating your Power BI App](powerbi-updating-app.html) \
-[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html) \
-[How to Set Business Targets](garagehive-how-to-set-business-targets.html)
+[Video - How to update your Garage Hive's Power BI App credentials](https://youtu.be/dcvhako90OE){:target="_blank"} \
+[How to set your Average Labour Rate](garagehive-labour-rate.html){:target="_blank"} \
+[Installing the Power BI App](powerbi-installing-app.html){:target="_blank"} \
+[Refreshing your Power BI data](powerbi-refresh-data.html){:target="_blank"} \
+[Updating your Power BI App](powerbi-updating-app.html){:target="_blank"} \
+[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html){:target="_blank"} \
+[How to Set Business Targets](garagehive-how-to-set-business-targets.html){:target="_blank"}
 
 

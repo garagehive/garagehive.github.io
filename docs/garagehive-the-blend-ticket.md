@@ -37,6 +37,6 @@ If you made an error, need to add an attendee, or change the information you've 
 
 > **Important:**
 > 
-> Follow [this link](https://www.theblend.events/ticket-t-cs) to learn more about the **Terms and Conditions** for the Blend 2022.
+> Follow [this link](https://www.theblend.events/ticket-t-cs){:target="_blank"} to learn more about the **Terms and Conditions** for the Blend 2022.
 
 

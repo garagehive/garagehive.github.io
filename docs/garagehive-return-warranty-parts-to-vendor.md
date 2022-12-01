@@ -15,7 +15,7 @@ You sold the customer a set of PAGID Brake Pads, and three days later, the custo
 
    ![](media/garagehive-return-warranty-parts-to-vendor1.gif)
 
-2. After receiving the brake pads and completing the job as required, before you post the jobsheet, create [**Return Jobsheet**](garagehive-service-return-order.html) for that customer and the vehicle and enter the labour and parts that you originally fitted. Post the **Return Jobsheet**.
+2. After receiving the brake pads and completing the job as required, before you post the jobsheet, create [**Return Jobsheet**](garagehive-service-return-order.html){:target="_blank"} for that customer and the vehicle and enter the labour and parts that you originally fitted. Post the **Return Jobsheet**.
 
    ![](media/garagehive-return-warranty-parts-to-vendor2.gif)
 

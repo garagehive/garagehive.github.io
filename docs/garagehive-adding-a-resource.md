@@ -27,5 +27,5 @@ In Garage Hive, resources can be set up to be either a person or a machine, for 
 
 ### **See Also**
 
-[Understanding the schedule](garagehive-understanding-the-schedule.html) \
-[Creating a booking from the schedule](/docs/garagehive-create-a-booking.html)
+[Understanding the schedule](garagehive-understanding-the-schedule.html){:target="_blank"} \
+[Creating a booking from the schedule](/docs/garagehive-create-a-booking.html){:target="_blank"}

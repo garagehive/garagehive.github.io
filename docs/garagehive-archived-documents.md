@@ -9,7 +9,7 @@ You can archive purchase orders, estimates, jobsheets, checklists, and so on if 
 ### Types of Archived Documents
 1. Archived **Estimates** and **Vehicle Inspection Estimates**:
    - An **Estimate** or a **Vehicle Inspection Estimate** is archived when you delete it.
-   - An archived estimate can be copied to another document using [**Copy Document**](garagehive-copydocument.html) function.
+   - An archived estimate can be copied to another document using [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
    - Using the **Restore** action from the archived document, you can restore the archived **Estimate** or **Vehicle Inspection Estimate**, where the original still exists and it's not posted.
 
       ![](media/garagehive-restore-estimate.png)
@@ -19,7 +19,7 @@ You can archive purchase orders, estimates, jobsheets, checklists, and so on if 
 
       ![](media/garagehive-archive-jobsheets.png)
       
-   - An archived jobsheet can be copied to another document using [**Copy Document**](garagehive-copydocument.html) function.
+   - An archived jobsheet can be copied to another document using [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
    - Using the **Restore** action from the archived document, you can restore the archived **Jobsheet** or **Return Jobsheet**, where the original still exists and it's not posted.
 
 3. Archived **Checklists**:
@@ -44,6 +44,6 @@ You can archive purchase orders, estimates, jobsheets, checklists, and so on if 
 <br>
 
 ### **See Also**
-[How to access posted and archived documents](https://www.youtube.com/watch?v=mFmimPCl9ns)
+[How to access posted and archived documents](https://www.youtube.com/watch?v=mFmimPCl9ns){:target="_blank"}
 
 

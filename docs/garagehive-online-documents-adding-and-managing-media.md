@@ -73,10 +73,10 @@ A list of all added media to the system can be viewed and managed. To do so, fol
 
 ### **See Also**
 
-[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
-[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
-[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html) \
-[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
-[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
-[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)
+[Introduction to Online Documents](garagehive-online-documents-introduction.html){:target="_blank"} \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"} \
+[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html){:target="_blank"} \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html){:target="_blank"} \
+[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html){:target="_blank"} \
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html){:target="_blank"} \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html){:target="_blank"}

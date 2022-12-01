@@ -41,10 +41,10 @@ When that happens, the **Request a Callback** button, also creates a comment mar
 
 ### **See Also**
 
-[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
-[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
-[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html) \
-[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
-[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
-[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html)
+[Introduction to Online Documents](garagehive-online-documents-introduction.html){:target="_blank"} \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"} \
+[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html){:target="_blank"} \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html){:target="_blank"} \
+[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html){:target="_blank"} \
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html){:target="_blank"} \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html){:target="_blank"}

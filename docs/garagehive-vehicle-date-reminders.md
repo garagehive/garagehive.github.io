@@ -86,8 +86,8 @@ To see a list of the customer notifications that have been sent, choose the ![](
 <br>
 
 ### **See Also**
-[Customising Vehicle Reminder Dates Notification](garagehive-customising-vehicle-reminder-dates.html) \
-[How to Setup Booking Reminder Notification in Garage Hive](garagehive-booking-reminders.html) \
-[How to Setup Booking Confirmation Notification in Garage Hive](garagehive-booking-confirmation.html) \
-[Setting Up Online Documents](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up) \
-[Setting Up NPS Customer Surveys](garagehive-surveys-setting-up-customer-surveys.html)
+[Customising Vehicle Reminder Dates Notification](garagehive-customising-vehicle-reminder-dates.html){:target="_blank"} \
+[How to Setup Booking Reminder Notification in Garage Hive](garagehive-booking-reminders.html){:target="_blank"} \
+[How to Setup Booking Confirmation Notification in Garage Hive](garagehive-booking-confirmation.html){:target="_blank"} \
+[Setting Up Online Documents](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up){:target="_blank"} \
+[Setting Up NPS Customer Surveys](garagehive-surveys-setting-up-customer-surveys.html){:target="_blank"}

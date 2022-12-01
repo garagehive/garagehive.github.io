@@ -22,10 +22,10 @@ After selecting the **Repair Categories**, select the lines to include in the **
 
 ### **See Also**
 
-[Adding repair times](garagehive-autodata-adding-repair-times.html) \
-[Checking vehicle lubricant's data](garagehive-autodata-checking-vehicle-lubricant-data.html) \
-[Checking vehicle engine oil data](garagehive-autodata-viewing-vehicle-engine-oil-data.html) \
-[Viewing and adding servicing intervals data](garagehive-autodata-viewing-and-adding-servicing-intervals.html) \
-[How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html) \
-[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html) \
-[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html)
+[Adding repair times](garagehive-autodata-adding-repair-times.html){:target="_blank"} \
+[Checking vehicle lubricant's data](garagehive-autodata-checking-vehicle-lubricant-data.html){:target="_blank"} \
+[Checking vehicle engine oil data](garagehive-autodata-viewing-vehicle-engine-oil-data.html){:target="_blank"} \
+[Viewing and adding servicing intervals data](garagehive-autodata-viewing-and-adding-servicing-intervals.html){:target="_blank"} \
+[How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html){:target="_blank"} \
+[Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html){:target="_blank"} \
+[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html){:target="_blank"}

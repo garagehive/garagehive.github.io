@@ -44,7 +44,7 @@ Reversing transactions means completely undoing the entry and removing it from t
 
 ### **See Also**
 
-[Cash Receipt Journals](garagehive-finance-cash-receipt-journal.html) \
-[Registering Customer Payments](garagehive-registering-customer-payments.html) \
-[Reconcile Customer Payments Manually From a List of Unpaid Sales Documents](garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html) \
-[Working with Payment Reconciliation Journals](garagehive-payment-reconciliation-journals.html)
+[Cash Receipt Journals](garagehive-finance-cash-receipt-journal.html){:target="_blank"} \
+[Registering Customer Payments](garagehive-registering-customer-payments.html){:target="_blank"} \
+[Reconcile Customer Payments Manually From a List of Unpaid Sales Documents](garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html){:target="_blank"} \
+[Working with Payment Reconciliation Journals](garagehive-payment-reconciliation-journals.html){:target="_blank"}

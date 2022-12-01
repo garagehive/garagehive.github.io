@@ -64,7 +64,7 @@ You've already communicated with the customer and been advised on what work need
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.gif)
 
 2. Alternatively, from the group items where the document lines have been added:
-   * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html)), where the groups have already been created.
+   * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}), where the groups have already been created.
    * Select the group items that have been approved from the **Customer Authorised** column. When a group is checked, all document lines within that group are approved. A single document line that is already part of a group cannot be separately authorised.
    * From the actions bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
 
@@ -77,13 +77,13 @@ You've already communicated with the customer and been advised on what work need
 
 ### **See Also**
 
-[Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
-[Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
-[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
-[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
-[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html) \
-[Viewing Items to Return](garagehive-trial-viewing-items-to-return.html) \
-[Creating a Purchase Return Order](garagehive-trial-creating-a-purchase-return-order.html) \
-[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) \
-[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) \
-[Creating an Estimate](garagehive-trial-creating-an-estimate.html)
+[Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html){:target="_blank"} \
+[Create Your First Booking](garagehive-trial-creating-your-first-booking.html){:target="_blank"} \
+[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html){:target="_blank"} \
+[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html){:target="_blank"} \
+[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html){:target="_blank"} \
+[Viewing Items to Return](garagehive-trial-viewing-items-to-return.html){:target="_blank"} \
+[Creating a Purchase Return Order](garagehive-trial-creating-a-purchase-return-order.html){:target="_blank"} \
+[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html){:target="_blank"} \
+[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html){:target="_blank"} \
+[Creating an Estimate](garagehive-trial-creating-an-estimate.html){:target="_blank"}

@@ -38,4 +38,4 @@ Cash Receipt journals allow the user to record payments made to a customer's acc
 <br>
 
 ### See Also
-[Registering Customer Payments](garagehive-registering-customer-payments.html)
+[Registering Customer Payments](garagehive-registering-customer-payments.html){:target="_blank"}

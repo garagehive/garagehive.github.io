@@ -42,4 +42,4 @@ title: Setup of Resource Service Hours and Auto Clock Out in Garage Hive
 <br>
 
 ### **See Also**
-[Understanding the Schedule](garagehive-understanding-the-schedule.html)
+[Understanding the Schedule](garagehive-understanding-the-schedule.html){:target="_blank"}

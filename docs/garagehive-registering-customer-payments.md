@@ -21,4 +21,4 @@ Other than using the **Cash Receipt Journal**, there is another method to receiv
 <br>
 
 ### See Also
-[Cash Receipt Journals](garagehive-finance-cash-receipt-journal.html)
+[Cash Receipt Journals](garagehive-finance-cash-receipt-journal.html){:target="_blank"}

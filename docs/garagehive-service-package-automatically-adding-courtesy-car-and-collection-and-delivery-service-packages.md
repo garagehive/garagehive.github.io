@@ -19,7 +19,7 @@ To enable the courtesy car and collection and delivery features:
 
    ![](media/garagehive-courtesy-car1.gif)
 
-3. Create service packages for both courtesy car and collection and delivery. See [How to Make a Service Package in Garagehive](garagehive-service-packages.html).
+3. Create service packages for both courtesy car and collection and delivery. See [How to Make a Service Package in Garagehive](garagehive-service-packages.html){:target="_blank"}.
 4. Enter the courtesy car service packages you've created in the **Courtesy Car Service Pack. No.** field below the **Courtesy Vehicle Promoted** and the collection and delivery service package in the **Collection and Delivery Service Pack. No.** field below the **Collection and Delivery Promoted**.
 
    ![](media/garagehive-courtesy-car2.gif)
@@ -36,7 +36,7 @@ After you've finished setting up the feature, you can begin using it by:
 
 ### **See Also**
 
-[How to create Service Packages in Garage Hive](garagehive-service-packages.html) \
-[Service Packages conditions](service-package-conditions.html) \
-[Setting up online booking "Service Packages"](garagehive-onlinebooking-service-packages.html) \
-[Automatically adding Service Packages in documents](/docs/garagehive-automatically-adding-service-packages.html)
+[How to create Service Packages in Garage Hive](garagehive-service-packages.html){:target="_blank"} \
+[Service Packages conditions](service-package-conditions.html){:target="_blank"} \
+[Setting up online booking "Service Packages"](garagehive-onlinebooking-service-packages.html){:target="_blank"} \
+[Automatically adding Service Packages in documents](/docs/garagehive-automatically-adding-service-packages.html){:target="_blank"}

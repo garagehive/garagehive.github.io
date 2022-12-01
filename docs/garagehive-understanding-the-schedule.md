@@ -199,8 +199,8 @@ To add an allocation type in the schedule:
 ### See Also
 
 [Video: Understanding the schedule](https://www.youtube.com/watch?v=JSHb-4I0PCY){:target="_blank"} \
-[Creating a booking from the schedule](/docs/garagehive-create-a-booking.html) \
-[Adding a resource (person or machine) in Garage Hive](garagehive-adding-a-resource.html)
+[Creating a booking from the schedule](/docs/garagehive-create-a-booking.html){:target="_blank"} \
+[Adding a resource (person or machine) in Garage Hive](garagehive-adding-a-resource.html){:target="_blank"}
 
 
 

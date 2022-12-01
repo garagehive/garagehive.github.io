@@ -61,5 +61,5 @@ You can create as many customised labour cards as you want.
 
 ### **See Also**
 
-[Creating an Item Card](garagehive-create-an-item-card.html)
-[Creating Service Packages](/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive")
+[Creating an Item Card](garagehive-create-an-item-card.html){:target="_blank"}
+[Creating Service Packages](/docs/garagehive-service-packages.html "Creating Service Packages in Garage Hive"){:target="_blank"}

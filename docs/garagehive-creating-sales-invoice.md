@@ -8,7 +8,7 @@ title: Creating a Parts Sales Invoice in Garage Hive
 <br>
 
 To create a **Sales Invoice**:
-1. You can create a new **Sales Invoice** by selecting **Sales** from the navigation menu, followed by **Sales Invoice** in the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html); select **Process** from the **Sales Quote** actions bar, followed by **Make Invoice**.
+1. You can create a new **Sales Invoice** by selecting **Sales** from the navigation menu, followed by **Sales Invoice** in the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** actions bar, followed by **Make Invoice**.
 2. In the **Sales Invoice** list, select **New** from the action bars.
 
    ![](media/garagehive-parts-sales-invoice1.gif)
@@ -26,7 +26,7 @@ To create a **Sales Invoice**:
 
 ### **See Also**
 
-[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html) \
-[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html) \
-[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html) \
-[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html)
+[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html){:target="_blank"} \
+[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html){:target="_blank"} \
+[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html){:target="_blank"} \
+[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html){:target="_blank"}

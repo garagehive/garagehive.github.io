@@ -30,7 +30,7 @@ To create a new Estimate:
 
    ![](media/garagehive-create-an-estimate4.gif)
 
-7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** and so on. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html).
+7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** and so on. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}.
 
    ![](media/garagehive-create-an-estimate4.gif)
 
@@ -43,7 +43,7 @@ To create a new Estimate:
     - **Unit Price** - This is the price at which the customer will buy the item or labour per unit.
     - **Unit Price (Calc) Incl. VAT** column - When you click on the amount in this field, a pop-up window will appear, showing the **Unit Price**, **Margin %**, **Unit Price Incl. VAT**, and **Total Incl. VAT**, allowing you to do price calculation.
     - **Line Discount %** column - If you'd like to apply a discount to the job, within this field, fill in the percentage discount.
-    - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html) to add it.
+    - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html){:target="_blank"} to add it.
     - **Line Amount Excl. VAT** - This is the pre-VAT total line amount.
 
       ![](media/garagehive-create-an-estimate5.gif)
@@ -55,7 +55,7 @@ To create a new Estimate:
 ### When the work in the estimate is authorised
 You can either create a jobsheet with all of the items from the estimate added to it, which will close the estimate, or you can select specific lines from the estimate to add to an open jobsheet if one already exists. 
 To convert the whole estimate into a jobsheet:
-1. In the actions bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html) in the schedule for the relevant day.
+1. In the actions bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html){:target="_blank"} in the schedule for the relevant day.
 
    ![](media/garagehive-create-an-estimate7.gif)
 

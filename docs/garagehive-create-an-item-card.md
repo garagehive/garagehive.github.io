@@ -59,7 +59,7 @@ No details should be added in this FastTab.
 
 ## Planning
 Fill the following detail:
-1. **Reordering Policy** - This is the method by which the **Item** should be reordered when it is almost out of stock; select **Maximum Qty** as the reordering policy and enter the **Reorder Point** as the quantity of items that when the item stock reaches it, the item is reordered. When the reordering policy is selected, the item won't appear in the [Items to return report](garagehive-items-to-return.html).
+1. **Reordering Policy** - This is the method by which the **Item** should be reordered when it is almost out of stock; select **Maximum Qty** as the reordering policy and enter the **Reorder Point** as the quantity of items that when the item stock reaches it, the item is reordered. When the reordering policy is selected, the item won't appear in the [Items to return report](garagehive-items-to-return.html){:target="_blank"}.
 
    ![](media/garagehive-create-an-item-card7.png)
 

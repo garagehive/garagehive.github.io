@@ -43,13 +43,13 @@ After receiving a credit memo from the supplier:
 ### **See Also**
 
 [Video: How to create a purchase return order](https://www.youtube.com/watch?v=X81T5UAOTNU&t=83s){:target="_blank"} \
-[Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html) \
-[Create Your First Booking](garagehive-trial-creating-your-first-booking.html) \
-[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html) \
-[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html) \
-[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html) \
-[Viewing Items to Return](garagehive-trial-viewing-items-to-return.html) \
-[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html) \
-[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html) \
-[Creating an Estimate](garagehive-trial-creating-an-estimate.html) \
-[Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html)
+[Welcome to Your Role Centre](garagehive-trial-welcome-to-the-role-centre.html){:target="_blank"} \
+[Create Your First Booking](garagehive-trial-creating-your-first-booking.html){:target="_blank"} \
+[Adding Items and Labour to a Jobsheet](garagehive-trial-adding-items-and-labour-to-a-jobsheet.html){:target="_blank"} \
+[Creating a Purchase Order](garagehive-trial-creating-a-purchase-order.html){:target="_blank"} \
+[Processing a Purchase Order/Invoice](garagehive-trial-processing-a-purchase-order.html){:target="_blank"} \
+[Viewing Items to Return](garagehive-trial-viewing-items-to-return.html){:target="_blank"} \
+[Processing a Vehicle Arriving](garagehive-trial-processing-a-vehicle-arriving.html){:target="_blank"} \
+[Processing a Jobsheet to Invoice](garagehive-trial-processing-a-jobsheet-to-invoice.html){:target="_blank"} \
+[Creating an Estimate](garagehive-trial-creating-an-estimate.html){:target="_blank"} \
+[Processing a Vehicle Inspection Estimate](garagehive-trial-processing-a-vehicle-inspection-estimate.html){:target="_blank"}

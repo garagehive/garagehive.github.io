@@ -14,7 +14,7 @@ Previewing an online document is done when the document to be previewed has been
 
 ### How to preview an online document
 To preview an online document from a jobsheet:
-1. Scroll down to the **Group Items** section (where you have already created the groups, read [Grouping document lines](garagehive-group-items-grouping-document-lines.html)).
+1. Scroll down to the **Group Items** section (where you have already created the groups, read [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}.
 2. Depending on the level of urgency and the nature of the job, add an **Action Category** to each group. You have the option of customising the action categories or using the pre-defined action categories.
 
    ![](media/garagehive-online-documents-previewing-and-publishing1.gif)
@@ -53,10 +53,10 @@ After you have finished preparing the document and are ready to send it to the c
 
 ### **See Also**
 
-[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
-[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
-[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html) \
-[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
-[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
-[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)
+[Introduction to Online Documents](garagehive-online-documents-introduction.html){:target="_blank"} \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"} \
+[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html){:target="_blank"} \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html){:target="_blank"} \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html){:target="_blank"} \
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html){:target="_blank"} \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html){:target="_blank"}

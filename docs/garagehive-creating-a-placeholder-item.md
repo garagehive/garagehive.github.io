@@ -34,7 +34,7 @@ After creating a placeholder item, you can add it to a document for items you ar
 1. Open the particular jobsheet and select **Item** from the **Type** column in the jobsheet lines. 
 2. Start typing the placeholder item name in the **No.** column and choose it from the options. 
 3. Add a description and unit price. 
-4. You can as well [Create a Purchase Order for the Item from the Jobsheet](garagehive-create-a-purchase-order.html).
+4. You can as well [Create a Purchase Order for the Item from the Jobsheet](garagehive-create-a-purchase-order.html){:target="_blank"}.
 
 {% include tip.html title="Tip" text="The placeholder item can be used as many times as need be." %}
 

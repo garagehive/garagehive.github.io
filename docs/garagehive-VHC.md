@@ -80,7 +80,7 @@ You've already communicated with the customer and been advised on what work need
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.gif)
 
 2. Alternatively, from the group items where the document lines have been added:
-   * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html)), where the groups have already been created.
+   * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}), where the groups have already been created.
    * Select the group items that have been approved from the **Customer Authorised** column. When a group is checked, all document lines within that group are approved. A single document line that is already part of a group cannot be separately authorised.
    * From the actions bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
 
@@ -92,6 +92,6 @@ You've already communicated with the customer and been advised on what work need
 
 # See Also
 
-[How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") \
-[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") \
-[Setting reminder date for deffered work](/docs/garagehive-vhc-reminder-date.html)
+[How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive"){:target="_blank"} \
+[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"){:target="_blank"} \
+[Setting reminder date for deffered work](/docs/garagehive-vhc-reminder-date.html){:target="_blank"}

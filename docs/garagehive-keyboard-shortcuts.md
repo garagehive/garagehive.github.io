@@ -5,7 +5,7 @@ title: Garagehive Keyboard Shortcuts
 
 # General Keyboard Shortcuts in Garagehive
 
-In this article, we'll go over some of the most popular keyboard shortcuts used by Garagehive customers. If you're looking for more keyboard shortcuts in business central, please see Microsoft's [Keyboard Shortcuts](https://docs.microsoft.com/en-us/dynamics365/business-central/keyboard-shortcuts) article.
+In this article, we'll go over some of the most popular keyboard shortcuts used by Garagehive customers. If you're looking for more keyboard shortcuts in business central, please see Microsoft's [Keyboard Shortcuts](https://docs.microsoft.com/en-us/dynamics365/business-central/keyboard-shortcuts){:target="_blank"} article.
 
 **F8 Key** - Copies the field in the same column of the row above, and paste it into the current row.
 

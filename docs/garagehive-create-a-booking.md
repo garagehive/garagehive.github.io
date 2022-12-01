@@ -31,5 +31,5 @@ To create a booking from the schedule:
 <br>
 
 ### **See Also**
-[Video: How to schedule a booking in Garage Hive](https://www.youtube.com/watch?v=4bic2AH6Lrw) \
-[Understanding the Schedule](garagehive-understanding-the-schedule.html)
+[Video: How to schedule a booking in Garage Hive](https://www.youtube.com/watch?v=4bic2AH6Lrw){:target="_blank"} \
+[Understanding the Schedule](garagehive-understanding-the-schedule.html){:target="_blank"}

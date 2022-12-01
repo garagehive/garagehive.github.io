@@ -114,7 +114,7 @@ This is your customer card now created.
 
 #   See Also
 
- [Creating a Booking](https://docs.garagehive.co.uk/docs/garagehive-create-a-booking.html "Creating a Booking") 
+ [Creating a Booking](https://docs.garagehive.co.uk/docs/garagehive-create-a-booking.html "Creating a Booking"){:target="_blank"} 
 
  ####   How to apply special labour rates and discounts for customers or customer groups. 
 

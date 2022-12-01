@@ -66,7 +66,7 @@ Then carry out the following steps from VIE:
 
 ### Creating groups by inserting service packages
 To create a group from a service package:
-1. Click **Look Up** and then select **Service Packages** from the document actions bar. The service packages available in the system can be fully priced or hold placeholder lines that you can edit based on your requirements, see [How to create service packages](garagehive-service-packages.html).
+1. Click **Look Up** and then select **Service Packages** from the document actions bar. The service packages available in the system can be fully priced or hold placeholder lines that you can edit based on your requirements, see [How to create service packages](garagehive-service-packages.html){:target="_blank"}.
 2. Select the **Service Package** you want to add and click **OK**.
 3. The service package is automatically added as a group.
 
@@ -88,9 +88,9 @@ To preview or print the document with the group names being the document headers
 
 ### **See Also**
 
-[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
-[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
-[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
-[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html) \
-[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)
+[Introduction to Online Documents](garagehive-online-documents-introduction.html){:target="_blank"} \
+[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html){:target="_blank"} \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html){:target="_blank"} \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html){:target="_blank"} \
+[Using online documents in estimates, checklists and vehicle inspection estimates](garagehive-online-documents-using-online-documents-in-estimates-checklists-and-vehicle-inspection-estimates.html){:target="_blank"} \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html){:target="_blank"}

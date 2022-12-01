@@ -11,7 +11,7 @@ Please visit our [Youtube Channel](https://www.youtube.com/channel/UCEO94MEqoL9C
 
 # Garage Hive Community 
 
-Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community") for some great discussions, community help and to get the chance to speak directly with our development team. 
+Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community"){:target="_blank"} for some great discussions, community help and to get the chance to speak directly with our development team. 
 
 # Need Help? 
 
