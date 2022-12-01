@@ -95,7 +95,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
     ![](media/garagehive-xero-dimensions.png)
 
-3. Add the column **External Dimension Value Code** to the page that appears by using Garage Hive's [personalising feature](garagehive-personalising-garagehive.html#adding-fields-to-pages).
+3. Add the column **External Dimension Value Code** to the page that appears by using Garage Hive's [personalising feature](garagehive-personalising-garagehive.html#adding-fields-to-pages){:target="_blank"}.
 4. Enter the values in this column to match the **Code** for the branch, then exit the page.
 
     ![](media/garagehive-xero-external-dimension-values-personalisation.png)
@@ -126,7 +126,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
 ### **See Also**
 
-[Video: Xero Integration in Garage Hive](https://www.youtube.com/watch?v=WhGdR_xz9xo) \
-[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html) \
-[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html) \
-[How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html)
+[Video: Xero Integration in Garage Hive](https://www.youtube.com/watch?v=WhGdR_xz9xo){:target="_blank"} \
+[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html){:target="_blank"} \
+[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"} \
+[How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html){:target="_blank"}

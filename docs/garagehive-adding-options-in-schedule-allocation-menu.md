@@ -24,7 +24,7 @@ To add a new option:
 
    ![](media/garagehive-schedule-allocation-menu3.gif)
 
-8. Finally, assign the new allocation to a **Service Type**. **Service Type** are customised to your preferences and the jobs you perform. You can link a service type with a **Service Package** so that it is automatically added to the jobsheet when booking. Learn more about [How to Create Service Packages](garagehive-service-packages.html) and [Adding Service Packages Automatically](garagehive-automatically-adding-service-packages.html).
+8. Finally, assign the new allocation to a **Service Type**. **Service Type** are customised to your preferences and the jobs you perform. You can link a service type with a **Service Package** so that it is automatically added to the jobsheet when booking. Learn more about [How to Create Service Packages](garagehive-service-packages.html){:target="_blank"} and [Adding Service Packages Automatically](garagehive-automatically-adding-service-packages.html){:target="_blank"}.
 
    ![](media/garagehive-schedule-allocation-menu4.gif)
 
@@ -35,8 +35,8 @@ To add a new option:
 
 ### **See Also**
 
-[Understanding the Schedule](garagehive-understanding-the-schedule.html)
-[Creating a booking from the Schedule](garagehive-create-a-booking.html)
-[How to Create Service Package in Garage Hive](garagehive-service-packages.html)
-[Adding Service Packages Automatically](garagehive-automatically-adding-service-packages.html)
-[Automatically Adding Courtesy Car and Collection and Delivery Service Packages](garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html)
+[Understanding the Schedule](garagehive-understanding-the-schedule.html){:target="_blank"}
+[Creating a booking from the Schedule](garagehive-create-a-booking.html){:target="_blank"}
+[How to Create Service Package in Garage Hive](garagehive-service-packages.html){:target="_blank"}
+[Adding Service Packages Automatically](garagehive-automatically-adding-service-packages.html){:target="_blank"}
+[Automatically Adding Courtesy Car and Collection and Delivery Service Packages](garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html){:target="_blank"}

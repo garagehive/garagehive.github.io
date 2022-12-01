@@ -67,5 +67,5 @@ To switch between till and standalone mode of the card terminal, follow these st
 <br>
 
 ### **See Also**
-[Setting Up Payment by Card Terminal](garagehive-setting-up-payment-by-card-terminal.html)
+[Setting Up Payment by Card Terminal](garagehive-setting-up-payment-by-card-terminal.html){:target="_blank"}
 

@@ -15,7 +15,7 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt1.png)
 
-1. To begin, use the **Payment Assist Commission** item card available in the items list, or [create an **Item** card](garagehive-create-an-item-card.html) with this setup; make it a **Non-Inventory**, and add an **Item Category Code** (**PAYMENTASSIST**) to distinguish it from other item category codes. If you have more than one factoring company, create a separate item card for each.
+1. To begin, use the **Payment Assist Commission** item card available in the items list, or [create an **Item** card](garagehive-create-an-item-card.html){:target="_blank"} with this setup; make it a **Non-Inventory**, and add an **Item Category Code** (**PAYMENTASSIST**) to distinguish it from other item category codes. If you have more than one factoring company, create a separate item card for each.
 1. The **Posting Details** should be: **Gen. Prod. Posting Group** - **FDEBT** and **VAT Prod. Posting Group** - **STANDARD**. If this is not set up in your system, please contact the support team for assistance.
 
    ![](media/garagehive-processing-factored-debt2.png)

@@ -33,8 +33,8 @@ Here's how to use the **Parts Sales Return Order** in Garage Hive:
 
 ### **See Also**
 
-[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html) \
-[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html) \
-[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html) \
-[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html)
+[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html){:target="_blank"} \
+[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html){:target="_blank"} \
+[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html){:target="_blank"} \
+[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html){:target="_blank"}
 

@@ -29,13 +29,13 @@ To schedule specific times to refresh the Power BI Data:
 <br>
 
 ### **See Also**
-[Video - How to refresh your Power BI Data](https://youtu.be/iB1gOxYTn4k) \
-[How to set your Average Labour Rate](garagehive-labour-rate.html) \
-[Installing the Power BI App](powerbi-installing-app.html) \
-[Updating your Power BI App](powerbi-updating-app.html) \
-[Updating your Power BI credentials](powerbi-updating-app.html) \
-[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html) \
-[How to Set Business Targets](garagehive-how-to-set-business-targets.html)
+[Video - How to refresh your Power BI Data](https://youtu.be/iB1gOxYTn4k){:target="_blank"} \
+[How to set your Average Labour Rate](garagehive-labour-rate.html){:target="_blank"} \
+[Installing the Power BI App](powerbi-installing-app.html){:target="_blank"} \
+[Updating your Power BI App](powerbi-updating-app.html){:target="_blank"} \
+[Updating your Power BI credentials](powerbi-updating-app.html){:target="_blank"} \
+[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html){:target="_blank"} \
+[How to Set Business Targets](garagehive-how-to-set-business-targets.html){:target="_blank"}
 
 
 

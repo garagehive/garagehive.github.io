@@ -43,7 +43,7 @@ The Tyre Scanner is used in conjunction with the Checklist, which is where the T
    ![](media/garagehive-tyre-scanner2.gif)
 
 3. Select the one related to the **Tyres** on the **Checklist Template Item Groups** page, and then click on the number in the column **Item Group Lines**. Click on **Edit List**, to enable editing on this page.
-4. If the **Data Type**, **Vehicle Axle**, **Vehicle Side**, and **Wheel Position** columns are not visible in the **Checklist Items** page, add them through [personalisation](garagehive-personalising-garage-hive.html#adding-fields-to-pages) and move them closer together.
+4. If the **Data Type**, **Vehicle Axle**, **Vehicle Side**, and **Wheel Position** columns are not visible in the **Checklist Items** page, add them through [personalisation](garagehive-personalising-garage-hive.html#adding-fields-to-pages){:target="_blank"} and move them closer together.
 
    ![](media/garagehive-tyre-scanner3.gif)
 

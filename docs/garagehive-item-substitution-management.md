@@ -29,7 +29,7 @@ To setup **Item Substitution**:
 
    ![](media/garagehive-item-substitution3a.gif)
 
-5. If you want to know which items have a substitute, look at the **Substitutes Exist** column in the items list. If the column is not available, you can add it by [personalising](garagehive-personalising-garagehive.html#adding-fields-to-pages) the page.
+5. If you want to know which items have a substitute, look at the **Substitutes Exist** column in the items list. If the column is not available, you can add it by [personalising](garagehive-personalising-garagehive.html#adding-fields-to-pages){:target="_blank"} the page.
 
    ![](media/garagehive-item-substitution4.png)
 
@@ -49,9 +49,9 @@ To use the substitutes that have been added:
 
 ### **See Also**
 
-[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html) \
-[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html) \
-[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html) \
-[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html)
+[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html){:target="_blank"} \
+[Using Parts Sales Order in Garage Hive](garagehive-using-parts-sales-order.html){:target="_blank"} \
+[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html){:target="_blank"} \
+[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html){:target="_blank"}
 
 

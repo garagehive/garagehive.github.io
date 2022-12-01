@@ -28,6 +28,6 @@ There may be no suggested application for journal lines; this could be due to a 
 ### **See Also**
 
 [Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ){:target="_blank"} \
-[Reconcile payments using the automatic application](garagehive-reconcile-payments-using-automatic-application.html) \
-[Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html) \
-[Map text on recurring payments to accounts for automatic reconciliation](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html) 
+[Reconcile payments using the automatic application](garagehive-reconcile-payments-using-automatic-application.html){:target="_blank"} \
+[Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html){:target="_blank"} \
+[Map text on recurring payments to accounts for automatic reconciliation](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html){:target="_blank"} 

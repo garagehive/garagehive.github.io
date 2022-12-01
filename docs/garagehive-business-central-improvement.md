@@ -21,7 +21,7 @@ This article will list the improvements that come with Microsoft Dynamics 365 Bu
 
 2. **Add non-inventory items on requisition and planning worksheets**
    
-   **Garage Hive Operation:** [Re-ordering policies and requisition worksheet](garagehive-requisition-worksheet.html)
+   **Garage Hive Operation:** [Re-ordering policies and requisition worksheet](garagehive-requisition-worksheet.html){:target="_blank"}
    <br>
 
    **Feature Details**: You can process non-inventory lines in much the same way as other types of items. If you use requisition and planning worksheets as the starting point for purchase orders in your procurement process, you can manually enter lines for non-inventory items on the worksheets. Then, when you create your purchase orders, the non-inventory items will be included. This allows you to use the same procurement process for inventory and non-inventory items.
@@ -98,7 +98,7 @@ This article will list the improvements that come with Microsoft Dynamics 365 Bu
 ## BC 18 Improvements - November 2021
 1. **Dimension corrections (for G/L Entries)**
 
-   **Garage Hive Operation:** [Working with dimensions](garagehive-understanding-dimensions-in-business-central.html)
+   **Garage Hive Operation:** [Working with dimensions](garagehive-understanding-dimensions-in-business-central.html){:target="_blank"}
    <br>
 
    **Feature Details**: On the General Ledger Entries page, the Correct Dimensions action lets you correct dimensions on posted entries by editing the dimension value, adding new dimensions, or removing them. Administrators can also lock dimensions for corrections, specify that corrections must respect closed accounting periods, and view a change log for a given G/L entry in order to revert the entry to its original value.
@@ -112,7 +112,7 @@ This article will list the improvements that come with Microsoft Dynamics 365 Bu
 
 3. **Payment reconciliation journal improvements**
 
-   **Garage Hive Operation:** [Working with Payment Reconciliation Journal](garagehive-payment-reconciliation-journals.html)
+   **Garage Hive Operation:** [Working with Payment Reconciliation Journal](garagehive-payment-reconciliation-journals.html){:target="_blank"}
    <br>
 
    **Feature Details:** You must regularly reconcile your bank, receivables, and payables accounts by applying payments recorded in the bank to their related open (unpaid) invoices and credit memos or other open entries in Business Central. With this improvement, the payment reconciliation journal supports application against employee ledger entries.

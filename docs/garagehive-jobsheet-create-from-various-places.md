@@ -42,6 +42,6 @@ When customers book online, the bookings are directly reflected in the system fr
 ### **See Also**
 
 [Video: How to schedule a booking in Garage Hive](https://www.youtube.com/watch?v=4bic2AH6Lrw){:target="_blank"} \
-[Creating a Vehicle Inspection Estimate](garagehive-VHC.html) \
-[Creating a Booking From the Schedule](garagehive-create-a-booking.html) \
-[Creating an estimate](garagehive-create-an-estimate.html)
+[Creating a Vehicle Inspection Estimate](garagehive-VHC.html){:target="_blank"} \
+[Creating a Booking From the Schedule](garagehive-create-a-booking.html){:target="_blank"} \
+[Creating an estimate](garagehive-create-an-estimate.html){:target="_blank"}

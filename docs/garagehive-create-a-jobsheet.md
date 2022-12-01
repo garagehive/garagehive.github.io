@@ -4,7 +4,7 @@ title: Creating a Jobsheet
 ---
 
 # Creating a Jobsheet 
-There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create-from-various-places.html). In this article we'll look at the standard way to create a new Jobsheet.
+There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create-from-various-places.html){:target="_blank"}. In this article we'll look at the standard way to create a new Jobsheet.
 
 ## In this article
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
@@ -61,7 +61,7 @@ There are various methods for creating a jobsheet, as described in [this article
 
       ![](media/garagehive-create-a-jobsheet6.gif)
    
-1. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html). 
+1. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}. 
 
     ![](media/garagehive-create-a-jobsheet6a.png)
 
@@ -75,7 +75,7 @@ There are various methods for creating a jobsheet, as described in [this article
     - **Unit Price** - This is the price at which the customer will buy the item or labour per unit.
     - **Unit Price (Calc) Incl. VAT** column - When you click on the amount in this field, a pop-up window will appear, showing the **Unit Price**, **Margin %**, **Unit Price Incl. VAT**, and **Total Incl. VAT**, allowing you to do price calculation.
     - **Line Discount %** column - If you want to apply a discount to the line, within this field, fill in the percentage discount.
-    - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html) to add it.
+    - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html){:target="_blank"} to add it.
     - **Line Amount Excl. VAT** - This is the pre-VAT total line amount.
     
          ![](media/garagehive-create-a-jobsheet7.gif)
@@ -107,9 +107,9 @@ To setup Jobsheet deletion reasons:
 
 ### **See Also**
 
-[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
-[Creating a New Jobsheet From Various Places in Garage Hive](garagehive-jobsheet-create-from-various-places.html) \
-[Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html) \
-[Posted & Archived Jobsheets](garagehive-posted-archived-documents.html) \
-[Managing Key Numbers in Garage Hive](garagehive-managing-key-numbers-in-the-system.html) \
-[Customising Vehicle Reminder Dates](garagehive-customising-vehicle-reminder-dates.html)
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"} \
+[Creating a New Jobsheet From Various Places in Garage Hive](garagehive-jobsheet-create-from-various-places.html){:target="_blank"} \
+[Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html){:target="_blank"} \
+[Posted & Archived Jobsheets](garagehive-posted-archived-documents.html){:target="_blank"} \
+[Managing Key Numbers in Garage Hive](garagehive-managing-key-numbers-in-the-system.html){:target="_blank"} \
+[Customising Vehicle Reminder Dates](garagehive-customising-vehicle-reminder-dates.html){:target="_blank"}

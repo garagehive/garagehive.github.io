@@ -69,13 +69,13 @@ Below is a list of Garage Hive developments:
    ![](media/garagehive-autodata-workshop-appliction-action.png)
 
 ### 4th July 2022
-* Added the [Requisition Worksheet Express](garagehive-requisition-worksheet.html) tile to the role centre and an automatic recalculation of what needs to be ordered each day.
+* Added the [Requisition Worksheet Express](garagehive-requisition-worksheet.html){:target="_blank"} tile to the role centre and an automatic recalculation of what needs to be ordered each day.
 
    ![](media/garagehive-requisition-worksheet4.png)
   
 ### 30th June 2022
 * Payment methods and balance due have been added to print layouts, which helps in knowing how the customer has paid and the balance due.
-* Added **Reason Code** for deleted jobsheets; when [deleting a Jobsheet](garagehive-create-a-jobsheet.html#setup-for-jobsheet-deletion-reasons), you can now specify the reason for the deletion.
+* Added **Reason Code** for deleted jobsheets; when [deleting a Jobsheet](garagehive-create-a-jobsheet.html#setup-for-jobsheet-deletion-reasons){:target="_blank"}, you can now specify the reason for the deletion.
 
    ![](media/reason-code-jobsheet.jpg)
 
@@ -93,7 +93,7 @@ Below is a list of Garage Hive developments:
 * Improvements to external accounting exports for vehicle sales invoices. When exporting vehicle sales invoices and credit memos to **Sage 50**, the **Vehicle Reg. No.**, **Make**, and **Model** are included in the description.
 
 ### 30th May 2022
-* Added the ability to assign user tasks to a group of users; read more [here](garagehive-user-tasks.html).
+* Added the ability to assign user tasks to a group of users; read more [here](garagehive-user-tasks.html){:target="_blank"}.
 * Added the ability to set different print layout settings based on document types.
 
    ![](media/print-layout-options.png)
@@ -113,7 +113,7 @@ Below is a list of Garage Hive developments:
    ![](media/garagehive-copy-vin-to-clipboard.png)
 
 ### 25th March 2022
-* Added a **Create Alternative** action Within the **Group Item** subpage, read more [here](garagehive-group-items-working-with-group-items-actions.html).
+* Added a **Create Alternative** action Within the **Group Item** subpage, read more [here](garagehive-group-items-working-with-group-items-actions.html){:target="_blank"}.
 
    ![](media/garagehive-group-item-create-alternative.png)
 
@@ -126,7 +126,7 @@ Below is a list of Garage Hive developments:
 
    ![](media/garagehive-checklist-key-tag-field.png)
 
-* Added a new emailing feature with rich-text editor that allows you to add text formatting, links, bullet points, and more to improve your emailing experience with customers from the system. Read more [here](garagehive-using-emailing-feature.html).
+* Added a new emailing feature with rich-text editor that allows you to add text formatting, links, bullet points, and more to improve your emailing experience with customers from the system. Read more [here](garagehive-using-emailing-feature.html){:target="_blank"}.
 
 ### 3rd March 2022
 * eCommerce Garage Link web layout changes:
@@ -187,7 +187,7 @@ Below is a list of Garage Hive developments:
   - Take payment wizard on the Parts Sales Admin role centre.
   - Default lines layout for sales orders and sales quote.
   - Card and item history overviews actions to lines in sales orders and quotes.
-* Added [item substitution management](garagehive-item-substitution-management.html) function, with the following developments:
+* Added [item substitution management](garagehive-item-substitution-management.html){:target="_blank"} function, with the following developments:
   - The display of 🔃 in line checker on jobsheets if item has substitutions.
 
      ![](media/garagehive-item-substitute.png)
@@ -197,14 +197,14 @@ Below is a list of Garage Hive developments:
 
 ### 15th December 2021
 * [Items to Report](garagehive-items-to-return.html) now considers stock keeping units.
-* **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet.html) now works with stock keeping units.
+* **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet.html){:target="_blank"} now works with stock keeping units.
 * Added the possibility to correct a posted jobsheet.
 * Added the **Mark as Reviewed** button to the **Comments Attention**, **Surveys to Review**, **Online Booking to Review** and **Self Check-in** tiles.
-* Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-extending-price-markup-and-discount-calculations.html).
+* Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-extending-price-markup-and-discount-calculations.html){:target="_blank"}.
 
 ### 8th December 2021
-* Added the ability to login to PowerBI using [Web Service Access Key](powerbi-installing-app.html), instead of Garage Hive System password.
-* On the [Payment Reconciliation Journal Page](garagehive-payment-reconciliation-journals.html), a notification has been added to direct users to the documentation site for more information on the payment reconciliation journals.
+* Added the ability to login to PowerBI using [Web Service Access Key](powerbi-installing-app.html){:target="_blank"}, instead of Garage Hive System password.
+* On the [Payment Reconciliation Journal Page](garagehive-payment-reconciliation-journals.html){:target="_blank"}, a notification has been added to direct users to the documentation site for more information on the payment reconciliation journals.
 * External consultants, like the owner, can now view the survey results.
 
 ### 1st December 2021
@@ -214,13 +214,13 @@ Below is a list of Garage Hive developments:
   - Moved the preview action to publish page and made it possible to save introduction text in preview until it's published.
   - Changed the payment plan first option from 'blank' to 'Not Available'.
 
-* Added the ability to [adjust the labour time matrix](garagehive-autodata-labour-time-adjustment.html) in Autodata with a percentage or hours.
+* Added the ability to [adjust the labour time matrix](garagehive-autodata-labour-time-adjustment.html){:target="_blank"} in Autodata with a percentage or hours.
 
 ### 22nd November 2021
 
 * Speed improvement for clocking terminal v18.
 * Vehicle sales additions such as creating an order at the point of the deal, recording deposits, adding part exchange details, etc.
-* Added the option of adding items to return in an existing Purchase Return Order (PRO) [Read More](garagehive-items-to-return.html).
+* Added the option of adding items to return in an existing Purchase Return Order (PRO) [Read More](garagehive-items-to-return.html){:target="_blank"}.
 * Added the ability to lookup service interval matrix by Make, Model, and Engine Code.
 * Optimized the Garage Hive media upload to handle larger images of up to 20MB JPEG.
 * Added key tag number to printed job card.
@@ -240,10 +240,10 @@ Below is a list of Garage Hive developments:
 
 ### 27th October 2021
 
-* [Internal Surveys](garagehive-internal-surveys.html): Similar to NPS surveys, but now for employees, for you as a business owner when providing feedback to external consultants, and so on.
+* [Internal Surveys](garagehive-internal-surveys.html){:target="_blank"}: Similar to NPS surveys, but now for employees, for you as a business owner when providing feedback to external consultants, and so on.
 * Added case sensitive search for online booking.
 * Added the ability to create service packages from Jobsheets, Vehicle Inspection Estimates and Estimates.
-* Added the [comment (extended)](garagehive-comments-extended.html) column to the comment setup to allow for the addition of standard comments that can be used multiple times.
+* Added the [comment (extended)](garagehive-comments-extended.html){:target="_blank"} column to the comment setup to allow for the addition of standard comments that can be used multiple times.
 * Added an action to duplicate a group and its lines, after which you can change the prices.
 * Added the ability to select multiple groups and merge them.
 * Added the ability to use document mileage field tag for use in header text.
@@ -440,7 +440,7 @@ Major Power BI Update
 
 ### 31st August 2020
 
-New Platform Features - [Video](https://youtu.be/3ovTA2JY2No "Find out more")
+New Platform Features - [Video](https://youtu.be/3ovTA2JY2No "Find out more"){:target="_blank"}
 
 Including features such as:
 * Multi window support
@@ -452,7 +452,7 @@ Including features such as:
 * Ability to customise role centres
 * and much more..
 
-New System Features - [Video](https://youtu.be/j55YgyCZzxk "Find out more")
+New System Features - [Video](https://youtu.be/j55YgyCZzxk "Find out more"){:target="_blank"}
 
 Including features such as:
 * New pricing matrix for sales markups
@@ -561,8 +561,8 @@ Including features such as:
 
 ### 17th February 2020
 
-* Added Comments for Attention Feature, allowing certain comment types to populate a red tile - [Video](https://youtu.be/X4zGgGS3CJw "Find out more")
-* Added the ability to automatically add service packages to documents depending on service type - [Video](https://youtu.be/6y-c47xIYfE "Find out more")
+* Added Comments for Attention Feature, allowing certain comment types to populate a red tile - [Video](https://youtu.be/X4zGgGS3CJw "Find out more"){:target="_blank"}
+* Added the ability to automatically add service packages to documents depending on service type - [Video](https://youtu.be/6y-c47xIYfE "Find out more"){:target="_blank"}
 * Post and Print will now open the take payment window unless payment terms are set
 * Added Vehicle Sales Web Services for Vehicle Sales Power BI App
 * Added the option for VRM to work with UK and Irish plates at the same time
@@ -581,8 +581,8 @@ Including features such as:
 ### 29th January 2020
 
 * Add Vehicle Production Year and First Registration Date to the FactBox
-* Added Comments (Extended) to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/ebt1UsiP28k "Find out more")
-* Added Service Package filtering to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/QUHHTT2wBkM "Find out more")
+* Added Comments (Extended) to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/ebt1UsiP28k "Find out more"){:target="_blank"}
+* Added Service Package filtering to Jobsheets, Estimates and VI-Estimates - [Video](https://youtu.be/QUHHTT2wBkM "Find out more"){:target="_blank"}
 * Added Customer Arrival Time field to Jobsheets
 * Added Mobile Phone Number, Phone Number & Email Address to posted jobsheet list
 * Updated Xero API to oAuth 2.0
@@ -603,17 +603,17 @@ Including features such as:
 ### 11th January 2020
 
  * Added Vehicle Sales module 
-    * Vehicle Sales Invoices  - [Video](https://youtu.be/CToJ_TIWhoU "Find out more")
-    * Vehicle Purchase Invoices  - [Video](https://youtu.be/7AzXrQQwDrM "Find out more")
+    * Vehicle Sales Invoices  - [Video](https://youtu.be/CToJ_TIWhoU "Find out more"){:target="_blank"}
+    * Vehicle Purchase Invoices  - [Video](https://youtu.be/7AzXrQQwDrM "Find out more"){:target="_blank"}
     * Vehicle Stock Report
-    * Vehicle Reservations  - [Video](https://youtu.be/SohtRJMdYoQ "Find out more")
+    * Vehicle Reservations  - [Video](https://youtu.be/SohtRJMdYoQ "Find out more"){:target="_blank"}
     * VAT Margin Scheme
-    * Internal Preparation Jobsheets  - [Video](https://youtu.be/uucqFgWc6I8 "Find out more")
+    * Internal Preparation Jobsheets  - [Video](https://youtu.be/uucqFgWc6I8 "Find out more"){:target="_blank"}
 
 
 ### 29th December 2019
 
-* Release second generation online booking  - [Video](https://youtu.be/QQwRSnH4oyk "Find out more")
+* Release second generation online booking  - [Video](https://youtu.be/QQwRSnH4oyk "Find out more"){:target="_blank"}
     * Works with any website
     * Automated scheduling
     * Automated capacity & availability
@@ -677,12 +677,12 @@ Including features such as:
 ![](media/garagehive-whatsnew-parking.jpg)
 * Compressed the line spacing in labour extended descriptions
 * Added the ability to copy/paste service package versions
-* Added the ability to share/export/import checklists with other GH users - [Video](https://youtu.be/JT7NcMEEa8Y "Find out more")
+* Added the ability to share/export/import checklists with other GH users - [Video](https://youtu.be/JT7NcMEEa8Y "Find out more"){:target="_blank"}
 * Added the ability to print checklist captions
 
 ### 30th October 2019
 
-* Introduced User Tasks - [Video](https://youtu.be/iz7FR3dOQKU "Find out more")
+* Introduced User Tasks - [Video](https://youtu.be/iz7FR3dOQKU "Find out more"){:target="_blank"}
     * Create tasks for yourself
     * Create tasks for other users
     * Set due dates on tasks
@@ -708,7 +708,7 @@ Including features such as:
 
 ### 20th October 2019
 
-* Introduced Open Estimate analysis Power BI report - [Video](https://youtu.be/DOXzAKsTxIo "Find out more")
+* Introduced Open Estimate analysis Power BI report - [Video](https://youtu.be/DOXzAKsTxIo "Find out more"){:target="_blank"}
 * Improved VHC analysis Power BI report
 
 ### 7th October 2019
@@ -726,19 +726,19 @@ Including features such as:
 
 ### 1st October 2019
 
-* Added the ability to let technicians select from a pool of "Group Tasks" [Video](https://youtu.be/oCRC4WCvHeQ "Find out more")
+* Added the ability to let technicians select from a pool of "Group Tasks" [Video](https://youtu.be/oCRC4WCvHeQ "Find out more"){:target="_blank"}
 
 
 
 ### 29th September 2019
 
-* Added Customer Satisfaction, [Net Promoter Score and Survey feature](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS")
+* Added Customer Satisfaction, [Net Promoter Score and Survey feature](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS"){:target="_blank"}
     * Automated SMS/Email feedback requests
     * New detailed Power BI reports
     * Live customer insights from any document
     * Access to previous feedbacks from any document
     * Ability to review and action all feedback recieved
-    * More Information available here - [Click here](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS")
+    * More Information available here - [Click here](https://www.garagehive.co.uk/customer-surveys-nps "Surveys and NPS"){:target="_blank"}
 * Added the ability to add paragraphs to email reminders and booking confirmations
 * Added the ability to display tyre label information on documents
 * Added the ability to set estimate reminders
@@ -828,7 +828,7 @@ Added Autodata Oil and Lubricant information to Jobsheets
 * Added "Jobsheets Total" tile
 * Technicians pausing a job now creates a new allocation with the actual remaining time of the job
 * Technicians completing a paused job will remove the paused allocation
-* Technicians can now see allocated time, spent time & remaining time on their Jobsheets - [Video](https://youtu.be/B9ol7J_4dhI "Technicians Remaining Time")
+* Technicians can now see allocated time, spent time & remaining time on their Jobsheets - [Video](https://youtu.be/B9ol7J_4dhI "Technicians Remaining Time"){:target="_blank"}
 ![](media/garagehive-technician-statistics.png)
 * Requestion Worksheet has been added to the Service Financial Controller role centre
 * Added PLEO to bank statement Imports
@@ -872,7 +872,7 @@ Added Autodata Oil and Lubricant information to Jobsheets
 * Booking Date/Time appears immediately on Jobsheets
 
 ### 12th June 2019
-* Introduced [Non-Inventory Items](https://youtu.be/itE0goMsFCI "Non-Inventory Items")
+* Introduced [Non-Inventory Items](https://youtu.be/itE0goMsFCI "Non-Inventory Items"){:target="_blank"}
 
 ### 31st May 2019
 * Improved the send SMS interface
@@ -889,12 +889,12 @@ Added Autodata Oil and Lubricant information to Jobsheets
 * Added an option to remove the booking time from the customer notification booking reminders
 
 ### 24th May 2019
-* Added a new method of applying payments to customers - Register Customer Payments - [Video](https://youtu.be/rmfIFULOCKY "Register Customer Payments")
+* Added a new method of applying payments to customers - Register Customer Payments - [Video](https://youtu.be/rmfIFULOCKY "Register Customer Payments"){:target="_blank"}
 * Fixed an error when printing "Posted Return Jobsheets"
 * Added vehicle inspections data to web services for reporting purposes
 * Added Estimate tiles to the "Service Financial Controller" Role Centre
 * Added Vendor Columns to item lines of VHCs and Estimates, this information will copy to the Jobsheet
-* Introduced a warning for technicians when they attempt to clock off a jobsheet without all item/labour lines being confirmed by the technician [Video](https://youtu.be/jX21NVsKeZ4 "Technician Confirmed")
+* Introduced a warning for technicians when they attempt to clock off a jobsheet without all item/labour lines being confirmed by the technician [Video](https://youtu.be/jX21NVsKeZ4 "Technician Confirmed"){:target="_blank"}
 * Added the ability for technicians to access the schedule via easy clocking if required
 * Added Customer GDPR Preferences to vehicle lists for data export
 * "Stock out warning" won't be given on the item line if the item card has "stockout warning" unticked
@@ -903,7 +903,7 @@ Added Autodata Oil and Lubricant information to Jobsheets
 * Added a "refund" option to return jobsheets
 * Created a new role centre for Multi-location companies with additional multi-location features
 * Extended SMS capacity to 900 characters
-* Introduced Requisition worksheets & Stock control [Video](https://youtu.be/-RptpsLg2kk "Requisition Worksheets")
+* Introduced Requisition worksheets & Stock control [Video](https://youtu.be/-RptpsLg2kk "Requisition Worksheets"){:target="_blank"}
   * Stock re-order points on an item number
   * Generate a stock requirement report
   * Auto-creation of purchase orders
@@ -1002,11 +1002,11 @@ Added Autodata Oil and Lubricant information to Jobsheets
 * Removed Zero value invoices from external accountancy export.
 * Added ability to refresh MOT data from MOT Notification bar in the Jobsheet. ![](media/garagehive-notification-motupdate.png)
 * Added SMS and Email preview functionality to customer notification setup (Reminders) 
-[View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive").
+[View our video guide for Customer Notifications here](https://youtu.be/Bds8JQgDQN4 "How to Setup Customer Notifications in Garage Hive"){:target="_blank"}.
 * Added Labour No. to Web Services for Power BI and Reporting features.
 
 ### 27th February 2019
- [What's New in Garage Hive - Feb '19 Roundup](https://youtu.be/YootXcNrezM "What's New in Garage Hive - Feb '19 Roundup")
+ [What's New in Garage Hive - Feb '19 Roundup](https://youtu.be/YootXcNrezM "What's New in Garage Hive - Feb '19 Roundup"){:target="_blank"}
 
 
 
@@ -1038,7 +1038,7 @@ Added Autodata Oil and Lubricant information to Jobsheets
 
 
 ### 31st January 2019
-[What's New in Garage Hive - Jan '19 Roundup Part II - Video](https://youtu.be/W0Xpttp1L7Q "What's New in Garage Hive - Jan '19 Roundup Part II")
+[What's New in Garage Hive - Jan '19 Roundup Part II - Video](https://youtu.be/W0Xpttp1L7Q "What's New in Garage Hive - Jan '19 Roundup Part II"){:target="_blank"}
 
 * Update to the TCard system, now works in conjunction with the schedule and can be updated from the header of a jobsheet. You can also update the status of the TCard/Jobsheet by dragging the job on the TCard system. 
 * Email/SMS reminders for booking date reminders now active in the system. 

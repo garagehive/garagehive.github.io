@@ -22,8 +22,8 @@ If the information being collected is needed on a regular basis, such as daily, 
 
 ### **See Also**
 
-[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
-[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html) \
-[Reviewing internal surveys](reviewing-internal-surveys.html) \
-[Exporting an internal survey](garagehive-exporting-an-internal-survey.html) \
-[Importing an internal survey](garagehive-importing-an-internal-survey.html)
+[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html){:target="_blank"} \
+[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html){:target="_blank"} \
+[Reviewing internal surveys](reviewing-internal-surveys.html){:target="_blank"} \
+[Exporting an internal survey](garagehive-exporting-an-internal-survey.html){:target="_blank"} \
+[Importing an internal survey](garagehive-importing-an-internal-survey.html){:target="_blank"}

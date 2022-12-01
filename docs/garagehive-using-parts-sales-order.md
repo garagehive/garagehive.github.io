@@ -7,7 +7,7 @@ title: Using Parts Sales Order in Garage Hive
 **Parts Sales Order** is the document in which you record the parts to sell to the customer at the agreed-upon cost and quantity. Sales orders, allow you to ship partially, deliver directly from your vendor to your customer, and initiate inventory processing. The **Sales Order** process integrates sales invoicing. 
 
 Here's how to use the **Sales Order** in Garage Hive:
-1. You can create a new **Sales Order** by selecting **Sales Orders** tile from the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html); select **Process** from the **Sales Quote** actions bar, followed by **Make Order**.
+1. You can create a new **Sales Order** by selecting **Sales Orders** tile from the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** actions bar, followed by **Make Order**.
 1. From the **Sales Order** list page, select **New** from the actions bar.
 
    ![](media/garagehive-parts-sales-order1.gif)
@@ -57,9 +57,9 @@ Here's how to use the **Sales Order** in Garage Hive:
 
 ### **See Also**
 
-[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html) \
-[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html) \
-[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html) \
-[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html)
+[Creating a Parts Sales Quote in Garage Hive](garagehive-creating-sales-quote.html){:target="_blank"} \
+[Creating a Sales Parts Invoice](garagehive-creating-sales-invoice.html){:target="_blank"} \
+[Using Parts Sales Return Order in Garage Hive](garagehive-using-sales-return-order.html){:target="_blank"} \
+[Item Substitution Management in Garage Hive](garagehive-item-substitution-management.html){:target="_blank"}
 
 

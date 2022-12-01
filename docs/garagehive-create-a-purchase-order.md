@@ -53,12 +53,12 @@ To create a purchase order directly from a Jobsheet:
 This option is typically used only after the invoice has been received from the supplier. To create a Purchase Order from the home screen:
 1. Select **Purchasing**, and then **Purchase Orders** from the navigation menu in the home screen.
 2. Choose **New** from the **Purchase Orders** page.
-3. Start typing the vendor name in the **Vendor No.** field, and select from the list. If the vendor is not available in the system you can [create a new vendor card](garagehive-create-a-vendor-card.html).
+3. Start typing the vendor name in the **Vendor No.** field, and select from the list. If the vendor is not available in the system you can [create a new vendor card](garagehive-create-a-vendor-card.html){:target="_blank"}.
 4. In the **General** FastTab, enter the invoice number in the **Vendor Invoice No.** field.
 
    ![](media/garagehive-creating-a-purchase-order6.gif)
 
-5. Scroll down to the **Lines** FastTab and add the items from the supplier invoice by selecting **Item** in the **Type** column and entering the part number in the **No.** column, or [create an item card](garagehive-create-an-item-card.html) for items not in stock list.
+5. Scroll down to the **Lines** FastTab and add the items from the supplier invoice by selecting **Item** in the **Type** column and entering the part number in the **No.** column, or [create an item card](garagehive-create-an-item-card.html){:target="_blank"} for items not in stock list.
 
    ![](media/garagehive-creating-a-purchase-order7.gif)
 

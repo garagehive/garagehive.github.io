@@ -33,7 +33,7 @@ After reviewing the checklist, the customer can **Request a Callback** if they h
 When a **Checklist** is carried out and there are some previously unknown faults found, to prepare an Estimate for the work needed to fix them 
 the **Vehicle Inspection Estimate** is created.
 
-There are several features that help in the quick and efficient pricing of previously found issues. The perfect scenario would be for the checklist lines to be set up to flag as attention if a technician marks them as amber or red, see [How to create a checklist](garagehive-checklist-how-to-create.html). When a line is marked as attention, the technician is prompted to take a picture of the fault to show it to the customer later. Also, the technician adds text explaining the fault, which can be taken from templates. The text template is linked to a service package that contains a description of why this needs to be done as well as the work items.
+There are several features that help in the quick and efficient pricing of previously found issues. The perfect scenario would be for the checklist lines to be set up to flag as attention if a technician marks them as amber or red, see [How to create a checklist](garagehive-checklist-how-to-create.html){:target="_blank"}. When a line is marked as attention, the technician is prompted to take a picture of the fault to show it to the customer later. Also, the technician adds text explaining the fault, which can be taken from templates. The text template is linked to a service package that contains a description of why this needs to be done as well as the work items.
 
 When a vehicle inspection estimate is created, group items are generated using the **Add Attention Lines** action. This transfers all the checklist faults to VIE **Group Items**, links checklist pictures to these groups, and applies checklist text template packages with descriptions and lines. The lines can then be priced and **Group Items** descriptions edited to the specific case.
 
@@ -54,10 +54,10 @@ The customer has approved work, and you create a jobsheet for those items. While
 
 ### **See Also**
 
-[Introduction to Online Documents](garagehive-online-documents-introduction.html) \
-[Grouping document lines](garagehive-group-items-grouping-document-lines.html) \
-[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html) \
-[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html) \
-[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html) \
-[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html) \
-[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html)
+[Introduction to Online Documents](garagehive-online-documents-introduction.html){:target="_blank"} \
+[Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"} \
+[Working with group items actions](garagehive-group-items-working-with-group-items-actions.html){:target="_blank"} \
+[Setting up online documents](garagehive-online-documents-setting-up-online-documents.html){:target="_blank"} \
+[Previewing and publishing online documents](garagehive-online-documents-previewing-and-publishing-online-documents.html){:target="_blank"} \
+[Adding and Managing Media in Garage Hive](garagehive-online-documents-adding-and-managing-media.html){:target="_blank"} \
+[What Happens When a Customer Acts on a Sent Online Document?](garagehive-online-documents-what-happens-for-customers-actions.html){:target="_blank"}

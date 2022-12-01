@@ -33,8 +33,8 @@ When receiving a survey from an external source for a repeat time, the existing 
 
 ### **See Also**
 
-[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
-[Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
-[Reviewing internal surveys](reviewing-internal-surveys.html) \
-[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html) \
-[Exporting an internal survey](garagehive-exporting-an-internal-survey.html)
+[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html){:target="_blank"} \
+[Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html){:target="_blank"} \
+[Reviewing internal surveys](reviewing-internal-surveys.html){:target="_blank"} \
+[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html){:target="_blank"} \
+[Exporting an internal survey](garagehive-exporting-an-internal-survey.html){:target="_blank"}

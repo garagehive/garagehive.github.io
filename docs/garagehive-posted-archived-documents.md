@@ -10,7 +10,7 @@ title: Posted & Archived Jobsheets.
 ##  Posted Jobsheets 
 
 *   **Posted Jobsheets** This is where all posted jobsheets go. 
--   From within the Posted Jobsheets, you can [Correct Incorrect Payments](https://docs.garagehive.co.uk/docs/garagehive-jobsheets-incorrectpayment.html "Correct Incorrect Payments"). 
+-   From within the Posted Jobsheets, you can [Correct Incorrect Payments](https://docs.garagehive.co.uk/docs/garagehive-jobsheets-incorrectpayment.html "Correct Incorrect Payments"){:target="_blank"}. 
 
 *   **Posted Return Jobsheets** - This is where all Posted Return Jobsheets (Customer Jobsheet Credits) go. 
 
@@ -20,7 +20,7 @@ title: Posted & Archived Jobsheets.
 
 *   **Posted Purchase Invoices** - This is shows any purchases made within the Company, including any Utility Bills, Tyre Disposal Charges, any invoices which are not linked to a job. 
 
--   Also, If a Purchase Order has been posted incorrectly either to the wrong , within Posted Purchase Credit Memos, you can [Correct or Cancel a Purchase Order](https://docs.garagehive.co.uk/docs/garagehive-correct-or-cancel-a-purchase-order.html "Correct or Cancel a Purchase Order"). 
+-   Also, If a Purchase Order has been posted incorrectly either to the wrong , within Posted Purchase Credit Memos, you can [Correct or Cancel a Purchase Order](https://docs.garagehive.co.uk/docs/garagehive-correct-or-cancel-a-purchase-order.html "Correct or Cancel a Purchase Order"){:target="_blank"}. 
 
 ##  Posted Credit Memos 
 

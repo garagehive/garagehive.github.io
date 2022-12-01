@@ -26,8 +26,8 @@ Exporting an internal survey is a feature available in surveys to help you in sh
 
 ### **See Also**
 
-[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html) \
-[Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
-[Reviewing internal surveys](reviewing-internal-surveys.html) \
-[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html) \
-[Importing an internal survey](garagehive-importing-an-internal-survey.html)
+[Setting up and sending internal surveys](garagehive-setting-up-and-sending-internal-surveys.html){:target="_blank"} \
+[Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html){:target="_blank"} \
+[Reviewing internal surveys](reviewing-internal-surveys.html){:target="_blank"} \
+[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html){:target="_blank"} \
+[Importing an internal survey](garagehive-importing-an-internal-survey.html){:target="_blank"}

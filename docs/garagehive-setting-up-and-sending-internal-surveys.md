@@ -51,8 +51,8 @@ To Create a new internal survey:
 
 ### **See Also**
 
-[Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html) \
-[Reviewing internal surveys](reviewing-internal-surveys.html) \
-[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html) \
-[Exporting an internal survey](garagehive-exporting-an-internal-survey.html) \
-[Importing an internal survey](garagehive-importing-an-internal-survey.html)
+[Scheduling recurring internal surveys](garagehive-scheduling-recurring-internal-surveys.html){:target="_blank"} \
+[Reviewing internal surveys](reviewing-internal-surveys.html){:target="_blank"} \
+[How to get started with external consultant survey](garagehive-how-to-get-started-with-external-consultant-survey.html){:target="_blank"} \
+[Exporting an internal survey](garagehive-exporting-an-internal-survey.html){:target="_blank"} \
+[Importing an internal survey](garagehive-importing-an-internal-survey.html){:target="_blank"}

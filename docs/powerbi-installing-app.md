@@ -67,12 +67,12 @@ To do this:
 <br>
 
 ### **See Also**
-[Video - How to install the Garage Hive Power BI report](https://youtu.be/iO17qPjBAc0) \
-[How to set your Average Labour Rate](garagehive-labour-rate.html) \
-[Refreshing your Power BI data](powerbi-refresh-data.html) \
-[Updating your Power BI App](powerbi-updating-app.html) \
-[Updating your Power BI credentials](powerbi-updating-app.html) \
-[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html) \
-[How to Set Business Targets](garagehive-how-to-set-business-targets.html)
+[Video - How to install the Garage Hive Power BI report](https://youtu.be/iO17qPjBAc0){:target="_blank"} \
+[How to set your Average Labour Rate](garagehive-labour-rate.html){:target="_blank"} \
+[Refreshing your Power BI data](powerbi-refresh-data.html){:target="_blank"} \
+[Updating your Power BI App](powerbi-updating-app.html){:target="_blank"} \
+[Updating your Power BI credentials](powerbi-updating-app.html){:target="_blank"} \
+[Deleting the Power BI and installing a new one](garagehive-delete-old-powerbi-app-and-install-new-one.html){:target="_blank"} \
+[How to Set Business Targets](garagehive-how-to-set-business-targets.html){:target="_blank"}
 
 

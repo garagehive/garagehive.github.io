@@ -47,6 +47,6 @@ When the reminder tiles are populated, you should ensure that you have followed 
 
 # See Also
  
-[How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive") \
-[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection") \
-[How to use Vehicle Inspection Estimates](/docs/garagehive-VHC.html)
+[How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive"){:target="_blank"} \
+[How to perform a Vehicle Inspection](/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"){:target="_blank"} \
+[How to use Vehicle Inspection Estimates](/docs/garagehive-VHC.html){:target="_blank"}

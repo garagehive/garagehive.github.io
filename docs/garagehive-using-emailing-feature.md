@@ -25,8 +25,8 @@ If your system does not have an email setup, you must do the setup before using 
 
 #### Microsoft office 365 email account setup
 There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
-1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9). An App Password is a 16-digit passcode that gives the Garage Hive app permission to access your Microsoft Account.
-2. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/) and select **Security info**.
+1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9){:target="_blank"}. An App Password is a 16-digit passcode that gives the Garage Hive app permission to access your Microsoft Account.
+2. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/{:target="_blank"}) and select **Security info**.
 
    ![](media/garagehive-email-setup1.png)
 
@@ -64,7 +64,7 @@ There are two options for setting up the **Microsoft Office 365 email account**,
 
 #### Gmail email account setup
 To set up a **Gmail email account:**
-1. First you have to generate an **App Password**, from your [Google Account](https://myaccount.google.com/). An App Password is a 16-digit passcode that gives a Garage Hive app permission to access your Google Account. App Passwords can only be used with accounts that have 2-Step Verification turned on, [read more](https://support.google.com/accounts/answer/185833?hl=en).
+1. First you have to generate an **App Password**, from your [Google Account](https://myaccount.google.com/){:target="_blank"}. An App Password is a 16-digit passcode that gives a Garage Hive app permission to access your Google Account. App Passwords can only be used with accounts that have 2-Step Verification turned on, [read more](https://support.google.com/accounts/answer/185833?hl=en).
 1. From your google account, select **Security**, and under **Signing in to Google**, select **App Passwords.**
 1. At the bottom, choose **Select app** and select **Other (Custom name)**. Enter the name of the **App Password**, and click **Generate**.
 1. Copy the **App Password** generated in the yellow bar.
@@ -73,7 +73,7 @@ To set up a **Gmail email account:**
    ![](media/garagehive-email-setup5.png)
 
 1. In the **Setup SMTP Account** page, enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the Gmail email address to setup), select **Authentication** as **Basic**, the **User Name** (this is the Gmail email address), and then paste the **App Password**, that you created in your Google account, in the **Password** Field. 
-1. For the **Server Url** and **Port** (Port for SSL), copy from **Outgoing Mail (SMTP) Server** section in [this page from google](https://support.google.com/mail/answer/7126229?hl=en#zippy=%2Cstep-change-smtp-other-settings-in-your-email-client).
+1. For the **Server Url** and **Port** (Port for SSL), copy from **Outgoing Mail (SMTP) Server** section in [this page from google](https://support.google.com/mail/answer/7126229?hl=en#zippy=%2Cstep-change-smtp-other-settings-in-your-email-client){:target="_blank"}.
 1. When you're finished, click **Next**.
 
    ![](media/garagehive-email-setup9.png)

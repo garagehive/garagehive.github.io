@@ -34,7 +34,7 @@ Lines in the **Payment Reconciliation Journal** can be filled in by importing a 
 
     ![](media/garagehive-payment-reconciliation6.gif)
 
-12. To change an automatic application, select a journal line, and choose **Manual Application** from the actions bar and then choose the **Apply Manually** action. On the **Payment Application** page, you can reapply or manually apply the payment. See [Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html).
+12. To change an automatic application, select a journal line, and choose **Manual Application** from the actions bar and then choose the **Apply Manually** action. On the **Payment Application** page, you can reapply or manually apply the payment. See [Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html){:target="_blank"}.
 
     ![](media/garagehive-payment-reconciliation7.gif)
 
@@ -43,7 +43,7 @@ Lines in the **Payment Reconciliation Journal** can be filled in by importing a 
 
     ![](media/garagehive-payment-reconciliation8.gif)
 
-16. For a journal line that has no suggested application because no ledger entry exists to which it can be applied, use the **Transfer Difference to Account** action, in **Manual Application** sub-menus from the actions bar, to create and post the missing general ledger entry required to apply the payment. The **Match Confidence** field for the journal line changes to **Manual**. See [Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html).
+16. For a journal line that has no suggested application because no ledger entry exists to which it can be applied, use the **Transfer Difference to Account** action, in **Manual Application** sub-menus from the actions bar, to create and post the missing general ledger entry required to apply the payment. The **Match Confidence** field for the journal line changes to **Manual**. See [Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html){:target="_blank"}.
 
     ![](media/garagehive-payment-reconciliation9.gif)
 
@@ -53,7 +53,7 @@ Lines in the **Payment Reconciliation Journal** can be filled in by importing a 
 
 18. When no more lines need to be reviewed and the **Difference** field on all lines is blank, select **Posting** from the actions bar and then one of the following options:
 - **Post Payments and Reconcile Bank Accounts** - To post the applied payments and close the related bank account ledger entries as reconciled.
-- **Post Payments Only** - To only post the payments as applied but leave the related bank account ledger entries open. This action requires that you reconcile the bank account separately. For more information, see [Reconcile bank accounts](garagehive-reconcile-bank-accounts.html).
+- **Post Payments Only** - To only post the payments as applied but leave the related bank account ledger entries open. This action requires that you reconcile the bank account separately. For more information, see [Reconcile bank accounts](garagehive-reconcile-bank-accounts.html){:target="_blank"}.
 
     ![](media/garagehive-payment-reconciliation11.gif)
 
@@ -62,6 +62,6 @@ Lines in the **Payment Reconciliation Journal** can be filled in by importing a 
 ### **See Also**
 
 [Video: How to perform a Payment Reconciliation Journal in Microsoft Dynamics Business Central](https://www.youtube.com/watch?v=WiAnm_VUQVQ){:target="_blank"} \
-[Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html) \
-[Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html) \
-[Map text on recurring payments to accounts for automatic reconciliation](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html) 
+[Review or apply payments after automatic application](garagehive-review-or-apply-payments-after-automatic-application.html){:target="_blank"} \
+[Reconcile payments that cannot be applied automatically](garagehive-reconcile-payments-that-cannot-be-applied-automatically.html){:target="_blank"} \
+[Map text on recurring payments to accounts for automatic reconciliation](garagehive-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation.html){:target="_blank"} 

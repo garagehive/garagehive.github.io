@@ -25,5 +25,5 @@ To calculate Garage Hive Efficiency, you must first enter your **Average Labour 
 <br>
 
 ### **See Also**
-[Video - How to set your Average Labour Rate for Power BI in Garage Hive](https://youtu.be/lIkkJiUm_FE) \
-[Installing the Power BI App](powerbi-installing-app.html) \
+[Video - How to set your Average Labour Rate for Power BI in Garage Hive](https://youtu.be/lIkkJiUm_FE){:target="_blank"} \
+[Installing the Power BI App](powerbi-installing-app.html){:target="_blank"} \
