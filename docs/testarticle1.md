@@ -33,4 +33,4 @@ Here is the process for creating a warranty job:
 
          ![](media/garagehive-job-warranty3.png)
 
- Please read about the **Contra Payments** and how to do it [here](garagegaragehive-contra-payment.html){:target="_blank"}.
+ Please read about the **Contra Payments** and how to do it [here](garagehive-contra-payment.html){:target="_blank"}.
