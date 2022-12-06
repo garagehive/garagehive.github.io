@@ -28,9 +28,12 @@ Here is the process for creating a warranty job:
    {% include tip.html title="Note" text="Do not post the Credit Note because the Jobsheet has already been posted and you cannot have both in the system." %}
 
 6. The Accounts department will now perform the **Customer/Vendor Balancing Payments (also known as Contra Payments)**. For this posting, the accounts will post the two journals as follows:   
-      - **Line 1** - Customer: choose the Applies-to Doc No. as the supplier posted invoice, enter the Credit Note No. as the Document No., and assign to **GL 2998 Suspense**.
-      - **Line 2** - Vendor: choose the Applies-to Doc No. as the purchase invoice for the item fitted, Make an opposite value and use the Credit Note No. as the Document No.
+      - **Line 1** - Customer: choose **Document Type** as Invoice, enter the Credit Note No. as the **Document No.**, select the customer as the name of the vendor billed in the Jobsheet, select **Applies-To-Doc-No.** as the vendor's Jobsheet posted for the vendor, enter a positive value in the **Amount** field and assign to **GL 2998** Suspense Account.
+      - **Line 2** - Vendor: choose **Document Type** as Invoice, enter the Credit Note No. as the **Document No.**, select the vendor name as the vendor you have received the credit note from, enter an negative value in the **Amount** field, use the Credit Note No. as the **Document No.**, and select the **Applies-To-Doc-No.** as the purchase invoice that you received the items you fitted in the customer's vehicle.
 
          ![](media/garagehive-job-warranty3.png)
+   
+      Please read about the **Contra Payments** and how to do it [here](garagehive-contra-payment.html){:target="_blank"}.
+7. Once you are done with the journal, select **Post/Print** from actions bar, and then **Post**.
 
- Please read about the **Contra Payments** and how to do it [here](garagehive-contra-payment.html){:target="_blank"}.
+        ![](media/garagehive-job-warranty4.png)
