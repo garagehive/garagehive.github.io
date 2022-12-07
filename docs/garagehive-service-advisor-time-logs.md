@@ -18,12 +18,12 @@ To enable the **Service Time Logging**:
    ![](media/garagehive-time-logging1.png)
 
 3. Time logging for the above- mentioned actions will now be recorded in your system for all Jobsheets, Estimates, and VI Estimates that you create from now on.
-4. To view a vehicle's **Time Logs** in a document, open the document and select **Related** (under more options in the actions bar), then **Jobsheet** (for a Jobsheet), and then **Time Log**.
+4. To view a vehicle's **Time Logs** in a document, open the document and select **Related** (under more options in the menu bar), then **Jobsheet** (for a Jobsheet), and then **Time Log**.
 
    ![](media/garagehive-time-logging2.png)
 
 5. This opens the **Service Time Log Entries** page for the vehicle in the document. 
-6. You can delete entries that are older than **7** or **30** days, or all available entries, by using the **Actions** menu in the actions bar.
+6. You can delete entries that are older than **7** or **30** days, or all available entries, by using the **Actions** menu in the menu bar.
 
    ![](media/garagehive-time-logging3.png)
 

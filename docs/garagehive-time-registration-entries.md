@@ -23,7 +23,7 @@ The following records are stored here
 
 ![](media/garagehive-time-reg-entries2.png)
 
-This information can be modified by selecting **Process** followed by the **Modify Date/Time** button in the Actions Bar, please note you can only modify existing entries, you can't delete existing or add new entries manually. 
+This information can be modified by selecting **Process** followed by the **Modify Date/Time** button in the menu bar, please note you can only modify existing entries, you can't delete existing or add new entries manually. 
 
 # How to modify a time registration entry
 

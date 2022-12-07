@@ -14,7 +14,7 @@ To review the internal surveys after the respondents have completed and submitte
 
 4. If you marked the survey as **Anonymous**, the **Mobile Phone No.**, **Email** and **User ID** columns will have asterisks only to hide the user's identity.
 5. Click on the **Answer Count** column cell for each line of the survey in the list to view the responses.
-5. After reading the answers choose the surveys to review, and select **Mark as Reviewed** action from the actions bar.
+5. After reading the answers choose the surveys to review, and select **Mark as Reviewed** action from the menu bar.
 
    ![](media/garagehive-internal-surveys002.gif)
 

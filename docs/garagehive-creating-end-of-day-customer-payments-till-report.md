@@ -10,7 +10,7 @@ End of day customer payments/till report summarises the amount of money collecte
 <br>
 
 To create the report:
-1. Click on **Reports** from the actions bar in the role centre.
+1. Click on **Reports** from the menu bar in the role centre.
 2. Point the cursor to **End of Day** submenu, and click on **Customer Payments/Till**.
 
     ![](media/garagehive-customer-payments-report1.png)

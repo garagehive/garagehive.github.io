@@ -16,7 +16,7 @@ Let's look at how to make a Jobsheet from the places listed above:
 
 ### Creating Jobsheet from Vehicle Inspection Estimate
 When creating a VIE for a customer, the **Customer Authorised** lines can be used to generate a Jobsheet. This makes it simpler to convert an estimate directly into a Jobsheet. To make a Jobsheet from a VIE:
-1. Select **Process** and then **Copy Authorized Lines to Jobsheet** from the actions bar. You have the option of creating a new Jobsheet or selecting an existing one.
+1. Select **Process** and then **Copy Authorized Lines to Jobsheet** from the menu bar. You have the option of creating a new Jobsheet or selecting an existing one.
 
    ![](media/garagehive-jobsheet-create1.gif)
 

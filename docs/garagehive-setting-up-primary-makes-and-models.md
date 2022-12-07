@@ -31,7 +31,7 @@ To set the Primary Makes:
 ![](media/garagehive-primary-make-and-model3.gif)
 
 To set the condition for a particular primary make:
-1. Click on **Related** from the actions bar and select **Make**. 
+1. Click on **Related** from the menu bar and select **Make**. 
 2. From the submenus that appear, select **Primary Make Conditions**. The primary make conditions help the system understand all the vehicle models under the selected primary make.
 
     ![](media/garagehive-primary-make-and-model4.png)

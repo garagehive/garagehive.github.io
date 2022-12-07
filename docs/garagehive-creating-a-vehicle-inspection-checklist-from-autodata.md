@@ -9,15 +9,15 @@ title: Creating a Vehicle Inspection Checklist from Autodata
 
 ### Creating a Vehicle Inspection Checklist from Autodata
 When using the Autodata **Service Interval Matrix**, you may create a Vehicle Inspection Checklist with the data from Autodata, allowing you to generate a quotation for the customer.
-1. Select **Lookup** from the actions bar of the document you're working on, then **Service Interval Matrix**. In the pop-up notification, click **Yes**.
+1. Select **Lookup** from the menu bar of the document you're working on, then **Service Interval Matrix**. In the pop-up notification, click **Yes**.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist1.png)
 
-2. Check the **Include** checkbox next to the **Service Times** and **Service Intervals** you want to include. From the actions bar, select **Next**.
+2. Check the **Include** checkbox next to the **Service Times** and **Service Intervals** you want to include. From the menu bar, select **Next**.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist2.png)
 
-3. Select **Create Vehicle Inspection** from the actions bar on the page that opens.
+3. Select **Create Vehicle Inspection** from the menu bar on the page that opens.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist3.png)
 

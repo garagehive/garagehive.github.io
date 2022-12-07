@@ -8,12 +8,12 @@ Depending on the make and model of the vehicle, the timing belt should be replac
 
 ## In this article
 
-1. [Checking Timing Belt Interval From the Actions Bar](#checking-timing-belt-interval-from-the-actions-bar)
+1. [Checking Timing Belt Interval From the menu bar](#checking-timing-belt-interval-from-the-actions-bar)
 2. [Checking Timing Belt Interval From the Vehicle Reminder Dates Section](#checking-timing-belt-interval-from-the-vehicle-reminder-dates-section)
 
-### Checking timing belt interval from the actions bar
-To check the timing belt interval from the actions bar:
-1. In the actions bar, select **Lookup**.
+### Checking timing belt interval from the menu bar
+To check the timing belt interval from the menu bar:
+1. In the menu bar, select **Lookup**.
 2. Click **Timing Belt Interval** to open a pop-up information box.
 
    ![](media/garagehive-timing-belt-intervals1.gif)

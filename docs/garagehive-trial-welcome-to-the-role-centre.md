@@ -26,9 +26,9 @@ The second-level navigation menu provides access to the most useful entities in 
 
 To access the jobsheets page, cLick on **Jobsheets** from the navigation bar.
 
-#### 3. Actions bar
+#### 3. menu bar
 
-The actions bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
+The menu bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
 
 To create a new estimate, click on **+Estimate**.
 

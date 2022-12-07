@@ -23,7 +23,7 @@ To print or email a payment receipt when taking a payment with the **Take Paymen
 
    ![](media/garagehive-print-email-payment-receipt3.gif)
 
-3. Select the payment ledger entries for which you want to print a payment receipt, then select **Report** from the actions bar, followed by **Cash Receipt**.
+3. Select the payment ledger entries for which you want to print a payment receipt, then select **Report** from the menu bar, followed by **Cash Receipt**.
 4. You can now **Print** or **Email** the payment receipt by clicking **Print** or **Send To**, respectively.
 
    ![](media/garagehive-print-email-payment-receipt4.gif)

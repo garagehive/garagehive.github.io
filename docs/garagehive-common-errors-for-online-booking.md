@@ -26,7 +26,7 @@ In this article, we'll look at the common errors and how to fix them:
 
    ![](media/garagehive-online-booking-errors4.gif)
 
-3. **Service Package has no Resource Groups**: This error occurs when the **Resource Group** is not specified; resource group is used to determine the possibility of booking a service package based on the availability of the resources in the resource group. **Open Related Record** to go to the **Service Package** card, from the actions bar select **Related**, **Package** and then **Resource Groups.** Select the **Location Code** and then the **Resource Group Code.**
+3. **Service Package has no Resource Groups**: This error occurs when the **Resource Group** is not specified; resource group is used to determine the possibility of booking a service package based on the availability of the resources in the resource group. **Open Related Record** to go to the **Service Package** card, from the menu bar select **Related**, **Package** and then **Resource Groups.** Select the **Location Code** and then the **Resource Group Code.**
 
    ![](media/garagehive-online-booking-errors5.gif)
 
@@ -34,7 +34,7 @@ In this article, we'll look at the common errors and how to fix them:
 
    ![](media/garagehive-online-booking-errors6.gif)
    
-5. **Resource has no Time Grids**: This error occurs when the resource for the online booking don't have time grids slots; this are the system time allocations that help manage resource time slots availability for online bookings. **Open Related Record** to go to the **Resource** card, from the actions bar select **Related**, **Resources** and then **Time Grids**. In the **Resource Time Grids** table, add the different slots that the resource is available for online booking, could be **45MIN**, **1HR** and **2HRS**.
+5. **Resource has no Time Grids**: This error occurs when the resource for the online booking don't have time grids slots; this are the system time allocations that help manage resource time slots availability for online bookings. **Open Related Record** to go to the **Resource** card, from the menu bar select **Related**, **Resources** and then **Time Grids**. In the **Resource Time Grids** table, add the different slots that the resource is available for online booking, could be **45MIN**, **1HR** and **2HRS**.
 
    ![](media/garagehive-online-booking-errors7.gif)
 

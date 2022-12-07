@@ -13,6 +13,6 @@ title: Reviewing Online Bookings and Enquiries
 
    ![](media/garagehive-reviewing-onlinebooking-and-enquiries2.png)
 
-4. After reviewing a line, select it and choose **Mark as Reviewed** from the actions bar.
+4. After reviewing a line, select it and choose **Mark as Reviewed** from the menu bar.
 
    ![](media/garagehive-reviewing-onlinebooking-and-enquiries3.png)

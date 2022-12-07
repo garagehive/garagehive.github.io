@@ -7,7 +7,7 @@ title: Checking Vehicle Lubricant's Data
 
 Aside from the engine oil, the lubricant data provides data for other lubricants used in the vehicle. The information includes the type of oil used and the capacity that will be used.
 
-Select **Lookup** and then click on **Lubricants (Autodata)** from the actions bar to access the lubricant's data in a jobsheet.
+Select **Lookup** and then click on **Lubricants (Autodata)** from the menu bar to access the lubricant's data in a jobsheet.
 
    ![](media/garagehive-autodata-lubricant-data.gif)
 

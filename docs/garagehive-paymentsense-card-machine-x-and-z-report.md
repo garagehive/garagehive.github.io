@@ -12,7 +12,7 @@ If you have an integrated **Paymentsense Card Machine** you can print the follow
 
 
 ### How to generate the reports:
-1. From the **Service Advisor** role centre, select **Reports** from the actions bar, followed by **End of Day**, and then **Card Machine Report**.
+1. From the **Service Advisor** role centre, select **Reports** from the menu bar, followed by **End of Day**, and then **Card Machine Report**.
 
    ![](media/garagehive-card-machine-reports1.gif)
 

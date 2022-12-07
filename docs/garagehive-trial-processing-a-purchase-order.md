@@ -24,7 +24,7 @@ To post a purchase order in the system:
 
 ### Receive and post the purchase order
 After ensuring that all the information in the purchase order is correct, the purchase order needs to be posted:
-1. From the actions bar, click on **Posting** and select **Post** from the submenus.
+1. From the menu bar, click on **Posting** and select **Post** from the submenus.
 2. Select **Receive and Invoice** from the pop-up menu; since you are now receiving the items with the supplier invoice available. The document is now posted and updated (see below).
 
 ![](media/garagehive-trial-processing-a-purchase-order2.gif) 

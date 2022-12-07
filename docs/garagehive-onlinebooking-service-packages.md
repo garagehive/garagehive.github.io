@@ -9,7 +9,7 @@ title: Setting Up Service Packages (Online Booking and Enquiries)
 
 ### Setting Up Online Booking
 Online booking is used in the system to create Jobsheets. Choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and select the related link:
-1. From the actions bar, choose **Related**, followed by **Service Packages**.
+1. From the menu bar, choose **Related**, followed by **Service Packages**.
 2. Open the **Service Package** you want to show in the **Online Booking(OB)** widget. Please see [here](garagehive-service-packages.html){:target="_blank"} for more information on creating service packages.
 
    ![](media/garagehive-onlinebooking-service-packages1.gif)
@@ -34,7 +34,7 @@ Online booking is used in the system to create Jobsheets. Choose the ![](media/s
 
     ![](media/garagehive-onlinebooking-service-packages4.gif)
 
-5. Now, from the actions bar, select **Related**, then **Package**, and finally **Resource Groups**. Select a new line to add a **Location Code** from the list of available locations. If you only have one location, you can leave the location blank.
+5. Now, from the menu bar, select **Related**, then **Package**, and finally **Resource Groups**. Select a new line to add a **Location Code** from the list of available locations. If you only have one location, you can leave the location blank.
 
     ![](media/garagehive-onlinebooking-service-packages5.gif)
     

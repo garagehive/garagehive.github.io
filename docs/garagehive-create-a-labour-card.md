@@ -10,7 +10,7 @@ title: Creating a Labour Card & Using Standard Times in Garage Hive
 ### Creating a labour card
 To create a new **Labour Card**:
 1. Select **Catalogues** from the role centre, then **Labours**.
-2. Select **New** from the actions bar to create a new labour card and start entering the labour details.
+2. Select **New** from the menu bar to create a new labour card and start entering the labour details.
 
 ![](media/garagehive-create-a-labour-card1.gif)
 
@@ -43,7 +43,7 @@ You can create as many customised labour cards as you want.
 
 ### Using Standard Times
 **Standard Times** are the recommended labour hours for completing a certain job. They are used to determine how many labour hours to charge customers. To add **Standard Times** in the labour card:
-1. Select **Related** from the actions bar, then **Labour**, and lastly **Standard Times**.
+1. Select **Related** from the menu bar, then **Labour**, and lastly **Standard Times**.
 
    ![](media/garagehive-create-a-labour-card4.gif)
 

@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: How to Set Up Change Log for Service Documents 
+title: How to Set Up Self Service Change Log 
 ---
 
-# How to Set Up Change Log for Service Documents
+## How to Set Up Self Service Change Log
 The Change Log feature is useful for tracking data changes in your Garage Hive database. Use this feature to keep track of when data is inserted, modified, or deleted on specific tables.
 
 {% include tip.html title="Note" text="Only a system administrator can perform this setup. If you require assistance, please contact our support team." %}
@@ -12,11 +12,14 @@ The Change Log feature is useful for tracking data changes in your Garage Hive d
 
    ![](media/change-log-setup1.png)
 
-2. Select the **Enable for Service Documents** slider to the right on the setup page that opens.
+## Enable for Service Documents
+1. Select the **Enable for Service Documents** slider to the right on the setup page that opens.
 
    ![](media/change-log-setup2.png)
 
-3. This enables the tracking of all fields in the **General** FastTab of the service document, as well as some fields in the service document, such as the **Service Comment Line** and the **Service Lines**.
-4. To view the changes made in the fields, enter **Change Log Entries** into the ![](media/search_icon.png) icon in the top right corner and select the related link.
+2. This enables the tracking of all and some fields in the service document, such as the **General** FastTab fields, **Vehicle Reminder Dates** fields, **Group Item** fields, **Service Comment Line** fields and **Service Lines** fields.
+
+## View Changes Made in a Service Documents
+1. To view the changes made, open the document on which you want to track the changes, click **More Options** in the menu bar, then select **Related**, **Jobsheet**, and then **Change Log**.
 
    ![](media/change-log-setup3.png)

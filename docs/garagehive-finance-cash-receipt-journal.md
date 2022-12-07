@@ -9,7 +9,7 @@ Cash Receipt journals allow the user to record payments made to a customer's acc
 
    ![](media/garagehive-cash-receipt-journal1.gif)
 
-2. Alternatively, you can access Cash Receipt Journal from the customer list's actions bar by selecting **Navigate**, then **Cash Receipt Journal**. 
+2. Alternatively, you can access Cash Receipt Journal from the customer list's menu bar by selecting **Navigate**, then **Cash Receipt Journal**. 
 
    ![](media/garagehive-cash-receipt-journal2.gif)
 
@@ -30,7 +30,7 @@ Cash Receipt journals allow the user to record payments made to a customer's acc
 
       ![](media/garagehive-cash-receipt-journal3.gif)
 
-5. Double-check the information you've entered, then select **Post/Print** from the actions bar, followed by **Post** to post the journal.
+5. Double-check the information you've entered, then select **Post/Print** from the menu bar, followed by **Post** to post the journal.
 
    ![](media/garagehive-cash-receipt-journal4.gif)
 

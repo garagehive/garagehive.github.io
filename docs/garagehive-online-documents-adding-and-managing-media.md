@@ -17,7 +17,7 @@ With the ability to add images to the system, it is now easier to manage all of 
 ### Adding media to group lines
 To add media in group lines, follow these steps:
 1. In the **Group Items** section, under the **Media Count** column, select the cell in the line to add the media.
-2. On the **Linked Media** page, click **New** from the actions bar, and then choose the method for adding the media.
+2. On the **Linked Media** page, click **New** from the menu bar, and then choose the method for adding the media.
 3. You can link existing media in the system, take a picture, or upload from your device. In this case, we'll click **Upload Picture**, and select the media to add.
 
    ![](media/garagehive-adding-and-managing-media1.gif)
@@ -30,7 +30,7 @@ To add media in group lines, follow these steps:
 ### Adding media to document lines
 Follow these steps to add media into document lines:
 1. Select the line to which you want to add media from the document lines.
-2. From the actions bar, select **Line** and then **Line Media**.
+2. From the menu bar, select **Line** and then **Line Media**.
 3. In the new window that appears, select **New** and then select the method for adding the media. In our case we'll choose **Upload Picture**.
 
    ![](media/garagehive-adding-and-managing-media3.gif)

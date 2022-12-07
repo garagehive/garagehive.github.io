@@ -30,13 +30,13 @@ To create a new Estimate:
 
    ![](media/garagehive-create-an-estimate4.gif)
 
-7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** and so on. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}.
+7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** or other group items. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}.
 
    ![](media/garagehive-create-an-estimate4.gif)
 
 8. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
     - **Type** column - Select either **Labour** or **Item** as the line.
-    - **No** column - Enter the number for **Labour** or **Item**, in the system. For example, for item, you can use a placeholder item number, such as **MISC** for items you currently don't have in stock, **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on; for labour, you can choose **service labour**, **standard labour**, and so on.
+    - **No** column - Enter the number for **Labour** or **Item**, in the system. For example, for item, you can use a placeholder item number, such as **MISC** for items you currently don't have in stock, **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, or other items; for labour, you can choose **service labour**, **standard labour**, or other labours.
     - **Description** column - This is the item or labour description that will appear in the customer's estimate.
     - **Quantity** column - Enter the quantity of items or hours to quote.
     - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.
@@ -55,12 +55,12 @@ To create a new Estimate:
 ### When the work in the estimate is authorised
 You can either create a jobsheet with all of the items from the estimate added to it, which will close the estimate, or you can select specific lines from the estimate to add to an open jobsheet if one already exists. 
 To convert the whole estimate into a jobsheet:
-1. In the actions bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html){:target="_blank"} in the schedule for the relevant day.
+1. In the menu bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html){:target="_blank"} in the schedule for the relevant day.
 
    ![](media/garagehive-create-an-estimate7.gif)
 
 To Select partial lines from the estimate to add to an open Jobsheet:
 1. From the estimate lines, tick the checkbox in **Customer Authorised** field, for all the lines that have been authorised by the customer.
-2. Then, select **Process** from actions bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
+2. Then, select **Process** from menu bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
 
    ![](media/garagehive-create-an-estimate8.gif)

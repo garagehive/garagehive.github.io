@@ -11,7 +11,7 @@ title: Go Live setup - Print Invoice (3/3)
 ### Print an Invoice   
 To print an invoice:
 1. Open the Jobsheet by clicking on the **Total** tile in the Role Centre and then selecting the Jobsheet.
-2. Select **Print/Send** menu, then **Print Invoice** from the actions bar.
+2. Select **Print/Send** menu, then **Print Invoice** from the menu bar.
 3. Select **Preview/Close** from the options at the bottom of the pop-up window to preview the document, and then select **Print** to print.
 
    ![](media/garagehive-go-live-print-invoice1.gif)

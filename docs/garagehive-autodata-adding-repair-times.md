@@ -6,7 +6,7 @@ title: Adding Repair Times in the Document
 # Checking and Adding Repair Time in the Document
 
 Repair times in Garage Hive are the number of hours estimated to repair parts of a vehicle based on the model and make of the vehicle. This aids in estimating and understanding the type of work required while repairing the vehicle. Here's how to get to the repair times:
-1. Open the document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) with the vehicle for which you want to check the repair times, and then click on **Lookup** and select **Repair Times** from the actions bar.
+1. Open the document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) with the vehicle for which you want to check the repair times, and then click on **Lookup** and select **Repair Times** from the menu bar.
 
    ![](media/garagehive-autodata-repair-times1.gif)
 
@@ -14,7 +14,7 @@ Repair times in Garage Hive are the number of hours estimated to repair parts of
 
    ![](media/garagehive-autodata-repair-times2.gif)
 
-3. After selecting the exact parts and mechanism that you require, a description of the work involved as well as the time required to repair the part(s) is provided. You can now choose what to include in the **Include** column and select **Add Lines to Document** from the actions bar. Each labour description is added a **Group** with the respective document lines under it.
+3. After selecting the exact parts and mechanism that you require, a description of the work involved as well as the time required to repair the part(s) is provided. You can now choose what to include in the **Include** column and select **Add Lines to Document** from the menu bar. Each labour description is added a **Group** with the respective document lines under it.
 
    ![](media/garagehive-autodata-repair-times3.gif)
 

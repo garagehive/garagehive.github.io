@@ -18,7 +18,7 @@ In this article,  we are going to look at the normal estimate.
 
 ### Create an estimate
 To create a new estimate from the role centre:
-1. Click on **+Estimate** from the actions bar. 
+1. Click on **+Estimate** from the menu bar. 
 2. Fill in the vehicle and customer details on the **General** FastTab.
 
    ![](media/garagehive-trial-creating-an-estimate1.gif)
@@ -33,7 +33,7 @@ To create a new estimate from the role centre:
 
 ### Copy authorised lines into a jobsheet
 There are two ways to convert an estimate into a jobsheet, first is copying the customer authorised lines into a jobsheet:
-1. Click on **Process** from the actions bar and select **Copy Authorised Lines Into a Jobsheet**. A jobsheet is automatically created, if no previous jobsheet was available. 
+1. Click on **Process** from the menu bar and select **Copy Authorised Lines Into a Jobsheet**. A jobsheet is automatically created, if no previous jobsheet was available. 
 2. If a jobsheet was available, you could merge the estimate and the jobsheet.
 
 ![](media/garagehive-trial-creating-an-estimate3.gif)
@@ -42,7 +42,7 @@ There are two ways to convert an estimate into a jobsheet, first is copying the 
 
 The other method to convert an estimate into a jobsheet:
 1. Use the option **Make Jobsheet**, which means that the customer has approved all the items and labour in the estimate.
-2. Click on **Process** from the actions bar and select **Make Jobsheet** from the submenus. The jobsheet is automatically created, and the estimate is archived.
+2. Click on **Process** from the menu bar and select **Make Jobsheet** from the submenus. The jobsheet is automatically created, and the estimate is archived.
 
 ![](media/garagehive-trial-creating-an-estimate4.gif)
 

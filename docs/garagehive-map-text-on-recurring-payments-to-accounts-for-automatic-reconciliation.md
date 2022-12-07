@@ -10,7 +10,7 @@ The **Map Text to Account** action allows you to create mappings between text on
 
    ![](media/garagehive-payment-reconciliation-map-text1.gif)
 
-3. Select **Manual Application** from the actions bar, and choose **Map Text to Account** action. The Text-to-Account Mapping page opens.
+3. Select **Manual Application** from the menu bar, and choose **Map Text to Account** action. The Text-to-Account Mapping page opens.
 4. In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry. You can enter up to 50 characters.
 5. In the **Vendor No.** field, enter the vendor that the payments will be posted to.
 6. In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.

@@ -16,7 +16,7 @@ You can email customer statements directly from Garage Hive, but you must first 
 
 To setup the customer card:
 1. First select **Customers** from the Role Centre, and then select the specific **Customer Card** to setup.
-2. Select **Navigate** from the actions bar, followed by **Document Layouts** in the submenus.
+2. Select **Navigate** from the menu bar, followed by **Document Layouts** in the submenus.
 
    ![](media/garagehive-customer-statements-email1.gif)
 

@@ -3,6 +3,8 @@ layout: docs
 title: Taking a Payment and Posting a Jobsheet
 ---
 
+When a Jobsheet is completed, it should now be posted in order to update the relevant accounts in the system. To do so, you must understand how to take payment on a Jobsheet, update the Jobsheet lines, and then post the Jobsheet.
+
 ## In this article
 1. [Taking a payment in a Jobsheet](#taking-a-payment-in-a-jobsheet)
 2. [Adding resources to labour lines in a Jobsheet](#adding-resources-to-labour-lines-in-a-jobsheet)
@@ -11,7 +13,7 @@ title: Taking a Payment and Posting a Jobsheet
 
 ### Taking a payment in a Jobsheet 
 When the job is complete and the financial information is correct. You now need to collect the payment from the customer and post the jobsheet.
-1. Select **Payments/Posting** from the jobsheet's actions bar, then **Take Payment** to mark the customer's payment method and add the amount paid along the customer's payment method row.
+1. Select **Payments/Posting** from the jobsheet's menu bar, then **Take Payment** to mark the customer's payment method and add the amount paid along the customer's payment method row.
 
     ![](media/garagehive-jobsheet-taking-payment1.png)
 
@@ -58,7 +60,7 @@ Now, you have the option of:
 * To **Post** - Post/invoice this jobsheet without the option of printing or emailing it.
 * To **Post and Print** - Post/invoice this jobsheet and print a copy of the invoice.
 * To **Post and Email** - Post/invoice this jobsheet and email a copy of the invoice to the **Bill-To Customer**.
-Select **Payment/Posting** from the actions bar and select either of the above according to your requirements. Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
+Select **Payment/Posting** from the menu bar and select either of the above according to your requirements. Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
 
     ![](media/garagehive-jobsheet-posting1.gif)
 

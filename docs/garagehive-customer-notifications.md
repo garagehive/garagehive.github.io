@@ -5,7 +5,7 @@ title: Types of Customer Notifications in Garage Hive
 
 # Types of Customer Notifications in Garage Hive
 
-In Garage Hive, customer notifications are system settings that allow the system to communicate specific information to the customer, such as MOT Reminders, Booking Reminders, Survey Notifications, and so on. These notifications enable the garage owner to engage the customer effectively while also keeping the customer up to date on important information. Let's look at the different customer notifications available in Garage Hive.
+In Garage Hive, customer notifications are system settings that allow the system to communicate specific information to the customer, such as MOT Reminders, Booking Reminders, Survey Notifications, or other customer notifications. These notifications enable the garage owner to engage the customer effectively while also keeping the customer up to date on important information. Let's look at the different customer notifications available in Garage Hive.
 
    ![](media/garagehive-customer-notifications1.png)
 
@@ -18,7 +18,7 @@ In Garage Hive, customer notifications are system settings that allow the system
 5. [Job authorisation notification](#job-authorisation-notification)
 
 ### Vehicle date reminder notification
-**Vehicle Date Reminder** notifications are used in the system when you need to notify the customer about upcoming due dates for recurring work on their vehicle, such as MOT reminders, service reminders, and so on.
+**Vehicle Date Reminder** notifications are used in the system when you need to notify the customer about upcoming due dates for recurring work on their vehicle, such as MOT reminders, and service reminders.
 Here is an example of an **MOT Reminder** notification setup.
 
    ![](media/garagehive-customer-notifications2.png)

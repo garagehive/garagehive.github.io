@@ -6,7 +6,7 @@ title: Registering Customer Payments in Garage Hive
 # Registering Customer Payments in Garage Hive
 Other than using the **Cash Receipt Journal**, there is another method to receive payments in Garage Hive:
 1. Select the customer you want to receive the payment from the **Customer List**.
-2. Select **Process**, then **Take Payment**, from the actions bar.
+2. Select **Process**, then **Take Payment**, from the menu bar.
 3. Enter the **Payment Method Code** for the customer, and click **Next**.
 
    ![](media/garagehive-registering-customer-payments1.gif)

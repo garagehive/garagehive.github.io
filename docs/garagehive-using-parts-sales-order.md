@@ -7,8 +7,8 @@ title: Using Parts Sales Order in Garage Hive
 **Parts Sales Order** is the document in which you record the parts to sell to the customer at the agreed-upon cost and quantity. Sales orders, allow you to ship partially, deliver directly from your vendor to your customer, and initiate inventory processing. The **Sales Order** process integrates sales invoicing. 
 
 Here's how to use the **Sales Order** in Garage Hive:
-1. You can create a new **Sales Order** by selecting **Sales Orders** tile from the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** actions bar, followed by **Make Order**.
-1. From the **Sales Order** list page, select **New** from the actions bar.
+1. You can create a new **Sales Order** by selecting **Sales Orders** tile from the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** menu bar, followed by **Make Order**.
+1. From the **Sales Order** list page, select **New** from the menu bar.
 
    ![](media/garagehive-parts-sales-order1.gif)
 
@@ -29,11 +29,11 @@ Here's how to use the **Sales Order** in Garage Hive:
 
    ![](media/garagehive-parts-sales-order2a.gif)
 
-1. Select **Print/Send** from the actions bar, followed by **Email Proforma Invoice** to send the order confirmation to the customer.
+1. Select **Print/Send** from the menu bar, followed by **Email Proforma Invoice** to send the order confirmation to the customer.
 
    ![](media/garagehive-parts-sales-order3.gif)
 
-1. When you are ready to ship or invoice the order, select **Posting** from the actions bar and then **Post**. You are given three options: 
+1. When you are ready to ship or invoice the order, select **Posting** from the menu bar and then **Post**. You are given three options: 
    * **Ship** - if the customer hasn't paid but you have sent the parts to the customer.
    * **Invoice** - can be used once the parts are shipped to create the sales invoice.
    * **Ship and Invoice** - if the customer has paid and you have sent the parts to the customer at the same time.
@@ -46,7 +46,7 @@ Here's how to use the **Sales Order** in Garage Hive:
    ![](media/garagehive-parts-sales-order4.gif)
 
 1.  If a customer requests that the parts be fitted to the vehicle, you can generate a **Jobsheet** from the **Sales Order**. Enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
-1. Choose **Process** from the actions bar, followed by **Create Jobsheet**.
+1. Choose **Process** from the menu bar, followed by **Create Jobsheet**.
     
     {% include tip.html title="Note" text="If you continue without entering a Vehicle Registration No., the system will generate a dummy registration number that you can replace later." %}
 

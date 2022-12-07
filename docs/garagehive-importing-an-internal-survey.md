@@ -9,7 +9,7 @@ Importing an internal survey is a feature available in the surveys to help you r
 
 ### To import an internal survey:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Surveys**, and choose the related link.
-2. From the actions bar, click on **Actions** and select **Import**.
+2. From the menu bar, click on **Actions** and select **Import**.
 
    ![](media/garagehive-internal-surveys0001.gif)
 

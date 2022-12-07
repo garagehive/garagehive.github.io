@@ -22,7 +22,7 @@ title: Setup of Resource Service Hours and Auto Clock Out in Garage Hive
 
 ### Setup Auto Clock Out
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Auto Clock Out** and select related result.
-2. Select **New** from the actions bar.
+2. Select **New** from the menu bar.
 
    ![](media/garagehive-auto-clock-out1.gif)
 

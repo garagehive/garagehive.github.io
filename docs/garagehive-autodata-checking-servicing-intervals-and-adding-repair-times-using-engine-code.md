@@ -7,7 +7,7 @@ title: Checking Servicing Intervals and Adding Repair Times Using Engine Code
 
 If, on the other hand, you need to add specific servicing intervals and repair times in a jobsheet using the vehicle's engine code, you can check the details from the jobsheet using the engine code.
 
-To check this, select **Actions** from the actions bar, then **Lookup** from the submenus, and then click on either **Service Schedules by Engine Code** for servicing intervals or **Repair Times by Engine Code** for repair times, depending on what you're looking for.
+To check this, select **Actions** from the menu bar, then **Lookup** from the submenus, and then click on either **Service Schedules by Engine Code** for servicing intervals or **Repair Times by Engine Code** for repair times, depending on what you're looking for.
 
    ![](media/garagehive-autodata-using-engine-code1.gif)
 
@@ -15,7 +15,7 @@ Choose the **Model** of the vehicle from the window that appears, followed by th
 
    ![](media/garagehive-autodata-using-engine-code2.gif)
 
-After selecting the **Repair Categories**, select the lines to include in the **Include** column, and then click the **Add Lines to Document** button in the actions bar.
+After selecting the **Repair Categories**, select the lines to include in the **Include** column, and then click the **Add Lines to Document** button in the menu bar.
 
    ![](media/garagehive-autodata-using-engine-code3.gif)
 

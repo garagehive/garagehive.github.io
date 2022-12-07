@@ -38,7 +38,7 @@ To connect the **Tyre Scanner** to the system:
 ### Tyre Scanner Checklist Template
 The Tyre Scanner is used in conjunction with the Checklist, which is where the Tyre Scan report is obtained. To achieve this, you should create a checklist template to be used with the tyre scanner report. Here's how to do it:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Templates**, and select the related link.
-2. Select the **MOT** checklist template from the list, and then click on **Linked Item Groups** in the actions bar.
+2. Select the **MOT** checklist template from the list, and then click on **Linked Item Groups** in the menu bar.
 
    ![](media/garagehive-tyre-scanner2.gif)
 
@@ -73,7 +73,7 @@ After scanning the tyres and sending the report to the system, you should create
 
    ![](media/garagehive-tyre-scanner6.gif)
 
-4. Select **Process** menu, then **Get Tyre Scan** from the actions bar, and the report will be appled to the Checklist.
+4. Select **Process** menu, then **Get Tyre Scan** from the menu bar, and the report will be appled to the Checklist.
 
    ![](media/garagehive-tyre-scanner7.gif)
 
@@ -82,18 +82,18 @@ After scanning the tyres and sending the report to the system, you should create
 
    ![](media/garagehive-tyre-scanner8.gif)
 
-7. You can also view the Tyre Scanner's actual PDF report by selecting **Related** from the actions bar and then **Vehicle Tyre Scans**.
+7. You can also view the Tyre Scanner's actual PDF report by selecting **Related** from the menu bar and then **Vehicle Tyre Scans**.
 8. Select **Open Report** from the **View** column on the **Tyre Scans Page**.
 
    ![](media/garagehive-tyre-scanner9.gif)
 
 ### Create VIE from the Tyre Scanner Report
-1. To create a VIE from the tyre scanner report, select **Related** from the actions bar, then **Show VIE**.
+1. To create a VIE from the tyre scanner report, select **Related** from the menu bar, then **Show VIE**.
 2. If no VIE is linked with the checklist, the system will prompt you to create one; click **Yes**.
 
    ![](media/garagehive-tyre-scanner10.gif)
 
-3. Select **Prepare** from the actions bar of the newly created VIE, followed by **Add Checklist Attention Lines**.
+3. Select **Prepare** from the menu bar of the newly created VIE, followed by **Add Checklist Attention Lines**.
 4. The checklist attention lines will be added in the VIE under the **Group Items** FastTab.
 
    ![](media/garagehive-tyre-scanner11.gif)

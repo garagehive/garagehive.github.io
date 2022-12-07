@@ -84,7 +84,7 @@ When working with Garage Hive, you may want to customise Garage Hive differently
 
    ![](media/garagehive-personalising-garage-hive9.gif)
 
-3. Select **Customise Pages** from the actions bar. The **Customising** page opens in a new browser tab.
+3. Select **Customise Pages** from the menu bar. The **Customising** page opens in a new browser tab.
 4. You can now customise the user's system from this **Customising** page. To open a page, click on the page link you want to open and then select **Open (Ctrl+Click)**. You can also use the shortcut **Ctrl** + **Left-Click** on the page.
 
    ![](media/garagehive-personalising-garage-hive10.gif)

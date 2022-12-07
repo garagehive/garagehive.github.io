@@ -12,7 +12,7 @@ Garage Hive allows you to add and customise a new option to have a service packa
 
 To add a new option:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Schedule New Allocation Menu**, and select the related link.
-2. Select **New** from the actions bar in the **Service Schedule New Allocation Menu** page.
+2. Select **New** from the menu bar in the **Service Schedule New Allocation Menu** page.
 
    ![](media/garagehive-schedule-allocation-menu2.gif)
 

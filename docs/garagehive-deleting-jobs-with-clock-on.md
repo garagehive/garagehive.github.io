@@ -20,7 +20,7 @@ There will always be an error when you try to delete a jobsheet where the techni
 ### Delete the jobsheet entirely
 
 **Scenario 2** - If, on the other hand, a technician accidentally clocked onto a job that wasn't on site and isn't going to come in for repairs, then deleting the job would be appropriate. To do this, first deallocate all schedule allocation entries that the technician has clocked onto, and then delete the job.
-1. Select **Related** from the jobsheet's actions bar, followed by **Schedule Allocation Entries**.
+1. Select **Related** from the jobsheet's menu bar, followed by **Schedule Allocation Entries**.
 2. From the page that appears, select **Related**, and then **Show in Schedule**.
 3. Right-click the allocation in the schedule and select **Deallocate**.
 4. For each schedule allocation entry, repeat steps **2** and **3**.

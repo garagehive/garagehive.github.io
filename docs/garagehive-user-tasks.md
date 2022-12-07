@@ -16,12 +16,12 @@ title: Creating User Tasks in Garage Hive
 ### Creating user tasks groups
 **User Task Groups**, help in grouping tasks and adding users to a group for easy task management. To create a **User Task Group:**
 1. On the role centre, select either the **My Tasks Due** or the **Raised By Me Due** tile.
-2. In the page that opens, select **User Task Groups** from the actions bar.
+2. In the page that opens, select **User Task Groups** from the menu bar.
 3. Add a **Group Code** and the **Description** for the group, for example you can create a group with the code **WORKSHOPA**, and the description to be **Workshop A Operations.**
 
    ![](media/garagehive-user-tasks1.gif)
 
-4. Select **User Task Group Members** from the actions bar and click on the **User Name** field to add users to the group. Select a user from the list that opens and click **OK**. Repeat this process to add more users.
+4. Select **User Task Group Members** from the menu bar and click on the **User Name** field to add users to the group. Select a user from the list that opens and click **OK**. Repeat this process to add more users.
 
    ![](media/garagehive-user-tasks2.gif)
 
@@ -54,7 +54,7 @@ To create a recurring task:
 
    ![](media/garagehive-user-tasks5.gif)
 
-4. In the **User Task** card, click on **Recurrence** action from the actions bar.
+4. In the **User Task** card, click on **Recurrence** action from the menu bar.
 5. Enter the **Recurring Start Date**, which is the start of the recurrence, then the **Recurrence**, which is the number of days after which the recurrence task will occur, for example, enter **30D** for a task recurring every 30 days, and finally the **Occurrences**, which is the number of times the task will recur, for example, enter **12** for a task recurring 12 times only. Click **OK.**
    
    ![](media/garagehive-user-tasks6.gif)
@@ -62,7 +62,7 @@ To create a recurring task:
 ### Check due tasks and mark as complete
 You can check the task that are due from the role centre:
 1. Click on the **My Tasks Due** tile, to view the tasks which are due. The tile is setup to turn red, when a task assigned to you is due.
-2. When the task is done, select **Mark as Completed** from the actions bar.
+2. When the task is done, select **Mark as Completed** from the menu bar.
 3. To check other tasks, that you have created and are due, click on the **Raised by Me Due** tile.
 
    ![](media/garagehive-user-tasks7.gif)

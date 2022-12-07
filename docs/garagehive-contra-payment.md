@@ -8,7 +8,7 @@ title: How to perform a Customer/Vendor Balancing Payment
 
 **Customer/Vendor Balancing Payments** can be achieved via a general journal. Here is how:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **General Journals**, and choose the related link.
-2. Select **Page** from the actions bar, then **Show More Columns** to show all columns. If it's already enabled, you'll see a **Show Fewer Columns** option; leave it at that.
+2. Select **Page** from the menu bar, then **Show More Columns** to show all columns. If it's already enabled, you'll see a **Show Fewer Columns** option; leave it at that.
    
    ![](media/garagehive-general-journals-columns.png)
 
@@ -37,7 +37,7 @@ title: How to perform a Customer/Vendor Balancing Payment
    * Amount
    * Applies-To Doc. No. 
 
-6. Please note, the values are not likely to match, you must adjust the higher value down to match otherwise the journal won't balance. The below journal results in the customer and vendor balances reducing by £500, leaving the remaining balance to be physically paid. Once you are happy with journal, select **Post/Print** from actions bar, and then **Post**. 
+6. Please note, the values are not likely to match, you must adjust the higher value down to match otherwise the journal won't balance. The below journal results in the customer and vendor balances reducing by £500, leaving the remaining balance to be physically paid. Once you are happy with journal, select **Post/Print** from menu bar, and then **Post**. 
 
    ![](media/garagehive-document-contra.png)
 
@@ -57,5 +57,5 @@ title: How to perform a Customer/Vendor Balancing Payment
 
    ![](media/garagehive-contra-payment.png)
 
-7. Once you are happy with journal, select **Post/Print** from actions bar, and then **Post**. 
+7. Once you are happy with journal, select **Post/Print** from menu bar, and then **Post**. 
 
