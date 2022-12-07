@@ -4,7 +4,7 @@ title: Archived Documents
 ---
 
 # Archived Documents 
-You can archive purchase orders, estimates, jobsheets, checklists, and so on if you want to save a copy of a document for later use.
+You can archive purchase orders, estimates, jobsheets, and checklists, if you want to save a copy of a document for later use.
 
 ### Types of Archived Documents
 1. Archived **Estimates** and **Vehicle Inspection Estimates**:

@@ -3,6 +3,7 @@ layout: docs
 title: Taking a Payment and Posting a Jobsheet
 ---
 
+When a Jobsheet is completed, it should now be posted in order to update the relevant accounts in the system. To do so, you must understand how to take payment on a Jobsheet, update the Jobsheet lines, and then post the Jobsheet.
 
 ## In this article
 1. [Taking a payment in a Jobsheet](#taking-a-payment-in-a-jobsheet)

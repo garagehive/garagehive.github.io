@@ -4,7 +4,7 @@ title: Item Substitution Management in Garage Hive
 ---
 
 # Item Substitution Management in Garage Hive
-**Item Substitution** in Garage Hive is a feature in which an item to be sold can have one or more items used in its place when there is a lack of inventory for the item, unavailability of the item from the vendors, or when the delivery time is taking too long and the item is urgently required and so on. The substitute items are identical items that serve the same purpose as the main item.
+**Item Substitution** in Garage Hive is a feature in which an item to be sold can have one or more items used in its place when there is a lack of inventory for the item, unavailability of the item from the vendors, or when the delivery time is taking too long and the item is urgently required. The substitute items are identical items that serve the same purpose as the main item.
 
 ## In this article
 1. [Setting up item substitution](#setting-up-item-substitution)

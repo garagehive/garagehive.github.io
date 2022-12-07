@@ -30,13 +30,13 @@ To create a new Estimate:
 
    ![](media/garagehive-create-an-estimate4.gif)
 
-7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** and so on. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}.
+7. Under the **Group Items** section, you create groups where you add lines based on job to be quoted. The groups help in the categorisation of the lines, for example you can create groups like **Full Service and MOT**, **Tyre Replacement** or other group items. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}.
 
    ![](media/garagehive-create-an-estimate4.gif)
 
 8. You can now begin adding **Labour** lines, **Items** lines, or **Service Packages** to the estimate:
     - **Type** column - Select either **Labour** or **Item** as the line.
-    - **No** column - Enter the number for **Labour** or **Item**, in the system. For example, for item, you can use a placeholder item number, such as **MISC** for items you currently don't have in stock, **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on; for labour, you can choose **service labour**, **standard labour**, and so on.
+    - **No** column - Enter the number for **Labour** or **Item**, in the system. For example, for item, you can use a placeholder item number, such as **MISC** for items you currently don't have in stock, **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, or other items; for labour, you can choose **service labour**, **standard labour**, or other labours.
     - **Description** column - This is the item or labour description that will appear in the customer's estimate.
     - **Quantity** column - Enter the quantity of items or hours to quote.
     - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.

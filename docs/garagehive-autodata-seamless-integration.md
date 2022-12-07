@@ -5,7 +5,7 @@ title: Autodata Seamless Integration in Garage Hive
 
 # Autodata Seamless Integration in Garage Hive
 
-**Autodata Seamless Integration**, which can be accessed from the Role Centre or via the Jobsheets, Estimates, and Vehicle Inspection Estimates, is a feature in Garage Hive that allows the user to directly access technical information for the vehicle from the **Autodata Website**, such as vehicle service, repair, diagnostics, and so on. Here's how to access it:
+**Autodata Seamless Integration**, which can be accessed from the Role Centre or via the Jobsheets, Estimates, and Vehicle Inspection Estimates, is a feature in Garage Hive that allows the user to directly access technical information for the vehicle from the **Autodata Website**, such as vehicle service, repair, and diagnostics. Here's how to access it:
 
 1. From the Role Centre, select **Service** from the navigation menu followed by **Autodata Workshop Application**.
 

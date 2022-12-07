@@ -19,10 +19,10 @@ The item card is split into the following FastTabs:
 
 ## Item
 Fill in the following details:
-1. **No.**  - This is the part number of the item either from your supplier or the part number you wish to give a particular part. For example **BF** for **Brake Fluid**, and so on.
+1. **No.**  - This is the part number of the item either from your supplier or the part number you wish to give a particular part. For example **BF** for **Brake Fluid**.
 2. **Description** - This is the description of the part. The description is what appears on the Jobsheet/invoice when printed for the customer. In the above example of brake fluid, the description will be **Brake Fluid.**
 3. **Type** - This defines the type of the item card to create. You can select **Inventory** for parts to add in inventory, **Service** for services or **Non-Inventory** for non-inventory items.
-4. **Base Unit of Measure** - Select the relevant unit of measure for the item. For example, **Brake Fluid** Unit of Measure = LTR (Litre), **Bulb** Unit of Measure = PCS (Piece), **Brake Pipe** Unit of Measure = MTR (Metre) and so on.
+4. **Base Unit of Measure** - Select the relevant unit of measure for the item. For example, **Brake Fluid** Unit of Measure = LTR (Litre), **Bulb** Unit of Measure = PCS (Piece) and **Brake Pipe** Unit of Measure = MTR (Metre).
 5. **Item Category Code** - This is the category for item which contain assigned item attributes, and it's pre-selected when choosing the item template for the item card.
 
    ![](media/garagehive-create-an-item-card3.png)

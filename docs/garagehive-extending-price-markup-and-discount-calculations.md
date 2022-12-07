@@ -5,7 +5,7 @@ title: Extending Sales Price, Sales Markup, and Sales Discount Calculations
 
 # Extending Price, Markup, and Discount Calculations 
 
-When a company needs to use a specific price, markup, or discount for a particular product, Garage Hive gives the possibility to do so, and even set specific filters, like location, make, vehicle age, and so on. These prices, markups, and discounts supersede the standard prices available in an item or labour card.
+When a company needs to use a specific price, markup, or discount for a particular product, Garage Hive gives the possibility to do so, and even set specific filters, such as location, make, and vehicle age. These prices, markups, and discounts supersede the standard prices available in an item or labour card.
 
 ## In this article
 
@@ -47,7 +47,7 @@ To specify sales price for specific product(s):
    ![](media/garagehive-extending-pricing5.gif)
 
 1. Enter the **Unit of Measure Code** (if you use **Product Type** as **Item** or **Resource**) for the **Product No.** you selected (where applicable), followed by the **Minimum Quantity** to apply the price and the **Unit Price** to use.
-1. You can also specify other fields such as **Allow Line Disc.**, which means that this price can be used with the discount in the document lines, **Price Includes VAT**, which means that the price includes VAT, and so on.
+1. You can also specify other fields such as **Allow Line Disc.**, which means that this price can be used with the discount in the document lines, **Price Includes VAT**, which means that the price includes VAT.
 
    ![](media/garagehive-extending-pricing6.gif)
    <br>

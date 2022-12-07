@@ -68,7 +68,7 @@ There are various methods for creating a jobsheet, as described in [this article
 ### Add Items and Labour
 1. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
     - **Type** column - Select either **Labour** or **Item** to define what type of details are to be entered in the line.
-    - **No.** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour**, and so on; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services**, and so on.
+    - **No.** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour** or other labours; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services** or other items.
     - **Description** column - This is the item or labour description that will appear in the customer's invoice.
     - **Quantity** column - Enter the quantity of items or hours to sell.
     - **Unit Cost** column - This is the cost of an item to the business. This field is left blank for labour.

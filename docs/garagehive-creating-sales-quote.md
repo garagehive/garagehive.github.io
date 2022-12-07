@@ -16,7 +16,7 @@ To create a **Sales Quote**:
 
    ![](media/garagehive-parts-sales-quote2.gif)
 
-4. The column **Unit Price (Calc.) Inc. VAT)** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items and so on.
+4. The column **Unit Price (Calc.) Inc. VAT)** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items.
 
    ![](media/garagehive-parts-sales-quote2a.gif)
 
