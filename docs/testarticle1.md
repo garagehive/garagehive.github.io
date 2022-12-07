@@ -34,6 +34,6 @@ Here is the process for creating a warranty job:
          ![](media/garagehive-job-warranty3.png)
    
       Please read about the **Contra Payments** and how to do it [here](garagehive-contra-payment.html){:target="_blank"}.
-7. Once you are done with the journal, select **Post/Print** from actions bar, and then **Post**.
+7. Once you are done with the journal, select **Post/Print** from menu bar, and then **Post**.
 
       ![](media/garagehive-job-warranty4.png)

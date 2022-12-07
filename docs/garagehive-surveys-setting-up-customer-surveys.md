@@ -26,7 +26,7 @@ To enable customer surveys, you must first contact our support team to have the 
 
 ### Creating a new customer survey
 1. Search for **Surveys** in the top right corner ![](media/search_icon.png) icon and select it from the list to create a new customer survey.
-2. The window that appears displays a list of the previously setup surveys. To create a new one, go to the actions bar and select **+New**.
+2. The window that appears displays a list of the previously setup surveys. To create a new one, go to the menu bar and select **+New**.
 
    ![](media/garagehive-surveys-customer001.gif)
 

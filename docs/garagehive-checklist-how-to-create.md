@@ -25,7 +25,7 @@ Here's an example of how a checklist looks when it's fully set up:
 ### Checklist Templates
 A Checklist Template is considered the header of the Checklist. To view and create new **Checklist Templates** in your system:
 1. Enter **Checklist Templates** in the ![](media/search_icon.png) icon, and select the related link.
-1. Select **New** from the actions bar, to create a new **Checklist Template**.
+1. Select **New** from the menu bar, to create a new **Checklist Template**.
 1. The following is what you can setup in the **Checklist Templates** page:
     * **Code** - To identify the template in the system.
     * **Description** - To describe the template.
@@ -43,12 +43,12 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 ## Checklist Template Item Groups
 **Checklist Template Item Groups** are the groups of the list of questions in a checklist. They are grouped according to their purpose in a checklist, for example questions in a checklist concerning the tyres are grouped together, and so on.
-1. To create a new **Checklist Template Item Group**, select the **Checklist Template** you have created, and choose **Linked Item Groups** from the actions bar.
+1. To create a new **Checklist Template Item Group**, select the **Checklist Template** you have created, and choose **Linked Item Groups** from the menu bar.
 1. From the **Checklist Template Item Groups** page, click on the **Group Code** column, and choose **Select from full list**.
 
    ![](media/garagehive-checklist-setup3.gif)
 
-1. From the **Select - Checklist Item Groups** page, select **New** from the actions bar, to create a new **Checklist Item Group**; add the **Code** and **Description** for the checklist item group.
+1. From the **Select - Checklist Item Groups** page, select **New** from the menu bar, to create a new **Checklist Item Group**; add the **Code** and **Description** for the checklist item group.
 
    ![](media/garagehive-checklist-setup4.gif)
 
@@ -59,7 +59,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
    ![](media/garagehive-checklists-group-example1.png)
 
-1. To create new **Checklist Items** for the **Checklist Template Item Group** that you have created, select the three dots at the actions bar, and then **Items**.
+1. To create new **Checklist Items** for the **Checklist Template Item Group** that you have created, select the three dots at the menu bar, and then **Items**.
 
    ![](media/garagehive-checklist-setup5.gif)
 
@@ -75,7 +75,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
       * **Default Value** - You can populate a field with a default value to determine which radio button is pre-ticked.
       * **Attention If Has Value** Ticking this box will allow the Advisor to see from the list of checklists if any particular checklist requires attention. Any entry on a line with this ticked will flag a checklist.
 
-3. To add **Checklist Items** lines, use the available template from the actions bar by selecting **New Line From Template**. This provides you with the following templates:
+3. To add **Checklist Items** lines, use the available template from the menu bar by selecting **New Line From Template**. This provides you with the following templates:
       * **Checkbox**
             
          ![](media/garagehive-checklist-checkbox.png)

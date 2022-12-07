@@ -24,7 +24,7 @@ The service schedule layout is divided into the following parts:
 
 ![](media/garagehive-understanding-the-schedule-layout1.png)
 
-1. **The Actions Bar:** this is where you find the different actions to use as you navigate through the schedule.
+1. **The menu bar:** this is where you find the different actions to use as you navigate through the schedule.
 2. **The View FastTab:** this helps you to filter what to view in the schedule according to your preference.
 3. **The Schedule Timeline:** this shows the day and time in the schedule. The red line in the schedule, running from top to bottom, is the current time of the day. 
 4. **The Booking Slots:** this is where the allocations bookings are made and displayed. You can make multiple allocations for a single jobsheet. The colour of the booking changes depending on the allocation status; see [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule).
@@ -65,7 +65,7 @@ The schedule colours are used to help understand the different work statuses for
 ### Adding resources in the schedule
 In Garage Hive, resources refer to all of the assets that the company has that aid and support the business in completing its work, including the technicians. Technicians are added via [User Management](/docs/garagehive-user-management.html), but their appearance in the schedule can be controlled. Here's how to add or manage resources in the schedule in general:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Schedule Resource Group** and select the related link.
-2. In the list that appears, select the **Default** resource group and then click **Specifications** from the actions bar.
+2. In the list that appears, select the **Default** resource group and then click **Specifications** from the menu bar.
 
     ![](media/garagehive-understanding-the-schedule-adding-resources1.gif)
 
@@ -86,11 +86,11 @@ Rearranging the resources, how they appear from top to bottom, helps organize wh
 To rearrange:
 1. Search **Schedule Resource Group** from the ![](media/search_icon.png) icon, at the top-right corner, and select it from the options that appear. 
 2. From the window that opens, select **Default**, as it is the group the resources are created.
-3. Click on **Specifications** from the actions bar.
+3. Click on **Specifications** from the menu bar.
 
     ![](media/garagehive-understanding-the-schedule-rearrange1.gif)
 
-4. From the list of all the resources displayed, select the resource to rearrange and click on **Move Up** or **Move Down** from the actions bar.
+4. From the list of all the resources displayed, select the resource to rearrange and click on **Move Up** or **Move Down** from the menu bar.
 
     ![](media/garagehive-understanding-the-schedule-rearrange2.gif)
 
@@ -111,7 +111,7 @@ The service hours are the hours in the schedule when the resources are available
 
 ### Adding resources calender changes
 Sometimes there might be a single change of the scheduled work time for the resources, and you have to change it in the schedule:
-1. click on **Related** from the actions bar.
+1. click on **Related** from the menu bar.
 2. Select **Resource Calender Changes** in the service schedule page.
 
     ![](media/garagehive-understanding-the-schedule-calender-change1.gif)
@@ -131,7 +131,7 @@ Sometimes there might be a single change of the scheduled work time for the reso
 The schedule statistical information summarizes the resources capacity, remaining hours after allocations, a list of all the allocations for the day, and the total jobsheets for all the allocations made for the day. To view the statistics for a day:
 1. From the view FastTab, select **Period Type** as **Day**.
 2. The **Start Date** as the day you want to view the statistics.
-3. Click on the **Statistics** from the actions bar.
+3. Click on the **Statistics** from the menu bar.
 
 ![](media/garagehive-understanding-the-schedule-statistics1.gif)
 
@@ -179,7 +179,7 @@ To add an allocation type in the schedule:
 
    ![](media/garagehive-understanding-the-schedule11.gif)
 
-2. The list that appears contains all previously setup allocation menus. To add a new line, select **+New** from the actions bar. In the new line, select a **Work Group Code**. The work group code specifies the type of service work group that will be assigned.
+2. The list that appears contains all previously setup allocation menus. To add a new line, select **+New** from the menu bar. In the new line, select a **Work Group Code**. The work group code specifies the type of service work group that will be assigned.
 3. The next column, **Line No.**, is a number that will be applied to the allocation to determine the order in which it will appear when selecting an allocation type. The lower the number, the higher it appears in the list, and vice versa.
 
    ![](media/garagehive-understanding-the-schedule12.gif)

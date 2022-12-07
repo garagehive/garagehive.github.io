@@ -21,7 +21,7 @@ title: How to Process Factored Debt in Garage Hive
    ![](media/garagehive-processing-factored-debt2.png)
 
 2. After you've created the item card, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales Credit Memo** and select the related link.
-3. To create a new sales credit memo, click **New** from the actions bar.
+3. To create a new sales credit memo, click **New** from the menu bar.
 
    ![](media/garagehive-processing-factored-debt3.gif)
 
@@ -30,12 +30,12 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt4.gif)
 
-6. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo actions bar.
+6. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo menu bar.
 7. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
 
    ![](media/garagehive-processing-factored-debt7.gif)
 
-8. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the actions bar, followed by **Post**.
+8. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the menu bar, followed by **Post**.
    
    ![](media/garagehive-processing-factored-debt5.gif)
 

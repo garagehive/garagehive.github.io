@@ -59,14 +59,14 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
 1. The first is from the document lines:
    * Scroll to the right on the document until you reach the **Customer Authorised** column. Tick all of the lines that the customer has approved.
-   * From the actions bar, select **Process** and then **Copy Authorized Lines to Jobsheet**. You have the option of creating a new jobsheet or merging it with an existing one; you can do either, depending on your preferences. 
+   * From the menu bar, select **Process** and then **Copy Authorized Lines to Jobsheet**. You have the option of creating a new jobsheet or merging it with an existing one; you can do either, depending on your preferences. 
 
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.gif)
 
 2. Alternatively, from the group items where the document lines have been added:
    * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}), where the groups have already been created.
    * Select the group items that have been approved from the **Customer Authorised** column. When a group is checked, all document lines within that group are approved. A single document line that is already part of a group cannot be separately authorised.
-   * From the actions bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
+   * From the menu bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
 
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
 

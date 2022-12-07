@@ -63,7 +63,7 @@ You can also have standard comments that can be used multiple times. This helps 
 
 ### Adding Comments in a Card
 To add a new comment in card, for example a **Customer Card**:
-1. Open the **Customer Card**, then select **Customer** and then **Comments** from the actions bar.
+1. Open the **Customer Card**, then select **Customer** and then **Comments** from the menu bar.
 2. Add the comment and then close the card.
 
    ![](media/garagehive-comments7.gif)

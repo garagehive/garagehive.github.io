@@ -23,14 +23,14 @@ If you are a Garage Hive customer, you can now order The Blend ticket(s) directl
 
    ![](media/garagehive-the-blend-ticket2.gif)
 
-5. When you've finished adding the list of attendees, double-check that all of the information you've entered is correct and select **Submit Order** in the actions bar.
+5. When you've finished adding the list of attendees, double-check that all of the information you've entered is correct and select **Submit Order** in the menu bar.
 
    ![](media/garagehive-the-blend-ticket3.gif)
 
 6. You have now successfully ordered your **The Blend 2022** ticket(s), and the ticket amount will be charged to your monthly bill.
 
 ### How to Edit or Cancel your Blend Ticket from Garage Hive
-If you made an error, need to add an attendee, or change the information you've entered, you can edit or cancel your order; select **Edit/Cancel Order** from the actions bar. This cancels the previously submitted order, and you have to resubmit it when you finish editing.
+If you made an error, need to add an attendee, or change the information you've entered, you can edit or cancel your order; select **Edit/Cancel Order** from the menu bar. This cancels the previously submitted order, and you have to resubmit it when you finish editing.
 
 ![](media/garagehive-the-blend-ticket4.gif)
 

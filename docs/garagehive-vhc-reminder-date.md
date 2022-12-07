@@ -34,11 +34,11 @@ When a reminder date is approaching or has passed, it is displayed in the **Role
 ### Following up on the reminders
 When the reminder tiles are populated, you should ensure that you have followed up with the customer to obtain authorization for the work. To follow up on the items: 
 1. Click on the tile with the jobs to follow up on.
-2. The list that appears is for the items in the respective VIE that have been marked for reminder. Select the line containing the item you want to follow up on and then click **Open Document** from the actions bar, or simply click on the **Document No.**.
+2. The list that appears is for the items in the respective VIE that have been marked for reminder. Select the line containing the item you want to follow up on and then click **Open Document** from the menu bar, or simply click on the **Document No.**.
 
    ![](media/garagehive-vie-reminders4.gif)
 
-3. After communicating with the customer, the work has been authorised, and a date has been agreed upon, you can open the schedule from the vehicle inspection estimate by selecting **Process** from the actions bar, followed by **Schedule** from the submenus. Ensure to remove the reminder date (which removes it from the reminders tile).
+3. After communicating with the customer, the work has been authorised, and a date has been agreed upon, you can open the schedule from the vehicle inspection estimate by selecting **Process** from the menu bar, followed by **Schedule** from the submenus. Ensure to remove the reminder date (which removes it from the reminders tile).
 
    ![](media/garagehive-vie-reminders5.gif)
 

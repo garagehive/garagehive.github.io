@@ -8,7 +8,7 @@ You can refresh your Power BI data in two ways: **Refresh Now** or **Schedule Sp
 
 Let's start by looking at how you can force a refresh on your Power BI Data now:
 1. Log in to your Power BI app and click on the **Apps** tab on the left. Select **Edit** from the three dots at the bottom-right corner of the Garage Hive App.
-2. Select **Datasets + dataflows** at the top, just below the actions bar, from the page that opens. Hover your mouse over the **Garage Hive Power BI App** on the list (but don't click on it), and a **Refresh Now** icon will appear. Click on it to refresh the data now.
+2. Select **Datasets + dataflows** at the top, just below the menu bar, from the page that opens. Hover your mouse over the **Garage Hive Power BI App** on the list (but don't click on it), and a **Refresh Now** icon will appear. Click on it to refresh the data now.
 
    ![](media/garagehive-powerbi-refresh-data1.gif)
 

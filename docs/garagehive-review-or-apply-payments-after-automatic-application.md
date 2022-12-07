@@ -10,7 +10,7 @@ Some payment applications require your review as defined by the used matching ru
 
    ![](media/garagehive-payment-reconciliation-review1.gif)
 
-3. On the **Payment Reconciliation Journal** page, select a payment that you want to review or manually apply to one or more open entries, and then select **Manual Application** from the actions bar, and choose the **Apply Manually** action.
+3. On the **Payment Reconciliation Journal** page, select a payment that you want to review or manually apply to one or more open entries, and then select **Manual Application** from the menu bar, and choose the **Apply Manually** action.
 4. Select the **Applied** check box on the line for the open entry that you want to apply the payment to.
 5. The payment amount, which is also shown in the **Transaction Amount** field on the **Payment Application** page, is inserted in the **Applied Amount** field, but you can modify the field, for example if you want to apply the amount to several open entries.
 

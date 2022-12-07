@@ -50,14 +50,14 @@ When you receive the purchase invoice from the supplier, convert the placeholder
 
 ### Convert a Placeholder Item to the Vendor Item Number
 Use this method when the **Vendor Item No.** field is prefilled using the external integration available in Garage Hive. To do this from the Purchase Order:
-1. Open the **Purchase Order** and select **Process**, then **Convert Placeholder Items** from the actions bar.
+1. Open the **Purchase Order** and select **Process**, then **Convert Placeholder Items** from the menu bar.
 2. Scroll to the right to the **Action** column, and for each item, click the **Create Item** action and select the template on the page that appears.
 3. When you're done with all of the items, click **OK**.
 
    ![](media/garagehive-placeholder-item5.gif)
 
 To convert the items in the **Jobsheet**:
-1. Open the Jobsheet with the placeholder items, select **Parts** followed by **Convert Placeholder Items** from the actions bar.
+1. Open the Jobsheet with the placeholder items, select **Parts** followed by **Convert Placeholder Items** from the menu bar.
 2. Scroll right to the **Action** column, and click on **Select Item**. Select the item from the **Items** List, and click **OK**.
 3. Repeat step **2** for all placeholder items.
 

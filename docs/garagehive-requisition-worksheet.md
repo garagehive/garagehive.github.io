@@ -21,7 +21,7 @@ To use the requisition worksheet you must first setup the item cards:
 
 ### Setting up the Item Card for multiple locations
 1. For garages with multiple locations with different **Reorder Points**, you can use the **Stockkeeping Units** feature to specify different **Reorder Points**.
-2. Select **More Options** from the **Item Card's** actions bar, then **Related**, **Warehouse**, and **Stock Keeping Units**.
+2. Select **More Options** from the **Item Card's** menu bar, then **Related**, **Warehouse**, and **Stock Keeping Units**.
 
    ![](media/garagehive-requisition-worksheet2.gif)
 
@@ -39,12 +39,12 @@ The **Requisition Worksheet** can be accessed from the Service Advisor's **Role 
 
    ![](media/garagehive-requisition-worksheet4.png)
 
-2. From the **Requisition Worksheet Express** Page, select **Calculate Plan** from the actions bar.
+2. From the **Requisition Worksheet Express** Page, select **Calculate Plan** from the menu bar.
 3. If you only have one site, leave the filters blank; if you have multiple sites, use the **Location Filter** field to select a specific location. When finished, click **Ok**. A list of suggested orders will be generated.
 
    ![](media/garagehive-requisition-worksheet5.gif) 
 
-7. Select the checkboxes for the lines you want to process in the **Accept** column, choose a vendor in the **Vendor No.** column, and then choose **Process Lines** from the actions bar. Purchase orders for the relevant suppliers will be generated.
+7. Select the checkboxes for the lines you want to process in the **Accept** column, choose a vendor in the **Vendor No.** column, and then choose **Process Lines** from the menu bar. Purchase orders for the relevant suppliers will be generated.
 
    ![](media/garagehive-requisition-worksheet6.gif)
 
@@ -53,7 +53,7 @@ The **Requisition Worksheet** can be accessed from the Service Advisor's **Role 
 
    ![](media/garagehive-requisition-worksheet6a.gif)
 
-7. The **Item Card** may be accessed from the actions bar, and the **Item Policies** can be viewed from the **FactBox** on the right (if not visible, click on the **FactBox** icon).
+7. The **Item Card** may be accessed from the menu bar, and the **Item Policies** can be viewed from the **FactBox** on the right (if not visible, click on the **FactBox** icon).
 
    ![](media/garagehive-requisition-worksheet7.gif)
 

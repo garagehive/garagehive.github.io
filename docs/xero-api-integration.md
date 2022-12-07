@@ -61,7 +61,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
      ![](media/xero-2-orth-app3.png) 
 
-2. Now, under Garage Hive's **Accountancy Integration Setup**, from the actions bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
+2. Now, under Garage Hive's **Accountancy Integration Setup**, from the menu bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
 
      ![](media/xero-2-orth-app-3.png)
 
@@ -91,7 +91,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
 ### Adding Tracking Categories in Xero
 1. To add **Tracking Category** such as **Branch** in Xero, choose the ![](media/search icon.png) icon, enter **Dimensions**, and select the related link.
-2. Select the row with the **Branch** dimension and then select **Dimension** from the actions bar, followed by **Dimension Values**.
+2. Select the row with the **Branch** dimension and then select **Dimension** from the menu bar, followed by **Dimension Values**.
 
     ![](media/garagehive-xero-dimensions.png)
 

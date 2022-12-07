@@ -13,7 +13,7 @@ This can be removed, but it is recommended that you return the restriction once 
 
    ![](media/garagehive-removing-posting-restriction1.png)
 
-2. Select the relevant user name from the list who needs the restriction removed, and then select **Manage** followed by **Edit** from the actions bar.
+2. Select the relevant user name from the list who needs the restriction removed, and then select **Manage** followed by **Edit** from the menu bar.
 
    ![](media/garagehive-removing-posting-restriction2.png)
 

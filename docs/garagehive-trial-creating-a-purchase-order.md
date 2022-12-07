@@ -17,7 +17,7 @@ To start communicating with the suppliers/vendors, you need to prepare the purch
 To create a purchase order from the jobsheet:
 1. Select the item lines you want to order by ticking on the box in column **Purchase(Special)**; this can be items that don't exist in the system where you have added a placeholder item **No.** such as **MISC** or items that exist in the system but are currently not in stock. Ticking this column selects the items and marks them to be added to the purchase order. 
 2. Fill in the **Vendor No.** column to the right by selecting a supplier of your choice.
-3. At the top of your jobsheet in the actions bar, click on **Parts**.
+3. At the top of your jobsheet in the menu bar, click on **Parts**.
 4. Select **Create Purchase Order(s)** from the submenus. A purchase order is created.
 
 ![](media/garagehive-trial-creating-a-purchase-order4.gif)

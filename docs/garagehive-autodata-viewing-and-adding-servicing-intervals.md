@@ -6,7 +6,7 @@ title: Viewing and Adding Servicing Intervals Data
 # Viewing and Adding Servicing Intervals Data
 
 Servicing intervals are the number of months or miles between services for the vehicle, whichever comes first. The autodata integration provides most of the data required for vehicle servicing. To view and add the data:
-1. Open the jobsheet for the vehicle for which you want to check the servicing intervals, and then click on **Lookup** and select **Service Interval Matrix** from the actions bar.
+1. Open the jobsheet for the vehicle for which you want to check the servicing intervals, and then click on **Lookup** and select **Service Interval Matrix** from the menu bar.
 
    ![](media/garagehive-autodata-service-intervals1.gif)
 
@@ -14,7 +14,7 @@ Servicing intervals are the number of months or miles between services for the v
 
    ![](media/garagehive-autodata-service-intervals2.gif)
 
-3. From here, you could select what needs to be changed to add it to the document by clicking on the column **Include** along the interval that the vehicle is at, and then clicking **Next** from the actions bar.
+3. From here, you could select what needs to be changed to add it to the document by clicking on the column **Include** along the interval that the vehicle is at, and then clicking **Next** from the menu bar.
 
    ![](media/garagehive-autodata-service-intervals3.gif)
 
@@ -22,7 +22,7 @@ Servicing intervals are the number of months or miles between services for the v
 
    ![](media/garagehive-autodata-service-intervals4.gif)
 
-5. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the actions bar. This initiates the process of confirming everything and creating a quotation for the customer.
+5. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the menu bar. This initiates the process of confirming everything and creating a quotation for the customer.
 
    ![](media/garagehive-autodata-service-intervals5.gif)
 

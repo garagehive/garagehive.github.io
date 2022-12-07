@@ -34,7 +34,7 @@ The **Lines** section can also be used to add the document lines in a group:
 
 ### Grouping document lines by selecting the lines and then creating a group
 1. In the **Lines** sub-page, select the lines you want to group.
-2. Select **Functions** from the actions bar in the **Lines** sub-page.
+2. Select **Functions** from the menu bar in the **Lines** sub-page.
 3. Click **Create Group Items**. All of the selected lines are grouped together, with the group name being the description of the top selected line.
 
    ![](media/garagehive-group-items4.gif)
@@ -56,7 +56,7 @@ To create a group from the checklist attention items, first work on the checklis
 ![](media/garagehive-group-items6.gif)
 
 Then carry out the following steps from VIE:
-1. Select **Functions** from the **Group Items** sub-page actions bar.
+1. Select **Functions** from the **Group Items** sub-page menu bar.
 2. Select **Add Checklist Attention Lines** to take the lines marked "requires attention" and create groups with the checklist line description.
 
     ![](media/garagehive-group-items7.gif)
@@ -66,7 +66,7 @@ Then carry out the following steps from VIE:
 
 ### Creating groups by inserting service packages
 To create a group from a service package:
-1. Click **Look Up** and then select **Service Packages** from the document actions bar. The service packages available in the system can be fully priced or hold placeholder lines that you can edit based on your requirements, see [How to create service packages](garagehive-service-packages.html){:target="_blank"}.
+1. Click **Look Up** and then select **Service Packages** from the document menu bar. The service packages available in the system can be fully priced or hold placeholder lines that you can edit based on your requirements, see [How to create service packages](garagehive-service-packages.html){:target="_blank"}.
 2. Select the **Service Package** you want to add and click **OK**.
 3. The service package is automatically added as a group.
 
@@ -75,7 +75,7 @@ To create a group from a service package:
 ### Print or preview the document
 To preview or print the document with the group names being the document headers:
 1. Ensure that the you select **Custom Heading** from the **Invoice Print Options** FastTab.
-2. Select **Print/Send** from the actions bar, then **Print Invoice**.
+2. Select **Print/Send** from the menu bar, then **Print Invoice**.
 
     ![](media/garagehive-group-items9.gif)
 

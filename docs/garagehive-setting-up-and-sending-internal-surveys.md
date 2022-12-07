@@ -42,7 +42,7 @@ To Create a new internal survey:
 
     ![](media/garagehive-internal-surveys7.gif)
 
-11. You can see previous surveys and their statuses by selecting **Related** and then **Entries** from the actions bar.
+11. You can see previous surveys and their statuses by selecting **Related** and then **Entries** from the menu bar.
 12. The survey statistics are provided in the FactBox on the right side. By selecting the icon in the upper-right corner, you can expand or collapse the Factbox pane.
 
     ![](media/garagehive-internal-surveys8.gif)

@@ -31,7 +31,7 @@ Scroll to the right and note how this payment was made in the **Payment Method C
 
 ---
 
-From the actions bar, choose **Process**, then **Unapply Entries**.
+From the menu bar, choose **Process**, then **Unapply Entries**.
 
 ---
 
@@ -39,7 +39,7 @@ From the actions bar, choose **Process**, then **Unapply Entries**.
 
 ---
 
-Make a note of the multiple entries that were applied on the page that opens, and then select **Unapply** from the actions bar to unapply the entries.
+Make a note of the multiple entries that were applied on the page that opens, and then select **Unapply** from the menu bar to unapply the entries.
 
 ---
 
@@ -47,7 +47,7 @@ Make a note of the multiple entries that were applied on the page that opens, an
 
 ---
 
-Return to the **Customer Ledger Entries** page, choose **Process**, and then **Reverse Transaction** from the actions bar.
+Return to the **Customer Ledger Entries** page, choose **Process**, and then **Reverse Transaction** from the menu bar.
 
 ---
 

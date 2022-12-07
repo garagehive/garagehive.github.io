@@ -17,7 +17,7 @@ To access the **Customer Notifications**, select the ![](media/search_icon.png) 
 4. [How to view sent messages](#how-to-view-sent-messages)
 
 ### How to setup Customer Notifications
-1. Select the type of customer notification to setup from the list on the **Customer Notifications** page, or click **New** in the actions bar to create a new one.
+1. Select the type of customer notification to setup from the list on the **Customer Notifications** page, or click **New** in the menu bar to create a new one.
 2. Each customer notification type has a different setup; this article will focus on how to setup reminders. 
 
    ![](media/garagehive-go-live-customer-notification2.png)

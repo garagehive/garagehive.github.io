@@ -11,7 +11,7 @@ title: Autodata Seamless Integration in Garage Hive
 
    ![](media/garagehive-autodata-seamless-integration1.png)
 
-2. To access it from the document that you are working in as the **Service Advisor**, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the actions bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
+2. To access it from the document that you are working in as the **Service Advisor**, which may be an **Estimate**, **Jobsheet** or **Vehicle Inspection Estimate**, select **Lookup** from the menu bar, and then **Autodata Workshop Application**. This launches a new browser tab, and filters the vehicle details for the vehicle in the document that you are viewing.
 3. You can now access all the vehicle's technical information on the **Autodata Website.**
 
    ![](media/garagehive-autodata-seamless-integration1.gif)
@@ -20,7 +20,7 @@ title: Autodata Seamless Integration in Garage Hive
 
    ![](media/garagehive-autodata-seamless-integration2.gif)
 
-5. When working from the **Vehicle** card, select **Lookup** from the actions bar, followed by **Autodata Workshop Application**.
+5. When working from the **Vehicle** card, select **Lookup** from the menu bar, followed by **Autodata Workshop Application**.
 
    ![](media/garagehive-autodata-seamless-integration3.gif)
 

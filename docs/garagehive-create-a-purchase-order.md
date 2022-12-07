@@ -26,7 +26,7 @@ To create a purchase order directly from a Jobsheet:
    
    ![](media/garagehive-creating-a-purchase-order2.gif)
 
-8. Select **Parts** from the actions bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
+8. Select **Parts** from the menu bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
 
    ![](media/garagehive-creating-a-purchase-order3.gif)
 
@@ -34,7 +34,7 @@ To create a purchase order directly from a Jobsheet:
    
    ![](media/garagehive-creating-a-purchase-order4.gif)
 
-1. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the actions bar, allowing you to create a new purchase order with a different supplier.
+1. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
 1. Delete the lines from the previously created purchase order(s).
 
    ![](media/garagehive-creating-a-purchase-order5.gif)
@@ -43,9 +43,9 @@ To create a purchase order directly from a Jobsheet:
 
 **Option 2**
 1. When creating a purchase order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**.
-2. Select **Parts** from the actions bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
+2. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
 3. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
-4. Select **Create Purchase Order(s)** from the actions bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
+4. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
 
    ![](media/garagehive-creating-a-purchase-order10.gif)
 
@@ -64,11 +64,11 @@ This option is typically used only after the invoice has been received from the 
 
 6. If you want to link the purchase order to a jobsheet, go to the **General** FastTab, then to the **Purch. Source Type** field, and choose **Jobsheet.**
 7. Select the Jobsheet to link to in the **Jobsheet No.** field, which is located below the **Purch. Source Type** field.
-8. Select **Special Order** from the actions bar, followed by **Add Item Lines to Jobsheet** action.
+8. Select **Special Order** from the menu bar, followed by **Add Item Lines to Jobsheet** action.
 
    ![](media/garagehive-creating-a-purchase-order8.gif)
 
-9. You can now post the Purchase Order by choosing **Posting** and then **Post** from the actions bar.
+9. You can now post the Purchase Order by choosing **Posting** and then **Post** from the menu bar.
 
    ![](media/garagehive-creating-a-purchase-order9.gif)
 

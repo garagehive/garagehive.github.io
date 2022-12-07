@@ -11,7 +11,7 @@ title: How to view Service History
 
 
 -   Last Visit Date via the **Vehicle** search then **FactBox** on the home page.
--   Full history through the **Vehicle** search then **History** button within the *Actions Bar* followed by **Vehicle History**.
+-   Full history through the **Vehicle** search then **History** button within the *menu bar* followed by **Vehicle History**.
 -   Full history within the jobsheet through the **Lookup** button followed by **Vehicle History**.   
 
 ##  Option 1 - 
@@ -31,7 +31,7 @@ C.  You will see the date and mileage of the last visit (If you require to see s
 ![](media/garagehive-how-to-view-service-history2.png)
 
 ##  Option 2 - 
-Full history through the **Vehicle** search then **History** button within the *Actions Bar* followed by 
+Full history through the **Vehicle** search then **History** button within the *menu bar* followed by 
 **Vehicle History**.
 
 Select Vehicles in the home screen. 
@@ -40,7 +40,7 @@ Select Vehicles in the home screen.
 
 A.  Search & Highlight relevant vehicle. 
 
-B.  Select History within the Actions Bar. 
+B.  Select History within the menu bar. 
 
 C.  Select Vehicle History. 
 
@@ -52,7 +52,7 @@ Full history within the jobsheet through the **Lookup** button followed by **Veh
 
 Search for Jobsheet within Home Screen via the: - 
 
-A.  Actions Bar
+A.  menu bar
 
 B.  Tiles
 
@@ -62,7 +62,7 @@ Open the Jobsheet
 
 ![](media/garagehive-how-to-view-service-history5.png)
 
-A.  Select Lookup within the Actions Bar.  
+A.  Select Lookup within the menu bar.  
 
 B.  Select Vehicle History.
 

@@ -14,7 +14,7 @@ If you accidentally posted a purchase order for the incorrect amount or to the w
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order2.png)
 
-3. Select **Correct** from the actions bar, followed by **Cancel Invoice**.
+3. Select **Correct** from the menu bar, followed by **Cancel Invoice**.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order3.png)
 

@@ -41,7 +41,7 @@ When the vehicle inspection estimate is priced up it can be shared via an online
 
 ![](media/garagehive-online-documents-using-in-vehicle-inspection-estimates.gif)
 
-The customer can approve all of the items in a category or just some subitems. To copy the approved items in the online document to the jobsheet, use the **Copy Authorised Lines to Jobsheet** action under **Process** in the VIE actions bar.
+The customer can approve all of the items in a category or just some subitems. To copy the approved items in the online document to the jobsheet, use the **Copy Authorised Lines to Jobsheet** action under **Process** in the VIE menu bar.
 
 ![](media/garagehive-online-documents-using-in-vehicle-inspection-estimate1.png)
 

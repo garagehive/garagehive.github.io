@@ -8,7 +8,7 @@ title: Creating a Parts Sales Invoice in Garage Hive
 <br>
 
 To create a **Sales Invoice**:
-1. You can create a new **Sales Invoice** by selecting **Sales** from the navigation menu, followed by **Sales Invoice** in the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** actions bar, followed by **Make Invoice**.
+1. You can create a new **Sales Invoice** by selecting **Sales** from the navigation menu, followed by **Sales Invoice** in the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** menu bar, followed by **Make Invoice**.
 2. In the **Sales Invoice** list, select **New** from the action bars.
 
    ![](media/garagehive-parts-sales-invoice1.gif)
@@ -17,7 +17,7 @@ To create a **Sales Invoice**:
 
    ![](media/garagehive-parts-sales-invoice2.gif)
 
-4. When the customer pays the bill, you can proceed with posting the document and taking payment. Select **Posting** from the actions bar, followed by **Post**. Confirm that you want to **Post**, and then select the method of payment and enter the amount in the **Amount** field. Click **Close**.
+4. When the customer pays the bill, you can proceed with posting the document and taking payment. Select **Posting** from the menu bar, followed by **Post**. Confirm that you want to **Post**, and then select the method of payment and enter the amount in the **Amount** field. Click **Close**.
 
    ![](media/garagehive-parts-sales-invoice3.gif)
 

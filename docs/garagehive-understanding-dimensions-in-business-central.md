@@ -31,7 +31,7 @@ To set up Dimensions in your system:
 
    ![](media/garagehive-setting-up-dimensions1.gif)
 
-3.	After adding the **Dimensions**, select **Dimension** from the actions bar and choose the **Dimension Values** action to add the subcategories of the dimensions you added.
+3.	After adding the **Dimensions**, select **Dimension** from the menu bar and choose the **Dimension Values** action to add the subcategories of the dimensions you added.
 4.	Add the subcategories on the **Dimension Values** page, such as **Main**, **Vehicle Sales** etc, for the **Branch** dimension. Press the **Esc** key to exit the page.
 
    ![](media/garagehive-setting-up-dimensions2.gif)
@@ -42,12 +42,12 @@ You can define dimensions on the **General Ledger Setup** page as follows:
 
    ![](media/garagehive-defining-general-ledger-setup-dimensions1.gif)
 
-2.	On the **General Ledger Setup** page, choose **General** from the actions bar and select **Change Global Dimensions** action.
+2.	On the **General Ledger Setup** page, choose **General** from the menu bar and select **Change Global Dimensions** action.
 
    ![](media/garagehive-defining-general-ledger-setup-dimensions2.gif)
 
 3. In the **Global Dimension 1** Code field and/or **Global Dimension 2** Code field select the dimension(s) to use as a **Global Dimension** from the previously added dimensions.
-4.	After adding the Global Dimension(s), select either **Sequential** or **Parallel** mode from the actions bar to define which mode the batch job is run.
+4.	After adding the Global Dimension(s), select either **Sequential** or **Parallel** mode from the menu bar to define which mode the batch job is run.
 -	In **Sequential** mode (the default), the change is done in one transaction that reverts all entries to the dimensions they had before the change. In **Sequential** mode, choose the **Start** action.
 -	In **Parallel** mode, the dimension change happens in multiple background sessions and the operation is split into multiple transactions. To use this option, turn on the **Parallel Processing** slider, and choose the **Prepare** action.
 
@@ -55,17 +55,17 @@ You can define dimensions on the **General Ledger Setup** page as follows:
 
 ### Adding dimensions in documents
 In documents, such as **Purchase Orders**, **Jobsheets** and so on, you can change dimensions for the whole document (all the document lines) or for particular document lines. To change for the whole documents:
-1. Open the document to add/change the dimensions, for the **Purchase Order**, select **Order** from the actions bar, followed by **Dimensions**, for the **Jobsheets**, select **Related** from the actions bar, then **Jobsheet**, and then **Dimensions**.
+1. Open the document to add/change the dimensions, for the **Purchase Order**, select **Order** from the menu bar, followed by **Dimensions**, for the **Jobsheets**, select **Related** from the menu bar, then **Jobsheet**, and then **Dimensions**.
 
    ![](media/garagehive-adding-dimensions-in-documents1.gif)
 
-2. To add/change dimensions in specific document lines, open the document and select the line in the document. From the actions bar, click on **More Options** to show more menu, followed by **Line**, and then **Dimensions**.
+2. To add/change dimensions in specific document lines, open the document and select the line in the document. From the menu bar, click on **More Options** to show more menu, followed by **Line**, and then **Dimensions**.
 
    ![](media/garagehive-adding-dimensions-in-documents2.gif)
 
 ### Creating default dimensions
 You can create **Default Dimensions** to documents for specific accounts, customers, vendors, or items, which helps make reports more consistent. To add **Default Dimensions** for a specific **Vendor**:
-1. Select the vendor from the list of **Vendors**, and then from the actions bar select **Vendor** followed by **Dimensions**.
+1. Select the vendor from the list of **Vendors**, and then from the menu bar select **Vendor** followed by **Dimensions**.
 
    ![](media/garagehive-creating-default-dimensions1.gif)
 
@@ -82,7 +82,7 @@ If you discover that an incorrect dimension has been used on posted general ledg
 
    ![](media/garagehive-correcting-dimensions1.gif)
 
-2.	On the **General Ledger Entries** page, choose **Entry** from the actions bar and then **Correct Dimensions** action.
+2.	On the **General Ledger Entries** page, choose **Entry** from the menu bar and then **Correct Dimensions** action.
 3.	In the **Description** field, enter information about the change. Other people might use this information later to understand what was done.
 
    ![](media/garagehive-correcting-dimensions2.gif)
@@ -101,19 +101,19 @@ If you discover that an incorrect dimension has been used on posted general ledg
 
    ![](media/garagehive-correcting-dimensions4.gif)
 
-6.	To validate the correction, choose **Validate Dimension Changes** from the actions bar.
+6.	To validate the correction, choose **Validate Dimension Changes** from the menu bar.
 
    ![](media/garagehive-correcting-dimensions5.gif)
 
-7.	After successfully validating the dimension change, click on **Entry**, select **History of Dimension Corrections**, and then select the validated change. Choose **Run** from the actions bar on the** Draft Dimension Correction** page. You can run it immediately instead of scheduling it by using the **Run Immediately** slider.
+7.	After successfully validating the dimension change, click on **Entry**, select **History of Dimension Corrections**, and then select the validated change. Choose **Run** from the menu bar on the** Draft Dimension Correction** page. You can run it immediately instead of scheduling it by using the **Run Immediately** slider.
 
    ![](media/garagehive-correcting-dimensions6.gif)
 
-8.	To undo a correction, go to the **General Ledger Entries** page, click **Entry** from the actions bar, and then **History of Dimension Corrections**.
+8.	To undo a correction, go to the **General Ledger Entries** page, click **Entry** from the menu bar, and then **History of Dimension Corrections**.
 
    ![](media/garagehive-correcting-dimensions7.gif)
 
-9.	Select the change to be reversed, and then, from the **Dimension Correction** page, scroll to the **Dimension Correction Changes** FastTab, select **Manage** from the actions bar, and **Revert Change** for a single change or **Revert All Changes** for all changes made in the entry.
+9.	Select the change to be reversed, and then, from the **Dimension Correction** page, scroll to the **Dimension Correction Changes** FastTab, select **Manage** from the menu bar, and **Revert Change** for a single change or **Revert All Changes** for all changes made in the entry.
 
    ![](media/garagehive-correcting-dimensions8.gif)
 

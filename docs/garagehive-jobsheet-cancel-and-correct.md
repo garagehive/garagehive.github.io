@@ -17,7 +17,7 @@ When you don't need to create a new jobsheet, you can use the **Cancel Document*
 
    ![](media/garagehive-cancel-jobsheet1.gif)
 
-3. To cancel a jobsheet, open it and select **Correct** from the actions bar, then **Cancel Document**. When prompted to confirm whether you want to cancel the Jobsheet, select **Yes**.
+3. To cancel a jobsheet, open it and select **Correct** from the menu bar, then **Cancel Document**. When prompted to confirm whether you want to cancel the Jobsheet, select **Yes**.
 
    ![](media/garagehive-cancel-jobsheet2.gif)
 
@@ -32,7 +32,7 @@ The **Correct** function is used to make changes to a posted Jobsheet and enter 
 
    ![](media/garagehive-correct-jobsheet1.gif)
 
-3. To correct a jobsheet, open it and select **Correct** from the actions bar, then **Correct Document** from the drop-down menu. You'll see a notification confirming that the **Posted Jobsheet** will be cancelled and a new version of the Jobsheet will be created for you to make the correction; select **Yes**.
+3. To correct a jobsheet, open it and select **Correct** from the menu bar, then **Correct Document** from the drop-down menu. You'll see a notification confirming that the **Posted Jobsheet** will be cancelled and a new version of the Jobsheet will be created for you to make the correction; select **Yes**.
 4. The mileage is zero notification will appear, along with posting and work date notification; select **Yes** for both.
 5. A credit memo will be generated, as well as a new jobsheet that will be opened.
    

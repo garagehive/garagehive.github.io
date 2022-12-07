@@ -13,11 +13,11 @@ You may have applied a payment to the wrong invoice, made a payment to the wrong
 ### Unapplying transactions
 Unapplying payments means that you want to deallocate or unlink a transaction from a customer's invoice so that you can reallocate it to another one. To undo an applied transaction:
 1. Select the customer's list from the role centre, and then select the customer to whom the transaction was incorrectly applied.
-2. Select **Customer** and then **Ledger Entries** from the customer's card actions bar.
+2. Select **Customer** and then **Ledger Entries** from the customer's card menu bar.
 
    ![](media/garagehive-unapplying-and-reversing-transactions1.gif)
 
-3. Select the payment that was incorrectly applied in the **Customer Ledger Entries** page, then go to the actions bar and select **Process** and then **Unapply Entries**.
+3. Select the payment that was incorrectly applied in the **Customer Ledger Entries** page, then go to the menu bar and select **Process** and then **Unapply Entries**.
 4. Select the three dots at the top of the **Unapply Customer Entries** pop-up window to show more actions, then select **Unapply**. The transactions will now be successfully unapplied.
 
    ![](media/garagehive-unapplying-and-reversing-transactions2.gif)
@@ -30,11 +30,11 @@ Unapplying payments means that you want to deallocate or unlink a transaction fr
 
 Reversing transactions means completely undoing the entry and removing it from the system. To completely reverse a transaction, use the following process:
 1. Select the customer's list from the role centre, and then select the customer to whom the transaction is applied.
-2. Select **Customer** and then **Ledger Entries** from the customer's card actions bar.
+2. Select **Customer** and then **Ledger Entries** from the customer's card menu bar.
 
    ![](media/garagehive-unapplying-and-reversing-transactions1.gif)
 
-3. Select the entry that you want to completely remove in the system from the **Customer Ledger Entries** page, then go to the actions bar and select **Process** and then **Reverse Transaction**.
+3. Select the entry that you want to completely remove in the system from the **Customer Ledger Entries** page, then go to the menu bar and select **Process** and then **Reverse Transaction**.
 4. Select **Reverse** from the actions menu in the **Reverse Transaction Entries** pop-up window (you can also select **Reverse and Print** to print the transaction). The transaction has now been reversed successfully.
 
    ![](media/garagehive-unapplying-and-reversing-transactions3.gif)

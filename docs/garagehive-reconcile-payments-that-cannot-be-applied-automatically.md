@@ -10,7 +10,7 @@ There may be no suggested application for journal lines; this could be due to a 
 
    ![](media/garagehive-payment-reconciliation-not-applied1.gif)
 
-3. Select **Manual Application** from the actions bar, and then the **Transfer Difference to Account** action. The Transfer Difference to Account page opens.
+3. Select **Manual Application** from the menu bar, and then the **Transfer Difference to Account** action. The Transfer Difference to Account page opens.
 4. In the **Account Type** field, specify the type of account that the payment amount will be posted to.
 5. In the **Account No.** field, specify the account that the payment amount will be posted to.
 6. In the **Description** field, specify text that describes this direct payment posting. By default, the text in the **Transaction Text** field on the payment reconciliation journal line is inserted.

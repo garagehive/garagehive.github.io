@@ -15,7 +15,7 @@ When a booking is made and all information added, the next step is adding items 
 
 ### Open the jobsheet via the schedule
 To open the jobsheet from the role centre:
-1. Click on **Schedule** from the actions bar.
+1. Click on **Schedule** from the menu bar.
 2. Right-click on the booking or jobsheet you want to access. 
 3. Select **Look Up** to open the jobsheet, and scroll down to the lines.
 

@@ -85,7 +85,7 @@ To set up a **Gmail email account:**
 
 ### Using the emailing feature
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
-1. To use the Email feature, go to the document's actions bar and select **Email** for Estimates, Vehicle Inspection Estimates, and Checklists, or **Email Invoice** for the Jobsheets.
+1. To use the Email feature, go to the document's menu bar and select **Email** for Estimates, Vehicle Inspection Estimates, and Checklists, or **Email Invoice** for the Jobsheets.
 
    ![](media/garagehive-email-feature1.png)
 
@@ -107,7 +107,7 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
    ![](media/garagehive-email-feature7.gif)
 
-6. To make it easier to manage the email **Message** body, create **Text Templates** that will allow you to reuse similar text across multiple emails that you send. Click on **Select Text Template** under the **Email Details** FastTab, then select **New** from the actions bar, enter the **Code** for the template (you can name it depending on what you put in the message body), select **Type** as **Email Body**, and then enter the **Message** body in the writing space under the **General** FastTab.
+6. To make it easier to manage the email **Message** body, create **Text Templates** that will allow you to reuse similar text across multiple emails that you send. Click on **Select Text Template** under the **Email Details** FastTab, then select **New** from the menu bar, enter the **Code** for the template (you can name it depending on what you put in the message body), select **Type** as **Email Body**, and then enter the **Message** body in the writing space under the **General** FastTab.
 
    ![](media/garagehive-email-feature8.gif)
 
@@ -115,7 +115,7 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
    ![](media/garagehive-email-feature9.gif)
 
-8. You could attach a file to the email by selecting **Attach File**. When you're finished editing the email, select **Send Email** from the actions bar to send it.
+8. You could attach a file to the email by selecting **Attach File**. When you're finished editing the email, select **Send Email** from the menu bar to send it.
 
    ![](media/garagehive-email-feature10.gif)
 

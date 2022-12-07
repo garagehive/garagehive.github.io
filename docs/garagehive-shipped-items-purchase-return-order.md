@@ -23,7 +23,7 @@ Purchase return orders are documents that you use to manage and track all of you
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice2.png)
 
-4. When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed. Select **Posting** from the actions bar and then select **Post** from the submenus.
+4. When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed. Select **Posting** from the menu bar and then select **Post** from the submenus.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice3.png)
 
@@ -35,7 +35,7 @@ Purchase return orders are documents that you use to manage and track all of you
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice5.png)
 
-7. Click on **Posting** from the actions bar and then select **Post** from the submenus.
+7. Click on **Posting** from the menu bar and then select **Post** from the submenus.
 +8. Select **Invoice** from the three options and click **OK**. This posts the purchase return order to update the relevant ledger accounts and balance the stock levels.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice6.png)
@@ -50,7 +50,7 @@ The Garage Hive system allows you to ship and invoice parts from a single **Purc
 
 1. When you enter a value in the **Quantity** column, the **Return Qty. to Ship** and **Qty. to Invoice** columns are automatically filled in, but you can edit them.
 1. To **Ship** some parts, for example, delete the value from the **Return Qty. to Ship** column in the Purchase Return Order for the parts you don't want to ship.
-1. Then select **Posting**, followed by **Post** in the actions bar. Select **Ship** from the options in the pop-up menu and click **OK**.
+1. Then select **Posting**, followed by **Post** in the menu bar. Select **Ship** from the options in the pop-up menu and click **OK**.
 1. The number of items shipped is recorded in the column **Return Qty. Shipped**.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice8.gif)
@@ -58,12 +58,12 @@ The Garage Hive system allows you to ship and invoice parts from a single **Purc
 1. When the other items are ready to ship, repeat step **5**.
 1. After shipping the parts, you may receive different Credit Memos for the parts on the Purchase Return Order. You must invoice separately for each Credit Memo parts.
 1. Enter the **Vendor Cr. Memo No.** for one of the Credit Memos, then scroll down to the **Lines** sub-page and delete the value of column **Qty to Invoice** for the parts that are not in the Credit Memo to invoice.
-1. Then select **Posting**, followed by **Post** in the actions bar. Select **Invoice** from the options in the pop-up menu and click **OK**.
+1. Then select **Posting**, followed by **Post** in the menu bar. Select **Invoice** from the options in the pop-up menu and click **OK**.
 1. The number of items on the Credit Memo are invoiced and recorded in the column **Qty Invoiced**.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice9.gif)
 
-1. After you've invoiced one of the Credit Memos, delete its number from the **Vendor Cr. Memo No.** field. Take the other Credit Memo and enter its number in the **Vendor Cr. Memo No.** field. Confirm the **Qty. to Invoice** column contains the correct values that correspond to the credit memo, then select **Posting** followed by **Post** from the actions bar.
+1. After you've invoiced one of the Credit Memos, delete its number from the **Vendor Cr. Memo No.** field. Take the other Credit Memo and enter its number in the **Vendor Cr. Memo No.** field. Confirm the **Qty. to Invoice** column contains the correct values that correspond to the credit memo, then select **Posting** followed by **Post** from the menu bar.
 1. Select **Invoice** from the options in the pop-up menu and click **OK**.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice10.gif)

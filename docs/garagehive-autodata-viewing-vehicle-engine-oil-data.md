@@ -7,7 +7,7 @@ title: Viewing Vehicle Engine Oil's Data
 
 In this action, the autodata provides the engine oil data that is required before refilling or changing the oil.
 
-Select **Lookup** and then **Oil(Autodata)** from the actions bar to access the engine oil data.
+Select **Lookup** and then **Oil(Autodata)** from the menu bar to access the engine oil data.
 
 ![](media/garagehive-autodata-oil-data.gif)
 

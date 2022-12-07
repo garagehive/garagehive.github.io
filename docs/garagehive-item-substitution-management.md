@@ -17,7 +17,7 @@ To setup **Item Substitution**:
 
    ![](media/garagehive-item-substitution1.gif)
 
-2. Select **Related** from the actions bar in the **Item** card, followed by **Item** and then **Substitutions**.
+2. Select **Related** from the menu bar in the **Item** card, followed by **Item** and then **Substitutions**.
 
    ![](media/garagehive-item-substitution2.gif)
 

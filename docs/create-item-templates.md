@@ -13,7 +13,7 @@ To create new **Item Card Templates**:
 
    {% include tip.html title="Note" text="The idea here is that item categories can be kept concise while using varying templates that contain specific information to be used for markups and pricing." %}
 
-3. From the actions bar, select **Create Item Template**, to create a new item template for the selected **Item Category**; the other option is to create a new **Item Category** by selecting **New** from the actions bar, and create **Item Templates** for the category.
+3. From the menu bar, select **Create Item Template**, to create a new item template for the selected **Item Category**; the other option is to create a new **Item Category** by selecting **New** from the menu bar, and create **Item Templates** for the category.
 4. From the pop-up window, when you click **Create Item Template**, select the **Example Template Code** (which should be a template related to the one you are creating).
 5. Enter **New Template Code** and the **New Template Description**, for example **18TYRES** and **18 Tyres** respectively.
 6. Select any applicable price or discount groups in the **Item Price Group Code** and **Item Discount Group Code**.

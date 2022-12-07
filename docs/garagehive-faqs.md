@@ -31,7 +31,7 @@ Once a technician has completed a Vehicle Inspection it will show within your Ti
 
 >   How can I add authorised work from a Vehicle Health Check? 
 
-Once you have built the quote up within the Vehicle Health Check and the customer has authorised the additional work, you can tick the Customer Authorised box against all authorised lines. Then select Process in the Actions Bar followed by Copy Authorized Lines to Jobsheet. 
+Once you have built the quote up within the Vehicle Health Check and the customer has authorised the additional work, you can tick the Customer Authorised box against all authorised lines. Then select Process in the menu bar followed by Copy Authorized Lines to Jobsheet. 
 
 ![](media/garagehive-faqs3.png)
 
@@ -121,7 +121,7 @@ Yes a jobsheet can be split. See below step by step guide.
 1.  From within the jobsheet, select Process 
 2.  Within Process press Split Document. (This will load a new Service Splitting page). 
 3.  At this point you will see Service Splitting Lines. Untick the lines which you want putting on a separate jobsheet/invoice.
-4.  Once you have unticked these select Actions within the Actions Bar and then press Split. 
+4.  Once you have unticked these select Actions within the menu bar and then press Split. 
 5.  You will then see a pop up message which will advise you of the new jobsheet number for the lines which you have unticked. 
 
 You will now have 2 jobsheets open for this customer/vehicle.

@@ -11,7 +11,7 @@ title: How to Set Business Targets (Gross Profit) in Garage Hive
 
 2. To set the targets, select the **Location** code, then the **Type** as **Gross Profit**, followed by the **Date** and **Week Day**, which can be the first day of the week, today's date, or any other date as you will get to fill all the days in a calendar year.
 3. Now, enter the **Amount** that you want to be your daily target.
-4. Select **Export** from the actions bar after selecting all of the fields in the first line. The goal of exporting at this point is to make it easier to enter all of the other days in a year from an excel sheet.
+4. Select **Export** from the menu bar after selecting all of the fields in the first line. The goal of exporting at this point is to make it easier to enter all of the other days in a year from an excel sheet.
 5. In the pop-up window, select **Location** as entered on the first line, and **Type** as **Gross Profit**. Click **OK**.
 
    ![](media/garagehive-business-targets2.png)

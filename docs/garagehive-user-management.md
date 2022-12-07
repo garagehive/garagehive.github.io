@@ -16,7 +16,7 @@ In Garage Hive system, you can add and remove users in the system. The user mark
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
-2. From the actions bar, select **Add/Remove User Licences**.
+2. From the menu bar, select **Add/Remove User Licences**.
 
     ![](media/garagehive-user-management-add-licence1.png)
 
@@ -36,7 +36,7 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 
     ![](media/garagehive-user-management1.gif)
 
-3. To create a new **Service Advisor** user, click on **Create User** from the actions bar and enter the user details in the pop-up window. 
+3. To create a new **Service Advisor** user, click on **Create User** from the menu bar and enter the user details in the pop-up window. 
 4. The system generates a username and password.
 
     ![](media/garagehive-user-management2.gif)
@@ -60,7 +60,7 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 
 ### Creating a Technician user
 To create a **Technician** user:
-1. Click on **Create** from the actions bar and enter the user details and contact details in the following two pages.
+1. Click on **Create** from the menu bar and enter the user details and contact details in the following two pages.
 
     ![](media/garagehive-user-management7.gif)
 
@@ -75,7 +75,7 @@ To create a **Technician** user:
 
 ### Enabling and disabling the user
 To enable or disable the user:
-1. Click on **Enable** or **Disable** from the actions bar.
+1. Click on **Enable** or **Disable** from the menu bar.
 
 ![](media/garagehive-user-management10.gif)
 

@@ -25,7 +25,7 @@ When the work on the vehicle is finished:
 
 ### Taking payments on a jobsheet
 To receive payment from the customer:
-1. Click **Payments/Posting** from the actions bar and select **Take Payment**. 
+1. Click **Payments/Posting** from the menu bar and select **Take Payment**. 
 2. Various methods are available to receive the Payment; select the exact method(s) the customer has used.
 3. The amount is automatically updated at the bottom **Difference** row. Click on **Close** when done. 
 
@@ -35,7 +35,7 @@ To receive payment from the customer:
 After receiving the payment, the next step is to post the jobsheet:
 1. Confirm that all the details in the jobsheet are correct; the dates, amount, items signed out and customer details.
 2. The posting date should be today's date (the day you are posting).
-3. Click on **Payments/Posting** from the actions bar and select **Post and Print**. The invoice is downloaded and ready to print.
+3. Click on **Payments/Posting** from the menu bar and select **Post and Print**. The invoice is downloaded and ready to print.
 
 ![](media/garagehive-trial-processing-a-jobsheet-to-invoice3.gif) 
 

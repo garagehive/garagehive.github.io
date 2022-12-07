@@ -55,12 +55,12 @@ To create a new Estimate:
 ### When the work in the estimate is authorised
 You can either create a jobsheet with all of the items from the estimate added to it, which will close the estimate, or you can select specific lines from the estimate to add to an open jobsheet if one already exists. 
 To convert the whole estimate into a jobsheet:
-1. In the actions bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html){:target="_blank"} in the schedule for the relevant day.
+1. In the menu bar, select **Process**, then **Make Jobsheet**. This will convert your estimate into a jobsheet, which you can then use to [create an allocation for the job](garagehive-create-a-booking.html){:target="_blank"} in the schedule for the relevant day.
 
    ![](media/garagehive-create-an-estimate7.gif)
 
 To Select partial lines from the estimate to add to an open Jobsheet:
 1. From the estimate lines, tick the checkbox in **Customer Authorised** field, for all the lines that have been authorised by the customer.
-2. Then, select **Process** from actions bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
+2. Then, select **Process** from menu bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
 
    ![](media/garagehive-create-an-estimate8.gif)

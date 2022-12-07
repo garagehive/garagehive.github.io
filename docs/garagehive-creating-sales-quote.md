@@ -20,11 +20,11 @@ To create a **Sales Quote**:
 
    ![](media/garagehive-parts-sales-quote2a.gif)
 
-5. You can now preview and email the quote to the customer by selecting **Print/Send** from the actions bar, followed by **Email Quote**.
+5. You can now preview and email the quote to the customer by selecting **Print/Send** from the menu bar, followed by **Email Quote**.
 
    ![](media/garagehive-parts-sales-quote3.gif)
 
-6. When the customer receives and confirms the quote, you can proceed with the supply of the parts by creating a **Sales Order** to confirm the parts order or a **Sales Invoice** to confirm the order and receive payment. Choose Process from the actions bar, followed by **Make Order** or **Make Invoice**.
+6. When the customer receives and confirms the quote, you can proceed with the supply of the parts by creating a **Sales Order** to confirm the parts order or a **Sales Invoice** to confirm the order and receive payment. Choose Process from the menu bar, followed by **Make Order** or **Make Invoice**.
 
    ![](media/garagehive-parts-sales-quote4.gif)
 

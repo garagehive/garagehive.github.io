@@ -15,7 +15,7 @@ To integrate your external accountancy system with Garage Hive:
    ![](media/garagehive-external-accountancy-integration1.gif)
 
 4. Turn on the **Integration Enabled** slider and select **Document Date** in both the **Export Customer Ledger by** and **Export Vendor Ledger by** fields.
-5. From the actions bar Select **Init. Customers** and **Init. Vendors**, then click **Yes** in the pop-up windows. This generates an **External System No.** for all **Customer** and **Vendor** cards in Garage Hive. Exit the page.
+5. From the menu bar Select **Init. Customers** and **Init. Vendors**, then click **Yes** in the pop-up windows. This generates an **External System No.** for all **Customer** and **Vendor** cards in Garage Hive. Exit the page.
 
    ![](media/garagehive-external-accountancy-integration2.gif)
 
@@ -26,7 +26,7 @@ To integrate your external accountancy system with Garage Hive:
    ![](media/garagehive-external-accountancy-integration3-b.png)
 
 7. You should then integrate the **Chart of Accounts** to the external system. Choose the ![](media/search_icon.png) icon, enter **Chart of Accounts** and select the related link.
-8. In the **Chart of Accounts** page, select **Edit List** from the actions bar.
+8. In the **Chart of Accounts** page, select **Edit List** from the menu bar.
 
    ![](media/garagehive-external-accountancy-integration4.gif)
 

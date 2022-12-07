@@ -27,7 +27,7 @@ You can archive purchase orders, estimates, jobsheets, checklists, and so on if 
 
       ![](media/garagehive-archive-checklists1.png)
 
-   - You can print or email an archived checklist by selecting **Print** menu from the actions bar, followed by **Print Vehicle Inspection** or **Email** actions.
+   - You can print or email an archived checklist by selecting **Print** menu from the menu bar, followed by **Print Vehicle Inspection** or **Email** actions.
 
       ![](media/garagehive-archive-checklists2.png)
 
@@ -36,7 +36,7 @@ You can archive purchase orders, estimates, jobsheets, checklists, and so on if 
 
       ![](media/garagehive-archive-purchase-order.png)
 
-   - You can print an archived purchase order by selecting **Related** from the actions bar, followed by **Version**, and then **Print**.
+   - You can print an archived purchase order by selecting **Related** from the menu bar, followed by **Version**, and then **Print**.
 
       ![](media/garagehive-archive-purchase-order2.png)
 

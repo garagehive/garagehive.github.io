@@ -44,7 +44,7 @@ Time grids are added to the resource to specify the duration of time that the re
 
   ![](media/garagehive-online-booking-time-grids4.gif)
 
-3. From the resource page, select **Related** from the actions bar, then select **Resources** from the submenu, and finally click on **Time Grids**.
+3. From the resource page, select **Related** from the menu bar, then select **Resources** from the submenu, and finally click on **Time Grids**.
 4. From the window that appears, you can add a single time grid to the resource or several.
 
   ![](media/garagehive-online-booking-time-grids5.gif)
