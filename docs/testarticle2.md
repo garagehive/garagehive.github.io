@@ -20,6 +20,10 @@ The Change Log feature is useful for tracking data changes in your Garage Hive d
 2. This enables the tracking of all and some fields in the service document, such as the **General** FastTab fields, **Vehicle Reminder Dates** fields, **Group Item** fields, **Service Comment Line** fields and **Service Lines** fields.
 
 ## View Changes Made in a Service Documents
-1. To view the changes made, open the document on which you want to track the changes, click **More Options** in the menu bar, then select **Related**, **Jobsheet**, and then **Change Log**.
+1. To view the changes made, open the document on which you want to track the changes, click **Related** in the menu bar, then select **Change Log**.
 
    ![](media/change-log-setup3.png)
+
+2. The document's changes will be shown.
+
+   ![](media/change-log-setup4.png)
