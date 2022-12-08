@@ -151,6 +151,8 @@
       url: /docs/garagehive-update-external-document-number.html
     - name: Removing Posting Restrictions 
       url: /docs/garagehive-removing-posting-restrictions.html
+    - name: How to Create Warranty Job
+      url: /docs/garagehive-create-warranty-job.html
 - name: Parts Sales
   url: "#"
   subitems:
