@@ -6,22 +6,10 @@ title: Taking a Payment and Posting a Jobsheet
 When a Jobsheet is completed, it should now be posted in order to update the relevant accounts in the system. To do so, you must understand how to take payment on a Jobsheet, update the Jobsheet lines, and then post the Jobsheet.
 
 ## In this article
-1. [Taking a payment in a Jobsheet](#taking-a-payment-in-a-jobsheet)
-2. [Adding resources to labour lines in a Jobsheet](#adding-resources-to-labour-lines-in-a-jobsheet)
+1. [Adding resources to labour lines in a Jobsheet](#adding-resources-to-labour-lines-in-a-jobsheet)
 3. [Updating the items numbers and quantities](#updating-the-items-numbers-and-quantities)
-4. [Posting the jobsheet](#posting-the-jobsheet)
-
-### Taking a payment in a Jobsheet 
-When the job is complete and the financial information is correct. You now need to collect the payment from the customer and post the jobsheet.
-1. Select **Payments/Posting** from the jobsheet's menu bar, then **Take Payment** to mark the customer's payment method and add the amount paid along the customer's payment method row.
-
-    ![](media/garagehive-jobsheet-taking-payment1.png)
-
-    ![](media/garagehive-jobsheet-taking-payment2.png)
-
-2. You can view other payments that have been applied in the document by selecting **Payment Gateway Entries** action, in the **Take Payment** window.
-
-    ![](media/garagehive-jobsheet-taking-payment2a.png)
+4. [Taking a payment in a Jobsheet and posting it](#taking-a-payment-in-a-jobsheet-and-posting-it)
+5. [Post the Jobsheet without taking the payment](#post-the-jobsheet-without-taking-the-payment)
 
 ### Adding resources to labour lines in a Jobsheet
 Before posting the jobsheet, all labour lines must-have resource information added to them. There are several ways this can be done:
@@ -54,15 +42,36 @@ Before posting the jobsheet, all labour lines must-have resource information add
 
     ![](media/garagehive-jobsheet-taking-payment3.png)
 
+### Taking a payment in a Jobsheet and posting it
+When the job is completed and the financial information is correct. You can now **take payment** from the customer and post the Jobsheet, or you can **add payment terms** to the Jobsheet so that you can post it. To take payment from the Jobsheet:
+1. Select **Payments/Posting** from the jobsheet's menu bar, then **Take Payment** to select the customer's payment method and add the amount paid along the customer's payment method row.
 
-### Posting the jobsheet
-Now, you have the option of:  
-* To **Post** - Post/invoice this jobsheet without the option of printing or emailing it.
-* To **Post and Print** - Post/invoice this jobsheet and print a copy of the invoice.
-* To **Post and Email** - Post/invoice this jobsheet and email a copy of the invoice to the **Bill-To Customer**.
-Select **Payment/Posting** from the menu bar and select either of the above according to your requirements. Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
+    ![](media/garagehive-jobsheet-taking-payment1.png)
 
-    ![](media/garagehive-jobsheet-posting1.gif)
+    ![](media/garagehive-jobsheet-taking-payment2.png)
+
+2. You can view other payments that have been applied in the document by selecting **Payment Gateway Entries** action, in the **Take Payment** window.
+
+    ![](media/garagehive-jobsheet-taking-payment2a.png)
+
+3. Close the **Take Payment** page, and select the **Post** under the **Payment/Posting** menu.
+
+   ![](media/garagehive-jobsheet-taking-payment2c.png)
+
+### Post the Jobsheet without taking the payment
+1. Scroll down to the **Invoicing** FastTab and enter the customer's **Payment Terms Code**, such as **10 days from invoice (10D)**.
+
+   ![](media/garagehive-jobsheet-taking-payment2b.png)
+
+2. Then from the menu bar, select **Payment/Posting**, then you can select either of the following options:
+  * **Post** - Post/invoice this jobsheet without the option of printing or emailing it.
+  * **Post and Print** - Post/invoice this jobsheet and print a copy of the invoice.
+  * **Post and Email** - Post/invoice this jobsheet and email a copy of the invoice to the **Bill-To Customer**.
+
+Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
+
+   ![](media/garagehive-jobsheet-posting1.gif)
+
 
 <br>
 
