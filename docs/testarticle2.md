@@ -16,7 +16,7 @@ To resolve this:
       2. Under Clear browsing data, select Choose what to clear.
       3. Select **Cached images and files** and **Cookies and other site data** check box and then select **Clear**.
 
-         ![](media/garagehive-upgrade-to-version-20-of-business-central2.png)
+      ![](media/garagehive-upgrade-to-version-20-of-business-central2.png)
 
    - In **Google Chrome**:
        4. On your computer, open Chrome.
@@ -26,4 +26,4 @@ To resolve this:
        8. Next to **Cookies and other site data** and **Cached images and files** check the boxes.
        9.  Click **Clear data**.
 
-         ![](media/garagehive-upgrade-to-version-20-of-business-central3.png)
+      ![](media/garagehive-upgrade-to-version-20-of-business-central3.png)
