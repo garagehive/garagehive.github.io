@@ -17,16 +17,17 @@ To resolve this:
    - Delete cache and cookies in the new **Microsoft Edge**:
       1. Open Microsoft Edge, select Menu (3 dots icon on top right corner of the browser) > **Settings** > **Privacy & services**.
       2. Under Clear browsing data, select Choose what to clear.
-      3. Select **Cached images and files** and **Cookies and other site data** check box and then select **Clear**.
+      3. At the top, choose a time range. To delete everything, select **All time**.
+      4. Select **Cached images and files** check box and then select **Clear Now**.
 
       ![](media/garagehive-upgrade-to-version-20-of-business-central2.png)
 
    - In **Google Chrome**:
-       4. On your computer, open Chrome.
-       5. At the top right, click **More**.
-       6. Click **More tools**. Clear browsing data.
-       7. At the top, choose a time range. To delete everything, select **All time**.
-       8. Next to **Cookies and other site data** and **Cached images and files** check the boxes.
-       9.  Click **Clear data**.
+       5. On your computer, open Chrome.
+       6. At the top right, click **More**.
+       7. Click **More tools**. Clear browsing data.
+       8. At the top, choose a time range. To delete everything, select **All time**.
+       9. Select the **Cached images and files** check boxe.
+       10. Click **Clear data**.
 
       ![](media/garagehive-upgrade-to-version-20-of-business-central3.png)
