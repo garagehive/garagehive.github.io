@@ -25,7 +25,7 @@ title: Vostel Integration with Garage Hive Using Oona Web App
 
    ![](media/garagehive-vostel-integration2.png)
 
-5. Click on the **Oona app** in your web browser extensions, enter your **Email** and **API Key**, and then click **Submit**.
+5. Click on the **Oona app** in your web browser extensions, enter your **Email** and paste the **API Key**, and then click **Submit**.
 
    ![](media/garagehive-vostel-integration3.png)
 
