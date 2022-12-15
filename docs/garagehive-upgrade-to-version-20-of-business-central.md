@@ -30,7 +30,7 @@ To resolve this:
        6. At the top right, click **More**.
        7. Click **More tools**. Clear browsing data.
        8. At the top, choose a time range. To delete everything, select **All time**.
-       9. Select the **Cached images and files** check boxe.
+       9. Select the **Cached images and files** check box.
        10. Click **Clear data**.
 
       ![](media/garagehive-upgrade-to-version-20-of-business-central3.png)
