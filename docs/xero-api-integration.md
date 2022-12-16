@@ -39,6 +39,10 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
     ![](media/garagehive-xero-setup.png)
 
+1. Select the **Integration Enabled** slider to enable the integration.
+
+   ![](media/garagehive-xero-setup-enabled.png)
+
 1. To get started with the integration, you'll need to create an "**App**" in Xero. Sign in with your Xero credentials at [**this link**](https://developer.xero.com/myapps/){:target="_blank"}. Now, in the middle or top right of the screen, choose **New App**.
 1. Name the App; It should be unique, thus we recommend using **GarageName-GH**, but it may be any other name that you choose. Fill up the details shown below.
    * **Company or Application URL** - ht<span>tps://www.garagehive.co.uk
@@ -61,11 +65,11 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
      ![](media/xero-2-orth-app3.png) 
 
-2. Now, under Garage Hive's **Accountancy Integration Setup**, from the menu bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
+1. Now, under Garage Hive's **Accountancy Integration Setup**, from the menu bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
 
      ![](media/xero-2-orth-app-3.png)
 
-3. You will be redirected to the **Xero Website** and prompted to select **Allow Access** before a successful integration is confirmed.
+1.  You will be redirected to the **Xero Website** and prompted to select **Allow Access** before a successful integration is confirmed.
 
      ![](media/xero-2-orth-app-4.png)
 
