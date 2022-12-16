@@ -4,15 +4,14 @@ title: Sage Accounting Integration Setup
 ---
 
 ## In this article
-1. [What you can export via the Xero API](#what-you-can-export-via-the-xero-api)
+1. [What you can export via the Sage Accounting integration](#what-you-can-export-via-the-sage-accounting-integration)
 2. [Initial Setup](#initial-setup)
 3. [How to run the export](#how-to-run-the-export)
-4. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
 
 
-### What you can export via the Sage Accounting API
+### What you can export via the Sage Accounting integration
 
-Garage Hive allows you to export your data to Xero via an API. You can export the following:
+Garage Hive allows you to export your data to Sage Accounting; you can export the following:
 
 * Customer Invoices
 * Customer Credit Memos
