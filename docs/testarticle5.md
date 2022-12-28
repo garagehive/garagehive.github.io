@@ -14,7 +14,7 @@ When using Vehicle Sales, it is recommended that any data related to vehicle sal
    ![](media/garagehive-vehicle-sales-order1.png)
 
 2. Choose whether the vehicle sale **Deal Type** is a **Stock Sale**, in which you sell the vehicles you have in stock, or a **Sale or Return**, in which you return the unsold stock to the wholesaler or manufacturer.
-3. Then, in the fields such as **Vehicle Registration No.**, **Mileage**, **Order Date**, and **SalesPerson Code**, enter the vehicle's details.
+3. Then, in the fields such as **Vehicle Registration No.**, **Mileage**, **Order Date**, **SalesPerson Code** and *Vehicle Item No.** (The number of the vehicle being sold), enter the vehicle's details.
    
    ![](media/garagehive-vehicle-sales-order2.png)
 
@@ -54,6 +54,14 @@ When using Vehicle Sales, it is recommended that any data related to vehicle sal
 
    ![](media/garagehive-vehicle-sales-order11.png)
 
-13. If you've added a **Part Exchange** vehicle, go to the menu bar and select **Actions**, then **Create PX Purchase Invoice**. This generates a Purchase Invoice for the Part Exchange vehicle, which you can access via the Purchase Invoices tile.
+13. If you've added a **Part Exchange** vehicle, go to the menu bar and select **Actions**, then **Create PX Purchase Invoice**. This generates a Purchase Invoice for the Part Exchange vehicle, which you can access via the Purchase Invoices tile to post it.
 
    ![](media/garagehive-vehicle-sales-order12.png)
+
+14. After ensuring that all the financials are correct, select **Actions** from the menu bar, and choose **Create Sale Invoice**.
+
+   ![](media/garagehive-vehicle-sales-order13.png)
+
+15. If you added the **Deposit Amount** in the **Financials**, you'll get a notification to either create a **Deposit Invoice** or **All Invoices (Including Deposit)**. Select the one you want and click **OK**.
+
+   ![](media/garagehive-vehicle-sales-order14.png)
