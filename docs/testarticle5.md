@@ -54,7 +54,7 @@ When using Vehicle Sales, it is recommended that any data related to vehicle sal
 
    ![](media/garagehive-vehicle-sales-order11.png)
 
-13. If you've added a **Part Exchange** vehicle, go to the menu bar and select **Actions**, then **Create PX Purchase Invoice**. This generates a Purchase Invoice for the Part Exchange vehicle, which you can access via the Purchase Invoices tile to post it.
+13. If you've added a **Part Exchange** vehicle, go to the menu bar and select **Actions**, then **Create PX Purchase Invoice**. This generates a Purchase Invoice for the Part Exchange vehicle, which you can access via the Purchase Invoices tile to post when the customer brings in the vehicle for exchange.
 
    ![](media/garagehive-vehicle-sales-order12.png)
 
