@@ -1,66 +1,63 @@
 ---
 layout: docs
-title: Vehicle Sales Invoices
+title: Using Vehicle Sales Invoices
 ---
 
-## In this article
-1. [What you can export via the Sage Accounting integration](#what-you-can-export-via-the-sage-accounting-integration)
-2. [Initial Setup](#initial-setup)
-3. [How to run the export](#how-to-run-the-export)
+## Using the Vehicle Sales Invoices
+Vehicle Sales Invoice is the invoice created in the system when the customer confirms the purchase of the vehicle. There are several types of invoices used for vehicle sales:
+
+   - **Deposit Invoice** - This is created for the deposit given for the vehicle.
+   - **Finance Invoice** - This is created for the finance company, when the payment is done by the finance company.
+   - **Customer Invoice** - This is created for the customer, for the remaining amount that they will pay.
+   - **Finance Balancing Invoice** - This is created for system requirements. It exists to keep the system's books balanced; it may not be printed and will always have a zero value.
+
+The type of invoice is indicated in the **Vehicle Sales Invoice Type** column of the sales invoices list.
+
+   ![](media/garagehive-vehicle-sales-invoice1.png)
+
+### Deposit Invoice
+1. When a customer makes a deposit toward the purchase of a vehicle, a **Deposit Invoice** is generated. To create the **Vehicle Sales Invoice** from the **Vehicle Sales Order**, select **Actions** from the menu bar and then **Create Sales Invoice**.
+
+   ![](media/garagehive-vehicle-sales-invoice2.png)
+
+2. You get the option of creating either the **Deposit Invoice** or create **All Invoices (Including Deposit)**.
+
+   ![](media/garagehive-vehicle-sales-invoice3.png)
+
+3. The Deposit Invoice will only include the **Deposit Amount** in the **Lines** FastTab, to show the amount that has been deposited.
+
+   ![](media/garagehive-vehicle-sales-invoice4.png)
+
+   ![](media/garagehive-vehicle-sales-invoice5.png)
+
+### Finance Invoice
+1. The **Finance Invoice** is generated when the option **All Invoices (Including Deposit)** is selected, and when the **Source of Payment** is **Finance Company** in the **Vehicle Sales Order**.
+
+   ![](media/garagehive-vehicle-sales-invoice3.png)
+
+2. The **Finance Invoice** shows the **Deposit Amount**, the **Customer Payment** and the cost the vehicle in the **Lines** FastTab.
+
+   ![](media/garagehive-vehicle-sales-invoice6.png)
+
+3. When printed both the **Customer** and the **Finance Company** are indicated.
+
+   ![](media/garagehive-vehicle-sales-invoice7.png)
+
+### Customer Invoice
+1. The customer invoice is also generated when the option **All Invoices (Including Deposit)** is selected, and when the **Source of Payment** is **Customer** in the **Vehicle Sales Order**.
+2. It shows the cost of the vehicle being sold, the **Deposit Amount**, the **Financed Amount**, the **Part Exchange** vehicle (if available) and the **Addons** that have bee added to the vehicle.
+
+   ![](media/garagehive-vehicle-sales-invoice8.png)
+
+3. A comment is added in the printed **Customer Invoice** when the vehicle is partially paid by the **Finance Company**, to show what has been agreed on the financing.
+
+   ![](media/garagehive-vehicle-sales-invoice9.png)
+
+### Finance Balancing Invoice
+1. As the name suggests, this invoice is solely used for balancing the accounts in the system and it shows the cost of the vehicle, **Deposit Amount**, **Customer Payment**, and the **Financed Amount** which all amount to zero.
+
+   [](media/garagehive-vehicle-sales-invoice10.png)
 
 
-### What you can export via the Sage Accounting integration
-
-Garage Hive allows you to export your data to Sage Accounting; you can export the following:
-
-* Customer Invoices
-* Customer Credit Memos
-* Customer Payments
-* Customer Refunds
-* Vendor Invoices
-* Vendor Credit memos
-
-{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
-
-### Initial Setup
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
-
-   ![](media/garagehive-sage-accounting-setup1.png)
-
-1. Select **Sage Accounting** as the **Accountancy System** in the **General** FastTab.
-1. Specify whether the data should be exported using the posting date or the document date in the **Export Customer Ledger by** and **Export Vendor Ledger by** fields. The most commonly used approach is by **Document Date**. Garage Hive users are often limited to only posting within the current date, therefore the posting date may differ from the date on the invoice from the supplier, whereas the document date would match.
-
-   ![](media/garagehive-sage-accounting-setup2.png)
-
-1. Select the **Integration Enabled** slider to enable the integration.
-
-   ![](media/garagehive-sage-accounting-setup3.png)
-
-### How to run the export 
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
-
-    ![](media/garagehive-sage-accounting-setup4.png)
-
-2. Select the following options:
-   * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
-   * **Export Customer Payments/Refunds** - This will export Invoice payments/refunds as well as payments to accounts within the specified date range.
-   * **Export Vendor Invoices/Credit Memos** - This will export all posted purchase orders/purchase invoices as well as posted purchase return orders/purchase credit memos within the given date range.
-   * **Export Type** - All or New. You may either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any previously exported documents. This implies that it is **important** that you keep all prior exported files secure since they will never be reproduced. When using **New**, a transaction that has already been exported will be flagged and will not be exported again.
-   * **Date From** and **Date To** - Choose your date range.
-
-3. Under Catalogs:
-   * **Export All Customers** - This will generate an export of all customers in the system.
-   * **Export All Vendors** - This will generate an export of all vendors in the system.
-
-     ![](media/garagehive-sage-accounting-setup5.png)
-
-
-<br>
-
-### **See Also**
-
-[Video: Garage Hive Integration with Sage Accounting](https://www.youtube.com/watch?v=-UMuQjqTgmQ){:target="_blank"} \
-[How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html){:target="_blank"}
-[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html){:target="_blank"} \
-[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"}
+{% include tip.html title="Note" text="After the deal is done, all the invoices should be posted." %}
 
