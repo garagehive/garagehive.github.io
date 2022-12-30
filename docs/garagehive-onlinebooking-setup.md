@@ -3,7 +3,15 @@ layout: docs
 title: Setting Up Online Booking
 ---
 
-# Online Booking Setup 
+Online booking in Garage Hive allows customers to book, for example, MOT, servicing, or repairs from the business websites or social media platforms available, and the booking is recorded directly in the system.
+
+## In this article
+1. [Online Booking Setup](#online-booking-setup)
+2. [Get Embed HTML](#get-embed-html)
+3. [Get Standalone Page URL](#generate-standalone-page-url)
+
+
+### Online Booking Setup 
 To setup online booking:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and choose the related link.
 
@@ -36,6 +44,17 @@ To setup online booking:
       - **Send To Branch Email** - It is best practise to check this box, as this will send the confirmation message to the email address specified in the branch setup, which we will do later in the setup.
 
         ![](media/garagehive-onlinebooking-setup5.png)
+
+### Get Embed HTML
+The **Embed** tag in HTML is used for embedding the booking link to your HTML file (the website). To get the **Embed HTML** link, select **Actions** in the **Online Booking Setup** page, and click on **Get Embed HTML** for online booking or **Get Enquiry Only Embed HTML** for online enquiries.
+
+   ![](media/garagehive-onlinebooking-setup6.png)
+
+### Get Standalone Page URL
+The **Standalone Page URL** is suitable for businesses that do not have a website to which to add a **Embed HTML** tag. In this case, a **Standalone Page URL** can be used as a dedicated link for booking, such as on social media platforms like Facebook, where a **Book Now** button can be added, and when sending SMS notifications to customers.
+To obtain the **Standalone Page URL**, go to the **Online Booking Setup** page and click on **Get Standalone Page URL**. Copy the link and use it to get bookings. You can shorten the link using services such as bitly.
+
+   ![](media/garagehive-onlinebooking-setup7.png)
 
 
 [Next step](/docs/garagehive-onlinebooking-branches.html)
