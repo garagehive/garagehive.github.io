@@ -56,5 +56,9 @@ To obtain the **Standalone Page URL**, go to the **Online Booking Setup** page a
 
    ![](media/garagehive-onlinebooking-setup7.png)
 
+The **Standalone Page URL** opens a web page, as shown below.
+
+   ![](media/garagehive-onlinebooking-setup8.png)
+
 
 [Next step](/docs/garagehive-onlinebooking-branches.html)
