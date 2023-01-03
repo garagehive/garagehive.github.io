@@ -11,14 +11,14 @@ title: Vostel Integration with Garage Hive Using Oona Web App
 2. [How to use Oona web app in Garage Hive](#how-to-use-oona-web-app-in-garage-hive)
 
 ### Oona web app setup
-1. To start the setup, you will need to register for a Stan account with Vostel. Follow this [link](https://stan.vostel.co.uk/#/auth/register) to register. If you have already registered you can log it to your account.
+1. To start the setup, you will need to register for a Stan account with Vostel. Follow this [link](https://stan.vostel.co.uk/#/auth/register){:target="_blank"} to register. If you have already registered you can log it to your account.
 
    ![](media/garagehive-vostel-integration1.png)
 
 2. Install the **Oona web app** on your browser: 
-      - for **Google Chrome** use this [link](https://chrome.google.com/webstore/detail/oona/cjkdcianhkjonebdjldgdfmakjncgdee), and click on **Add to Chrome**, followed by **Add Extension**.
+      - for **Google Chrome** use this [link](https://chrome.google.com/webstore/detail/oona/cjkdcianhkjonebdjldgdfmakjncgdee){:target="_blank"}, and click on **Add to Chrome**, followed by **Add Extension**.
 
-      - for **Microsoft Edge** use this [link](https://chrome.google.com/webstore/detail/oona/cjkdcianhkjonebdjldgdfmakjncgdee) and click on **Add to Chrome** from Chrome webstore, followed by **Add Extension**.
+      - for **Microsoft Edge** use this [link](https://chrome.google.com/webstore/detail/oona/cjkdcianhkjonebdjldgdfmakjncgdee){:target="_blank"} and click on **Add to Chrome** from Chrome webstore, followed by **Add Extension**.
       - for **Firefox** search for Oona in the add-ons page.
 3. After you've installed the Oona app, go to your stan account, enter your **Extension**, and then generate and copy the **API Key**.
 4. Click on **Update Profile** to save the settings.
