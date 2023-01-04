@@ -166,6 +166,13 @@
       url: /docs/garagehive-item-substitution-management.html
     - name: Returning Warranty Parts to the Vendor
       url: /docs/garagehive-return-warranty-parts-to-vendor.html
+- name: Vehicle Sales
+  url: "#"
+  subitems:
+    - name: Using Vehicle Sales Order
+      url: /docs/garagehive-vehicle-sales-order.html
+    - name: Using Vehicle Sales Invoice
+      url: /docs/garagehive-vehicle-sales-invoices.html
 - name: Purchasing
   url: "#"
   subitems:
@@ -285,6 +292,8 @@
       url: /docs/garagehive-comments-extended.html
     - name: Copy Documents
       url: /docs/garagehive-copydocument.html
+    - name: How to Send Bulk SMS's
+      url: /docs/garagehive-send-bulk-sms.html
 - name: End of Day Process
   url: "#"
   subitems:
@@ -507,6 +516,8 @@
       url: /docs/garagehive-gsf-integration.html
     - name: Tyre Scanner Integration
       url: /docs/garagehive-tyre-scanner-integration.html
+    - name: Vostel Telephone System Integration
+      url: /docs/garagehive-vostel-integration.html
 - name: Garage Industry Trends
   url: /docs/garagehive-garage-industry-trends.html
 - name: FAQs
