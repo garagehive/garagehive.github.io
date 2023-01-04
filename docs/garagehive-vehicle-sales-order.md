@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Using the Vehicle Sales Order
+title: Using Vehicle Sales Order
 ---
 
-# Using the Vehicle Sales Order
+# Using Vehicle Sales Order
 Vehicle Sales is a feature in Garage Hive that is used to sell vehicles, both new and used. It was created with vehicle dealers' needs in mind.
 When using Vehicle Sales, it is recommended that any data related to vehicle sales be entered by the **Vehicle Sales Admin** user. In this article we'll use the **Vehicle Sales Admin** user.
 
