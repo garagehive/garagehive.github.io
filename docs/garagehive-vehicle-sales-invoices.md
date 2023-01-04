@@ -61,3 +61,18 @@ The type of invoice is indicated in the **Vehicle Sales Invoice Type** column of
 
 {% include tip.html title="Note" text="After the deal is done, all the invoices should be posted." %}
 
+### Posting All the Invoices
+1. To post all of the invoices at once, open the list of **Vehicle Sales Invoices**, select the dots next to the **No.** of any of the invoices, and click **Select More**.
+2. Select all of the invoices you want to post at once.
+
+   [](media/garagehive-vehicle-sales-invoice11.png)
+
+   [](media/garagehive-vehicle-sales-invoice12.png)
+
+3. Choose **Posting** and **Post Batch** from the menu bar. This will post all of the selected invoices at once.
+
+   [](media/garagehive-vehicle-sales-invoice13.png)
+
+4. On the page that opens, click **Ok**.
+
+   [](media/garagehive-vehicle-sales-invoice14.png)

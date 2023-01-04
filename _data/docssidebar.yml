@@ -169,6 +169,8 @@
 - name: Vehicle Sales
   url: "#"
   subitems:
+    - name: Recommended Vehicle Sales Setup
+      url: /docs/garagehive-vehicle-sales-setup.html
     - name: Using Vehicle Sales Order
       url: /docs/garagehive-vehicle-sales-order.html
     - name: Using Vehicle Sales Invoice
