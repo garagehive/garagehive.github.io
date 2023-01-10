@@ -65,3 +65,10 @@ When using Vehicle Sales, it is recommended that any data related to vehicle sal
 15. If you added the **Deposit Amount** in the **Financials**, you'll get a notification to either create a **Deposit Invoice** or **All Invoices (Including Deposit)**. Select the one you want and click **OK**.
 
    ![](media/garagehive-vehicle-sales-order14.png)
+
+
+<br>
+
+### **See Also**
+[Recommended Vehicle Sales Setup](garagehive-vehicle-sales-setup.html){:target="_blank"}
+[Using Vehicle Sales Invoices](garagehive-vehicle-sales-invoices.html){:target="_blank"}

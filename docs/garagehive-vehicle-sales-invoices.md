@@ -76,3 +76,10 @@ The type of invoice is indicated in the **Vehicle Sales Invoice Type** column of
 4. On the page that opens, click **Ok**.
 
    [](media/garagehive-vehicle-sales-invoice14.png)
+   
+
+<br>
+
+### **See Also**
+[Recommended Vehicle Sales Setup](garagehive-vehicle-sales-setup.html){:target="_blank"}
+[Using Vehicle Sales Order](garagehive-vehicle-sales-order.html){:target="_blank"}
