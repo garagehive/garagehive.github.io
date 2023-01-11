@@ -5,6 +5,10 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 11th January 2023
+* For accounting, we created the **Sage Accounting API** integration.
+* Added **Humm Integration**, which is a service that allows the customer to buy now and pay later.
+
 ### 16th November 2022
 * All service documents now include the ability to add pre-defined comments, [read more](https://docs.garagehive.co.uk/docs/garagehive-comments-extended.html#adding-predefined-jobsheet-comments){:target="_blank"}.
 
