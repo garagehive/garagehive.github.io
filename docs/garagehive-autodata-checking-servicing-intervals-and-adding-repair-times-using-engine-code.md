@@ -28,4 +28,6 @@ After selecting the **Repair Categories**, select the lines to include in the **
 [Viewing and adding servicing intervals data](garagehive-autodata-viewing-and-adding-servicing-intervals.html){:target="_blank"} \
 [How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html){:target="_blank"} \
 [Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html){:target="_blank"} \
-[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html){:target="_blank"}
+[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html){:target="_blank"} \
+[Viewing the Tyre Pressure Monitoring System (TPMS) Test](garagehive-autodata-tpms.html){:target="_blank"} \
+[Viewing the Service Indicator Reset Data](garagehive-autodata-service-indicators.html)

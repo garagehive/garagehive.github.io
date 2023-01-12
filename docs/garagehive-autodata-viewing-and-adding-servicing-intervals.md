@@ -35,4 +35,5 @@ Servicing intervals are the number of months or miles between services for the v
 [Checking and adding servicing intervals and repair times using engine code](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html){:target="_blank"} \
 [How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html){:target="_blank"} \
 [Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html){:target="_blank"} \
-[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html){:target="_blank"}
+[Autodata Seamless Integration](garagehive-autodata-seamless-integration.html){:target="_blank"} \
+[Viewing the Tyre Pressure Monitoring System (TPMS) Test](garagehive-autodata-tpms.html){:target="_blank"}

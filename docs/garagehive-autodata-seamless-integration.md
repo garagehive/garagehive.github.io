@@ -35,5 +35,7 @@ title: Autodata Seamless Integration in Garage Hive
 [Autodata labour time adjustments](garagehive-autodata-labour-time-adjustment.html){:target="_blank"} \
 [Checking vehicle engine oil data](garagehive-autodata-viewing-vehicle-engine-oil-data.html){:target="_blank"} \
 [Checking and adding servicing intervals and repair times using engine code](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html){:target="_blank"} \
-[How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html){:target="_blank"}
+[How to use timing belt intervals](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html){:target="_blank"} \
+[Viewing the Tyre Pressure Monitoring System (TPMS) Test](garagehive-autodata-tpms.html){:target="_blank"} \
+[Viewing the Service Indicator Reset Data](garagehive-autodata-service-indicators.html)
 
