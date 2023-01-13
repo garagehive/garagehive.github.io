@@ -51,7 +51,7 @@ The **Embed** tag in HTML is used for embedding the booking link to your HTML fi
    ![](media/garagehive-onlinebooking-setup6.png)
 
 ### Get Standalone Page URL
-The **Standalone Page URL** is suitable for businesses that do not have a website to which to add a **Embed HTML** tag. In this case, a **Standalone Page URL** can be used as a dedicated link for booking, such as on social media platforms like Facebook, where a **Book Now** button can be added, and when sending SMS notifications to customers.
+The **Standalone Page URL** is suitable for businesses that do not have a website to which to add an **Embed HTML** tag. In this case, a **Standalone Page URL** can be used as a dedicated link for booking, such as on social media platforms like Facebook, where a **Book Now** button can be added, and when sending SMS notifications to customers.
 To obtain the **Standalone Page URL**, go to the **Online Booking Setup** page and click on **Get Standalone Page URL**. Copy the link and use it to get bookings. You can shorten the link using services such as bitly.
 
    ![](media/garagehive-onlinebooking-setup7.png)
