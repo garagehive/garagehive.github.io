@@ -32,47 +32,47 @@ title: How to Use Humm Financing
    ![](media/garagehive-humm-payment-request5.png)
 
 ### Starting the Purchase on Humm Website
-1. After requesting Humm financing, you will receive an email with a link to start the purchase.
+1. After requesting Humm financing, the customer will receive an email with a link to start the purchase.
 
    ![](media/garagehive-humm-payment-start-purchase1.png)
 
-2. To start your purchase, click the link which takes you to the Humm website. Enter the phone number that will be used for the purchase and then click **Got Your Limit? Start Purchase**.
+2. To start the purchase, click on the link which opens the Humm website. Enter the phone number that will be used for the purchase and then click **Got Your Limit? Start Purchase**.
 
    ![](media/garagehive-humm-payment-start-purchase2.png)
 
-3. You will then receive a verification code via SMS to the number you provided. For verification, enter the code.
+3. A verification code will be sent via SMS to the number provided. For verification, enter the code.
 
    ![](media/garagehive-humm-payment-start-purchase3.png)
 
-4. The following page will provide a summary of the purchase. Check that all of the information is correct. Click **Next**.
+3. The following page will provide a summary of the purchase. Check that all of the information is correct. Click **Next**.
 
    ![](media/garagehive-humm-payment-start-purchase4.png)
 
-5. Now, select the frequency with which you want to repay the financing and click **Select this Option**.
-6. Scroll down and enter the **First Repayment Date**, then check the boxes to confirm your eligibility and that no changes will affect your contractual payments. Click **Next**.
+4. Now, select the frequency with which to repay the financing and click **Select this Option**.
+5. Scroll down and enter the **First Repayment Date**, then check the boxes to confirm eligibility and that no changes will affect contractual payments. Click **Next**.
 
    ![](media/garagehive-humm-payment-start-purchase5.png)
 
    ![](media/garagehive-humm-payment-start-purchase6.png)
 
-7. You will receive an email containing the purchase documentation as well as the Terms and Conditions. Please read them carefully and then click **Proceed** when done.
+6. An email containing the purchase documentation as well as the Terms and Conditions, will be sent. Please read them carefully and then click **Proceed** when done.
 
    ![](media/garagehive-humm-payment-start-purchase7.png)
 
-8. The following page now provides a summary of the purchase's terms and conditions; ensure that all information is correct. Scroll down and check the boxes to confirm that you have opened and read your loan agreement and authorise Humm to debit your card.
-9. You will then receive an Acceptance Code via SMS to your phone number. Enter the code and click **Accept Terms and Conditions**.
+7. The following page now provides a summary of the purchase's terms and conditions; ensure that all information is correct. Scroll down and check the boxes to confirm opening and reading the loan agreement and authorise Humm to debit the card.
+8. An **Acceptance Code** will be sent via SMS to the phone number provided. Enter the code and click **Accept Terms and Conditions**.
 
    ![](media/garagehive-humm-payment-start-purchase8.png)
 
    ![](media/garagehive-humm-payment-start-purchase9.png)
 
-10. Add a card that will be directly debited by Humm on the next page, and check the checkboxes below to authorise Humm to immediately take **Upfront** payment and any future repayments for the purchase after selecting **Complete Purchase**. Click the **Complete Purchase** button.
+9.  Add a card that will be directly debited by Humm on the next page, and check the checkboxes below to authorise Humm to immediately take **Upfront** payment and any future repayments for the purchase after selecting **Complete Purchase**. Click the **Complete Purchase** button.
 
    ![](media/garagehive-humm-payment-start-purchase10.png)
 
    ![](media/garagehive-humm-payment-start-purchase11.png)
 
-11. The purchase is now complete.
+10. The purchase is now complete.
 
    ![](media/garagehive-humm-payment-start-purchase12.png)
 
@@ -109,4 +109,4 @@ title: How to Use Humm Financing
 
    ![](media/garagehive-humm-finalise-payment8.png)
 
-9. The payment will now have been finalised.
+9. The payment is now finalised.
