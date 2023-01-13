@@ -6,7 +6,7 @@ title: What's New in Garage Hive
 Below is a list of Garage Hive developments:
 
 ### 11th January 2023
-* Added the ability to **Get a Standalone Page URL** for online booking, [read more](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-setup.html#get-standalone-page-url). The **Standalone Page URL** is suitable for businesses that do not have a website to which to add an **Embed HTML** tag.
+* Added the ability to **Get a Standalone Page URL** for online booking, [read more](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-setup.html#get-standalone-page-url){:target="_blank"}. The **Standalone Page URL** is suitable for businesses that do not have a website to which to add an **Embed HTML** tag.
 
    ![](media/garagehive-standalone-page-url.png)
 
