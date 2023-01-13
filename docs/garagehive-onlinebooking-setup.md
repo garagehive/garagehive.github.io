@@ -8,7 +8,7 @@ Online booking in Garage Hive allows customers to book, for example, MOT, servic
 ## In this article
 1. [Online Booking Setup](#online-booking-setup)
 2. [Get Embed HTML](#get-embed-html)
-3. [Get Standalone Page URL](#generate-standalone-page-url)
+3. [Get Standalone Page URL](#get-standalone-page-url)
 
 
 ### Online Booking Setup 

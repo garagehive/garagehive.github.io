@@ -6,15 +6,19 @@ title: What's New in Garage Hive
 Below is a list of Garage Hive developments:
 
 ### 11th January 2023
+* Added the ability to **Get a Standalone Page URL for online booking, [read more](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-setup.html#get-standalone-page-url).
+
+   ![](media/garagehive-standalone-page-url.png)
+
 * For accounting, we created the **Sage Accounting API** integration.
-* Added **Humm Integration**, which is a service that allows the customer to buy now and pay later.
+* Added **Humm Integration**, which is a service that allows the customer to buy now and pay later, [read more](https://docs.garagehive.co.uk/docs/garagehive-humm-financing.html){:target="_blank"}.
 
 ### 16th November 2022
 * All service documents now include the ability to add pre-defined comments, [read more](https://docs.garagehive.co.uk/docs/garagehive-comments-extended.html#adding-predefined-jobsheet-comments){:target="_blank"}.
 
 ### 7th November 2022
 * We made the red and amber blocks open by default within online authorisation, as requested at **The Blend 2022**. This helps to avoid customers missing the advisories.
-* Added the **Create Estimate** slider in service packages, for online enquiries.
+* Added the **Create Estimate** slider in service packages, for online enquiries, [read more](https://docs.garagehive.co.uk/docs/garagehive-onlinebooking-service-packages.html#setting-up-online-enquiries){:target="_blank"}.
 
 ### 24th October 2022
 * From the **User Management** page, you can now send a request to Garage Hive support for a licence change.
