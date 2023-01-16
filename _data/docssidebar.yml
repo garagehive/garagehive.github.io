@@ -412,6 +412,8 @@
       url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
     - name: How to Set Card Terminal Into Integration Mode
       url: /docs/garagehive-setting-card-terminals-into-integration-mode.html
+    - name: Sage Accounting Integration Setup
+      url: /docs/garagehive-sage-accounting-integration.html
     - name: Xero Integration Setup
       url: /docs/xero-api-integration.html
     - name: Xero Integration Errors
