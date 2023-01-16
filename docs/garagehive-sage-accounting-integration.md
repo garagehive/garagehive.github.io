@@ -61,8 +61,8 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
    * **Date From** and **Date To** - Choose your date range.
 
 3. Under Catalogs:
-   * **Export All Customers** - This will generate an export of all customers in the system (It is not recommended to select this).
-   * **Export All Vendors** - This will generate an export of all vendors in the system (It is not recommended to select this).
+   * **Export All Customers** - This will generate an export of all customers in the system (**It is highly recommended that you never select this**).
+   * **Export All Vendors** - This will generate an export of all vendors in the system (**It is highly recommended that you never select this**).
 
 4. Click **OK**, to start exporting the data.
 
