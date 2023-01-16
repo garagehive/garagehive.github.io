@@ -106,7 +106,7 @@ To register for Humm financing, please fill out the form at the link below:
 
    ![](media/garagehive-humm-finalise-payment6.png)
 
-7. The invoice has two lines, one for the total amount of the recently posted Jobsheet and the other for the **Audit and Accountancy Fees** charged by Humm. The invoice total will be the total amount on the Jobsheet minus the **Audit and Accountancy fees**.
+7. The invoice has two lines, one for the total amount of the recently posted Jobsheet and the other for the **Audit and Accountancy Fees** charged by Humm or any other commision account that is added in setup. The invoice total will be the total amount on the Jobsheet minus the **Audit and Accountancy fees**.
 
    ![](media/garagehive-humm-finalise-payment7.png)
 

@@ -32,14 +32,30 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
 
    ![](media/garagehive-sage-accounting-setup2.png)
 
-1. Select the **Integration Enabled** slider to enable the integration.
+1. The Garage Hive support team should send you the **Sage Client Id** and **Sage Client Secret**. Enter them in their respective fields under the **Sage Accounting** FastTab.
 
    ![](media/garagehive-sage-accounting-setup3.png)
+
+1. To authorise data sharing with **Sage Accounting** software, select **Actions** from the menu bar, then **Sage Accounting**, and then **Authorise**. 
+
+   ![](media/garagehive-sage-accounting-setup4.png)
+
+1. This opens **Sage Accounting** software, where you must log in to successfully authorise sending data directly to Sage Accounting software.
+
+   ![](media/garagehive-sage-accounting-setup5.png)
+
+1. After logging in, you will see a notification that says *Link to Sage established successfully* and you can close the window.
+
+   ![](media/garagehive-sage-accounting-setup6.png)
+
+1. Return to Garage Hive and enable the integration by selecting the **Integration Enabled** slider.
+
+   ![](media/garagehive-sage-accounting-setup7.png)
 
 ### How to run the export 
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
-    ![](media/garagehive-sage-accounting-setup4.png)
+    ![](media/garagehive-sage-accounting-setup8.png)
 
 2. Select the following options:
    * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
@@ -52,7 +68,9 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
    * **Export All Customers** - This will generate an export of all customers in the system.
    * **Export All Vendors** - This will generate an export of all vendors in the system.
 
-     ![](media/garagehive-sage-accounting-setup5.png)
+4. Click **OK**, to start exporting the data.
+
+   ![](media/garagehive-sage-accounting-setup9.png)
 
 
 <br>
