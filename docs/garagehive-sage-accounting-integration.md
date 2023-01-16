@@ -32,10 +32,6 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
 
    ![](media/garagehive-sage-accounting-setup2.png)
 
-1. The Garage Hive support team should send you the **Sage Client Id** and **Sage Client Secret**. Enter them in their respective fields under the **Sage Accounting** FastTab.
-
-   ![](media/garagehive-sage-accounting-setup3.png)
-
 1. To authorise data sharing with **Sage Accounting** software, select **Actions** from the menu bar, then **Sage Accounting**, and then **Authorise**. 
 
    ![](media/garagehive-sage-accounting-setup4.png)
@@ -65,8 +61,8 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
    * **Date From** and **Date To** - Choose your date range.
 
 3. Under Catalogs:
-   * **Export All Customers** - This will generate an export of all customers in the system.
-   * **Export All Vendors** - This will generate an export of all vendors in the system.
+   * **Export All Customers** - This will generate an export of all customers in the system (It is not recommended to select this).
+   * **Export All Vendors** - This will generate an export of all vendors in the system (It is not recommended to select this).
 
 4. Click **OK**, to start exporting the data.
 
