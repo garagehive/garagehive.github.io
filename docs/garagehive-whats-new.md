@@ -17,8 +17,11 @@ Below is a list of Garage Hive developments:
 
    ![](media/garagehive-standalone-page-url.png)
 
-* For accounting, we created the **Sage Accounting API** integration.
+* For accounting, we created the **Sage Accounting API** integration, [read more](https://docs.garagehive.co.uk/docs/garagehive-sage-accounting-integration.html){:target="_blank"}.
 * Added **Humm Integration**, which is a service that allows the customer to buy now and pay later, [read more](https://docs.garagehive.co.uk/docs/garagehive-humm-financing.html){:target="_blank"}.
+* Added the ability to directly access the vehicle's **TPMS/Wheel Nut Torque**, [read more](https://docs.garagehive.co.uk/docs/garagehive-autodata-tpms.html), and **Service Indicator** reset data, [read more](https://docs.garagehive.co.uk/docs/garagehive-autodata-service-indicators.html), from a service document.
+
+   ![](media/garagehive-tpms-and-service-indicators.png)
 
 ### 16th November 2022
 * All service documents now include the ability to add pre-defined comments, [read more](https://docs.garagehive.co.uk/docs/garagehive-comments-extended.html#adding-predefined-jobsheet-comments){:target="_blank"}.
