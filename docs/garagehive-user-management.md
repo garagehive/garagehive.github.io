@@ -113,19 +113,19 @@ To manage **Data Permissions** for a user:
    * **Change Accountancy Setup** - This should never be enabled unless in consultation with the Garage Hive support team.
    * **Change Customer Credit Limit** - When this is enabled, the user can change the **Credit Limit** field in the Customer Card, which is located under the **General** FastTab.
          
-      [](media/garagehive-user-management16.png)
+      ![](media/garagehive-user-management16.png)
 
    * **Change Customer Blocked** - When this is enabled, the user can block or unblock the Customer Card in the **General** FastTab of the Customer Card.
       
-      [](media/garagehive-user-management17.png)
+      ![](media/garagehive-user-management17.png)
 
    * **Change Customer Payment Terms** - When this is enabled, the user can add or remove the **Customer Payment Terms** from the Customer Card under the **Payments** FastTab or from the Jobsheet under the **Invoicing** FastTab.
 
-      [](media/garagehive-user-management18.png)
+      ![](media/garagehive-user-management18.png)
       
       or 
 
-      [](media/garagehive-user-management19.png)
+      ![](media/garagehive-user-management19.png)
 
 
 
