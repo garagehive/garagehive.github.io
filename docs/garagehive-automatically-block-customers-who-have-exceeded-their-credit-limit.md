@@ -17,4 +17,4 @@ Automatically blocking customers who have exceeded their credit limit ensures th
 
    ![](media/garagehive-automatic-blocking-customers3.png)
 
-
+4. In **User Management** page, you can control which users can change credit limits and unblock customers. For more information, click [here](garagehive-user-management.html#enabling-data-permissions-for-a-user).
