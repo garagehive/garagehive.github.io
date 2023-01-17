@@ -61,7 +61,7 @@
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
-    - name: Managing user's
+    - name: Managing Users (System Administrator)
       url: /docs/garagehive-user-management.html
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
