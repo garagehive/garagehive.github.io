@@ -4,7 +4,7 @@ title: User Management
 ---
 
 #   How to Manage System Users Within Garage Hive 
-In Garage Hive system, you can add and remove users in the system. The user marked as system admin is the **only** user who can manage the users.
+In Garage Hive system, you can manage licenced users in the system from the **User Management** page. The user marked as **System Administrator** is the **only** user who can manage the users.
 
 ## In this article
 1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
@@ -12,6 +12,7 @@ In Garage Hive system, you can add and remove users in the system. The user mark
 3. [Creating a Technician user](#creating-a-technician-user)
 4. [Enabling and disabling a user](#enabling-and-disabling-the-user)
 5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
+6. [Enabling Data Permissions for a User](#enabling-data-permissions-for-a-user)
 
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
@@ -97,6 +98,35 @@ To reset a garage hive user's password:
 > The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.
 
 {% include tip.html title="Note" text="All users created in the system need a licence; talk to our support team to activate your licences." %}
+
+### Enabling Data Permissions for a User
+To manage **Data Permissions** for a user:
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **User Management**, and choose the related link.
+
+   ![](media/garagehive-user-management14.png)
+
+2. Select the user for which you want to enable data Permissions and scroll down to the **Data Permissions** FastTab in the user card.
+
+   ![](media/garagehive-user-management15.png)
+
+3. You can enable the following **Data Permissions** for a user:
+   * **Change Accountancy Setup** - This should never be enabled unless in consultation with the Garage Hive support team.
+   * **Change Customer Credit Limit** - When this is enabled, the user can change the **Credit Limit** field in the Customer Card, which is located under the **General** FastTab.
+         
+      [](media/garagehive-user-management16.png)
+
+   * **Change Customer Blocked** - When this is enabled, the user can block or unblock the Customer Card in the **General** FastTab of the Customer Card.
+      
+      [](media/garagehive-user-management17.png)
+
+   * **Change Customer Payment Terms** - When this is enabled, the user can add or remove the **Customer Payment Terms** from the Customer Card under the **Payments** FastTab or from the Jobsheet under the **Invoicing** FastTab.
+
+      [](media/garagehive-user-management18.png)
+      
+      or 
+
+      [](media/garagehive-user-management19.png)
+
 
 
 ### **See Also**
