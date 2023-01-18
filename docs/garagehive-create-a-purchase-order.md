@@ -7,6 +7,8 @@ title: How to Create Purchase Orders in Garage Hive
 There are two ways to create a **Purchase Order** in Garage Hive:
 1. [Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
 2. [From the home screen](#creating-a-purchase-order-from-the-home-screen)
+3. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
+4. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
@@ -71,6 +73,43 @@ This option is typically used only after the invoice has been received from the 
 9. You can now post the Purchase Order by choosing **Posting** and then **Post** from the menu bar.
 
    ![](media/garagehive-creating-a-purchase-order9.gif)
+
+### Receive Items Without an Invoice
+When the items are received in the garage, without an invoice it is possible to first receive them in the system and then when you get an invoice you post them using the invoice. To receive the items first:
+1. Open the purchase order with the items to be received. 
+2. Under the **Lines** FastTab, in the **Qty. to Receive** column, delete the quantity for the items yet to be received and leave only the quantity for the items to receive.
+
+   ![](media/garagehive-posting-a-purchase-order1.png)
+
+3. In the menu bar, select **Posting** and then **Post**.
+
+   ![](media/garagehive-posting-a-purchase-order2.png)
+
+4. Select **Receive** from the pop-up notification and click **OK**.
+
+   ![](media/garagehive-posting-a-purchase-order3.png)
+
+5. The items that have been received will be added to the **Quantity Received** Column.
+
+   ![](media/garagehive-posting-a-purchase-order4.png)
+
+6. After receiving the invoice, select **Receive and Invoice** for all items or **Invoice** for items already received and click **OK**.
+
+   ![](media/garagehive-posting-a-purchase-order5.png)
+   
+### Undo Receipt on Received Items
+1. When you receive items from a Purchase Order but need to reverse the receipt. Open the Purchase Order with the items you've just received.
+2. In the menu bar, select **Navigate** and then **Receipts**.
+
+   ![](media/garagehive-posting-a-purchase-order6.png)
+
+3. To open the receipt, click on the receipt's **No.**.
+
+   ![](media/garagehive-posting-a-purchase-order7.png)
+
+4. Then, in the **Receipt**, scroll down to the **Lines** FastTab, select **Functions**, and then **Undo Receipt**.
+
+   ![](media/garagehive-posting-a-purchase-order8.png)
 
 
 <br>
