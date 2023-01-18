@@ -54,23 +54,24 @@ Online booking is used in the system to create Jobsheets. Choose the ![](media/s
 
 
 ### Setting Up Online Enquiries
-1. Online enquiries is used in the system to create Estimates. Select the **Create Estimate** slider in the **General** FastTab to make the Service Package as an estimate.
+1. Online enquiries are used in the system to create Estimates. To begin, open the **Service Package** card.
+2. Select the **Create Estimate** slider in the **General** FastTab to make the Service Package as an estimate.
 
    ![](media/garagehive-onlinebooking-service-packages4.png)
 
-2. Select the **OB Customer Instructions** FastTab under the **Online Booking** FastTab and enter the instruction to prompt the customer on what they require on their Estimate, for example, *'When was it done last time?'* This assists in providing an estimate to the customer.
+3. Select the **OB Customer Instructions** FastTab under the **Online Booking** FastTab and enter the instruction to prompt the customer on what they require on their Estimate, for example, *'When was it done last time?'* This assists in providing an estimate to the customer.
 
    ![](media/garagehive-onlinebooking-service-packages8.gif)
 
-3. You should then add lines under the **Versions** FastTab, but without pricing because it is an estimate. This will prevent prices from being displayed online. Select **Manage**, followed by **Version Lines**.
+4. You should then add lines under the **Versions** FastTab, but without pricing because it is an estimate. This will prevent prices from being displayed online. Select **Manage**, followed by **Version Lines**.
 
    ![](media/garagehive-onlinebooking-service-packages9.gif)
 
-4. When a service package is published as an Estimate, it is marked with the **Estimate** tag, as shown below.
+5. When a service package is published as an Estimate, it is marked with the **Estimate** tag, as shown below.
 
    ![](media/garagehive-onlinebooking-service-packages5.png)
 
-5. If the customer selects both online booking and enquiry, the next page will have two tabs to confirm their options, as shown below.
+6. If the customer selects both online booking and enquiry, the next page will have two tabs to confirm their options, as shown below.
 
    ![](media/garagehive-onlinebooking-service-packages6.png)
 
