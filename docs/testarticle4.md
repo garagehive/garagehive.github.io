@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to Merge Duplicate Records
+title: Work in Progress* - How to Merge Duplicate Records
 ---
 
 # We are still working on this article!
