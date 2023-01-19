@@ -14,7 +14,7 @@ We are currently reviewing this article before it is published; please check bac
 2. [Adding Pay360 to Garage Hive](#adding-pay360-to-garage-hive)
 
 ### Creating an Account with Pay360
-1. To register with Pay360, please fill out the form at the link below:
+1. To register with Pay360, please fill out the form below:
 
    > ## Pay360 registration form:
 
