@@ -6,9 +6,11 @@ title: How to Use Humm Financing
 **Humm** is a debt-factoring service integrated with Garage Hive that allows customers to have work done on their vehicles or purchase a vehicle using Humm financing. Customers can then transfer their bills to Humm and have their needs fulfilled.
 
 ### Humm Financing Registration
-To register for Humm financing, please fill out the form at the link below:
+To register for Humm financing, please fill out the form at below:
 
-   > ## Humm financing registration form: <ins>[click here.](https://forms.office.com/e/gWgRznDDZh){:target="_blank"}</ins>
+   > ## Humm financing registration form: 
+   
+   <iframe width="852px" height="1000px" src="https://forms.office.com/e/gWgRznDDZh?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## In this article
 1. [Requesting for Humm Financing](#requesting-for-humm-financing)

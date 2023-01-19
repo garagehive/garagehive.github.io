@@ -14,11 +14,11 @@ We are currently reviewing this article before it is published; please check bac
 2. [Adding Pay360 to Garage Hive](#adding-pay360-to-garage-hive)
 
 ### Creating an Account with Pay360
-1. To register with Pay360, please fill out the form at the link below:
+1. To register with Pay360, please fill out the form below:
 
    > ## Pay360 registration form:
 
-   <iframe width="852px" height="900px" src="https://forms.office.com/e/Fms4ah6f1w?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+   <iframe width="852px" height="1000px" src="https://forms.office.com/e/Fms4ah6f1w?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 2. After registering by filling out the form above, you will receive an email from **Pay360** inviting you to begin creating your account. In the email, click **Activate**.
 
