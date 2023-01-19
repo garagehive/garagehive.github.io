@@ -79,7 +79,7 @@
       url: /docs/garagehive-checklist-text-templates.html
     - name: Importing/Exporting Checklists
       url: /docs/garagehive-checklist-import-export.html  
-    - name: Setting up the TCard System
+    - name: Setting Up the TCard System
       url: /docs/garagehive-t-card-planner.html
     - name: Creating Service Packages
       url: /docs/garagehive-service-packages.html
@@ -87,16 +87,16 @@
       url: /docs/garagehive-automatically-adding-service-packages.html
     - name: Creating Service Package Conditions
       url: /docs/service-package-conditions.html
-    - name: Setting up Primary Makes and Models
+    - name: Setting Up Primary Makes and Models
       url: /docs/garagehive-setting-up-primary-makes-and-models.html
     - name: Setting Up the Customer Notifications
       url: "#"
       subitems:
-        - name: Setting up Vehicle Date Reminder Notifications
+        - name: Setting Up Vehicle Date Reminder Notifications
           url: /docs/garagehive-vehicle-date-reminders.html
-        - name: Setting up Booking Reminder Notifications
+        - name: Setting Up Booking Reminder Notifications
           url: /docs/garagehive-booking-reminders.html
-        - name: Setting up Booking Confirmation Notifications
+        - name: Setting Up Booking Confirmation Notifications
           url: /docs/garagehive-booking-confirmation.html
     - name: Setting Your Average Labour Rate
       url: /docs/garagehive-labour-rate.html
@@ -404,10 +404,12 @@
       url: /docs/garagehive-import-exported-data-to-sage-50-accounts.html
     - name: How to Import Your Exported Data Into Sage Accounting
       url: /docs/garagehive-import-exported-data-to-sage-accounting.html
-    - name: Setting up Payment by GLink
+    - name: Setting Up Payment by GLink
       url: /docs/garagehive-setting-up-payment-by-glink.html
-    - name: Setting up Payment by Card Terminal
+    - name: Setting Up Payment by Card Terminal
       url: /docs/garagehive-setting-up-payment-by-card-terminal.html
+    - name: Setting Up Payment by Pay360
+      url: /docs/garagehive-setting-up-payment-by-pay360.html
     - name: Generating Paymentsense Card Machine Reports
       url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
     - name: How to Set Card Terminal Into Integration Mode
