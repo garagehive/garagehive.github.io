@@ -36,7 +36,7 @@ We are currently reviewing this article before it is published; please check bac
 
    ![](media/garagehive-creating-pay360-account5.png)
 
-1. In the next page you need to add details of **Business Ownership**, which must als match the details found in the **Companies House** search. Click on **Add person**.
+1. In the next page you need to add details of **Business Ownership**, which must also match the details found in the **Companies House** search. Click on **Add person**.
 
    ![](media/garagehive-creating-pay360-account6.png)
 
@@ -60,9 +60,9 @@ We are currently reviewing this article before it is published; please check bac
 
 1.  Add the **types** of contacts to the **Contacts** page, one for **Billing** queries and one for **Support** queries. You can choose from the previously added contacts under **Business Ownership** or add a new contact.
 
-  ![](media/garagehive-creating-pay360-account12.png)
+   ![](media/garagehive-creating-pay360-account12.png)
 
-  ![](media/garagehive-creating-pay360-account13.png)
+   ![](media/garagehive-creating-pay360-account13.png)
 
 1. On the **Bank Account** page, enter the details of your **Bank Account**, select **Bank Account Signatories**, and then click **I am authorised to set up a Direct Debit** and fill out the required fields.
 
