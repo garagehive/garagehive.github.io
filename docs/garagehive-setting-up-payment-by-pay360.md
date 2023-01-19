@@ -1,10 +1,7 @@
 ---
 layout: docs
-title: DRAFT* - Setting Up Payment by Pay360
+title: Setting Up Payment by Pay360
 ---
-
-# We are still working on this article!
-We are currently reviewing this article before it is published; please check back later.
 
 # Setting Up Payment by Pay360
 **Pay360** is an online payment service that has been integrated with Garage Hive to assist Garages that use this service in connecting their accounts to Garage Hive for a more efficient and faster payment process.
