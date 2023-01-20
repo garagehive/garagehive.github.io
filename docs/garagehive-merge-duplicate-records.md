@@ -3,7 +3,7 @@ layout: docs
 title: DRAFT* - How to Merge Duplicate Records
 ---
 
-# We are still working on this article!
+## We are still working on this article!
 We are currently reviewing this article before it is published; please check back later.
 
 # How to Merge Duplicate Records

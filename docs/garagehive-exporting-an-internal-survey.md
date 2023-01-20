@@ -9,7 +9,7 @@ Exporting an internal survey is a feature available in surveys to help you in sh
 
 ### To export an internal survey:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Surveys**, and choose the related link.
-2. Select the survey to export, then click **Actions** and then **Export** from the menu bar. Click **Yes** to export. You can also select more surveys from the list to export them all at once.
+2. Select the survey to export, then click **Actions** (if not visible click on **More Options**) and then **Export** from the menu bar. Click **Yes** to export. You can also select more surveys from the list to export them all at once.
 
    ![](media/garagehive-internal-surveys0003.gif)
 
