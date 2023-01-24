@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: How to Create Service Package in Garage Hive
+title: How to Create Service Packages in Garage Hive
 ---
 
-# How to Create Service Package in Garage Hive
+# How to Create Service Packages in Garage Hive
 Service packages are a powerful tool for helping you build jobs faster, simplify job pricing, and add consistency.
 
 To create or edit a service package: 

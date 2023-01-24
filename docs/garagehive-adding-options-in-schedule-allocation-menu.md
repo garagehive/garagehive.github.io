@@ -37,6 +37,6 @@ To add a new option:
 
 [Understanding the Schedule](garagehive-understanding-the-schedule.html){:target="_blank"}
 [Creating a booking from the Schedule](garagehive-create-a-booking.html){:target="_blank"}
-[How to Create Service Package in Garage Hive](garagehive-service-packages.html){:target="_blank"}
+[How to Create Service Packages in Garage Hive](garagehive-service-packages.html){:target="_blank"}
 [Adding Service Packages Automatically](garagehive-automatically-adding-service-packages.html){:target="_blank"}
 [Automatically Adding Courtesy Car and Collection and Delivery Service Packages](garagehive-service-package-automatically-adding-courtesy-car-and-collection-and-delivery-service-packages.html){:target="_blank"}

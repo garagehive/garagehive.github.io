@@ -1,37 +1,46 @@
 ---
 layout: docs
-title: Frequently Asked Questions
+title: System Functionality FAQs
 ---
 
-## Frequently Asked Questions
+## System Functionality FAQs
+This article answers some common questions that you might have about the functionality of the system.
 
-1. [How easy is it to make a booking](#how-easy-is-it-to-make-a-booking)
-2. [Where can I find a Jobsheet which has been invoiced](#where-can-i-find-a-jobsheet-which-has-been-invoiced)
-3. [How can I see if a technician has completed a Vehicle Inspection](#how-can-i-see-if-a-technician-has-completed-a-vehicle-inspection)
-4. [How can I add authorised work from a Vehicle Inspection Estimate](#how-can-i-add-authorised-work-from-a-vehicle-inspection-estimate)
-5. [How can I see how much a customer owes](#how-can-i-see-how-much-a-customer-owes)
+<a name="top"></a>
 
-#### How easy is it to make a booking
+1. [How easy is it to make a booking&#63;](#how-easy-is-it-to-make-a-booking)
+2. [Where can I find a Jobsheet which has been invoiced&#63;](#where-can-i-find-a-jobsheet-which-has-been-invoiced)
+3. [How can I see if a technician has completed a Vehicle Inspection&#63;](#how-can-i-see-if-a-technician-has-completed-a-vehicle-inspection)
+4. [How can I add authorised work from a Vehicle Inspection Estimate&#63;](#how-can-i-add-authorised-work-from-a-vehicle-inspection-estimate)
+5. [How can I see how much a customer owes&#63;](#how-can-i-see-how-much-a-customer-owes)
+6. [How can I create a service package&#63;](#how-can-i-create-a-service-package)
+7. [Does the system send out reminders&#63;](#does-the-system-send-out-reminders)
+8. [How can I change a payment method if a Jobsheet has been posted&#63;](#how-can-i-change-a-payment-method-if-a-jobsheet-has-been-posted)
+9. [Can I set specific discounts for different customers&#63;](#can-i-set-specific-discounts-for-different-customers)
+10. [Can I set up specific markups or margins on parts&#63;](#can-i-set-up-specific-markups-or-margins-on-parts)
+11. [Can I split a Jobsheet&#63;](#can-i-split-a-jobsheet)
+
+#### How easy is it to make a booking?
 
 Making a booking with Garage Hive is extremely quick and simple. 
 
-Please see video below. 
+See the article link below for more information. 
 
-{% include youtube.html id="4bic2AH6Lrw&t" %}
+> [Creating a booking from the Schedule](/docs/garagehive-create-a-booking.html "Creating a booking from the Schedule")
 
-#### Where can I find a Jobsheet which has been invoiced
+#### Where can I find a Jobsheet which has been invoiced?
 
 A posted jobsheet can be found by going to the Home Screen and then selecting **Posted & Archived Documents**, followed by **Posted Jobsheets**. 
 
    ![](media/garagehive-faqs1.png)
 
-#### How can I see if a technician has completed a Vehicle Inspection
+#### How can I see if a technician has completed a Vehicle Inspection?
 
 Once a technician has completed a Vehicle Inspection, it will appear in your tiles on the Home Screen as **VI Awaiting Confirmation**.
 
    ![](media/garagehive-faqs2.png)
 
-#### How can I add authorised work from a Vehicle Inspection Estimate
+#### How can I add authorised work from a Vehicle Inspection Estimate?
 
 Once you've created the quote within the **Vehicle Inspection Estimates** and the customer has approved the extra work, check the **Customer Authorised** box next to all authorised lines. 
 
@@ -39,95 +48,75 @@ Once you've created the quote within the **Vehicle Inspection Estimates** and th
 
 Then, in the menu bar, choose **Process**, followed by **Copy Authorized Lines** to Jobsheet.
 
-   ![](media/garagehive-faqs3.png)
+   ![](media/garagehive-faqs3a.png)
 
 This will then prompt you to select which job you want the lines added to; once selected and confirmed, the authorised work will be added to the job.
 
-As a guide, watch the video below.
+See the article link below for more information.
 
-{% include youtube.html id="qyT5Y_GEpfM" %}
+> [Adding customer authorisation and copy the authorised lines to Jobsheet](/docs/garagehive-VHC.html#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet "Adding customer authorisation and copy the authorised lines to Jobsheet")
 
-#### How can I see how much a customer owes
+#### How can I see how much a customer owes?
 
 Select the customer from the customer's list by selecting **Customers** from the Home Screen followed, by the customer name. 
 
-Once you find the relevant customer, you will be able to see the customer's Balance, together with any costs against them. You can also click on the figure it will open the Customer Ledger Entries, which will show the specifics of this amount 
+Once you find the relevant customer, you will be able to see the customer's **Balance**, together with any costs against them. You can also click on the figure it will open the Customer Ledger Entries, which will show the specifics of this amount.
 
-![](media/garagehive-faqs4.png)
+   ![](media/garagehive-faqs4.png)
 
+#### How can I create a service package?
 
->   How can I create a service package? 
+Select **Catalogues**, then **Service Packages** from the home screen. This will give you the option of editing an existing Service Package or creating a new one. 
 
-From within the home screen you need to select catalogues, followed by Service Packages. 
+See the article link below for more information. 
 
-This will give you the option to edit and existing Service Package or Create a New one. 
+> [How to Create Service Packages in Garage Hive](/docs/garagehive-service-packages.html "How to Create Service Packages in Garage Hive")
 
-See video below for guide how to create a Service Package. 
+#### Does the system send out reminders?
 
-{% include youtube.html id="khvVzhzTpSU" %}
+Yes, Garage Hive can send out automated **MOT**, **Service**, and **Booking Reminders**.
 
->   When trying to post a Jobsheet I occasionally get a message which says "*Resource information is missing in Jobsheet Line No. ............. Labour ................*" What does this mean?
+See the article link below for more information. 
 
-This is because there is no resource (technician) attached to a Labour Line. 
+> [Types of Customer Notifications in Garage Hive](/docs/garagehive-customer-notifications.html "Types of Customer Notifications in Garage Hive")
 
-Technician's should get into the habit of selecting which Labour lines they have completed. This will automatically fill in the Resource Section within the jobsheet lines. 
+#### How can I change a payment method if a Jobsheet has been posted?
 
-If they have not done this you can either manually type the technicians user name in the resource column, alternatively select Add Resources to Lines within the Action Bar on the jobsheet. 
+If you posted a Jobsheet with the incorrect payment method, you must use the **Correct** document option. See the article link below for more information.
 
->   Does the system send out reminders?
+> [Correcting Incorrect Payment Method](/docs/garagehive-jobsheet-cancel-and-correct.html#correcting-a-jobsheet "Correcting Incorrect Payment Method")
 
-Yes, Garage Hive can send out automated MOT, Service and Booking Reminders out. 
+#### Can I set specific discounts for different customers?
 
-See video below how to set up customer notifications. 
+Yes, you can set specific Labour and Parts discounts for all customers or groups of customers. 
 
-{% include youtube.html id="Bds8JQgDQN4" %}
+See the article link below for more information. 
 
->   How can I change a payment method if a Jobsheet has been posted?
+> [Setting specific price, markup, or discounts](/docs/garagehive-extending-price-markup-and-discount-calculations.html "Setting specific price, markup, or discounts")
 
-If you have posted a jobsheet with the incorrect payment method, you will need to cancel the document and use the copy document option. See below step by step guide. Alternatively see article link for guide. 
+#### Can I set up specific markups or margins on parts?
 
-1. Find incorrect jobsheet and take a note of the number. 
-2.  Select Posted Documents in the Home Screen. 
-3.  Search for posted jobsheet and open. 
-4.  Select Cancel Document at the top of the page. 
-5.  Go back to the home screen. 
-6.  Select Jobsheets. 
-7.  Select Service Type within the jobsheet. 
-8.  Select Actions tab on the top of the page. 
-9.  Choose Copy Document. 
-10.  In Document Type selected Posted Order. 
-11. In Document No. input the original jobsheet number. 
-12. Place a tick in the "Include Header" box. 
-13. Select OK. 
-14. Select Home tab on the top of the page.
-15. You can now go into Take Payment and correct the payment method. 
-
-[Correcting Incorrect Payment Method](/docs/garagehive-jobsheet-cancel-and-correct.html "Correcting Incorrect Payment Method")
-
->   Can I set specific discounts for different customers? 
-
-Yes you can set specific Labour and Parts discounts for all customers or for groups of customers. 
-
-See video below on how to set this up. 
-
-{% include youtube.html id="fvisei-6QOg" %}
-
->   Can I set up specific markups/margins on parts? 
-
-You can set up markups and/or margins for either a specific part or for an Item Category. 
+Yes, you can setup markups and/or margins for a specific part or an Item Category. 
 
 See video below for a guide on how to set this up. 
 
-{% include youtube.html id="N12UeKXCVlM" %}
+> [Creating an Item Card](/docs/garagehive-create-an-item-card.html "Creating an Item Card")
 
->   Can I split a Jobsheet? 
+#### Can I split a Jobsheet? 
 
-Yes a jobsheet can be split. See below step by step guide. 
+Yes, a Jobsheet can be split. See the step-by-step instructions below.
 
-1.  From within the jobsheet, select Process 
-2.  Within Process press Split Document. (This will load a new Service Splitting page). 
-3.  At this point you will see Service Splitting Lines. Untick the lines which you want putting on a separate jobsheet/invoice.
-4.  Once you have unticked these select Actions within the menu bar and then press Split. 
-5.  You will then see a pop up message which will advise you of the new jobsheet number for the lines which you have unticked. 
+1. From the Jobsheet, select **Process**, and then **Split Document**. This will take you to the Service Splitting page.
 
-You will now have 2 jobsheets open for this customer/vehicle.
+   ![](media/garagehive-faqs5.png)
+
+2. Scroll down to the **Service Splitting Lines** FastTab and uncheck the lines in the **Include** column that you want to put on a separate Jobsheet.
+3. After unchecking these, go to the menu bar and select **Split**.
+
+   ![](media/garagehive-faqs6.png)
+
+4. You will then see a pop-up message informing you of the new Jobsheet number for the lines you have unchecked.
+5. You will now have two Jobsheets open for this customer/vehicle.
+
+
+[Go back to top](#top)
