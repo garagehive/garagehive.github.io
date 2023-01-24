@@ -26,7 +26,9 @@ Making a booking with Garage Hive is extremely quick and simple.
 
 See the article link below for more information. 
 
-> [Creating a booking from the Schedule](/docs/garagehive-create-a-booking.html "Creating a booking from the Schedule")
+> [Creating a booking from the Schedule.](/docs/garagehive-create-a-booking.html "Creating a booking from the Schedule")
+
+[Go back to top](#top)
 
 #### Where can I find a Jobsheet which has been invoiced?
 
@@ -34,11 +36,15 @@ A posted jobsheet can be found by going to the Home Screen and then selecting **
 
    ![](media/garagehive-faqs1.png)
 
+[Go back to top](#top)
+
 #### How can I see if a technician has completed a Vehicle Inspection?
 
 Once a technician has completed a Vehicle Inspection, it will appear in your tiles on the Home Screen as **VI Awaiting Confirmation**.
 
    ![](media/garagehive-faqs2.png)
+
+[Go back to top](#top)
 
 #### How can I add authorised work from a Vehicle Inspection Estimate?
 
@@ -54,7 +60,9 @@ This will then prompt you to select which job you want the lines added to; once 
 
 See the article link below for more information.
 
-> [Adding customer authorisation and copy the authorised lines to Jobsheet](/docs/garagehive-VHC.html#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet "Adding customer authorisation and copy the authorised lines to Jobsheet")
+> [Adding customer authorisation and copy the authorised lines to Jobsheet.](/docs/garagehive-VHC.html#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet "Adding customer authorisation and copy the authorised lines to Jobsheet")
+
+[Go back to top](#top)
 
 #### How can I see how much a customer owes?
 
@@ -64,13 +72,17 @@ Once you find the relevant customer, you will be able to see the customer's **Ba
 
    ![](media/garagehive-faqs4.png)
 
+[Go back to top](#top)
+
 #### How can I create a service package?
 
 Select **Catalogues**, then **Service Packages** from the home screen. This will give you the option of editing an existing Service Package or creating a new one. 
 
 See the article link below for more information. 
 
-> [How to Create Service Packages in Garage Hive](/docs/garagehive-service-packages.html "How to Create Service Packages in Garage Hive")
+> [How to Create Service Packages in Garage Hive.](/docs/garagehive-service-packages.html "How to Create Service Packages in Garage Hive")
+
+[Go back to top](#top)
 
 #### Does the system send out reminders?
 
@@ -78,13 +90,17 @@ Yes, Garage Hive can send out automated **MOT**, **Service**, and **Booking Remi
 
 See the article link below for more information. 
 
-> [Types of Customer Notifications in Garage Hive](/docs/garagehive-customer-notifications.html "Types of Customer Notifications in Garage Hive")
+> [Types of Customer Notifications in Garage Hive.](/docs/garagehive-customer-notifications.html "Types of Customer Notifications in Garage Hive")
+
+[Go back to top](#top)
 
 #### How can I change a payment method if a Jobsheet has been posted?
 
 If you posted a Jobsheet with the incorrect payment method, you must use the **Correct** document option. See the article link below for more information.
 
-> [Correcting Incorrect Payment Method](/docs/garagehive-jobsheet-cancel-and-correct.html#correcting-a-jobsheet "Correcting Incorrect Payment Method")
+> [Correcting Incorrect Payment Method.](/docs/garagehive-jobsheet-cancel-and-correct.html#correcting-a-jobsheet "Correcting Incorrect Payment Method")
+
+[Go back to top](#top)
 
 #### Can I set specific discounts for different customers?
 
@@ -92,7 +108,9 @@ Yes, you can set specific Labour and Parts discounts for all customers or groups
 
 See the article link below for more information. 
 
-> [Setting specific price, markup, or discounts](/docs/garagehive-extending-price-markup-and-discount-calculations.html "Setting specific price, markup, or discounts")
+> [Setting specific price, markup, or discounts.](/docs/garagehive-extending-price-markup-and-discount-calculations.html "Setting specific price, markup, or discounts")
+
+[Go back to top](#top)
 
 #### Can I set up specific markups or margins on parts?
 
@@ -100,7 +118,9 @@ Yes, you can setup markups and/or margins for a specific part or an Item Categor
 
 See video below for a guide on how to set this up. 
 
-> [Creating an Item Card](/docs/garagehive-create-an-item-card.html "Creating an Item Card")
+> [Creating an Item Card.](/docs/garagehive-create-an-item-card.html "Creating an Item Card")
+
+[Go back to top](#top)
 
 #### Can I split a Jobsheet? 
 
