@@ -73,7 +73,7 @@ Yes Garage Hive is cloud based so it can be access anywhere with an internet con
 
 [Go back to top](#top)
 
-#### Can all our customer history be imported into Garage Hive from our GA4 invoicing system?
+#### Can all our customer history be imported into Garage Hive from our current system?
 Yes, we can import any data that’s provided to us in Excel format.
 
 
