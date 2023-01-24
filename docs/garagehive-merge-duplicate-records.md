@@ -1,16 +1,7 @@
 ---
 layout: docs
-title: DRAFT* - How to Merge Duplicate Records
+title: How to Merge Duplicate Records
 ---
-
-## We are still working on this article!
-We are currently reviewing this article before it is published; please check back later.
-
-# How to Merge Duplicate Records
-
-## In this article
-1. [How to Merge Duplicate Records](#how-to-merge-duplicate-records)
-2. [How to Merge Duplicate Records with Conflicts](#how-to-merge-duplicate-records-with-conflicts)
 
 ### How to Merge Duplicate Records
 As different users create new customer, vendor, or contact cards over time, or as new records are created automatically during migration, a customer, vendor, or contact cards may be represented in the system by more than one record. In this case, you can use the **Merge Duplicate** page from the card of the record that you want to keep.
@@ -35,14 +26,4 @@ The following procedure is based on a customer card. The steps are similar for a
 9.  When you have finished selecting which values to keep or override, choose the **Merge** action from the menu bar. Select **Yes** in the pop-up notification message. This step cannot be undone.
 
    ![](media/garagehive-customer-merge-record4.gif)
-
-### How to Merge Duplicate Records with Conflicts
-1. If conflicts exist, choose the **Resolve (xx) conflicts before merge** action on the **Conflicts** FastTab, which will appear if conflicts exist.
-2. On the **Merge Duplicate Conflicts** page, select the line for a related table with a conflict, and then choose the **View Details** action.
-3. If you do not want to keep the duplicate customer record, choose the **Remove Duplicate** action, and then choose the **Close** button. Identical field values, other than the value in the **No.** field, are removed from the duplicate record and inserted on the current record.
-4. If you want to keep the duplicate customer record after the merge, choose the **Rename Duplicate** action.
-5. On lines, not for the **No.** field, where the field has the same value on both records, change the value in the **Alternate Value** column, and then choose the **Close** button.
-6. Repeat steps **1 through 4** until all conflicts are resolved. The **Conflicts** FastTab disappears.
-7. On the **Merge Duplicate** page, choose the **Merge** action again, and then select **Yes** in the pop-up notification message.
-
 
