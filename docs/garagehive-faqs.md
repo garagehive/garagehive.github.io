@@ -6,7 +6,7 @@ title: System Functionality FAQs
 <a name="top"></a>
 
 ## System Functionality FAQs
-This article answers some common questions that you might have about the functionality of the system.
+This article answers some common questions that you might have about the functionality of the Garage Hive software.
 
 1. [How easy is it to make a booking&#63;](#how-easy-is-it-to-make-a-booking)
 2. [Where can I find a Jobsheet which has been invoiced&#63;](#where-can-i-find-a-jobsheet-which-has-been-invoiced)

@@ -28,12 +28,18 @@
       url: /docs/garagehive-training.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
+    - name: Exports from your old GMS 
+      url: /docs/export-data.html
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
     - name: Go Live Setup
       url: /docs/golive-cust-not-set.html
     - name: Garage Hive’s Recommended Customer Workflow
       url: /docs/garagehive-recommended-customer-workflow.html
+    - name: Common Keyboard Shortcuts in Garage Hive
+      url: /docs/garagehive-keyboard-shortcuts.html
+    - name: Tips and Tricks When Working With Garage Hive
+      url: docs/garagehive-tips-and-tricks.html
 - name: What's New
   url: "#"
   subitems:
@@ -528,18 +534,12 @@
       url: /docs/garagehive-humm-financing.html
 - name: Garage Industry Trends
   url: /docs/garagehive-garage-industry-trends.html
-- name: FAQs
+- name: Frequently Asked Questions (FAQs)
   url: "#"
   subitems:
-    - name: Common Error Messages
+    - name: Common Error Messages FAQs
       url: /docs/garagehive-common-errors.html
-    - name: Videos of Common Tasks
-      url: /docs/garagehive-video-of-common-tasks.html
-    - name: Frequently Asked Questions
+    - name: System Functionality FAQs
       url: /docs/garagehive-faqs.html
-    - name: Exports from your old GMS
-      url: /docs/export-data.html
-    - name: Common Keyboard Shortcuts in Garage Hive
-      url: /docs/garagehive-keyboard-shortcuts.html
-    - name: Tips and Tricks in When Working With Garage Hive
-      url: docs/garagehive-tips-and-tricks.html
+    - name: Security, Privacy and Compliance FAQs
+      url: /docs/garagehive-faqs-security.html
