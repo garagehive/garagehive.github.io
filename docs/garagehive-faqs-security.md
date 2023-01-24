@@ -24,7 +24,7 @@ This article answers some common questions that you might have about the securit
 
 
 #### What security is in place to protect our database?
-Data is stored in **Microsoft Azure SQL** service within the **Microsoft Azure UK South (London)** data centre.
+Data is stored in Microsoft Azure SQL service within the Microsoft Azure UK South (London) data centre.
 
 Microsoft is ensuring that world class data protection measures are in place that include secure network infrastructure, secure hardware infrastructure, and secure testing.
 
@@ -35,20 +35,20 @@ For more information on Microsoft's security, click on the link below.
 [Go back to top](#top)
 
 #### Is Garage Hive a PC program, an App or is it Web-Based?
-Garage Hive is built on **Microsoft Dynamics 365 Business Central** which is a Web-Based platform, there is also a mobile application available.
+Garage Hive is built on Microsoft Dynamics 365 Business Central which is a Web-Based platform, there is also a mobile application available.
 
 [Go back to top](#top)
 
 #### Can our system be restored easily from the backup? 
-Yes your database can be restored from a backup. Backups are made continuously with up to **35 days** of point-in-time capability.
+Yes your database can be restored from a backup. Backups are made continuously with up to 35 days of point-in-time to restore capability.
 
 #### Who would have access to our backed up data?
-Garage Hive **System Administrators**.
+Garage Hive system administrators.
 
 [Go back to top](#top)
 
 #### Can we regularly download a local copy of the backup?
-Garage Hive does not provide a local back up of the **SQL database** but it is available for administrators **should it be needed**.
+Garage Hive does not provide a local back up of the SQL database but it is available for administrators should it be needed.
 Should you wish for a copy of your data because you are migrating to another system we provide your data in excel format.
 
 [Go back to top](#top)
@@ -59,22 +59,22 @@ Yes.
 [Go back to top](#top)
 
 #### Would each site have its own backup or would the backup be for all sites combined?
-There is one backup for **all sites combined**.
+There is one backup for all sites combined.
 
 [Go back to top](#top)
 
 #### If a site loses its internet access what effect would it have on our Garage Hive system?
-If you loose **internet connection** your data is safe, we recommend that you have a back up internet connection e.g. a 4g dongle so that you can always access your data.
+If you loose internet connection your data is safe, we recommend that you have a back up internet connection e.g. a 4g dongle so that you can always access your data.
 
 [Go back to top](#top)
 
 #### Can we log into all sites remotely?
-Yes Garage Hive is **cloud based** so it can be access anywhere with an internet connection.
+Yes Garage Hive is cloud based so it can be access anywhere with an internet connection.
 
 [Go back to top](#top)
 
 #### Can all our customer history be imported into Garage Hive from our GA4 invoicing system?
-Yes, we can **import** any data that’s provided to us in Excel format.
+Yes, we can import any data that’s provided to us in Excel format.
 
 
 [Go back to top](#top)
