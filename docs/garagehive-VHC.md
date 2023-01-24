@@ -11,7 +11,7 @@ VIEs in Garage Hive allow you to manage and monitor your upsell, additional auth
 1. [Understanding the process from jobsheet to VIE back to jobsheet](#understanding-the-process-from-jobsheet-to-vie-back-to-jobsheet)
 2. [Confirming a checklist to a VIE](#confirming-a-checklist-to-a-vie)
 3. [Different VIE statuses](#different-vie-statuses)
-4. [Adding customer authorisation and copy the authorised lines to jobsheet](#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet)
+4. [Adding customer authorisation and copy the authorised lines to Jobsheet](#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet)
 
 
 ### Understanding the process from jobsheet to VIE and back to jobsheet
@@ -71,7 +71,7 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4a.gif)
 
-### Adding customer authorisation and copy the authorised lines to jobsheet
+### Adding customer authorisation and copy the authorised lines to Jobsheet
 You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
 1. The first is from the document lines:
    * Scroll to the right on the document until you reach the **Customer Authorised** column. Tick all of the lines that the customer has approved.
