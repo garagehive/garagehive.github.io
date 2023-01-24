@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to use Common Errors.
+title: How to use Common Errors
 ---
 
 #   Common Errors Messages and Fixes 

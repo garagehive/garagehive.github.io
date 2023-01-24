@@ -5,6 +5,14 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 23rd January 2023
+* Garage Hive now includes the **Pay360** integration, which is an online payment service that helps make the payment process more efficient and faster. [read more](garagehive-setting-up-payment-by-pay360.html).
+* Added **EV Components** in vehicle cards, such as **EV Type** and **EV Battery Size**.
+
+   ![](media/garagehive-ev-components.png)
+
+*  Added **Euro Status** to vehicle card and factbox.
+
 ### 16th January 2023
 * Added the ability to automatically block customers who have exceeded their credit limit, [read more](garagehive-automatically-block-customers-who-have-exceeded-their-credit-limit.html){:target="_blank"}.
 * The **System Administrator** can now manage a user's **Data Permissions** in the **Manage User** card.

@@ -1,51 +1,57 @@
 ---
 layout: docs
-title: Frequently Asked Questions.
+title: Frequently Asked Questions
 ---
 
-#   Frequently Asked Questions. 
+## Frequently Asked Questions
 
->   How easy is it to make a booking?
+1. [How easy is it to make a booking](#how-easy-is-it-to-make-a-booking)
+2. [Where can I find a Jobsheet which has been invoiced](#where-can-i-find-a-jobsheet-which-has-been-invoiced)
+3. [How can I see if a technician has completed a Vehicle Inspection](#how-can-i-see-if-a-technician-has-completed-a-vehicle-inspection)
+4. [How can I add authorised work from a Vehicle Inspection Estimate](#how-can-i-add-authorised-work-from-a-vehicle-inspection-estimate)
+5. [How can I see how much a customer owes](#how-can-i-see-how-much-a-customer-owes)
 
-It is extremely quick and easy to make a booking within Garage Hive. 
+#### How easy is it to make a booking
+
+Making a booking with Garage Hive is extremely quick and simple. 
 
 Please see video below. 
 
-{% include youtube.html id="i5-vRslgAFk" %}
+{% include youtube.html id="4bic2AH6Lrw&t" %}
 
->   Where can I find a jobsheet which has been invoiced.
+#### Where can I find a Jobsheet which has been invoiced
 
-You can find a posted jobsheet within the Home Screen, then select **Posted & Archived Documents** followed by **Posted Jobsheets**. 
+A posted jobsheet can be found by going to the Home Screen and then selecting **Posted & Archived Documents**, followed by **Posted Jobsheets**. 
 
-![](media/garagehive-faqs1.png)
+   ![](media/garagehive-faqs1.png)
 
->   What does it mean when I see an error message come up which states "*The General Posting Setup does not exist. Identification fields and values: Gen. Bus Posting Group = 'DOMESTIC', Gen. Prod. Posting Groups= 'NO-POST'*" when trying to Post a Jobsheet or Purchase Order. 
+#### How can I see if a technician has completed a Vehicle Inspection
 
-Whenever you see "NO-POST" either when attempting to post either a Jobsheet or Purchase Order, this is usually because you have not replaced the MISC number with the actual part number. 
+Once a technician has completed a Vehicle Inspection, it will appear in your tiles on the Home Screen as **VI Awaiting Confirmation**.
 
->   How can I see if a technician has completed a Vehicle Inspection?
+   ![](media/garagehive-faqs2.png)
 
-Once a technician has completed a Vehicle Inspection it will show within your Tiles on the Home Screen within VI Awaiting Confirmation. 
+#### How can I add authorised work from a Vehicle Inspection Estimate
 
-![](media/garagehive-faqs2.png)
+Once you've created the quote within the **Vehicle Inspection Estimates** and the customer has approved the extra work, check the **Customer Authorised** box next to all authorised lines. 
 
->   How can I add authorised work from a Vehicle Health Check? 
+   ![](media/garagehive-faqs3.png)
 
-Once you have built the quote up within the Vehicle Health Check and the customer has authorised the additional work, you can tick the Customer Authorised box against all authorised lines. Then select Process in the menu bar followed by Copy Authorized Lines to Jobsheet. 
+Then, in the menu bar, choose **Process**, followed by **Copy Authorized Lines** to Jobsheet.
 
-![](media/garagehive-faqs3.png)
+   ![](media/garagehive-faqs3.png)
 
-This will then ask you to choose which job you want the lines adding to, after you have selected this and confirmed the authorised work will be addded to the job. 
+This will then prompt you to select which job you want the lines added to; once selected and confirmed, the authorised work will be added to the job.
 
-See video below as a guide.
+As a guide, watch the video below.
 
 {% include youtube.html id="qyT5Y_GEpfM" %}
 
->   How can I see how much a customer owes?
+#### How can I see how much a customer owes
 
-If you search for the customer within the home screen. 
+Select the customer from the customer's list by selecting **Customers** from the Home Screen followed, by the customer name. 
 
-Once you find the relevant customer, you will be able to see the customers Balance, together with any costs against them. You can also click on the figure it will open the Customer Ledger Entries, which will show the specifics of this amount 
+Once you find the relevant customer, you will be able to see the customer's Balance, together with any costs against them. You can also click on the figure it will open the Customer Ledger Entries, which will show the specifics of this amount 
 
 ![](media/garagehive-faqs4.png)
 
