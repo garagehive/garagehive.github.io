@@ -19,6 +19,7 @@ This article answers some common questions that you might have about the functio
 9. [Can I set specific discounts for different customers&#63;](#can-i-set-specific-discounts-for-different-customers)
 10. [Can I set up specific markups or margins on parts&#63;](#can-i-set-up-specific-markups-or-margins-on-parts)
 11. [Can I split a Jobsheet&#63;](#can-i-split-a-jobsheet)
+12. [How can I see ahead of time when the Garage is busy and when it is free in Garage Hive&#63;](#howcan-i-see-ahead-of-time-when-the-garage-is-busy-and-when-it-is-free-in-garage-hive)
 
 #### How easy is it to make a booking?
 
@@ -116,7 +117,7 @@ See the article link below for more information.
 
 Yes, you can setup markups and/or margins for a specific part or an Item Category. 
 
-See video below for a guide on how to set this up. 
+See the article link below for more information. 
 
 > [Creating an Item Card.](/docs/garagehive-create-an-item-card.html "Creating an Item Card")
 
@@ -137,6 +138,15 @@ Yes, a Jobsheet can be split. See the step-by-step instructions below.
 
 4. You will then see a pop-up message informing you of the new Jobsheet number for the lines you have unchecked.
 5. You will now have two Jobsheets open for this customer/vehicle.
+
+[Go back to top](#top)
+
+#### How can I see ahead of time when the Garage is busy and when it is free in Garage Hive?
+Garage Hive helps you manage your workshop by allocating time slots in the schedule, rather than Jobsheets, so you can easily see when the garage is busy and when it is free.
+
+See the article link below for more information.
+
+> [Understanding the Schedule.](/docs/garagehive-understanding-the-schedule.html "Understanding the Schedule")
 
 
 [Go back to top](#top)
