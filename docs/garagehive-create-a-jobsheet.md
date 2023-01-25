@@ -6,7 +6,7 @@ title: Using the Jobsheet
 <a name="top"></a>
 
 # Using the Jobsheet 
-There are various methods for creating a jobsheet, as described **[here](garagehive-jobsheet-create-from-various-places.html)**{:target="_blank"}. In this article we'll look at the standard way of using the Jobsheet. The Jobsheet typically includes information about the labour and items used during the repair or maintenance process of the vehicle, as well as any additional charges or discounts.
+There are various methods for creating a jobsheet, as described [**here**](garagehive-jobsheet-create-from-various-places.html){:target="_blank"}. In this article we'll look at the standard way of using the Jobsheet. The Jobsheet typically includes information about the labour and items used during the repair or maintenance process of the vehicle, as well as any additional charges or discounts.
 
 ## In this article
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
@@ -111,6 +111,8 @@ To setup Jobsheet deletion reasons:
 
    ![](media/garagehive-create-a-jobsheet11.gif)
 
+[Go back to top](#top)
+
 ### Transferring Lines to an Estimate
 Transferring lines to an Estimate is a feature available in a Jobsheet that allows the user to create an Estimate directly from the Jobsheet when the added lines in the Jobsheet have not yet been approved by the customer. To transfer lines to an Estimate:
 1. Open the Jobsheet with the lines you want to transfer, then select **Process** from the menu bar, followed by **Transfer Lines to Estimate**.
@@ -128,7 +130,7 @@ Transferring lines to an Estimate is a feature available in a Jobsheet that allo
 4. You can open the Estimate by selecting it from the Estimate lists. It is worth noting that **Group Items** are transferred as Group Items.
 
    ![](media/garagehive-transfer-lines-to-estimate4.png)
-   
+
 
 [Go back to top](#top)
 
