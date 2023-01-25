@@ -1,16 +1,19 @@
 ---
 layout: docs
-title: Creating a Jobsheet
+title: Using the Jobsheet
 ---
 
-# Creating a Jobsheet 
-There are various methods for creating a jobsheet, as described in [this article](garagehive-jobsheet-create-from-various-places.html){:target="_blank"}. In this article we'll look at the standard way to create a new Jobsheet.
+<a name="top"></a>
+
+# Using the Jobsheet 
+There are various methods for creating a jobsheet, as described **[here](garagehive-jobsheet-create-from-various-places.html)**{:target="_blank"}. In this article we'll look at the standard way of using the Jobsheet. The Jobsheet typically includes information about the labour and items used during the repair or maintenance process of the vehicle, as well as any additional charges or discounts.
 
 ## In this article
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
 2. [Add Items and Labour](#add-items-and-labour)
 3. [View the Factbox and copy the VIN](#view-the-factbox-and-copy-the-vin)
 4. [Setup for Jobsheet Deletion Reasons](#setup-for-jobsheet-deletion-reasons)
+5. [Transferring Lines to an Estimate](#transferring-lines-to-an-estimate)
 
 ### Create a new Jobsheet
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
@@ -65,6 +68,8 @@ There are various methods for creating a jobsheet, as described in [this article
 
     ![](media/garagehive-create-a-jobsheet6a.png)
 
+[Go back to top](#top)
+
 ### Add Items and Labour
 1. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
     - **Type** column - Select either **Labour** or **Item** to define what type of details are to be entered in the line.
@@ -80,10 +85,14 @@ There are various methods for creating a jobsheet, as described in [this article
     
          ![](media/garagehive-create-a-jobsheet7.gif)
 
+[Go back to top](#top)
+
 ### View the Factbox and copy the VIN
 1. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)
+
+[Go back to top](#top)
 
 ### Setup for Jobsheet Deletion Reasons
 To setup Jobsheet deletion reasons:
@@ -102,6 +111,26 @@ To setup Jobsheet deletion reasons:
 
    ![](media/garagehive-create-a-jobsheet11.gif)
 
+### Transferring Lines to an Estimate
+Transferring lines to an Estimate is a feature available in a Jobsheet that allows the user to create an Estimate directly from the Jobsheet when the added lines in the Jobsheet have not yet been approved by the customer. To transfer lines to an Estimate:
+1. Open the Jobsheet with the lines you want to transfer, then select **Process** from the menu bar, followed by **Transfer Lines to Estimate**.
+
+   ![](media/garagehive-transfer-lines-to-estimate1.png)
+
+2. This opens a list of all the lines added to that Jobsheet. Select the checkboxes in the **Included** column for the lines you want to transfer to an Estimate, and then click **Transfer Lines to Estimate** from the menu bar.
+
+   ![](media/garagehive-transfer-lines-to-estimate2.png)
+
+3. You will see a pop-up notification that an Estimate has been created. Take note of the Estimate number, then click **OK**.
+
+   ![](media/garagehive-transfer-lines-to-estimate3.png)
+
+4. You can open the Estimate by selecting it from the Estimate lists. It is worth noting that **Group Items** are transferred as Group Items.
+
+   ![](media/garagehive-transfer-lines-to-estimate4.png)
+   
+
+[Go back to top](#top)
 
 <br>
 
