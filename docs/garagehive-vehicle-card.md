@@ -61,38 +61,38 @@ This section shows the current owner of the vehicle.
 ## Available Actions in the Vehicle Card
 1. ### Lookup 
 
-* Timing Belt Interval - View the timing belt intervals according to the manufacturer's specification, and adding a timing belt due date.
-* Update Vehicle Data by VIN - This is useful if a vehicle has a plate change, the information can be updated via VIN.
-* Lubricants - View a list of lubricants (other than engine oil) for the vehicle, with the type and capacity of oil indicated.
-* TPMS - View the vehicle's technical specifications for tyre pressure monitoring system on the Autodata Workshop Application.
-* Update Vehicle Data by VRM - Update all vehicle information.
-* Oil (Autodata) -View engine oil data for the vehicle.
-* Autodata Workshop Application - View the vehicle's technical specification on the Autodata Workshop Application.
-* Service Indicator - View the vehicle's technical specifications for service indicator on the Autodata Workshop Application.
+   * Timing Belt Interval - View the timing belt intervals according to the manufacturer's specification, and adding a timing belt due date.
+   * Update Vehicle Data by VIN - This is useful if a vehicle has a plate change, the information can be updated via VIN.
+   * Lubricants - View a list of lubricants (other than engine oil) for the vehicle, with the type and capacity of oil indicated.
+   * TPMS - View the vehicle's technical specifications for tyre pressure monitoring system on the Autodata Workshop Application.
+   * Update Vehicle Data by VRM - Update all vehicle information.
+   * Oil (Autodata) -View engine oil data for the vehicle.
+   * Autodata Workshop Application - View the vehicle's technical specification on the Autodata Workshop Application.
+   * Service Indicator - View the vehicle's technical specifications for service indicator on the Autodata Workshop Application.
 
-   ![](media/garagehive-vehicle-card10.png)
+      ![](media/garagehive-vehicle-card10.png)
 
-1. ### History 
+2. ### History 
 
-* MOT History - View all MOT history of the vehicle which is taken from the DVSA website and includes all previous MOT failures and advisories. 
-* [Vehicle History](/docs/garagehive-service-history.html "Vehicle History") - View all Service history of the vehicle.
-* [Posted MOT History](/docs/garagehive-mot-history.html "MOT History") - View all MOT history of the vehicle. 
-* Posted Jobsheets - View all posted jobsheets for this vehicle.
-* Posted Invoices - View all posted invoices for this vehicle including costs. 
-* Posted Credit Memos - View any posted credits for this vehicle. 
-* Posted Return Jobsheets - View any posted credits for this vehicle. 
+   * MOT History - View all MOT history of the vehicle which is taken from the DVSA website and includes all previous MOT failures and advisories. 
+   * [Vehicle History](/docs/garagehive-service-history.html "Vehicle History") - View all Service history of the vehicle.
+   * [Posted MOT History](/docs/garagehive-mot-history.html "MOT History") - View all MOT history of the vehicle. 
+   * Posted Jobsheets - View all posted jobsheets for this vehicle.
+   * Posted Invoices - View all posted invoices for this vehicle including costs. 
+   * Posted Credit Memos - View any posted credits for this vehicle. 
+   * Posted Return Jobsheets - View any posted credits for this vehicle. 
 
-   ![](media/garagehive-vehicle-card11.png)
+      ![](media/garagehive-vehicle-card11.png)
 
 3. ### Related 
 
-* EV Components - View EV components for the vehicle.
-* [Customer Card](/docs/garagehive-create-a-customer-card.html "Customer Card") - View the Customer information.  
-* Process Checklist - View any completed checklists for this vehicle. 
-* [Estimates](/docs/garagehive-create-an-estimate.html "Estimates") - View any estimates made for this vehicle. 
-* Vehicle Inspection Estimates - View any Vehicle Inspection Estimates  linked to this vehicle.
-* Jobsheets - View any Jobsheets linked to this vehicle. 
-* Return Jobsheets - View any credits for this vehicle. 
+   * EV Components - View EV components for the vehicle.
+   * [Customer Card](/docs/garagehive-create-a-customer-card.html "Customer Card") - View the Customer information.  
+   * Process Checklist - View any completed checklists for this vehicle. 
+   * [Estimates](/docs/garagehive-create-an-estimate.html "Estimates") - View any estimates made for this vehicle. 
+   * Vehicle Inspection Estimates - View any Vehicle Inspection Estimates  linked to this vehicle.
+   * Jobsheets - View any Jobsheets linked to this vehicle. 
+   * Return Jobsheets - View any credits for this vehicle. 
 
-   ![](media/garagehive-vehicle-card12.png)
+      ![](media/garagehive-vehicle-card12.png)
 
