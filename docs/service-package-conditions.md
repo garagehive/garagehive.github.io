@@ -22,7 +22,7 @@ Currently, you can set the following conditions for service package versions:
 * Primary Model
 
 To set the conditions for a service package
-1. Select **Catalogues** from the navigation menu in the role centre and then **Service Packages**.
+1. Select **Catalogues** from the navigation menu in the Role Centre and then **Service Packages**.
 
    ![](media/garagehive-service-package-conditions1.png)
 
@@ -34,11 +34,15 @@ To set the conditions for a service package
 
    ![](media/garagehive-service-package-conditions3.gif)
 
-4. Take note of the exclude check box on the right; sometimes, it's better to exclude an option rather than include all variants. A good example is excluding diesel, diesel/electric, and electric, which would result in a petrol version, as there are many more petrol and petrol/hybrids to list. 
+5. Take note of the exclude check box on the right; sometimes, it's better to exclude an option rather than include all variants. A good example is excluding diesel, diesel/electric, and electric, which would result in a petrol version, as there are many more petrol and petrol/hybrids to list. 
 
-   ![](media/garagehive-service-package-conditions4.gif)
+   ![](media/garagehive-service-package-conditions4.png)
 
-5. The **Location** condition, **Production Year** range, and **Engine Capacity** range are defined on the version lines.
+6. It is also possible to add the **Begins With** checkbox filter to conditions such as **Engine Model Codes** and **Vehicle Type** to include all vehicles that begin with the specified **Code**. For example, if you enter **N47** as the Engine Model Code for BMW, all vehicles in that condition will be included, and so on.
+
+   ![](media/garagehive-service-package-conditions6.png)
+
+7. The **Location** condition, **Production Year** range, and **Engine Capacity** range are defined on the version lines.
 
 ![](media/garagehive-service-package-conditions5.gif)
 
