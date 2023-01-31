@@ -3,7 +3,15 @@ layout: docs
 title: How to Create Service Packages in Garage Hive
 ---
 
-# How to Create Service Packages in Garage Hive
+<a name="top"></a>
+
+## In this article
+1. [Creating a Service Package](#creating-a-service-package)
+2. [Adding Fixed Price and Discounts for the Service Package](#adding-fixed-price-and-discounts-for-the-service-package)
+3. [Creating New Service Package Versions by Copying from Other Versions](#creating-new-service-package-versions-by-copying-from-other-versions)
+4. [Adding Checklist Template Code to Service Package Card](#adding-checklist-template-code-to-service-package-card)
+
+### Creating a Service Package
 Service packages are a powerful tool for helping you build jobs faster, simplify job pricing, and add consistency.
 
 To create or edit a service package: 
@@ -31,26 +39,31 @@ To create or edit a service package:
 
    ![](media/garagehive-create-service-package5.gif)
 
-7. There is a **Fixed Price and Discounts** slider at the bottom of the **Service Package Card** under the **Invoicing** FastTab; if enabled, you will be able to change the prices and discounts within the versions. When versions are added to documents, prices or discounts in the versions are added to the document rather than being pulled from the related labour or item card or any pricing matrix that has been setup. If you try to change the price on the document, you will be warned that it is part of a fixed price package and asked whether you want to break that special pricing.
+### Adding Fixed Price and Discounts for the Service Package
+1. There is a **Fixed Price and Discounts** slider at the bottom of the **Service Package Card** under the **Invoicing** FastTab; if enabled, you will be able to change the prices and discounts within the versions. When versions are added to documents, prices or discounts in the versions are added to the document rather than being pulled from the related labour or item card or any pricing matrix that has been setup. If you try to change the price on the document, you will be warned that it is part of a fixed price package and asked whether you want to break that special pricing.
 
    ![](media/garagehive-create-service-package6.gif)
 
-8. In addition, within the version lines, you will see an additional column **Allow fixed price Qty. Change**. If you choose this option, the system will allow you to change the quantity of that version line. It will adjust the unit price to maintain the line value. This is ideal for items such as engine oil, where the exact quantity cannot be predicted.
+2. In addition, within the version lines, you will see an additional column **Allow fixed price Qty. Change**. If you choose this option, the system will allow you to change the quantity of that version line. It will adjust the unit price to maintain the line value. This is ideal for items such as engine oil, where the exact quantity cannot be predicted.
 
    ![](media/garagehive-create-service-package7.gif)
 
-9. When you begin creating new versions, you may find the need to copy versions if they are very similar. To do this, select **Manage** and from the submenus, you will see two options; **Copy**, which copies the selected version to the line beneath, and **Copy From**, which allows you to select versions from other packages to copy into this one.
+### Creating New Service Package Versions by Copying from Other Versions
+1. When you begin creating new versions, you may find the need to copy versions if they are very similar. To do this, select **Manage** and from the submenus, you will see two options; **Copy**, which copies the selected version to the line beneath, and **Copy From**, which allows you to select versions from other packages to copy into this one.
 
    ![](media/garagehive-create-service-package8.gif)
 
-10. We've also added the ability to add **Checklist Template Code** to a **Service Package Card** so that service packages can automatically add checklists to jobs when they're added to a jobsheet. To add a **Checklist Template Code**, select it from the **General** FastTab field named **Checklist Template Code**.
+### Adding Checklist Template Code to Service Package Card
+1. We've also added the ability to add **Checklist Template Code** to a **Service Package Card** so that service packages can automatically add checklists to jobs when they're added to a jobsheet. To add a **Checklist Template Code**, select it from the **General** FastTab field named **Checklist Template Code**.
 
     ![](media/garagehive-create-service-package9.gif)
 
-11. As a result, when you create a new jobsheet and select the **Service Type** as one of the available **Service Packages** with a **Checklist Template Code**, the checklist is automatically added to the jobsheet.
+2.  As a result, when you create a new jobsheet and select the **Service Type** as one of the available **Service Packages** with a **Checklist Template Code**, the checklist is automatically added to the jobsheet.
 
     ![](media/garagehive-create-service-package10.gif)
 
+
+[Go back to top](#top)
 
 <br>
 
