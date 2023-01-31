@@ -7,6 +7,8 @@ title: Service Package Conditions
 
 Service package conditions allow you to filter Service Package versions by a set of criteria; they are filtered in documents and online documents if you have the online booking module.
 
+<hr>
+
 Currently, you can set the following conditions for service package versions:
 
 * Make
