@@ -18,6 +18,10 @@ Currently, you can set the following conditions for service package versions:
 * Engine Model Code 
 * Primary Make
 * Primary Model
+* Vehicle's Age
+* Location
+* Production Year
+* Engine Capacity
 
 To set the conditions for a service package
 1. Select **Catalogues** from the navigation menu in the Role Centre and then **Service Packages**.
