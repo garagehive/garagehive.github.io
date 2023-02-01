@@ -64,7 +64,7 @@ To set up the use of Item Charges:
 1. From the invoicing section of the customer card you have created, add **Service Recharge Item Charge No.** as **VEHICLEPREP**.
 2. Add the **Corresponding Vendor No.** as **VEHICLE-PREP** (as set up above).
 
-    ![](media/garagehive-service-recharge-item-charges6.gif)
+    ![](media/garagehive-service-recharge-item-charges6.png)
 
 3. From the **Payment** section, add the payment method as **VEHPREP** to both the customer and vendor card to ensures that when the sales invoice is posted, it's paid off automatically and the record closed. 
 4. On the other hand, the purchase invoice is also paid off and counters the sales invoice bill, ensuring that the debit and credit accounts are balanced off and closed down.
@@ -86,7 +86,7 @@ General ledger accounts are used in internal charging when doing internal transa
 
 1. Start by setting up a customer card under the No. **VEHSALES-WARRANTY** and the description to be **Vehicle Sales Warranty(Internal)**; this is the customer where all the warranty work bill will be charged for the vehicle sold.
 
-    ![](media/garagehive-service-recharge-gl-account1.gif)
+    ![](media/garagehive-service-recharge-gl-account1.png)
 
 2. Next, create a corresponding vendor card with the No. **VEHICLE-WARRANTY** and the description to be **Vehicle Sales Warranty (Internal)**; this is where a corresponding purchase invoice is created and posted when the internal customer is charged.
 
@@ -110,7 +110,7 @@ To set up the use G/L account No.:
 2. Add the **Service Recharge Location Code** as **VEHSALES** (depends on whether you have set up the department in different locations).
 3. And the **Corresponding Vendor No.** as **VEHICLE-WARRANTY** (as set up above).
 
-![](media/garagehive-service-recharge-gl-account5.gif)
+![](media/garagehive-service-recharge-gl-account5.png)
 
 {% include tip.html title="Note" text="Remember to add payment details for both the customer and vendor card you have created, just like for the item charges set up." %}
 
