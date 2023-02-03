@@ -19,43 +19,38 @@ In Garage Hive, customer notifications are system settings that allow the system
 
 ### Vehicle date reminder notification
 **Vehicle Date Reminder** notifications are used in the system when you need to notify the customer about upcoming due dates for recurring work on their vehicle, such as MOT reminders, and service reminders.
+Read **[this article](garagehive-vehicle-date-reminders.html){:target="_blank"}** to learn more about setting up and using **Vehicle Date Reminders**.
 Here is an example of an **MOT Reminder** notification setup.
 
    ![](media/garagehive-customer-notifications2.png)
-   
-Read [this article](garagehive-vehicle-date-reminders.html){:target="_blank"} to learn more about setting up and using **Vehicle Date Reminders**.
 
 ### Booking reminder notification
 **Booking Reminder** notifications are used in the system to send reminders to customers the day before their previously made booking. This helps customers remember their booking and show up on time; if there are any changes, they communicate in advance.
+Read **[this article](garagehive-booking-reminders.html){:target="_blank"}** to learn more on how to setup and use the **Booking Reminder** notification.
 Here is an example of a **Booking Reminder** notification setup.
 
    ![](media/garagehive-customer-notifications3.png)
 
-Read [this article](garagehive-booking-reminders.html){:target="_blank"} to learn more on how to setup and use the **Booking Reminder** notification.
-
 ### Booking confirmation notification
 **Booking Confirmation** notifications are used in the system to send confirmations to customers right after they make a booking. The confirmation is sent to the customer to ensure that the customer is aware that the booking has been made successfully and to possibly share the details of the booking.
+Read **[this article](garagehive-booking-confirmation.html){:target="_blank"}** to learn more on how to setup and use the **Booking Confirmation** notification.
 Here is an example of a **Booking Confirmation** notification setup.
 
    ![](media/garagehive-customer-notifications4.png)
 
-Read [this article](garagehive-booking-confirmation.html){:target="_blank"} to learn more on how to setup and use the **Booking Confirmation** notification.
-
 ### Survey notification
 **Survey Notification** is a system notification that automatically sends a survey link to customers right after their job is completed. Surveys help in determining the NPS score, which is a measure of customer loyalty and satisfaction.
+Read **[this article](garagehive-surveys-setting-up-customer-surveys.html){:target="_blank"}** to learn more on how to setup and use the **Survey Notification**.
 Here is an example of a **Survey Notification** setup.
 
    ![](media/garagehive-customer-notifications5.png)
 
-Read [this article](garagehive-surveys-setting-up-customer-surveys.html){:target="_blank"} to learn more on how to setup and use the **Survey Notification**.
-
 ### Job authorisation notification
 **Job Authorisation Notification** is used to send customers an online authorization link for approval. The customer online authorisation link gives the customer access to the online document, which they can view and approve at their own time.
+Read **[this article](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up){:target="_blank"}** to understand more about the **Job Authorisation Notification**.
 Here is an example of a **Job Authorisation Notification** setup.
 
    ![](media/garagehive-customer-notifications7.png)
-
-Read [this article](garagehive-online-documents-setting-up-online-documents.html#customer-notification-set-up){:target="_blank"} to understand more about the **Job Authorisation Notification**.
 
 ### Checklist notification
 **Checklist Notification** is used to send a link to the online checklist to the customer, this helps to share visual material of the inspection report. 
