@@ -3,6 +3,8 @@ layout: docs
 title: How to perform a Customer/Vendor Balancing Payment
 ---
 
+<a name="top"></a>
+
 # How to perform a Customer/Vendor Balancing Payment
 **Customer/Vendor Balancing Payments** (also known as **Contra Payments**) are typically made when you have a contact who is both a customer and a supplier; in the example below, you owe the supplier £1000 and the supplier owes you £500. You will owe the supplier £500 once the journal below has been posted.
 
@@ -59,3 +61,5 @@ title: How to perform a Customer/Vendor Balancing Payment
 
 7. Once you are happy with journal, select **Post/Print** from menu bar, and then **Post**. 
 
+
+[Go back to top](#top)

@@ -3,6 +3,8 @@ layout: docs
 title: Creating a Vehicle Inspection Checklist from Autodata
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [Creating a Vehicle Inspection Checklist from Autodata](#creating-a-vehicle-inspection-checklist-from-autodata)
 2. [Add Custom Checklist Templates at the bottom of Autodata Checklists](#add-custom-checklist-templates-at-the-bottom-of-autodata-checklists)
@@ -27,6 +29,8 @@ When using the Autodata **Service Interval Matrix**, you may create a Vehicle In
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist5.png)
 
+[Go back to top](#top)
+
 ### Add Custom Checklist Templates at the bottom of Autodata Checklists.
 1. When you want to add an additional Checklist template for each Checklist you create, in the top right corner, choose the ![](media/search_icon.png) icon, enter **Autodata Setup** and select the related link.
 
@@ -37,3 +41,6 @@ When using the Autodata **Service Interval Matrix**, you may create a Vehicle In
    ![](media/garagehive-autodata-vehicle-inspection-checklist7.png)
 
 3. If you now create a Checklist from Autodata, it will include the additional template checklist alongside the one from Autodata.
+
+
+[Go back to top](#top)

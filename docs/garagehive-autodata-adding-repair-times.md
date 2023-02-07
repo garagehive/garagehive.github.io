@@ -3,6 +3,8 @@ layout: docs
 title: Adding Repair Times in the Document
 ---
 
+<a name="top"></a>
+
 # Checking and Adding Repair Time in the Document
 
 Repair times in Garage Hive are the number of hours estimated to repair parts of a vehicle based on the model and make of the vehicle. This aids in estimating and understanding the type of work required while repairing the vehicle. Here's how to get to the repair times:
@@ -22,6 +24,8 @@ Repair times in Garage Hive are the number of hours estimated to repair parts of
 
    ![](media/garagehive-autodata-repair-times4.gif)
 
+
+[Go back to top](#top)
 
 ### **See Also**
 

@@ -3,6 +3,8 @@ layout: docs
 title: Adding a Resource (Person or Machine) in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Adding a Resource (Person or Machine) in Garage Hive
 In Garage Hive, resources can be set up to be either a person or a machine, for example, technicians for a person resource, courtesy car for a machine resource,  type of bay (e.g Diagnostics Bay) for a machine resource and so on. Here's how to add a resource to Garage Hive:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Resources**, and choose the related link.
@@ -24,6 +26,8 @@ In Garage Hive, resources can be set up to be either a person or a machine, for 
 
    ![](media/garagehive-adding-a-resource4.gif)
 
+
+[Go back to top](#top)
 
 ### **See Also**
 

@@ -3,6 +3,8 @@ layout: docs
 title: GSF Integrations in Garage Hive
 ---
 
+<a name="top"></a>
+
 # GSF Integrations in Garage Hive
 
 ![](media/garagehive-gsf-to-garage-hive.png)
@@ -32,6 +34,8 @@ You will need to do the following to obtain this information:
 
 After getting the **System Integration Customer ID**, continue to [Linking GSF to Garage Hive System](#linking-gsf-to-garage-hive-system).
 
+[Go back to top](#top)
+
 ### Linking GSF to Garage Hive system
 Follow the steps below to link GSF to the Garage Hive System using the **System Integration Customer ID** you received:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **GSF Integrations**, and choose the related link.
@@ -44,6 +48,8 @@ Follow the steps below to link GSF to the Garage Hive System using the **System 
 5. Slide the **Enable** slider to the right to enable the integration, and then exit the page.
 
    ![](media/garagehive-gsf-integration2.gif)
+
+[Go back to top](#top)
 
 ### Ordering Parts from the GSF Allicat Online using the Garage Hive system
 To order parts from the GSF website:
@@ -75,11 +81,15 @@ To order parts from the GSF website:
 
    ![](media/garagehive-gsf-integration7.gif)
 
+[Go back to top](#top)
+
 ### Ordering Parts from the Purchase Order
 1. Open the **Purchase Order.**
 2. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Process** from the menu bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
 
    ![](media/garagehive-gsf-integration8.gif)
+
+[Go back to top](#top)
 
 ### Receiving Parts from the GSF Invoice into the System
 When the items arrive, you may now convert the placeholder items to the actual item number. To do this, use the **Convert Placeholder Items** action, which is available in both the Purchase Order and the Jobsheet. Learn more [here](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
@@ -89,6 +99,8 @@ When the items arrive, you may now convert the placeholder items to the actual i
 <br>
 
    ![](media/garagehive-gsf-integration10.png)
+
+[Go back to top](#top)
 
 ### Ordering Service Package Items from GSF
 1. When items from the **Service Packages** are added to a document and you try to place an order from GSF, the items are not automatically added to the **Shopping List** as they are when items from the **Autodata Repair Times** are added. This is because the items have not yet been linked with the **General Part No.** that the system uses for item identification in the **GSF Allicat Online** system. Here is an example.
@@ -107,3 +119,6 @@ When the items arrive, you may now convert the placeholder items to the actual i
 So, here is the complete process flow.
 
 ![](media/garagehive-gsf-integration13.png)
+
+
+[Go back to top](#top)

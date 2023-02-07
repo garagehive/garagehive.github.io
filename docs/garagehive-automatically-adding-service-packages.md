@@ -3,6 +3,8 @@ layout: docs
 title: Automatically Adding Service Packages in Documents
 ---
 
+<a name="top"></a>
+
 # Adding Service Packages Automatically 
 
 To begin automatically applying service packages in jobsheets, link **Service Types** with **Service Packages**. Here's how to do it:
@@ -22,6 +24,8 @@ To begin automatically applying service packages in jobsheets, link **Service Ty
 
    ![](media/garagehive-trial-creating-a-purchase-order4.gif)
 
+
+[Go back to top](#top)
 
 ### **See Also**
 

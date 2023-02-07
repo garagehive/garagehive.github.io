@@ -3,6 +3,8 @@ layout: docs
 title: Adding Optional Tiles in Garage Hive
 ---
 
+<a name="top"></a>
+
 There are several tiles in Garage Hive that are hidden by default from the **Role Centre**, which means they are not visible and cannot be used. These tiles are listed below:
    * Jobsheet Work status **Await Parts**
    * Jobsheet Work status **Await Auth.**
@@ -22,3 +24,6 @@ To add these tiles in the **Role Centre**:
    ![](media/garagehive-optional-tiles2.gif)
 
 4. The tiles will be ready for use after you refresh the **Role Centre**.
+
+
+[Go back to top](#top)

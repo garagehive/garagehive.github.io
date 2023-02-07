@@ -3,6 +3,8 @@ layout: docs
 title: Create Item Card Templates
 ---
 
+<a name="top"></a>
+
 # Create Item Card Templates
 To create new **Item Card Templates**:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Item Categories**, and select the related link. 
@@ -25,6 +27,8 @@ To create new **Item Card Templates**:
 
    ![](media/garagehive-create-item-template3.gif)
 
+
+[Go back to top](#top)
 
 ### See Also 
 

@@ -3,6 +3,8 @@ layout: docs
 title: Deleting a Job after a Technician has Clocked On to It
 ---
 
+<a name="top"></a>
+
 # Deleting a Job after a Technician has Clocked On to It
 There will always be an error when you try to delete a jobsheet where the technician has clocked in. To avoid this, before deleting a jobsheet, consider what happened in each case.
 
@@ -16,6 +18,7 @@ There will always be an error when you try to delete a jobsheet where the techni
 
    ![](media/garagehive-deleting-jobs-with-clock-on1.gif)
 
+[Go back to top](#top)
 
 ### Delete the jobsheet entirely
 
@@ -28,3 +31,5 @@ There will always be an error when you try to delete a jobsheet where the techni
 
    ![](media/garagehive-deleting-jobs-with-clock-on2.gif)
 
+
+[Go back to top](#top)

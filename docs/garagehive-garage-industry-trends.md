@@ -3,6 +3,8 @@ layout: docs
 title: Garage Industry Trends
 ---
 
+<a name="top"></a>
+
 ### Garage Industry Trends
 [Garage Industry Trends](https://www.garageindustrytrends.com/){:target="_blank"} is an opt-in service for garages in various parts of the United Kingdom in which they agree to share their business performance data anonymously on a regular basis in order for everyone to be aware of industry trends. It combines four key performance indicators (KPIs), namely:
    * **Average Invoice Value**
@@ -37,3 +39,5 @@ Any Garage Hive customer can opt-in to the service and share their data anonymou
 
 {% include tip.html title="Note" text="If you do not see the Garage Industry Trends sub-section on the home screen, please contact the support team at help@garagehive.co.uk." %}
 
+
+[Go back to top](#top)

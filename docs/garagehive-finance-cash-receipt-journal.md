@@ -3,6 +3,8 @@ layout: docs
 title: Cash Receipt Journal
 ---
 
+<a name="top"></a>
+
 # Cash Receipt Journals
 Cash Receipt journals allow the user to record payments made to a customer's account. To record a cash receipt journal, follow these steps:
 1. Choose the ![](media/search_icon.png) icon on the top-right corner, enter **Cash Receipt Journal**, and select the related link.
@@ -34,6 +36,8 @@ Cash Receipt journals allow the user to record payments made to a customer's acc
 
    ![](media/garagehive-cash-receipt-journal4.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

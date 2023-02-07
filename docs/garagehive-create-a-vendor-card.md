@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Create a Vendor Card.
+title: Create a Vendor Card
 ---
 
-#   Create a Vendor Card. 
+#   Create a Vendor Card
 
 Within the Home Screen Select **Purchasing**
 

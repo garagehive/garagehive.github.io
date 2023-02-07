@@ -2,6 +2,9 @@
 layout: docs
 title: Garage Hive's Accountancy Routines
 ---
+
+<a name="top"></a>
+
 # Accountancy Routines
 
 The purpose of this document is to assist with your accountancy routines, if all the tasks in this document are routinely completed your accounts should be accurate. If you are unsure how to complete any of the tasks, please contact support. 
@@ -10,7 +13,7 @@ The purpose of this document is to assist with your accountancy routines, if all
 
 * Get used to using the search function (Alt+Q) instead of the menu to navigate around the accountancy system. 
 
-* If a customer has paid via a bank transfer, we strongly recommend that you apply the payment only whilst performing a "Payment Reconciliation Journal" and to avoid applying the payment manually. This greatly reduces the chance of duplicating transactions on your bank account. 
+* If a customer has paid via a bank transfer, we strongly recommend that you apply the payment only whilst performing a **Payment Reconciliation Journal** and to avoid applying the payment manually. This greatly reduces the chance of duplicating transactions on your bank account. 
 
 * Watch this video to learn how to add new G/L Accounts (Nominal Codes) [Video](https://youtu.be/QljybTkEKYM "More Info"){:target="_blank"}
 
@@ -26,6 +29,7 @@ These tasks should ideally be completed daily and if possible, the reconciliatio
 * Return Items added to Purchase Return Orders - [Video](https://youtu.be/cmmgeGjnTYQ "Purchase Return Orders"){:target="_blank"}
 * Post Parts Purchase Credit Memos
 
+[Go back to top](#top)
 
 #### Daily Reconciliation
 
@@ -57,6 +61,8 @@ At the end of each day, you should have the following in your "End of Day" folde
 
 This "End of Day" folder should then be passed to the person responsible for your bookkeeping / accounting to double check, then file.
 
+[Go back to top](#top)
+
 ## Weekly Routines
 
 * Post Business Purchase Invoices (Utilities, etc) - [Video](https://youtu.be/BDwUIGrgRQo "How to post Business Purchase Invoices"){:target="_blank"}
@@ -67,6 +73,7 @@ This "End of Day" folder should then be passed to the person responsible for you
 
 * Check debit/credit clearing and till G/L Accounts are correct on the Trial Balance - [Video](https://youtu.be/_69SUvoUx-U "How to print Trial Balance, Aged Debtors and Aged Creditors - Business Central"){:target="_blank"}
 
+[Go back to top](#top)
 
 ## Monthly Routines 
 
@@ -85,12 +92,16 @@ This "End of Day" folder should then be passed to the person responsible for you
 * Check your VAT Liability for the month - [Video](https://youtu.be/xOU4GByl7yg "More Info"){:target="_blank"}
 * Analyse your VAT Entries for the month - [Video](https://youtu.be/bW8LF0xUdUQ "More Info"){:target="_blank"}
 
+[Go back to top](#top)
+
 ## Quarterly Routines
 
 * Check your VAT Liability for the quarter - [Video](https://youtu.be/xOU4GByl7yg "More Info"){:target="_blank"}
 * Analyse your VAT Entries for the quarter - [Video](https://youtu.be/bW8LF0xUdUQ "More Info"){:target="_blank"}
 * Submit your VAT via MTD - [Video](https://youtu.be/nHc-qOl9e64 "More Info"){:target="_blank"}
 * Make sure that once you have submitted your VAT you Calculate and Post your VAT Settlement as per this [Video](https://youtu.be/nHc-qOl9e64?t=211 "More Info"){:target="_blank"}. **This is a critical process, if you have any questions please contact support.** 
+
+[Go back to top](#top)
 
 ## Yearly Routines
 
@@ -99,3 +110,6 @@ This "End of Day" folder should then be passed to the person responsible for you
 * Check Trial Balance - [Video](https://youtu.be/_69SUvoUx-U "How to print Trial Balance, Aged Debtors and Aged Creditors - Business Central"){:target="_blank"}
 * Analyse / Export G/L Entries as necessary - [Video](https://youtu.be/h-zSELBUe7Y "More Info"){:target="_blank"}
 * Close the financial year down - [Video](https://youtu.be/FIay8hLKphw "More Info"){:target="_blank"}
+
+
+[Go back to top](#top)

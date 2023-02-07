@@ -3,6 +3,8 @@ layout: docs
 title: Adding Fuel Type Group Code 
 ---
 
+<a name="top"></a>
+
 # Adding Fuel Type Group Code
 **Fuel type Groups** is a feature in Garage Hive that allows you to categorise vehicle engines based on the type of fuel they use. The various fuel types help in determining which vehicles are the garage's most regular customers, as well as knowing about the different fuel trends that customers are adopting.
 
@@ -25,3 +27,5 @@ To edit the **Fuel Type Groups**:
 
    ![](media/garagehive-fuel-types4.gif)
 
+
+[Go back to top](#top)

@@ -3,6 +3,8 @@ layout: docs
 title: Exporting an Internal Survey
 ---
 
+<a name="top"></a>
+
 # Exporting an Internal Survey
 
 Exporting an internal survey is a feature available in surveys to help you in sharing internal surveys file for external use with the extension **stx**. For example, you could export a survey to share with a member of Garage Hive Community.
@@ -21,6 +23,9 @@ Exporting an internal survey is a feature available in surveys to help you in sh
 4. If you want the survey to be used as a template, which means the survey number will be preserved, make sure that the **Template** slider is on before exporting.
  
    ![](media/garagehive-internal-surveys0005.gif)
+
+
+[Go back to top](#top)
 
 <br>
 

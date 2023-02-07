@@ -3,6 +3,8 @@ layout: docs
 title: Creating a Parts Sales Quote in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Creating a Parts Sales Quote in Garage Hive
 **Parts Sales Quote** is a document that you create as an estimate of the cost of parts to sell to customers. You can change and resend the sales quote as many times as necessary while negotiating with the customer. If the customer accepts the offer, you convert the **Parts Sales Quote** into a sales invoice or a sales order and complete the sale. 
 
@@ -28,6 +30,8 @@ To create a **Sales Quote**:
 
    ![](media/garagehive-parts-sales-quote4.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

@@ -3,6 +3,8 @@ layout: docs
 title: Common Errors for Online Booking
 ---
 
+<a name="top"></a>
+
 # Common Errors for Online Booking 
 
 To begin, read these [articles](garagehive-onlinebooking-intro.html){:target="_blank"} to learn how to set up **Online Booking** (Click **Next step** at the end of each article).
@@ -38,3 +40,5 @@ In this article, we'll look at the common errors and how to fix them:
 
    ![](media/garagehive-online-booking-errors7.gif)
 
+
+[Go back to top](#top)

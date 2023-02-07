@@ -3,6 +3,8 @@ layout: docs
 title: Business Central Improvements
 ---
 
+<a name="top"></a>
+
 This article will list the improvements that come with Microsoft Dynamics 365 Business Central upgrades. Most of these improvements are related to the regular operations you do in Garage Hive and you will find that they make it easier and more comfortable for you to use the system efficiently in your everyday operations.
 
 ## In this article
@@ -93,6 +95,8 @@ This article will list the improvements that come with Microsoft Dynamics 365 Bu
    
       ![](media/garagehive-exporting-reports-in-excel.png)
 
+[Go back to top](#top)
+
 <br>
 
 ## BC 18 Improvements - November 2021
@@ -152,3 +156,5 @@ This article will list the improvements that come with Microsoft Dynamics 365 Bu
      - Report preview stretches to fill the available space, and toolbar buttons remain visible and accessible.
      - At reduced width, page margins automatically shrink to display more content.
      - Buttons and menus in the Business Central header remain accessible. 
+
+[Go back to top](#top)

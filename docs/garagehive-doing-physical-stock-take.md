@@ -3,6 +3,8 @@ layout: docs
 title: Doing a Physical Stock Take in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Doing a Physical Stock Take in Garage Hive
 Physical stock takes enable comparisons between items in the system and those that are physically available. This process ensures that discrepancies are found and resolved. The following describes how to use Garage Hive when doing a physical stock take:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Physical Inventory Journals**, and select the related link.
@@ -30,6 +32,8 @@ Physical stock takes enable comparisons between items in the system and those th
 
    ![](media/garagehive-physical-stock-take5.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

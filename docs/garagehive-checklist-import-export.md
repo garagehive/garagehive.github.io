@@ -2,6 +2,9 @@
 layout: docs
 title: How to Import & Export Checklists in Garage Hive
 ---
+
+<a name="top"></a>
+
 # How to Import & Export Checklists
 
 You can share your created Checklists with other users using the upload/download feature within Checklist Templates. 
@@ -26,11 +29,10 @@ When importing Checklist Templates it is essential that you understand that you 
 ![](media/garagehive-checklist-import-warning.png)
 
 
+[Go back to top](#top)
+
 # See Also
 
-[How to create a Checklist](garagehive-checklist-how-to-create.html "How to create a Checklist"){:target="_blank"}
-
-
-[How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"){:target="_blank"}
-
+[How to create a Checklist](garagehive-checklist-how-to-create.html "How to create a Checklist"){:target="_blank"} \
+[How to perform a Vehicle Inspection](https://docs.garagehive.co.uk/docs/garagehive-technicians-vehicle-inspections.html "How to perform a Vehicle Inspection"){:target="_blank"} \
 [How to use VHCs](https://docs.garagehive.co.uk/docs/garagehive-VHC.html "How to use VHCs"){:target="_blank"}

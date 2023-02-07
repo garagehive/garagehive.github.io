@@ -3,6 +3,8 @@ layout: docs
 title: How to Get Started With External Consultant Survey
 ---
 
+<a name="top"></a>
+
 # How to Get Started With External Consultant Survey
 
 If you have external consultants who advise you on specific activities such as human resources (HR), they may provide you with an internal survey template. To setup the external consultant survey, follow these steps:
@@ -28,6 +30,9 @@ If you have external consultants who advise you on specific activities such as h
    ![](media/garagehive-internal-surveys-external-consultant4.gif)
 
 9. After answering the survey, and submitting it, the external consultant will receive the survey responses as a PDF.
+
+
+[Go back to top](#top)
 
 <br>
 

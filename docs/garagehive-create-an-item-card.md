@@ -3,6 +3,8 @@ layout: docs
 title: Creating an Item Card
 ---
 
+<a name="top"></a>
+
 # Creating an Item Card
 To create a new **Item Card:**
 1. Select **Catalogues** in the Home Screen/Role Centre, and then choose **Items**.
@@ -69,6 +71,8 @@ No details should be added in this FastTab.
 ## Warehouse
 No details should be added in this FastTab.
 
+
+[Go back to top](#top)
 
 <br>
 

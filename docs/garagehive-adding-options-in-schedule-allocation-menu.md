@@ -2,6 +2,9 @@
 layout: docs
 title: Adding New Options in the Schedule Allocation Menu
 ---
+
+<a name="top"></a>
+
 # Adding New Options in the Schedule Allocation Menu
 
 When you book an allocation in the schedule, the following menu appears, giving you options to choose from:
@@ -32,6 +35,8 @@ To add a new option:
 
    ![](media/garagehive-schedule-allocation-menu5.gif)
 
+
+[Go back to top](#top)
 
 ### **See Also**
 

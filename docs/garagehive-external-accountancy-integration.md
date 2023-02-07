@@ -3,6 +3,8 @@ layout: docs
 title: How to Integrate Garage Hive With Your External Accountancy System
 ---
 
+<a name="top"></a>
+
 # How to Integrate Garage Hive With Your External Accountancy System
 To integrate your external accountancy system with Garage Hive:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
@@ -43,6 +45,7 @@ To integrate your external accountancy system with Garage Hive:
    ![](media/garagehive-external-accountancy-integration6.gif)
 
 
+[Go back to top](#top)
 <br>
 
 ### **See Also**

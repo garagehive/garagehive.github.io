@@ -2,6 +2,9 @@
 layout: docs
 title: How to Export to Your External Accountancy System
 ---
+
+<a name="top"></a>
+
 # How to Export to Your External Accountancy System
 
 Garage Hive allows you to export data to your **external accounting system**. You can export the following:
@@ -43,6 +46,8 @@ To create an export, first confirm that your setup is complete; please contact a
 
 To understand how these transactions are imported into your accountancy software, please refer to their documentation.
 
+
+[Go back to top](#top)
 
 <br>
 

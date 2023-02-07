@@ -3,6 +3,8 @@ layout: docs
 title: Creating a Labour Card & Using Standard Times in Garage Hive 
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [Creating a labour card](#creating-a-labour-card)
 2. [Using Standard Times](#using-standard-times)
@@ -16,6 +18,8 @@ To create a new **Labour Card**:
 
 The labour card is divided into the following FastTabs:
 
+[Go back to top](#top)
+
 #### General
 Fill in the following details:
 1. **No.** - This is the unique code for the labour in the system. Create one without spaces and with no more than 20 characters.
@@ -25,6 +29,8 @@ Fill in the following details:
 5. **Unit of Measure Code** - This is the unit of measurement for labour; choose **HOUR**.
 
 ![](media/garagehive-create-a-labour-card2.png)
+
+[Go back to top](#top)
 
 #### Invoicing
 Fill in the following details:
@@ -41,6 +47,8 @@ Fill in the following details:
 
 You can create as many customised labour cards as you want.
 
+[Go back to top](#top)
+
 ### Using Standard Times
 **Standard Times** are the recommended labour hours for completing a certain job. They are used to determine how many labour hours to charge customers. To add **Standard Times** in the labour card:
 1. Select **Related** from the menu bar, then **Labour**, and lastly **Standard Times**.
@@ -56,6 +64,9 @@ You can create as many customised labour cards as you want.
    ![](media/garagehive-create-a-labour-card6.gif)
 
 4. If there are several **Standard Times** available, a pop-up appears with the preset **Standard Times**, and you can choose the relevant one.
+
+
+[Go back to top](#top)
 
 <br>
 
