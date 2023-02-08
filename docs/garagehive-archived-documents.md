@@ -3,6 +3,8 @@ layout: docs
 title: Archived Documents 
 ---
 
+<a name="top"></a>
+
 # Archived Documents 
 You can archive purchase orders, estimates, jobsheets, and checklists, if you want to save a copy of a document for later use.
 
@@ -40,6 +42,8 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-archive-purchase-order2.png)
 
+
+[Go back to top](#top)
 
 <br>
 

@@ -3,6 +3,8 @@ layout: docs
 title: How to Group Document Lines
 ---
 
+<a name="top"></a>
+
 # How to Group Document Lines
 Grouping document lines is a feature available in the estimates, vehicle inspection estimates and jobsheets; this feature enables you to group the document lines under the same job or category. In this article, we will look at the various ways of grouping the lines.
 
@@ -43,6 +45,8 @@ The **Lines** section can also be used to add the document lines in a group:
 
     ![](media/garagehive-group-items5.gif)
 
+[Go back to top](#top)
+
 ### Creating group items from checklist attention lines
 While working from a vehicle inspection estimate, there are issues identified in the vehicle which require urgent attention. From these issues, you can create groups to enable you add items and labour. 
 
@@ -64,6 +68,8 @@ Then carry out the following steps from VIE:
 3. Once the groups have been created, add the necessary items and labour to the document lines and match the lines with the pre-created groups.
 4. Using the methods described above, match the lines to the groups.
 
+[Go back to top](#top)
+
 ### Creating groups by inserting service packages
 To create a group from a service package:
 1. Click **Look Up** and then select **Service Packages** from the document menu bar. The service packages available in the system can be fully priced or hold placeholder lines that you can edit based on your requirements, see [How to create service packages](garagehive-service-packages.html){:target="_blank"}.
@@ -71,6 +77,8 @@ To create a group from a service package:
 3. The service package is automatically added as a group.
 
     ![](media/garagehive-group-items8.gif)
+
+[Go back to top](#top)
 
 ### Print or preview the document
 To preview or print the document with the group names being the document headers:
@@ -83,6 +91,9 @@ To preview or print the document with the group names being the document headers
 4. In the **General** FastTab, select **Custom Grouping** option in the **Line Layout** Field. Press **Esc** to exit the page.
 
    ![](media/garagehive-group-items10.gif)
+
+
+[Go back to top](#top)
 
 <br>
 

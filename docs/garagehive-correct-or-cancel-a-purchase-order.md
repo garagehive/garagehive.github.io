@@ -3,6 +3,8 @@ layout: docs
 title: Correct or Cancel a Purchase Invoice
 ---
 
+<a name="top"></a>
+
 # Correct or Cancel a Purchase Invoice
 
 If you accidentally posted a purchase order for the incorrect amount or to the wrong Vendor, you can cancel it by following the steps below: 
@@ -32,6 +34,8 @@ If you accidentally posted a purchase order for the incorrect amount or to the w
 
 7. You'll need to create a new purchase order if it was posted incorrectly.
 
+
+[Go back to top](#top)
 
 ## See Also
 

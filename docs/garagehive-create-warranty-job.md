@@ -3,6 +3,8 @@ layout: docs
 title: How to Create Warranty Job in Garage Hive 
 ---
 
+<a name="top"></a>
+
 ## How to Create Warranty Job
 
 {% include tip.html title="Note" text="There are several other ways to create warranty job, but this is a common method." %}
@@ -37,3 +39,6 @@ Here is the process for creating a warranty job:
 7. Once you are done with the journal, select **Post/Print** from menu bar, and then **Post**.
 
       ![](media/garagehive-job-warranty4.png)
+
+
+[Go back to top](#top)

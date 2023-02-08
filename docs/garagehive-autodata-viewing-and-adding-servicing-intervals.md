@@ -3,6 +3,8 @@ layout: docs
 title: Viewing and Adding Servicing Intervals Data
 ---
 
+<a name="top"></a>
+
 # Viewing and Adding Servicing Intervals Data
 
 Servicing intervals are the number of months or miles between services for the vehicle, whichever comes first. The autodata integration provides most of the data required for vehicle servicing. To view and add the data:
@@ -26,6 +28,8 @@ Servicing intervals are the number of months or miles between services for the v
 
    ![](media/garagehive-autodata-service-intervals5.gif)
 
+
+[Go back to top](#top)
 
 ### **See Also**
 

@@ -3,6 +3,8 @@ layout: docs
 title: How to Create Purchase Orders in Garage Hive
 ---
 
+<a name="top"></a>
+
 # How to Create Purchase Orders in Garage Hive
 There are two ways to create a **Purchase Order** in Garage Hive:
 1. [Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
@@ -43,6 +45,8 @@ To create a purchase order directly from a Jobsheet:
 
 <br>
 
+[Go back to top](#top)
+
 **Option 2**
 1. When creating a purchase order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**.
 2. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
@@ -50,6 +54,8 @@ To create a purchase order directly from a Jobsheet:
 4. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
 
    ![](media/garagehive-creating-a-purchase-order10.gif)
+
+[Go back to top](#top)
 
 ### Creating a Purchase Order from the home screen
 This option is typically used only after the invoice has been received from the supplier. To create a Purchase Order from the home screen:
@@ -74,6 +80,8 @@ This option is typically used only after the invoice has been received from the 
 
    ![](media/garagehive-creating-a-purchase-order9.gif)
 
+[Go back to top](#top)
+
 ### Receive Items Without an Invoice
 When the items are received in the garage, without an invoice it is possible to first receive them in the system and then when you get an invoice you post them using the invoice. To receive the items first:
 1. Open the purchase order with the items to be received. 
@@ -96,7 +104,9 @@ When the items are received in the garage, without an invoice it is possible to 
 6. After receiving the invoice, select **Receive and Invoice** for all items or **Invoice** for items already received and click **OK**.
 
    ![](media/garagehive-posting-a-purchase-order5.png)
-   
+
+[Go back to top](#top)
+
 ### Undo Receipt on Received Items
 1. When you receive items from a Purchase Order but need to reverse the receipt. Open the Purchase Order with the items you've just received.
 2. In the menu bar, select **Navigate** and then **Receipts**.
@@ -111,6 +121,8 @@ When the items are received in the garage, without an invoice it is possible to 
 
    ![](media/garagehive-posting-a-purchase-order8.png)
 
+
+[Go back to top](#top)
 
 <br>
 

@@ -3,6 +3,8 @@ layout: docs
 title: Common Errors and Solution When using the Garage Hive System
 ---
 
+<a name="top"></a>
+
 ## Common Errors and Solutions When using the Garage Hive System
 In order to effectively use the Garage Hive system, it is important to familiarise yourself with the various procedures and steps required to complete specific tasks. Despite this, it is not uncommon for users to encounter alerts or warnings during the initial stages of using the software. These alerts may indicate that a task has not been properly executed or that there is an issue with the system that needs to be addressed. In this article, we will provide an overview of some of the most common errors and issues that users may encounter while using Garage Hive, as well as provide solutions for addressing and resolving these problems. By understanding these common issues, users can ensure a smooth and efficient experience when using the Garage Hive system.
 
@@ -27,6 +29,8 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
       **Solution** - This indicates that the selected item is not in stock, or that more items than are in stock have been signed out in Jobsheets. If the item is not in stock, you must order it from the supplier and add it into the system using a purchase order. If it is in stock, check to see if it has been signed out in other Jobsheets and remove it if it is no longer needed.'
 
+[Go back to top](#top)
+
 ###  Errors when posting a Purchase Order
    * **Error** - 'You need to enter the document number of the document from the vendor in the Vendor Invoice No. field, so that this document stays linked to the original.'
 
@@ -46,8 +50,4 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
       **Solution** - This indicates that you are posting a Purchase Order with a past Posting Date. You must update the **Posting Date** field to the current date.
 
-
-
-
-
-
+[Go back to top](#top)

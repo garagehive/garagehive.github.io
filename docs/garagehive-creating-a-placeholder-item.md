@@ -3,6 +3,8 @@ layout: docs
 title: Working with a Placeholder Item
 ---
 
+<a name="top"></a>
+
 ## Working with a Placeholder Item
 Placeholder Item is used when waiting on purchase invoice from the supplier; it enables you to add the items to the Estimates, Vehicle Inspection Estimates, Jobsheets, or Purchase Orders without the supplier's purchase invoice.
 
@@ -29,6 +31,8 @@ To create a placeholder item:
 
 ![](media/garagehive-placeholder-item2.gif)
 
+[Go back to top](#top)
+
 ### Add Placeholder Item in a document
 After creating a placeholder item, you can add it to a document for items you are yet to receive a purchase invoice. To add it in a jobsheet:
 1. Open the particular jobsheet and select **Item** from the **Type** column in the jobsheet lines. 
@@ -40,6 +44,8 @@ After creating a placeholder item, you can add it to a document for items you ar
 
 ![](media/garagehive-placeholder-item3.gif)
 
+[Go back to top](#top)
+
 ### Convert a Placeholder Item into an inventory item
 When you receive the purchase invoice from the supplier, convert the placeholder item to the item on the purchase invoice. To do this from the **Purchase Order**:
 1. Open the **Purchase Order** and replace the placeholder item **No** with the actual item **No.** from the vendor's purchase invoice.
@@ -47,6 +53,8 @@ When you receive the purchase invoice from the supplier, convert the placeholder
 3. On the next page, choose a template for the new item and click **OK**. The placeholder item **No.** will be replaced, but the description will stay.
 
    ![](media/garagehive-placeholder-item3a.gif)
+
+[Go back to top](#top)
 
 ### Convert a Placeholder Item to the Vendor Item Number
 Use this method when the **Vendor Item No.** field is prefilled using the external integration available in Garage Hive. To do this from the Purchase Order:
@@ -65,3 +73,6 @@ To convert the items in the **Jobsheet**:
 
 
 {% include tip.html title="Note" text="It is not possible to post a document with a Placeholder Item; it must be converted into an inventory item." %}
+
+
+[Go back to top](#top)

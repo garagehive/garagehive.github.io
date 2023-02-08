@@ -3,6 +3,8 @@ layout: docs
 title: How to Setup and Work With Checklists
 ---
 
+<a name="top"></a>
+
 # How to Setup and Work With Checklists
 Checklists allow you to create an inspection sheet/checklist for vehicle diagnosis, service, troubleshooting, and so on. A vehicle inspection is an example of a checklist. 
 
@@ -21,6 +23,8 @@ The following is the structure of a checklist:
 Here's an example of how a checklist looks when it's fully set up:
 
    ![](media/garagehive-checklist-setup1a.png)
+
+[Go back to top](#top)
 
 ### Checklist Templates
 A Checklist Template is considered the header of the Checklist. To view and create new **Checklist Templates** in your system:
@@ -41,6 +45,8 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 1. Each Checklist Template must have at least one **Checklist Template Item Group**. 
 
+[Go back to top](#top)
+
 ## Checklist Template Item Groups
 **Checklist Template Item Groups** are the groups of the list of questions in a checklist. They are grouped according to their purpose in a checklist, for example questions in a checklist concerning the tyres are grouped together, and so on.
 1. To create a new **Checklist Template Item Group**, select the **Checklist Template** you have created, and choose **Linked Item Groups** from the menu bar.
@@ -53,6 +59,8 @@ A Checklist Template is considered the header of the Checklist. To view and crea
    ![](media/garagehive-checklist-setup4.gif)
 
       {% include tip.html title="Note" text="Checklist Template Item Groups can be linked to multiple Checklist Template, for example a Tyre Checkist Item Group could belong in the Full Service Checklist Template and the Interim Service Checklist Template." %}
+
+[Go back to top](#top)
 
 ## Checklist Items
 **Checklist Items** are where you enter your checklist questions; a checklist item for example could be about tyres and could consist of a traffic light system and check boxes like the example below. 
@@ -104,6 +112,8 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
    ![](media/garagehive-checklist-setup8.gif)
 
+[Go back to top](#top)
+
 ### Setup to create a Checklist automatically
 Checklists can be set to be created automatically in response to a specific system trigger, as follows:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Template Selection**, and select the related link.
@@ -118,6 +128,8 @@ Checklists can be set to be created automatically in response to a specific syst
 
 5. This now allows you to automatically create Checklists based on the criteria you've specified.
 
+
+[Go back to top](#top)
 
 <br>
 

@@ -3,6 +3,8 @@ layout: docs
 title: How to Setup and Use Checklist Text Templates in Garage Hive
 ---
 
+<a name="top"></a>
+
 # How to Setup and Use Checklist Text Templates in Garage Hive
 
 The **Checklist Text Templates** feature allows you to pre-assign templates in checklist Item lines, which technicians can use to ensure consistency in reporting and increased efficiency. To setup the **Checklist Text Templates**:
@@ -38,6 +40,8 @@ The **Checklist Text Templates** feature allows you to pre-assign templates in c
 
       ![](media/garagehive-checklist-text-templates6.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

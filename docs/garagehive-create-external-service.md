@@ -3,6 +3,8 @@ layout: docs
 title: Create an External Service
 ---
 
+<a name="top"></a>
+
 # Creating an External Service
 
 If you are receiving a service from an external service provider and you want the charge to be passed on to your customer, you can charge this out by creating an **External Service**:
@@ -22,3 +24,6 @@ If you are receiving a service from an external service provider and you want th
 <br>
 
 {% include tip.html title="Note" text="Unlike Parts, External Services can be invoiced out to a customer before receiving a purchase invoice; this is because you may not have received the invoice from the External Service Provider when you invoice the Jobsheet to the customer." %}
+
+
+[Go back to top](#top)

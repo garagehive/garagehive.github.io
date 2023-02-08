@@ -3,6 +3,8 @@ layout: docs
 title: Creating a booking from the Schedule
 ---
 
+<a name="top"></a>
+
 # Creating a booking from the Schedule
 To create a booking from the schedule:
 1. Open the schedule from the **Role Centre**, and then choose the relevant day for the booking in the **Start Date** field. Press the **Tab** key.
@@ -27,6 +29,8 @@ To create a booking from the schedule:
 
    ![](media/garagehive-create-a-booking5.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

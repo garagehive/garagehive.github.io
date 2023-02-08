@@ -3,6 +3,8 @@ layout: docs
 title: Creating End of Day Customer Payments/Till Report
 ---
 
+<a name="top"></a>
+
 # Creating End of Day Customer Payments/Till Report
 
 End of day customer payments/till report summarises the amount of money collected from each customer and the total amount collected for the day; this helps you as a business owner know the cash inflow to the business for the day.
@@ -18,3 +20,6 @@ To create the report:
 3. From the pop up window that appears, click on **Preview & Close** to preview the report.
 
 ![](media/garagehive-customer-payments-report2.gif)
+
+
+[Go back to top](#top)

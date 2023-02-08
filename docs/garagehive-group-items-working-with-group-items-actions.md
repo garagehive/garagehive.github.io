@@ -3,6 +3,8 @@ layout: docs
 title: Working With Group Items Actions
 ---
 
+<a name="top"></a>
+
 # Working With Group Items Actions
 When it comes to using online documents, the group items feature is very important to understand how it works. We've created several actions to help you work around the group item feature in various documents, and we'll walk you through them.
 
@@ -68,6 +70,8 @@ This action is available in vehicle inspection estimates and allows you to add v
 
    ![](media/garagehive-group-actions6.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

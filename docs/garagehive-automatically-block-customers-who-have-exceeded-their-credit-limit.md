@@ -3,6 +3,8 @@ layout: docs
 title: How to Automatically Block Customers Who Have Exceeded Their Credit Limit
 ---
 
+<a name="top"></a>
+
 ### How to Automatically Block Customers Who Have Exceeded Their Credit Limit
 Automatically blocking customers who have exceeded their credit limit ensures that no documents are created or posted for them until the balance owed goes below the credit limit set. Here's how to set up automatic customer blocking:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Sales & receivables Setup**, and select the related link.
@@ -18,3 +20,6 @@ Automatically blocking customers who have exceeded their credit limit ensures th
    ![](media/garagehive-automatic-blocking-customers3.png)
 
 4. In **User Management** page, you can control which users can change credit limits and unblock customers. For more information, click [here](garagehive-user-management.html#enabling-data-permissions-for-a-user).
+
+
+[Go back to top](#top)

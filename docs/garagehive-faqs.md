@@ -20,6 +20,7 @@ This article answers some common questions that you might have about the functio
 10. [Can I set up specific markups or margins on parts&#63;](#can-i-set-up-specific-markups-or-margins-on-parts)
 11. [Can I split a Jobsheet&#63;](#can-i-split-a-jobsheet)
 12. [How can I see ahead of time when the Garage is busy and when it is free in Garage Hive&#63;](#howcan-i-see-ahead-of-time-when-the-garage-is-busy-and-when-it-is-free-in-garage-hive)
+13. [Would Garage Hive be accessible offline if the Garage Hive servers went down&#63;](#would-garage-hive-be-accessible-offline-if-the-garage-hive-servers-went-down)
 
 #### How easy is it to make a booking?
 
@@ -147,6 +148,9 @@ Garage Hive helps you manage your workshop by allocating time slots in the sched
 See the article link below for more information.
 
 > [Understanding the Schedule.](/docs/garagehive-understanding-the-schedule.html "Understanding the Schedule")
+
+#### Would Garage Hive be accessible offline if the Garage Hive servers went down?
+Garage Hive does not have an offline mode. If Microsoft's servers (where the Garage Hive system is hosted) went down, which is extremely unlikely, I'm afraid you'd have to rely on pen and paper until service is restored; but Microsoft has an uptime of 99.99+%. Cloud software is used by millions of small businesses around the world.
 
 
 [Go back to top](#top)

@@ -3,6 +3,8 @@ layout: docs
 title: How to Use Advance Tyre Lookup Feature in Garage Hive
 ---
 
+<a name="top"></a>
+
 # How to Use Advance Tyre Lookup Feature in Garage Hive
 
 The **Advanced Tyre Lookup** feature in Garage Hive enables the availability of a list of stock tyres in the system from tyre vendors/suppliers. This allows garages that trade in tyres to look up tyres in the system when they need to buy new tyres for selling.
@@ -15,3 +17,5 @@ To use this feature, you should first import a tyre stock file from the supplier
 
 ![](media/garagehive-advanced-tyre-lookup1.gif)
 
+
+[Go back to top](#top)

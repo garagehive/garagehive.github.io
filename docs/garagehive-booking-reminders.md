@@ -3,6 +3,8 @@ layout: docs
 title: How to Setup Booking Reminders Notification in Garage Hive
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [How to set up booking reminders](#how-to-set-up-booking-reminders)
 2. [Writing a message template](#writing-a-message-template)
@@ -47,6 +49,8 @@ To set up the booking reminder:
 
    ![](media/garagehive-booking-reminder6.png)
 
+[Go back to top](#top)
+
 ### Writing a message template
 After setting up the details above, it's time to create the message that will be sent to the customer. To add a message template, follow the steps below:
 1. You can either send a message via the email or the SMS or both. There are two sections to set up the messages for SMS and email.
@@ -64,11 +68,15 @@ After setting up the details above, it's time to create the message that will be
 
    ![](media/garagehive-booking-reminder7.gif)
 
+[Go back to top](#top)
+
 ### Previewing and verifying message template
 To see a preview of the messages you've added:
 1. Enable the **Send SMS** and **Send Email** sliders and choose a **Vehicle No.** and **Customer No.** from which you can use the information as a sample. If you are satisfied with the message, click **Yes** for SMS and **OK** for email.
 
    ![](media/garagehive-booking-reminder8.gif)
+
+[Go back to top](#top)
 
 ### Enabling notification and setting recurrence
 Scroll down to the **Recurrence** FastTab and select the slider on the days when you want the notification to be sent.
@@ -76,11 +84,15 @@ Then, from the **General** FastTab, enable the notification to make it operation
 
    ![](media/garagehive-booking-reminder9.gif)
 
+[Go back to top](#top)
+
 ### Viewing sent notifications
 To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, and enter **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
 
 ![](media/garagehive-booking-reminder10.gif)
 
+
+[Go back to top](#top)
 
 <br>
 

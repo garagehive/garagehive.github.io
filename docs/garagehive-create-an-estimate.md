@@ -3,6 +3,8 @@ layout: docs
 title: Creating an Estimate
 ---
 
+<a name="top"></a>
+
 # Creating an Estimate 
 To create a new Estimate:
 1. Select **Estimates** in the Home Screen, and then choose **New.**
@@ -64,3 +66,6 @@ To Select partial lines from the estimate to add to an open Jobsheet:
 2. Then, select **Process** from menu bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
 
    ![](media/garagehive-create-an-estimate8.gif)
+
+
+[Go back to top](#top)

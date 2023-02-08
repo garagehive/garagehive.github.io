@@ -3,6 +3,8 @@ layout: docs
 title: Set Up of the Cues and Actions Tiles on the Role Centre
 ---
 
+<a name="top"></a>
+
 # Set Up of the Cues and Actions Tiles on the Role Centre
 You can set up the **Cues and Actions Tiles** that appear on the Role Centre to include an indicator that changes colour based on the data values in the Cues. To do this:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Cue Setup**, and then select the related link.
@@ -42,3 +44,5 @@ You can set up the **Cues and Actions Tiles** that appear on the Role Centre to 
 
       ![](media/garagehive-cue-setup3.gif)
 
+
+[Go back to top](#top)

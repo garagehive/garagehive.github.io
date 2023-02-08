@@ -3,6 +3,8 @@ layout: docs
 title: How to Use Comments in Garage Hive
 ---
 
+<a name="top"></a>
+
 # In this article
 1. [Adding Comments in a Document](#adding-comments-in-a-document)
 2. [How to Use Extended Comments](#how-to-use-extended-comments)
@@ -39,12 +41,16 @@ To add a new comment in a document:
 
    ![](media/garagehive-comment-phone-input.png)
 
+[Go back to top](#top)
+
 ### How to Use Extended Comments
 **Comment (Extended)** is a function in Garage Hive that enables you to write comments which are longer and with more details. This function is available on all documents, can be printed in documents and has the possibility of hiding from the technicians.
 
 Under the **Comments** subpage, clicking on the **Comment(extended)** field will open a pop-out window that can be made full screen and allows you to type as much text as you want. When you move your cursor over the **Comment (extended)** field, a pop-up preview of the full comment appears. 
 
    ![](media/garagehive-comments2.gif)
+
+[Go back to top](#top)
 
 ### Creating Standard Comments
 You can also have standard comments that can be used multiple times. This helps to ensure consistency and makes it easier to remember what to write. Here's how to create a standard comment:
@@ -61,6 +67,8 @@ You can also have standard comments that can be used multiple times. This helps 
 
    ![](media/garagehive-comments5.gif)
 
+[Go back to top](#top)
+
 ### Adding Comments in a Card
 To add a new comment in card, for example a **Customer Card**:
 1. Open the **Customer Card**, then select **Customer** and then **Comments** from the menu bar.
@@ -71,6 +79,8 @@ To add a new comment in card, for example a **Customer Card**:
 3. When adding the customer in a new **Jobsheet** the comment will pop-up before editing the document.
 
    ![](media/garagehive-comments8.gif)
+
+[Go back to top](#top)
 
 ### Adding Predefined Comments
 **Predefined Comments** can be added using **Service Types** or **Service Packages**, which means that when a Service Type or a Service Package is added to the Jobsheet, Estimate or VIE, the predefined comments are automatically added in the **Comments** sub-page. To add predefined comments:
@@ -100,6 +110,8 @@ To add a new comment in card, for example a **Customer Card**:
 
    ![](media/garagehive-comments13.png)
 
+
+[Go back to top](#top)
 
 <br>
 

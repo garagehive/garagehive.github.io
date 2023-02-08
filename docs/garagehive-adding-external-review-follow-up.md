@@ -3,6 +3,8 @@ layout: docs
 title: Adding External Review Follow-up on Customer Surveys
 ---
 
+<a name="top"></a>
+
 # Adding External Review Follow-up on Customer Surveys
 Including an external review follow-up in a customer survey allows the garage to further engage customers who rate the business with a higher NPS score and are satisfied with the services to leave a review on your preferred external platform. At the end, you will increase your rating with better reviews.
 
@@ -26,6 +28,8 @@ Including an external review follow-up in a customer survey allows the garage to
 
 6. The setup is now completed, and you can close the page.
 
+[Go back to top](#top)
+
 ### External Review Follow Up Setup for Multi Location
 1. When you have multiple locations for your business and need a different review platform and link for each, follow the steps above for setting up a single location, but the only field that is required is the **Min. NPS Question Value**. You can leave the **Review Platform Name** and **Review Link** fields blank.
 2. Choose the ![](media/search_icon.png) icon, enter **Locations**, and select the related link.
@@ -40,8 +44,12 @@ Including an external review follow-up in a customer survey allows the garage to
 
 {% include tip.html title="Note" text="If the review link is the same for all locations, there is no need to add a review link in the location card. Use the setup for a single location." %}
 
+[Go back to top](#top)
+
 ### How the External Review Link Appears to the Customer
 When the **External Review Follow Up Setup** is complete, the customer will have the option of reviewing your business after completing the **Net Promoter Score** survey, and the link will appear as follows.
 
    ![](media/garagehive-external-review-follow-up5.png)
 
+
+[Go back to top](#top)
