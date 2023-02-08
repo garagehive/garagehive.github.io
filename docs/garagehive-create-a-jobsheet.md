@@ -134,7 +134,6 @@ Transferring lines to an Estimate is a feature available in a Jobsheet that allo
 
 [Go back to top](#top)
 
-<br>
 
 ### **See Also**
 
