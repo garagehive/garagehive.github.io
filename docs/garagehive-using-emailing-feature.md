@@ -3,6 +3,8 @@ layout: docs
 title: Setting Up and Using Emailing Feature in Garage Hive 
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [Email setup](#email-setup)
    - [Microsoft office 365 email account setup](#microsoft-office-365-email-account-setup)
@@ -10,6 +12,7 @@ title: Setting Up and Using Emailing Feature in Garage Hive
 2. [Using the emailing feature](#using-the-emailing-feature)
 3. [Accessing email outbox](#accessing-email-outbox)
 4. [Accessing sent emails](#accessing-sent-emails)
+5. [Track the Number of Sent Posted Document](#track-the-number-of-sent-posted-document)
 
 ### Email setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
@@ -22,6 +25,8 @@ If your system does not have an email setup, you must do the setup before using 
 4. The email setup uses the **SMTP** account type. We'll go over how to set up a **Microsoft Office 365** email account and a **Gmail** email account. To get to the setup you require, click on any of the links below.
    - [Microsoft office 365 email account setup](#microsoft-office-365-email-account-setup)
    - [Gmail email account setup](#gmail-email-account-setup)
+
+[Go back to top](#top)
 
 #### Microsoft office 365 email account setup
 There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
@@ -61,6 +66,7 @@ There are two options for setting up the **Microsoft Office 365 email account**,
 
      ![](media/garagehive-email-setup8.png)
 
+[Go back to top](#top)
 
 #### Gmail email account setup
 To set up a **Gmail email account:**
@@ -82,6 +88,8 @@ To set up a **Gmail email account:**
 1. Select **Finish** to add the email.
 
    ![](media/garagehive-email-setup7.png)
+
+[Go back to top](#top)
 
 ### Using the emailing feature
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
@@ -123,6 +131,8 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
    ![](media/garagehive-email-feature10a.gif)
 
+[Go back to top](#top)
+
 ### Accessing email outbox
 To access the draft emails in the outbox:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Email Outbox**, and select the related link.
@@ -130,6 +140,7 @@ To access the draft emails in the outbox:
 
    ![](media/garagehive-email-feature12.gif)
 
+[Go back to top](#top)
 
 ### Accessing sent emails
 To access the sent emails in the system:
@@ -139,3 +150,25 @@ To access the sent emails in the system:
 
    ![](media/garagehive-email-feature13.gif)
 
+[Go back to top](#top)
+
+### Track the Number of Sent Posted Document
+You can keep track of how many copies of a posted document were sent via email. This is how you do it:
+1. Open the posted document you want to check from the **Posted & Archived Documents** menu in the Role Centre, such as **Posted Jobsheet** and **Posted Sales Invoice**.
+
+   ![](media/garagehive-email-feature14.png)
+
+2. Scroll down to the **Details** FastTab in the document you've chosen (click **Show More** to see all the fields). 
+
+   ![](media/garagehive-email-feature15.png)
+
+3. The **No. of Emailed Documents** field indicates how many copies of that document have been emailed.
+
+   ![](media/garagehive-email-feature16.png)
+
+4. When you click on the number in the **No. of Emailed Documents** field, the **Communication Log Entries** for that document open, and you can view the customer to whom the document was sent, who sent it, and so on.
+
+   ![](media/garagehive-email-feature17.png)
+
+
+[Go back to top](#top)
