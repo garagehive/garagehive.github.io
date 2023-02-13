@@ -42,6 +42,10 @@ To create a purchase order directly from a Jobsheet:
 
    ![](media/garagehive-parcel-icon-jobsheet-line1.png)
 
+1. Click on the parcel icon, to open the **Posted Purchase Receipt** of the part.
+
+   ![](media/garagehive-parcel-icon-jobsheet-line2.gif)
+
 1. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
 1. Delete the lines from the previously created purchase order(s).
 
