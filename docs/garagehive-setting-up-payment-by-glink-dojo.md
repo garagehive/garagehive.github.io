@@ -1,15 +1,15 @@
 ---
 layout: docs
-title: Setting Up Payment by GLink (Garage Link) in Garage Hive
+title: Setting Up Payment by Garage Link for Dojo in Garage Hive
 ---
 
 ## In this article
-1. [Setting Up Payment by Garage Link in Garage Hive](#setting-up-payment-by-garage-link-in-garage-hive)
+1. [Setting Up Payment by Garage Link for Dojo in Garage Hive](#setting-up-payment-by-garage-link-for-dojo-in-garage-hive)
 2. [Testing the garage link setup](#testing-the-garage-link-setup)
 
 
-### Setting Up Payment by Garage Link in Garage Hive
-Garage Link is a payment gateway that is used for online payments. To setup payment by **Garage Link**:
+### Setting Up Payment by Garage Link for Dojo in Garage Hive
+Garage Link for Dojo is a payment gateway that is used for online payments. To setup payment by **Garage Link**:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Payment Gateways**, and select the related link.
 1. Select **New** from the **Payment Gateways** page to add a new payment method.
 
@@ -20,7 +20,7 @@ Garage Link is a payment gateway that is used for online payments. To setup paym
    
    ![](media/garagehive-payment-gateways2.gif)
 
-1. Open the email with the subject **Set Up Online Checkout** that was sent to you as a **GLink** customer, and then **Login** to your account. 
+1. Open the email with the subject **Set Up Online Checkout** that was sent to you as a **Dojo** customer, and then **Login** to your account. 
 
    ![](media/garagehive-payment-gateways3.png)
 

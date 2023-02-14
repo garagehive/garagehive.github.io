@@ -411,11 +411,11 @@
     - name: How to Import Your Exported Data Into Sage Accounting
       url: /docs/garagehive-import-exported-data-to-sage-accounting.html
     - name: Setting Up Payment by GLink
-      url: /docs/garagehive-setting-up-payment-by-glink.html
+      url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
     - name: Setting Up Payment by Card Terminal
       url: /docs/garagehive-setting-up-payment-by-card-terminal.html
     - name: Setting Up Payment by Pay360
-      url: /docs/garagehive-setting-up-payment-by-pay360.html
+      url: /docs/garagehive-setting-up-payment-by-glink-pay360.html
     - name: Generating Paymentsense Card Machine Reports
       url: /docs/garagehive-paymentsense-card-machine-x-and-z-report.html
     - name: How to Set Card Terminal Into Integration Mode
