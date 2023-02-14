@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: Setting Up Payment by Pay360
+title: Setting Up Payment by Garage Link for Pay360 in Garage Hive
 ---
 
-# Setting Up Payment by Pay360
-**Pay360** is an online payment service that has been integrated with Garage Hive to assist Garages that use this service in connecting their accounts to Garage Hive for a more efficient and faster payment process.
+# Setting Up Payment by Garage Link for Pay360 in Garage Hive
+Garage Link for **Pay360** is an online payment service that has been integrated with Garage Hive to assist Garages that use this service in connecting their accounts to Garage Hive for a more efficient and faster payment process.
 
 ## In this article
 1. [Creating an Account with Pay360](#creating-an-account-with-pay360)
