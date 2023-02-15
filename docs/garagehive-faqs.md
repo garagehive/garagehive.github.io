@@ -21,6 +21,7 @@ This article answers some common questions that you might have about the functio
 11. [Can I split a Jobsheet&#63;](#can-i-split-a-jobsheet)
 12. [How can I see ahead of time when the Garage is busy and when it is free in Garage Hive&#63;](#howcan-i-see-ahead-of-time-when-the-garage-is-busy-and-when-it-is-free-in-garage-hive)
 13. [Would Garage Hive be accessible offline if the Garage Hive servers went down&#63;](#would-garage-hive-be-accessible-offline-if-the-garage-hive-servers-went-down)
+14. [Does Garage Hive calculate VAT on a cash or accrual basis&#63;](#does-garage-hive-calculate-vat-on-a-cash-or-accrual-basis)
 
 #### How easy is it to make a booking?
 
@@ -149,8 +150,23 @@ See the article link below for more information.
 
 > [Understanding the Schedule.](/docs/garagehive-understanding-the-schedule.html "Understanding the Schedule")
 
+[Go back to top](#top)
+
 #### Would Garage Hive be accessible offline if the Garage Hive servers went down?
 Garage Hive does not have an offline mode. If Microsoft's servers (where the Garage Hive system is hosted) went down, which is extremely unlikely, I'm afraid you'd have to rely on pen and paper until service is restored; but Microsoft has an uptime of 99.99+%. Cloud software is used by millions of small businesses around the world.
+
+[Go back to top](#top)
+
+#### Does Garage Hive calculate VAT on a cash or accrual basis?
+There are two methods for calculating VAT, cash and accrual: 
+   * With cash, you pay VAT based on payment you receive and claim it back from the payment you make within the VAT period, you can only claim or pay VAT once payments are made either way.
+   * With Accrual, VAT is calculated at the point that invoices are raised regardless of when payments are made. 
+
+Accrual is typically preferred for garages because a garage will owe more to its suppliers than it owes to its customers, allowing you to claim VAT on purchases in advance of payment for the goods, which is good for cash flow.
+
+Because Garage Hive is built on Microsoft Dynamics, it only calculates VAT on an accrual basis, even when exporting to external accounting systems. So a business onboarding with Garage Hive that uses cash accounting would need to switch to accrual.
+
+You can switch from cash to accrual at any time without notifying HMRC, but you must report and pay any outstanding VAT (whether your customers have paid you or not). You have 6 months to report and pay any outstanding VAT, ([Source](https://www.gov.uk/vat-cash-accounting-scheme/join-or-leave-the-scheme)).
 
 
 [Go back to top](#top)
