@@ -2,6 +2,7 @@
 layout: docs
 title: What's New in Garage Hive
 ---
+
 # What's new?
 Below is a list of Garage Hive developments:
 
