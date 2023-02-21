@@ -5,6 +5,14 @@ title: What's New in Garage Hive
 # What's new?
 Below is a list of Garage Hive developments:
 
+### 20th February 2023
+* **MOT History** view refinements: all MOT failures and advisories are now grouped together and sorted by type.
+* The Role Centre now has a **Support Menu** that provides users with a link to the docs site, a link to send a question directly to the support team, and a link to record an issue via screen record or audio.
+
+   ![](media/garagehive-support-menu.png)
+
+* **Standard Events** are now excluded from available schedule hours. This now allows the user to see the actual time that is available for booking.
+
 ### 6th February 2023
 * Added the **Begins With** filter to **Engine Model Codes** Service Package conditions, which filters out certain engine codes that begin with the specified code, [read more](service-package-conditions.html).
 * Added the ability to set the vehicle's age service package condition based on the vehicle's first registration date rather than the production year, [read more](service-package-conditions.html).
