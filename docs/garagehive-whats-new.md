@@ -12,7 +12,7 @@ Below is a list of Garage Hive developments:
 
    ![](media/garagehive-support-menu.png)
 
-* **Standard Events** are now excluded from available schedule hours. This now allows the user to see the actual time that is available for booking.
+* **Standard Events** are now excluded from the schedule's available hours. This now allows the user to see the actual time that is available for booking.
 
 ### 6th February 2023
 * Added the **Begins With** filter to **Engine Model Codes** Service Package conditions, which filters out certain engine codes that begin with the specified code, [read more](service-package-conditions.html).
