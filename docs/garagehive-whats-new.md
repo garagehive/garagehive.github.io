@@ -4,7 +4,7 @@ title: What's New in Garage Hive
 ---
 
 # What's new?
-Below is a list of Garage Hive developments:
+The following is a list of all new Garage Hive features and updates:
 
 ### 20th February 2023
 * **MOT History** view refinements: all MOT failures and advisories are now grouped together and sorted by type.
