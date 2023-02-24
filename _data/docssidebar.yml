@@ -129,10 +129,12 @@
       url: /docs/garagehive-create-a-jobsheet.html
     - name: Creating a Jobsheet from Various Places in Garage Hive
       url: /docs/garagehive-jobsheet-create-from-various-places.html
-    - name: Scheduling Work 
+    - name: Using the Service Schedule 
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Adding New Options in the Schedule Allocation Menu
       url: /docs/garagehive-adding-options-in-schedule-allocation-menu.html
+    - name: How to Setup the Service Schedule
+      url: /docs/garagehive-setup-the-service-schedule.html 
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
     - name: Take Payment for Posted Documents
