@@ -12,7 +12,7 @@ title: Setting Up and Using Emailing Feature in Garage Hive
 2. [Using the emailing feature](#using-the-emailing-feature)
 3. [Accessing email outbox](#accessing-email-outbox)
 4. [Accessing sent emails](#accessing-sent-emails)
-5. [Track the Number of Sent Posted Document](#track-the-number-of-sent-posted-document)
+5. [View email logs for posted documents](#view-email-logs-for-posted-documents)
 
 ### Email setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
@@ -152,7 +152,7 @@ To access the sent emails in the system:
 
 [Go back to top](#top)
 
-### Track the Number of Sent Posted Document
+### View email logs for posted documents
 You can keep track of how many copies of a posted document were sent via email. This is how you do it:
 1. Open the posted document you want to check from the **Posted & Archived Documents** menu in the Role Centre, such as **Posted Jobsheet** and **Posted Sales Invoice**.
 

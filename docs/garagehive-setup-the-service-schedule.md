@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Setup the Service Schedule
+title: How to Setup the Service Schedule
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 ## How to Setup the Service Schedule
 The service schedule can be set up on the **Service Schedule Setup** page. To get to this page, choose the ![](media/search_icon.png) icon in the top right corner, enter **Service Schedule Setup**, and select the related link.
