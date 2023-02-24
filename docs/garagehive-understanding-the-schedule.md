@@ -15,9 +15,10 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 6. [Adding resources calender changes](#adding-resources-calender-changes)
 7. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
 8. [Adding a standard event](#adding-a-standard-event)
-9. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-10. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
-11. [Adding an allocation type](#adding-an-allocation-type)
+9. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
+10. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
+11. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
+12. [Adding an allocation type](#adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -135,7 +136,6 @@ The schedule statistical information summarizes the resources capacity, remainin
 
 ![](media/garagehive-understanding-the-schedule-statistics1.gif)
 
-
 ### Adding a standard event
 A standard event is an allocation not related to a jobsheet but adds other considerations about the resources, such as a sick off, etc. To add a standard event:
 1. Click and drag in the booking slot along the resource to allocate.
@@ -145,6 +145,21 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 5. Add a **Comment** about the standard event and click **Ok**; this reduces the available hours and ensures that the resource is accurately booked.
 
     ![](media/garagehive-understanding-the-schedule-standard-event1.gif)
+
+### How to exclude some standard events when calculating available hours
+1. The schedule's available hours are shown in the header. They show the currently available hours after subtracting the total scheduled hours.
+
+   ![](media/garagehive-understanding-the-schedule-exclude-standard-event1.png)
+
+2. When you add a standard event, you can choose whether to exclude it or include it in the available hours calculation. To do so, select the ![](media/search_icon.png) icon in the top right corner, enter **Service Standard Events**, and click the related link.
+
+   ![](media/garagehive-understanding-the-schedule-exclude-standard-event2.png)
+
+3. Select the checkbox in the column **Exclude From Available Hours** for the standard events that you want to exclude from the calculation of available hours. To make the page editable, select **Edit List**.
+
+   ![](media/garagehive-understanding-the-schedule-exclude-standard-event3.png)
+
+4. The selected standard events will now be excluded from the Service Schedule's calculation of available hours.
 
 ### Understanding the emojis in an allocation
 The emojis are used in the allocations to visually help the service advisor and technicians understand status and requirements of the job. Here are some of the most commonly used emojis: <br>
@@ -160,7 +175,6 @@ The emojis are used in the allocations to visually help the service advisor and 
 * £ This indicates the amount including VAT. <br>
 * ⚓ This indicates that the vehicle has been assigned a parking location code. <br>
 * 🤷 or 🙋‍♀️ This indicates that the customer is waiting.
-
 
 ### Using the search function in the schedule
 When there are many bookings in the schedule, it becomes harder to find an allocation that you are looking for easily. The search function helps you overcome this challenge by enabling you to search for an allocation using the customer name, vehicle registration No., vehicle make or model, or the jobsheet No.:
