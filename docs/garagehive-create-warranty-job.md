@@ -31,7 +31,7 @@ Here is the process for creating a warranty job:
 
 6. The Accounts department will now perform the **Customer/Vendor Balancing Payments (also known as Contra Payments)**. For this posting, the accounts will post the two journals as follows:   
       - **Line 1 - Customer:** choose **Document Type** as **Payment**, enter the Credit Note No. as the **Document No.**, select the customer as the name of the vendor billed in the Jobsheet, select **Applies-To-Doc-No.** as the vendor's Jobsheet posted for the vendor, enter a negative value in the **Amount** field and assign to **GL Account 2998** Suspense Account.
-      - **Line 2 - Vendor:** choose **Document Type** as **Credit Memo**, enter the Credit Note No. as the **Document No.**, select the vendor name as the vendor you have received the credit note from, enter a positive value in the **Amount** field, use the Credit Note No. as the **Document No.**, and select the **Applies-To-Doc-No.** as the purchase invoice that you received the items you fitted in the customer's vehicle.
+      - **Line 2 - Vendor:** choose **Document Type** as **Credit Memo**, enter the Credit Note No. as the **Document No.**, select the vendor name as the vendor you have received the credit note from, enter a positive value in the **Amount** field, select the **Applies-To-Doc-No.** as the purchase invoice that you received the items you fitted in the customer's vehicle and assign to **GL Account 2998**.
 
          ![](media/garagehive-job-warranty3.png)
    
