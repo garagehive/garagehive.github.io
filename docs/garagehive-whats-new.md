@@ -6,6 +6,9 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 2nd March 2023
+* **MOT Data Trends** have been added to the **Garage Industry Trends** website. MOT Data Trends is a comprehensive set of reports that analyses 200 million lines of data over three years for MOT failures and item failures by make, model, year, fuel type, item failure, region, and much more. [MOT Data Trends](https://www.garageindustrytrends.com/mot) has been added to the Garage Industry Trends website, which demonstrates some of the reports and is mobile-friendly. If you are on a desktop/laptop you can click on [this link](https://app.powerbi.com/view?r=eyJrIjoiMjM5NDRiMWItNzQ4MS00N2U1LWJhMzUtYTMwMjEzYmE1NTA4IiwidCI6IjFiZGU4OWFkLWI0Y2UtNDVkZi1hOTE5LWUxZTA4ZTQ3Mjk0ZCIsImMiOjh9&fbclid=IwAR2jWj9P0ctEUWa46lIDQlfcLYjzTgWFjwnMksYB9B4IMf6mzBr-tOk2iSE) to just skip directly to the Power BI reports.
+
 ### 20th February 2023
 * **MOT History** view refinements: all MOT failures and advisories are now grouped together and sorted by type.
 * The Role Centre now has a **Support Menu** that provides users with a link to the docs site, a link to send a question directly to the support team, and a link to record an issue via screen record or audio.
