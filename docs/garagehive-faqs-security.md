@@ -1,10 +1,7 @@
 ---
 layout: docs
-title: Draft* - Security, Privacy and Compliance FAQs
+title: Security, Privacy and Compliance FAQs
 ---
-
-### We are still working on this article!
-We are currently reviewing this article before it is published; please check back later.
 
 <a name="top"></a>
 
@@ -26,7 +23,7 @@ This article answers some common questions that you might have about the securit
 #### What security is in place to protect our database?
 Data is stored in Microsoft Azure SQL service within the Microsoft Azure UK South (London) data centre.
 
-Microsoft is ensuring that world class data protection measures are in place that include secure network infrastructure, secure hardware infrastructure, and secure testing.
+Microsoft is ensuring that world-class data protection measures are in place that include secure network infrastructure, secure hardware infrastructure, and security testing.
 
 For more information on Microsoft's security, click on the link below.
 
@@ -43,7 +40,7 @@ Garage Hive is built on Microsoft Dynamics 365 Business Central which is a Web-B
 Yes your database can be restored from a backup. Backups are made continuously with up to 35 days of point-in-time to restore capability.
 
 #### Who would have access to our backed up data?
-Garage Hive system administrators.
+Garage Hive system administrators have access to the data.
 
 [Go back to top](#top)
 
@@ -64,12 +61,12 @@ There is one backup for all sites combined.
 [Go back to top](#top)
 
 #### If a site loses its internet access what effect would it have on our Garage Hive system?
-If you loose internet connection your data is safe, we recommend that you have a back up internet connection e.g. a 4g dongle so that you can always access your data.
+If you lose internet connection your data is safe, we recommend that you have a backup internet connection e.g. a 4G/5G dongle so that you can always access your data.
 
 [Go back to top](#top)
 
 #### Can we log into all sites remotely?
-Yes Garage Hive is cloud based so it can be access anywhere with an internet connection.
+Yes Garage Hive is cloud based, so it can be accessed from anywhere with an internet connection.
 
 [Go back to top](#top)
 
