@@ -17,7 +17,6 @@ This article answers some common questions that you might have about the securit
 7. [Would each site have its own backup or would the backup be for all sites combined&#63;](#would-each-site-have-its-own-backup-or-would-the-backup-be-for-all-sites-combined)
 8. [If a site loses its internet access what effect would it have on our Garage Hive system&#63;](#if-a-site-loses-its-internet-access-what-effect-would-it-have-on-our-garage-hive-system)
 9. [Can we log into all sites remotely&#63;](#can-we-log-into-all-sites-remotely)
-10. [Can all our customer history be imported into Garage Hive from our GA4 invoicing system&#63;](#can-all-our-customer-history-be-imported-into-garage-hive-from-our-ga4-invoicing-system)
 
 
 #### What security is in place to protect our database?
@@ -67,11 +66,6 @@ If you lose internet connection your data is safe, we recommend that you have a 
 
 #### Can we log into all sites remotely?
 Yes Garage Hive is cloud based, so it can be accessed from anywhere with an internet connection.
-
-[Go back to top](#top)
-
-#### Can all our customer history be imported into Garage Hive from our current system?
-Yes, we can import any data that’s provided to us in Excel format.
 
 
 [Go back to top](#top)
