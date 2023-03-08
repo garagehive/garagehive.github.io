@@ -87,6 +87,15 @@ To start using the **Gearbox Sales** module, there is some setup required in the
 17. Exit the **Item Categories** page, and enter the **Item Category Code** that you have just created, in the **Template Item Category Code**.
 
    ![](media/garagehive-gearbox-sales-setup16.gif)
-   
+
+18. Scroll down to the **Number Series** FastTab and create a new number series for the **Gearboxes** in the **Gearbox Item Nos.** field. Select **New** on the **No. Series List** page, enter **Code** as **GEARBOXES**, and **Description** as **GEARBOXES**.
+19. Click on the **Starting number** field and enter the **Starting Date** as today's date and the **Starting Number** as **00001**. To add the number series, click the **Close** and **OK** buttons.
+
+   ![](media/garagehive-gearbox-sales-setup17.gif)
+
+20. Scroll up to the **General** FastTab and select the **Enable** slider to enable the setup in the system.
+
+   ![](media/garagehive-gearbox-sales-setup18.png)
+
 
 [Go back to top](#top)
