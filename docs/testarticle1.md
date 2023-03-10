@@ -107,8 +107,28 @@ To clean up the Estimates:
 4. Examine why all of the Estimates in the filtered list have not been completed.
 
 ### User Tasks
+To clean up the User Tasks:
+1. From the Role Centre, click on the **Raised by Me Due** tile under the **User Tasks** to open the list of User Tasks that have been created.
 
+   ![](media/garagehive-system-audit18.png)
 
+2. Select the filter icon on the right of the menu bar to reveal the **filter** panel.
+
+   ![](media/garagehive-system-audit19.png)
+
+3. Remove the **Created by** filter to see all tasks created. Check why the tasks have not yet been completed and follow through to ensure they are complete before removing them from the list by clicking the **Mark as Completed** button.
+
+   ![](media/garagehive-system-audit20.png)
+
+### Vehicle Inspection Estimates and Estimates Reminders
+To clean up the Reminders:
+1. The **Reminders Overdue** tile under the **Vehicle Inspection Estimates** and **Estimates** tiles in the Role Centre should always be zero. 
+
+   ![](media/garagehive-system-audit21.png)
+
+2. If there are documents in the tiles, click on the tile, select the document from the list, and then click **Open Document** from the menu bar to follow up on the reminder.
+
+   ![](media/garagehive-system-audit22.png)
 
 
 # Checking the power bi report weekly
