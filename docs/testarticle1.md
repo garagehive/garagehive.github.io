@@ -26,7 +26,7 @@ To clean up the Jobsheets:
 
    ![](media/garagehive-system-audit2.png)
 
-3. Add a **Booking Date** filter to the filter panel by clicking the **+Filter** button and searching for Booking Date. In the **Booking Date** filter, enter **''|..T-1d**. This is the filter for all bookings made in the past, up until yesterday.
+3. Add a **Booking Date** filter to the filter panel by clicking the **+Filter** button and searching for Booking Date. In the **Booking Date** filter, enter **''&#124;..T-1d**. This is the filter for all bookings made in the past, up until yesterday.
 
    ![](media/garagehive-system-audit3.gif)
 
@@ -84,7 +84,7 @@ To clean up the Vehicle Inspections:
 
    ![](media/garagehive-system-audit13.png)
 
-3. In the **Jobsheet Booking Date** filter, enter **"|..T-1d**; this filters all Vehicle Inspections made in the past, up until yesterday, and then in the **Process Status** filter, select **Pending** and **In Progress**; this filters all Vehicle Inspections that have not been completed.
+3. In the **Jobsheet Booking Date** filter, enter **"&#124;..T-1d**; this filters all Vehicle Inspections made in the past, up until yesterday, and then in the **Process Status** filter, select **Pending** and **In Progress**; this filters all Vehicle Inspections that have not been completed.
 
    ![](media/garagehive-system-audit14.png)
 
@@ -100,7 +100,7 @@ To clean up the Estimates:
 
    ![](media/garagehive-system-audit16.png)
 
-3. In the **Estimate Status** filter, select **Awaiting Action**, **Awaiting Parts**, **Awaiting Advisor**, and **Awating Authorisation**; this filters all Estimates that have not been completed, and then add a **Created At** filter to the filter panel by clicking the **+Filter** button and searching for Created At, enter **"|..T-1d** in the **Created At** filter; this filters all Estimates made in the past, up until yesterday.
+3. In the **Estimate Status** filter, select **Awaiting Action**, **Awaiting Parts**, **Awaiting Advisor**, and **Awating Authorisation**; this filters all Estimates that have not been completed, and then add a **Created At** filter to the filter panel by clicking the **+Filter** button and searching for Created At, enter **"&#124;..T-1d** in the **Created At** filter; this filters all Estimates made in the past, up until yesterday.
 
    ![](media/garagehive-system-audit17.gif)
 
