@@ -6,6 +6,16 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 12th March 2023
+* Added a column called **Item Card Unit Price** in Purchase Orders to the left of Sales Doc. Unit Price column, that shows the value of the unit price field in the item card and it's not editable.
+
+   ![](media/garagehive-item-card-unit-price.png)
+
+* Added the ability to select which **Comments** to copy from **VIEs or Estimates** when using the **Copy Authorised Lines to Jobsheet** feature.
+* Added vehicle **Colour** to **Extended Description** for **Vehicle Sales Invoices**.
+
+   ![](media/garagehive-extended-description-vehicle-sales-invoice.png)
+
 ### 2nd March 2023
 * **MOT Data Trends** have been added to the **Garage Industry Trends** website. MOT Data Trends is a comprehensive set of reports that analyses 200 million lines of data over three years for MOT failures and item failures by make, model, year, fuel type, item failure, region, and much more. [MOT Data Trends](https://www.garageindustrytrends.com/mot) webpage has been added to the Garage Industry Trends website, which demonstrates some of the reports and is mobile-friendly. If you are on a desktop/laptop you can click on [this link](https://app.powerbi.com/view?r=eyJrIjoiMjM5NDRiMWItNzQ4MS00N2U1LWJhMzUtYTMwMjEzYmE1NTA4IiwidCI6IjFiZGU4OWFkLWI0Y2UtNDVkZi1hOTE5LWUxZTA4ZTQ3Mjk0ZCIsImMiOjh9&fbclid=IwAR2jWj9P0ctEUWa46lIDQlfcLYjzTgWFjwnMksYB9B4IMf6mzBr-tOk2iSE) to skip directly to the Power BI reports.
 
