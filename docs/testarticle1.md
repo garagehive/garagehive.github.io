@@ -130,6 +130,24 @@ To clean up the Reminders:
 
    ![](media/garagehive-system-audit22.png)
 
+### Schedule
+To clean up the Schedule:
+1. Check that there are no double-stacked allocation entries for a single resource; if there are, move one of the allocations to a later time or day.
+
+   ![](media/garagehive-system-audit23.png)
+
+2. The second thing to look for is any **blue (Pending - this is an allocation that hasn't been started)** or **red (On Hold - this is a paused allocation)** allocations from the previous period. Click on the **Previous Period** from the menu bar, and check to see if any of the allocations are blue or red; if so, move them to a future date.
+
+   ![](media/garagehive-system-audit24.png)
+
+### Surveys
+To clean up the Surveys:
+1. Scroll down to the **Customer Surveys** and **Internal Surveys** tiles in the Role Centre. Check that the **To Review** tile is zero.
+
+   ![](media/garagehive-system-audit25.png)
+
+2. If there are surveys in the **To Review** tiles, click on the tile, read the survey, and then click **Mark It Reviewed**.
+
 
 # Checking the power bi report weekly
 
