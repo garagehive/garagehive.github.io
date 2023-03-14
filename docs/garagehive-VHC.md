@@ -83,8 +83,18 @@ You've already communicated with the customer and been advised on what work need
    * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}), where the groups have already been created.
    * Select the group items that have been approved from the **Customer Authorised** column. When a group is checked, all document lines within that group are approved. A single document line that is already part of a group cannot be separately authorised.
    * From the menu bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
+   * Select the document to copy to from the page that appears, then click **OK**.
 
-   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
+      ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
+
+   * You will be prompted, 'Do you want to copy comments related to the current Estimate?' ** Select **Yes** to copy the comments to the Jobsheet.
+         
+      ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate7.png)
+
+   * Press the **Ctrl** key on your keyboard to select all of the comments to copy to the Jobsheet, then click **OK**.
+   * This will add the selected lines and comments to the selected Jobsheet.
+   
+      ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate8.png)
 
 {% include tip.html title="Note" text="The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines." %}
 

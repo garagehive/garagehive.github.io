@@ -63,9 +63,17 @@ To convert the whole estimate into a jobsheet:
 
 To Select partial lines from the estimate to add to an open Jobsheet:
 1. From the estimate lines, tick the checkbox in **Customer Authorised** field, for all the lines that have been authorised by the customer.
-2. Then, select **Process** from menu bar, followed by **Copy Authorised Lines to Jobsheet**, and select the jobsheet to which you want to copy the lines, and click **OK**. This will add the selected lines to the selected jobsheet.
+2. Select **Process** from menu bar, followed by **Copy Authorised Lines to Jobsheet**, and select the Jobsheet to which you want to copy the lines, and click **OK**.
 
    ![](media/garagehive-create-an-estimate8.gif)
 
+3. You will be prompted, 'Do you want to copy comments related to the current Estimate?' ** Select **Yes** to copy the comments to the Jobsheet.
+ 
+    ![](media/garagehive-create-an-estimate9.png)
+
+4. Press the **Ctrl** key on your keyboard to select all of the comments to copy to the Jobsheet, then click **OK**.
+5. This will add the selected lines and comments to the selected Jobsheet.
+
+   ![](media/garagehive-create-an-estimate10.png)
 
 [Go back to top](#top)
