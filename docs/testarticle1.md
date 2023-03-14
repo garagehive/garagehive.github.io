@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - How to Audit the Use of Garage Hive System Features
+title: DRAFT* - How to Audit and Cleanse the Use of Garage Hive System
 ---
 
 <a name="top"></a>
@@ -15,7 +15,7 @@ As the Garage continues to use the Garage Hive system, it is important to make s
 
 1. [Weekly Routines](#weekly-routines)
    * [Cleansing the Jobsheet List](#cleansing-the-jobsheet-list)
-   * [Cleansing the Estimates List](#cleansing-the-estimate-list)
+   * [Cleansing the Estimates List](#cleansing-the-estimates-list)
    * [Cleansing the Vehicle Inspections List](#cleansing-the-vehicle-inspections-list)
    * [Cleansing the Vehicle Inspection Estimates and Estimates Reminders](#cleansing-the-vehicle-inspection-estimates-and-estimates-reminders)
    * [Cleansing the User Tasks List](#cleansing-the-user-tasks-list)
@@ -24,7 +24,7 @@ As the Garage continues to use the Garage Hive system, it is important to make s
    * [Cleansing the Surveys](#cleansing-the-surveys)
 2. [Monthly Routines](#monthly-routines)
    * [Cleansing the Schedule](#cleansing-the-schedule)
-   * [Cleansing the Item List](#cleansing-the-item-list)
+   * [Cleansing the Items List](#cleansing-the-items-list)
    * [Cleansing the Customer Communications](#cleansing-the-customer-communications)
 3. [Annual Routine](#annual-routine)
    * [Annual Stock&ndash;Take](#annual-stock-take)
@@ -48,6 +48,8 @@ To ensure your Jobsheet list is cleansed:
 
 4. The filtered list includes all jobs that are either not on the schedule or are scheduled for a date in the past. Check that all of the jobs are correct, that they have been posted/deleted, and that all of the lines are filled out correctly.
 
+[Go back to top](#top)
+
 ### Cleansing the Estimates List
 To ensure your Estimates list is cleansed:
 1. From the Role Centre, click on the **Awaiting Action** tile under the **Estimates** to open the list of all Estimates that have been created.
@@ -64,6 +66,8 @@ To ensure your Estimates list is cleansed:
 
 4. Ensure that all of the Estimates in the filtered list are categorised correctly.
 
+[Go back to top](#top)
+
 ### Cleansing the Vehicle Inspections List
 To ensure your Vehicle Inspections list is cleansed:
 1. From the Role Centre, click on the **Current** tile under the **Vehicle Inspections** to open the list of all Vehicle Inspections that have been created.
@@ -79,7 +83,9 @@ To ensure your Vehicle Inspections list is cleansed:
    ![](media/garagehive-system-audit14.png)
 
 4. Ensure that all of the Vehicle Inspections in the filtered list are categorised correctly.
-   
+
+[Go back to top](#top)
+
 ### Cleansing the Vehicle Inspection Estimates and Estimates Reminders
 To clean up the Reminders:
 1. The **Reminders Overdue** tile under the **Vehicle Inspection Estimates** and **Estimates** tiles in the Role Centre should always be zero. 
@@ -89,6 +95,8 @@ To clean up the Reminders:
 2. If there are documents in the tiles, click on the tile, select the document from the list, and then click **Open Document** from the menu bar to follow up on the reminder.
 
    ![](media/garagehive-system-audit22.png)
+
+[Go back to top](#top)
 
 ### Cleansing the User Tasks List
 To ensure your User Tasks list is cleansed:
@@ -104,6 +112,8 @@ To ensure your User Tasks list is cleansed:
 
    ![](media/garagehive-system-audit20.png)
 
+[Go back to top](#top)
+
 ### Cleansing the Purchase Orders and Purchase Return Orders
 To ensure your Purchase Orders and Purchase Return Orders list is cleansed:
 1. Select the **Purchasing** menu from the navigation bar in the Role Centre, and then **Purchase Orders** to view a list of all open Purchase Orders.
@@ -115,6 +125,8 @@ To ensure your Purchase Orders and Purchase Return Orders list is cleansed:
 
    ![](media/garagehive-system-audit5.png)
 
+[Go back to top](#top)
+
 ### Check Items to Return Report
 After going through the Items list and removing the **Reordering Policy** for the items that are not supposed to be categorised as stocked, you can now check the **Items to Return** report so as to return the items that are not needed or write them off if necessary. To access the **Items to Return** report:
 1. Select the **Reports** actions menu, **Additional** and then **Items to Return**.
@@ -125,6 +137,8 @@ After going through the Items list and removing the **Reordering Policy** for th
 
    ![](media/garagehive-system-audit11.png)
 
+[Go back to top](#top)
+
 ### Cleansing the Surveys
 To ensure your Surveys are cleansed:
 1. Scroll down to the **Customer Surveys** and **Internal Surveys** tiles in the Role Centre. Check that the **To Review** tile is zero.
@@ -132,6 +146,8 @@ To ensure your Surveys are cleansed:
    ![](media/garagehive-system-audit26.png)
 
 2. If there are surveys in the **To Review** tiles, click on the tile, read the survey, and then click **Mark It Reviewed**.
+
+[Go back to top](#top)
 
 ## Monthly Routines
 These routines should be done on a monthly basis.
@@ -149,6 +165,8 @@ To ensure your Schedule is cleansed:
 3. The second thing to look for is any **blue (Pending - this is an allocation that hasn't been started)** or **red (On Hold - this is a paused allocation)** allocations from the previous period. Click on the **Previous Period** from the menu bar, and check to see if any of the allocations are blue or red; if so, move them to a future date.
 
    ![](media/garagehive-system-audit25.png)
+
+[Go back to top](#top)
 
 ### Cleansing the Items List
 To ensure your Items are correctly categorised:
@@ -168,11 +186,15 @@ To ensure your Items are correctly categorised:
 
    ![](media/garagehive-system-audit9.png)
 
+[Go back to top](#top)
+
 ### Cleansing the Customer Communications
 Customer communications include the **Booking Reminders**, **Booking Confirmations**, **MOT Reminders** among other that have been set up in the system. You should always ensure that the notifications that you want to send the customers are enabled in the system.
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Customer Notification**, and select the related link. If any notification is set to **Send SMS** and/or **Send Email** make sure the **Enabled** is selected.
 
    ![](media/garagehive-system-audit27.png)
+
+[Go back to top](#top)
 
 ## Annual Routines
 These routines should be done on an annual basis.
