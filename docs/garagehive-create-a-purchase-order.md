@@ -1,16 +1,19 @@
 ---
 layout: docs
-title: How to Create Purchase Orders in Garage Hive
+title: How to Create and Use Purchase Orders in Garage Hive
 ---
 
 <a name="top"></a>
 
-# How to Create Purchase Orders in Garage Hive
-There are two ways to create a **Purchase Order** in Garage Hive:
-1. [Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
-2. [From the home screen](#creating-a-purchase-order-from-the-home-screen)
+# How to Create and Use Purchase Orders in Garage Hive
+Purchase Orders are commonly used in Business-to-Business (B2B) transactions to simplify the procurement process and provide a clear record of the transactions. In this article, we will look at how to create and use Purchase Orders in Garage Hive.
+
+## In this article
+1. [Creating a Purchase Order Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
+2. [Creating a Purchase Order From the home screen](#creating-a-purchase-order-from-the-home-screen)
 3. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
 4. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
+5. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
@@ -24,30 +27,30 @@ To create a purchase order directly from a Jobsheet:
 
    ![](media/garagehive-creating-a-purchase-order1.gif)
 
-1. Enter the supplier name to order from in the **Vendor No.** column and select from the list. If there are several parts from the same supplier, enter the same supplier in all the item lines.
-1. If, on the other hand, some items are from a different supplier, enter the relevant supplier name in the **Vendor No.** column. This creates separate purchase orders for the different suppliers.
-1. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
+2. Enter the supplier name to order from in the **Vendor No.** column. If there are several parts from the same supplier, enter the same supplier in all the item lines.
+3. If, on the other hand, some items are from a different supplier, enter the relevant supplier name in the **Vendor No.** column. This will ensure that separate Purchase Orders are created for each supplier.
+4. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
    
    ![](media/garagehive-creating-a-purchase-order2.gif)
 
-1. Select **Parts** from the menu bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
+5. Select **Parts** from the menu bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
 
    ![](media/garagehive-creating-a-purchase-order3.gif)
 
-1. The Purchase Order(s) have now been created and are ready for the parts to be ordered. The next step will be to receive the parts and post the Purchase Order.
+6. The Purchase Order(s) have now been created and are ready for the parts to be ordered. The next step will be to receive the parts and post the Purchase Order.
    
    ![](media/garagehive-creating-a-purchase-order4.gif)
 
-1. When you receive and post the Purchase Order for parts ordered from a Jobsheet, the Jobsheet line in the **Check** column is updated with a parcel icon (📦) to indicate that the items have been received as ordered.
+7. When you receive and post the Purchase Order for parts ordered from a Jobsheet, the Jobsheet line in the **Check** column is updated with a parcel icon (📦) to indicate that the items have been received as ordered.
 
    ![](media/garagehive-parcel-icon-jobsheet-line1.png)
 
-1. Click on the parcel icon, to open the **Posted Purchase Receipt** of the part.
+8. Click on the parcel icon, to open the **Posted Purchase Receipt** of the part.
 
    ![](media/garagehive-parcel-icon-jobsheet-line2.gif)
 
-1. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
-1. Delete the lines from the previously created purchase order(s).
+9. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
+10. Delete the lines from the previously created purchase order(s).
 
    ![](media/garagehive-creating-a-purchase-order5.gif)
 
@@ -128,6 +131,15 @@ When the items are received in the garage, without an invoice it is possible to 
 4. Then, in the **Receipt**, scroll down to the **Lines** FastTab, select **Functions**, and then **Undo Receipt**.
 
    ![](media/garagehive-posting-a-purchase-order8.png)
+
+### Available Price Columns in Purchase Orders
+The following price columns are available in the Purchase Order to indicate the various prices for the item as explained below:
+1. **Direct Unit Cost** - This is the cost of the item as purchased from the supplier.
+2. **Line Amount** - This is the total amount for all items in the line to be purchased from the supplier.
+3. **Item Card Unit Price** - This is the unit sales price for the item as it appears on the Item Card.
+4. **Sales Doc. Unit Price** - This is the unit sales price for the item as it appears on the linked sales document.
+
+   ![](media/garagehive-purchase-order-price-columns1.png)
 
 
 [Go back to top](#top)
