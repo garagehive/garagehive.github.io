@@ -87,7 +87,7 @@ You've already communicated with the customer and been advised on what work need
 
       ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
 
-   * You will be prompted, 'Do you want to copy comments related to the current Estimate?' ** Select **Yes** to copy the comments to the Jobsheet.
+   * You will be prompted, 'Do you want to copy comments related to the current VIE?' ** Select **Yes** to copy the comments to the Jobsheet.
          
       ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate7.png)
 
