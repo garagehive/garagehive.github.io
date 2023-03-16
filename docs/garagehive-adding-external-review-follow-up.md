@@ -9,7 +9,7 @@ title: Adding External Review Follow-up on Customer Surveys
 Including an external review follow-up in a customer survey allows the garage to further engage customers who rate the business with a higher NPS score and are satisfied with the services to leave a review on your preferred external platform. At the end, you will increase your rating with better reviews.
 
 ## In this article
-1. [External Review Follow Up Setup for Single Location](#External-review-follow-up-setup-single-location)
+1. [External Review Follow Up Setup for Single Location](#external-review-follow-up-setup-single-location)
 2. [External Review Follow Up Setup for Multi Location](#external-review-follow-up-setup-for-multi-location)
 3. [How the External Review Link Appears to the Customer](#tyre-scanner-checklist-template)
 
