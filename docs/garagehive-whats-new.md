@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 20th March 2023
+* Added a **Create and Email Purchase Order(s)** action within the Jobsheet where a Service Advisor can create and email the Purchase Order to the Vendor.
+
+   ![](media/garagehive-create-and-email-a-purchase-order.png)
+
 ### 12th March 2023
 * Added a column called **Item Card Unit Price** in Purchase Orders to the left of Sales Doc. Unit Price column, that shows the value of the unit price field in the item card and it's not editable.
 
