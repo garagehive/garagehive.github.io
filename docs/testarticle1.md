@@ -78,7 +78,7 @@ To ensure your Vehicle Inspections list is cleansed:
 
    ![](media/garagehive-system-audit13.png)
 
-3. In the **Jobsheet Booking Date** filter, enter **&#39;&#124;..T-1d** (copy and paste); this filters all Vehicle Inspections made in the past, up until yesterday, and then in the **Process Status** filter, select **Pending** and **In Progress**; this filters all Vehicle Inspections that have not been completed.
+3. In the **Jobsheet Booking Date** filter, enter **&#39;&#39;&#124;..T-1d** (copy and paste); this filters all Vehicle Inspections made in the past, up until yesterday, and then in the **Process Status** filter, select **Pending** and **In Progress**; this filters all Vehicle Inspections that have not been completed.
 
    ![](media/garagehive-system-audit14.png)
 
