@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to extract the required data for Garage Hive from Techman.
+title: How to extract the required data for Garage Hive from Techman
 ---
 
 #   How to extract the required data for Garage Hive

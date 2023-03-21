@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: How to extract the required data for Garage Hive from MAM Software.
+title: How to extract the required data for Garage Hive from MAM Software
 ---
 
 #   How to extract the required data for Garage Hive
