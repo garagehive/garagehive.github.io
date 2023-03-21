@@ -41,24 +41,30 @@ Making Tax Digital (MTD) is a UK government initiative that aims to modernize an
 
 4. **FreshBooks:** Garage Hive does not support integration with Freshbooks. As a result, if you use Freshbooks for your accounting needs, you may not be able to seamlessly sync your data with Garage Hive, but we would recommend switching to **QuickBooks Online**, which is similar to FreshBooks. 
 
-5. **Zoho Books:** Garage Hive, as of now, does not support Zoho Books integration.
+5. **Zoho Books:** Garage Hive, as of now, does not support Zoho Books integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting software.
 
-6. **Crunch:** Garage Hive, as of now, does not support Crunch integration.
-7. **FreeAgent:** Garage Hive, as of now, does not support FreeAgent integration.
-8. **Cashflow:** Garage Hive, as of now, does not support Cashflow integration.
+6. **Crunch:** Garage Hive, as of now, does not support Crunch integration. However, Garage Hive supports CSV exports which can be used with most of the accounting softwares.
+
+7. **FreeAgent:** Garage Hive, as of now, does not support FreeAgent integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting software.
+
+8. **Cashflow:** Garage Hive, as of now, does not support Cashflow integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting software.
 
 [Go back to top](#top)
 
 ### When do I need to finish my accountancy exports?
+This is dependent on the Garage Management software you are switching from, as each has its own method of transferring data.
 
 [Go back to top](#top)
 
 ### Do I need to wait till the end of the VAT quarter?
+When using Garage Hive to manage your garage business, you do not need to wait till the end of the VAT quarter. We recommend that the company follow their regular accounting routine.
 
 [Go back to top](#top)
 
 ### Can I add my own nominal codes?
+Garage Hive includes G/L Accounts (Nominal Codes) that are set up to support your garage business, but you cannot add your own nominal codes because they are linked with PowerBI and help PowerBI pull the data that it needs to generate the reports.
 
 ### When do I need to provide Garage Hive with my nominal codes?
+Since nominal codes are important in accounting export to Garage Hive, you should provide them as soon as you begin the process of switching to Garage Hive.
 
 [Go back to top](#top)
