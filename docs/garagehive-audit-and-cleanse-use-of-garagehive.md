@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Audit and Cleanse the Use of Garage Hive System
+title: How to Audit and Cleanse the Use of Garage Hive System
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Audit and Cleanse the Use of Garage Hive System
 As the Garage continues to use the Garage Hive system, it is important to make sure that the system is used efficiently and effectively. This is where a system audit/cleanse comes in. A system audit/cleanse helps in reviewing your current processes and workflows in order to continuously improve effectiveness and optimise the use of Garage Hive features. In this article, we'll look at what you can do on a weekly, monthly, and annual basis to audit and cleanse your system.
