@@ -10,10 +10,11 @@ Purchase Orders are commonly used in Business-to-Business (B2B) transactions to 
 
 ## In this article
 1. [Creating a Purchase Order Directly from a Jobsheet](#creating-a-purchase-order-directly-from-a-jobsheet)
-2. [Creating a Purchase Order From the home screen](#creating-a-purchase-order-from-the-home-screen)
-3. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
-4. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
-5. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
+2. [Create and Email the Purchase Order from a Jobsheet](#create-and-email-the-purchase-order-from-a-jobsheet)
+3. [Creating a Purchase Order From the Role Centre](#creating-a-purchase-order-from-the-role-centre)
+4. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
+5. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
+6. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
@@ -54,21 +55,44 @@ To create a purchase order directly from a Jobsheet:
 
    ![](media/garagehive-creating-a-purchase-order5.gif)
 
-<br>
-
 [Go back to top](#top)
 
 **Option 2**
-1. When creating a purchase order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**.
-2. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
-3. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
-4. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
+When creating a Purchase Order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**:
+1. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
+2. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
+3. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
 
    ![](media/garagehive-creating-a-purchase-order10.gif)
 
 [Go back to top](#top)
 
-### Creating a Purchase Order from the home screen
+### Create and Email the Purchase Order from a Jobsheet
+Instead of simply creating a Purchase Order from the Jobsheet, you may want to create the Purchase Order and email it to the Vendor:
+1. Ensure that the **Purchase (Special)** checkbox column is selected for the items you want to order, and that the Vendor is chosen in the **Vendor No.** column.
+
+    ![](media/garagehive-create-and-email-a-purchase-order1.png)
+
+2. Select **Parts** from the menu bar, then the **Create and Email Purchase Order(s)** action to create and email the Purchase Order(s).
+
+    ![](media/garagehive-create-and-email-a-purchase-order2.png)
+
+3. In the prompt 'Do you want to send e-mail?' select **Yes**.
+
+    ![](media/garagehive-create-and-email-a-purchase-order3.png)
+
+4. Select the option to use to select the document sending profile in the next prompt. Document sending profile includes predefined rules and settings that dictate how the documents are sent. Click **OK**. 
+
+   ![](media/garagehive-create-and-email-a-purchase-order4.png)
+
+5. In the following window, compose the email in the **Message** field, enter the email address to send to in the **To** field, and when finished, click the **Send Email** action.
+
+   ![](media/garagehive-create-and-email-a-purchase-order5.png)
+
+
+[Go back to top](#top)
+
+### Creating a Purchase Order from the role centre
 This option is typically used only after the invoice has been received from the supplier. To create a Purchase Order from the home screen:
 1. Select **Purchasing**, and then **Purchase Orders** from the navigation menu in the home screen.
 2. Choose **New** from the **Purchase Orders** page.
@@ -90,6 +114,11 @@ This option is typically used only after the invoice has been received from the 
 9. You can now post the Purchase Order by choosing **Posting** and then **Post** from the menu bar.
 
    ![](media/garagehive-creating-a-purchase-order9.gif)
+
+[Go back to top](#top)
+
+### Create and Email the Purchase Order from a Jobsheet
+
 
 [Go back to top](#top)
 
