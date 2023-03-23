@@ -3,15 +3,18 @@ layout: docs
 title: Taking a Deposit Payment
 ---
 
+<a name="top"></a>
+
 Taking a deposit from a customer means that the customer has given the go-ahead for the repairs or purchase of the vehicle, demonstrating a commitment to complete the transaction. Let's look at how you can make a deposit against a customer's account and then apply it through customer ledger entries.
 
 
 ## In this article
-1. [Taking a Deposit and Posting it to a Customer Account](#taking-a-deposit-and-posting-it-to-a-customer-account)
-2. [Apply Deposit Entries on Posted Documents](#apply-deposit-entries-on-posted-documents)
+1. [How to Post Deposits to Customer Accounts](#how-to-post-deposits-to-customer-accounts)
+2. [Using Deposit Amount as Payment Method in a Jobsheet](#using-deposit-amount-as-payment-method-in-a-jobsheet)
+3. [Applying Deposits to Posted Documents](#applying-deposits-to-posted-documents)
 
 
-### Taking a Deposit and Posting it to a Customer Account
+### How to Post Deposits to Customer Accounts
 1. From the **Role Centre**, select **Take Payment**.
 
    ![](media/take-payment-home.png)
@@ -45,7 +48,29 @@ Taking a deposit from a customer means that the customer has given the go-ahead 
 
    ![](media/take-payment-post-card.png)
 
-### Apply Deposit Entries on Posted Documents
+[Go back to top](#top)
+
+### Using Deposit Amount as Payment Method in a Jobsheet
+If you want to use deposit amount as payment method in a Jobsheet:
+1. Open the Jobsheet to which you want to apply the deposit.
+2. Select the **Payments/Posting** menu and then click **Take Payment**.
+
+   ![](media/take-payment-with-deposit-amount1.png)
+
+3. Select **UseDeposit** from the list of payment methods and enter the amount you want to use in the **Amount** column.
+
+   ![](media/take-payment-with-deposit-amount2.png)
+
+4. You can also use the **Apply Deposit Amount** action, which appears on the notification at the top,  to use the entire deposit amount available for the customer or to fill in the **Difference** for the amount paid in the **UseDeposit** payment method.
+5. Close the payment method window by clicking **Close**.
+
+   ![](media/take-payment-with-deposit-amount3.png)
+
+6. You can now **Post** the Jobsheet, and the **Deposit Amount** will be applied to the Jobsheet as a payment method.
+
+[Go back to top](#top)
+
+### Applying Deposits to Posted Documents
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Customer Ledger Entries**, and select the related link.
 
    ![](media/apply-deposit-payment1.png)
@@ -71,6 +96,7 @@ Taking a deposit from a customer means that the customer has given the go-ahead 
    ![](media/apply-deposit-payment6.png)
 
 
+[Go back to top](#top)
 
 <br>
 

@@ -7,7 +7,7 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 20th March 2023
-* Added a **Create and Email Purchase Order(s)** action within the Jobsheet where a Service Advisor can create and email the Purchase Order to the Vendor.
+* Added a **Create and Email Purchase Order(s)** action within the Jobsheet where a Service Advisor can create and email the Purchase Order to the Vendor, [read more](garagehive-create-a-purchase-order.html#create-and-email-the-purchase-order-from-a-jobsheet).
 
    ![](media/garagehive-create-and-email-a-purchase-order.png)
 
