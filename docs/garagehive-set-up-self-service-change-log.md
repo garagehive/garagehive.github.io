@@ -30,6 +30,6 @@ To view the changes made in a Service Document:
 
    ![](media/change-log-setup4.png)
 
-3. This also applies to a posted Jobsheet; open the **Posted Document** in which you want to see the history of the unposted Jobsheet, then select **Related**, **Jobsheet**, and then **Change Log**.
+3. This also applies to a posted Jobsheet; open the **Posted Jobsheet** in which you want to see the history of the Posted Jobsheet while it was unposted, then select **Related**, **Jobsheet**, and then **Change Log**.
 
    ![](media/change-log-setup5.png)
