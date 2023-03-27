@@ -3,6 +3,8 @@ layout: docs
 title: Confirming Surveys are Sent
 ---
 
+<a name="top"></a>
+
 #   Confirming Surveys are Sent
 
 Surveys are sent to customers after posting a jobsheet. There are ways to confirm that the surveys are sent and that the customer has received and filled the survey.
@@ -24,16 +26,21 @@ After posting a jobsheet, the system checks on the survey settings to send the s
 
 ![](media/garagehive-surveys-customer6.gif)
 
+[Go back to top](#top)
+
 ### Check the survey has been sent to the customer
 To check the delivery status of the survey:
-1. Search for **Customer Notification Entries** and select it from the search results. 
-2. From the opened list, scroll to the right to see the current status of the survey sent.
+1. Search for **Communication Log Entries** and select it from the search results.
 
-![](media/garagehive-surveys-customer7.gif)
+   ![](media/garagehive-surveys-customer7.png)
 
-When the survey is sent, the status changes to **Sent**.
+2. From the opened list, scroll to the right to see the current **Status** and **Delivery Status** of the survey sent.
 
-![](media/garagehive-surveys-customer8.png)
+   ![](media/garagehive-surveys-customer8.png)
+
+3. When the survey is delivered to the customer, the **Delivery Status** changes to **Sent**.
+
+[Go back to top](#top)
 
 ### Check the survey has been opened and submitted by customer
 To check if the customer has opened and submitted the survey:
@@ -44,3 +51,5 @@ To check if the customer has opened and submitted the survey:
 {% include tip.html title="Note" text="When the survey is not opened or answered the date and time column will be blank." %}
 
 ![](media/garagehive-surveys-customer9.gif)
+
+[Go back to top](#top)
