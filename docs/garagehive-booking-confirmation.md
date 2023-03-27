@@ -89,9 +89,13 @@ Then, from the **General** FastTab, enable the notification to make it operation
 [Go back to top](#top)
 
 ### Viewing sent notification messages
-To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, and enter **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
+1. To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Communication Log Entries** and select the related link.
 
-![](media/garagehive-booking-reminder10.gif)
+   ![](media/garagehive-booking-reminder10.png)
+
+2. The page that appears lists all of the details for the customer notifications that have been sent. To see the status, view the **Status** column and the **Delivery Status** column.
+
+   ![](media/garagehive-booking-reminder11.png)
 
 
 [Go back to top](#top)
