@@ -92,9 +92,13 @@ You can preview and verify the notification message template you've created. To 
    ![](media/garagehive-go-live-customer-notification8.gif)
 
 ### How to view sent messages
-To view the sent messages, select the![](media/search icon.png) icon in the top right corner, enter **Customer Notifications Entries**, and select the related link. The page that appears shows all of the details for the processed notifications.
+1. To view the sent messages, select the ![](media/search_icon.png) icon in the top right corner, enter **Communication Log Entries**, and select the related link.
 
-   ![](media/garagehive-go-live-customer-notification9.gif)
+   ![](media/garagehive-go-live-customer-notification9.png)
+
+2. The page that appears shows all of the details for the processed notifications.
+
+   ![](media/garagehive-go-live-customer-notification10.png)
 
 
 [Next step 2/3 ->](/docs/golive-sms-email.html)

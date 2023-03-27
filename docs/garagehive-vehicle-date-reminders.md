@@ -78,9 +78,13 @@ Then, from the **General** FastTab, enable the notification to make it operation
 ![](media/garagehive-vehicle-date-reminder9.gif)
 
 ### Viewing sent notification messages
-To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Customer Notifications Entries**; the window that appears lists all of the details for the customer notifications that have been sent.
+1. To see a list of the customer notifications that have been sent, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Communication Log Entries** and select the related link
 
-![](media/garagehive-vehicle-date-reminder10.gif)
+   ![](media/garagehive-vehicle-date-reminder10.png)
+
+2. The page that appears lists all of the details for the customer notifications that have been sent.
+
+   ![](media/garagehive-vehicle-date-reminder11.png)
 
 
 <br>
