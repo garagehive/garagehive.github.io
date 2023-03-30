@@ -41,18 +41,18 @@ Making Tax Digital (MTD) is a UK government initiative that aims to modernize an
 
 4. **FreshBooks:** Garage Hive does not support integration with Freshbooks. As a result, if you use Freshbooks for your accounting needs, you may not be able to seamlessly sync your data with Garage Hive, but we would recommend switching to **QuickBooks Online**, which is similar to FreshBooks. 
 
-5. **Zoho Books:** Garage Hive, as of now, does not support Zoho Books integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting software.
+5. **Zoho Books:** Garage Hive, as of now, does not support Zoho Books integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting softwares.
 
 6. **Crunch:** Garage Hive, as of now, does not support Crunch integration. However, Garage Hive supports CSV exports which can be used with most of the accounting softwares.
 
-7. **FreeAgent:** Garage Hive, as of now, does not support FreeAgent integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting software.
+7. **FreeAgent:** Garage Hive, as of now, does not support FreeAgent integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting softwares.
 
-8. **Cashflow:** Garage Hive, as of now, does not support Cashflow integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting software.
+8. **Cashflow:** Garage Hive, as of now, does not support Cashflow integration. However, Garage Hive supports CSV exports, which can be used with the majority of accounting softwares.
 
 [Go back to top](#top)
 
 ### When do I need to finish my accountancy exports?
-This is dependent on the Garage Management software you are switching from, as each has its own method of transferring data.
+This is dependent on the Garage Management software you are switching from, as each has its own method of transferring data. 
 
 [Go back to top](#top)
 
