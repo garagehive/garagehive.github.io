@@ -6,6 +6,16 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 5th April 2023
+* Added **Vehicle Sales Preparation Workflow**, which helps in tracking the progress of vehicles on sale through the use of **Vehicle Preparation Orders**.
+
+   ![](media/garagehive-vehicle-sales-preparation-workflow.png)
+
+* Added the ability to use Location specific Company Information, including logo, in the following places:
+    - **Purchase Orders** and **Purchase Return Orders**.
+    - **VI/Print Faults** & **Actions Printouts**.
+    - When **sending document emails** i.e. Invoices/Proformas/Estimates/VIE.
+
 ### 20th March 2023
 * Added a **Create and Email Purchase Order(s)** action within the Jobsheet where a Service Advisor can create and email the Purchase Order to the Vendor, [read more](garagehive-create-a-purchase-order.html#create-and-email-the-purchase-order-from-a-jobsheet).
 
