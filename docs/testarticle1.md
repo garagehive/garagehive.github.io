@@ -39,31 +39,48 @@ After creating the **Vehicle Preparation Stages**, the next step is to create a 
 
    ![](media/garagehive-vehicle-preparation-stages4.png)
 
-3. In the Role Centre, select the **Vehicle Preparation Stages** page and click **New**. Take note of the stages you created in the page that opens.
+3. The next step is to create a **Number Series** for the **Vehicle Preparation Orders**. Choose the ![](media/search_icon.png) icon in the top-right corner, enter **Vehicle Sales Setup** and select the related link. 
 
-   ![](media/garagehive-vehicle-preparation-stages5.png)
+   ![](media/garagehive-vehicle-preparation-stages4a.png)
 
-4. Under the **General** FastTab on the **Vehicle Preparation Order** page, enter the **No.**, select the **Salesperson**, enter the **Order Date**, select the **Location Code**, and then select the **Status** of the Order.
+4. Scroll down to the **Number Series** FastTab, and create a number series in the **Vehicle Prep. Order Nos.** field. When done, click the back arrow to exit the setup page.
+
+   ![](media/garagehive-vehicle-preparation-stages4b.png)
+
+5. To create a new **Vehicle Preparation Order**, go to the **Vehicle Preparation Stages** page (which you bookmarked in the Role Centre) and click **New**.
+
+   ![](media/garagehive-vehicle-preparation-stages5.gif)
+
+4. Under the **General** FastTab on the **Vehicle Preparation Order** page, select the **Salesperson** (optional), enter the **Order Date**, select the **Location Code**, and then select the **Status** of the Order. 
+5. The status of the **Vehicle Preparation Order** indicates its progress; it can be **Draft** - not started, **In Progress** - started, or **Completed**.
 
    ![](media/garagehive-vehicle-preparation-stages6.png)
 
-5. Scroll down to the **Vehicle Info** FastTab and select the **Vehicle No.** to add in the **Vehicle Preparation Order**, which autofills the rest of the fields. You can also create a **Tracking Code** to help in tracking the order or filtering with it.
+6. Scroll down to the **Vehicle Info** FastTab and select the **Vehicle No.** to add in the **Vehicle Preparation Order**, which autofills the rest of the fields.
 
    ![](media/garagehive-vehicle-preparation-stages7.png)
 
-6. Under the **Stages** FastTab, you can now select the **Vehicle Preparation Stage** that the vehicle is currently in, followed by the **Status**. To close the page, click the back arrow.
+7. You can also use the **Tracking Code** to indicate where the vehicle is in its preparation process.
+
+   ![](media/garagehive-vehicle-preparation-stages7a.png)
+
+8. Under the **Stages** FastTab, you can now select the **Vehicle Preparation Stage** that the vehicle is currently in, followed by the **Status**. 
 
    ![](media/garagehive-vehicle-preparation-stages8.png)
 
-7. When the previous stage is complete, select the **Status** as completed, and then add the next stage in the next line. Repeat this process for each stage.
+9. If there are any comments for the **Preparation Stage**, you can view them in the **No. of Stage Lines** field by clicking on the number in the field.
+
+   ![](media/garagehive-vehicle-preparation-stages8a.gif)   
+
+10. When the previous stage is complete, select the **Status** as completed, and then add the next stage in the next line. Repeat this process for each stage.
 
    ![](media/garagehive-vehicle-preparation-stages9.png)
 
-8. In the **Vehicle Preparation Stages** list, each stage is updated with an icon depending on the status of the stage.
+11. In the **Vehicle Preparation Stages** list, each stage is updated with an icon depending on the status of the stage.
 
    ![](media/garagehive-vehicle-preparation-stages10.png)
 
-9. You can create as many **Vehicle Preparation Orders** as you needed.
+12. You can create as many **Vehicle Preparation Orders** as needed.
 
    ![](media/garagehive-vehicle-preparation-stages11.png)
 
