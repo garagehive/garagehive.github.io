@@ -140,19 +140,19 @@ To manage **Data Permissions** for a user:
       ![](media/garagehive-user-management19.png)
 
     * **Post Item Journals** - When this is enabled, the user can post the following journals in the system:
-         - Item Journals - used to adjust the available quantity of an item in the system.
+         - **Item Journals** - used to adjust the available quantity of an item in the system.
 
             ![](media/garagehive-post-item-journals1.png)
 
-         - Physical Inventory Journals - Used after a physical stock take to adjust the item quantities in the system to match the physically available inventory.
+         - **Physical Inventory Journals** - Used after a physical stock take to adjust the item quantities in the system to match the physically available inventory.
 
             ![](media/garagehive-post-item-journals2.png)
 
-         - Item Reclassification Journals - Used to change Location Code, or Branch Code for item quantities in the system.
+         - **Item Reclassification Journals** - Used to change Location Code, or Branch Code for item quantities in the system.
 
             ![](media/garagehive-post-item-journals3.png)
 
-         - Item Revaluation Journals - Used to adjust the value of items in the inventory without affecting their quantity.
+         - **Item Revaluation Journals** - Used to adjust the value of items in the inventory without affecting their quantity.
 
             ![](media/garagehive-post-item-journals4.png)
 
