@@ -1,9 +1,11 @@
 ---
 layout: docs
-title: User Management
+title: How to Manage Users, Roles and Data Permissions in Garage Hive
 ---
 
-#   How to Manage System Users Within Garage Hive 
+<a name="top"></a>
+
+# How to Manage Users, Roles and Data Permissions in Garage Hive
 In Garage Hive system, you can manage licenced users in the system from the **User Management** page. The user marked as **System Administrator** is the **only** user who can manage the users.
 
 ## In this article
@@ -30,6 +32,8 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
    **'Your request was submitted to Garage Hive support. You should receive a confirmation email immediately. Please note that processing Microsoft licences can take up to 48 hours.'**
 
    {% include tip.html title="Note" text="If you did not receive the automated email confirmation, please contact the support team as they may not have received the request." %}
+
+[Go back to top](#top)
 
 ### Creating a Service Advisor user
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner. 
@@ -59,6 +63,8 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 
 ![](media/garagehive-user-management6.png)
 
+[Go back to top](#top)
+
 ### Creating a Technician user
 To create a **Technician** user:
 1. Click on **Create** from the menu bar and enter the user details and contact details in the following two pages.
@@ -74,11 +80,15 @@ To create a **Technician** user:
 
 ![](media/garagehive-user-management9.gif)
 
+[Go back to top](#top)
+
 ### Enabling and disabling the user
 To enable or disable the user:
 1. Click on **Enable** or **Disable** from the menu bar.
 
 ![](media/garagehive-user-management10.gif)
+
+[Go back to top](#top)
 
 ### Password reset for garage hive user
 To reset a garage hive user's password:
@@ -98,6 +108,8 @@ To reset a garage hive user's password:
 > The password entered must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character. It must not have a sequence of 3 or more ascending, descending or repeating characters.
 
 {% include tip.html title="Note" text="All users created in the system need a licence; talk to our support team to activate your licences." %}
+
+[Go back to top](#top)
 
 ### Enabling Data Permissions for a User
 To manage **Data Permissions** for a user:
@@ -127,7 +139,25 @@ To manage **Data Permissions** for a user:
 
       ![](media/garagehive-user-management19.png)
 
+    * **Post Item Journals** - When this is enabled, the user can post the following journals in the system:
+         - Item Journals - used to adjust the available quantity of an item in the system.
 
+            ![](media/garagehive-post-item-journals1.png)
+
+         - Physical Inventory Journals - Used after a physical stock take to adjust the item quantities in the system to match the physically available inventory.
+
+            ![](media/garagehive-post-item-journals2.png)
+
+         - Item Reclassification Journals - Used to change Location Code, or Branch Code for item quantities in the system.
+
+            ![](media/garagehive-post-item-journals3.png)
+
+         - Item Revaluation Journals - Used to adjust the value of items in the inventory without affecting their quantity.
+
+            ![](media/garagehive-post-item-journals4.png)
+
+
+[Go back to top](#top)
 
 ### **See Also**
 
