@@ -5,9 +5,6 @@ title: DRAFT* - How to Use Vehicle Preparation Stages in Garage Hive
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 # How to Use Vehicle Preparation Stages in Garage Hive
 **Vehicle Preparation Stages** is a feature in Garage Hive that helps you in managing the preparation of vehicles for sale. They enable you to track the progress of each **Vehicle Preparation Order** from the initial preparation stage to the vehicle sale. The stages can be customised to your Garage's specific needs and preferences.
 

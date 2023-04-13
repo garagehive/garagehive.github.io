@@ -183,6 +183,8 @@
       url: /docs/garagehive-vehicle-sales-order.html
     - name: Using Vehicle Sales Invoice
       url: /docs/garagehive-vehicle-sales-invoices.html
+    - name: How to Use Vehicle Sales Preparation Stages
+      url: /docs/garagehive-vehicle-sales-preparation-stages.html
 - name: Purchasing
   url: "#"
   subitems:
