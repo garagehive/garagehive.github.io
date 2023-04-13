@@ -1,18 +1,40 @@
 ---
 layout: docs
-title: Taking a Deposit Payment
+title: Managing Deposits in Garage Hive
 ---
 
 <a name="top"></a>
 
-Taking a deposit from a customer means that the customer has given the go-ahead for the repairs or purchase of the vehicle, demonstrating a commitment to complete the transaction. Let's look at how you can make a deposit against a customer's account and then apply it through customer ledger entries.
-
+# Managing Deposits in Garage Hive
+This article provides guidance on how to take a deposit from a customer, using the deposit as a Payment Method and applying the deposit to posted documents.
 
 ## In this article
-1. [How to Post Deposits to Customer Accounts](#how-to-post-deposits-to-customer-accounts)
-2. [Using Deposit Amount as Payment Method in a Jobsheet](#using-deposit-amount-as-payment-method-in-a-jobsheet)
-3. [Applying Deposits to Posted Documents](#applying-deposits-to-posted-documents)
+1. [How to Take a Deposit in a Document](#how-to-take-a-deposit-in-a-document)
+2. [How to Post Deposits to Customer Accounts](#how-to-post-deposits-to-customer-accounts)
+3. [Using Deposit Amount as Payment Method in a Jobsheet](#using-deposit-amount-as-payment-method-in-a-jobsheet)
+4. [Applying Deposits to Posted Documents](#applying-deposits-to-posted-documents)
 
+### How to Take a Deposit within a Document
+To take a deposit on a document, such as a Jobsheet, Sales Order, or Sales Invoice:
+1. Open the document from which you want to take a deposit, then select **Payments/Posting** from the menu bar, followed by **Take Deposit**.
+
+   ![](media/garagehive-take-deposit-in-a-document1.png)
+
+2. Enter the **Payment Method** in the **Payment Method Code** field and click **Next**.
+
+   ![](media/garagehive-take-deposit-in-a-document2.png)
+
+3. In the **Amount** field, enter the amount the customer wishes to pay as a deposit for the document. You can also add a description in the **Description** field. Click **Next**.
+
+   ![](media/garagehive-take-deposit-in-a-document3.png)
+
+4. Before posting, double-check the deposit's details. If you need to make any changes, click **Back** to return to the previous page.
+5. Click on **Post** after reviewing and confirming all the details are correct.
+6. You can select to **Print** or **Email** the receipt.
+
+   ![](media/garagehive-take-deposit-in-a-document4.png)
+
+[Go back to top](#top)
 
 ### How to Post Deposits to Customer Accounts
 1. From the **Role Centre**, select **Take Payment**.
