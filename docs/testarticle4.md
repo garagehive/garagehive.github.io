@@ -40,7 +40,7 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
 
 1. Go to your Role Centre and in the top right corner, choose the ![](media/search_icon.png) icon, enter **Financial Reports**, and select the related link.
 
-   [](media/garagehive-financial-reports1.png)
+   ![](media/garagehive-financial-reports1.png)
 
 1. On the **Financial Reports** page, choose **New** to create a new report or **Edit Financial Report** if you want to modify an existing one.
 1. On the **New** report page, enter a **Name** and a **Description** for your report and select a **Row Definition** and a **Column Definition** from the drop-down lists in their respective fields. 
