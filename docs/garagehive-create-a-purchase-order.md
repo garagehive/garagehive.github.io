@@ -42,7 +42,7 @@ To create a purchase order directly from a Jobsheet:
    
    ![](media/garagehive-creating-a-purchase-order4.gif)
 
-7. When you receive and post the Purchase Order for parts ordered from a Jobsheet, the Jobsheet line in the **Check** column is updated with a parcel icon (📦) to indicate that the items have been received as ordered.
+7. When you receive and post the Purchase Order for parts ordered from a Jobsheet, the **Check** column  in the Jobsheet line is updated with a parcel icon (📦) to indicate that the items have been received as ordered.
 
    ![](media/garagehive-parcel-icon-jobsheet-line1.png)
 
