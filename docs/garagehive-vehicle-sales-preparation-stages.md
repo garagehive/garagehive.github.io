@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - How to Use Vehicle Preparation Stages in Garage Hive
+title: How to Use Vehicle Preparation Stages in Garage Hive
 ---
 
 <a name="top"></a>
