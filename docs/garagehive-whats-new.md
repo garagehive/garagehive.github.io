@@ -6,6 +6,24 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 19th April 2023
+* Added the ability to take a deposit from a document, such as a Jobsheet, Sales Order, or Sales Invoice, by using the **Take Deposit** action, which is located next to the **Take Payment** action, [read more](take-payment-deposit.html#how-to-take-a-deposit-in-a-document).
+
+   ![](media/garagehive-take-deposit-in-document.png)
+
+* Added the **Post Items Journals** slider to the **Data Permissions** FastTab in the **User Management** card, which when enabled prevents the user from posting the **Item Journals**, **Physical Inventory Journals**, **Item Reclassification Journals**, and **Item Revaluation Journals**. [Read more](garagehive-user-management.html#enabling-data-permissions-for-a-user).
+
+   ![](media/garagehive-data-permissions-post-item-journals.png)
+
+* Added the ability to compose an email directly from the service document when the **ellipsis (...)** at the end of the **Email Address** field is clicked. This enables users to easily compose an email by simply clicking on the ellipsis, which opens up a **Compose an Email** page with the email address automatically filled in the "To" field.
+
+   ![](media/garagehive-compose-an-email.png)
+
+* Added the ability to add comments linked to the **Customer/Vehicle** card when creating a document and adding the customer or the vehicle to the document, so that it appears in the document's **Comments** FastTab, [read more](garagehive-comments-extended.html#adding-comments-in-a-card).
+
+   ![](media/garagehive-copy-to-document.png)
+
+
 ### 5th April 2023
 * Added **Vehicle Sales Preparation Workflow**, which helps in tracking the progress of vehicles on sale through the use of **Vehicle Preparation Orders**.
 

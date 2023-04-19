@@ -14,7 +14,7 @@ This article provides guidance on how to take a deposit from a customer, using t
 3. [Using Deposit Amount as Payment Method in a Jobsheet](#using-deposit-amount-as-payment-method-in-a-jobsheet)
 4. [Applying Deposits to Posted Documents](#applying-deposits-to-posted-documents)
 
-### How to Take a Deposit within a Document
+### How to Take a Deposit in a Document
 To take a deposit on a document, such as a Jobsheet, Sales Order, or Sales Invoice:
 1. Open the document from which you want to take a deposit, then select **Payments/Posting** from the menu bar, followed by **Take Deposit**.
 

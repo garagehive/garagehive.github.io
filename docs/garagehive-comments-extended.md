@@ -70,13 +70,13 @@ You can also have standard comments that can be used multiple times. This helps 
 [Go back to top](#top)
 
 ### Adding Comments in a Card
-To add a new comment in card, for example a **Customer Card**:
+To add a new comment in a card, for example a **Customer Card**:
 1. Open the **Customer Card**, then select **Customer** and then **Comments** from the menu bar.
 2. Add the comment and then close the card.
 
    ![](media/garagehive-comments7.gif)
 
-3. When adding the customer in a new **Jobsheet** the comment will pop-up before editing the document.
+3. When adding a customer to a new Jobsheet, the comment(s) will now pop up before adding the customer, giving you the option to use the **Copy to Document** action to transfer the comment to the document.
 
    ![](media/garagehive-comments8.gif)
 
