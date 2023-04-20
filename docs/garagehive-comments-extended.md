@@ -76,7 +76,7 @@ To add a new comment in a card, for example a **Customer Card**:
 
    ![](media/garagehive-comments7.gif)
 
-3. When adding a customer to a new Jobsheet, the comment(s) will now pop up before adding the customer, giving you the option to use the **Copy to Document** action to transfer the comment to the document.
+3. When adding the customer to a new Jobsheet, the comment(s) will now pop up before adding the customer, giving you the option to use the **Copy to Document** action to transfer the comment to the document.
 
    ![](media/garagehive-comments8.gif)
 

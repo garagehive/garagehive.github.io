@@ -13,8 +13,9 @@ Purchase Orders are commonly used in Business-to-Business (B2B) transactions to 
 2. [Create and Email the Purchase Order from a Jobsheet](#create-and-email-the-purchase-order-from-a-jobsheet)
 3. [Creating a Purchase Order From the Role Centre](#creating-a-purchase-order-from-the-role-centre)
 4. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
-5. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
-6. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
+5. [How to Split a Purchase Order Across Multiple Invoices](#how-to-split-a-purchase-order-across-multiple-invoices)
+6. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
+7. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
 
 ### Creating a Purchase Order directly from a Jobsheet
 To create a purchase order directly from a Jobsheet:
@@ -144,6 +145,36 @@ When the items are received in the garage, without an invoice it is possible to 
 6. After receiving the invoice, select **Receive and Invoice** for all items or **Invoice** for items already received and click **OK**.
 
    ![](media/garagehive-posting-a-purchase-order5.png)
+
+[Go back to top](#top)
+
+### How to Split a Purchase Order Across Multiple Invoices
+At times, it's possible that the items listed in a Purchase Order will be delivered through multiple invoices. Here is how to effectively process the Purchase Order with the multiple invoices:
+1. Open the Purchase Order with the items to be received.
+2. Delete the quantity for the item that has a different invoice (or the invoice has yet to be received) from the **Qty. to Receive** column.
+
+   ![](media/garagehive-purchase-order-with-multiple-invoices1.png)
+
+3. Enter the date of the invoice in the **Document Date** field, ensure that the **Posting Date** is accurate, and enter the Invoice No. in the **Vendor Invoice No.** field.
+
+   ![](media/garagehive-purchase-order-with-multiple-invoices2.png)
+
+4. Select **Posting** and then **Post** from the menu bar.
+
+   ![](media/garagehive-purchase-order-with-multiple-invoices3.png)
+
+5. In the pop-up notification, select **Receive and Invoice** to receive and invoice the items in the vendor invoice that you have received.
+
+   ![](media/garagehive-purchase-order-with-multiple-invoices4.png)
+
+6. The **Quantity Received** and **Quantity Invoiced** columns of the items in the invoice are filled with the respective quantities. However, for the other items in other invoices, their quantities are still displayed in the **Qty. to Receive** and **Qty. to Invoice** columns, as the Purchase Order is still open.
+
+   ![](media/garagehive-purchase-order-with-multiple-invoices5.png)
+
+7. Repeat the procedure for all the remaining invoices, making sure to enter the correct **Document Date**, **Posting Date**, and **Vendor Invoice Number** for each invoice. 
+8. After all the Items have been received and invoiced, the purchase order will be fully closed and posted, and will no longer be visible in the purchase order list.
+
+   ![](media/garagehive-purchase-order-with-multiple-invoices6.gif)
 
 [Go back to top](#top)
 
