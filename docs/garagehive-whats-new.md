@@ -7,11 +7,11 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 19th April 2023
-* Added the ability to take a deposit from a document, such as a Jobsheet, Sales Order, or Sales Invoice, by using the **Take Deposit** action, which is located next to the **Take Payment** action, [read more](take-payment-deposit.html#how-to-take-a-deposit-in-a-document).
+* Added the ability to take a deposit from a document, such as a Jobsheet, Sales Order, or Sales Invoice, by using the **Take Deposit** action, which is located next to the **Take Payment** action, [read more](take-payment-deposit.html#how-to-take-a-deposit-in-a-document){:target="_blank"}.
 
    ![](media/garagehive-take-deposit-in-document.png)
 
-* Added the **Post Items Journals** slider to the **Data Permissions** FastTab in the **User Management** card, which when enabled prevents the user from posting the **Item Journals**, **Physical Inventory Journals**, **Item Reclassification Journals**, and **Item Revaluation Journals**. [Read more](garagehive-user-management.html#enabling-data-permissions-for-a-user).
+* Added the **Post Items Journals** slider to the **Data Permissions** FastTab in the **User Management** card, which when enabled prevents the user from posting the **Item Journals**, **Physical Inventory Journals**, **Item Reclassification Journals**, and **Item Revaluation Journals**. [Read more](garagehive-user-management.html#enabling-data-permissions-for-a-user){:target="_blank"}.
 
    ![](media/garagehive-data-permissions-post-item-journals.png)
 
@@ -19,7 +19,7 @@ The following is a list of all new Garage Hive features and updates:
 
    ![](media/garagehive-compose-an-email.png)
 
-* Added the ability to add comments linked to the **Customer/Vehicle** card when creating a document and adding the customer or the vehicle to the document, so that it appears in the document's **Comments** FastTab, [read more](garagehive-comments-extended.html#adding-comments-in-a-card).
+* Added the ability to add comments linked to the **Customer/Vehicle** card when creating a document and adding the customer or the vehicle to the document, so that it appears in the document's **Comments** FastTab, [read more](garagehive-comments-extended.html#adding-comments-in-a-card){:target="_blank"}.
 
    ![](media/garagehive-copy-to-document.png)
 
@@ -35,7 +35,7 @@ The following is a list of all new Garage Hive features and updates:
     - When **sending document emails** i.e. Invoices/Proformas/Estimates/VIE.
 
 ### 20th March 2023
-* Added a **Create and Email Purchase Order(s)** action within the Jobsheet where a Service Advisor can create and email the Purchase Order to the Vendor, [read more](garagehive-create-a-purchase-order.html#create-and-email-the-purchase-order-from-a-jobsheet).
+* Added a **Create and Email Purchase Order(s)** action within the Jobsheet where a Service Advisor can create and email the Purchase Order to the Vendor, [read more](garagehive-create-a-purchase-order.html#create-and-email-the-purchase-order-from-a-jobsheet){:target="_blank"}.
 
    ![](media/garagehive-create-and-email-a-purchase-order.png)
 
@@ -50,7 +50,7 @@ The following is a list of all new Garage Hive features and updates:
    ![](media/garagehive-extended-description-vehicle-sales-invoice.png)
 
 ### 2nd March 2023
-* **MOT Data Trends** have been added to the **Garage Industry Trends** website. MOT Data Trends is a comprehensive set of reports that analyses 200 million lines of data over three years for MOT failures and item failures by make, model, year, fuel type, item failure, region, and much more. [MOT Data Trends](https://www.garageindustrytrends.com/mot) webpage has been added to the Garage Industry Trends website, which demonstrates some of the reports and is mobile-friendly. If you are on a desktop/laptop you can click on [this link](https://app.powerbi.com/view?r=eyJrIjoiMjM5NDRiMWItNzQ4MS00N2U1LWJhMzUtYTMwMjEzYmE1NTA4IiwidCI6IjFiZGU4OWFkLWI0Y2UtNDVkZi1hOTE5LWUxZTA4ZTQ3Mjk0ZCIsImMiOjh9&fbclid=IwAR2jWj9P0ctEUWa46lIDQlfcLYjzTgWFjwnMksYB9B4IMf6mzBr-tOk2iSE) to skip directly to the Power BI reports.
+* **MOT Data Trends** have been added to the **Garage Industry Trends** website. MOT Data Trends is a comprehensive set of reports that analyses 200 million lines of data over three years for MOT failures and item failures by make, model, year, fuel type, item failure, region, and much more. [MOT Data Trends](https://www.garageindustrytrends.com/mot){:target="_blank"} webpage has been added to the Garage Industry Trends website, which demonstrates some of the reports and is mobile-friendly. If you are on a desktop/laptop you can click on [this link](https://app.powerbi.com/view?r=eyJrIjoiMjM5NDRiMWItNzQ4MS00N2U1LWJhMzUtYTMwMjEzYmE1NTA4IiwidCI6IjFiZGU4OWFkLWI0Y2UtNDVkZi1hOTE5LWUxZTA4ZTQ3Mjk0ZCIsImMiOjh9&fbclid=IwAR2jWj9P0ctEUWa46lIDQlfcLYjzTgWFjwnMksYB9B4IMf6mzBr-tOk2iSE){:target="_blank"} to skip directly to the Power BI reports.
 
    ![](media/garagehive-mot-data-trends.png)
 
@@ -63,11 +63,11 @@ The following is a list of all new Garage Hive features and updates:
 * **Standard Events** are now excluded from the schedule's available hours. This now allows the user to see the actual time that is available for booking.
 
 ### 6th February 2023
-* Added the **Begins With** filter to **Engine Model Codes** Service Package conditions, which filters out certain engine codes that begin with the specified code, [read more](service-package-conditions.html).
-* Added the ability to set the vehicle's age service package condition based on the vehicle's first registration date rather than the production year, [read more](service-package-conditions.html).
+* Added the **Begins With** filter to **Engine Model Codes** Service Package conditions, which filters out certain engine codes that begin with the specified code, [read more](service-package-conditions.html){:target="_blank"}.
+* Added the ability to set the vehicle's age service package condition based on the vehicle's first registration date rather than the production year, [read more](service-package-conditions.html){:target="_blank"}.
 
 ### 23rd January 2023
-* Garage Hive now includes the **Pay360** integration, which is an online payment service that helps make the payment process more efficient and faster, [read more](garagehive-setting-up-payment-by-glink-pay360.html).
+* Garage Hive now includes the **Pay360** integration, which is an online payment service that helps make the payment process more efficient and faster, [read more](garagehive-setting-up-payment-by-glink-pay360.html){:target="_blank"}.
 * Added **EV Components** in vehicle cards, such as **EV Type** and **EV Battery Size**.
 
    ![](media/garagehive-ev-components.png)
