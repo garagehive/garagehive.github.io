@@ -151,7 +151,7 @@ When the items are received in the garage, without an invoice it is possible to 
 ### How to Split a Purchase Order Across Multiple Invoices
 At times, it's possible that the items listed in a Purchase Order will be delivered through multiple invoices. Here is how to effectively process the Purchase Order with the multiple invoices:
 1. Open the Purchase Order with the items to be received.
-2. Delete the quantity for the item that has a different invoice (or the invoice has yet to be received) from the **Qty. to Receive** column.
+2. Delete from the **Qty. to Receive** column, the quantity of the item that has a different invoice (or the invoice has yet to be received).
 
    ![](media/garagehive-purchase-order-with-multiple-invoices1.png)
 
