@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 25th April 2023
+* Enhanced the **Line Checker** column, so that it shows errors and warnings with several icons. To understand more about the icons, [read more](garagehive-line-checker.html).
+
+   ![](media/garagehive-line-checker.png)
+
 ### 19th April 2023
 * Added the ability to take a deposit from a document, such as a Jobsheet, Sales Order, or Sales Invoice, by using the **Take Deposit** action, which is located next to the **Take Payment** action, [read more](take-payment-deposit.html#how-to-take-a-deposit-in-a-document){:target="_blank"}.
 
