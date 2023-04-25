@@ -29,7 +29,7 @@
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
     - name: Data Exports from your Old GMS to Garage Hive
-      url: /docs/export-data.html
+      url: /docs/garagehive-data-export-to-garagehive.html
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
     - name: Go Live Setup
@@ -551,3 +551,5 @@
       url: /docs/garagehive-faqs.html
     - name: Security, Privacy and Compliance FAQs
       url: /docs/garagehive-faqs-security.html
+    - name: Accountancy FAQs
+      url: /docs/garagehive-faqs-accountancy.html
