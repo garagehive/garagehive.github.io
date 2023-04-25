@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Accountancy Questions for People Looking to Join Garage Hive
+title: Accountancy Questions for People Looking to Join Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Accountancy Questions for People Looking to Join Garage Hive
 Garage Hive is a community-driven, cloud-based garage management system powered by Microsoft. It offers many features to help you run your garage business efficiently and effectively, such as workshop management, Autodata integration, supplier integration, online booking, vehicle health checks, customer online authorisation and more. One of the feature that Garage Hive provides is Accountancy module. In this article, we will answer some of the most frequently asked accounting questions by new Garage Hive customers.

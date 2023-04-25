@@ -1,15 +1,16 @@
 ---
 layout: docs
-title: DRAFT* - Data Migration to Garage Hive from Other Garage Management Systems
+title: Data Migration to Garage Hive from Other Garage Management Systems
 ---
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 # Data Migration to Garage Hive from Other Garage Management Systems
 Data migration to Garage Hive is the process of transferring data from one garage management system to Garage Hive system. The purpose of data migration is to ensure that the data is accurate, consistent and compatible with the Garage Hive. This process can involve different types of data, such as customer records, vehicle history, inventory stock, invoices, etc.
+
+> Please contact the **Garage Hive Support Team** for assistance with this process:
+> * **Phone** - [**02031461164**](tel:02031461164)
+> * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
 
 The steps for data migration from other garage management systems to Garage Hive may vary depending on the specific system and preferences of each garage. However, a general outline of the process is as follows:
 
@@ -30,14 +31,28 @@ The steps for data migration from other garage management systems to Garage Hive
 ## MAM Software
    * **Phone** - [**01226352904**](tel:01226 352904) 
    * **Email** - [**awolsupport@mamsoft.co.uk**](mailto:awolsupport@mamsoft.co.uk)
+
+      ![](media/mamsoftware-logo.png)
+
+You will need to contact MAM Software directly for them to perform the data extract for you, simply inform them that you need the data required to import into another Garage Management System and they will send you a file to forward to us.
+
+They will ask if you want a CD, We recommend asking them to log into your computer and leaving the file on your desktop instead.
+
+We often notice that the reminder file provided during the standard export only contains expired dates, please ask them to ensure the reminders file is accurate.
    
 ## Techman
    * **Phone** - [**01604936462**](tel:01604 936462)
-   * * **Email** - [**info@techmangms.com**](mailto:info@techmangms.com)
+   * **Email** - [**info@techmangms.com**](mailto:info@techmangms.com)
+
+      ![](media/techman-logo.png)
+
+You will need to contact Techman directly for them to perform the data extract for you, simply inform them that you need the data required to import into another Garage Management System and they will send you a file to forward to us.
 
 ## GA3
    * **Phone** - [**02031461164**](tel:02031461164)
    * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
+
+      ![](media/ga3.png)
 
 To obtain the correctly formatted data from GA3 for us to import into Garage Hive you will need to ask [**SWS Solutions (UK) Ltd**](https://www.sws-solutions.co.uk/contact.php){:target="_blank"} to perform an export of your data. Please don't forget to ask for your vehicle history.
 

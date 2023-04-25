@@ -28,7 +28,7 @@
       url: /docs/garagehive-training.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
-    - name: Exports from your old GMS 
+    - name: Data Exports from your Old GMS to Garage Hive
       url: /docs/export-data.html
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
@@ -465,6 +465,8 @@
       url: /docs/garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html
     - name: How to Use Service Recharge for Internal Charging
       url: /docs/garagehive-service-recharge.html
+    - name: Getting Started with Financial Reporting
+      url: /docs/garagehive-financial-reporting.html
     - name: Working With Payment Reconciliation Journals
       url: /docs/garagehive-payment-reconciliation-journals.html
     - name: How to reconcile customer payments manually
