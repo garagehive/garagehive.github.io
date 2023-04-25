@@ -1,14 +1,11 @@
 ---
 layout: docs
-title: DRAFT* - How to Use Financial Reporting in Garage Hive
+title: Getting Started with Financial Reporting in Garage Hive
 ---
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
-# How to Use Financial Reporting in Garage Hive
+# Getting Started with Financial Reporting in Garage Hive
 If you are familiar with the **Account Schedules** feature in Garage Hive, you may have noticed some changes in the latest releases. Account Schedules has been renamed to **Financial Reporting**, and the way you create and manage financial reports has been improved.
 
 ## In this article
