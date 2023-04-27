@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Upgrade to Version 20 of Business Central Tips
+title: Upgrade of Business Central Hints & Tips
 ---
 
 ## Here are some tips should you experience any of the following
