@@ -129,6 +129,8 @@
       url: /docs/garagehive-create-a-jobsheet.html
     - name: Creating a Jobsheet from Various Places in Garage Hive
       url: /docs/garagehive-jobsheet-create-from-various-places.html
+    - name: Understanding the Jobsheet Line Checker Notifications
+      url: /docs/garagehive-line-checker.html
     - name: Using the Service Schedule 
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Adding New Options in the Schedule Allocation Menu
