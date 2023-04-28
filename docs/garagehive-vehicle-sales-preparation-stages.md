@@ -13,7 +13,7 @@ title: How to Use Vehicle Preparation Stages in Garage Hive
 2. [How to Create a Vehicle Preparation Order](#how-to-create-a-vehicle-preparation-order)
 
 ### How to Create Vehicle Preparation Stages
-To customise the **Vehicle Preparation Stages:
+To customise the **Vehicle Preparation Stages**:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Vehicle Preparation Stages**, and select the related link under **Pages and Tasks**.
 
    ![](media/garagehive-vehicle-preparation-stages1.png)
@@ -36,15 +36,7 @@ After creating the **Vehicle Preparation Stages**, the next step is to create a 
 
    ![](media/garagehive-vehicle-preparation-stages4.png)
 
-3. The next step is to create a **Number Series** for the **Vehicle Preparation Orders**. Choose the ![](media/search_icon.png) icon in the top-right corner, enter **Vehicle Sales Setup** and select the related link. 
-
-   ![](media/garagehive-vehicle-preparation-stages4a.png)
-
-4. Scroll down to the **Number Series** FastTab, and create a number series in the **Vehicle Prep. Order Nos.** field. When done, click the back arrow to exit the setup page.
-
-   ![](media/garagehive-vehicle-preparation-stages4b.png)
-
-5. To create a new **Vehicle Preparation Order**, go to the **Vehicle Preparation Stages** page (which you bookmarked in the Role Centre) and click **New**.
+3. To create a new **Vehicle Preparation Order**, go to the **Vehicle Preparation Stages** page (which you bookmarked in the Role Centre) and click **New**.
 
    ![](media/garagehive-vehicle-preparation-stages5.gif)
 
@@ -61,15 +53,15 @@ After creating the **Vehicle Preparation Stages**, the next step is to create a 
 
    ![](media/garagehive-vehicle-preparation-stages7a.png)
 
-8. Under the **Stages** FastTab, you can now select the **Vehicle Preparation Stage** that the vehicle is currently in, followed by the **Status**. 
+8. Under the **Stages** FastTab, select the **Vehicle Preparation Stage** that the vehicle is currently in, followed by the **Status**. 
 
    ![](media/garagehive-vehicle-preparation-stages8.png)
 
-9. If there are any comments for the **Preparation Stage**, you can view them in the **No. of Stage Lines** field by clicking on the number in the field.
+9.  If there are any comments for the **Preparation Stage**, you can view them in the **No. of Stage Lines** field by clicking on the number in the field.
 
    ![](media/garagehive-vehicle-preparation-stages8a.gif)   
 
-10. When the previous stage is complete, select the **Status** as completed, and then add the next stage in the next line. Repeat this process for each stage.
+10. It is important to note that you can use any stage in any order, depending on the process you use in your workshop, and you can also add stages in parallel to each other.
 
    ![](media/garagehive-vehicle-preparation-stages9.png)
 
