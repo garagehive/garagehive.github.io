@@ -111,7 +111,7 @@ Yes, you can set specific Labour and Parts discounts for all customers or groups
 
 See the article link below for more information. 
 
-> [Setting specific price, markup, or discounts.](/docs/garagehive-extending-price-markup-and-discount-calculations.html "Setting specific price, markup, or discounts")
+> [Setting specific price, markup, or discounts.](/docs/garagehive-automatic-price-markup-and-discount-calculations.html "Setting specific price, markup, or discounts")
 
 [Go back to top](#top)
 
