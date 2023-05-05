@@ -292,7 +292,7 @@ The following is a list of all new Garage Hive features and updates:
 * **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet.html){:target="_blank"} now works with stock keeping units.
 * Added the possibility to correct a posted jobsheet.
 * Added the **Mark as Reviewed** button to the **Comments Attention**, **Surveys to Review**, **Online Booking to Review** and **Self Check-in** tiles.
-* Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-extending-price-markup-and-discount-calculations.html){:target="_blank"}.
+* Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-automatic-price-markup-and-discount-calculations.html){:target="_blank"}.
 
 ### 8th December 2021
 * Added the ability to login to PowerBI using [Web Service Access Key](powerbi-installing-app.html){:target="_blank"}, instead of Garage Hive System password.

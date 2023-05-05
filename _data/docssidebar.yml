@@ -234,7 +234,7 @@
     - name: How to carry out Stock Adjustments
       url: /docs/garagehive-stock-adjustments.html
     - name: Extending Prices, Markups and Discounts Calculations
-      url: /docs/garagehive-extending-price-markup-and-discount-calculations.html
+      url: /docs/garagehive-automatic-price-markup-and-discount-calculations.html
     - name: How to set retail prices, margins & markups
       url: /docs/garagehive-item-pricing-markup.html
     - name: How to create item Price/Discount groups and update items
