@@ -230,7 +230,7 @@
     - name: Setting Up Requisition Worksheet for Re-ordering Items
       url: /docs/garagehive-requisition-worksheet.html
     - name: How to Use Advance Tyre Lookup Feature
-      url: /docs/garagehive-advanced-tyre-lookup.html
+      url: /docs/garagehive-item-advanced-tyre-lookup.html
     - name: Doing a Physical Stock Take in Garage Hive
       url: /docs/garagehive-doing-physical-stock-take.html
     - name: How to carry out Stock Adjustments
