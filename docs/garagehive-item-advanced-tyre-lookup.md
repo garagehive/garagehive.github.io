@@ -1,12 +1,27 @@
 ---
 layout: docs
-title: How to Use Advance Tyre Lookup Feature in Garage Hive
+title: How to Use Item Lookup and Advance Tyre Lookup Feature in Garage Hive
 ---
 
 <a name="top"></a>
 
-# How to Use Advance Tyre Lookup Feature in Garage Hive
+# How to Use Item Lookup and Advance Tyre Lookup Feature in Garage Hive
 
+## In this article
+1. [Item Lookup](#item-lookup)
+2. [Advance Tyre Lookup](#advance-tyre-lookup)
+
+### Item Lookup
+The **Item Lookup** feature is found in documents when adding an item or labour in the a document. This allows you to search the specific **Item** or **Labour** that you are adding in the document. This is how to use the **Item Lookup**:
+1. In the document, select the **Type** of entity that you want, either **Item** or **Labour** then enter a keyword or number in the **No.** field, for example **MOT**. Press the tab or enter key. This opens a window with all the items or labours that have the keyword.
+
+   ![](media/garagehive-item-lookup1.gif)
+
+2. To open the full list of items or labours available in the system from the document line, select either **Item** or **Labour** and then click on the ellipsis (...) in the **No.** field.
+
+   ![](media/garagehive-item-lookup2.gif)
+
+### Advance Tyre Lookup
 The **Advanced Tyre Lookup** feature in Garage Hive enables the availability of a list of stock tyres in the system from tyre vendors/suppliers. This allows garages that trade in tyres to look up tyres in the system when they need to buy new tyres for selling.
 
 To use this feature, you should first import a tyre stock file from the supplier, then proceed as follows:

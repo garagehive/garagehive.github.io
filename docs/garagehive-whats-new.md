@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 9th May 2023
+* Added the ability to access Jobsheet, Posted Jobsheet, Estimate, VI, and VI Estimate from the **Vehicle Sales Order** FactBox.
+
+   ![](media/vehicle-sales-order-factbox.png)
+
+* Replaced the dropdown item/labour lookup in document with a popup window when a keyword of the item is typed. For example, if you type MOT and press the tab or enter key, all items with the word MOT will appear in the popup window.
+
+   ![](media/item-lookup.gif)
+
 ### 25th April 2023
 * Enhanced the **Line Checker** column, so that it shows errors and warnings with several icons. To understand more about the icons, [read more](garagehive-line-checker.html).
 
