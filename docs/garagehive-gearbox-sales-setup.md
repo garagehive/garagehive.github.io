@@ -1,12 +1,7 @@
 ---
 layout: docs
-title: DRAFT* - Gearbox Sales Setup
+title: Gearbox Sales Setup
 ---
-
-<a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Gearbox Sales Setup
 To start using the **Gearbox Sales** module, there is some setup required in the **Vehicle Sales Setup** Page.

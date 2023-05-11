@@ -163,6 +163,8 @@
       url: /docs/garagehive-removing-posting-restrictions.html
     - name: How to Create Warranty Job
       url: /docs/garagehive-create-warranty-job.html
+    - name: Gearbox Sales Setup
+      url: /docs/garagehive-gearbox-sales-setup.html
 - name: Parts Sales
   url: "#"
   subitems:
