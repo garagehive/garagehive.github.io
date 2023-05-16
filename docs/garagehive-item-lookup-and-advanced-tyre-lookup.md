@@ -12,6 +12,10 @@ title: How to Use Item Lookup and Advance Tyre Lookup Feature in Garage Hive
 2. [Advance Tyre Lookup](#advance-tyre-lookup)
 
 ### Item Lookup
+
+   [![How to lookup Item's and Labours in service documents](https://img.youtube.com/vi/CHV0XvxGKq8/0.jpg)](https://www.youtube.com/watch?v=CHV0XvxGKq8)
+
+
 The **Item Lookup** feature is found in documents when adding an item or labour in the a document. This allows you to search the specific **Item** or **Labour** that you are adding in the document. This is how to use the **Item Lookup**:
 1. In the document, select the **Type** of entity that you want, either **Item** or **Labour** then enter a keyword or number in the **No.** field, for example **MOT**. Press the tab or enter key. This opens a window with all the items or labours that have the keyword.
 
