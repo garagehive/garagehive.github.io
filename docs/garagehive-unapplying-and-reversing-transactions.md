@@ -18,7 +18,7 @@ Unapplying payments means that you want to deallocate or unlink a transaction fr
    ![](media/garagehive-unapplying-and-reversing-transactions1.gif)
 
 3. Select the payment that was incorrectly applied in the **Customer Ledger Entries** page, then go to the menu bar and select **Process** and then **Unapply Entries**.
-4. Select the three dots at the top of the **Unapply Customer Entries** pop-up window to show more actions, then select **Unapply**. The transactions will now be successfully unapplied.
+4. Select the ellipsis (...) at the top of the **Unapply Customer Entries** pop-up window to show more actions, then select **Unapply**. The transactions will now be successfully unapplied.
 
    ![](media/garagehive-unapplying-and-reversing-transactions2.gif)
 

@@ -21,7 +21,7 @@ Sometimes you will need to update your Garage Hive credentials within Power BI, 
 
    ![](media/garagehive-installing-powerbi-app3.gif)
 
-5. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**., then press **Sign In**.
+5. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the ellipsis (...) to view key) from your **Power BI App Setup**., then press **Sign In**.
 
    > **NOTE:** We recommend using the **Web Service Access Key** since it's independent of the **Garage Hive** system password. This means, if your **Garage Hive** system is reset, your **Power BI App** will continue working as usual without crashing.
 

@@ -36,7 +36,7 @@ The **Checklist Text Templates** feature allows you to pre-assign templates in c
 
       ![](media/garagehive-checklist-text-templates5.gif)
 
-14. To view the **Checklist Text Templates** in a checklist, open the checklist, click the three dots at the end of the **Checklist Item** line, and then click **Lookup Text Template** in the dialogue box. If you din't filter, the entire list of the **Checklist Text Template** will be displayed.
+14. To view the **Checklist Text Templates** in a checklist, open the checklist, click the ellipsis (...) at the end of the **Checklist Item** line, and then click **Lookup Text Template** in the dialogue box. If you din't filter, the entire list of the **Checklist Text Template** will be displayed.
 
       ![](media/garagehive-checklist-text-templates6.gif)
 

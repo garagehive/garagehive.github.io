@@ -39,7 +39,7 @@ Follow these steps to add media into document lines:
 
 ### Adding media to checklist lines
 When creating a checklist, use the steps below to add media to the checklist lines:
-1. From the checklist lines, select the three dots at the end of the checklist line to add the media.
+1. From the checklist lines, select the ellipsis (...) at the end of the checklist line to add the media.
 2. From the pop-up menu, select the method for adding a picture to the line, in this case we'll use **Upload Line Picture**.
 
    ![](media/garagehive-adding-and-managing-media4.gif)

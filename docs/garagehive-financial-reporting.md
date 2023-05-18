@@ -52,7 +52,7 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
 
    ![](media/garagehive-financial-reports8.png)
 
-1. Click on the three dots in the menu bar, and select **Edit Row Definition**.
+1. Click on the ellipsis (...) in the menu bar, and select **Edit Row Definition**.
 
    ![](media/garagehive-financial-reports9.png)
 
@@ -78,7 +78,7 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
 
    ![](media/garagehive-financial-reports14.png)
 
-1. Click on the three dots in the menu bar, and select **Edit Column Definition**.
+1. Click on the ellipsis (...) in the menu bar, and select **Edit Column Definition**.
 
    ![](media/garagehive-financial-reports15.png)
 

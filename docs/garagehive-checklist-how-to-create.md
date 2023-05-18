@@ -67,7 +67,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
    ![](media/garagehive-checklists-group-example1.png)
 
-1. To create new **Checklist Items** for the **Checklist Template Item Group** that you have created, select the three dots at the menu bar, and then **Items**.
+1. To create new **Checklist Items** for the **Checklist Template Item Group** that you have created, select the ellipsis (...) at the menu bar, and then **Items**.
 
    ![](media/garagehive-checklist-setup5.gif)
 

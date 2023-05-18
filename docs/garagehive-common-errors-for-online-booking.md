@@ -32,7 +32,7 @@ In this article, we'll look at the common errors and how to fix them:
 
    ![](media/garagehive-online-booking-errors5.gif)
 
-4. **Online Booking Icon** must not be blank: This error occurs when the **Online Booking Icon** is not selected; this is the icon to be displayed for the service package in the online widget. **Open Related Record** to go to the **Service Package** card, scroll down to **Online Booking(OB)** FastTab. Select an icon by clicking on the three dots in the **Online Booking Icon** field; you can preview the icon by clicking on the three dots at the end of the field.
+4. **Online Booking Icon** must not be blank: This error occurs when the **Online Booking Icon** is not selected; this is the icon to be displayed for the service package in the online widget. **Open Related Record** to go to the **Service Package** card, scroll down to **Online Booking(OB)** FastTab. Select an icon by clicking on the ellipsis (...) in the **Online Booking Icon** field; you can preview the icon by clicking on the ellipsis (...) at the end of the field.
 
    ![](media/garagehive-online-booking-errors6.gif)
    

@@ -46,7 +46,7 @@ To take a deposit on a document, such as a Jobsheet, Sales Order, or Sales Invoi
    ![](media/take-payment-customer.png)
 
 1. Once selected, the customer's balance will be displayed in the **Customer Balance** field.
-1. Click on the three dots in the **Payment Method Code** field to select a payment method.
+1. Click on the ellipsis (...) in the **Payment Method Code** field to select a payment method.
 1. Since you want to take a Deposit Payment, select the **Deposit Payment** slider.
 1. The **Next** button is now active, and you can proceed to the next page.
 

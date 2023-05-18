@@ -78,7 +78,7 @@ After scanning the tyres and sending the report to the system, you should create
    ![](media/garagehive-tyre-scanner7.gif)
 
 5. Scroll down to the **Tyres and Wheels** section of the Checklist to see the applied report.
-6. A comment and a photo have been added to each tyre line, and you can view the photo by clicking on the three dots at the end of the line and selecting **Show Line Pictures**.
+6. A comment and a photo have been added to each tyre line, and you can view the photo by clicking on the ellipsis (...) at the end of the line and selecting **Show Line Pictures**.
 
    ![](media/garagehive-tyre-scanner8.gif)
 
