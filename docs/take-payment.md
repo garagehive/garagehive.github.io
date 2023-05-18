@@ -21,7 +21,7 @@ See the video below or follow the written instructions to take payments for post
 
    ![](media/take-payment-customer.png)
 
-3. When you select a customer, you will see their balance. In the **Payment Method Code** field, type or click the three dots to select a payment method.
+3. When you select a customer, you will see their balance. In the **Payment Method Code** field, type or click the ellipsis (...) to select a payment method.
 
    ![](media/take-payment-payment-method.png)
 

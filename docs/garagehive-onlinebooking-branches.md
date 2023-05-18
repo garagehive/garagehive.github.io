@@ -19,7 +19,7 @@ In the **Online Booking Setup** page:
    ![](media/garagehive-onlinebooking-branches2a.gif)
 
 4. Then, click the down arrow to the right of the **Location Code** and then click **select from full list**.
-5. Select the three dots at the top, then **Manage**, followed by **Edit**.
+5. Select ellipsis (...) at from the menu bar, then **Manage**, followed by **Edit**.
 6. In the page that appears, ensure that the **Business Location** is enabled and enter the **Address**, **Phone Number**, and **Email Address** of that location. Repeat the process for each location you've added.
 
    ![](media/garagehive-onlinebooking-branches3.gif)

@@ -39,7 +39,7 @@ Online booking is used in the system to create Jobsheets. Choose the ![](media/s
     ![](media/garagehive-onlinebooking-service-packages5.gif)
     
 6. The next step is to specify where the system will look for availability in your schedule to book the service package. Click on the down arrow in the **Resource Group Code**, then select **See from full list**.
-7. Select a **Resource Group** for the location, and then click the three dots at the top, followed by **Specifications**. In this list opens, add the resources that you want resource group to be able to make allocations against. This could be just the MOT bay, all techs, or just the tech who does diagnosis work, depending on what this group will be used for. (In the future, you may not need to create new groups; instead, you can simply add existing groups to each service package.)
+7. Select a **Resource Group** for the location, and then click the ellipsis (...) at from the menu bar, followed by **Specifications**. In this list opens, add the resources that you want resource group to be able to make allocations against. This could be just the MOT bay, all techs, or just the tech who does diagnosis work, depending on what this group will be used for. (In the future, you may not need to create new groups; instead, you can simply add existing groups to each service package.)
 
     ![](media/garagehive-onlinebooking-service-packages6.gif)
 

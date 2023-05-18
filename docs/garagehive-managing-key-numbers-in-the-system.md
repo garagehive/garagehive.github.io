@@ -71,6 +71,6 @@ As a result, the **Jobsheet Key Tag No.** field displays the linked jobsheet's k
 
 ![](media/garagehive-managing-key-numbers11.png)
 
-If the vehicle has not yet arrived and the jobsheet is available, you can assign a key number from the purchase order by first linking the purchase order to the jobsheet, then clicking the three dots at the end of the **Jobsheet Key Tag No.** field and selecting the key number.
+If the vehicle has not yet arrived and the jobsheet is available, you can assign a key number from the purchase order by first linking the purchase order to the jobsheet, then clicking the ellipsis (...) at the end of the **Jobsheet Key Tag No.** field and selecting the key number.
 
 ![](media/garagehive-managing-key-numbers12.gif)
