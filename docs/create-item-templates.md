@@ -33,4 +33,4 @@ To create new **Item Card Templates**:
 ### See Also 
 
 [Video: How to create and sort item card templates](https://www.youtube.com/watch?v=mbS2QuaEagE){:target="_blank"} \
-[Create item Price/Discount groups and update items](/docs/item-price-discount-groups.html "Create item Price/Discount groups and update items") 
+[Create item Price/Discount groups and update items](/docs/item-price-discount-groups.html "Create item Price/Discount groups and update items"){:target="_blank"} 
