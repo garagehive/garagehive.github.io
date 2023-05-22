@@ -19,7 +19,7 @@ In this article, we will explain how to use the Gearbox Sales Module, specifical
 4. [Create the Gearbox Item to Sell](#create-the-gearbox-item-to-sell)
 5. [Create an Internal Gearbox Preparation Jobsheet](#create-an-internal-gearbox-preparation-jobsheet)
 
-### Get the Online Booking HTML embed script
+### Duplicate the Vehicle Sales Role
 To make it easier to use the **Gearbox Sales Module**, duplicate the **Vehicle Sales Admin** role to create a **Gearbox Sales Admin** role, and then personalise the Role Centre for Gearbox Sales:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Profiles (Roles)**, and select the related link.
 
