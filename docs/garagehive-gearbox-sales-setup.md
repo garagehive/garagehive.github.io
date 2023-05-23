@@ -60,7 +60,7 @@ To start using the **Gearbox Sales** module, the following setup is required in 
 
    ![](media/garagehive-gearbox-sales-setup8.gif)
    
-5.  Add the new customer card to the **Default Internal Customer No.** field.
+5. Add the new customer card to the **Default Internal Customer No.** field.
 
    ![](media/garagehive-gearbox-sales-setup9.png)
 
@@ -71,34 +71,34 @@ To start using the **Gearbox Sales** module, the following setup is required in 
 
    ![](media/garagehive-gearbox-sales-setup10.gif)
 
-2.  Enable the **Gearbox Actions in Sales Invoice** slider.
+2. Enable the **Gearbox Actions in Sales Invoice** slider.
 
    ![](media/garagehive-gearbox-sales-setup11.png)
 
-3.  Set the **Default Jobsheet Service Type** as the **Gearbox**, the one you created above.
+3. Set the **Default Jobsheet Service Type** as the **Gearbox**, the one you created above.
 
    ![](media/garagehive-gearbox-sales-setup12.png)
 
-4.  The **Default Jobsheet Comment Type** can be any that you want to use; in this case we'll use **OFFICE**.
+4. The **Default Jobsheet Comment Type** can be any that you want to use; in this case we'll use **OFFICE**.
 
    ![](media/garagehive-gearbox-sales-setup13.png)
 
 [Go back to top](#top)
 
 ### Create a Gearbox Item Category
-1.  For the **Template Item Category Code** you'll have to create a new **Item Category**. Search for **Item Categories** In the top right corner ![](media/search_icon.png) icon.
+1. For the **Template Item Category Code** you'll have to create a new **Item Category**. Search for **Item Categories** In the top right corner ![](media/search_icon.png) icon.
 
    ![](media/garagehive-gearbox-sales-setup14.png)
 
-2.  Select **New** and create a category called **GEARBOXES** and the description to be **Gearboxes** as well. Exit the **Item Category Card** page.
+2. Select **New** and create a category called **GEARBOXES** and the description to be **Gearboxes** as well. Exit the **Item Category Card** page.
 
    ![](media/garagehive-gearbox-sales-setup15.gif)
 
-3.  Select **Create Item Template** on the **Item Categories** page, enter the **Example Template Code** as **Vehicle Sales**, the **New Template Code** as **Gearboxes**, the **New Template Description** as **Gearbox Sales**, and the **Item Category Code** search for the one you just created, **GEARBOXES**. Click the **OK** button.
+3. Select **Create Item Template** on the **Item Categories** page, enter the **Example Template Code** as **Vehicle Sales**, the **New Template Code** as **Gearboxes**, the **New Template Description** as **Gearbox Sales**, and the **Item Category Code** search for the one you just created, **GEARBOXES**. Click the **OK** button.
 
    ![](media/garagehive-gearbox-sales-setup16.gif)
 
-4.  Exit the **Item Categories** page, and enter the **Item Category Code** that you have just created, in the **Template Item Category Code**.
+4. Exit the **Item Categories** page, and enter the **Item Category Code** that you have just created, in the **Template Item Category Code**.
 
    ![](media/garagehive-gearbox-sales-setup16.gif)
 
