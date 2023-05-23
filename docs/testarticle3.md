@@ -79,7 +79,7 @@ To quote the customer, you now need to create a **Sales Quote**:
 
 ### Create the Gearbox Item to Sell
 To create the Gearbox item for selling:
-1. Scroll down to the **Lines** FastTab in the **Sales Invoice** you created, then select **Line** from the Lines Menu bar, followed by **Functions**, and then **Convert Item and Purchase**. This creates a new **Item** and a **Purchase Order** for the new item.
+1. Scroll down to the **Lines** FastTab in the **Sales Invoice** you created, then select **Line** from the Lines Menu bar, followed by **Functions**, and then **Convert Item and Purchase**.
 
    ![](media/garagehive-gearbox-item-to-sell1.png)
 
