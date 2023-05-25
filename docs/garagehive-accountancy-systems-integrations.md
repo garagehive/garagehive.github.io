@@ -1,10 +1,10 @@
 ---
 layout: docs
-title: Finance and Accountancy Integrations
+title: Accountancy System Integrations
 ---
 
-# Finance and Accountancy Integrations
-Garage Hive has implemented a number of accountancy systems integrations, streamlining the management of various tasks associated with accounting operations.
+# Accountancy System Integrations
+Garage Hive has implemented a number of accountancy system integrations, streamlining the management of various tasks associated with accounting operations.
 
 | Accounting System | Read More                                                                                    |
 | :---------------- | :------------------------------------------------------------------------------------------- |
