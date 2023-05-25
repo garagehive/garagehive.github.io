@@ -477,6 +477,13 @@
       url: /docs/garagehive-create-new-bank-account.html
     - name: Accountancy Routines
       url: /docs/garagehive-accountancy-routines.html
+    - name: Accountancy Systems Integrations
+      url: /docs/garagehive-accountancy-systems-integrations.html
+      subitems:
+        - name: Sage Accounting Integration Setup
+          url: /docs/garagehive-sage-accounting-integration.html
+        - name: Xero Integration Setup
+          url: /docs/xero-api-integration.html
 - name: Garage Hive Integrations
   url: "#"
   subitems:
@@ -507,19 +514,12 @@
       url: /docs/garagehive-tyre-scanner-integration.html
     - name: Vostel Telephone System Integration
       url: /docs/garagehive-vostel-integration.html
-    - name: Finance & Accountancy Integrations
-      url: /docs/garagehive-finance-and-accountancy-integrations.html
-      subitems:
-        - name: Sage Accounting Integration Setup
-          url: /docs/garagehive-sage-accounting-integration.html
-        - name: Xero Integration Setup
-          url: /docs/xero-api-integration.html
-        - name: Setting Up Payment by Pay360
-          url: /docs/garagehive-setting-up-payment-by-glink-pay360.html
-        - name: Setting Up Payment by Dojo
-          url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
-        - name: Humm Financing Integration
-          url: /docs/garagehive-humm-financing.html
+    - name: Setting Up Payment by Pay360
+      url: /docs/garagehive-setting-up-payment-by-glink-pay360.html
+    - name: Setting Up Payment by Dojo
+      url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
+    - name: Humm Financing Integration
+      url: /docs/garagehive-humm-financing.html
 - name: Garage Industry Trends
   url: /docs/garagehive-garage-industry-trends.html
 - name: Trial Documentation

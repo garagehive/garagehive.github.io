@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - ECP Integration With Garage Hive
+title: DRAFT* - LKQ Euro Car Parts (ECP) Integration With Garage Hive
 ---
 
 <a name="top"></a>
@@ -8,8 +8,8 @@ title: DRAFT* - ECP Integration With Garage Hive
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-# ECP Integration With Garage Hive
-ECP Integration offers seamless integration between Garage Hive and the **Euro Car Parts (ECP)** catalogues, allowing the process of sourcing and acquiring the parts for vehicles to be efficient.
+# LKQ Euro Car Parts (ECP) Integration With Garage Hive
+LKQ Euro Car Parts (ECP) Integration offers seamless integration between Garage Hive and the **LKQ Euro Car Parts (ECP)** catalogues, allowing the process of quoting, sourcing and ordering the parts for vehicles to be efficient.
 
 ## In this article
 1. [Getting the Account Number](#getting-the-account-number)
@@ -18,19 +18,26 @@ ECP Integration offers seamless integration between Garage Hive and the **Euro C
 4. [Garage Hive Lookup Methods in ECP](#garage-hive-lookup-methods-in-ecp)
 
 ### Getting the Account Number
-You will require an **Account Number** before you can begin the process of linking the Garage Hive system to ECP. If you have multiple locations, you should get an **Account Number** for each location. Please complete the form within the link below:
+You will require an **Account Number** before you can begin the process of linking your Garage Hive system to LKQ Euro Car Parts.
+1. ##### Existing LKQ Euro Car Parts Customers
+   If you are an existing customer of LKQ Euro Car parts, please complete the form within the link below:
 
-   > # ECP Integration Registration Form: <ins>[Form](link){:target="_blank"}</ins>
+      > # LKQ ECP Integration Registration Form: <ins>[Form](link){:target="_blank"}</ins>
+
+   {% include tip.html title="Note" text="If you have multiple locations, you should get an Account Number for each location." %}
+
+2. ##### New LKQ Euro Car Parts Customer
+If you currently do not have an account with LKQ Euro Car Parts please contact your local branch in order to create a new Account.
 
 [Go back to top](#top)
 
 ### System Setup for ECP Integration
-To enable the ECP Integration in Garage Hive:
+To enable the LKQ ECP Integration in Garage Hive:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **ECP Integrations**, and select the related link.
 
    ![](media/ecp-integration-setup1.png)
 
-2. Select **New** in the **ECP Integrations** page, to create a new ECP Integration card.
+2. Select **New** in the **ECP Integrations** page, to create a new LKQ ECP Integration card.
 
    ![](media/ecp-integration-setup2.png)
 
@@ -38,12 +45,12 @@ To enable the ECP Integration in Garage Hive:
 
    ![](media/ecp-integration-setup3.png)
 
-{% include tip.html title="Note" text="After entering the above information and completing the form, you will receive an email from the Garage Hive Support Team informing you that your ECP Integration has been enabled." %}
+{% include tip.html title="Note" text="After entering the above information and completing the form, you will receive an email from the Garage Hive Support Team informing you that your LKQ ECP Integration has been enabled." %}
 
 [Go back to top](#top)
 
 ### Adding Items to Service Document From ECP
-The ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsheets**. To add the items to order from ECP in the document:
+The LKQ ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsheets**. To add the items to order from LKQ ECP in the document:
 1. Open the document that you want to add items, select **Parts**, followed by **Lookup ECP Items** in the menu bar.
 
    ![](media/ecp-integration-add-items1.png)
@@ -65,7 +72,7 @@ The ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsh
 
    ![](media/ecp-integration-add-items5.png)
 
-1. The **Show Only Available in Local Branch** slider is enabled by default, but if the item is not available in the ECP local branch, you can disable it to see if it is available in other branches.
+1. The **Show Only Available in Local Branch** slider is enabled by default, but if the item is not available in the LKQ ECP local branch, you can disable it to see if it is available in other branches.
 
    ![](media/ecp-integration-add-items6.png)
 
@@ -77,7 +84,7 @@ The ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsh
 
    ![](media/ecp-integration-add-items8.png)
 
-1. To order items from your ECP branch online, select **Parts**, then **Create Purchase Orders** in the menu bar.
+1. To order items from your LKQ ECP branch online, select **Parts**, then **Create Purchase Orders** in the menu bar.
 
    ![](media/ecp-integration-add-items9.png)
 
@@ -88,7 +95,7 @@ The ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsh
 [Go back to top](#top)
 
 ### Garage Hive Lookup Methods in ECP
-Garage Hive uses four different methods to lookup the items in the **ECP Catalogue**.                        
+Garage Hive uses four different methods to lookup items in the **LKQ ECP Catalogue**.                        
 
 1. **Description** - This uses the Description of the item.
 
