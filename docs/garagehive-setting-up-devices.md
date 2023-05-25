@@ -28,7 +28,7 @@ title: Setting Up Devices with Microsoft Dynamics 365 Business Central App
 
       {% include tip.html title="Note" text="Please note the first time you enter the User name and Password it may ask you to create a new password." %} 
 
-        ![](media/garagehive-setting-up-devices4.png)
+    ![](media/garagehive-setting-up-devices4.png)
 
 After you have logged in and you see the screen below you have successfully set up the device ready for your staff to start using. 
 

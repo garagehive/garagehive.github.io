@@ -9,7 +9,7 @@ title: DRAFT* - LKQ Euro Car Parts (ECP) Integration With Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # LKQ Euro Car Parts (ECP) Integration With Garage Hive
-LKQ Euro Car Parts (ECP) Integration offers seamless integration between Garage Hive and the **LKQ Euro Car Parts (ECP)** catalogues, allowing the process of quoting, sourcing and ordering the parts for vehicles to be efficient.
+LKQ Euro Car Parts (ECP) Integration offers seamless integration between Garage Hive and the **LKQ Euro Car Parts (ECP)** catalogues, allowing the process of **quoting**, **sourcing** and **ordering** the parts for vehicles to be efficient.
 
 ## In this article
 1. [Getting the Account Number](#getting-the-account-number)
@@ -50,7 +50,7 @@ To enable the LKQ ECP Integration in Garage Hive:
 [Go back to top](#top)
 
 ### Adding Items to Service Document From ECP
-The LKQ ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsheets**. To add the items to order from LKQ ECP in the document:
+The LKQ ECP integration is available in **VI Estimates**, **Estimates**, **Jobsheets** and **Purchase Orders**. To add the items to order from LKQ ECP in the document:
 1. Open the document that you want to add items, select **Parts**, followed by **Lookup ECP Items** in the menu bar.
 
    ![](media/ecp-integration-add-items1.png)
@@ -68,7 +68,8 @@ The LKQ ECP integration is available in **VI Estimates**, **Estimates**, and **J
    ![](media/ecp-integration-add-items4.gif)
 
 1. Select the item you want to add in the document and click **OK**.
-1. If you selected **Process All Lines**, the **ECP Part Lookup** page for the next item will open. Repeat for each item. When you want to order the item from another supplier, you can select **Skip Line**.
+1. If you selected **Process All Lines**, the **ECP Part Lookup** page for the next item will open. Repeat for each item. 
+1. If an item is either from stock or needs to be ordered from another supplier, you can select **Skip Line**.
 
    ![](media/ecp-integration-add-items5.png)
 
@@ -91,6 +92,8 @@ The LKQ ECP integration is available in **VI Estimates**, **Estimates**, and **J
 1. Click **Yes** in the pop-up notification to order the item online, or **No** to create the Purchase Order only.
 
    ![](media/ecp-integration-add-items10.png)
+
+1. From the Purchase Order, you can convert the **Placeholder Item No.** to the **Vendor Item Nos.** which also updates the items in the Jobsheet, [learn more]().
 
 [Go back to top](#top)
 
