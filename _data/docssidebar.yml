@@ -484,7 +484,7 @@
           url: /docs/garagehive-sage-accounting-integration.html
         - name: Xero Integration Setup
           url: /docs/xero-api-integration.html
-- name: Garage Hive Integrations
+- name: Integrations
   url: "#"
   subitems:
     - name: Autodata Integration
