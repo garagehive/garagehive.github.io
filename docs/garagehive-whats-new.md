@@ -6,6 +6,9 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 25th May 2023
+* Added **Metro Bank** import for the fields **Transaction Date**, **Transaction Text**, **Description**, and **Transaction Amount**. 
+
 ### 22nd May 2023
 * Added **Attention Comment** creation to a **Sales Order** when a successful eCommerce payment is made, just like it is on a Jobsheet.
 * Added a new **Service Recharge Type** field within the **Customer Card** with the options of **Item**, **G/L Account**, and **Item Charge** to support the use of **Non-inventory** items. For instance, the Service department can invoice the Body Shop department for interdepartmental work using the **Item** option, eliminating the reliance on **General Ledger (G/L)** Accounts and improve on business reporting.
