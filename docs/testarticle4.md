@@ -14,7 +14,8 @@ ECP Integration offers seamless integration between Garage Hive and the **Euro C
 ## In this article
 1. [Getting the Account Number](#getting-the-account-number)
 2. [System Setup for ECP Integration](#system-setup-for-ecp-integration)
-3. [Garage Hive Lookup Methods in ECP](#garage-hive-lookup-methods-in-ecp)
+3. [Adding Items to Service Document From ECP](#adding-items-to-service-document-from-ecp)
+4. [Garage Hive Lookup Methods in ECP](#garage-hive-lookup-methods-in-ecp)
 
 ### Getting the Account Number
 You will require an **Account Number** before you can begin the process of linking the Garage Hive system to ECP. If you have multiple locations, you should get an **Account Number** for each location. Please complete the form within the link below:
@@ -37,7 +38,7 @@ To enable the ECP Integration in Garage Hive:
 
    ![](media/ecp-integration-setup3.png)
 
-**After entering the above information and completing the form, you will receive an email from the **Garage Hive Support Team** informing you that your **ECP Integration** has been enabled.**
+{% include tip.html title="Note" text="After entering the above information and completing the form, you will receive an email from the Garage Hive Support Team informing you that your ECP Integration has been enabled." %}
 
 [Go back to top](#top)
 
