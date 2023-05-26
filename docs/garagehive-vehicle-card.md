@@ -4,7 +4,9 @@ title: Vehicle Card
 ---
 
 ## Vehicle Card
-A vehicle card is a valuable tool in Garage Hive, used to store and organize information about a specific vehicle. The information on the card is typically composed of a combination of data obtained through a VRM (Vehicle Registration Mark) lookup, as well as manual input. This information is organized into several sub-headings to make it easy to find and reference. The vehicle card is typically only created within the context of a Jobsheet or booking, and is not typically created outside of this context.
+A vehicle card is a valuable tool in Garage Hive, used to store and organize information about a specific vehicle. The information on the card is typically composed of a combination of data obtained through a VRM (Vehicle Registration Mark) lookup, as well as manual input. This information is organized into several sub-headings to make it easy to find and reference. 
+
+The vehicle card is typically only created within the context of a Jobsheet or booking, and is not typically created outside of this context.
 You can open a vehicle card by selecting **Vehicles** from the home screen and then selecting the vehicle card to open from the vehicle list.
 
    ![](media/garagehive-vehicle-card0.png)
@@ -15,11 +17,11 @@ Basic vehicle information. The VRM lookup is used to generate this.
    ![](media/garagehive-vehicle-card1.png)
 
 ### Planning & Reminders
-The dates for vehicle planning and reminders can be manually updated, or a default period can be set to update them automatically. Learn more about customising vehicle planning and reminders dates [**here**](/docs/garagehive-customising-vehicle-reminder-dates.html "Customising Vehicle Reminder Dates").
+1. The dates for vehicle planning and reminders can be manually updated, or a default period can be set to update them automatically. Learn more about customising vehicle planning and reminders dates [**here**](/docs/garagehive-customising-vehicle-reminder-dates.html "Customising Vehicle Reminder Dates").
 
    ![](media/garagehive-vehicle-card2.png)
 
-You can also personalise and add **Vehicle Reminder Dates** such as **Haldex Service**, **Intake System Service**, and **Wheel Alignment**. Select the **Settings** icon in the top-right corner, then **Personlise**, and then **+Field** to add a field to the vehicle card.
+2. You can also personalise and add **Vehicle Reminder Dates** such as **Haldex Service**, **Intake System Service**, and **Wheel Alignment**. Select the **Settings** icon in the top-right corner, then **Personlise**, and then **+Field** to add a field to the vehicle card.
 
    ![](media/garagehive-vehicle-card2a.png)
 
