@@ -12,14 +12,14 @@ We are currently reviewing this article before it is published, check back later
 This article provides a guide for new TScan customers who want to experience the functionality of Tyre Scanner within their Garage Hive system.
 
 ## In this article
-1. [Registration for the Trial](#registration-for-the-trial)
+1. [Enable Your Trial](#enable-your-trial)
 2. [Tyre Scanner Trial System Setup](#parent-page-example)
 3. [Import Checklist Template](#import-checklist-template)
 
-### Registration for the Trial
-1. To register for a trial, click on the registration form link below and follow the instructions.
+### Enable Your Trial
+1. To enable your trial, click on the form link below and follow the instructions.
 
-   > # Register to Enable your tScan Trial: <ins>[tSCAN Trial Account Information](https://forms.office.com/pages/responsepage.aspx?id=rYneG86030WpGeHgjkcpTa9LH170o4NBsrqdfYJYa3RUMDBQVDRXTERCTDZaSVlOMkpXNVNMTTIwMS4u){:target="_blank"}</ins>
+   > # Enable your tScan Trial: <ins>[tSCAN Trial Account Information](https://forms.office.com/pages/responsepage.aspx?id=rYneG86030WpGeHgjkcpTa9LH170o4NBsrqdfYJYa3RUMDBQVDRXTERCTDZaSVlOMkpXNVNMTTIwMS4u){:target="_blank"}</ins>
 
 2. Enter the necessary information required for the creation and setup of your trial customer account.
 3. To obtain the **Endpoint URL**, which is required in the form, select the ![](media/search_icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
