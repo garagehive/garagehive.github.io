@@ -31,6 +31,7 @@ Cookies and JavaScript must be enabled in the browser.
 * Optimal screen resolution 2560 x 1440
 
 ### Garage Hive App
+
 | Specification                       | Requirement                                                                    |
 | :---------------------------------- | :----------------------------------------------------------------------------- |
 | Business Central Mobile App version | 3.7 or later                                                                   |
@@ -49,6 +50,7 @@ For the latest information, see the app in the Windows Store, App Store, or Goog
 
 
 ### Supported operating systems
+
 | Platform                    | Version                                                   |
 | :-------------------------- | :-------------------------------------------------------- |
 | Windows                     | Windows 11 Pro, Enterprise, or Education (64-bit edition) |
@@ -57,14 +59,8 @@ For the latest information, see the app in the Windows Store, App Store, or Goog
 | Android (mobile and tablet) | 7.1.1 or later                                            |
 
 
-
-* Windows 11 Pro, Enterprise, or Education (64-bit edition)
-* Windows 10 Pro, Enterprise, or Education (64-bit edition)
-* Windows Server 2022 (Datacenter, Standard)
-* Windows Server 2019 (Datacenter, Standard)
-
 ### Additional software	
-* A third-party telephony or VoIP app such as Skype is required for placing calls from Business Central.
+* A third-party telephony or VoIP app such as Teams is required for placing calls from Business Central.
 * A third-party email program such as Outlook is required for sending emails from Business Central.
 * Microsoft Office 2019, Office 2016, or Office 365 is required for sending data to Microsoft Excel or to Microsoft Word.
 
