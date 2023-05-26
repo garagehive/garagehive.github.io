@@ -19,7 +19,7 @@ This article provides a guide for new TScan customers who want to experience the
 ### Registration for the Trial
 1. To register for a trial, click on the registration form link below and follow the instructions.
 
-   > # Tyre Scanner trial registration: <ins>[tSCAN Trial Account Information](https://forms.office.com/pages/responsepage.aspx?id=rYneG86030WpGeHgjkcpTa9LH170o4NBsrqdfYJYa3RUMDBQVDRXTERCTDZaSVlOMkpXNVNMTTIwMS4u){:target="_blank"}</ins>
+   > # Register to Enable your tScan Trial: <ins>[tSCAN Trial Account Information](https://forms.office.com/pages/responsepage.aspx?id=rYneG86030WpGeHgjkcpTa9LH170o4NBsrqdfYJYa3RUMDBQVDRXTERCTDZaSVlOMkpXNVNMTTIwMS4u){:target="_blank"}</ins>
 
 2. Enter the necessary information required for the creation and setup of your trial customer account.
 3. To obtain the **Endpoint URL**, which is required in the form, select the ![](media/search_icon.png) icon, enter **Tyre Scan Setup**, and select the related link.
