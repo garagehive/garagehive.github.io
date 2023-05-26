@@ -106,21 +106,21 @@ To add a new line to the service document from LKQ ECP:
 
 2. Select **Add Line** in the **ECP Process Service Lines** page.
 
-   [](media/ecp-integration-add-new-items2.png)
+   ![](media/ecp-integration-add-new-items2.png)
 
 3. This opens up the **ECP Lookup Method** page. Select the **Lookup Method** that you want to use, in this case we'll use **Category Tree**.
 
-   [](media/ecp-integration-add-new-items3.png)
+   ![](media/ecp-integration-add-new-items3.png)
 
 4. Click on the ellipsis(...) in the **Category Tree ID** field to select the category in the component for the item you want to add.
 5. In the **ECP Category Tree** click on the submenu arrow (>) in the **Category** you want and select a **Component** for the item. Click **OK** to add the **Category Tree ID**.
 
-    [](media/ecp-integration-add-new-items4.png)
+   ![](media/ecp-integration-add-new-items4.png)
 
 6. Click **OK** in the **ECP Lookup Method** page, to view and select the item you want to add in the service document.
 7. Select the item and click **OK**.
 
-   [](media/ecp-integration-add-new-items5.png)
+   ![](media/ecp-integration-add-new-items5.png)
 
 8. The item will be added to the document.
 
