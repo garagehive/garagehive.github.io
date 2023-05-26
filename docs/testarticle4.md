@@ -14,8 +14,9 @@ LKQ Euro Car Parts (ECP) Integration offers seamless integration between Garage 
 ## In this article
 1. [Getting the Account Number](#getting-the-account-number)
 2. [System Setup for ECP Integration](#system-setup-for-ecp-integration)
-3. [Adding Items to Service Document From ECP](#adding-items-to-service-document-from-ecp)
-4. [Garage Hive Lookup Methods in ECP](#garage-hive-lookup-methods-in-ecp)
+3. [Search for Items in the Service Document from ECP](#search-for-items-in-the-service-document-from-ecp)
+4. [Adding New Items from ECP to the Service Document](#adding-new-items=-from-ecp-to-the-service-document)
+5. [Garage Hive Lookup Methods in ECP](#garage-hive-lookup-methods-in-ecp)
 
 ### Getting the Account Number
 You will require an **Account Number** before you can begin the process of linking your Garage Hive system to LKQ Euro Car Parts.
@@ -45,12 +46,12 @@ To enable the LKQ ECP Integration in Garage Hive:
 
    ![](media/ecp-integration-setup3.png)
 
-{% include tip.html title="Note" text="After entering the above information and completing the form, you will receive an email from the Garage Hive Support Team informing you when your LKQ ECP Integration has been enabled." %}
+{% include tip.html title="Note" text="Once you have provided the information required and submitting the form, LKQ Euro Car Parts will proceed to process your account details and the Garage Hive Support Team will complete the integration setup on your behalf and email you when your LKQ ECP Integration is enabled." %}
 
 [Go back to top](#top)
 
-### Adding Items to Service Document From ECP
-The LKQ ECP integration is available in **VI Estimates**, **Estimates**, **Jobsheets** and **Purchase Orders**. To add the items to order from LKQ ECP in the document:
+### Search for Items in the Service Document from ECP
+The LKQ ECP integration is available in **VI Estimates**, **Estimates**, and **Jobsheets**. To add the items to order from LKQ ECP in the document:
 1. Open the document that you want to add items, select **Parts**, followed by **Lookup ECP Items** in the menu bar.
 
    ![](media/ecp-integration-add-items1.png)
@@ -94,6 +95,34 @@ The LKQ ECP integration is available in **VI Estimates**, **Estimates**, **Jobsh
    ![](media/ecp-integration-add-items10.png)
 
 1. From the Purchase Order, you can convert the **Placeholder Item No.** to the **Vendor Item Nos.** which also updates the items in the Jobsheet, [learn more]().
+
+[Go back to top](#top)
+
+### Adding New Items from ECP to the Service Document
+To add a new line to the service document from LKQ ECP:
+1. Open the document to add, select **Parts**, followed by **Lookup ECP Items** in the menu bar.
+
+   ![](media/ecp-integration-add-new-items1.png)
+
+2. Select **Add Line** in the **ECP Process Service Lines** page.
+
+   [](media/ecp-integration-add-new-items2.png)
+
+3. This opens up the **ECP Lookup Method** page. Select the **Lookup Method** that you want to use, in this case we'll use **Category Tree**.
+
+   [](media/ecp-integration-add-new-items3.png)
+
+4. Click on the ellipsis(...) in the **Category Tree ID** field to select the category in the component for the item you want to add.
+5. In the **ECP Category Tree** click on the submenu arrow (>) in the **Category** you want and select a **Component** for the item. Click **OK** to add the **Category Tree ID**.
+
+    [](media/ecp-integration-add-new-items4.png)
+
+6. Click **OK** in the **ECP Lookup Method** page, to view and select the item you want to add in the service document.
+7. Select the item and click **OK**.
+
+   [](media/ecp-integration-add-new-items5.png)
+
+8. The item will be added to the document.
 
 [Go back to top](#top)
 
