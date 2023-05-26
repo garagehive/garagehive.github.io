@@ -45,7 +45,7 @@ To enable the LKQ ECP Integration in Garage Hive:
 
    ![](media/ecp-integration-setup3.png)
 
-{% include tip.html title="Note" text="After entering the above information and completing the form, you will receive an email from the Garage Hive Support Team informing you that your LKQ ECP Integration has been enabled." %}
+{% include tip.html title="Note" text="After entering the above information and completing the form, you will receive an email from the Garage Hive Support Team informing you when your LKQ ECP Integration has been enabled." %}
 
 [Go back to top](#top)
 
