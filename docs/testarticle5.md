@@ -47,7 +47,7 @@ To connect the **Tyre Scanner** to the system:
 The next step is to import a checklist template for use with the Tyre Scanner:
 1. Click on the link below to download and save the checklist for use with the Tyre Scanner.
 
-   > # Download the Tyre Scanner Checklist Template: <ins>[Checklist Template](docs/Package.cltx){:target="_blank"}</ins>
+   > # Download the Tyre Scanner Checklist Template: <ins>[Checklist Template](Package.cltx){:target="_blank"}</ins>
 
 2. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Templates**, and select the related link.
 
