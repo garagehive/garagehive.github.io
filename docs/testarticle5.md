@@ -63,7 +63,7 @@ The next step is to import a checklist template for use with the Tyre Scanner:
 
 5. You will get the following warning, click **Yes** to import the checklist template.
 
-   ![](media/garagehive-tscan-trial3.png)
+   ![](media/garagehive-tscan-trial4.png)
 
 6. Your Garage Hive system is now ready for the trial with Tyre Scanner.
 
