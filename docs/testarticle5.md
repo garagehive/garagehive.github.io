@@ -1,9 +1,12 @@
 ---
 layout: docs
-title: LKQ Euro Car Parts (ECP) Integration With Garage Hive
+title: DRAFT* - LKQ Euro Car Parts (ECP) Integration With Garage Hive
 ---
 
 <a name="top"></a>
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
 
 # LKQ Euro Car Parts (ECP) Integration With Garage Hive
 LKQ Euro Car Parts (ECP) Integration offers seamless integration between Garage Hive and the **LKQ Euro Car Parts (ECP)** catalogues, allowing the process of **quoting**, **sourcing** and **ordering** the parts for vehicles to be efficient.
@@ -141,3 +144,5 @@ To change the lookup method for an item, after selecting **Process Line** or **P
 Click the **Change Lookup Method** action and select the method you want to use in the **Lookup Method** field.
 
    ![](media/ecp-integration-lookup-method2.png)
+
+[Go back to top](#top)
