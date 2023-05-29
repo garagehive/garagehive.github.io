@@ -510,8 +510,6 @@
           url: /docs/garagehive-creating-a-vehicle-inspection-checklist-from-autodata.html
     - name: GSF Integration
       url: /docs/garagehive-gsf-integration.html
-    - name: LKQ ECP Integration
-      url: /docs/garagehive-lkq-ecp-integration.html
     - name: Tyre Scanner Integration
       url: /docs/garagehive-tyre-scanner-integration.html
     - name: Vostel Telephone System Integration
