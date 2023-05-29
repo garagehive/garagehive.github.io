@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - TScan Trial 
+title: TScan Trial 
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # TScan Trial
 This article provides a guide for new TScan customers who want to experience the functionality of Tyre Scanner within their Garage Hive system.
