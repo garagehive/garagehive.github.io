@@ -14,8 +14,8 @@ We are currently reviewing this article before it is published, check back later
 
 ## In this article
 1. [Creating Tyre Stock Groups](#creating-tyre-stock-groups)
-2. [Create Tyre Stock Categories](#create-tyre-stock-categories)
-3. [Add Location Specific to Tyre Stock Groups](#add-location-specific-to-tyre-stock-groups)
+2. [Creating Tyre Stock Categories](#creating-tyre-stock-categories)
+3. [Add Location Specific Setup to Tyre Stock Groups](#add-location-specific-setup-to-tyre-stock-groups)
 
 ### Creating Tyre Stock Groups
 To create **Tyre Stock Groups**:
@@ -41,7 +41,7 @@ To create **Tyre Stock Groups**:
 
 [Go back to top](#top)
 
-### Create Tyre Stock Categories
+### Creating Tyre Stock Categories
 **Tyre Stock Categories** help in categorising the **Tyre Stock Groups** based on the criteria you use. Here is how to create the categories:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Tyre Stock Categories**, and select the related link.
 
@@ -57,7 +57,7 @@ To create **Tyre Stock Groups**:
 
 [Go back to top](#top)
 
-### Add Location Specific to Tyre Stock Groups
+### Add Location Specific Setup to Tyre Stock Groups
 Location Specific setup helps in the creation of the Tyre Stock Group for a specific location, meaning that it is only available in that location. To add **Location-Specific Setup**:
 1. Open the **Tyre Stock Groups** page, select the **Tyre Stock Group** to which you want to add a location, and then select **Location-Specific Setup** from the menu bar.
 
