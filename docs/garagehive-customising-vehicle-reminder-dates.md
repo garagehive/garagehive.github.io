@@ -6,9 +6,11 @@ title: Customising Vehicle Reminder Dates
 <a name="top"></a>
 
 # Customising Vehicle Reminder Dates
+1. [Adding a Default Period for a Vehicle Reminder Date](#adding-a-default-period-for-a-vehicle-reminder-date)
+2. [Changing the Default Period for the Vehicle Reminder Date Colour to Change to Red When Due](#setting-the-default-period-for-the-vehicle-reminder-date-colour-to-change-to-red-When-due)
 
-Vehicle reminder dates can be customised in the Jobsheet and Vehicle Card. Here is how you can customise the dates from the **Service Labour List** page:
-
+### Adding a Default Period for a Vehicle Reminder Date
+Vehicle reminder dates in the Jobsheet and Vehicle Card can be customised to have a default period. Here is how you can customise the dates from the **Service Labour List** page:
 1. Select **Catalogues** and then **Labours** from the role centre **Navigation Menu**, or search for **Service Labour List** at the top-right corner search icon.
 2. Choose the labour from the **Labour List** page to customise the date. In this case, we'll go with **Service Labour**.
 
@@ -30,5 +32,28 @@ If you start to post the jobsheet without updating the **Service Due Date**, you
 
    ![](media/garagehive-vehicle-reminder-customisation5.gif)
    
+[Go back to top](#top)
+
+### Changing the Default Period for the Vehicle Reminder Date Colour to Change to Red When Due
+1. When the Vehicle Reminder Date is approaching, the date in the **Jobsheet** card and the **Vehicle List** page turns red. 
+
+   * **Jobsheet**
+
+      ![](media/garagehive-vehicle-reminder-date-colour1.png)
+
+   * **Vehicle List**
+
+      ![](media/garagehive-vehicle-reminder-date-colour2.png)
+
+2. By default, the **Vehicle Reminder Dates** are set to turn red 30 days before the date. This can be changed to any number of days you want.
+3. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
+
+   ![](media/garagehive-vehicle-reminder-date-colour3.png)
+
+4. In the **Service Mgt. Setup GH** page, scroll down to **Default MOT Reminder Date Formula** and **Default Service Reminder Date Formula** and enter the number of days you want the colour to change before the due date. For example, -1W means one week before today, -30D means 30 days before today, 30D means 30 days after today. When you're finished, close the page.
+
+   ![](media/garagehive-vehicle-reminder-date-colour4.png)
+
+5. The changes will be saved, and the **Vehicle Reminder Dates** will be updated as specified.
 
 [Go back to top](#top)
