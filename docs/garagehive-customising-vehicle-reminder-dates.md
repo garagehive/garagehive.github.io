@@ -7,7 +7,7 @@ title: Customising Vehicle Reminder Dates
 
 # Customising Vehicle Reminder Dates
 1. [Adding a Default Period for a Vehicle Reminder Date](#adding-a-default-period-for-a-vehicle-reminder-date)
-2. [Changing the Default Period for the Vehicle Reminder Date Colour to Change to Red When Due](#setting-the-default-period-for-the-vehicle-reminder-date-colour-to-change-to-red-When-due)
+2. [Changing the Default Period for the Vehicle Reminder Date Colour to Change to Red When Due](#changing-the-default-period-for-the-vehicle-reminder-date-colour-to-change-to-red-When-due)
 
 ### Adding a Default Period for a Vehicle Reminder Date
 Vehicle reminder dates in the Jobsheet and Vehicle Card can be customised to have a default period. Here is how you can customise the dates from the **Service Labour List** page:
