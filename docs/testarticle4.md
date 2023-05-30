@@ -14,107 +14,67 @@ We are currently reviewing this article before it is published, check back later
 
 ## In this article
 1. [Creating Tyre Stock Groups](#creating-tyre-stock-groups)
-2. [Create an Item for Pricing up the Gearbox](#create-an-item-for-pricing-up-the-gearbox)
-3. [Create a Sales Quote for the Gearbox](#create-a-sales-quote-for-the-gearbox)
-4. [Create the Gearbox Item to Sell](#create-the-gearbox-item-to-sell)
-5. [Create an Internal Gearbox Preparation Jobsheet](#create-an-internal-gearbox-preparation-jobsheet)
+2. [Create Tyre Stock Categories](#create-tyre-stock-categories)
+3. [Add Location Specific to Tyre Stock Groups](#add-location-specific-to-tyre-stock-groups)
 
-### Duplicate the Vehicle Sales Role
-To make it easier to use the **Gearbox Sales Module**, duplicate the **Vehicle Sales Admin** role to create a **Gearbox Sales Admin** role, and then personalise the Role Centre for Gearbox Sales:
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Profiles (Roles)**, and select the related link.
+### Creating Tyre Stock Groups
+To create **Tyre Stock Groups**:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Tyre Stock Groups**, and select the related link.
 
-   ![](media/garagehive-duplicate-role1.png)
+   ![](media/garagehive-tyre-stock-groups1.png)
 
-2. In the **Profiles (Roles)** page, search for **Vehicle Sales Admin**, click on the ellipsis (...) in the menu bar and select **Copy Profile**.
+2. In the **Tyre Stock Groups** page, select **New** from the menu bar.
 
-   ![](media/garagehive-duplicate-role2.png)
+   ![](media/garagehive-tyre-stock-groups2.png)
 
-3. Name the new **Profile ID** as **GEARBOXSALES** and the **Display Name** as **Gearbox Sales Admin**. Click **OK**.
+3. Enter the details of the **Tyre Stock Group**. For example, enter the code for the tyre stock group as **195/60 R15** and specify the tyre's **Section**, **Profile**, and **Rim** sizes in their respective fields.
 
-   ![](media/garagehive-duplicate-role3.png)
+   ![](media/garagehive-tyre-stock-groups3.png)
 
-4. The new profile will now be created. Return to the Role Centre and click the settings gear icon in the top right corner, then **My Settings**, then the three dots next to the **Role** field, followed by **Gearbox Sales Admin**. Click **OK**.
+4. Other fields you can add include **Manufacturer** when you need to specify the tyres from a specific manufacturer, **Item Filters** when you want to have specific tyres in a group of their own, and **Minimum Stock Quantity** to set the number of minimum tyres to have in stock for the group.
 
-   ![](media/garagehive-duplicate-role4.gif)
+   ![](media/garagehive-tyre-stock-groups4.png)
 
-[Go back to top](#top)
+5. You can have as many **Tyre Stock Groups** as you need.
 
-### Create an Item for Pricing up the Gearbox
-The next step is to create a **Placeholder Item** to use when pricing up the Gearbox for sale:
-1. Open the Item Lists, select **New**, enter the **Item No.** as **COR0001**, **Description** as **Gearbox for Car**, and the **Item Category Code** as **GEARBOXES**.
-
-   ![](media/garagehive-gearbox-pricing-item1.png)
-
-2. Select the **Placeholder Item** slider under **Costs and Posting** FastTab so that the item cannot be sold. The goal of creating this item is to help in pricing and quoting the Gearbox.
-
-   ![](media/garagehive-gearbox-pricing-item2.png)
-
-3. When you're finished, close the **Item Card**.
+   ![](media/garagehive-tyre-stock-groups5.png)
 
 [Go back to top](#top)
 
-### Create a Sales Quote for the Gearbox
-To quote the customer, you now need to create a **Sales Quote**:
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Sales Quote**, and select the related link.
+### Create Tyre Stock Categories
+**Tyre Stock Categories** help in categorising the **Tyre Stock Groups** based on the criteria you use. Here is how to create the categories:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Tyre Stock Categories**, and select the related link.
 
-   ![](media/garagehive-gearbox-sales-quote1.png)
+   ![](media/garagehive-tyre-stock-categories1.png)
 
-2. Click **New** to create a **Sales Quote**. Select **Service Type** as **Gearbox** and enter **Customer Name**.
+2. Enter the categories you want to use in the **Tyre Stock Categories** page. When you're finished, close the page.
 
-   ![](media/garagehive-gearbox-sales-quote2.png)
+   ![](media/garagehive-tyre-stock-categories2.png)
 
-3. Scroll down to the **Lines** FastTab, select the item you created, and enter the **Unit Price** you want to sell the Gearbox for.
+3. Open the **Tyre Stock Groups** page, go to the **Stock Category** field, and select the tyres to which you want to add a category. Add the categories there.
 
-   ![](media/garagehive-gearbox-sales-quote3.png)
-
-4. After sending the **Sales Quote** to the Customer and receiving their approval, convert the **Sales Quote** to an invoice. Select **Process** and then **Make Invoice**.
-
-   ![](media/garagehive-gearbox-sales-quote4.png)
-
-5. The new **Sales Invoice** will be created for the Gearbox item.
-
-   ![](media/garagehive-gearbox-sales-quote5.png)
+   ![](media/garagehive-tyre-stock-categories3.png)
 
 [Go back to top](#top)
 
-### Create the Gearbox Item to Sell
-To create the Gearbox item for selling:
-1. Scroll down to the **Lines** FastTab in the **Sales Invoice** you created, then select **Line** from the Lines Menu bar, followed by **Functions**, and then **Convert Item and Purchase**.
+### Add Location Specific to Tyre Stock Groups
+Location Specific setup helps in the creation of the Tyre Stock Group for a specific location, meaning that it is only available in that location. To add **Location-Specific Setup**:
+1. Open the **Tyre Stock Groups** page, select the **Tyre Stock Group** to which you want to add a location, and then select **Location-Specific Setup** from the menu bar.
 
-   ![](media/garagehive-gearbox-item-to-sell1.png)
+   ![](media/garagehive-tyre-group-location-specific1.png)
 
-2. Select **Gearbox Sales** as the template for the new item, and click **OK**. This creates a new **Item** and a **Purchase Order** for the new item.
+2. Choose the location you want to have in the group. You can add one or more locations to the group. 
+3. You could also specify the **Minimum Stock Quantity** for each location. When you're finished, close the page.
 
-   ![](media/garagehive-gearbox-item-to-sell2.png)
+   ![](media/garagehive-tyre-group-location-specific2.png)
 
-3. The **Placeholder Item** is removed and replaced in the **Sales Invoice** by the new item to sell. The new item appends a string of numbers to the end of the **Placeholder's Item** number.
+4. The other way to add the **Location** to a group is from the **Location-Specific Setup** column within the **Tyre Stock Groups** page. 
+5. Select the group that you want to add a particular location, and click on the **Location-Specific Setup** column. If the page is not editable, make sure to click on **Edit List** to enable editing.
 
-   ![](media/garagehive-gearbox-item-to-sell3.png)
+   ![](media/garagehive-tyre-group-location-specific3.png)
 
-[Go back to top](#top)
+6. Select **New** from the menu bar, and choose the location you want to have in the group.
 
-### Create an Internal Gearbox Preparation Jobsheet
-The next step is to create a **Preparation Jobsheet** on which all the items that will be used to rebuild the Gearbox will be added:
-1. In the **Sales Invoice** with the Gearbox item to sell, scroll down to the **Lines** FastTab, then select **Line** from the Lines Menu bar, followed by **Functions**, and then **Create Vehicle Prep. Jobsheet**.
-
-   ![](media/garagehive-internal-gearbox-preparation1.png)
-
-2. This creates an **Internal Gearbox Preparation** Jobsheet, where all the items used to rebuild the Gearbox are added.
-
-   ![](media/garagehive-internal-gearbox-preparation2.png)
-
-3. Add all the items that are used to rebuild the Gearbox in this Jobsheet.
-
-   ![](media/garagehive-internal-gearbox-preparation3.png)
-
-4. Add the **Payment Method Code** as **GEARBOXPRP** under the **Invoicing** FastTab, so that you can use it to fully pay the Jobsheet.
-
-   ![](media/garagehive-internal-gearbox-preparation4.png)
-
-5. Then post the Jobsheet once all of the **Items** are added.
-
-   ![](media/garagehive-internal-gearbox-preparation5.png)
-
-6. When you post the Jobsheet, the value of the Jobsheet is added to the Gearbox item to sell.
+   ![](media/garagehive-tyre-group-location-specific4.png)
 
 [Go back to top](#top)
