@@ -6,6 +6,24 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 31st May 2023
+* Released Version 59 (V59) of PowerBI with the following changes and refinements:
+   - Added the ability to view Garage Industry Trends data within the Power BI App (Only for opted in garages).
+   - Labour Audit Report: Added the ability to see count of particular labour types, across document numbers and resources, for auditing purposes.
+   - Vehicle Type Analysis.
+   - Online Estimate Analysis.
+   - GP Potential Business Target Report.
+   - Labour Sales / Hours Sold Business Target Report.
+   - Added Average Hours Sold & Average Hours Per Job to Monthly/Weekly Analysis.
+   - Added hours gained/hours lost to summary reports.
+   - Added "this month/last month" to Auto IQ report.
+   - Added GP Per hour to Jobsheet Analysis.
+   - Added search box to deleted jobsheet Analysis.
+   - Added vehicle type filter & fuel type filter to service type report.
+   - Improved refresh speed of reports.
+
+To update your PowerBI App, [follow this link](powerbi-updating-app.html)
+
 ### 26th May 2023
 * Added a new approach to tyre ordering, by introducing **Tyre Stock Groups**. With this feature, you can conveniently create and manage various tyre groups available in the market, allowing you to effectively organize your tyre inventory based on these groups.
 
