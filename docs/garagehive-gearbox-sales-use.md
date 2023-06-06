@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Use the Gearbox Sales Module in Garage Hive
+title: How to Use the Gearbox Sales Module in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Use the Gearbox Sales Module in Garage Hive
 In this article, we will explain how to use the Gearbox Sales Module, specifically for Garages that are involved in the assembly or rebuilding of Gearboxes from available stock. The module simplifies the process of selling a fully assembled Gearbox by ensuring that Garages can effectively track the items used in the Gearbox, ensuring accountability, and accurately determining the overall cost of the Gearbox unit.

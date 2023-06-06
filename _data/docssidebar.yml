@@ -163,8 +163,13 @@
       url: /docs/garagehive-removing-posting-restrictions.html
     - name: How to Create Warranty Job
       url: /docs/garagehive-create-warranty-job.html
-    - name: Gearbox Sales Setup
-      url: /docs/garagehive-gearbox-sales-setup.html
+    - name: Gearbox Sales
+      url: /docs/garagehive-gearbox-sales.html
+      subitems:
+        - name: Gearbox Sales Setup
+          url: /docs/garagehive-gearbox-sales-setup.html
+        - name: How to Use Gearbox Sales Module
+          url: /docs/garagehive-gearbox-sales-use.html
 - name: Parts Sales
   url: "#"
   subitems:
@@ -178,6 +183,8 @@
       url: /docs/garagehive-item-substitution-management.html
     - name: Returning Warranty Parts to the Vendor
       url: /docs/garagehive-return-warranty-parts-to-vendor.html
+    - name: Tyre Stock Groups
+      url: /docs/garagehive-tyre-stock-groups.html
 - name: Vehicle Sales
   url: "#"
   subitems:

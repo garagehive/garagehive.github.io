@@ -1,12 +1,7 @@
 ---
 layout: docs
-title: DRAFT* - Tyre Stock Groups in Garage Hive
+title: Tyre Stock Groups in Garage Hive
 ---
-
-<a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Tyre Stock Groups
 **Tyre Stock Groups** is a feature in Garage Hive where you can conveniently create and manage various tyre groups available in the market, allowing you to effectively organize your tyre inventory based on these groups.

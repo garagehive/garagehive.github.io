@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: Draft* - How to Use Service Recharge for Internal Charging
+title: How to Use Service Recharge for Internal Charging
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Use Service Recharge for Internal Charging
 Service recharge is a feature available in Garage Hive to help record internal transactions between departments or added costs such as vehicle sales preparations, vehicle sales warranty, etc., so that when you charge an internal customer the system will automatically generate a corresponding purchase invoice for a complete internal process. There are three types of **Service Recharge**:
