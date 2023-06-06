@@ -13,7 +13,7 @@ Previewing an online document is done when the document to be previewed has been
 
 1. [How to Preview an Online Document](#how-to-preview-an-online-document)
 2. [How to Publish an Online Document](#how-to-publish-an-online-document)
-3. [Set the Default Online Document to Require Authorisation](#set-the-default-online-document-to-require-authorisation)
+3. [Set the Online Document to Require Authorisation by Default](#set-the-online-document-to-require-authorisation-by-default)
 
 ### How to Preview an Online Document
 To preview an online document from a jobsheet:
@@ -85,7 +85,7 @@ After you have finished preparing the document and are ready to send it to the c
 
 [Go back to top](#top)
 
-### Set the Default Online Document to Require Authorisation
+### Set the Online Document to Require Authorisation by Default
 To always publish the document that require the customer authorisation for the work to be done:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Online Document Setup**, and select the related link.
 
