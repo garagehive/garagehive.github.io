@@ -42,7 +42,7 @@ To enable the LKQ ECP Integration in Garage Hive:
 
    ![](media/ecp-integration-setup2.png)
 
-3. Enter the **Location Code** for the location where you want the integration, select the **Placeholder Item No.** so the system knows which items in the document to lookup, and select the default **Vendor No.** from which to order the items added in the documents. 
+3. Enter the **Location Code** for the location where you want the integration, select the **Placeholder Item No.** so the system knows which items in the document to lookup, and select the default **Vendor No.** from which to order the items added in the document. 
 
    ![](media/ecp-integration-setup3.png)
 
@@ -94,7 +94,7 @@ The LKQ ECP integration is available in **VI Estimates**, **Estimates**, and **J
 
    ![](media/ecp-integration-add-items10.png)
 
-1. From the Purchase Order, you can convert the **Placeholder Item No.** to the **Vendor Item Nos.** which also updates the items in the Jobsheet, [learn more]().
+1. From the Purchase Order, you can convert the **Placeholder Item No.** to the **Vendor Item Nos.** which also updates the items in the Jobsheet, [learn more](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
 
 [Go back to top](#top)
 
