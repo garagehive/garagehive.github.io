@@ -51,6 +51,8 @@ Tyre Catalogue lookup is used to lookup the available tyres in local inventory/s
 
    ![](media/garagehive-tyre-catalogue2.png)
 
-3. This opens up the list of tyres available.
+3. This opens up the list of tyres available along with their specifications. To narrow your search, use the filters at the top.
+
+   ![](media/garagehive-tyre-catalogue3.png)
 
 [Go back to top](#top)
