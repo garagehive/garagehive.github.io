@@ -9,7 +9,7 @@ title: DRAFT* - Micheldever Integration With Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # Micheldever Integration With Garage Hive
-Micheldever Integration makes it easy for Garage Hive users to find and order the right tyres for vehicles. They can choose from over 9000 individual tyres available in the Micheldever tyre catalogue/stock.This helps in making the process of **Quoting**, **Sourcing** and **Ordering** the tyres to be efficient.
+Micheldever Integration makes it easy for Garage Hive users to find and order tyres for vehicles from the Micheldever tyre catalogue/stock, directly from Garage Hive.This helps in making the process of **Quoting**, **Sourcing** and **Ordering** the tyres to be efficient.
 
 ## In this article
 1. [Registration With Micheldever](#registration-with-micheldever)
@@ -47,47 +47,59 @@ The Micheldever integration is available in **VI Estimates**, **Estimates**, **J
 
    ![](media/micheldever-lookup1.png)
 
-2. This opens the **Tyre Catalogue Lookup Criteria** pop-up. Enter the tyre size in the **Search Text** field and the number of tyres that you want in the **Quantity** field. Click, **OK**.
+1. This opens the **Tyre Catalogue Lookup Criteria** pop-up. Enter the tyre size in the **Search Text** field and the number of tyres that you want in the **Quantity** field. Click, **OK**.
 
    ![](media/micheldever-lookup2.png)
 
-3. After clicking **OK**, the system opens up the tyre catalogue list available in the **Local Inventory** (tyres available in your system) and in the Micheldever inventory.
+1. After clicking **OK**, the system opens up the tyre catalogue list available in the **Local Inventory** (tyres available in your system) and in the Micheldever inventory.
 
    ![](media/micheldever-lookup3.png)
 
-4. The list has the specifications of each tyre available, of which you can filter further from the available filters at the top.
-5. There is also the **Delivery By** column (the latest date and time that the tyres can be delivered) and **Order By** column (the latest date and time to order to receive the tyres in the indicated date and time at the Delivery By column).
+1. The list has the specifications of each tyre available, of which you can filter further from the available filters at the top.
+1. There is also the **Delivery By** column (the latest date and time that the tyres can be delivered) and **Order By** column (the latest date and time to order to receive the tyres in the indicated date and time at the Delivery By column).
 
    ![](media/micheldever-lookup4.png)
 
-6. Select the tyres you want to add in the document and click **OK**. The Items will now be added to the document with the **Vendor No.** and the **Vendor Item No.**.
+1. Select the tyres you want to add in the document and click **OK**. The Items will now be added to the document with the **Vendor No.** and the **Vendor Item No.**.
 
    ![](media/micheldever-lookup5.png)
 
-7.  To create a Purchase Order for the tyres, select **Parts**, then **Create Purchase Orders** in the menu bar.
+1.  To create a Purchase Order for the tyres, select **Parts**, then **Create Purchase Orders** in the menu bar.
 
    ![](media/micheldever-lookup6.png)
 
-8.  This creates the Purchase Order for the tyres added in the document.
+1.  This creates the Purchase Order for the tyres added in the document.
 
    ![](media/micheldever-lookup7.png)
 
 [Go back to top](#top)
 
 ### Ordering Parts from the Purchase Order
-To order the tyres from Micheldever from teh Purchase Order:
-1. Open the Purchase Order you have created, select **Process**, followed by **Micheldever Order Items** in the menu bar.
+To order the tyres from Micheldever in the Purchase Order:
+1. Open the Purchase Order you have created. You have the option to add more tyres to order from Micheldever Catalogue/Stock in the Purchase Order. Select **Process**, followed by **Micheldever Lookup Items**.
+
+   ![](media/micheldever-purchase-order4.png)
+
+2. Enter the tyre size in the **Search Text** and the **Quantity**.
+
+   ![](media/micheldever-purchase-order5.png)
+
+3. Select the tyres to add. Note that the list here is only from Micheldever catalogue/stock (without the local inventory). Click **OK**.
+
+   ![](media/micheldever-purchase-order6.png)
+
+4. Then to order the tyres, select **Process**, followed by **Micheldever Order Items** in the menu bar.
 
    ![](media/micheldever-purchase-order1.png)
 
-2. This wil open the **Micheldever Availability** page showing the **Delivery By**, **Order By**, **Available Quantity**, **Unit Price Excl. VAT**, **Old Unit Price Excl. VAT** (the previous price the tyre was sold at) and the **Supplier**. Click **OK**, to order the item from Micheldever.
+5. This wil open the **Micheldever Availability** page showing the **Delivery By**, **Order By**, **Available Quantity**, **Unit Price Excl. VAT**, **Old Unit Price Excl. VAT** (the previous price the tyre was sold at) and the **Supplier**. Click **OK**, to order the item from Micheldever.
 
    ![](media/micheldever-purchase-order2.png)
 
-3. The tyres will be ordered, and the **Time Ordered** will be indicated in the item line.
+6. The tyres will be ordered, and the **Time Ordered** will be indicated in the item line.
 
    ![](media/micheldever-purchase-order3.png)
 
-4. After receiving the items, you can convert the **Placeholder Item No.** to the **Vendor Item Nos.** which also updates the items in the Jobsheet, [learn more](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
+7. After receiving the items, you can convert the **Placeholder Item No.** to the **Vendor Item Nos.** which also updates the items in the Jobsheet, [learn more](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
 
 [Go back to top](#top)
