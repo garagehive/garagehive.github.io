@@ -10,7 +10,6 @@ title: Automatic Sales Price, Sales Markup, and Sales Discount Calculations
 When you need to use a specific price, markup, or discount for a particular product, Garage Hive provides the possibility to do so, and even set specific filters, such as location, vehicle make, and vehicle age. These prices, markups, and discounts supersede the standard prices available in an item or labour card.
 
 ## In this article
-
 1. [Automatic sales prices calculations](#automatic-sales-prices-calculations)
 2. [Automatic sales markups calculations](#automatic-sales-markups-calculations)
 3. [Automatic sales discounts calculations](#automatic-sales-discounts-calculations)
