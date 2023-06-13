@@ -53,6 +53,6 @@ To understand how these transactions are imported into your accountancy software
 
 ### **See Also**
 
-[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html){:target="_blank"} \
+[Accountancy System Integrations](garagehive-external-accountancy-integration.html){:target="_blank"} \
 [Xero API Integration Setup](xero-api-integration.html){:target="_blank"} \
 [How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html){:target="_blank"} 
