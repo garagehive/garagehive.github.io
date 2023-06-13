@@ -421,8 +421,6 @@
   subitems:
     - name: Exporting for External Accountancy
       url: /docs/garagehive-finance-accountancy-export.html
-    - name: External Accountancy Integration
-      url: /docs/garagehive-external-accountancy-integration.html
     - name: How to Import Your Exported Data Into Sage 50 Accounts
       url: /docs/garagehive-import-exported-data-to-sage-50-accounts.html
     - name: How to Import Your Exported Data Into Sage Accounting
@@ -491,6 +489,10 @@
           url: /docs/garagehive-sage-accounting-integration.html
         - name: Xero Integration Setup
           url: /docs/xero-api-integration.html
+        - name: QuickBooks Online Integration
+          url: /docs/garagehive-quickbooks-online-integration.html
+        - name: Sage 50 Cloud Accounts Integration
+          url: /docs/garagehive-sage-50-accounts-integration.html
 - name: Integrations
   url: "#"
   subitems:

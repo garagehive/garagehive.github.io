@@ -130,7 +130,7 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
 ### **See Also**
 
+[Accounting System Integrations](garagehive-external-accountancy-integration.html){:target="_blank"} \
 [Video: Xero Integration in Garage Hive](https://www.youtube.com/watch?v=WhGdR_xz9xo){:target="_blank"} \
-[How to Integrate Garage Hive With Your External Accountancy System](garagehive-external-accountancy-integration.html){:target="_blank"} \
 [How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"} \
 [How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html){:target="_blank"}
