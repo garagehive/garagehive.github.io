@@ -1,11 +1,11 @@
 ---
 layout: docs
-title: How to Use Item Lookup and Tyre Lookup Feature in Garage Hive
+title: How to Use Item Lookup and Tyre Lookup Features in Garage Hive
 ---
 
 <a name="top"></a>
 
-# How to Use Item Lookup and Tyre Lookup Feature in Garage Hive
+# How to Use Item Lookup and Tyre Lookup Features in Garage Hive
 
 ## In this article
 1. [Item Lookup](#item-lookup)
@@ -41,16 +41,20 @@ To use this feature, you should first import a tyre stock file from the supplier
 [Go back to top](#top)
 
 ### Tyre Catalogue Lookup
-Tyre Catalogue lookup is used to lookup the available tyres in local inventory/stock, and the Micheldever catalogue/stock. T access the **Tyre Catalogue**:
+Tyre Catalogue lookup is used to lookup the available tyres in local inventory/stock, and the Micheldever catalogue/stock. It is available in the **Role Centre**, **Jobsheet**, **Estimate** and the **VI Estimate**. To access the **Tyre Catalogue**:
 1. From the Role Centre, select **Tyre Catalogue**.
 
    ![](media/garagehive-tyre-catalogue1.png)
 
-2. Enter the tyre size in the **Search Text**, for example 1906515, enter the number of tyres you require in the **Quantity**. Click, **OK**.
+2. From the **Service Documents** (Jobsheet, Estimate or VI Estimate), select **Parts** followed by **Tyre Catalogue**.
+
+   ![](media/garagehive-tyre-catalogue4.png)
+
+3. Enter the tyre size in the **Search Text**, for example 1906515, and enter the number of tyres you require in the **Quantity** field. Click, **OK**.
 
    ![](media/garagehive-tyre-catalogue2.png)
 
-3. This opens up the list of tyres available along with their specifications. To narrow your search, use the filters at the top.
+4. This opens up the list of tyres available along with their specifications. To narrow your search, use the filters at the top.
 
    ![](media/garagehive-tyre-catalogue3.png)
 
