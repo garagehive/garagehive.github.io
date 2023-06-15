@@ -6,7 +6,7 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
-### 14th July 2023
+### 14th June 2023
 * Added the **Tyre Catalogue** button on the homepage, allowing you to view the tyres available in the local inventory and from suppliers' catalogues, [read more](garagehive-item-lookup-and-advanced-tyre-lookup.html#tyre-catalogue-lookup){:target="_blank"}.
 
    ![](media/tyre-catalogue-homepage.png)

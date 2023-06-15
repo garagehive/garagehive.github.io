@@ -4,6 +4,8 @@ title: Setting Up Devices with Microsoft Dynamics 365 Business Central App
 ---
 
 ## Setting Up Devices with Microsoft Dynamics 365 Business Central App
+Garage Hive can be used in devices such as phones and tablets, and all of its features are available. Here's how to install and set it up: 
+
 1. Open the **App Store/Google Play Store** on the device and search for and install Microsoft Dynamics 365 Business Central.
 2. Here are the links to the **Garage Hive App (Microsoft Dynamics 365 Business Central)** for **iOS** and **Android** mobile/tablet devices:
     * [**iOS**](https://apps.apple.com/sg/app/dynamics-365-business-central/id1093325047){:target="_blank"}   
