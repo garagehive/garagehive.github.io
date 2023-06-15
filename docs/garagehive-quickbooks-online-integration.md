@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: Draft - *How to Integrate Garage Hive With Quickbooks Online
+title: How to Integrate Garage Hive With QuickBooks Online
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Integrate Garage Hive With QuickBooks Online
 Garage Hive has made it possible to integrate QuickBooks online accounting system in order to streamline your accounting processes and make them more efficient and accurate.
