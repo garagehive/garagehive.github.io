@@ -6,6 +6,20 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 14th July 2023
+* Added the **Tyre Catalogue** button on the homepage, allowing you to view the tyres available in the local inventory and from suppliers' catalogues, [read more](garagehive-item-lookup-and-advanced-tyre-lookup.html#tyre-catalogue-lookup){:target="_blank"}.
+
+   ![](media/tyre-catalogue-homepage.png)
+
+* Added the ability to add an **Attention** comment, when a customer opens an **Online Authorisation Document** for the first time.
+* **Online Authorisation** has been made optional for published documents, allowing the option of request callback only when the document is published online, [read more](garagehive-online-documents-previewing-and-publishing-online-documents.html){:target="_blank"}.
+
+   ![](media/online-authorisation-optional.png)
+
+* Added the LKQ Euro Car Parts (ECP) Integration with Garage Hive, which enables you to search for and add items from the LKQ ECP catalogue and place an order with LKQ ECP, [read more](garagehive-ecp-integration.html){:target="_blank"}.
+
+   ![](media/lkq-ecp-integration.png)
+
 ### 31st May 2023
 * Released Version 59 (V59) of PowerBI with the following changes and refinements:
    - Added the ability to view Garage Industry Trends data within the Power BI App (Only for opted in garages).
@@ -18,11 +32,11 @@ The following is a list of all new Garage Hive features and updates:
    - Added hours gained/hours lost to summary reports.
    - Added "this month/last month" to Auto IQ report.
    - Added GP Per hour to Jobsheet Analysis.
-   - Added search box to deleted jobsheet Analysis.
+   - Added search box to deleted Jobsheet Analysis.
    - Added vehicle type filter & fuel type filter to service type report.
    - Improved refresh speed of reports.
 
-To update your PowerBI App, [follow this link](powerbi-updating-app.html)
+To update your PowerBI App, [follow this link](powerbi-updating-app.html){:target="_blank"}
 
 ### 26th May 2023
 * Added a new approach to tyre ordering, by introducing **Tyre Stock Groups**. With this feature, you can conveniently create and manage various tyre groups available in the market, allowing you to effectively organize your tyre inventory based on these groups.
@@ -48,7 +62,7 @@ To update your PowerBI App, [follow this link](powerbi-updating-app.html)
    ![](media/item-lookup.gif)
 
 ### 25th April 2023
-* Enhanced the **Line Checker** column, so that it shows errors and warnings with several icons. To understand more about the icons, [read more](garagehive-line-checker.html).
+* Enhanced the **Line Checker** column, so that it shows errors and warnings with several icons. To understand more about the icons, [read more](garagehive-line-checker.html){:target="_blank"}.
 
    ![](media/garagehive-line-checker.png)
 
