@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: Draft - *How to Integrate Garage Hive With Sage 50 Cloud Accounts
+title: How to Integrate Garage Hive With Sage 50 Cloud Accounts
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Integrate Garage Hive With Sage 50 Cloud Accounts
 Garage Hive has enabled the seamless integration of the Sage 50 Accounts accounting system, allowing you to continue performing your accounting procedures with efficiency and accuracy.

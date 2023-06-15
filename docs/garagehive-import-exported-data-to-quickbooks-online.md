@@ -1,9 +1,12 @@
 ---
 layout: docs
-title: How to Import Your Exported Data Into QuickBooks Online
+title: DRAFT - *How to Import Your Exported Data Into QuickBooks Online
 ---
 
 <a name="top"></a>
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
 
 # How to Import Your Exported Data Into QuickBooks
 If you're using **QuickBooks** as your accounting system, you'll need to import the data you [exported from Garage Hive](garagehive-finance-accountancy-export.html){:target="_blank"} and ensure that your accounting system is [integrated with Garage Hive](garagehive-quickbooks-online-integration.html){:target="_blank"}. Here's how to import the data:
