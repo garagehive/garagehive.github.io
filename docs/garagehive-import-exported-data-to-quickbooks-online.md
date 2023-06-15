@@ -79,3 +79,10 @@ If you're using **QuickBooks** as your accounting system, you'll need to import 
    ![](media/garagehive-import-exported-data-to-quickbooks-online17.png)
 
 [Go back to top](#top)
+
+<br>
+
+### **See Also**
+
+[Accountancy System Integrations](garagehive-external-accountancy-integration.html) \
+[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html)
