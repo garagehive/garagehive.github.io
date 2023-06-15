@@ -33,7 +33,7 @@ To enable the Micheldever Integration in Garage Hive:
 
    ![](media/micheldever-setup2.png)
 
-3. Enter the **Location Code** for the location where you want the integration, enter the **Party ID**, **API User Name** and the **API Password** that you will received.
+3. Enter the **Location Code** for the location where you want the integration, enter the **Party ID**, **API User Name** and the **API Password** that you will have received from Micheldever.
 4. Select the **Placeholder Item No.** that is used on the tyres added to the document, and then select the default **Vendor No.** to order the tyres added to the document.
 5. Select the **Enabled** slider, to enable the Micheldever integration.
 
