@@ -40,6 +40,4 @@ If you're using **Sage Accounting** as your accounting system, you'll need to im
 ### **See Also**
 
 [Accountancy System Integrations](garagehive-external-accountancy-integration.html) \
-[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html) \
-[How to Import Exported Data to Sage 50 Accounts System](garagehive-import-exported-data-to-sage-50-accounts.html) \
-[Xero API Integration Setup](xero-api-integration.html)
+[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html)
