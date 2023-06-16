@@ -483,7 +483,7 @@
     - name: Accountancy Routines
       url: /docs/garagehive-accountancy-routines.html
     - name: Accountancy Systems Integrations
-      url: /docs/garagehive-accountancy-systems-integrations.html
+      url: /docs/garagehive-external-accountancy-integration.html
       subitems:
         - name: Sage Accounting Integration Setup
           url: /docs/garagehive-sage-accounting-integration.html

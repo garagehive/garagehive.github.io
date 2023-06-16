@@ -41,42 +41,56 @@ If you're using **QuickBooks** as your accounting system, you'll need to import 
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online8.png)
 
-2. Next, start importing **Sales Receipts** which is done via **Bank Data**. Select **Bank Data** in the **Import Data** page.
+1. Next, start importing **Sales Receipts** which is done via **Bank Data**. Select **Bank Data** in the **Import Data** page.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online9.png)
 
-3. In this case you will have to import **Bank Data** for the different files with different payment methods. Each csv file is named with the payment method at the end, for example **Customer BankData_INCASH**.
+1. In this case you will have to import **Bank Data** for the different files with different payment methods. Each csv file is named with the payment method at the end, for example **Customer BankData_INCASH**.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online10.png)
 
-4. Upload each file at a time, you can start with **Customer BankData_INCASH**, under the **Manually Upload Your Transactions** section. Click **Continue**.
+1. Upload each file at a time, you can start with **Customer BankData_INCASH**, under the **Manually Upload Your Transactions** section. Click **Continue**.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online11.png)
 
-5. Select the **Account** for the transactions, in this case we will select **Cash**. Click **Continue**.
+1. Select the **Account** for the transactions, in this case we will select **Cash**. Click **Continue**.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online12.png)
 
-6. Select date format as **dd/mm/yyyy**. Click **Continue**.
+1. Select date format as **dd/mm/yyyy**. Click **Continue**.
    
    ![](media/garagehive-import-exported-data-to-quickbooks-online13.png)
 
-7. Select the transactions you want to add by checking on the checkbox. Click **Continue**.
+1. Select the transactions you want to add by checking on the checkbox. Click **Continue**.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online14.png)
 
-8. In the pop-up notification, click **Yes** to import the transactions. When completed, click **Done**.
+1. In the pop-up notification, click **Yes** to import the transactions. When completed, click **Done**.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online15.png)
 
-9. Match the transactions in the next page using the actions in the **Action** column, to ensure they are correctly added.
+1. Match the transactions in the next page using the actions in the **Action** column, to ensure they are correctly added.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online16.png)
 
-10. Your data has now been imported successfully. If you run into any problems while importing, please contact our support team.
-11. Open the **QuickBooks Online Exports** folder on your computer and copy all the imported files to the **Done** folder you created; this ensures that you do not reimport the same files the next time you import files to the **QuickBooks Online** system.
+1. To Import suppliers, select **Suppliers** and then select the **Suppliers** csv file in your folder. Click **Next**.
 
    ![](media/garagehive-import-exported-data-to-quickbooks-online17.png)
+
+   ![](media/garagehive-import-exported-data-to-quickbooks-online18.png)
+
+1. Match the details from the suppliers file with the right field. Click **Next**.
+
+   ![](media/garagehive-import-exported-data-to-quickbooks-online19.png)
+
+1. You will get a summary of the suppliers details to be imported. Click **Import** to complete the import.
+
+   ![](media/garagehive-import-exported-data-to-quickbooks-online20.png)
+
+1.  Your data has now been imported successfully. If you run into any problems while importing, please contact our support team.
+1.  Open the **QuickBooks Online Exports** folder on your computer and copy all the imported files to the **Done** folder you created; this ensures that you do not reimport the same files the next time you import files to the **QuickBooks Online** system.
+
+   ![](media/garagehive-import-exported-data-to-quickbooks-online25.png)
 
 [Go back to top](#top)
 
