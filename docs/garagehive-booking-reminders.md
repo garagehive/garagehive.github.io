@@ -104,7 +104,7 @@ This report enables you to view the **Booking Reminders** that have been sent, a
 
    ![](media/garagehive-reminded-not-booked1.png)
 
-2. Select the **Booking Reminder** that you want to view the report on in the **Vehicle Date Reminder** field.
+2. Select the **Booking Reminder** that you want to view the report on in the **Vehicle Date Reminder** field. For a reminder to appear in this list, it has to be **Enabled**.
 3. Enter the number of days until the reminder is due in the **Maximum No. of Days until due date** field.
 4. Enter the period within which you sent the reminders in the **Check reminders sent within the last No. of days**. Click **OK**.
 
