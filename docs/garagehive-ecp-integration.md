@@ -9,25 +9,11 @@ title: LKQ Euro Car Parts (ECP) Integration With Garage Hive
 LKQ Euro Car Parts (ECP) Integration offers seamless integration between Garage Hive and the **LKQ Euro Car Parts (ECP)** catalogues, allowing the process of **quoting**, **sourcing** and **ordering** the parts for vehicles to be efficient.
 
 ## In this article
-1. [Getting the Account Number](#getting-the-account-number)
-2. [System Setup for ECP Integration](#system-setup-for-ecp-integration)
+1. [System Setup for ECP Integration](#system-setup-for-ecp-integration)
+2. [Getting the Account Number](#getting-the-account-number)
 3. [Search for Items in the Service Document from ECP](#search-for-items-in-the-service-document-from-ecp)
 4. [Adding New Items from ECP to the Service Document](#adding-new-items=-from-ecp-to-the-service-document)
 5. [Garage Hive Lookup Methods in ECP](#garage-hive-lookup-methods-in-ecp)
-
-### Getting the Account Number
-You will require an **Account Number** before you can begin the process of linking your Garage Hive system to LKQ Euro Car Parts.
-1. ##### Existing LKQ Euro Car Parts Customers
-   If you are an existing customer of LKQ Euro Car parts, please complete the form within the link below:
-
-      > # LKQ ECP Integration Registration Form: <ins>[Form](https://forms.office.com/e/yvwPv6nRSH){:target="_blank"}</ins>
-
-   {% include tip.html title="Note" text="If you have multiple locations, you should get an Account Number for each location." %}
-
-2. ##### New LKQ Euro Car Parts Customer
-If you currently do not have an account with LKQ Euro Car Parts please contact your local branch in order to create a new Account.
-
-[Go back to top](#top)
 
 ### System Setup for ECP Integration
 To enable the LKQ ECP Integration in Garage Hive:
@@ -43,7 +29,23 @@ To enable the LKQ ECP Integration in Garage Hive:
 
    ![](media/ecp-integration-setup3.png)
 
-{% include tip.html title="Note" text="Once you have provided the information required and submitting the form, LKQ Euro Car Parts will proceed to process your account details and the Garage Hive Support Team will complete the integration setup on your behalf and email you when your LKQ ECP Integration is enabled." %}
+[Go back to top](#top)
+
+### Getting the Account Number
+You will require an **Account Number** before you can begin the process of linking your Garage Hive system to LKQ Euro Car Parts. If you have multiple locations, you should get an Account Number for each location.
+1. ##### Existing LKQ Euro Car Parts Customers
+   If you are an existing customer of LKQ Euro Car parts, please complete the form within the link below:
+
+      > # LKQ ECP Integration Registration Form: <ins>[Form](https://forms.office.com/e/yvwPv6nRSH){:target="_blank"}</ins>
+
+   Copy the **Tenant ID** in the **ECP Integration** page.
+      
+      ![](media/ecp-integration-tenant-id1.png)
+
+   {% include tip.html title="Note" text="Once you have provided the information required and submitting the form, LKQ Euro Car Parts will proceed to process your account details and the Garage Hive Support Team will complete the integration setup on your behalf and email you when your LKQ ECP Integration is enabled." %}
+
+1. ##### New LKQ Euro Car Parts Customer
+If you currently do not have an account with LKQ Euro Car Parts please contact your local branch in order to create a new Account.
 
 [Go back to top](#top)
 
