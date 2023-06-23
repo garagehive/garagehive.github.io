@@ -69,6 +69,8 @@
   subitems:
     - name: Managing Users (System Administrator)
       url: /docs/garagehive-user-management.html
+    - name: How to Create and Edit Users in Azure Active Directory (AAD)
+      url: /docs/garagehive-azure-active-directory-user.html
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
     - name: Create an External Service
