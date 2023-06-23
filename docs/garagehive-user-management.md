@@ -15,7 +15,7 @@ In Garage Hive system, you can manage licenced users in the system from the **Us
 4. [Enabling and disabling a user](#enabling-and-disabling-the-user)
 5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
 6. [Enabling Data Permissions for a User](#enabling-data-permissions-for-a-user)
-7. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory)
+7. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory-aad)
 
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
