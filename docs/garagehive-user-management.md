@@ -15,6 +15,7 @@ In Garage Hive system, you can manage licenced users in the system from the **Us
 4. [Enabling and disabling a user](#enabling-and-disabling-the-user)
 5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
 6. [Enabling Data Permissions for a User](#enabling-data-permissions-for-a-user)
+7. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory)
 
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
@@ -156,9 +157,22 @@ To manage **Data Permissions** for a user:
 
             ![](media/garagehive-post-item-journals4.png)
 
+[Go back to top](#top)
+
+### Add Authentication Email with Azure Active Directory (AAD)
+To add an authentication email, first create a user in the Azure Active Directory Admin Portal, [learn more](garagehive-azure-active-directory-user.html){:target="_blank"}. After creating the user, add the **Email** as follows:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **User Management**, and select the related link.
+
+   ![](media/garagehive-azure-active-directory-authentication1.png)
+
+2. Select the user to add the **Authentication Email**, and enter the email in the **Authentication Email** field.
+
+   ![](media/garagehive-azure-active-directory-authentication2.png)
+
 
 [Go back to top](#top)
 
 ### **See Also**
 
-[Video: How to manage system users within Garage Hive](https://www.youtube.com/watch?v=Icq0D8j4HIc){:target="_blank"}
+[Video: How to manage system users within Garage Hive](https://www.youtube.com/watch?v=Icq0D8j4HIc){:target="_blank"} \
+[How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password](garagehive-azure-active-directory-user.html){:target="_blank"}
