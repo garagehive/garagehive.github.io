@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password
+title: How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password
 **Azure Active Directory (AAD)** is a cloud-based identity and access management service. AAD enables user authentication and single sign-on, allowing users to access Dynamics 365 using their Azure AD credentials and seamlessly navigate to other Microsoft services.
@@ -17,7 +14,7 @@ We are currently reviewing this article before it is published, check back later
 3. [Reset Password for a User](#reset-password-for-a-user)
 
 ### Creating a New User
-1. To log-in to **Azure Active Directory Admin Portal** use this [link](http://admin.microsoft.com){:target="_blank"}, and select **Add User**.
+1. To log-in to **Azure Active Directory Admin Portal** use this **[link](http://admin.microsoft.com){:target="_blank"}** (Admin rights needed to access this link), and select **Add User**.
 
    ![](media/garagehive-azure-active-directory-new-user1.png)
 
@@ -29,7 +26,7 @@ We are currently reviewing this article before it is published, check back later
 
    ![](media/garagehive-azure-active-directory-new-user3.png)
 
-4. On the following page, select the user's **Location** and then **Assign User a Product Licence** to give the user access to **Microsoft 365**. Click **Next**.
+4. On the following page, select the user's **Location** and then **Create user without product licence**. This is recommended because the user is only used for authentication in Garage Hive. Click **Next**.
 
    ![](media/garagehive-azure-active-directory-new-user4.png)
 
@@ -37,7 +34,7 @@ We are currently reviewing this article before it is published, check back later
 
    ![](media/garagehive-azure-active-directory-new-user5.png)
 
-6. If you want to give the user access to the **Admin Centre**, go to **Roles** and then select **Admin center access**. Then, from the list, you can assign the suitable admin access. Give users only the access they need by assigning the least-permissive role. Click **Next**.
+6. If you want to give the user access to the **Admin Centre**, go to **Roles** and then select **Admin center access**. Then, from the list, you can assign the suitable admin access. Give users only the access they need by assigning the least-permissive role; this is optional and can be skipped. Click **Next**.
 
    ![](media/garagehive-azure-active-directory-new-user6.png)
 
