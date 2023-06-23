@@ -429,7 +429,7 @@
       url: /docs/garagehive-import-exported-data-to-sage-50-accounts.html
     - name: How to Import Your Exported Data Into Sage Accounting
       url: /docs/garagehive-import-exported-data-to-sage-accounting.html
-    - name: /How to Import Your Exported Data Into QuickBooks Online
+    - name: How to Import Your Exported Data Into QuickBooks Online
       url: /docs/garagehive-import-exported-data-to-quickbooks-online.html
     - name: Setting Up Payment by Card Terminal
       url: /docs/garagehive-setting-up-payment-by-card-terminal.html
@@ -474,6 +474,8 @@
       url: /docs/garagehive-service-recharge.html
     - name: Getting Started with Financial Reporting
       url: /docs/garagehive-financial-reporting.html
+    - name: Guide on Modifying Financial Reports
+      url: /docs/garagehive-modifying-financial-reports.html
     - name: Working With Payment Reconciliation Journals
       url: /docs/garagehive-payment-reconciliation-journals.html
     - name: How to reconcile customer payments manually
