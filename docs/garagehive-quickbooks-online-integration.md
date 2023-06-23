@@ -75,7 +75,9 @@ To add the **External System No.** to the **Payments Methods**:
 ### **See Also**
 
 [How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"} \
-[Accountancy System Integrations](garagehive-external-accountancy-integration.html)
+[How Import Exported Data to QuickBooks Online](garagehive-import-exported-data-to-quickbooks-online.html){:target="_blank"} \
+[Accountancy System Integrations](garagehive-external-accountancy-integration.html){:target="_blank"}
+
 
 
 
