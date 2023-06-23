@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Guide on Modifying Financial Reports in Garage Hive
+title: Guide on Modifying Financial Reports in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Guide on Modifying Financial Reports in Garage Hive
 **Accounts Schedules** are now called **Financial Reports** since the [2022 wave 2 release by Microsoft](garagehive-2022-business-central-release-wave-2.html). In this guide, we will explain the basics in **Financial Reports**, the types of reports available in Garage Hive, and how to modify them by adding or removing a G/L account.

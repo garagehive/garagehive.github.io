@@ -106,6 +106,8 @@
           url: /docs/garagehive-booking-reminders.html
         - name: Setting Up Booking Confirmation Notifications
           url: /docs/garagehive-booking-confirmation.html
+        - name: View the Report on Reminders Sent and Not Booked
+          url: /docs/garagehive-reminders-sent-not-booked-report.html
     - name: Setting Your Average Labour Rate
       url: /docs/garagehive-labour-rate.html
     - name: Setup of Resource Service Hours and Auto Clock Out
@@ -427,6 +429,8 @@
       url: /docs/garagehive-import-exported-data-to-sage-50-accounts.html
     - name: How to Import Your Exported Data Into Sage Accounting
       url: /docs/garagehive-import-exported-data-to-sage-accounting.html
+    - name: /How to Import Your Exported Data Into QuickBooks Online
+      url: /docs/garagehive-import-exported-data-to-quickbooks-online.html
     - name: Setting Up Payment by Card Terminal
       url: /docs/garagehive-setting-up-payment-by-card-terminal.html
     - name: Generating Paymentsense Card Machine Reports

@@ -5,9 +5,6 @@ title: View the Report on Reminders Sent and Not Booked
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 # View the Report on Reminders Sent and Not Booked
 This report enables you to view the **Booking Reminders** that have been sent, and they haven't been booked. To view this report:
 1. From the home page, select **Reports**, followed by **Additional** and then **Reminded Not Booked**.
