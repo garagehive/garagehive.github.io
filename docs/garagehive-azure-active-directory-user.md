@@ -8,6 +8,8 @@ title: How to Create and Edit Users in Azure Active Directory (AAD) and Reset Pa
 # How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password
 **Azure Active Directory (AAD)** is a cloud-based identity and access management service. AAD enables user authentication and single sign-on, allowing users to access Dynamics 365 using their Azure AD credentials and seamlessly navigate to other Microsoft services.
 
+More information about how to add the **AAD authentication email** to Garage Hive can be found [here](https://docs.garagehive.co.uk/docs/garagehive-user-management.html#add-authentication-email-with-azure-active-directory-aad){:target="_blank"}.
+
 ## In this article
 1. [Creating a New User](#creating-a-new-user)
 2. [Edit an Existing User](#edit-an-existing-user)
@@ -50,7 +52,7 @@ title: How to Create and Edit Users in Azure Active Directory (AAD) and Reset Pa
 
 ### Edit an Existing User
 To edit an existing user:
-1. Log-in to **Azure Active Directory Admin Portal** using this [link](http://admin.microsoft.com){:target="_blank"}, and select **Users** under **Your Organization** section, and click on the user that you want to edit. A pop-up window appears on the right side.
+1. Log-in to **Azure Active Directory Admin Portal** using this **[link](http://admin.microsoft.com){:target="_blank"}** (Admin rights needed to access this link), and select **Users** under **Your Organization** section, and click on the user that you want to edit. A pop-up window appears on the right side.
 
    ![](media/garagehive-azure-active-directory-edit-user1.png)
 
@@ -64,7 +66,7 @@ To edit an existing user:
 
 ### Reset Password for a User
 To reset a password for a user:
-1. Log in to the **Azure Active Directory Admin Portal** by clicking on this [link](http://admin.microsoft.com){:target="_blank"}, and then click on **Reset Password**. Select the user or users whose passwords you want to reset from the pop-up window that appears on the right.
+1. Log in to the **Azure Active Directory Admin Portal** by clicking on this **[link](http://admin.microsoft.com){:target="_blank"}** (Admin rights needed to access this link), and then click on **Reset Password**. Select the user or users whose passwords you want to reset from the pop-up window that appears on the right.
 
    ![](media/garagehive-azure-active-directory-reset-password1.png)
 
