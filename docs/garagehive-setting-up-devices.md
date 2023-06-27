@@ -26,13 +26,15 @@ Garage Hive can be used in devices such as phones and tablets, and all of its fe
 
    ![](media/garagehive-setting-up-devices3.png)
 
-7. You will now see your login screen; enter the **User name** and **Password** for the device users. If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below
+7. You will now see your login screen; enter the **User name** and **Password** for the device users. If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below in Image 2.
 
       {% include tip.html title="Note" text="Please note the first time you enter the User name and Password it may ask you to create a new password." %} 
 
+   Image 1: Normal Login screen
+
       ![](media/garagehive-setting-up-devices4.png)
 
-   Azure Active Directory (AAD):
+   Image 2: Azure Active Directory (AAD)
 
       ![](media/garagehive-setting-up-devices4a.png)
 
