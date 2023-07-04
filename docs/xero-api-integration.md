@@ -3,11 +3,15 @@ layout: docs
 title: Xero API Integration Setup
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [What you can export via the Xero API](#what-you-can-export-via-the-xero-api)
 2. [Initial Setup](#initial-setup)
-3. [How to run the export](#how-to-run-the-export)
-4. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
+3. [Integrate Chart of Accounts](#integrate-chart-of-accounts)
+3. [Integrate Payment Methods](#integrate-payment-methods)
+4. [How to run the export](#how-to-run-the-export)
+5. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
 
 
 ### What you can export via the Xero API
@@ -22,6 +26,8 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 * Vendor Credit memos
 
 {% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
+
+[Go back to top](#top)
 
 ### Initial Setup
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
@@ -75,6 +81,35 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 
      ![](media/xero-2-orth-app-5.png)
 
+[Go back to top](#top)
+
+### Integrate Chart of Accounts
+To integrate the **Chart of Accounts** to **Xero Accounting** accounting system: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Chart of Accounts** and select the related link.
+
+   ![](media/garagehive-xero-chart-of-accounts1.png)
+
+2. In the **Chart of Accounts** page, select **Edit List** from the menu bar.
+3. In the **External System No.** column, enter the account number for the accounts you want to integrate with the external system. In this case, we'll integrate all of the **4000s** accounts.
+
+   {% include tip.html title="Note" text="Typically only the 4000's and 5000's accounts are needed." %}
+
+   ![](media/garagehive-xero-chart-of-accounts2.png)
+
+[Go back to top](#top)
+
+### Integrate Payment Methods
+To add the **External System No.** to the **Payments Methods**: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Payment Methods** and select the related link.
+
+   ![](media/garagehive-xero-payment-methods1.png)
+
+2. In the **External System No.** column, enter the corresponding code for the **Payment Methods** that you use in your external system.
+
+   ![](media/garagehive-xero-payment-methods2.png)
+
+[Go back to top](#top)
+
 ### How to run the export 
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
@@ -92,6 +127,8 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
    * **Export All Vendors** - This will generate an export of all vendors in the system.
 
 {% include tip.html title="Note" text="There is no physical file created when using the Xero integration. The transactions will appear directly in your Xero account." %}
+
+[Go back to top](#top)
 
 ### Adding Tracking Categories in Xero
 1. To add **Tracking Category** such as **Branch** in Xero, choose the ![](media/search icon.png) icon, enter **Dimensions**, and select the related link.
@@ -124,6 +161,8 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
     ![](media/garagehive-xero-tracking-categories-branch.png)
 
 10. The **Tracking Categories** will be added successfully, and you may now [run the export](#how-to-run-the-export) as described above.
+
+[Go back to top](#top)
 
 
 <br>
