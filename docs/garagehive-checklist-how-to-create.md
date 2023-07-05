@@ -83,7 +83,11 @@ A Checklist Template is considered the header of the Checklist. To view and crea
       * **Default Value** - You can populate a field with a default value to determine which radio button is pre-ticked.
       * **Attention If Has Value** Ticking this box will allow the Advisor to see from the list of checklists if any particular checklist requires attention. Any entry on a line with this ticked will flag a checklist.
 
-3. To add **Checklist Items** lines, use the available template from the menu bar by selecting **New Line From Template**. This provides you with the following templates:
+3. To add **Checklist Items** lines, use the available template from the menu bar by selecting **New Line From Template**. Add the templates according to the question or information required:
+
+      ![](media/garagehive-checklist-setup6.png)
+
+4. This provides you with the following templates:
       * **Checkbox**
             
          ![](media/garagehive-checklist-checkbox.png)
@@ -95,14 +99,6 @@ A Checklist Template is considered the header of the Checklist. To view and crea
       * **Textbox**
             
          ![](media/garagehive-textbox.png)
-
-      * **2xSmall Textboxes - Provides**
-            
-         ![](media/garagehive-two-small-textboxes.png)
-
-4. Add the templates according to the question or information required:
-
-   ![](media/garagehive-checklist-setup6.gif)
 
 5. After adding the **Checklist Items** ensure you link it to the **Checklist Item Group**, by clicking  the **OK** button in the **Select - Checklist Item Groups** page.
 
