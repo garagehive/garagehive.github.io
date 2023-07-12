@@ -28,7 +28,7 @@ Physical stock takes enable comparisons between items in the system and those th
 
    ![](media/garagehive-physical-stock-take4.gif)
 
-10. After filling out the **Qty (Phys. Inventory)** column and confirming that the quantities are correct and that the **Entry Type** column is accurate;;;;;, select **Post/Print** from the menu bar, and then **Post** to post the item journals. This will make the quantities in the system equal to the quantities in physical.
+10. After filling out the **Qty (Phys. Inventory)** column and confirming that the quantities are correct and that the **Entry Type** column is accurate, select **Post/Print** from the menu bar, and then **Post** to post the item journals. This will make the quantities in the system equal to the quantities in physical.
 
    ![](media/garagehive-physical-stock-take5.gif)
 
