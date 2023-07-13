@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Vendor Payment Process in Garage Hive
+title: Vendor Payment Process in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Vendor Payment Process in Garage Hive
 It is essential to always pay your vendors on time and accurately. However, managing vendor payments can be complex and time-consuming, especially with multiple suppliers with different payment terms. This article will walk you through making vendor payments in Garage Hive.

@@ -17,7 +17,7 @@ Stock adjustment is required when there are discrepancies between the Physical S
 
 1. Enter the **Posting Date** as the date you want the adjustment to be recorded. In the **Entry Type** select **Positive Adjmt.** to increase the stock, or **Negative Adjmt.** to decrease the stock in the system.
 1. Select the item to adjust in the **Item No.** column, enter the **Location Code** for the item, and enter the number of items to adjust in the **Quantity** column.
-1. If you want to adjust the pricing of the item too, enter the new price in the **Unit Amount**.
+1. If you want to adjust the item cost too, enter the new cost in the **Unit Amount**.
 
    ![](media/garagehive-stock-adjustment3.png)
 
@@ -26,7 +26,7 @@ Stock adjustment is required when there are discrepancies between the Physical S
 
    ![](media/garagehive-stock-adjustment4.png)
 
-1.  Click **Yes** in the pop-up notification.
+1. Click **Yes** in the pop-up notification.
 
    ![](media/garagehive-stock-adjustment5.png)
 
