@@ -468,6 +468,8 @@
       url: /docs/garagehive-statements-how-to-email.html
     - name: How to perform a Customer/Vendor Balancing Payment
       url: /docs/garagehive-contra-payment.html
+    - name: How to Make Vendor Payments
+      url: /docs/garagehive-vendor-payments.html
     - name: How to Apply Payments to Unpaid Sales Documents
       url: /docs/garagehive-finance-how-reconcile-customer-payments-list-unpaid-sales-documents.html
     - name: How to Use Service Recharge for Internal Charging
