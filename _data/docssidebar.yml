@@ -297,7 +297,7 @@
 - name: General Functionality
   url: "#"
   subitems:
-    - name: How to Use the Schedule 
+    - name: Understanding the Schedule
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Adding a Resource in the System (Person or Machine)
       url: /docs/garagehive-adding-a-resource.html
