@@ -82,30 +82,30 @@ Garage Link for **Pay360** is an online payment service that has been integrated
    ![](media/garagehive-creating-pay360-account18.png)
 
 ### Adding Pay360 to Garage Hive
-1. After creating an account with **Pay360**, you should now add **Pay360** as a **Payment Gateway** in Garage Hive.
-2. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Payment Gateways**, and select the related link.
+After creating an account with **Pay360**, you should now add **Pay360** as a **Payment Gateway** in Garage Hive:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Payment Gateways**, and select the related link.
 
    ![](media/garagehive-creating-pay360-account19.png)
 
-3. Click on **New** from the menu bar to add a new **Payment Gateway**.
+2. Click on **New** from the menu bar to add a new **Payment Gateway**.
 
    ![](media/garagehive-creating-pay360-account20.png)
 
-4. The **Payment Gateway Card** will require the **Pay360** **Merchant ID**, which can be found in the top right corner of the **Pay360** portal.
+3. The **Payment Gateway Card** will require the **Pay360** **Merchant ID**, which can be found in the top right corner of the **Pay360** portal.
 
    ![](media/garagehive-creating-pay360-account21.png)
 
-5. In the **Payment Gateway Card**, enter the **Code** as **Pay360**, the **Payment System** as **eCommerce (Pay360)**, and the **Merchant ID** from **Pay360** in the **Merchant ID** field.
+4. In the **Payment Gateway Card**, enter the **Code** as **Pay360**, the **Payment System** as **eCommerce (Pay360)**, and the **Merchant ID** from **Pay360** in the **Merchant ID** field.
 
    ![](media/garagehive-creating-pay360-account22.png)
 
-6. To enable the **Pay360** payment gateway in Garage Hive, select the **Enabled** slider and close the **Payment Gateway** card.
+5. To enable the **Pay360** payment gateway in Garage Hive, select the **Enabled** slider and close the **Payment Gateway** card.
 
    ![](media/garagehive-creating-pay360-account23.png)
 
-7. To add the **Location Payment Methods**, choose the ![](media/search_icon.png) icon, enter **Location Payment Methods**, and select the related link.
-8. Select the locations where you want to use the **Pay360** payment gateway, then enter the **Payment Method Code**, **Description**, and **Payment Gateway Code** for **Pay360** on each location.
+6. To add the **Location Payment Methods**, choose the ![](media/search_icon.png) icon, enter **Location Payment Methods**, and select the related link.
+7. Select the locations where you want to use the **Pay360** payment gateway, then enter the **Payment Method Code**, **Description**, and **Payment Gateway Code** for **Pay360** on each location.
 
    ![](media/garagehive-creating-pay360-account24.png)
 
-9. Creating payments in the **Location Payment Methods** page can be complex; please contact **GH Support** if you need assistance.
+8. Creating payments in the **Location Payment Methods** page can be complex; please contact **GH Support** if you need assistance.

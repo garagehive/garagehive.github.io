@@ -3,11 +3,11 @@ layout: docs
 title: How to Process Factored Debt in Garage Hive
 ---
 
+<a name="top"></a>
+
 # How to Process Factored Debt in Garage Hive
 
-> **Important:**
->
-> Because this is an accounting issue, please consider sending this documentation to your accountant for approval and/or comments.
+   {% include tip.html title="Important" text="Because this is an accounting issue, please consider sending this documentation to your accountant for approval and/or comments." %}
 
 **Debt Factoring** is an external, short-term source of finance for a business. With **Debt Factoring**, the business raises cash by selling their outstanding sales invoices (receivables) to a third party (a factoring company) at a discount. Here is how to process a factored debt in Garage Hive:
 1. Suppose you have a customer who owes the company £802, and then you transfer the money to a factoring company, in this case **Payment Assist**. So, now **Payment Assist** now owes you £802 and the customer owes them.
@@ -20,35 +20,31 @@ title: How to Process Factored Debt in Garage Hive
 
    ![](media/garagehive-processing-factored-debt2.png)
 
-2. After you've created the item card, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales Credit Memo** and select the related link.
-3. To create a new sales credit memo, click **New** from the menu bar.
+1. After you've created the item card, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales Credit Memo** and select the related link.
+1. To create a new sales credit memo, click **New** from the menu bar.
 
    ![](media/garagehive-processing-factored-debt3.gif)
 
-4. In the **General** FastTab **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
-5. In the **Lines** sub-page, enter the **Item** you created as the **Payment Assist Commission**, **Quantity** to be one, and the **Unit Price** as the balance, in this case **£152**.
+1. In the **General** FastTab **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
+1. In the **Lines** sub-page, enter the **Item** you created as the **Payment Assist Commission**, **Quantity** to be one, and the **Unit Price** as the balance, in this case **£152**.
 
    ![](media/garagehive-processing-factored-debt4.gif)
 
-6. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo menu bar.
-7. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
+1. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo menu bar.
+1. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
 
    ![](media/garagehive-processing-factored-debt7.gif)
 
-8. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the menu bar, followed by **Post**.
+1. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the menu bar, followed by **Post**.
    
    ![](media/garagehive-processing-factored-debt5.gif)
 
-9. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
+1. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
 
    ![](media/garagehive-processing-factored-debt6.png)
 
-10. The entries are now applied for **Payment Assist**, and are no longer open.
+1. The entries are now applied for **Payment Assist**, and are no longer open.
 
 
-<br>
-
-### See also
-
-[Video: How to review your customer surveys in Garage Hive](https://www.youtube.com/watch?v=UWpPgs-rJJg&t=136s){:target="_blank"}
+[Go back to top](#top)
 
