@@ -119,7 +119,7 @@ Here are ways in which you can use Chart of Accounts:
 5. Enter the following details for the subcategory:
       - **Description:** This is the name or description of the new subcategory.
       - **Account Category:** This specifies the category of the G/L account(s).
-      - **G/L Accounts in Category:** This is a list of the G/L accounts included in the category. To write multiple accounts, add the accounts and then separate them with a slash (|), for example (**0010|0012|0051**), and to add accounts in a range, separate the first and last account with two dots (..), for example (**1000..1099**).
+      - **G/L Accounts in Category:** This is a list of the G/L accounts included in the category. To write multiple accounts, add the accounts and then separate them with a slash ( | ), for example (**0010 | 0012 | 0051**), and to add accounts in a range, separate the first and last account with two dots (..), for example (**1000..1099**).
       - **Additional Reports Definition:** Specifies whether the accounts in each subcategory must be included in specific types of reports for example **Operating Activities**, **Investing Activities**, **Financing Activities** etc.
 
          ![](media/garagehive-chart-of-accounts-account-categories4.png)
