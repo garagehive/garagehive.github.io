@@ -14,7 +14,7 @@ The income statement and balance sheet are two important company financial repor
 ## In this article
 1. [Setting Up G/L Accounts](#setting-up-gl-accounts)
 2. [Using the Chart of Accounts](#using-the-chart-of-accounts)
-3. [Setting Up Account Categories and Subcategories](#create-payments-from-vendor-ledger-entries)
+3. [Setting Up Account Categories and Subcategories](#setting-up-account-categories-and-subcategories)
 
 ### Setting Up G/L Accounts
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Chart of Accounts**, and select the related link.
@@ -119,7 +119,7 @@ Here are ways in which you can use Chart of Accounts:
 5. Enter the following details for the subcategory:
       - **Description:** This is the name or description of the new subcategory.
       - **Account Category:** This specifies the category of the G/L account(s).
-      - **G/L Accounts in Category:** This is a list of the G/L accounts included in the category. To write multiple accounts, add the accounts and then separate them with a slash ( | ), for example (**0010 | 0012 | 0051**), and to add accounts in a range, separate the first and last account with two dots (..), for example (**1000..1099**).
+      - **G/L Accounts in Category:** This is a list of the G/L accounts included in the category. To write multiple accounts, add the accounts and then separate them with a  vertical slash ( &#124; ), for example (**0010 &#124; 0012 &#124; 0051**), and to add accounts in a range, separate the first and last account with two dots (..), for example (**1000..1099**).
       - **Additional Reports Definition:** Specifies whether the accounts in each subcategory must be included in specific types of reports for example **Operating Activities**, **Investing Activities**, **Financing Activities** etc.
 
          ![](media/garagehive-chart-of-accounts-account-categories4.png)
