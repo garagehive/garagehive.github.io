@@ -62,21 +62,60 @@ To import bank statements in Garage Hive:
 
    ![](media/garagehive-bank-statements-import1.png)
 
-2. Select **New** from the menu bar.
+1. Select **New** from the menu bar.
 
    ![](media/garagehive-bank-statements-import2.png)
 
-3. In the **Bank Account No.** select the relevant bank account. The bank account ledger entries that exist on the bank account appear in the **Bank Account Ledger Entries** pane.
-4. In the **Statement Date** field, enter the date of the statement from the bank.
-5. In the **Balance Last Statement** field, enter the balance of the last statement used in the posted bank reconciliation for the selected bank account. If this is your first time importing the statement, leave this field blank.
-6. In the **Statement Ending Balance** field, enter the balance of the statement from the bank.
+1. In the **Bank Account No.** select the relevant bank account. The bank account ledger entries that exist on the bank account appear in the **Bank Account Ledger Entries** pane.
+1. In the **Statement Date** field, enter the date of the statement from the bank.
+1. In the **Balance Last Statement** field, enter the balance of the last statement used in the posted bank reconciliation for the selected bank account. If this is your first time importing the statement, leave this field blank.
+1. In the **Statement Ending Balance** field, enter the balance of the statement from the bank.
 
    ![](media/garagehive-bank-statements-import3.png)
 
-7. Select **Bank** from the menu bar, followed by the **Import Bank Statement** action.
+1. Select **Bank** from the menu bar, followed by the **Import Bank Statement** action.
 
    ![](media/garagehive-bank-statements-import4.png)
 
-8. Locate the file, and then choose the Open button to import the bank transactions into the **Bank Statement Lines** pane on the **Bank Acc. Reconciliation** page.
+1. Locate the file, and then choose the Open button to import the bank transactions into the **Bank Statement Lines** pane on the **Bank Acc. Reconciliation** page.
 
    ![](media/garagehive-bank-statements-import5.png)
+
+1. To match bank statement lines with bank account ledger entries automatically, select **Matching** from the menu bar and choose **Match Automatically**. The **Match Bank Entries** page opens.
+
+   ![](media/garagehive-bank-statements-import6.png)
+
+1. In the **Transaction Date Tolerance (Days)** field, specify the span of days before and after the bank account ledger entry posting date within which the action will search for matching transaction dates in the bank statement.
+1. If you enter 0 or leave the field blank, the **Match Automatically** action will only search for matching transaction dates on the bank account ledger entry posting date. Click **OK**.
+
+   ![](media/garagehive-bank-statements-import7.png)
+
+1. You'll get a notification on how many lines have been matched. The matched lines turn to bold green font. Bank account ledger entries that are matched on other bank reconciliations are shown in italic blue font.
+1. To remove a match, select the bank statement line, select **Matching** from the menu bar, and then **Remove Match** action.
+
+   ![](media/garagehive-bank-statements-import8.png)
+
+1. To match bank statement lines with bank account ledger entries manually, select a non-applied line in the **Bank Statement Lines** pane.
+1. In the **Bank Account Ledger Entries** pane, select one or more banks account ledger entries that can be matched with the selected bank statement line. To choose multiple lines, select and hold the **CTRL** key and then choose the lines.
+
+   ![](media/garagehive-bank-statements-import9.png)
+
+1. Select **Matching** from the menu bar, and choose the **Match Manually** action. The selected bank statement line and the selected bank account ledger entries change to green font, and the Applied checkbox in the right pane is selected.
+
+   ![](media/garagehive-bank-statements-import10.png)
+
+1. Repeat steps 1 through 3 for all bank statement lines that aren't matched.
+1. To double-check your bank account reconciliation before you post it, select **Posting**, and choose the **Test Report** action to preview the reconciliation.
+
+   ![](media/garagehive-bank-statements-import11.png)
+
+1. After confirming, select **Posting**, followed by **Post** to post the bank reconciliation.
+
+   ![](media/garagehive-bank-statements-import12.png)
+
+
+
+
+
+
+
