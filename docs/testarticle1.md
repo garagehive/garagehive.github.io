@@ -41,51 +41,6 @@ Your old username, for example, 'Daves,' will no longer work and will be replace
    ![](media/garagehive-aad-sign-on-migrate7.png)
 
 7. Once this is completed and we have changed the sign on method for your system, you will use this new username and password you created to access Garage Hive.
-8. 
-
-
-
-
-
-
-
-
-
-[Go back to top](#top)
-
-### Parent Page Example
-The following is an example of a parent page with **Google Tag Manager** default scripts and **Garage Hive Online Booking** embed script.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup4.png)
-
-[Go back to top](#top)
-
-### Google Tag Manager Setup
-Google Tag Manager needs to have 2 Tags set up – one is GA4 Configuration for the parent page general analytics and the second is GA4 Event to catch the custom iframe page load event and forward it to GA4.
-1. Open **Google Tag Manager** and select **Tag** on the left side, followed by **New**.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup5.png)
-
-2. Enter the tag's name in the top left corner and click the **Tag Configuration** edit button.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup6.png)
-
-3. Select **Google Analytics: GA4 Configuration** as the **Tag Type** and enter the **Measurement ID** (starts with G-). You should create a new GA4 instance and obtain the measurement ID from there, [learn more](https://support.google.com/analytics/answer/9744165#use_existing_tags&zippy=%2Cin-this-article).
-4. Then, for **Triggering**, click the edit button and choose **All Pages**. Click **Save**.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup7.png)
-
-5. Select **New** to create a new tag, and then setup the **Tag Configuration** as shown in the image below. This is to capture an iframe event and transform it to match a GA4 parameter so that it can be logged as a page view event.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup8.png)
-
-6. Click on the **Trigger Configuration** edit button and change the settings as shown in the image below.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup9.png)
-
-7. You should now have the two tags in place. Click the **Submit** button.
-
-   ![](media/garagehive-online-booking-and-google-analytics-setup10.png)
 
 
 [Go back to top](#top)
