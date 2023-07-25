@@ -3,6 +3,9 @@ layout: docs
 title: How to Filter Lists in Garage Hive
 ---
 
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
+
 # How to Filter Lists In Garage Hive
 Filtering lists in Garage Hive allows users to extract specific information from large datasets, allowing them to focus on relevant data and quickly find what they're looking for. In this article, we will look at some techniques for filtering lists in Garage Hive.
 
