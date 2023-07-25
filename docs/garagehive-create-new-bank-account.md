@@ -3,6 +3,11 @@ layout: docs
 title: How to create Bank Accounts and Import Bank Statements
 ---
 
+<a name="top"></a>
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
+
 # How to create Bank Accounts and Import Bank Statements
 Creating bank accounts and importing bank statements in Garage Hive is important when it comes to financial management because they help you improve tracking and controlling financial transactions in the system. This process should be done in consultation with your accountant for further guidance.
 
@@ -55,6 +60,7 @@ Creating bank accounts and importing bank statements in Garage Hive is important
 
 {% include tip.html title="Note" text="If you intend to make payments directly into or out of this bank account, you should set up additional payment methods." %}
 
+[Go back to top](#top)
 
 ### Importing Bank Statements
 To import bank statements in Garage Hive:
@@ -113,6 +119,7 @@ To import bank statements in Garage Hive:
 
    ![](media/garagehive-bank-statements-import12.png)
 
+[Go back to top](#top)
 
 
 
