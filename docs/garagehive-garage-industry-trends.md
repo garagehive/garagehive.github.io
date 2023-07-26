@@ -61,7 +61,7 @@ MOT Data Trends is a comprehensive set of reports that analyses 200 million line
 
    ![](media/garagehive-mot-data-trends3.png)
 
-4. Use the tabs at the bottom of the page to select the type of **MOT Failure & Item Failures** you want to see, and on the report page, use the filter panel on the left hand side to filter the report.
+4. Use the tabs at the bottom of the page to select the type of **MOT Failure & Item Failures** you want to see, and on the report page, use the filter pane on the left hand side to filter the report.
 
    ![](media/garagehive-mot-data-trends4.gif)
    

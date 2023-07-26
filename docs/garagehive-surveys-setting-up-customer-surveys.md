@@ -59,7 +59,7 @@ For the customer surveys to work effectively, you must ensure that the system se
 1. Select the **Customers** list on the navigation bar from the role centre.
 2. Add the **Feedback and Review Requests** column; this column indicates the customers who have been opted into the services.
 3. From the list, you can filter the customers who are opted into the service by right-clicking on the column and select **Filter**. 
-4. From the side panel that appears, choose **No** or **Yes** from the dropdown to filter the customers who are not into the service and customers who are into the service, respectively. 
+4. From the filter pane that appears, choose **No** or **Yes** from the dropdown to filter the customers who are not into the service and customers who are into the service, respectively. 
 
 
 {% include tip.html title="Tip" text="It is advisable to opt all your customers in, and after sending the survey, you give them the option of opting out." %}
