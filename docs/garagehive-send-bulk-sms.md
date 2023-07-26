@@ -8,7 +8,7 @@ title: How to Send Bulk SMS in Garage Hive
 
    ![](media/garagehive-send-bulk-sms1.png)
 
-2. You can filter the vehicle list to show only vehicles for customers to whom you want to send SMS messages; in this case, we can use the **MOT Jobsheet Exists** column to do so. Click the filter icon to display the **Filter Pane**, then select **Filter** and select **MOT Jobsheet Exists**, which has a **Yes** or **No** option.
+2. You can filter the vehicle list to show only vehicles for customers to whom you want to send SMS messages; in this case, we can use the **MOT Jobsheet Exists** column to do so. Click the filter pane icon ![](media/filter-pane-icon.png) to display the **Filter Pane**, then select **Filter** and select **MOT Jobsheet Exists**, which has a **Yes** or **No** option.
 
    ![](media/garagehive-send-bulk-sms2.png)
 

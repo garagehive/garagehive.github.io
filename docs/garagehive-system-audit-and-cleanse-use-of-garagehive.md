@@ -35,11 +35,11 @@ To ensure your Jobsheet list is cleansed:
 
    ![](media/garagehive-system-audit1.png)
 
-2. Select the filter icon on the right of the menu bar to reveal the **filter** panel.
+2. Select the filter pane icon ![](media/filter-pane-icon.png) on the right of the menu bar to reveal the **filter** pane.
 
    ![](media/garagehive-system-audit2.png)
 
-3. Add a **Booking Date** filter to the filter panel by clicking the **+Filter** button and searching for Booking Date. In the **Booking Date** filter, enter **&#39;&#39;&#124;..T-1d** (copy and paste). This is the filter for all bookings made in the past, up until yesterday.
+3. Add a **Booking Date** filter to the filter pane by clicking the **+Filter** button and searching for Booking Date. In the **Booking Date** filter, enter **&#39;&#39;&#124;..T-1d** (copy and paste). This is the filter for all bookings made in the past, up until yesterday.
 
    ![](media/garagehive-system-audit3.gif)
 
@@ -53,11 +53,11 @@ To ensure your Estimates list is cleansed:
 
    ![](media/garagehive-system-audit15.png)
 
-2. Select the filter icon on the right of the menu bar to reveal the **filter** panel.
+2. Select the filter pane icon ![](media/filter-pane-icon.png) on the right of the menu bar to reveal the **filter** pane.
 
    ![](media/garagehive-system-audit16.png)
 
-3. In the **Estimate Status** filter, select **Awaiting Action**, **Awaiting Parts**, **Awaiting Advisor**, and **Awating Authorisation**; this filters all Estimates that have not been completed, and then add a **Created At** filter to the filter panel by clicking the **+Filter** button and searching for Created At, enter **&#39;&#39;&#124;..T-1d** in the **Created At** filter; this filters all Estimates made in the past, up until yesterday.
+3. In the **Estimate Status** filter, select **Awaiting Action**, **Awaiting Parts**, **Awaiting Advisor**, and **Awating Authorisation**; this filters all Estimates that have not been completed, and then add a **Created At** filter to the filter pane by clicking the **+Filter** button and searching for Created At, enter **&#39;&#39;&#124;..T-1d** in the **Created At** filter; this filters all Estimates made in the past, up until yesterday.
 
    ![](media/garagehive-system-audit17.gif)
 
@@ -71,7 +71,7 @@ To ensure your Vehicle Inspections list is cleansed:
 
    ![](media/garagehive-system-audit12.png)
 
-2. Select the filter icon on the right of the menu bar to reveal the **filter** panel.
+2. Select the filter pane icon ![](media/filter-pane-icon.png) on the right of the menu bar to reveal the **filter** pane.
 
    ![](media/garagehive-system-audit13.png)
 
@@ -101,7 +101,7 @@ To ensure your User Tasks list is cleansed:
 
    ![](media/garagehive-system-audit18.png)
 
-2. Select the filter icon on the right of the menu bar to reveal the **filter** panel.
+2. Select the filter pane icon ![](media/filter-pane-icon.png) on the right of the menu bar to reveal the **filter** pane.
 
    ![](media/garagehive-system-audit19.png)
 
@@ -171,11 +171,11 @@ To ensure your Items are correctly categorised:
 
    ![](media/garagehive-system-audit6.png)
 
-2. Select the filter icon on the right of the menu bar to reveal the **filter** panel.
+2. Select the filter pane icon ![](media/filter-pane-icon.png) on the right of the menu bar to reveal the **filter** pane.
 
    ![](media/garagehive-system-audit7.png)
 
-3. Add a **Reordering Policy** filter to the filter panel by clicking the **+Filter** button and searching for Reordering Policy. In the **Reordering Policy** filter, select all the options apart from the one that is blank. The reason for selecting all except blank is that Garage Hive only supports **Maximum Quantity**, and by selecting all, you will be able to see any miscategorised item cards and you can amend them to Maximum Quantity.
+3. Add a **Reordering Policy** filter to the filter pane by clicking the **+Filter** button and searching for Reordering Policy. In the **Reordering Policy** filter, select all the options apart from the one that is blank. The reason for selecting all except blank is that Garage Hive only supports **Maximum Quantity**, and by selecting all, you will be able to see any miscategorised item cards and you can amend them to Maximum Quantity.
 
    ![](media/garagehive-system-audit8.png)
 
