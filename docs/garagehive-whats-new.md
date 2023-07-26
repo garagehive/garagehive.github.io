@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 26th July 2023
+* The report **Reminded Not Booked**, which allows you to view the **Booking Reminders** that have been sent but not booked, is now available for all **Service Types**. It previously only worked with the **MOT** service type.
+
+   ![](media/reminded-not-booked-report.png)
+
+* Added the **Vehicle Card**, **Engine Details**, and **Tyres, Wheels, & Brakes** Details buttons to the Checklist Card from within a Jobsheet on a technician tablet for easy clocking.
+
+   ![](media/technician-tablet-details-added.png)
+
 ### 14th June 2023
 * Added the **Tyre Catalogue** button on the homepage, allowing you to view the tyres available in the local inventory and from suppliers' catalogues, [read more](garagehive-item-lookup-and-advanced-tyre-lookup.html#tyre-catalogue-lookup){:target="_blank"}.
 
