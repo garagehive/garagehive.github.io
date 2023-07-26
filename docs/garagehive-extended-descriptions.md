@@ -56,7 +56,7 @@ Here's how Extended Descriptions appear in Garage Hive and how to use them:
    - **Online Booking** - Online Booking Extended Description
       When the customer clicks on **More Info.**, the OB Extended description is displayed.
 
-         ![](media/garagehive-extended-descriptions9.png)
-         
+      ![](media/garagehive-extended-descriptions9.png)
+
 
 [Go back to top](#top)
