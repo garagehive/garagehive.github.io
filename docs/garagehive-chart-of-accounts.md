@@ -63,14 +63,7 @@ The income statement and balance sheet are two important company financial repor
 
       ![](media/garagehive-chart-of-accounts-general-ledger4.png)
 
-
-5. On the **Consolidation** FastTab, you can enter the debit and credit account of the consolidation company to map with.
-6. On the **Reporting** FastTab, you can specify if you want to process exchange rate adjustments between the local currency and the additional reporting currency for this account.
-7. The **Cost Accounting** FastTab shows the cost type the G/L account is mapped to.
-8. For this example, you don't need to enter the **Consolidation**, **Reporting**, and **Cost Accounting** FastTabs.
-
-   ![](media/garagehive-chart-of-accounts-general-ledger5.png)
-
+5. Once this is completed, the G/L account is ready for use and entries can be posted into it.
 
 [Go back to top](#top)
 
