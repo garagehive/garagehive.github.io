@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Setting Up the Chart of Accounts in Garage Hive
+title: Setting Up the Chart of Accounts in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Setting Up the Chart of Accounts in Garage Hive
 The income statement and balance sheet are two important company financial reports. In Garage Hive, an account in the income statement and the balance sheet is called a **General Ledger (G/L) account**, and all the G/L accounts make up the **Chart of Accounts** list.
