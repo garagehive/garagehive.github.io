@@ -7,13 +7,21 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 26th July 2023
-* The report **Reminded Not Booked**, which allows you to view the **Booking Reminders** that have been sent but not booked, is now available for all **Service Types**. It previously only worked with the **MOT** service type.
+* The report **Reminded Not Booked**, which allows you to view the **Booking Reminders** that have been sent but not booked, is now available for all **Service Types**. It previously only worked with the **MOT** service type, [read more](garagehive-reminders-sent-not-booked-report.html).
 
    ![](media/reminded-not-booked-report.png)
 
 * Added the **Vehicle Card**, **Engine Details**, and **Tyres, Wheels, & Brakes** Details buttons to the Checklist Card from within a Jobsheet on a technician tablet for easy clocking.
 
    ![](media/technician-tablet-details-added.png)
+
+* Created the ability to attach a sales pitch to a service package via the **Sales Extended Description**, the ability to display a separate extended description via the **Extended Description (Work Description),** and the ability to explain why the quoted work needs to be done and what is included in **Estimates** and **VIE's** via the **Online Booking (OB) Extended Description**, [read more](garagehive-extended-descriptions.html).
+
+   ![](media/sales-extended-descriptions.png)
+
+* Added the **External System No.** to **Customer Templates**, allowing the use of a common customer number in an external accounting system. If a customer template has an external system number, it does not use the number series from the accounting system.
+
+   ![](media/customer-template-external-system-number.png)
 
 ### 14th June 2023
 * Added the **Tyre Catalogue** button on the homepage, allowing you to view the tyres available in the local inventory and from suppliers' catalogues, [read more](garagehive-item-lookup-and-advanced-tyre-lookup.html#tyre-catalogue-lookup){:target="_blank"}.
@@ -30,7 +38,7 @@ The following is a list of all new Garage Hive features and updates:
    ![](media/lkq-ecp-integration.png)
 
 ### 31st May 2023
-* Released Version 59 (V59) of PowerBI with the following changes and refinements:
+* Released **Version 59 (V59) of PowerBI** with the following changes and refinements:
    - Added the ability to view Garage Industry Trends data within the Power BI App (Only for opted in garages).
    - Labour Audit Report: Added the ability to see count of particular labour types, across document numbers and resources, for auditing purposes.
    - Vehicle Type Analysis.
