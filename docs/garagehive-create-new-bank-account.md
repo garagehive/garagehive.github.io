@@ -5,9 +5,6 @@ title: How to create a Bank Account in Garage Hive
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 # How to create a Bank Account in Garage Hive
 Creating a bank account in a Garage Hive is important because it allows you to keep track of all your financial transactions and ensures that your records are accurate and up to date in the system. This process should be done in consultation with your accountant for further guidance. Here's how to do it:
 
