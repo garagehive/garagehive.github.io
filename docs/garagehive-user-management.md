@@ -16,6 +16,7 @@ In Garage Hive system, you can manage licenced users in the system from the **Us
 5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
 6. [Enabling Data Permissions for a User](#enabling-data-permissions-for-a-user)
 7. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory-aad)
+8. [How to Filter Out Service Advisor Tiles For a User](#how-to-filter-out-service-advisor-tiles-for-a-user)
 
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
@@ -169,6 +170,19 @@ To add an authentication email, first create a user in the Azure Active Director
 
    ![](media/garagehive-azure-active-directory-authentication2.png)
 
+### How to Filter Out Service Advisor Tiles For a User
+If you want a specific user to only see the tiles they have created in the Role Centre, you can enable that in the system for the user; this means that if they only created 4 Jobsheets and there are a total of 12 Jobsheets created, they will only see the 4 Jobsheets they have created in their Role Centre tiles. To enable this for a user:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **User Management**, and select the related link.
+
+   ![](media/garagehive-filter-service-advisor-tiles1.png)
+
+2. Select the user for that you want to enable Service Advisor tile filtering and scroll down to **Other** FastTab. To filter **Service Advisor Tiles (Jobsheets and Estimates),** use the **Filter Service Advisor Tiles** slider; to filter only the **Vehicle Inspection (VI) Tiles**, use the **Filter Service Advisor VI Tiles** slider.
+
+   ![](media/garagehive-filter-service-advisor-tiles2.png)
+
+3. This setting is also available on the **User Setup** page. Search for **User Setup** in the ![](media/search_icon.png) icon, then scroll to the **Filter Service Advisor Tiles** and **Filter Service Advisor VI Tiles** columns.
+
+   ![](media/garagehive-filter-service-advisor-tiles3.png)
 
 [Go back to top](#top)
 
