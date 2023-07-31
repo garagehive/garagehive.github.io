@@ -140,7 +140,9 @@
     - name: Adding New Options in the Schedule Allocation Menu
       url: /docs/garagehive-adding-options-in-schedule-allocation-menu.html
     - name: How to Setup the Service Schedule
-      url: /docs/garagehive-setup-the-service-schedule.html 
+      url: /docs/garagehive-setup-the-service-schedule.html
+    - name: Extended Descriptions in Garage Hive
+      url: /docs/garagehive-extended-descriptions.html
     - name: Taking a Payment and Posting a Jobsheet
       url: /docs/garagehive-jobsheet-taking-payment.html
     - name: Take Payment for Posted Documents
@@ -492,6 +494,8 @@
       url: /docs/garagehive-create-new-bank-account.html
     - name: Accountancy Routines
       url: /docs/garagehive-accountancy-routines.html
+    - name: Setting Up Chart of Accounts
+      url: /docs/garagehive-chart-of-accounts.html
     - name: Accountancy Systems Integrations
       url: /docs/garagehive-external-accountancy-integration.html
       subitems:
