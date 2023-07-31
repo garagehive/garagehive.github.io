@@ -179,10 +179,7 @@ If you want a specific user to only see the tiles they have created in the Role 
 2. Select the user for that you want to enable Service Advisor tile filtering and scroll down to **Other** FastTab. To filter **Service Advisor Tiles (Jobsheets and Estimates),** use the **Filter Service Advisor Tiles** slider; to filter only the **Vehicle Inspection (VI) Tiles**, use the **Filter Service Advisor VI Tiles** slider.
 
    ![](media/garagehive-filter-service-advisor-tiles2.png)
-
-3. This setting is also available on the **User Setup** page. Search for **User Setup** in the ![](media/search_icon.png) icon, then scroll to the **Filter Service Advisor Tiles** and **Filter Service Advisor VI Tiles** columns.
-
-   ![](media/garagehive-filter-service-advisor-tiles3.png)
+   
 
 [Go back to top](#top)
 
