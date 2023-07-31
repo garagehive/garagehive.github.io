@@ -1,14 +1,11 @@
 ---
 layout: docs
-title: DRAFT* - Garage Hive Extended Descriptions
+title: Extended Descriptions in Garage Hive
 ---
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
-# Garage Hive Extended Descriptions
+# Extended Descriptions in Garage Hive
 In Garage Hive, an extended description is a feature used to provide a more in-depth understanding of a specific item, work or subject. They help users in adding more information about what they are working on. There are three types of **Extended Descriptions** in Garage Hive:
 
 1. **Extended Descriptions** - This section highlights completed tasks and provides additional information for a card in Garage Hive, such as an item or a Service Package.
@@ -16,7 +13,7 @@ In Garage Hive, an extended description is a feature used to provide a more in-d
 3. **Sales Extended Description** - Normally printed in VIEs and Estimates, **Sales Extended Descriptions** explain your findings as well as why certain actions are required for the quoted work.
 
 
-Here's how Extended Descriptions appear in Garage Hive and how to use them:
+Here's how Extended Descriptions appear in Garage Hive and how to add them:
 
 1. All types of **Extended Descriptions** can be added to a **Service Package** card. To add them in a Service Package, go to the Role Centre and choose **Catalogues**, then **Service Packages**.
 
