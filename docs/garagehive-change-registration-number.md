@@ -1,9 +1,12 @@
 ---
 layout: docs
-title: How to Change a Customer's Vehicle Registration Number in Garage Hive
+title: Draft - *How to Change a Customer's Vehicle Registration Number in Garage Hive
 ---
 
 <a name="top"></a>
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
 
 # How to Change a Customer's Vehicle Registration Number in Garage Hive
 If a customer changes the original plate of the vehicle and there is history attached to it in Garage Hive, you may want to transfer this history to the new registration number plate, and on the other hand, you may have a customer who has a new vehicle with the original plate. In this article, we will look through both scenarios so that you can keep your records accurate.
@@ -35,3 +38,6 @@ When the private plate changes to a new vehicle:
    ![](media/change-registration-number4.png)
 
 3. A new vehicle card will be created with the original registration plate.
+
+
+[Go back to top](#top)
