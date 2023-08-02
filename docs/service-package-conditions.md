@@ -4,28 +4,28 @@ title: Service Package Conditions
 ---
 
 # How to set up service package conditions in Garage Hive
+With service package conditions, you have the ability to filter service package versions based on a specific set of criteria. These filters can be applied to both system documents and online documents, provided that you have the online booking module.
 
-Service package conditions allow you to filter Service Package versions by a set of criteria; they are filtered in documents and online documents if you have the online booking module.
+1. [First Set of Filtering Criteria](#first-set-of-filtering-criteria)
+   * Make
+   * Model
+   * Vehicle Type
+   * Fuel Type
+   * Customer Category
+   * Transmission
+   * Engine Model Code
+   * Primary Make
+   * Primary Model
+2. [Second Set of Filtering Criteria](#second-set-of-filtering-criteria)
+   * Vehicle's Age
+   * Location
+   * Production Year
+   * Engine Capacity
+   * Vehicle's Weight
+   * Vehicle's Length
 
-<hr>
-
-Currently, you can set the following conditions for service package versions:
-
-* Make
-* Model
-* Vehicle Type
-* Fuel Type
-* Customer Category
-* Transmission
-* Engine Model Code 
-* Primary Make
-* Primary Model
-* Vehicle's Age
-* Location
-* Production Year
-* Engine Capacity
-
-To set the conditions for a service package
+### First Set of Filtering Criteria
+To set the conditions for a service package using the first set of criteria:
 1. Select **Catalogues** from the navigation menu in the Role Centre and then **Service Packages**.
 
    ![](media/garagehive-service-package-conditions1.png)
@@ -46,14 +46,19 @@ To set the conditions for a service package
 
    ![](media/garagehive-service-package-conditions6.png)
 
-6. In addition, you can set the condition of the vehicle's age based on the first registration date for when the vehicle was produced, rather than the production year, which can become less relevant over time. To set this condition, open the **Service Package Card** and scroll down to the version lines. Add the lower limit of the vehicle age in the **Age From** field, and the upper limit of the vehicle age in the **Age To** field for which you want the condition to apply.
+### Second Set of Filtering Criteria
+1. To set the **Vehicle's Age** condition, open the **Service Package Card** and scroll down to the version lines. Add the lower limit of the vehicle age in the **Age From** field, and the upper limit of the vehicle age in the **Age To** field for which you want the condition to apply.
 
    ![](media/garagehive-service-package-conditions7.png)
 
-7. The **Location** condition, **Production Year** range, and **Engine Capacity** range can also be set as conditions within the version lines.
+2. The vehicle's age is important because it is based on the first registration date for when the vehicle was produced, rather than the production year, which can become less relevant over time. 
+3. The **Location** condition can be set by entering the **Location Code** in the version lines.
 
-![](media/garagehive-service-package-conditions5.gif) 
+   ![](media/garagehive-service-package-conditions5.png)
 
+4. The **Production Year**, **Engine Capacity**, **Vehicle Weight**, and **Vehicle Length** conditions can be set by entering the conditions' **Lower Limit** and/or **Upper Limit** in the fields available in the **Service Package Versions** lines.
+
+   ![](media/garagehive-service-package-conditions8.png)
 
 <br>
 
