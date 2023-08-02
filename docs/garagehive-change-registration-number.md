@@ -17,15 +17,15 @@ In Summary:
 
 ## Vehicle Changes to a New Private Plate
 When a vehicle changes to a new registration number:
-1. Open the vehicle card of the original registration plate. Change the **Registration No.** field to the **New Registration Number**.
+1. Open the vehicle card of the original registration plate. Select **Lookup** from the menu bar, and then choose**Update Vehicle Data by VIN**.
 
    ![](media/change-registration-number1.png)
 
-2. Select **Lookup** from the menu bar, and then choose**Update Vehicle Data by VRM**.
+2. If prompted to confirm the region of the vehicle registration, select from the list and click **OK**.
 
    ![](media/change-registration-number2.png)
 
-3. The vehicle history is now transferred to the new vehicle registration number.
+3. The new vehicle registration has been updated, and the vehicle history has been transferred to the new vehicle registration number.
 
 ## Private Plate Changes to a New Vehicle
 When the private plate changes to a new vehicle:
