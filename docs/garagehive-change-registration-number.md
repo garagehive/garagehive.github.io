@@ -9,13 +9,19 @@ title: Draft - *How to Change a Customer's Vehicle Registration Number in Garage
 We are currently reviewing this article before it is published, check back later.
 
 # How to Change a Customer's Vehicle Registration Number in Garage Hive
-If a customer changes the original plate of the vehicle and there is history attached to it in Garage Hive, you may want to transfer this history to the new registration number plate, and on the other hand, you may have a customer who has a new vehicle with the original plate. In this article, we will look through both scenarios so that you can keep your records accurate.
+There are a couple of scenarios in which you may need to change a vehicle's registration number. Here are a few examples:
 
-In Summary:
+1. When a customer changes the vehicle's original registration number and there is history attached to it in Garage Hive (Adding/Removing a private plate); when the history needs to remain with this vehicle. 
+2. A customer who has a new vehicle but would like to transfer the registration number from another vehicle (Transferring a private plate). 
+
+In this article, we will look through both scenarios so that you can keep your records accurate.
+
+
+Flowchart summary:
 
    ![](media/change-registration-number.png)
 
-## Vehicle Changes to a New Private Plate
+## Vehicle changes to a different Registration Number
 When a vehicle changes to a new registration number:
 1. Open the vehicle card of the original registration plate. Select **Lookup** from the menu bar, and then choose**Update Vehicle Data by VIN**.
 
@@ -27,8 +33,8 @@ When a vehicle changes to a new registration number:
 
 3. The new vehicle registration has been updated, and the vehicle history has been transferred to the new vehicle registration number.
 
-## Private Plate Changes to a New Vehicle
-When the private plate changes to a new vehicle:
+## Transfer a Registration Number from one vehicle to a New Vehicle
+To transfer a registration number from one vehicle to a new vehicle:
 1. Open the vehicle card of the original registration plate. Delete the **Registration No.** and close the vehicle card.
 
    ![](media/change-registration-number3.png)
