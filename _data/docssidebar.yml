@@ -281,6 +281,8 @@
       url: /docs/garagehive-adding-optional-tiles.html
     - name: How to Audit and Cleanse the Use of Garage Hive System
       url: /docs/garagehive-system-audit-and-cleanse-use-of-garagehive.html
+    - name: How to Change a Customer's Vehicle Registration Number in Garage Hive
+      url: /docs/garagehive-change-registration-number.html
 - name: Technicians Operations
   url: "#"
   subitems:
