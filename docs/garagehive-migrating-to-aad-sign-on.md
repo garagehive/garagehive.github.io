@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Migrating to AAD Sign-on for Garage Hive
+title: Migrating to AAD Sign-on for Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Migrating to AAD Sign-on for Garage Hive
 When your Garage Hive system is migrated to AAD sign on, how you sign in will change. Previously, the sign-in screen looked something like the one below:
