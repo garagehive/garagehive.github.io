@@ -23,7 +23,7 @@ Your old username, for example, 'Daves,' will no longer work and will be replace
 
    ![](media/garagehive-aad-sign-on-migrate3.png)
 
-2. You will receive a **Username** and a **Temporary Password** in the email. To login, go to [office.com](https://www.office.com/?auth=2){:target="_blank"} and enter the username and temporary password you received.
+2. You will receive a **Username** and a **Temporary Password** in the email. To login, open an **inprivate/incognito** window in your browser or use a **guest** profile in your browser and go to [office.com](https://www.office.com/?auth=2){:target="_blank"}. Enter the username and temporary password you received.
 
    ![](media/garagehive-aad-sign-on-migrate4.png)
 
