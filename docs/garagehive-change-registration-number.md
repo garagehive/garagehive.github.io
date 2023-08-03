@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: Draft - *How to Change a Customer's Vehicle Registration Number in Garage Hive
+title: How to Change a Customer's Vehicle Registration Number in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Change a Customer's Vehicle Registration Number in Garage Hive
 There are a couple of scenarios in which you may need to change a vehicle's registration number. Here are a few examples:
