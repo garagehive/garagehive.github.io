@@ -9,10 +9,12 @@ title: Common Errors and Solution When using the Garage Hive System
 In order to effectively use the Garage Hive system, it is important to familiarise yourself with the various procedures and steps required to complete specific tasks. Despite this, it is not uncommon for users to encounter alerts or warnings during the initial stages of using the software. These alerts may indicate that a task has not been properly executed or that there is an issue with the system that needs to be addressed. In this article, we will provide an overview of some of the most common errors and issues that users may encounter while using Garage Hive, as well as provide solutions for addressing and resolving these problems.
 
 ## In this article
-1. [Errors When Posting a Jobsheet](#errors-when-posting-a-jobsheet)
-2. [Errors When Posting a Purchase Order](#errors-when-posting-a-purchase-order)
+1. [Jobsheet Common Errors](#jobsheet-common-errors)
+2. [Purchase Order Common Errors](#purchase-order-common-errors)
+3. [Checklist Common Errors](#checklist-common-errors)
+4. [Schedule Common Errors](#schedule-common-errors)
 
-### Errors when posting a Jobsheet
+### Jobsheet Common Errors
 1. **Error** - 'Document must be fully paid before posting!'
    
       ![](media/garagehive-common-errors5.png)
@@ -35,7 +37,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
 [Go back to top](#top)
 
-###  Errors when posting a Purchase Order
+### Purchase Order Common Errors
 1. **Error** - 'You need to enter the document number of the document from the vendor in the Vendor Invoice No. field, so that this document stays linked to the original.'
 
       ![](media/garagehive-common-errors3.png)
