@@ -14,6 +14,8 @@ With the ability to add images to the system, it is now easier to manage all of 
 3. [Adding Media to Checklist Lines](#adding-media-to-checklist-lines)
 4. [Managing All Added Media](#managing-all-added-media)
 
+   {% include tip.html title="Note" text="When you upload media to Garage Hive, it is downscaled to a lower resolution, which is 1200x1600px or 1600x1200 if the ratio is 3x4." %}
+
 ### Adding media to group lines
 To add media in group lines, follow these steps:
 1. In the **Group Items** section, under the **Media Count** column, select the cell in the line to add the media.
