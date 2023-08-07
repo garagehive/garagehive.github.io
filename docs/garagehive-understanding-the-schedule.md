@@ -3,22 +3,25 @@ layout: docs
 title: Understanding the Schedule  
 ---
 
+<a name="top"></a>
+
 # Understanding the Schedule
 The service schedule is a tool predominantly used to manage your workshop. Garage Hive works by allocating time rather than jobsheets within the schedule; this allows you to load time accurately.
 
 ## In this article
 1. [Understanding the schedule layout](#understanding-the-schedule-layout)
 2. [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule)
-3. [Adding resources in the schedule](#adding-resources-in-the-schedule)
-4. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
-5. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
-6. [Adding resources calender changes](#adding-resources-calender-changes)
-7. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
-8. [Adding a standard event](#adding-a-standard-event)
-9. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
-10. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-11. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
-12. [Adding an allocation type](#adding-an-allocation-type)
+3. [Changing the Schedule View](#changing-the-schedule-view)
+4. [Adding resources in the schedule](#adding-resources-in-the-schedule)
+5. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
+6. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
+7. [Adding resources calender changes](#adding-resources-calender-changes)
+8. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
+9. [Adding a standard event](#adding-a-standard-event)
+10. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
+11. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
+12. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
+13. [Adding an allocation type](#adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -61,7 +64,28 @@ The schedule colours are used to help understand the different work statuses for
 |                                                                         |      |                            |      |
 | ![](media/garagehive-understanding-the-schedule8.png) (**Brown**)       |      | **AWAITING PARTS**         |      | Parts have been ordered and you are waiting for them to arrive before reallocating. (You have to manually change the work status code to awaiting parts)                                                                                        |
 
-<br>
+
+[Go back to top](#top)
+
+### Changing the Schedule View
+The schedule can be customised to your liking; for example, you can reduce the number of hours shown in the schedule, and so on. Here's how to change the schedule's view:
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Schedule Views** and select the related link.
+
+   ![](media/garagehive-schedule-views1.png)
+
+2. Select **Edit List** enable the edit mode.
+
+   ![](media/garagehive-schedule-views2.png)
+
+3. The following options are available for edit:
+   - **Period Type** - This is the length of time shown in the schedule view, could be a day, week or month.
+   - **Start Date Formula** - This is the formula for calculating the day that will be used in the schedule view when it is opened; for example, 0D indicates that the schedule view will begin today, -1D indicates that the schedule view will begin yesterday, and so on.
+   - **Start Time** and **End Time** - This is the starting and ending time for the period in the schedule.
+
+      ![](media/garagehive-schedule-views3.png)
+
+
+[Go back to top](#top)
 
 ### Adding resources in the schedule
 In Garage Hive, resources refer to all of the assets that the company has that aid and support the business in completing its work, including the technicians. Technicians are added via [User Management](/docs/garagehive-user-management.html), but their appearance in the schedule can be controlled. Here's how to add or manage resources in the schedule in general:
@@ -78,6 +102,8 @@ In Garage Hive, resources refer to all of the assets that the company has that a
 
     ![](media/garagehive-understanding-the-schedule-adding-resources3.gif)
 
+
+[Go back to top](#top)
 
 ### Rearranging resources in the schedule
 Rearranging the resources, how they appear from top to bottom, helps organize which resources to be at the top and how they should follow each other. 
@@ -97,6 +123,9 @@ To rearrange:
 
 {% include tip.html title="Tip" text="Remove any spaces before the resource name to ensure consistency." %}
 
+
+[Go back to top](#top)
+
 ### Managing service hours in the schedule
 The service hours are the hours in the schedule when the resources are available for work. For example, you could add the technicians’ working hours as 08:00 a.m. to 17:00 p.m. every day. To change a resource's service hours:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Hours** and select related result.
@@ -109,6 +138,8 @@ The service hours are the hours in the schedule when the resources are available
 
   ![](media/garagehive-understanding-the-schedule-service-hours2.gif)
 
+
+[Go back to top](#top)
 
 ### Adding resources calender changes
 Sometimes there might be a single change of the scheduled work time for the resources, and you have to change it in the schedule:
@@ -128,6 +159,9 @@ Sometimes there might be a single change of the scheduled work time for the reso
 
 ![](media/garagehive-understanding-the-schedule-calender-change3.png)
 
+
+[Go back to top](#top)
+
 ### View the statistics of the schedule
 The schedule statistical information summarizes the resources capacity, remaining hours after allocations, a list of all the allocations for the day, and the total jobsheets for all the allocations made for the day. To view the statistics for a day:
 1. From the view FastTab, select **Period Type** as **Day**.
@@ -135,6 +169,9 @@ The schedule statistical information summarizes the resources capacity, remainin
 3. Click on the **Statistics** from the menu bar.
 
 ![](media/garagehive-understanding-the-schedule-statistics1.gif)
+
+
+[Go back to top](#top)
 
 ### Adding a standard event
 A standard event is an allocation not related to a jobsheet but adds other considerations about the resources, such as a sick off, etc. To add a standard event:
@@ -145,6 +182,9 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 5. Add a **Comment** about the standard event and click **Ok**; this reduces the available hours and ensures that the resource is accurately booked.
 
     ![](media/garagehive-understanding-the-schedule-standard-event1.gif)
+
+
+[Go back to top](#top)
 
 ### How to exclude some standard events when calculating available hours
 1. The schedule's available hours are shown in the header. They show the currently available hours after subtracting the total scheduled hours.
@@ -161,6 +201,9 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 
 4. The selected standard events will now be excluded from the Service Schedule's calculation of available hours.
 
+
+[Go back to top](#top)
+
 ### Understanding the emojis in an allocation
 The emojis are used in the allocations to visually help the service advisor and technicians understand status and requirements of the job. Here are some of the most commonly used emojis: <br>
 
@@ -176,12 +219,18 @@ The emojis are used in the allocations to visually help the service advisor and 
 * ⚓ This indicates that the vehicle has been assigned a parking location code. <br>
 * 🤷 or 🙋‍♀️ This indicates that the customer is waiting.
 
+
+[Go back to top](#top)
+
 ### Using the search function in the schedule
 When there are many bookings in the schedule, it becomes harder to find an allocation that you are looking for easily. The search function helps you overcome this challenge by enabling you to search for an allocation using the customer name, vehicle registration No., vehicle make or model, or the jobsheet No.:
 1. From the view FastTab, under the **Search** field, enter the allocation details to search.
 2. Press enter; this hides all the other allocations, leaving the allocation you need.
 
 ![](media/garagehive-understanding-the-schedule-search1.gif)
+
+
+[Go back to top](#top)
 
 ### Adding an allocation type
 Allocation Type appears after the drag and release action on the schedule, where you select which allocation to add.
@@ -207,6 +256,9 @@ To add an allocation type in the schedule:
    ![](media/garagehive-understanding-the-schedule14.gif)
 
 6. After filling in the required columns, exit the current page, and a new allocation type will be created.
+
+
+[Go back to top](#top)
 
 <br>
 
