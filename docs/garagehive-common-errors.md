@@ -11,8 +11,6 @@ In order to effectively use the Garage Hive system, it is important to familiari
 ## In this article
 1. [Jobsheet Common Errors](#jobsheet-common-errors)
 2. [Purchase Order Common Errors](#purchase-order-common-errors)
-3. [Checklist Common Errors](#checklist-common-errors)
-4. [Schedule Common Errors](#schedule-common-errors)
 
 ### Jobsheet Common Errors
 1. **Error** - 'Document must be fully paid before posting!'
