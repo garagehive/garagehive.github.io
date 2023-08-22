@@ -40,3 +40,6 @@ If you need to import data from another system and continue working on it from G
    ![](media/garagehive-jobsheet-import7.png)
 
 {% include tip.html title="Note" text="Before importing the file, all customers in the import file should be added to the system." %}
+
+
+[Go back to top](#top)
