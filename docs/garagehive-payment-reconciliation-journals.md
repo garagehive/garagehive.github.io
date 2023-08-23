@@ -8,18 +8,18 @@ You must regularly reconcile your bank, receivables and payables accounts by app
 
 The following are the supported bank statement formats:
 
-| Bank Statements  | Bank Statements (Cont'd) |
-| :--------------- | :----------------------- |
-| AIB Business     | HSBC                     |
-| AIB Personal     | ICON                     |
-| American Express | Lloyds                   |
-| Bank of Ireland  | NatWest Bankline         |
-| Barclaycard      | NatWest Online Banking   |
-| Barclays         | PLEO                     |
-| HBOS             | Santander                |
-| starling         | DEXT                     |
-| Generic          | Metro                    |
-| Monzo            |                          |
+| Bank Statements    | Bank Statements (Cont'd) |
+| :----------------- | :----------------------- |
+| - AIB Business     | - HSBC                   |
+| - AIB Personal     | - ICON                   |
+| - American Express | - Lloyds                 |
+| - Bank of Ireland  | - NatWest Bankline       |
+| - Barclaycard      | - NatWest Online Banking |
+| - Barclays         | - PLEO                   |
+| - HBOS             | - Santander              |
+| - starling         | - DEXT                   |
+| - Generic          | - Metro                  |
+| - Monzo            |                          |
 
 
 You can also reconcile bank accounts without simultaneously applying payments on the **Bank Acc. Reconciliation** page. <br>
