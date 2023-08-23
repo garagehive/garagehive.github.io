@@ -5,6 +5,23 @@ title: Working with Payment Reconciliation Journals
 
 # Working with Payment Reconciliation Journals 
 You must regularly reconcile your bank, receivables and payables accounts by applying payments recorded in the bank to their related open (unpaid) invoices and credit memos or other open entries in Garage Hive. You can do this on the **Payment Reconciliation Journal** page, for example, by importing a bank statement file to register the payments quickly. <br>
+
+The following are the supported bank statement formats:
+
+| Bank Statements  | Bank Statements (Cont'd) |
+| :--------------- | :----------------------- |
+| AIB Business     | HSBC                     |
+| AIB Personal     | ICON                     |
+| American Express | Lloyds                   |
+| Bank of Ireland  | NatWest Bankline         |
+| Barclaycard      | NatWest Online Banking   |
+| Barclays         | PLEO                     |
+| HBOS             | Santander                |
+| starling         | DEXT                     |
+| Generic          | Metro                    |
+| Monzo            |                          |
+
+
 You can also reconcile bank accounts without simultaneously applying payments on the **Bank Acc. Reconciliation** page. <br>
 The following is a list of tasks involved in working with payment reconciliation journals, alongside links to topics that describe them:
 <br>
