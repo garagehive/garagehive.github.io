@@ -66,11 +66,9 @@ Garage Link for **Pay360** is an online payment service that has been integrated
 
    ![](media/garagehive-creating-pay360-account13.png)
 
-12. On the **Bank Account** page, enter the details of your **Bank Account**, select **Bank Account Signatories**, and then click **I am authorised to set up a Direct Debit** and fill out the required fields.
+12. On the **Bank Account** page, enter the details of your **Bank Account**, and select **Bank Account Signatories**.
 
    ![](media/garagehive-creating-pay360-account14.png)
-
-   ![](media/garagehive-creating-pay360-account15.png)
 
 13. Click **Next** to confirm the bank details you've entered. If everything is correct, click **Next**. If not, select **Edit Bank Details**.
 
