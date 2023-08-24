@@ -3,12 +3,15 @@ layout: docs
 title: Setting Up Payment by Garage Link for Pay360 in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Setting Up Payment by Garage Link for Pay360 in Garage Hive
 Garage Link for **Pay360** is an online payment service that has been integrated with Garage Hive to assist Garages that use this service in connecting their accounts to Garage Hive for a more efficient and faster payment process.
 
 ## In this article
 1. [Creating an Account with Pay360](#creating-an-account-with-pay360)
-2. [Adding Pay360 to Garage Hive](#adding-pay360-to-garage-hive)
+2. [ID Verification with Pay360 Partner](#id-verification-with-pay360-partner)
+3. [Adding Pay360 to Garage Hive](#adding-pay360-to-garage-hive)
 
 ### Creating an Account with Pay360
 1. To register with Pay360, please fill out the form below:
@@ -81,6 +84,36 @@ Garage Link for **Pay360** is an online payment service that has been integrated
 
    ![](media/garagehive-creating-pay360-account18.png)
 
+
+[Go back to top](#top)
+
+### ID Verification with Pay360 Partner
+After submitting your application, you will receive a new message informing you that **Pay360** will send an **ID Verification** email through their partner **NorthRow**. The email will be as follows:
+
+   ![](media/garagehive-id-verification1.png)
+
+After receiving the email, follow these steps to complete the **Live ID Verification** check:
+1. On the email, click the **Get Started** link. This opens the **NorthRow RemoteVerify** application. Scroll through the invitation screens until you reach the last one and click **Get Started**.
+
+   ![](media/garagehive-id-verification2.png)
+
+2. The next step will be **Document Identification** check. This could be your **Passport**, **Driving Licence**, or **ID Card**. Take a picture of your document to upload.
+
+   ![](media/garagehive-id-verification3.png)
+
+3. The next one will be **Liveness Check**. This is the step where you confirm that you are there. To begin, select **Proceed**.
+
+   ![](media/garagehive-id-verification4.png)
+
+4. When you're finished, click **Next Step**. In the following step, you will enter your personal details, including your residential address.
+
+   ![](media/garagehive-id-verification5.png)
+
+5. The RemoteVerify process will now be complete.
+
+
+[Go back to top](#top)
+
 ### Adding Pay360 to Garage Hive
 After creating an account with **Pay360**, you should now add **Pay360** as a **Payment Gateway** in Garage Hive:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Payment Gateways**, and select the related link.
@@ -109,3 +142,6 @@ After creating an account with **Pay360**, you should now add **Pay360** as a **
    ![](media/garagehive-creating-pay360-account24.png)
 
 8. Creating payments in the **Location Payment Methods** page can be complex; please contact **GH Support** if you need assistance.
+
+
+[Go back to top](#top)
