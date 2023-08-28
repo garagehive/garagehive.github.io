@@ -7,6 +7,12 @@ title: Using Vehicle Sales Order
 Vehicle Sales is a feature in Garage Hive that is used to sell vehicles, both new and used. It was created with vehicle dealers' needs in mind.
 When using Vehicle Sales, it is recommended that any data related to vehicle sales be entered by the **Vehicle Sales Admin** user. In this article we'll use the **Vehicle Sales Admin** user.
 
+## In this article
+1. [Creating a Vehicle Sales Order](#creating-a-vehicle-sales-order)
+2. [Adding Comments and Selling Price to the Vehicle Sales Order](#adding-comments-and-selling-price-to-the-vehicle-sales-order)
+3. [Adding Part Exchange for the Vehicle](#adding-part-exchange-for-the-vehicle)
+4. [Add Repairs and Services for the Vehicle](#add-repairs-and-services-for-the-vehicle)
+5. [Creating a Vehicle Sales Invoice](#creating-a-vehicle-sales-invoice)
 
 ### Creating a Vehicle Sales Order
 1. From the Role Centre, select the **Sales Orders** tiles, and click on **New** from the actions bar in the page that opens.
@@ -26,43 +32,47 @@ When using Vehicle Sales, it is recommended that any data related to vehicle sal
 
    ![](media/garagehive-vehicle-sales-order4.png)
 
-6. The **Comments** FastTab allows you to enter any comments about the vehicle being sold.
+### Adding Comments and Selling Price to the Vehicle Sales Order
+1. The **Comments** FastTab allows you to enter any comments about the vehicle being sold.
 
    ![](media/garagehive-vehicle-sales-order5.png)
 
-7. Enter the selling price of the vehicle in the **Retail Price Incl.VAT** field under the **Financials** FastTab; if there is a discount, enter the percentage in the **Discount%** field.
+2. Enter the selling price of the vehicle in the **Retail Price Incl.VAT** field under the **Financials** FastTab; if there is a discount, enter the percentage in the **Discount%** field.
 
    ![](media/garagehive-vehicle-sales-order6.png)
 
-8. Mark the **Involves Part Exchange** slider to the right if the vehicle involves **Part Exchange**, which means the customer is giving an old vehicle as part of the payment for the new vehicle. The **Part Exchange** FastTab is now activated.
-
-   ![](media/garagehive-vehicle-sales-order7.png)
-
-9. Enter the Part Exchange vehicle registration number in the **PX Vehicle Reg. No.** field and all the details related to it in the **Part Exchange** FastTab.
-
-   ![](media/garagehive-vehicle-sales-order8.png)
-
-10. In the **PX Amount Inc. VAT** field under the **Financials** FastTab, enter the amount agreed upon for the Part Exchange vehicle.
-
-   ![](media/garagehive-vehicle-sales-order9.png)
-
-11. When the vehicle is repaired or serviced before being sold, the items that have been replaced are entered into the **Addon** FastTab.
-
-   ![](media/garagehive-vehicle-sales-order10.png)
-
-12. You enter the details of the customer or company paying for the vehicle in the **Invoicing** FastTab, so if it is the **Finance Company**, you must enter the details of the finance company.
+3. You enter the details of the customer or company paying for the vehicle in the **Invoicing** FastTab, so if it is the **Finance Company**, you must enter the details of the finance company.
 
    ![](media/garagehive-vehicle-sales-order11.png)
 
-13. If you've added a **Part Exchange** vehicle, go to the menu bar and select **Actions**, then **Create PX Purchase Invoice**. This generates a Purchase Invoice for the Part Exchange vehicle, which you can access via the Purchase Invoices tile to post when the customer brings in the vehicle for exchange.
+### Adding Part Exchange for the Vehicle
+1. Mark the **Involves Part Exchange** slider under the **Financials**, if the vehicle involves **Part Exchange**, which means the customer is giving an old vehicle as part of the payment for the new vehicle. The **Part Exchange** FastTab is now activated.
+
+   ![](media/garagehive-vehicle-sales-order7.png)
+
+2. Enter the Part Exchange vehicle registration number in the **PX Vehicle Reg. No.** field and all the details related to it in the **Part Exchange** FastTab.
+
+   ![](media/garagehive-vehicle-sales-order8.png)
+
+3. In the **PX Amount Inc. VAT** field under the **Financials** FastTab, enter the amount agreed upon for the Part Exchange vehicle.
+
+   ![](media/garagehive-vehicle-sales-order9.png)
+
+4. When you add **Part Exchange** for the vehicle, go to the menu bar and select **Actions**, then **Create PX Purchase Invoice**. This generates a Purchase Invoice for the Part Exchange vehicle, which you can access via the Purchase Invoices tile to post when the customer brings in the vehicle for exchange.
 
    ![](media/garagehive-vehicle-sales-order12.png)
 
-14. After ensuring that all the financials are correct, select **Actions** from the menu bar, and choose **Create Sale Invoice**.
+### Add Repairs and Services for the Vehicle
+1. When the vehicle is repaired or serviced before being sold, the items that have been replaced are entered into the **Addon** FastTab.
+
+   ![](media/garagehive-vehicle-sales-order10.png)
+
+### Creating a Vehicle Sales Invoice
+1. After ensuring that all the financials are correct, select **Actions** from the menu bar, and choose **Create Sale Invoice**.
 
    ![](media/garagehive-vehicle-sales-order13.png)
 
-15. If you added the **Deposit Amount** in the **Financials**, you'll get a notification to either create a **Deposit Invoice** or **All Invoices (Including Deposit)**. Select the one you want and click **OK**.
+2. If you added the **Deposit Amount** in the **Financials**, you'll get a notification to either create a **Deposit Invoice** or **All Invoices (Including Deposit)**. Select the one you want and click **OK**.
 
    ![](media/garagehive-vehicle-sales-order14.png)
 
