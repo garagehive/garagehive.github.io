@@ -19,7 +19,7 @@ If you need to import data from another system and continue working on it from G
 
    ![](media/garagehive-jobsheet-import2.png)
 
-3. Enter the data in the format specified in the csv file template. When completed, save the file.
+3. Enter the data in the format specified in the csv file template. To avoid document duplication in the system, ensure that the column **External Document No.** is filled in. When you're finished, save the file.
 
    ![](media/garagehive-jobsheet-import3.png)
 
