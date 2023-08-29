@@ -17,7 +17,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
    
       ![](media/garagehive-common-errors5.png)
       
-   **Solution** - 'This indicates that the document has not yet been paid, and you must enter the payment details for the document using the **Take Payment** action, [read more](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it).
+   **Solution** - [Taking a Payment and Posting a Jobsheet](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it){:target="_blank"}.
 
       ![](media/garagehive-common-errors5a.png)
 
