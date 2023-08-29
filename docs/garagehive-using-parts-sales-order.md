@@ -11,7 +11,7 @@ title: Using Parts Sales Order in Garage Hive
 ## In this article
 1. [Creating a Parts Sales Order](#creating-a-parts-sales-order)
 2. [Ship or Invoice the Parts Sales Order](#ship-or-invoice-the-parts-sales-order)
-3. [Partial Shipping in the Parts Sales Order](#partial-hipping-in-the-parts-sales-order)
+3. [Partial Shipping in the Parts Sales Order](#partial-shipping-in-the-parts-sales-order)
 4. [Set up of Shipment Date to Be Equal to Work Date](#set-up-of-shipment-date-to-be-equal-to-work-date)
 5. [Creating a Jobsheet from a Parts Sales Order](#creating-a-jobsheet-from-a-parts-sales-order)
 
