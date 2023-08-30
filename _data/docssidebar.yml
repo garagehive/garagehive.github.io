@@ -135,6 +135,8 @@
       url: /docs/garagehive-jobsheet-create-from-various-places.html
     - name: Understanding the Jobsheet Line Checker Notifications
       url: /docs/garagehive-line-checker.html
+    - name: How to Manually Import Jobsheets from External System
+      url: /docs/garagehive-jobsheet-import.html
     - name: Using the Service Schedule 
       url: /docs/garagehive-understanding-the-schedule.html
     - name: Adding New Options in the Schedule Allocation Menu

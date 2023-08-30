@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Manually Import Jobsheets from External System
+title: How to Manually Import Jobsheets from External System
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Manually Import Jobsheets from External System
 If you need to import data from another system and continue working on it from Garage Hive, you can do so by manually importing the data to Garage Hive. Here's how it's done:
