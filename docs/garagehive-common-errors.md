@@ -25,13 +25,17 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
       ![](media/garagehive-common-errors2.png)
 
-   **Solution** - This indicates that the specified line in the document contains a **Placeholder Item** that must be replaced with an item in stock before posting, [read more](/docs/garagehive-creating-a-placeholder-item.html).
+   **Solution** - [Working with a Placeholder Item](/docs/garagehive-creating-a-placeholder-item.html){:target="_blank"}.
+
+      ![](media/garagehive-common-errors2a.png)
 
 3. **Error** - 'You have insufficient quantity of Item E1171L on inventory.'
 
       ![](media/garagehive-common-errors9.png)
 
-   **Solution** - This indicates that the selected item is not in stock, or that more items than are in stock have been signed out in Jobsheets. If the item is not in stock, you must order it from the supplier and add it into the system using a purchase order. If it is in stock, check to see if it has been signed out in other Jobsheets and remove it if it is no longer needed.'
+   **Solution** - This indicates that the selected item is not in stock, or that more items than are in stock have been signed out in Jobsheets.
+
+      ![](media/garagehive-common-errors9b.png)
 
 [Go back to top](#top)
 
@@ -40,18 +44,24 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
       ![](media/garagehive-common-errors3.png)
 
-   **Solution** - This indicates that the Vendor's Invoice No. is missing from the document. You must update the **Vendor Invoice No.** field to match the invoice number on the invoice supplied by the vendor.
+   **Solution** - This indicates that the Vendor's Invoice No. is missing from the document.
+
+      ![](media/garagehive-common-errors3b.png)
 
 2. **Error** - 'Item number MISC is a placeholder item and cannot be posted. Please amend the document and try again.'
 
       ![](media/garagehive-common-errors4.png)
 
-   **Solution** - This indicates that the placeholder item (e.g. MISC) has not yet been updated to the actual stock item number. You must update the line with the correct stock item number.
+   **Solution** - This indicates that the placeholder item (e.g. MISC) has not yet been updated to the actual stock item number.
+
+      ![](media/garagehive-common-errors4b.png)
 
 3. **Error** - 'Posting Date is not within your range of allowed posting dates in Purchase Header Document Type='Order',No.='PO100120''.
 
       ![](media/garagehive-common-errors8.png)
 
-   **Solution** - This indicates that you are posting a Purchase Order with a past Posting Date. You must update the **Posting Date** field to the current date.
+   **Solution** - This indicates that you are posting a Purchase Order with a past Posting Date.
+
+      ![](media/garagehive-common-errors8b.png)
 
 [Go back to top](#top)
