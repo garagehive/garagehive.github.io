@@ -1,12 +1,15 @@
 ---
 layout: docs
-title: Correct or Cancel a Purchase Invoice
+title: Cancel or Correct a Purchase Invoice
 ---
 
 <a name="top"></a>
 
-# Correct or Cancel a Purchase Invoice
+## In this article
+1. [Cancel a Purchase Invoice](#cancel-a-purchase-invoice)
+2. [Correct a Purchase Invoice](#correct-a-purchase-invoice)
 
+### Cancel a Purchase Invoice
 If you accidentally posted a purchase order for the incorrect amount or to the wrong Vendor, you can cancel it by following the steps below: 
 1. Select **Posted & Archived Documents** in the **Role Centre**, then **Posted Purchase Invoices**.
 
@@ -33,6 +36,26 @@ If you accidentally posted a purchase order for the incorrect amount or to the w
    ![](media/garagehive-correct-or-cancel-a-purchase-order6.png)
 
 7. You'll need to create a new purchase order if it was posted incorrectly.
+
+   {% include tip.html title="Note" text="Before cancelling a Purchase Invoice, ensure that the items in the Purchase Invoice are available in stock. This avoids having the error of insufficient quantity." %}
+
+### Correct a Purchase Invoice
+If you want to correct the Purchase Invoice:
+1. Select the Purchase Invoice to correct, from the list of **Posted Purchase Invoices**. Select **Correct** from the menu bar, followed by **Correct**.
+
+   ![](media/garagehive-correct-or-cancel-a-purchase-order7.png)
+
+2. If the Purchase Invoice was created by posting a purchase order, a credit memo will be created and you can create a new Purchase Invoice.
+
+   ![](media/garagehive-correct-or-cancel-a-purchase-order8.png)
+
+3. If the Purchase Invoice was created by posting a Purchase Invoice, a new version of the Purchase Invoice will be created so that you can make the corrections.
+
+   ![](media/garagehive-correct-or-cancel-a-purchase-order9.png)
+
+4. Enter the corrections in the newly created Purchase Invoice, and post it when done.
+
+   ![](media/garagehive-correct-or-cancel-a-purchase-order10.png)
 
 
 [Go back to top](#top)
