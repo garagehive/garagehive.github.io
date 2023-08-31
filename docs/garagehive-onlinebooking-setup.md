@@ -3,7 +3,7 @@ layout: docs
 title: Setting Up Online Booking
 ---
 
-Online booking in Garage Hive allows customers to book, for example, MOT, servicing, or repairs from the business websites or social media platforms available, and the booking is recorded directly in the system.
+Online booking in Garage Hive allows customers to book, for example, MOT, servicing, or repairs from the business' websites or social media platforms available, and the booking is recorded directly in the Garage Hive system.
 
 ## In this article
 1. [Online Booking Setup](#online-booking-setup)
@@ -61,4 +61,4 @@ The **Standalone Page URL** opens a web page, as shown below.
    ![](media/garagehive-onlinebooking-setup8.png)
 
 
-[Next step](/docs/garagehive-onlinebooking-branches.html)
+[Previous](/docs/garagehive-onlinebooking-intro.html) | [Next Step](/docs/garagehive-onlinebooking-branches.html)
