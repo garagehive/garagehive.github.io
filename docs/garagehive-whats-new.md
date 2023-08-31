@@ -6,8 +6,17 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 31st August 2023
+* Added actions that open up the **Time Grids** and **Service Hours** in the Service Schedule page.
+
+   ![](media/schedule-time-grids-service-hours.png)
+
+* Bank statement imports now include the **Monzo Bank Import** functionality, [read more](/docs/garagehive-payment-reconciliation-journals.html){:target="_blank"}.
+
+   ![](media/monzo-bank-import.png)
+
 ### 26th July 2023
-* The report **Reminded Not Booked**, which allows you to view the **Booking Reminders** that have been sent but not booked, is now available for all **Service Types**. It previously only worked with the **MOT** service type, [read more](garagehive-reminders-sent-not-booked-report.html).
+* The report **Reminded Not Booked**, which allows you to view the **Booking Reminders** that have been sent but not booked, is now available for all **Service Types**. It previously only worked with the **MOT** service type, [read more](garagehive-reminders-sent-not-booked-report.html){:target="_blank"}.
 
    ![](media/reminded-not-booked-report.png)
 
@@ -15,7 +24,7 @@ The following is a list of all new Garage Hive features and updates:
 
    ![](media/technician-tablet-details-added.png)
 
-* Created the ability to attach a sales pitch to a service package via the **Sales Extended Description**, the ability to display a separate extended description via the **Extended Description (Work Description),** and the ability to explain why the quoted work needs to be done and what is included in **Estimates** and **VIE's** via the **Online Booking (OB) Extended Description**, [read more](garagehive-extended-descriptions.html).
+* Created the ability to attach a sales pitch to a service package via the **Sales Extended Description**, the ability to display a separate extended description via the **Extended Description (Work Description),** and the ability to explain why the quoted work needs to be done and what is included in **Estimates** and **VIE's** via the **Online Booking (OB) Extended Description**, [read more](garagehive-extended-descriptions.html){:target="_blank"}.
 
    ![](media/sales-extended-descriptions.png)
 

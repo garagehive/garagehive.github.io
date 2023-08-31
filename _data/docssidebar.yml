@@ -39,7 +39,7 @@
     - name: Common Keyboard Shortcuts in Garage Hive
       url: /docs/garagehive-keyboard-shortcuts.html
     - name: Tips and Tricks When Working With Garage Hive
-      url: docs/garagehive-tips-and-tricks.html
+      url: /docs/garagehive-tips-and-tricks.html
 - name: What's New
   url: "#"
   subitems:
