@@ -40,5 +40,7 @@ In this article, we'll look at the common errors and how to fix them:
 
    ![](media/garagehive-online-booking-errors7.gif)
 
+[Previous](/docs/garagehive-onlinebooking-testing.html)
+
 
 [Go back to top](#top)

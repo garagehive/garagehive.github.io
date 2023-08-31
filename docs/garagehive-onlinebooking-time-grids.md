@@ -62,4 +62,4 @@ The time slots set up in the selected time grid are greyed out along the MOT tim
   ![](media/garagehive-online-booking-time-grids7.gif)
 
 
-[Next step](/docs/garagehive-onlinebooking-service-workgroups-and-service-hours.html)
+[Previous](/docs/garagehive-onlinebooking-service-packages.html) | [Next Step](/docs/garagehive-onlinebooking-service-workgroups-and-service-hours.html)

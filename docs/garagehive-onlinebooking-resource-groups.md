@@ -12,4 +12,4 @@ In the **Online Booking Setup** page:
 ![](media/garagehive-onlinebooking-resource-groups1.gif)
 
 
-[Next step](/docs/garagehive-onlinebooking-sets.html)
+[Previous](/docs/garagehive-onlinebooking-resources.html) | [Next Step](/docs/garagehive-onlinebooking-sets.html)

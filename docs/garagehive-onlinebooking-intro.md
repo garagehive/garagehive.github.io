@@ -7,8 +7,8 @@ Before starting this if you haven’t already set your service packages up its r
 
 ![](media/garagehive-onlinebooking-35.png)
 
-Why not have a play with our demo system [here.](https://onlinebooking.garagehive.co.uk/cronusmotorsbc.html){:target="_blank"}
+Why not have a play with our demo system here, [online booking demo page.](https://onlinebooking.garagehive.co.uk/cronusmotorsbc.html){:target="_blank"}
 
 {% include tip.html title="Note" text="Its highly recommended that you get just one service package working with no errors first before adding any additional packages to the setup." %} 
 
-[Next step](/docs/garagehive-onlinebooking-setup.html)
+[Next Step](/docs/garagehive-onlinebooking-setup.html)

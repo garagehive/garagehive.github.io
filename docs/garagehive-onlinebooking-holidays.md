@@ -4,6 +4,8 @@ title: Setting Up Online Booking - Holidays
 ---
 
 ## Holidays
+Holidays can be set up in online booking to ensure that those days are blocked out, and no bookings can be made online during those dates. Here's how to setup the holidays.
+
 In the **Online Booking Setup** page:
 
 1. From the menu bar, choose **Related**, followed by **Holidays**.
@@ -12,4 +14,4 @@ In the **Online Booking Setup** page:
   ![](media/garagehive-onlinebooking-holidays1.gif)
 
  
-[Next step](/docs/garagehive-onlinebooking-service-packages.html)
+[Previous](/docs/garagehive-onlinebooking-branches.html) | [Next step](/docs/garagehive-onlinebooking-service-packages.html)

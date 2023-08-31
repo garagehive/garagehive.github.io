@@ -4,6 +4,8 @@ title: Setting Up Online Booking - Resources
 ---
 
 # Setting Up Online Booking - Resources
+Setting up the resources for online booking, helps in adding the time slots for the resources when they are available, ensuring that they are booked depending on their availability. Here is how to set the resources.
+
 In the **Online Booking Setup** page:
 1. From the menu bar, choose **Related**, followed by **Resources**.
 2. Open each **Resource** that is part of the **Resource Groups** you created previously (MOT, all techs, etc).
@@ -19,4 +21,4 @@ In the **Online Booking Setup** page:
     ![](media/garagehive-onlinebooking-resources3.gif)
  
 
-[Next step](/docs/garagehive-onlinebooking-resource-groups.html)
+[Previous](/docs/garagehive-onlinebooking-service-workgroups-and-service-hours.html) | [Next Step](/docs/garagehive-onlinebooking-resource-groups.html)

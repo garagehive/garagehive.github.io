@@ -20,5 +20,5 @@ We're almost there, I promise. In the **Online Booking Setup** page:
 
     ![](media/garagehive-onlinebooking-testing3.png)
 
-[Next step](/docs/garagehive-reviewing-online-bookings-and-enquiries.html)
+[Previous](/docs/garagehive-onlinebooking-sets.html) | [Next Step](/docs/garagehive-common-errors-for-online-booking.html)
 
