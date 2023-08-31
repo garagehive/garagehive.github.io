@@ -5,7 +5,7 @@ title: Setting Up Online Booking - Time Grids
 
 # Time Grids
 
-Time grids are system time allocations that help manage time slot availability for online bookings. Customers, for example, must choose a service package when making an online reservation. They must choose a time slot to book after selecting a service package. Now, time grids come into play so that the system can provide available time slots. The time grids are set up to determine the number of labour hours required in the service package being booked and to suggest available time slots for the resource doing the work. Let's take a look at how you can set and work with time grids.
+Time grids are system time allocations that help manage time slot availability for online bookings. Customers, for example, must choose a service package when making an online booking. They must choose a time slot to book after selecting a service package. Now, time grids come into play so that the system can provide available time slots. The time grids are set up to determine the number of labour hours required in the service package being booked and to suggest available time slots for the resource doing the work. Let's take a look at how you can set and work with time grids.
 
 
 ## In this article

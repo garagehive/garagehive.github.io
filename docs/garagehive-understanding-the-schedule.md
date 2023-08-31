@@ -12,16 +12,17 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 1. [Understanding the schedule layout](#understanding-the-schedule-layout)
 2. [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule)
 3. [Changing the Schedule View](#changing-the-schedule-view)
-4. [Adding resources in the schedule](#adding-resources-in-the-schedule)
-5. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
-6. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
-7. [Adding resources calender changes](#adding-resources-calender-changes)
-8. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
-9. [Adding a standard event](#adding-a-standard-event)
-10. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
-11. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-12. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
-13. [Adding an allocation type](#adding-an-allocation-type)
+4. [View and Setup Time Grids and Service Hours from the Schedule](#view-and-setup-time-grids-and-service-hours-from-the-schedule)
+5. [Adding resources in the schedule](#adding-resources-in-the-schedule)
+6. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
+7. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
+8. [Adding resources calender changes](#adding-resources-calender-changes)
+9. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
+10. [Adding a standard event](#adding-a-standard-event)
+11. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
+12. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
+13. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
+14. [Adding an allocation type](#adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -83,6 +84,20 @@ The schedule can be customised to your liking; for example, you can reduce the n
    - **Start Time** and **End Time** - This is the starting and ending time for the period in the schedule.
 
       ![](media/garagehive-schedule-views3.png)
+
+### View and Setup Time Grids and Service Hours from the Schedule
+**Time Grids** are system time allocations that help manage time slot availability for online bookings and **Service Hours** are the scheduled hours during which the resources are available for work. To view and setup the Time Grids and Service Hours from the schedule:
+1. Open the **Schedule** from the Role Centre, select **Related** from the menu bar and choose either **Time Grids** or **Service Hours**.
+
+   ![](media/garagehive-schedule-time-grids-and-service-hours1.png)
+
+2. To learn more on how to setup the Time Grids follow this link, [Setting Up Time Grids](/docs/garagehive-onlinebooking-time-grids.html){:target="_blank"}.
+
+   ![](media/garagehive-schedule-time-grids-and-service-hours2.png)
+
+3. To learn more on how to setup the **Service Hours** follow this link, [Setting Up Service Hours](/docs/garagehive-service-hours-and-auto-clockout.html){:target="_blank"}.
+
+   ![](media/garagehive-schedule-time-grids-and-service-hours3.png)
 
 
 [Go back to top](#top)
