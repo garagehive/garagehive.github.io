@@ -14,7 +14,7 @@ Time grids are system time allocations that help manage time slot availability f
 3. [Adding greyed lines in the schedule using time grids](adding-greyed-lines-in-the-schedule)
 
 ### Setting up time grids in the system
-1. Use the top-right corner search icon to search for **Time Grids** and select it from the results.
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Time Grids**, and select the related link.
 2. The list that appears is for the time grids that have already been set.
 
    ![](media/garagehive-online-booking-time-grids1.gif)
