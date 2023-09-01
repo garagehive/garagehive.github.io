@@ -19,8 +19,9 @@ The following are the supported bank statement formats:
 | - HBOS             | - Santander              |
 | - starling         | - DEXT                   |
 | - Generic          | - Metro                  |
-| - Monzo            |                          |
+| - Monzo            | - NetBank                |
 
+   ![](media/garagehive-bank-statements-supported.png)
 
 You can also reconcile bank accounts without simultaneously applying payments on the **Bank Acc. Reconciliation** page. <br>
 The following is a list of tasks involved in working with payment reconciliation journals, alongside links to topics that describe them:
