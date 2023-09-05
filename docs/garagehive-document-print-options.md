@@ -15,6 +15,7 @@ A document can be printed in Garage Hive in a number of ways, depending on the s
 1. [Changing Print Options for the Top Section](#changing-print-options-for-the-top-section)
 2. [Changing Print Options for the Middle Section](#changing-print-options-for-the-middle-section)
 3. [Changing Print Options for the Bottom Section](#changing-print-options-for-the-bottom-section)
+4. [Setting Default Print Options for Documents](#setting-default-print-options-for-documents)
 
 ### Changing Print Options for the Top Section
 The following can be modified in the top section of a document:
@@ -83,6 +84,26 @@ In the botton section you can add the **Invoice Footer Picture** or the **Invoic
 3. If you have the **Show Branch Details** enabled in the document, then you need to add the pictures in the Location card. Search for **Locations** in the top right corner ![](media/search_icon.png) icon, click on the related link and select the location to add the pictures. Scroll down to the **Pictures** FastTab and to add the pictures.
 
    ![](media/garagehive-print-options-bottom-section3.png)
+
+
+[Go back to top](#top)
+
+### Setting Default Print Options for Documents
+The default setting for printing documents, can be setup in the **Sales & Receivables Setup**. To set up:
+1. Search for **Sales & Receivables Setup** in the ![](media/search_icon.png) icon, at the top-right corner, and select the related link.
+
+   ![](media/garagehive-print-options-default1.png)
+
+2. Scroll down to the **Document Print Options** FastTab. Here you will find the options to set the following documents' default print options:
+   * Service Documents: Includes the Jobsheets, Estimates and Vehicle Inspection Estimates.
+   * Vehicle Sales Documents: Includes the Vehicle Sales Invoices and Vehicle Sales Orders.
+   * Standard Documents: Includes the standard Business Central Documents.
+
+      ![](media/garagehive-print-options-default2.png)
+  
+3. Adjust the default setting that you would like for the documents and close the page.
+
+
 
 
 [Go back to top](#top)
