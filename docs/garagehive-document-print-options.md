@@ -9,7 +9,7 @@ title: DRAFT* - Document Print Options Setup
 We are currently reviewing this article before it is published, check back later.
 
 # Document Print Options Setup
-A document can be printed in Garage Hive in a number of ways, depending on the system setup. You can modify or add details that should be included in the top, middle, or bottom sections of the document. This article will explain how to modify the system's options so that you can print a document in the way you would like.
+Garage Hive has a number of ways for printing a document, depending on the system setup. You can modify or add details that should be included in the top, middle, or bottom sections of the document. This article will explain how to modify the system's options so that you can print a document in the way you would like.
 
 ## In this article
 1. [Changing Print Options for the Top Section](#changing-print-options-for-the-top-section)
@@ -23,11 +23,11 @@ The following can be modified in the top section of a document:
 
    ![](media/garagehive-print-options-top-section1.png)
 
-2. To promote the **Sell-to** customer name, enable the **Promote Sell-to Cust. on Invoice** slider under the **Invoice Print Options** FastTab.
+2. To promote the **Sell-to** customer name (Show the sell-to customer name even when the bill-to name is added), enable the **Promote Sell-to Cust. on Invoice** slider under the **Invoice Print Options** FastTab of the document.
 
    ![](media/garagehive-print-options-top-section2.png)
 
-3. To show the **Branch Details**, make sure the details are added in the in the Location card. Search for **Locations** in the top right corner ![](media/search_icon.png) icon, click on the related link and select the location to add the details.
+3. To show the **Branch Details**, make sure the details of the branch are added in the in the Location card. Search for **Locations** in the top right corner ![](media/search_icon.png) icon, click on the related link and select the location to add the details.
 
    ![](media/garagehive-print-options-top-section3.png)
 
@@ -42,6 +42,10 @@ The following can be modified in the top section of a document:
 6. To indicate that an invoice is a Tax Invoice, under the **Customer VAT No.** slider, select **Tax Invoice** in the field **Invoice Printout Naming** field.
 
    ![](media/garagehive-print-options-top-section6.png)
+
+7. When printed it will appear as shown below.
+
+   ![](media/garagehive-print-options-top-section7.png)
 
 
 [Go back to top](#top)
@@ -95,9 +99,9 @@ The default setting for printing documents, can be setup in the **Sales & Receiv
    ![](media/garagehive-print-options-default1.png)
 
 2. Scroll down to the **Document Print Options** FastTab. Here you will find the options to set the following documents' default print options:
-   * Service Documents: Includes the Jobsheets, Estimates and Vehicle Inspection Estimates.
-   * Vehicle Sales Documents: Includes the Vehicle Sales Invoices and Vehicle Sales Orders.
-   * Standard Documents: Includes the standard Business Central Documents.
+   * **Service Documents:** Includes the Jobsheets, Estimates and Vehicle Inspection Estimates.
+   * **Vehicle Sales Documents:** Includes the Vehicle Sales Invoices and Vehicle Sales Orders.
+   * **Standard Documents:** Includes the standard Business Central Documents.
 
       ![](media/garagehive-print-options-default2.png)
   
