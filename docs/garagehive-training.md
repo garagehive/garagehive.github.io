@@ -1,11 +1,10 @@
 ---
 layout: docs
-title: Garage Hive Training Modules - Beginners
+title: Garage Hive Training Modules for Beginners - Service Advisor
 --- 
 
-#   Garage Hive Training Module - Service Advisor - Beginners 
-
-These training modules are designed to train users on the basic process in Garage Hive. Users will be tested on all the modules before your go-live date and scored on progress. 
+# Garage Hive Training Modules: Service Advisor
+These training modules are designed to train **Service Advisor** users on the basic processes in Garage Hive. Users will be tested on all the modules before your go-live date and scored on progress. 
 
 It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. 
 
