@@ -15,15 +15,20 @@ When using the Autodata **Service Interval Matrix**, you may create a Vehicle In
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist1.png)
 
-2. Check the **Include** checkbox next to the **Service Times** and **Service Intervals** you want to include. From the menu bar, select **Next**.
+2. If the vehicle registration is not auto-detected, select **Other**, and click **OK** to choose the **Make** and **Model** of the vehicle from Autodata.
+
+   ![](media/garagehive-autodata-vehicle-inspection-checklist8.png)
+   
+3. In the **Service Intervals** page, check the **Include** checkbox next to the **Service Times** and **Service Intervals** you want to include. 
+4. From the menu bar, select **Next**.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist2.png)
 
-3. Select **Create Vehicle Inspection** from the menu bar on the page that opens.
+5. Select **Create Vehicle Inspection** from the menu bar on the page that opens.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist3.png)
 
-4. There will be a **Vehicle Inspection** Checklist created, with the template **AutoData**. To open it, click **Yes** on the pop-up notification.
+6. There will be a **Vehicle Inspection** Checklist created, with the template **AutoData**. To open it, click **Yes** on the pop-up notification.
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist4.png)
 

@@ -11,7 +11,11 @@ The **Service Indicator** exisit to let the motorist know when the vehicle need 
 
    ![](media/garagehive-autodata-service-indicators1.png)
 
-2. This opens the **Service Indicators** reset data page in the **Autodata Workshop Application** for the vehicle specified in the document.
+2. If the vehicle registration is not auto-detected, select **Other**, and click **OK** to choose the **Make** and **Model** of the vehicle from Autodata.
+
+   ![](media/garagehive-autodata-service-indicators3.png)
+
+3. The **Service Indicators** reset data page in the **Autodata Workshop Application** for the vehicle specified in the document, is opened.
 
    ![](media/garagehive-autodata-service-indicators2.png)
    

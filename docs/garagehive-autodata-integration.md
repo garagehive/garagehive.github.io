@@ -4,7 +4,9 @@ title: Autodata Integration
 ---
 
 # Autodata Integration
-With the Autodata API integration, you can quickly and easily access technical content in Garage Hive. As a result, you may identify and fix vehicle faults more faster and enhance labour efficiencies.
+With the Autodata API integration, you can quickly and easily access technical content in Garage Hive. As a result, you may identify and fix vehicle faults more faster and enhance labour efficiencies. Vehicle registration data from Ireland, Northern Ireland, and Great Britain is available through Autodata. When using one of Autodata's services, if the vehicle's region is not auto-detected, you have the option to manually enter the vehicle Make and Model when you choose **Other**.
+
+   ![](media/garagehive-autodata-regions1.png)
 
 | To learn about                         | See this article                                                                                                                                                                            |
 | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
