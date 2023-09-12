@@ -20,7 +20,7 @@ More information about how to add the **AAD authentication email** to Garage Hiv
 
    ![](media/garagehive-azure-active-directory-new-user1.1.png)
 
-2. Click on **Microsoft 365 Admin Centre** from the menu bar. Only an **Admin** can access this link.
+2. Click on **Microsoft 365 Admin Centre** from the menu bar. Only an **Admin** can access this link. 
 
     ![](media/garagehive-azure-active-directory-new-user1.2.png)
 
