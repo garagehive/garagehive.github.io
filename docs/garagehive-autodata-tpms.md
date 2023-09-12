@@ -11,7 +11,11 @@ The purpose of a **Tyre Pressure Monitoring System (TPMS)** is to warn the motor
 
    ![](media/garagehive-autodata-tpms1.png)
 
-2. This opens the **TPMS** test page in the **Autodata Workshop Application** for the vehicle specified in the document.
+2. If the vehicle registration is not auto-detected, select **Other**, and click **OK** to choose the **Make** and **Model** of the vehicle from Autodata.
+
+   ![](media/garagehive-autodata-tpms3.png)
+
+3. The **TPMS** test page in the **Autodata Workshop Application** for the vehicle specified in the document, is opened.
 
    ![](media/garagehive-autodata-tpms2.png)
    

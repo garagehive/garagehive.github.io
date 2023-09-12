@@ -10,17 +10,21 @@ title: Adding Repair Times in the Document
 Repair times in Garage Hive are the number of hours estimated to repair parts of a vehicle based on the model and make of the vehicle. This aids in estimating and understanding the type of work required while repairing the vehicle. Here's how to get to the repair times:
 1. Open the document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) with the vehicle for which you want to check the repair times, and then click on **Lookup** and select **Repair Times** from the menu bar.
 
-   ![](media/garagehive-autodata-repair-times1.gif)
+   ![](media/garagehive-autodata-repair-times1.png)
+   
+2. If the vehicle registration is not auto-detected, select **Other**, and click **OK** to choose the **Make** and **Model** of the vehicle from Autodata.
 
-2. The window that opens displays a list of the vehicle's various mechanisms, from which you can select the mechanism that you are working on repairing. The information guides you step by step based on where the parts are located in the vehicle.
+   ![](media/garagehive-autodata-repair-times2.png)
+
+3. The window that opens displays a list of the vehicle's various mechanisms, from which you can select the mechanism that you are working on repairing. The information guides you step by step based on where the parts are located in the vehicle.
 
    ![](media/garagehive-autodata-repair-times2.gif)
 
-3. After selecting the exact parts and mechanism that you require, a description of the work involved as well as the time required to repair the part(s) is provided. You can now choose what to include in the **Include** column and select **Add Lines to Document** from the menu bar. Each labour description is added a **Group** with the respective document lines under it.
+4. After selecting the exact parts and mechanism that you require, a description of the work involved as well as the time required to repair the part(s) is provided. You can now choose what to include in the **Include** column and select **Add Lines to Document** from the menu bar. Each labour description is added a **Group** with the respective document lines under it.
 
    ![](media/garagehive-autodata-repair-times3.gif)
 
-4. On the other hand, you can use the **Advanced Search** to look up a key word related to the repairs that need to be done. Select **Repair Times** from the **Lookup** menu. Select **Advanced Search** on the **Repair Categories** page and type the keyword, for example, pads, into the **Search** field.
+5. On the other hand, you can use the **Advanced Search** to look up a key word related to the repairs that need to be done. Select **Repair Times** from the **Lookup** menu. Select **Advanced Search** on the **Repair Categories** page and type the keyword, for example, pads, into the **Search** field.
 
    ![](media/garagehive-autodata-repair-times4.gif)
 

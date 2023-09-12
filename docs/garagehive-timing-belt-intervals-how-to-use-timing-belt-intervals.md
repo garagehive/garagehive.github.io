@@ -16,9 +16,13 @@ To check the timing belt interval from the menu bar:
 1. In the menu bar, select **Lookup**.
 2. Click **Timing Belt Interval** to open a pop-up information box.
 
-   ![](media/garagehive-timing-belt-intervals1.gif)
+   ![](media/garagehive-timing-belt-intervals1.png)
 
-3. The following information is displayed in the pop-up information box:
+3. If the vehicle registration is not auto-detected, select **Other**, and click **OK** to choose the **Make** and **Model** of the vehicle from Autodata.
+
+   ![](media/garagehive-timing-belt-intervals3.png)
+
+4. The following information is displayed in the pop-up information box:
    * **Timing belt interval in Miles or Months** - This is based on the manufacturer's specifications, which were obtained from the **Autodata**.
    * **Current mileage of the vehicle (miles)** - The mileage on the vehicle at the time of booking, as indicated on the document.
    * **Current age of the vehicle (months)** - The age of the vehicle at the time of booking. 
@@ -28,7 +32,7 @@ To check the timing belt interval from the menu bar:
 
    ![](media/garagehive-timing-belt-intervals2.png)
 
-4. Choose your preferred date from the suggested timing belt change dates in miles or months, and then click OK. The selected date is added into the **Timing Belt Due Date** field in the vehicle reminder dates section.
+5. Choose your preferred date from the suggested timing belt change dates in miles or months, and then click OK. The selected date is added into the **Timing Belt Due Date** field in the vehicle reminder dates section.
 
    ![](media/garagehive-timing-belt-intervals3.gif)
 
