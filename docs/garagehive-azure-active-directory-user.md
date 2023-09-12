@@ -16,35 +16,43 @@ More information about how to add the **AAD authentication email** to Garage Hiv
 3. [Reset Password for a User](#reset-password-for-a-user)
 
 ### Creating a New User
-1. To log-in to **Azure Active Directory Admin Portal** use this **[link](http://admin.microsoft.com){:target="_blank"}** (Admin rights needed to access this link), and select **Add User**.
+1. To log-in to **Azure Active Directory Admin Portal**, search for **User Management** in the top right corner.
+
+   ![](media/garagehive-azure-active-directory-new-user1.1.png)
+
+2. Click on **Microsoft 365 Admin Centre** from the menu bar. Only an **Admin** can access this link.
+
+    ![](media/garagehive-azure-active-directory-new-user1.2.png)
+
+3. The **Microsoft Admin Portal** is opened. Select **Add User**.
 
    ![](media/garagehive-azure-active-directory-new-user1.png)
 
-2. Enter the **Name**, **Display Name** and **Username** of the new user.
+4. Enter the **Name**, **Display Name** and **Username** of the new user.
 
    ![](media/garagehive-azure-active-directory-new-user2.png)
 
-3. Select the **Automatically Create a Password** checkbox to generate a password for the user, the **Require this user to change their password when they first sign in** checkbox to prompt the user to create a new password when they first login, or the **Send password in the email upon completion** checkbox to send the user's password in the email specified. Click **Next**.
+5. Select the **Automatically Create a Password** checkbox to generate a password for the user, the **Require this user to change their password when they first sign in** checkbox to prompt the user to create a new password when they first login, or the **Send password in the email upon completion** checkbox to send the user's password in the email specified. Click **Next**.
 
    ![](media/garagehive-azure-active-directory-new-user3.png)
 
-4. On the following page, select the user's **Location** and then **Create user without product licence**. This is recommended because the user is only used for authentication in Garage Hive. Click **Next**.
+6. On the following page, select the user's **Location** and then **Create user without product licence**. This is recommended because the user is only used for authentication in Garage Hive. Click **Next**.
 
    ![](media/garagehive-azure-active-directory-new-user4.png)
 
-5. Enter the **Profile Info** for the user; this is optional and can be skipped.
+7. Enter the **Profile Info** for the user; this is optional and can be skipped.
 
    ![](media/garagehive-azure-active-directory-new-user5.png)
 
-6. If you want to give the user access to the **Admin Centre**, go to **Roles** and then select **Admin center access**. Then, from the list, you can assign the suitable admin access. Give users only the access they need by assigning the least-permissive role; this is optional and can be skipped. Click **Next**.
+8. If you want to give the user access to the **Admin Centre**, go to **Roles** and then select **Admin center access**. Then, from the list, you can assign the suitable admin access. Give users only the access they need by assigning the least-permissive role; this is optional and can be skipped. Click **Next**.
 
    ![](media/garagehive-azure-active-directory-new-user6.png)
 
-7. Review the information you've entered on the next page, and if you want to change something, click **Edit** next to it. Click **Finish Adding** to add the new user.
+9.  Review the information you've entered on the next page, and if you want to change something, click **Edit** next to it. Click **Finish Adding** to add the new user.
 
    ![](media/garagehive-azure-active-directory-new-user7.png)
 
-8. The user has been added. Share the **User Details** with the user so that they can login. To close the page, click **Close**.
+10. The user has been added. Share the **User Details** with the user so that they can login. To close the page, click **Close**.
 
    ![](media/garagehive-azure-active-directory-new-user8.png)
 
