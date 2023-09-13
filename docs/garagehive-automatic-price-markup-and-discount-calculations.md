@@ -100,6 +100,10 @@ To specify sales markup for specific product(s):
 
    ![](media/garagehive-automatic-markups7.png)
 
+1. To round up the **Prices including VAT** to the nearest whole number, mark the **Round Up Prices Incl. VAT** tick box to enable.
+
+   ![](media/garagehive-automatic-markups8.png)
+
 1. Set the status to **Active** in the first column.
 1. The markups set up will now be active for use.
 
