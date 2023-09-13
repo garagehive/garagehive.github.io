@@ -71,6 +71,10 @@
       url: /docs/garagehive-user-management.html
     - name: How to Create and Edit Users in Azure Active Directory (AAD)
       url: /docs/garagehive-azure-active-directory-user.html
+    - name: Migrating to AAD Sign-on
+      url: /docs/garagehive-migrating-to-aad-sign-on.html
+    - name: Guide on Microsoft Accounts
+      url: /docs/garagehive-microsoft-accounts-guide.html
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
     - name: Create an External Service
@@ -163,6 +167,8 @@
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
       url: /docs/garagehive-create-an-estimate.html
+    - name: Document Print Options
+      url: /docs/garagehive-document-print-options.html
     - name: Posted & Archived Documents
       url: /docs/garagehive-posted-archived-documents.html
     - name: Update an External Document Number of a Posted Sales Invoice
