@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Guide on Microsoft Accounts
+title: Guide on Microsoft Accounts
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Guide on Microsoft Accounts
 When using Microsoft Accounts, it is important to understand that there are different types of **Microsoft Accounts**. In this article we’ll endeavour to guide you the the Microsoft Accounts available and which ones to use.

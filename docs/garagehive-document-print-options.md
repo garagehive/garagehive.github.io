@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Document Print Options Setup
+title: Document Print Options Setup
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Document Print Options Setup
 Garage Hive has a number of ways for printing a document, depending on the system setup. You can modify or add details that should be included in the top, middle, or bottom sections of the document. This article will explain how to modify the system's options so that you can print a document in the way you would like.
