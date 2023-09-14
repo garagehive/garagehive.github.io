@@ -47,7 +47,7 @@ You can manage everything except for Business Central features and licenses thro
 2.	Then assign the licence to the user in [admin.microsoft.com](https://admin.microsoft.com/){:target="_blank"}.
 
 If you want to add a user with the Business Central user license or enable the feature:
-1.	You submit a request directly from Business Central (>>>> link to docs <<<).
+1.	You submit a request directly from Business Central.
 2.	You administer features and functions directly from Business Central.
 
 [Go back to top](#top)
