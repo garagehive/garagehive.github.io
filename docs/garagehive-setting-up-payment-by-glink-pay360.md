@@ -108,6 +108,9 @@ After receiving the email, follow these steps to complete the **Live ID Verifica
    ![](media/garagehive-id-verification5.png)
 
 5. The RemoteVerify process will now be complete.
+6. Additional documents, such as a bank statement, may also be requested by the Pay360 team. A notification requesting further documentation can be viewed on the Pay360 portal. You can upload the required documents by clicking the **Go to Documents** link in the notification or by going to the document section and uploading the required documents.
+
+   ![](media/garagehive-documents-required1.png)
 
 
 [Go back to top](#top)
