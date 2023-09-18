@@ -199,6 +199,8 @@
       url: /docs/garagehive-return-warranty-parts-to-vendor.html
     - name: Tyre Stock Groups
       url: /docs/garagehive-tyre-stock-groups.html
+    - name: How to Use Tyre Manufacturer Price Groups
+      url: /docs/garagehive-tyre-manufacturer-price-groups.html
 - name: Vehicle Sales
   url: "#"
   subitems:

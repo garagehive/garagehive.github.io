@@ -1,14 +1,11 @@
 ---
 layout: docs
-title: DRAFT* - How to Use Tyre Manufacturer Price Groups
+title: How to Use Tyre Manufacturer Price Groups in Garage Hive
 ---
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
-# How to Use Tyre Manufacturer Price Groups
+# How to Use Tyre Manufacturer Price Groups in Garage Hive
 **Tyre Manufacturer Price Groups** is a pricing table in Garage Hive that links tyre manufacturers with the Item Price Groups. This helps pricing up the tyres and automatically adding markups for the tyres.
 
 
@@ -27,7 +24,7 @@ To create Item Price Groups in the system:
 
    ![](media/garagehive-create-item-price-group2.png)
 
-3. You need to set the **OTHERTYRES** price group as the fallback pricing group by default. Search for **Sales & Receivables Setup** in the top right corner ![](media/search_icon.png) icon. Scroll down to the **Prices** FastTab, and select **OTHERTYRES** price group in the **Tyre Fallback Price Group Code** field.
+3. You now need to set the **OTHERTYRES** price group as the fallback pricing group by default. Search for **Sales & Receivables Setup** in the top right corner ![](media/search_icon.png) icon. Scroll down to the **Prices** FastTab, and select **OTHERTYRES** price group in the **Tyre Fallback Price Group Code** field.
 
    ![](media/garagehive-create-item-price-group3.png)
 
@@ -37,12 +34,12 @@ To create Item Price Groups in the system:
 [Go back to top](#top)
 
 ### Linking the Item Price Group to the Manufacturer
-To link the Item Price Groups in with the manufacturer in the system:
+To link the Item Price Groups with the manufacturer in the system:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Manufacturers**, and select the related link.
 
    ![](media/garagehive-item-price-group-manufacturer1.png)
 
-2. Scroll to the manufacturer to which you want to ad a price group, and select the price group code in the **Item Price Group Code** column. If the column is hidden, you can make it visible by using [personalization](garagehive-personalising-garage-hive.html#adding-fields-to-pages){:target="_blank"}.
+2. Scroll to the manufacturer to which you want to add a price group, and select the price group code in the **Item Price Group Code** column. If the column is hidden, you can make it visible by using [personalization](garagehive-personalising-garage-hive.html#adding-fields-to-pages){:target="_blank"}.
 
    ![](media/garagehive-item-price-group-manufacturer2.png)
 
