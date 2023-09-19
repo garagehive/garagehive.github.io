@@ -18,8 +18,22 @@ Micheldever Integration makes it easy for Garage Hive users to find and order ty
 4. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
 
 ### Registration With Micheldever
-You will require a **Party ID**, an **API User Name** and an **API Password** before you can begin the process of linking your Garage Hive system to Micheldever.
+Before you can begin the process of linking your Garage Hive system to Micheldever, you will require a **Party ID**, an **API User Name** and an **API Password**. if you would like to use this integration, please send an email to [**garagehiveonboarding@micheldever.co.uk**](mailto:garagehiveonboarding@micheldever.co.uk), with the following details.
 
+1. ##### Existing Micheldever Customers
+   If you are an existing customer of MTS, please add the following template to your email:
+   * What is your MTS Account Number? (*hint: This can be found on any invoiced paperwork or your ESP login page.*)
+   * What is your Business Name?
+   * Postcode?
+   * What is the sales office you contact MTS with?
+
+1. ##### New Micheldever Customer
+   If you currently do not have an account with MTS, please add the following template to your email:
+   * What is your Business Name?
+   * What is your Business Address? (*hint: If your delivery address is different to your trading address please provide both addresses.*)
+   * Main contact name?
+   * Main contact Telephone number?
+   * Approximate quantity of tyres purchased per month?
 
 [Go back to top](#top)
 
