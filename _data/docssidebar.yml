@@ -237,8 +237,6 @@
       url: /docs/garagehive-changing-vat-prod-posting-on-lines.html
     - name: GSF Integration
       url: /docs/garagehive-gsf-integration.html
-    - name: Micheldever Integration
-      url: /docs/garagehive-micheldever-integration.html
 - name: Inventory
   url: "#"
   subitems:
