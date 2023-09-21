@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 21st October 2023
+* Made it possible to personalise the [new item lookup](/docs/garagehive-item-lookup-and-advanced-tyre-lookup.html#item-lookup){:target="_blank"} function to include the **Search Description** field.
+
+   ![](media/search-description-new-item-lookup.png)
+
+* Added the option to price up tyres by tyre manufacturer code using **Tyre Manufacturer Price Groups**, which link the tyre manufacturers to **Item Price Groups**, [read more](/docs/garagehive-tyre-manufacturer-price-groups.html){:target="_blank"}.
+
+   ![](media/tyre-manufacturer-price-groups.png)
+
 ### 31st August 2023
 * Added actions that open up the **Time Grids** and **Service Hours** in the Service Schedule page.
 
