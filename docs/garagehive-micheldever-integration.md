@@ -6,7 +6,7 @@ title: Draft* - Micheldever Integration With Garage Hive
 <a name="top"></a>
 
 # We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
+We are currently reviewing this article before it is published, check back later. 
 
 # Micheldever Integration With Garage Hive
 Micheldever Integration makes it easy for Garage Hive users to find and order tyres for vehicles from the Micheldever tyre catalogue/stock, directly from Garage Hive.This helps in making the process of **Quoting**, **Sourcing** and **Ordering** the tyres to be efficient.
