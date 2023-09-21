@@ -15,6 +15,7 @@ When it comes to using online documents, the group items feature is very importa
 4. [Creating service package version action](#creating-service-package-version-action)
 5. [Matching approved line groups action](#matching-approved-line-groups-action)
 6. [Adding checklist attention lines](Adding-checklist-attention-lines)
+7. [Lookup Tyre Catalogue](#lookup-tyre-catalogue)
 
 
 ### Move up and move down actions
@@ -69,6 +70,20 @@ This action is available in vehicle inspection estimates and allows you to add v
 1. From the group items sub-page menu bar, select **Functions**, followed by **Add Checklist Attention Lines**.
 
    ![](media/garagehive-group-actions6.gif)
+
+### Lookup Tyre Catalogue
+Tyre Catalogue lookup is used to lookup the available tyres in local inventory/stock, and the Micheldever catalogue/stock and it's available in the group items actions:
+1. Scroll to the Group Items sub-page, select **Parts** followed by **Tyre Catalogue** in the menu bar.
+
+   ![](media/garagehive-group-actions-tyre-catalogue1.png)
+
+2. Enter the tyre size in the **Search Text**, for example 1956515, and enter the number of tyres you require in the **Quantity** field. Click, **OK**.
+
+   ![](media/garagehive-group-actions-tyre-catalogue2.png)
+
+3. This opens up the list of tyres available along with their specifications. To narrow your search, use the filters at the top.
+
+   ![](media/garagehive-group-actions-tyre-catalogue3.png)
 
 
 [Go back to top](#top)
