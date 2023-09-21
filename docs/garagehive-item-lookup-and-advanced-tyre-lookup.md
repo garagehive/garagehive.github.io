@@ -44,4 +44,15 @@ Tyre Catalogue lookup is used to lookup the available tyres in local inventory/s
 
    ![](media/garagehive-tyre-catalogue3.png)
 
+5. Other places where the tyre catalogue can be accessed in the **Service Documents** (Jobsheet, Estimate or VI Estimate) are:
+   * **Group Items**
+     - From the Group Items sub-page menu bar, select **Parts** followed by **Tyre Catalogue**.
+
+       ![](media/garagehive-tyre-catalogue-group-action1.png)
+
+   * **Lines**
+     - From the **Lines** sub-page menu bar, select **Line** followed by **Tyre Lookup**. Ensure that an **Item** line is selected.
+
+       ![](media/garagehive-tyre-catalogue-lines-action1.png)
+
 [Go back to top](#top)
