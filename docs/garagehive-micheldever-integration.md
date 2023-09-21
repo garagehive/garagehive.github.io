@@ -61,6 +61,18 @@ The Micheldever integration is available in **VI Estimates**, **Estimates**, **J
 
    ![](media/micheldever-lookup1.png)
 
+1. Other places where the tyre catalogue can be accessed in the **Service Documents** (Jobsheet, Estimate or VI Estimate) are:
+   * **Group Items**
+     - From the Group Items sub-page menu bar, select **Parts** followed by **Tyre Catalogue**.
+
+       ![](media/garagehive-tyre-catalogue-group-action2.png)
+
+   * **Lines**
+     - From the **Lines** sub-page menu bar, select **Line** followed by **Tyre Lookup**. Ensure that an **Item** line is selected.
+
+       ![](media/garagehive-tyre-catalogue-lines-action2.png)
+
+
 1. This opens the **Tyre Catalogue Lookup Criteria** pop-up. Enter the tyre size in the **Search Text** field and the number of tyres that you want in the **Quantity** field. Click, **OK**.
 
    ![](media/micheldever-lookup2.png)
@@ -78,11 +90,15 @@ The Micheldever integration is available in **VI Estimates**, **Estimates**, **J
 
    ![](media/micheldever-lookup5.png)
 
-1.  To create a Purchase Order for the tyres, select **Parts**, then **Create Purchase Orders** in the menu bar.
+1. To create a Purchase Order for the tyres, select **Parts**, then **Create Purchase Orders** in the menu bar.
 
    ![](media/micheldever-lookup6.png)
 
-1.  This creates the Purchase Order for the tyres added in the document.
+1. If you want to place an online order directly from your Micheldever branch, select **Yes**; otherwise, select **No** and just create a purchase order.
+
+   ![](media/micheldever-lookup8.png)
+
+1. This creates the Purchase Order for the tyres added in the document.
 
    ![](media/micheldever-lookup7.png)
 
