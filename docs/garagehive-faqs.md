@@ -22,6 +22,8 @@ This article answers some common questions that you might have about the functio
 12. [How can I see ahead of time when the Garage is busy and when it is free in Garage Hive&#63;](#howcan-i-see-ahead-of-time-when-the-garage-is-busy-and-when-it-is-free-in-garage-hive)
 13. [Would Garage Hive be accessible offline if the Garage Hive servers went down&#63;](#would-garage-hive-be-accessible-offline-if-the-garage-hive-servers-went-down)
 14. [Does Garage Hive calculate VAT on a cash or accrual basis&#63;](#does-garage-hive-calculate-vat-on-a-cash-or-accrual-basis)
+15. [Does Garage Hive use Sequential Invoice numbering&#63;](#does-garage-hive-use-sequential-invoice-numbering)
+16. [How does Garage Hive manage the numbering of invoices for the integrated accounting software&#63;](#how-does-garage-hive-manage-the-numbering-of-invoices-for-the-integrated-accounting-software)
 
 #### How easy is it to make a booking?
 
@@ -168,5 +170,20 @@ Because Garage Hive is built on Microsoft Dynamics, it only calculates VAT on an
 
 You can switch from cash to accrual at any time without notifying HMRC, but you must report and pay any outstanding VAT (whether your customers have paid you or not). You have 6 months to report and pay any outstanding VAT, ([Source](https://www.gov.uk/vat-cash-accounting-scheme/join-or-leave-the-scheme)).
 
+[Go back to top](#top)
+
+#### Does Garage Hive use Sequential Invoice numbering?
+
+In Garage Hive, we typically use our Jobsheet number series for the associated invoice, for example    job SJ00001 creates invoice SJ00001 and so on. This makes traceability extremely easy. Job numbers are created sequentially, but some jobs are invoiced before others, so job six can be invoiced before job two. Still, every number used can be accounted for even if it's deleted (because it's archived). The method of having gaps in the invoice sequence is acceptable to HMRC.
+
+[Go back to top](#top)
+
+#### How does Garage Hive manage the numbering of invoices for the integrated accounting software?
+
+Here's how Garage Hive manages various accounting software integration:
+* **Sage 50** - Sage 50 integration, uses Garage Hive's invoice number as the invoice number in Sage 50 invoice.
+* **Sage Accounting** - Sage Accounting integration, assigns its invoice number during the import process and attributes the Garage Hive invoice number as a reference on the invoice.
+* **Xero API** - Xero API integration, uses Garage Hive's invoice number as the invoice number in Xero API invoice.
+* **QuickBooks Online** - QuickBooks Online integration, uses Garage Hive's invoice number as the invoice number in QuickBooks invoice. 
 
 [Go back to top](#top)
