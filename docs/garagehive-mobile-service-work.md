@@ -30,7 +30,7 @@ One useful feature available in our Garage Hive is the ability to manage mobile/
 
    ![](media/garagehive-mobile-service5.png)
 
-6. Then select **Online Maps**, from the actions.
+6. Then select **Online Maps**, from the actions. 
 
    ![](media/garagehive-mobile-service6.png)
 
