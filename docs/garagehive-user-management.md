@@ -1,12 +1,12 @@
 ---
 layout: docs
-title: How to Manage Users, Roles and Data Permissions in Garage Hive
+title: How to Create Users, Manage Roles and Enable Data Permissions in Garage Hive
 ---
 
 <a name="top"></a>
 
-# How to Manage Users, Roles and Data Permissions in Garage Hive
-In Garage Hive system, you can manage licenced users in the system from the **User Management** page. The user marked as **System Administrator** is the **only** user who can manage the users.
+# How to Create Users, Manage Roles and Enable Data Permissions in Garage Hive
+In the Garage Hive system, the **User Management** page allows creation of licenced users, management of their roles, and enabling of data permissions. The only user who can create users, manage roles, and enable data permissions for users is the one who is marked as the **System Administrator**.
 
 ## In this article
 1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)

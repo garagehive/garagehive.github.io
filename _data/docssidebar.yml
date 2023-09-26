@@ -67,7 +67,7 @@
 - name: Setting Up Garage Hive
   url: "#"
   subitems:
-    - name: Managing Users (System Administrator)
+    - name: How to Create Users, Manage Roles and Enable Data Permissions (Administrator)
       url: /docs/garagehive-user-management.html
     - name: How to Create and Edit Users in Azure Active Directory (AAD)
       url: /docs/garagehive-azure-active-directory-user.html
