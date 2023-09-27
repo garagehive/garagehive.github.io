@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 27th October 2023
+Added the Micheldever Integration with Garage Hive, which enables you to search for and add items from the Micheldever catalogue and place an online order with Micheldever, [read more](garagehive-micheldever-integration.html){:target="_blank"}.
+
+   ![](media/micheldever-integration.png)
+
 ### 21st October 2023
 * Made it possible to personalise the [new item lookup](/docs/garagehive-item-lookup-and-advanced-tyre-lookup.html#item-lookup){:target="_blank"} function to include the **Search Description** field.
 
