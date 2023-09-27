@@ -6,10 +6,10 @@ title: Setting Up Service Packages (Online Booking and Estimates)
 The Service Packages are used to create either a Jobsheet using online booking or an Estimate using online enquiries. Setting up service packages helps in providing options for booking and pricing them. Service packages are what customers book online.
 
 ## In this article
-1. [Setting up Online Booking](#setting-up-online-booking)
-2. [Setting up Online Estimates](#setting-up-online-estimates)
+1. [Setting up Service Packages for Online Booking](#setting-up-service-packages-for-online-booking)
+2. [Setting up Service Packages for Online Estimates](#setting-up-service-packages-for-online-estimates)
 
-### Setting up Online Booking
+### Setting up Service Packages for Online Booking
 Online booking is used in the system to create Jobsheets. Choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and select the related link:
 1. From the menu bar, choose **Related**, followed by **Service Packages**.
 2. Open the **Service Package** you want to show in the **Online Booking(OB)** widget. Please see [here](garagehive-service-packages.html){:target="_blank"} for more information on creating service packages.
@@ -55,7 +55,7 @@ Online booking is used in the system to create Jobsheets. Choose the ![](media/s
     ![](media/garagehive-onlinebooking-service-packages3.png)
 
 
-### Setting up Online Estimates
+### Setting up Service Packages for Online Estimates
 1. Online Estimates (or Enquiries) are used in the system to create Estimates. To begin, open the **Service Package** card.
 2. Select the **Create Estimate** slider in the **General** FastTab to make the Service Package as an Estimate.
 

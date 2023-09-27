@@ -391,20 +391,18 @@
         - name: How to Get Started With External Consultant Survey
           url: /docs/garagehive-how-to-get-started-with-external-consultant-survey.html
 - name: Online Booking and Enquiries
-  url: /docs/garagehive-onlinebooking-intro.html
+  url: "#"
   subitems:
     - name: Online Booking Setup
-      url: "#"
+      url: /docs/garagehive-onlinebooking-intro.html
       subitems:
-        - name: Intro
-          url: /docs/garagehive-onlinebooking-intro.html
         - name: Setup
           url: /docs/garagehive-onlinebooking-setup.html
         - name: Branches
           url: /docs/garagehive-onlinebooking-branches.html     
         - name: Holidays
           url: /docs/garagehive-onlinebooking-holidays.html   
-        - name: Setting Up Service Packages
+        - name: Setting up Service Packages for Online Booking and Enquiries
           url: /docs/garagehive-onlinebooking-service-packages.html    
         - name: Time Grids
           url: /docs/garagehive-onlinebooking-time-grids.html           
