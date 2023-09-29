@@ -18,7 +18,7 @@ To customise the **Vehicle Preparation Stages**:
 
    ![](media/garagehive-vehicle-preparation-stages1.png)
 
-2. Create the stages with a **Code** and a **Description** in the **Vehicle Preparation Stages** page. After you've finished creating the stages, click the back arrow to close the page.
+2. Create the stages with a **Code** and a **Description** in the **Vehicle Preparation Stages** page. After you've finished creating the stages, click the back arrow (&#8592;) to close the page.
 
    ![](media/garagehive-vehicle-preparation-stages2.png)
 

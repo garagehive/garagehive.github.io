@@ -25,7 +25,7 @@ title: Creating User Tasks in Garage Hive
 
    ![](media/garagehive-user-tasks2.gif)
 
-5. The group is now successfully created. Click the back arrow, to go back to the groups list. You can create as many groups as required.
+5. The group is now successfully created. Click the back arrow (&#8592;), to go back to the groups list. You can create as many groups as required.
 
 ### Assign tasks to a user or user tasks group
 After creating the groups, now you can assign tasks to a **User** or the **User Task Group**. To Create a task:
@@ -44,7 +44,7 @@ After creating the groups, now you can assign tasks to a **User** or the **User 
 
    ![](media/garagehive-user-tasks4.gif)
 
-7. The task now is added. Click on the back arrow to exit.
+7. The task now is added. Click on the back arrow (&#8592;) to exit.
 
 ### Create a recurring task
 To create a recurring task:

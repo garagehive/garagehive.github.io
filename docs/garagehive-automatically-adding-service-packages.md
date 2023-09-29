@@ -12,7 +12,7 @@ To begin automatically applying service packages in jobsheets, link **Service Ty
 
    ![](media/garagehive-automatically-adding-service-packages1.gif)
 
-2. Select **Edit List** from the menu bar, and then select the **Service Type** you want to link with a **Service Package**. Fill out the **Service Package Filter** Column with the service package. To save, click the back arrow or **OK**.
+2. Select **Edit List** from the menu bar, and then select the **Service Type** you want to link with a **Service Package**. Fill out the **Service Package Filter** Column with the service package. To save, click the back arrow (&#8592;) or **OK**.
 
    ![](media/garagehive-automatically-adding-service-packages2.gif)
 
