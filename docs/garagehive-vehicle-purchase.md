@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Purchasing a Vehicle for Stock in Garage Hive
+title: Purchasing a Vehicle for Stock in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Purchasing a Vehicle for Stock in Garage Hive
 When using the Vehicle Sale Module, you must have vehicles available for sale in your inventory. This article explains how to purchase vehicles for stock in your system. When using Vehicle Sales Module, it is recommended that any data related to vehicle sales be entered by the **Vehicle Sales Admin** user. In this article we’ll use the **Vehicle Sales Admin** user.
