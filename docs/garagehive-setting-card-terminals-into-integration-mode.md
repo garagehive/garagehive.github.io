@@ -11,7 +11,7 @@ Once your EPOS (electronic point of sale system) has been set up for integration
 
 - Tap the three bars at the top left of the screen on the card machine.
 - Choose **Settings**, then **Integrated Payments**.
-- Tap **Pay at Counter** or **Pay at Table**. To return to the **Settings** menu, use the back arrow.
+- Tap **Pay at Counter** or **Pay at Table**. To return to the **Settings** menu, use the back arrow (&#8592;).
 - Select **Integrated Sale**.
 - The card machine should now display a black Dojo screen, indicating that it is ready for integrated payments.
 

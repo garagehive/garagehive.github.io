@@ -66,7 +66,7 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
 
    ![](media/garagehive-financial-reports11.gif)
 
-1. Click the back arrow to exit the **Row Definition** page, and then click **OK** to add the **Row Definition** you have just created in the report.
+1. Click the back arrow (&#8592;) to exit the **Row Definition** page, and then click **OK** to add the **Row Definition** you have just created in the report.
 
    ![](media/garagehive-financial-reports12.png)
 
@@ -86,7 +86,7 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
 
    ![](media/garagehive-financial-reports16.png)
 
-2. You can also introduce a formula between the columns, by selecting the **Column Type** as **Formula**. When done click on the back arrow to exit the page.
+2. You can also introduce a formula between the columns, by selecting the **Column Type** as **Formula**. When done click on the back arrow (&#8592;) to exit the page.
 
    ![](media/garagehive-financial-reports17.png)
 
