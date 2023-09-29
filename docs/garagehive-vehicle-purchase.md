@@ -13,7 +13,7 @@ When using the Vehicle Sale Module, you must have vehicles available for sale in
 2. [Create a Purchase Invoice](#create-a-purchase-invoice)
 
 ### Create a New Vehicle Item Card
-1. Select **Items** in the Home Screen/Role Centre.
+1. Select **Items** in the Home Screen/Role Centre. 
 
    ![](media/garagehive-vehicle-item-card-purchase1.png)
 
