@@ -34,6 +34,8 @@ Before you can begin the process of linking your Garage Hive system to Micheldev
 
 [Go back to top](#top)
 
+{% include tip.html title="Note" text="Following receipt of your email, Micheldever will assign and send you a Party ID, API User Name and API Password so you can link your Garage Hive system to them as below." %}
+
 ### System Setup for Micheldever Integration
 To enable the Micheldever Integration in Garage Hive:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Micheldever Integrations**, and select the related link.
