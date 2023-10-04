@@ -17,10 +17,10 @@ Your Role Centre Looks as shown below:
 
    ![](media/garagehive-training-role-centre1.png)
 
-**(1) Navigation Menu:** The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.
-**(2) Navigation Bar:** The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system.
-**(3) Menu Bar:** The menu bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
-**(4) Data Tiles:** Each tile provides a visual representation of business data, such as total Jobsheets open and vehicle inspections, for the vehicles in your workshop booked in for repairs. These tiles will also change to red when action needs to be taken, which prompts you or your service advisor to open it to complete a task relevant to that tile.
+1. **Navigation Menu:** The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.
+2. **Navigation Bar:** The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system.
+3. **Menu Bar:** The menu bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
+4. **Data Tiles:** Each tile provides a visual representation of business data, such as total Jobsheets open and vehicle inspections, for the vehicles in your workshop booked in for repairs. These tiles will also change to red when action needs to be taken, which prompts you or your service advisor to open it to complete a task relevant to that tile.
 
 Learn more: [Video: Welcome to your Role Centre](https://www.youtube.com/watch?v=R_mLcdbFWdo){:target="_blank"}
 
@@ -61,4 +61,4 @@ Learn more: [Video: How to populate a Jobsheet](https://www.youtube.com/watch?v=
 * [Learn more about the Service Packages](garagehive-service-packages.html)
 
 
-[Continue to Module 2](garagehive-training-module-2.html)
+[**Continue to Module 2**](garagehive-training-module-2.html)
