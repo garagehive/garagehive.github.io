@@ -7,7 +7,7 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 3rd October 2023
-* Added **MOT and Service** date check before posting a Jobsheet.
+* Added **MOT and Service** date check before posting a Jobsheet and when transitioning work status (by setup).
 
    ![](media/mot-and-service-check.png)
 
