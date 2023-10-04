@@ -12,112 +12,53 @@ It is important to understand all elements of the process to benefit from all th
 
 Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
 
-#### Welcome to your role centre
+### Welcome to Your Role Centre
+Your Role Centre Looks as shown below:
 
-{% include youtube.html id="R_mLcdbFWdo" %}
+   ![](media/garagehive-training-role-centre1.png)
 
+**(1) Navigation Menu:** The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.
+**(2) Navigation Bar:** The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system.
+**(3) Menu Bar:** The menu bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
+**(4) Data Tiles:** Each tile provides a visual representation of business data, such as total Jobsheets open and vehicle inspections, for the vehicles in your workshop booked in for repairs. These tiles will also change to red when action needs to be taken, which prompts you or your service advisor to open it to complete a task relevant to that tile.
 
-####  How to create a booking
+Learn more: [Video: Welcome to your Role Centre](https://www.youtube.com/watch?v=R_mLcdbFWdo){:target="_blank"}
 
-{% include youtube.html id="MJqFUQyV2Tc" %}
+### How to Create a Booking
+Here are the steps to follow to make a booking using the Schedule from the Role Centre:
 
+   ![](media/garagehive-training-create-a-booking1.png)
 
-#### How to populate a jobsheet
+With the allocations, the booking schedule should look more like this:
 
-{% include youtube.html id="ABnKqYB4f3A" %}
+   ![](media/garagehive-training-create-a-booking2.png)
 
+Learn more: [Video: How to create a booking](https://www.youtube.com/watch?v=MJqFUQyV2Tc){:target="_blank"}
 
-### Module 1 test
+#### How to Populate a Jobsheet
+Here are a few methods on how to populate the Jobsheet:
+1. **Manually Populating a Jobsheet** - This involves adding the items and labours one by one in the **Lines** FastTab.
+2. **Service Packages** - These are pre-created packages which includes items and labours put together to help create jobs faster, simplify job pricing, increase consistency and so on.
+3. **Repair Times** - This refers to the vehicle repair information obtained from external providers, like Autodata, which includes both labours and items.
 
-* Logging into Garage Hive
-* Creating a booking
-* Creating a customer card
-* Adding comments to a jobsheet
-* Adding labours to a jobsheet
-* Adding items to a jobsheet
-* Adding a service package to a jobsheet
+Let's take a look at how you can use each of them:
 
+   ![](media/garagehive-training-populate-a-jobsheet1.png)
 
+   ![](media/garagehive-training-populate-a-jobsheet2.png)
 
-## Module 2 - Purchasing
+   ![](media/garagehive-training-populate-a-jobsheet3.png)
 
-Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
+Learn more: [Video: How to populate a Jobsheet](https://www.youtube.com/watch?v=ABnKqYB4f3A){:target="_blank"}
 
+#### Links for Further Learning in Module 1
 
-####  How to create a purchase order
-
-{% include youtube.html id="M1KB7dSiZrY" %}
-
-
-#### How to process a purchase order/invoice
-
-{% include youtube.html id="eKXEvrj1QQQ" %}
-
-#### How to view items to return
-
-{% include youtube.html id="EyVbV50EwaQ" %}
-
-#### How to create a purchase return order
-
-{% include youtube.html id="X81T5UAOTNU" %}
-
-### Module 2 test
-
-* Creating multiple purchase orders
-* Processing a purchase order
-* Creating an item card
-* Posting a purchase order
-* Viewing your items to return report
-* Creating a purchase return order
-* Shipping items on return
-* Posting a purchase return order
-
-## Module 3 - Processing Jobsheets & Invoicing
-
-Module 3 looks at the process when a customer arrives to drop their vehicle off. You will learn how to use features for marking vehicles as on-site, assigning parking locations and key numbers and adding expected collection times. In module 3 you will also learn how to process a jobsheet from complete to ready for collection and how to convert a jobsheet into an invoice.  
-
-#### How to process a vehicle arriving
-
-{% include youtube.html id="pBSymFc-9m8" %}
-
-#### How to process a jobsheet to invoice
-
-{% include youtube.html id="SdgMs_uS9Y0" %}
-
-### Module 3 test
-
-* Marking a vehicle on-site
-* Assigning a key number to a jobsheet
-* Adding customer comments to a jobsheet
-* Adding an expected collection time to a jobsheet
-* Allocating a jobsheet to a technician on the schedule
-* Processing a complete jobsheet
-* Marking a jobsheet as ready for collection
-* Taking payments to a jobsheet
-* Posting a jobsheet and creating an invoice
+* [Learn how to create an Item card](garagehive-create-an-item-card.html)
+* [Understand the schedule better](garagehive-understanding-the-schedule.html)
+* [Learn how to create a Customer card](garagehive-create-a-customer-card.html)
+* [Learn how to use comments in Garage Hive](garagehive-comments-extended.html)
+* [Learn how to create a Labour card and using standard times](garagehive-create-a-labour-card.html)
+* [Learn more about the Service Packages](garagehive-service-packages.html)
 
 
-## Module 4 - Estimates & Vehicle Inspections
-
-Module 4 looks at the differences between an estimate and a vehicle inspection estimate. You will learn how to create an estimate and convert an estimate to a jobsheet. You will also learn how to process a vehicle inspection into a vehicle inspection estimate and copy the authorised work back to the jobsheet. 
-
-
-####  How to create an Estimate
-
-{% include youtube.html id="otMUsW5hGAA" %}
-
-
-#### How to process a Vehicle Inspection
-
-{% include youtube.html id="LldJYN6HkeU" %}
-
-
-
-### Module 4 test
-
-* Creating an estimate
-* Converting an estimate to a jobsheet
-* Processing a vehicle inspection
-* Copying authorised work to a jobsheet
-* Setting estimate reminders
-
+[Continue to Module 2](garagehive-training-module-2.html)
