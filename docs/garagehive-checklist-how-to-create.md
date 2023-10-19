@@ -110,7 +110,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 [Go back to top](#top)
 
-### Setup to create a Checklist automatically
+### Setup to create a Checklist Automatically
 Checklists can be set to be created automatically in response to a specific system trigger, as follows:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Template Selection**, and select the related link.
 
