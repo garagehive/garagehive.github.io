@@ -7,7 +7,7 @@ title: We're working on it.
 
 We are currently hard at work refreshing all of our documentation for the release of [Business Central](https://www.youtube.com/watch?v=seX9jL-LaEw/ "Garage Hive Business Central"){:target="_blank"}
 
-In the meantime please visit our [Youtube](https://www.youtube.com/channel/UCEO94MEqoL9C2cIDCorxL6A/ "Garage Hive Youtube"){:target="_blank"} page for our latest how-to videos. Alternatively you can visit our [Blog Page](https://www.garagehive.co.uk/live-blog "Garage Hive Blog"){:target="_blank"} for the latest news
+In the meantime please visit our [Youtube](https://www.youtube.com/channel/UCEO94MEqoL9C2cIDCorxL6A/ "Garage Hive Youtube"){:target="_blank"} page for our latest how-to videos. Alternatively you can visit our [Blog Page](https://www.garagehive.co.uk/live-blog "Garage Hive Blog"){:target="_blank"} for the latest news.
 
 # Garage Hive Community 
 
@@ -32,4 +32,4 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 * **Teamviewer**  https://get.teamviewer.com/garagehive
 
 ## Suggest a feature
-* **Email** alex@garagehive.co.uk with your ideas. 
+To propose a feature or suggest an improvement, please share your ideas using [this link](https://garage-hive.upvoty.com/b/ideas/){:target="_blank"}. The community members will upvote the ideas to prioritise which ones get developed next.
