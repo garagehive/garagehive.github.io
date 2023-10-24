@@ -31,5 +31,5 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 ## Remote Support
 * **Teamviewer**  https://get.teamviewer.com/garagehive
 
-## Suggest a feature
+## Suggest a Feature
 To propose a feature or suggest an improvement, please share your ideas using [this link](https://garage-hive.upvoty.com/b/ideas/){:target="_blank"}. The community members will upvote the ideas to prioritise which ones get developed next. 

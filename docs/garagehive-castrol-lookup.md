@@ -11,30 +11,6 @@ We are currently reviewing this article before it is published, check back later
 # How to Use Castrol Lookup in Garage Hive
 Garage Hive users can now use Castrol Lookup to easily search for appropriate oil types and their capacities for various vehicles. The lookup function can be done either by using the vehicle registration number or by specifying the make and model of the vehicle.
 
-   {% include tip.html title="Note" text="You don't need to register for Castrol Lookup setup, as the Garage Hive team will manage all the necessary requirements for your system. All you need to do is enable or disable it on your system." %}
-
-## In this article
-1. [How to Enable Castrol Lookup](#how-to-enable-castrol-lookup)
-2. [How to Use Castrol Lookup](#how-to-use-castrol-lookup)
-
-### How to Enable Castrol Lookup
-
-   {% include tip.html title="Note" text="Only the system administrator can enable this setup. If you require assistance, please contact our support team." %}
-
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Castrol Lookup Setup**, and select the related link.
-
-   ![](media/garagehive-castrol-lookup-setup1.png)
-
-2. Under the **General** FastTab, select the **Enable** slider to enable the setup in the system.
-
-   ![](media/garagehive-castrol-lookup-setup2.png)
-
-3. Castrol Lookup is now ready to use.
-
-
-[Go back to top](#top)
-
-### How to Use Castrol Lookup
 1. Castrol Lookup is available for use in the Jobsheet, Estimate, VI Estimate, and the Technician Jobsheet.
 2. Open the document that you want to use the **Castrol Lookup**, and in the menu bar select **Lookup** followed by **Castrol Lookup**. The system will automatically use the Vehicle Registration number for the lookup.
 
