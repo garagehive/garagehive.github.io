@@ -34,7 +34,7 @@ title: Garage Hive Support
     * [**iOS**](https://apps.apple.com/sg/app/dynamics-365-business-central/id1093325047){:target="_blank"}   
     * [**Android**](https://play.google.com/store/apps/details?id=com.microsoft.dynamics.ProjectMadeira&hl=en_GB){:target="_blank"}   
 
-### Suggest a feature
+### Suggest a Feature
 * To propose a feature or suggest an improvement, please share your ideas using [this link](https://garage-hive.upvoty.com/b/ideas/){:target="_blank"}. The community members will upvote the ideas to prioritise which ones get developed next.
 
 ### Community 
