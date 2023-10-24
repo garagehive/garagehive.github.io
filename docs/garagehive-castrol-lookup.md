@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Use Castrol Lookup in Garage Hive
+title: How to Use Castrol Lookup in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Use Castrol Lookup in Garage Hive
 Garage Hive users can now use Castrol Lookup to easily search for appropriate oil types and their capacities for various vehicles. The lookup function can be done either by using the vehicle registration number or by specifying the make and model of the vehicle.
