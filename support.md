@@ -35,8 +35,7 @@ title: Garage Hive Support
     * [**Android**](https://play.google.com/store/apps/details?id=com.microsoft.dynamics.ProjectMadeira&hl=en_GB){:target="_blank"}   
 
 ### Suggest a feature
-* **Email** - [**alex@garagehive.co.uk**](mailto:alex@garagehive.co.uk) with your ideas.
+* To propose a feature or suggest an improvement, please share your ideas using [this link](https://garage-hive.upvoty.com/b/ideas/){:target="_blank"}. The community members will upvote the ideas to prioritise which ones get developed next.
 
 ### Community 
-
 If you are a user of Garage Hive please feel free to join our [Facebook Community Page](https://www.facebook.com/groups/1808538692573390/ "Facebook Community"){:target="_blank"} for some great discussions, community help and to get the chance to speak directly with our development team.
