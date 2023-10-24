@@ -177,6 +177,8 @@
       url: /docs/garagehive-removing-posting-restrictions.html
     - name: How to Create Warranty Job
       url: /docs/garagehive-create-warranty-job.html
+    - name: How to Use Castrol Lookup
+      url: /docs/garagehive-castrol-lookup.html
     - name: Gearbox Sales
       url: /docs/garagehive-gearbox-sales.html
       subitems:
