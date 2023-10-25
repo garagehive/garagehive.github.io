@@ -33,6 +33,9 @@ To add these tiles in the **Role Centre**:
 
 4. The tiles will be ready for use after you refresh the **Role Centre**.
 
+
+[Go back to top](#top)
+
 ### Adding Custom Processes
 On the other hand, you have the option to add **Custom Processes** to your service document based on your specific needs. For instance, you can include a custom slider called **Checklist Done** in your service document to enable it when the checklist is complete. Here is how to add the custom processes:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
