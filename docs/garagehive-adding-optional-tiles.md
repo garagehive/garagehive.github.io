@@ -43,7 +43,8 @@ On the other hand, you have the option to add **Custom Processes** to your servi
 
    ![](media/garagehive-custom-processes2.png)
 
-3. The **Custom Process** slider will appear in your service document, under the **General** FastTab.
+3. To refresh the system, sign out and then sign back in again.
+4. The **Custom Process** slider will appear in your service document, under the **General** FastTab. Sign out and sign in back again to refresh the system.
 
    ![](media/garagehive-custom-processes3.png)
 
