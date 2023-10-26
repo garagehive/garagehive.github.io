@@ -21,7 +21,7 @@ To create a booking from the schedule:
 
    ![](media/garagehive-create-a-booking3.gif)
 
-5. If the vehicle is not in the system, the system will find it using the VRM, and you will now need to provide the customer information in the **Customer** field. If the customer is already in the system, you can choose from the list; or else, create a new **Customer** card.
+5. If the vehicle is not in the system, the system will find it using the VRM, and you will now need to provide the customer information in the **Customer** field. If the customer is already in the system, you can choose from the list; or else, create a new **Customer** card by clicking on **New** at the bottom left of the list.
 
    ![](media/garagehive-create-a-booking4.gif)
 
