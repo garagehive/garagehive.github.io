@@ -1,17 +1,14 @@
 ---
 layout: docs
-title: DRAFT* - How to Use Parts Link Integration
+title: How to Use PartsLink24 Integration in Garage Hive
 ---
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
-# How to Use Parts Link Integration
+# How to Use PartsLink24 Integration in Garage Hive
 Garage Hive integration with Partslink24 allows users of PartsLink24 to easily transfer orders to Garage Hive through the Partslink24 Portal. This feature is available for use in Garage Hive if you are registered with Partslink24. To learn more about how to register, please visit their official website using this [link](https://www.partslink24.com/pl24-html/index.htm?se=oh&au=ig&la=en#:~:text=The%20partslink24%20Portal%20enables%20you,processing%20is%20rapid%20and%20convenient){:target="_blank"}.
 
-New Partslink24 users can get a free demo on the Partslink24 portal. Contact [Garage Hive support](support.html) for referral.
+New Partslink24 users can get a free demo on the Partslink24 portal. Contact [Garage Hive support](https://docs.garagehive.co.uk/support.html) for referral.
 
 ## In this article
 1. [Opening Partslink24 from Garage Hive and Placing an Order](#opening-partslink24-from-garage-hive-and-placing-an-order)
