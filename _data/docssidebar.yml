@@ -243,6 +243,8 @@
       url: /docs/garagehive-gsf-integration.html
     - name: Micheldever Integration
       url: /docs/garagehive-micheldever-integration.html
+    - name: Partslink24 Integration
+      url: /docs/garagehive-partslink24-integration.html
 - name: Inventory
   url: "#"
   subitems:
