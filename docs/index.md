@@ -38,5 +38,5 @@ Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/
     * [**Android**](https://play.google.com/store/apps/details?id=com.zoho.assist.agent&hl=en_GB){:target="_blank"}
     
 
-### Suggest a feature
+### Suggest a Feature
 To propose a feature or suggest an improvement, please share your ideas using [this link](https://garage-hive.upvoty.com/b/ideas/){:target="_blank"}. The community members will upvote the ideas to prioritise which ones get developed next.
