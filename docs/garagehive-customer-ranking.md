@@ -9,7 +9,7 @@ title: DRAFT* - How to Use Customer Ranking in Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # How to Use Customer Ranking in Garage Hive
-Garage Hive's customer ranking feature allows you to rate customers based on your experience with them at the garage. You can customise the rating criteria based on your preferences, such as customer loyalty, applicable discounts, previous purchase behaviour, quality of interaction, and more. Whenever a customer is ranked, the next time a new service document is created for them, you will receive a notification about their ranking.
+Garage Hive's customer ranking feature allows you to rate customers based on your experience with them at the garage. You can customise the rating criteria based on your preferences, such as customer loyalty, previous purchase behaviour, quality of interaction, and more. Whenever a customer is ranked, the next time a new service document is created for them, you will receive a notification about their ranking.
 
 ## In this article
 1. [Customer Ranking Setup](#customer-ranking-setup)
