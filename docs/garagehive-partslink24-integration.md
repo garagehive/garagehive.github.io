@@ -11,8 +11,22 @@ Garage Hive integration with Partslink24 allows users of PartsLink24 to easily t
 New Partslink24 users can get a free demo on the Partslink24 portal. Contact [Garage Hive support](https://docs.garagehive.co.uk/support.html) for referral.
 
 ## In this article
-1. [Opening Partslink24 from Garage Hive and Placing an Order](#opening-partslink24-from-garage-hive-and-placing-an-order)
-2. [How to Transfer Partslink24 Order to Garage Hive](#how-to-transfer-partslink24-order-to-garage-hive)
+1. [Partslink24 Setup](#partslink24-setup)
+2. [Opening Partslink24 from Garage Hive and Placing an Order](#opening-partslink24-from-garage-hive-and-placing-an-order)
+3. [How to Transfer Partslink24 Order to Garage Hive](#how-to-transfer-partslink24-order-to-garage-hive)
+
+### Partslink24 Setup
+1. In the top-right corner, choose the  icon, enter **Partslink24 Setup**, and select the related link.
+
+   ![](media/garagehive-partslink24-setup1.png)
+
+2. Choose the **Placeholder Item No.** that will be used for the parts ordered in the **Partslink24 Portal**, after the order is moved to the document lines.
+
+   ![](media/garagehive-partslink24-setup2.png)
+
+3. Then select the **Enabled** slider to enable the Partslink24 setup in your system.
+
+   ![](media/garagehive-partslink24-setup3.png)
 
 ### Opening Partslink24 from Garage Hive and Placing an Order
 
