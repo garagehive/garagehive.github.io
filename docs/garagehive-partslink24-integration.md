@@ -28,6 +28,9 @@ New Partslink24 users can get a free demo on the Partslink24 portal. Contact [Ga
 
    ![](media/garagehive-partslink24-setup3.png)
 
+
+[Go back to top](#top)
+
 ### Opening Partslink24 from Garage Hive and Placing an Order
 
    {% include youtube.html id="oLbBTzfjD_Y" %}
