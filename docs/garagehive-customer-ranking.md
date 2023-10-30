@@ -20,16 +20,17 @@ Garage Hive's customer ranking feature allows you to rate customers based on you
 
    ![](media/garagehive-customer-ranks-setup1.png)
 
-2. In the **Customer Ranks** page, enter the ranks that you would want rank your customer. In the column **Style** select each style that matches your the ranks, which also changes the colour of the rank.
+2. In the **Customer Ranks** page, enter the ranks you would like to use to rank your customer. 
+3. Choose the styles that correspond with your ranks in the **Style** column. This will also change the rank's colour.
 
    ![](media/garagehive-customer-ranks-setup2.png)
 
-3. When done adding the different ranks, exit the page.
-4. To enable the notification on the customer rank each time a new service document is created for the customer, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
+4. Once you've added all of the ranks, exit the page.
+5. To enable a notification on the customer rank whenever a new service document is created for the customer, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
 
    ![](media/garagehive-customer-ranks-setup3.png)
 
-5. Enable the **Prompt Customer Rank in Documents** slider, under the **General** FastTab.
+6. Enable the **Prompt Customer Rank in Documents** slider, under the **General** FastTab.
 
    ![](media/garagehive-customer-ranks-setup4.png)
 
@@ -42,7 +43,7 @@ Garage Hive's customer ranking feature allows you to rate customers based on you
 
    ![](media/garagehive-customer-ranking1.png)
 
-3. Select the customer's rank in the **Code** field and add a comment in the **Comment** textbox. Click **OK**.
+3. Select the customer's rank in the **Code** field and add a comment about the rank in the **Comment** textbox. Click **OK**.
 
    ![](media/garagehive-customer-ranking2.png)
 
