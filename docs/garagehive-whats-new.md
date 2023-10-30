@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 27th October 2023
+* Added the **Castrol Integration** with Garage Hive, which enables you to view oil types and capacities for the vehicle in a service document, [read more](garagehive-castrol-lookup.html){:target="_blank"}. This feature was first announced at **The Blend 2023**.
+
+   ![](media/castrol-integration1.png)
+
+* Added the **Partslin24 Integration** with Garage Hive, which enables you to search for parts in the Partslink24 portal using the vehicle's VIN, and order from authorised dealers, [read more](garagehive-partslink24-integration.html){:target="_blank"}. This feature was first announced at **The Blend 2023**.
+
+   ![](media/partslink24-integration1.png)
+
 ### 3rd October 2023
 * Added **MOT and Service** date check before posting a Jobsheet and when transitioning work status (by setup).
 
