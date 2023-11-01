@@ -8,7 +8,7 @@ title: DRAFT* - How to Use Recurring Events in Garage Hive
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-## How to Use Recurring Events in Garage Hive1
+## How to Use Recurring Events in Garage Hive
 In Garage Hive, recurring events are used for scheduling allocations that will happen again in the future, every time, or for an indefinite amount of time. They help with ensuring that the daily available time is accurate and that there is no need to continuously add allocations to the schedule. To add a recurring event in the schedule:
 
 1. Open the schedule and add an **allocation** to a resource.
@@ -36,7 +36,7 @@ In Garage Hive, recurring events are used for scheduling allocations that will h
 
    ![](media/garagehive-recurring-events6.png)
 
-8. If you want to deallocate the recurring allocation, right click on the allocation and select **Deallocate**. Click **Yes** in the next notification.
+8. If you want to deallocate the recurring allocation, right click on the allocation and select **Deallocate**. When the next prompt appears, click **Yes**.
 
    ![](media/garagehive-recurring-events8.png)
 
