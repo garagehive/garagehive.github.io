@@ -22,17 +22,17 @@ A Customer card in Garage Hive stores all the details about a customer. This inc
 ## Customer Card Details Sections
 The customer card is divided into several sub-categories, as listed below:
 
-1. **General Information**
+#### 1. General Information
 In the **General** section, you can add or view general customer details, such as the **Name**, assigned **No.** in the system, **External System No.**, **Credit Limit (LCY)**, whether they are **Blocked** or not, among other general information about the customer. Click on **Show More/less** in the top right of the **General** section, to reveal more fields or hide some of the fields.
 
    ![](media/garagehive-create-a-customer-card3.png)
 
-1. **Address & Contact**
+#### 2. Address & Contact
 The customer's address and contact details are contained in this section. After entering the address details, you can select **Show on Map** to view the exact location on maps.
 
    ![](media/garagehive-create-a-customer-card4.png)
 
-## **Invoicing**
+#### 3. Invoicing
 In the **Invoicing** section, the posting details of the customer are added here.
 
    ![](media/garagehive-create-a-customer-card5.png)
@@ -48,12 +48,12 @@ In the **Invoicing** section, the posting details of the customer are added here
 
    {% include tip.html title="Note" text="It is not recommended to create your own Gen. Bus. Posting Group, VAT Bus. Posting Group, or Customer Posting Group without first consulting a Support Team member." %}
 
-## **Payments**
+#### 4. Payments
 In the **Payments** section, we have the payment method, payment terms, reminder terms, and other related information about the customer's payment.
 
    ![](media/garagehive-create-a-customer-card6.png)
 
-## GDPR and Communication Policy
+#### 5. GDPR and Communication Policy
 In the GDPR and Communication Policy section, You can tick off the customer's communication preferences.
 
    ![](media/garagehive-create-a-customer-card9.png)
