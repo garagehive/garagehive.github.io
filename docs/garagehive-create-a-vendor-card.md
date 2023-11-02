@@ -1,106 +1,64 @@
 ---
 layout: docs
-title: Create a Vendor Card
+title: How to Create a Vendor Card in Garage Hive
 ---
 
-#   Create a Vendor Card
+<a name="top"></a>
 
-Within the Home Screen Select **Purchasing**
+# How to Create a Vendor Card in Garage Hive 
+In Garage Hive, a Vendor card is used to store all the relevant information about a vendor or supplier. This includes their name, address, phone number, email address, payment and invoicing details, and any other relevant information. You can easily create a Vendor card from the Role Centre or the Home Screen.
 
-Then Select **Vendors** 
+## Creating a Vendor Card From the Role Centre
+1. From the Role Centre, select **Purchasing**, followed by **Vendors**.
 
-![](media/garagehive-create-a-vendor-card1.png)
+   ![](media/garagehive-create-a-vendor-card1.png)
 
-Then Select + new 
+2. Click on **New** in the vendor list that opens. 
 
-![](media/garagehive-create-a-vendor-card2.png)
+   ![](media/garagehive-create-a-vendor-card2.png)
 
-#   You will now be able to start building the Vendor Card. 
+3. A new Vendor card will now be created, and you can start adding details about the Vendor.
 
-####    The Vendor Card is split down into several sub-categories. 
+## Vendor Card Details Sections
+The Vendor card is divided into several sub-categories, as listed below:
 
-##  GENERAL 
+#### 1. General Information
+In the **General** section, you can add or view general Vendor details, such as the **Name**, assigned **No.** in the system, **External System No.**, **Balance Due(LCY)**, whether they are **Blocked** or not, among other general information about the Vendor. Click on **Show More/less** in the top right of the **General** section, to reveal more fields or hide some of the fields. 
 
-![](media/garagehive-create-a-vendor-card3.png)
+   ![](media/garagehive-create-a-vendor-card3.png)
 
-A.  **No. (Sell to Customer)** - Give the Vendor a unique Vendor number.  
+#### 2. Address & Contact
+The Vendor's address and contact details are contained in this section. After entering the address details, you can select **Show on Map** to view the exact location on maps.
 
-B.  **External System No.** - If you are using a external accountancy system, place your accountancy system number for the vendor here. 
+   ![](media/garagehive-create-a-vendor-card4.png)
 
-C.  **Name** 
+#### 3. Invoicing
+In the **Invoicing** section, the posting details of the Vendor are added here. 
 
-D.  **Blocked** - If you want to block a vendor to prevent ordering from them select **All**.  
+   ![](media/garagehive-create-a-vendor-card6.png)
 
-E.  **Balance (LCY)**
+   - **VAT Registration No.** - Fill in the Vendor's VAT Registration Number.
+   - **Prices Including VAT** - If this is selected any purchase orders for this Vendor will always calculate prices including VAT.
+   - **Gen. Bus. Posting Group** - These are pre-defined fields to select from.
+   - **VAT Bus. Posting Group** - These are pre-defined fields to select from. Please note that the majority of the time this should be set up as **DOMESTIC.**
+   - **Vendor Posting Group** - These are pre-defined fields to select from. Please note that the majority of the time this should be set up as **DOMESTIC.**
+   - **Nonstock Item Prefix** - If you enter a prefix here for a non-stock item from this vendor, it will appear before the part number when it is brought into stock.
 
-F.  **Balance Due (LCY)** 
+#### 4. Payments
+In the **Payments** section, we have the application method, payment terms, payment method, and other related information about the vendor's payment.
 
-##  ADDRESS & CONTACT 
+   ![](media/garagehive-create-a-vendor-card7.png)
+   
+   - **Application Method** - Specifies how to apply payments to entries for this Vendor.
+   - **Payment Terms Code** - Specifies a formula that calculates the payment due date.
+   - **Payment Method Code** - Specifies how to make a payment, such as with bank transfers, cash or cheque.
+   - **Priority** - Specifies the importance of the vendor when suggesting payments using the Suggest Payments function.
+   - **Block Payment Tolerance** - Specifies if the vendor allows payment tolerance.
+   - **Preferred Bank Account** - Specifies the vendor bank account that will be used by default on the payment journal lines for export to a payment bank file.
+   - **Partner Type** - Specifies if a Vendor is a person or company.
+   - **Cash Flow Payment Terms** - Specifies a payment term that will be used for calculating cash flow.
 
-Select Lookup Address button.
 
-![](media/garagehive-create-a-vendor-card4.png)
-
-A.  **Postcode** - Complete Postcode. 
-
-B.  **Building No.** - You can either put the building no. in or leave this blank. <br>*If you leave this blank it will show all addresses within that postcode.** 
-
-![](media/garagehive-create-a-vendor-card5.png)
-
-**Address** - If you have used the Lookup Address, this will automatically be completed. If not you can complete manually. 
-
-**Phone No.** - Complete landline contact number, *(if available*).
-
-**Email** - Fill in Email information - This will allow you to email documents such as Invoices/Proforma/Vehicle Health Checks etc. 
-
-##  INVOICING 
-
-![](media/garagehive-create-a-vendor-card6.png)
-
-A. **VAT Registration No.** - Fill in the Vendor's VAT Registration Number. 
-
-B.  **Prices Including VAT** - If this is selected any purchase orders for this Vendor will always calculate prices including VAT. 
-
-C.  **Gen. Bus. Posting Group** - These are pre-defined fields to select from. 
-
-**DO NOT Create your own without discussing with a member of the Support Team.**  
-
-D.  **VAT Bus. Posting Group** - These are pre-defined fields to select from. 
-
-**DO NOT Create your own without discussing with a member of the Support Team.**  
-
-Please note that the majority of the time this should be set up as **DOMESTIC.**
-
-E.  **Vendor Posting Group** - These are pre-defined fields to select from. 
-
-**DO NOT Create your own without discussing with a member of the Support Team.**  
-
-Please note that the majority of the time this should be set up as **DOMESTIC.**
-
-F.  **Nonstock Item Prefix** - If you have a nonstock profile for this Vendor, if you put a prefix here this will show in front of the part number when you bring it into stock.  
-
-##  PAYMENTS
-
-![](media/garagehive-create-a-vendor-card7.png)
-
-**Application Method** - Specific how to apply payments to entries for this Vendor. 
-
-**Payment Terms Code** - Specifies a formula that calculates the payment due date.  
-
-**Payment Method Code** - Specifies how to make a payment, such as with bank transfers, cash or cheque. 
-
-**Priority** - Specifies the importance of the vendor when suggesting payments using the Suggest Payments function. 
-
-**Block Payment Tolerance** - Specifies if the vendor allows payment tolerance.  
-
-**Preferred Bank Account** - Specifies the vendor bank account that will be used by default on the payment journal lines for export to a payment bank file. 
-
-**Partner Type** - Specifies if a Vendor is a person or company. 
-
-**Cash Flow Payment Terms** - Specifies a payment term that will be used for calculating cash flow. 
-
-The Vendor Card can be edited by selecting the ✏ button within the Action Bar. 
-
-This is your Vendor Card created. 
+[Go back to top](#top)
 
 

@@ -13,17 +13,17 @@ A Customer card in Garage Hive stores all the details about a customer. This inc
 
    ![](media/garagehive-create-a-customer-card1.png)
 
-2. Click on **New** in the customer list that opens.
+2. Click on **New** in the Customer list that opens.
 
    ![](media/garagehive-create-a-customer-card2.png)
 
-3. A new customer card will now be created, and you can start adding details about the customer. 
+3. A new Customer card will now be created, and you can start adding details about the Customer. 
 
 ## Customer Card Details Sections
-The customer card is divided into several sub-categories, as listed below:
+The Customer card is divided into several sub-categories, as listed below:
 
 #### 1. General Information
-In the **General** section, you can add or view general customer details, such as the **Name**, assigned **No.** in the system, **External System No.**, **Credit Limit (LCY)**, whether they are **Blocked** or not, among other general information about the customer. Click on **Show More/less** in the top right of the **General** section, to reveal more fields or hide some of the fields.
+In the **General** section, you can add or view general Customer details, such as the **Name**, assigned **No.** in the system, **External System No.**, **Credit Limit (LCY)**, whether they are **Blocked** or not, among other general information about the Customer. Click on **Show More/less** in the top right of the **General** section, to reveal more fields or hide some of the fields.
 
    ![](media/garagehive-create-a-customer-card3.png)
 
@@ -33,12 +33,12 @@ The customer's address and contact details are contained in this section. After 
    ![](media/garagehive-create-a-customer-card4.png)
 
 #### 3. Invoicing
-In the **Invoicing** section, the posting details of the customer are added here.
+In the **Invoicing** section, the posting details of the Customer are added here.
 
    ![](media/garagehive-create-a-customer-card5.png)
 
-   - **Bill-to Customer** - This is the customer to whom the charge will be applied as well as the name that will be printed on the invoice. (*I.e. If you have a customer who had a lease car, you want their name to remain attached to the car. But you want the invoice to be charged to the lease company, you can change this here.*)
-   - **VAT Registration No.** - If the customer is registered for VAT, this can be filled in here.
+   - **Bill-to Customer** - This is the Customer to whom the charge will be applied as well as the name that will be printed on the invoice. (*I.e. If you have a customer who had a lease car, you want their name to remain attached to the car. But you want the invoice to be charged to the lease company, you can change this here.*)
+   - **VAT Registration No.** - If the Customer is registered for VAT, this can be filled in here.
    - **Promote Sell-to Cust.on Invoice** - Tick this box, if you are changing the Bill-to Customer, but you wish the Sell-to Customer's name to remain on the invoice.
    - **Gen. Bus. Posting Group** - These are pre-defined fields to select from.
    - **VAT Bus. Posting Group** - These are pre-defined fields to select from. Please note that the majority of the time this should be set up as **DOMESTIC.**
