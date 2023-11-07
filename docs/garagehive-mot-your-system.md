@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - How to MOT Your Garage Hive System
+title: DRAFT* - How to MOT (Health Check) Your Garage Hive System
 ---
 
 <a name="top"></a>
@@ -8,10 +8,10 @@ title: DRAFT* - How to MOT Your Garage Hive System
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-# How to MOT Your Garage Hive System
+# How to MOT (Health Check) Your Garage Hive System
 We have made a **Checklist Template** available to assist the garage in examining their system and making better use of it. It helps to go through the tiles and specify what needs to be done on each tile. This guarantees that your system is properly maintained and that its usage is optimised taking into account all of the processes carried out in the system, much like the MOT is performed on cars. To download the Checklist Template, use the link below.
 
-[**Download Checklist Template**](downloads/checklist-template.cltx)
+[**Download Checklist Template**](https://docs.garagehive.co.uk/docs/downloads/checklist-template.cltx)
 
 Once you have downloaded the **Checklist Template**, follow these steps to import and use it:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Templates**, and select the related link.
