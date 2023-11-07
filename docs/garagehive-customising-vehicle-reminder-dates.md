@@ -8,6 +8,7 @@ title: Customising Vehicle Reminder Dates
 # Customising Vehicle Reminder Dates
 1. [Adding a Default Period for a Vehicle Reminder Date](#adding-a-default-period-for-a-vehicle-reminder-date)
 2. [Changing the Default Period for the Vehicle Reminder Date Colour to Change to Red When Due](#changing-the-default-period-for-the-vehicle-reminder-date-colour-to-change-to-red-When-due)
+3. [Adding MOT and Service Dates to be Checked When Posting a Job](#adding-mot-and-service-dates-to-be-checked-when-posting-a-job)
 
 ### Adding a Default Period for a Vehicle Reminder Date
 Vehicle reminder dates in the Jobsheet and Vehicle Card can be customised to have a default period. Here is how you can customise the dates from the **Service Labour List** page:
@@ -31,7 +32,8 @@ Vehicle reminder dates in the Jobsheet and Vehicle Card can be customised to hav
 If you start to post the jobsheet without updating the **Service Due Date**, you will be prompted to do so before proceeding.
 
    ![](media/garagehive-vehicle-reminder-customisation5.gif)
-   
+
+
 [Go back to top](#top)
 
 ### Changing the Default Period for the Vehicle Reminder Date Colour to Change to Red When Due
@@ -55,5 +57,23 @@ If you start to post the jobsheet without updating the **Service Due Date**, you
    ![](media/garagehive-vehicle-reminder-date-colour4.png)
 
 5. The changes will be saved, and the **Vehicle Reminder Dates** will be updated as specified.
+
+
+[Go back to top](#top)
+
+### Adding MOT and Service Dates to be Checked When Posting a Job
+Here's how to add the MOT and Service Dates notifications, similar to the mileage notification, when posting a job:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter ****, and select the related link.
+
+   ![](media/garagehive-mot-service-dates-notification1.png)
+
+2. Under the **General** FastTab, enable the **Check MOT Due Date on Release** and **Check Service Due Date on Release** sliders.
+
+   ![](media/garagehive-mot-service-dates-notification2.png)
+
+3. Now, when posting a job, you will get the following notification.
+
+   ![](media/garagehive-mot-service-dates-notification3.png)
+
 
 [Go back to top](#top)

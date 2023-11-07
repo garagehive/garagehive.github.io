@@ -44,6 +44,8 @@ In the **Invoicing** section, the posting details of the Vendor are added here.
    - **Vendor Posting Group** - These are pre-defined fields to select from. Please note that the majority of the time this should be set up as **DOMESTIC.**
    - **Nonstock Item Prefix** - If you enter a prefix here for a non-stock item from this vendor, it will appear before the part number when it is brought into stock.
 
+   {% include tip.html title="Note" text="It is not recommended to create your own Gen. Bus. Posting Group, VAT Bus. Posting Group, or Vendor Posting Group without first consulting a Support Team member." %}
+
 #### 4. Payments
 In the **Payments** section, we have the application method, payment terms, payment method, and other related information about the vendor's payment.
 

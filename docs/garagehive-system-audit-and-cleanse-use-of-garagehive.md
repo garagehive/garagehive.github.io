@@ -199,6 +199,5 @@ These routines should be done on an annual basis.
 ### Annual Stock-Take
 After going through the entire auditing process, the final step is to take a physical inventory of the items in the system. Physical stock-takes enable comparisons between items in the system and those that are physically available. You cannot conduct a physical stock-take without first going through the system auditing processes. Follow this [link](garagehive-doing-physical-stock-take.html) to learn more about how to carry out a **Physical Stock-Take**.
 
-# Checking the power bi report weekly
 
 [Go back to top](#top)
