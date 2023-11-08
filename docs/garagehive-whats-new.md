@@ -16,7 +16,7 @@ The following is a list of all new Garage Hive features and updates:
    ![](media/partslink24-integration1.png)
 
 ### 3rd October 2023
-* Added **MOT and Service** date check before posting a Jobsheet and when transitioning work status (by setup).
+* Added **MOT and Service** date check before posting a Jobsheet and when transitioning work status (by setup), [read more](garagehive-customising-vehicle-reminder-dates.html#adding-mot-and-service-dates-to-be-checked-when-posting-a-job){:target="_blank"}.
 
    ![](media/mot-and-service-check.png)
 

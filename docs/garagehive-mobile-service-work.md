@@ -9,7 +9,7 @@ title: DRAFT* - How to Manage Mobile Service Work in Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # How to Manage Mobile Service Work in Garage Hive
-One useful feature available in Garage Hive is the ability to manage mobile services. This means that users can create a Jobsheet and manage work that isn't being done at the garage, such as when a customer requires a tyre change from a location other than the garage. As a result, customers can receive more efficient and personalised service, and easily have it recorded in the system. To enable the Mobile Service work in the system:
+One useful feature available in Garage Hive is the ability to manage mobile services. This means that users can create a Jobsheet and manage work that isn't being done at the garage, such as when a customer requires a tyre change from a location other than the garage. As a result, customers can receive more efficient and personalised service, and easily have it recorded in the system. Currently to do this, Garage Hive has **Service Address** and **Online Map** features. To enable it in the system:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
 
    ![](media/garagehive-mobile-service1.png)
