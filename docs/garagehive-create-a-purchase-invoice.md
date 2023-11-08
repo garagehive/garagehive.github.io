@@ -1,74 +1,59 @@
 ---
 layout: docs
-title: Create a Purchase Invoice 
+title: How to Create a Purchase Invoice in Garage Hive
 ---
 
-# Create a Purchase Invoice
+<a name="top"></a>
 
-### Why Purchase Invoice and not Purchase Order?  
+# How to Create a Purchase Invoice in Garage Hive
+In this article, the first question to answer is why use a **Purchase Invoice** instead of a **Purchase Order**? The best answer to that question is that Purchase Invoices are used when the item being purchased does not need to be linked with a Jobsheet. 
 
-{% include youtube.html id="cRcPX7F5AvU" %}
+For instance, if you require a workshop tool for use in your garage, you need to create a Purchase Invoice, so it can be posted directly to the relevant G/L Account. 
 
-Purchase Invoices are used when you do not require the item which is being purchased to be linked with a jobsheet. 
+Purchase Invoices can also be used for any bills coming into the business, such as tyre Disposal Invoices, Utility Bills, etc.
 
-i.e. A workshop tool, via a Purchase Invoice this can be posted directly to the relevant G/L Account.  
+To create a **Purchase Invoice:**
+1. From the Role Centre/Home Screen, select **Purchasing** followed by **Purchase Invoices.**   
 
-Also, Purchase Invoices can used for any bills coming into the business. 
+   ![](media/garagehive-create-a-purchase-invoice1.png)
 
-i.e. Tyre Disposal Invoices, Utility Bills etc.  
+2. In the **Purchase Invoices** list, select **New** to create a new a Purchase Invoice.
 
-Within the home screen select **Purchasing** followed by **Purchase Invoices**   
+   ![](media/garagehive-create-a-purchase-invoice2.png)
 
-![](media/garagehive-create-a-purchase-invoice1.png)
+3. Select the **Vendor Name**, and enter the **Vendor Invoice No.**.
 
-Then select **+new**
+   ![](media/garagehive-create-a-purchase-invoice3.png)
 
-![](media/garagehive-create-a-purchase-invoice2.png)
+4. In the **Lines** sub-page, fill in the details of what to purchase. 
+   - **Type:** Choose relevant type.
+     - G/L Account
+     - Item
+     - Fixed Asset
+     - Charge (Item)
+     - External Service 
+   - **No.** - Input Part number/ G/L Account etc.
+   - **Description/Comment** - Type what you will want to appear on the purchase invoice.
+   - **Location Code** - This will usually be **MAIN**. If you are part of a multi branch ensure correct Branch is selected.
+   - **Quantity** - Fill in quantity as per your supplier invoice.
+   - **Unit of Measure Code** - Select relevant Unit of Measure.
+   - **Direct Unit Cost Incl. VAT** - Insert cost to use including VAT (This can be changed not to include VAT within the Vendor Card). 
 
-![](media/garagehive-create-a-purchase-invoice3.png)
+   ![](media/garagehive-create-a-purchase-invoice4.png)
 
-A.  **No.** - This is pre populated when you select a Vendor Name. 
+5. Once you confirm that the vendor invoice's cost and document date matches with those on the **Purchase Invoice** and that the posting date is correct, select **Posting** and then **Post** from the menu bar.
 
-B.  **Vendor Name** - Choose your Vendor Name  
+   ![](media/garagehive-create-a-purchase-invoice5.png)
 
-C.  **Vendor Invoice No.** - Input the Vendor Invoice Number here. 
+6. After that, select **Yes** when prompted *Do you want to post the invoice?* 
 
-![](media/garagehive-create-a-purchase-invoice4.png)
+   ![](media/garagehive-create-a-purchase-invoice6.png)
 
-Fill in the lines 
+7. The purchase will now be posted and recorded in the system.  
 
-**Type**    - Choose relevant type 
 
-        -   G/L Account
-        -   Item 
-        -   Fixed Asset 
-        -   Charge (Item) 
-        -   External Service 
+[Go back to top](#top)
 
-**No.** - Input Part number/ G/L Account etc.
+### See Also 
 
-**Description/Comment** - Type what you will want to appear on the purchase invoice. 
-
-**Location Code** - This will usually be **MAIN**. If you are part of a multi branch ensure correct Branch is selected. 
-
-**Quantity** - Fill in quantity as per your supplier invoice. 
-
-**Unit of Measure Code**    - Select relevant Unit of Measure. 
-
-**Direct Unit Cost Incl. VAT** - Insert cost to us including VAT (This can be changes not to include VAT within the Vendor Card) 
-
-When you are happy that the cost within the Purchase Invoices matches your Vendor Invoice, check the document date matches the invoice and posting date is correct.
-
-Within the Action Bar, Select **Posting** followed by **Post** 
-
-![](media/garagehive-create-a-purchase-invoice5.png)
-
-Then Select Yes to Do you want to post the invoice. 
-
-![](media/garagehive-create-a-purchase-invoice6.png)
-
-This will be your Purchase Invoice processed.  
-
-#   See Also
-
- [Create a Vendor Card](/docs/garagehive-create-a-vendor-card.html "Create a Vendor Card") 
+[Create a Vendor Card](/docs/garagehive-create-a-vendor-card.html "Create a Vendor Card"){:target="_blank"} 
