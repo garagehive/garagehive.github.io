@@ -556,8 +556,6 @@
           url: /docs/garagehive-autodata-labour-time-adjustment.html
         - name: Creating a Vehicle Inspection Checklist from Autodata
           url: /docs/garagehive-creating-a-vehicle-inspection-checklist-from-autodata.html
-    - name: GSF Integration
-      url: /docs/garagehive-gsf-integration.html
     - name: LKQ Euro Car Parts Integration
       url: /docs/garagehive-ecp-integration.html
     - name: Tyre Scanner Integration
@@ -570,6 +568,12 @@
       url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
     - name: Humm Financing Integration
       url: /docs/garagehive-humm-financing.html
+    - name: GSF Integration
+      url: /docs/garagehive-gsf-integration.html
+    - name: Micheldever Integration
+      url: /docs/garagehive-micheldever-integration.html
+    - name: Partslink24 Integration
+      url: /docs/garagehive-partslink24-integration.html
     - name: Accountancy System Integrations
       url: /docs/garagehive-external-accountancy-integration.html
 - name: Garage Industry Trends
