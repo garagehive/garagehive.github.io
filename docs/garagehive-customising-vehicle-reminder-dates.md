@@ -71,7 +71,7 @@ Here's how to add the MOT and Service Dates notifications, similar to the mileag
 
    ![](media/garagehive-mot-service-dates-notification2.png)
 
-3. Now, when posting a job, you will get the following notification.
+3. You will now receive the following notification when you post a job.
 
    ![](media/garagehive-mot-service-dates-notification3.png)
 
