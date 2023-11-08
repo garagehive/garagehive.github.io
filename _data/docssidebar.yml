@@ -325,6 +325,8 @@
   subitems:
     - name: Understanding the Schedule
       url: /docs/garagehive-understanding-the-schedule.html
+    - name: How to Use Recurring Events
+      url: /docs/garagehive-recurring-events.html
     - name: Adding a Resource in the System (Person or Machine)
       url: /docs/garagehive-adding-a-resource.html
     - name: How To View Service History
