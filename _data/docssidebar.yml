@@ -302,7 +302,9 @@
     - name: How to Change a Customer's Vehicle Registration Number in Garage Hive
       url: /docs/garagehive-change-registration-number.html
     - name: How to Use Customer Ranking
-      url: /docs/garagehive-customer-ranking.html 
+      url: /docs/garagehive-customer-ranking.html
+    - name: How to Manage Mobile Service Work
+      url: /docs/garagehive-mobile-service-work.html 
 - name: Technicians Operations
   url: "#"
   subitems:
