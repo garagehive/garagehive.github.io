@@ -55,8 +55,8 @@ For the latest information, see the app in the Windows Store, App Store, or Goog
 | :-------------------------- | :-------------------------------------------------------- |
 | Windows                     | Windows 11 Pro, Enterprise, or Education (64-bit edition) |
 | Windows                     | Windows 10 Pro, Enterprise, or Education (64-bit edition) |
-| iOS (mobile and tablet)     | 14 or later                                               |
-| Android (mobile and tablet) | 7.1.1 or later                                            |
+| iOS (mobile and tablet)     | 13 or later                                               |
+| Android (mobile and tablet) | 11 or later                                               |
 
 
 ### Additional software	
