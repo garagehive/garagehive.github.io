@@ -11,7 +11,7 @@ The following is a list of all new Garage Hive features and updates:
 
    ![](media/castrol-integration1.png)
 
-* Added the **Partslin24 Integration** with Garage Hive, which enables you to search for parts in the Partslink24 portal using the vehicle's VIN, and order from authorised dealers, [read more](garagehive-partslink24-integration.html){:target="_blank"}. This feature was first announced at **The Blend 2023**.
+* Added the **Partslink24 Integration** with Garage Hive, which enables you to search for parts in the Partslink24 portal using the vehicle's VIN, and order from authorised dealers, [read more](garagehive-partslink24-integration.html){:target="_blank"}. This feature was first announced at **The Blend 2023**.
 
    ![](media/partslink24-integration1.png)
 
