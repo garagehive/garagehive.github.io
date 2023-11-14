@@ -8,7 +8,7 @@ These training modules are designed to train **Service Advisor** users on the ba
 
 It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. 
 
-## Module 1 - Getting started
+## Module 1 - Getting Started
 
 Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
 
