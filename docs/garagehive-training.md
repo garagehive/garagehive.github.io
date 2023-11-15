@@ -4,21 +4,20 @@ title: Garage Hive Training Modules for Beginners - Service Advisor
 --- 
 
 # Garage Hive Training Modules: Service Advisor
+## Module 1 - Getting Started
 These training modules are designed to train **Service Advisor** users on the basic processes in Garage Hive. Users will be tested on all the modules before your go-live date and scored on progress. 
 
 It is important to understand all elements of the process to benefit from all the value Garage Hive has to offer. 
 
 In the training Modules we'll cover the following topics:
 
-   | Module       | Topic                                                                                                                                                  |
-   | :----------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
-   | **Module 1** | Getting Started (This includes the Role Centre, Creating a Booking and Populating a Jobsheet)                                                          |
-   | **Module 2** | Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order) |
-   | **Module 3** | Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)                                      |
-   | **Module 4** | Estimates and Vehicle Inspections (This Includes Creating an Estimate, Procoessing a Vehicle Inspection)                                               |
+   |              |                                                                                                                                                                                                               |
+   | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+   | **Module 1** | [Getting Started (This includes the Role Centre, Creating a Booking and Populating a Jobsheet)](garagehive-training.html){:target="_blank"}                                                                   |
+   | **Module 2** | [Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order)](garagehive-training-module-2.html){:target="_blank"} |
+   | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html){:target="_blank"}                                      |
+   | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html){:target="_blank"}                                                |
 
-
-## Module 1 - Getting Started
 
 Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
 
@@ -38,7 +37,7 @@ Learn more: [Video: Welcome to your Role Centre](https://www.youtube.com/watch?v
 ### How to Create a Booking
 Here are the steps to follow to make a booking using the Schedule from the Role Centre:
 
-   | Steps      | Details                                                                                                                                                                                       |
+   |            |                                                                                                                                                                                               |
    | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
    | **Step 1** | Open the Schedule.                                                                                                                                                                            |
    | **Step 2** | On the left-hand side, select the resource you want to book. Then, click and hold the left mouse button from the starting time to the ending time to choose the desired time for the booking. |
@@ -56,7 +55,7 @@ Learn more: [Video: How to create a booking](https://www.youtube.com/watch?v=MJq
 Here are a few methods on how to populate the Jobsheet:
 1. **Manually Populating a Jobsheet** - This involves adding the items and labours one by one in the **Lines** FastTab.
 
-   | Steps      | Details                                                                                                                              |
+   |            |                                                                                                                                      |
    | :--------- | :----------------------------------------------------------------------------------------------------------------------------------- |
    | **Step 1** | Open the Jobsheet.                                                                                                                   |
    | **Step 2** | Scroll down to the Lines FastTab.                                                                                                    |
@@ -66,7 +65,7 @@ Here are a few methods on how to populate the Jobsheet:
 
 2. **Service Packages** - These are pre-created packages which includes items and labours put together to help create jobs faster, simplify job pricing, increase consistency and so on.
 
-   | Steps      | Details                                                                                                                                                    |
+   |            |                                                                                                                                                            |
    | :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
    | **Step 1** | Open the Jobsheet.                                                                                                                                         |
    | **Step 2** | Select Lookup from the Menu bar, followed by Service Packages.                                                                                             |
@@ -75,7 +74,7 @@ Here are a few methods on how to populate the Jobsheet:
 
 3. **Repair Times** - This refers to the vehicle repair information obtained from external providers, like Autodata, which includes both labours and items.
    
-   | Steps      | Details                                                                                                                                            |
+   |            |                                                                                                                                                    |
    | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
    | **Step 1** | Open the Jobsheet.                                                                                                                                 |
    | **Step 2** | From the menu bar, Select Lookup, and then Repair Times.                                                                                           |
@@ -97,4 +96,10 @@ Learn more: [Video: How to populate a Jobsheet](https://www.youtube.com/watch?v=
 * [Learn more about the Service Packages](garagehive-service-packages.html){:target="_blank"}
 
 
-[**Continue to Module 2**](garagehive-training-module-2.html)
+|              |                                                                                                                                                                                                               |
+| :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Module 1** | [Getting Started (This includes the Role Centre, Creating a Booking and Populating a Jobsheet)](garagehive-training.html){:target="_blank"}                                                                   |
+| **Module 2** | [Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order)](garagehive-training-module-2.html){:target="_blank"} |
+| **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html)                                                        |
+| **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html)                                                                  |
+
