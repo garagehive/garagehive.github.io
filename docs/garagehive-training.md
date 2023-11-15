@@ -17,6 +17,7 @@ In the training Modules we'll cover the following topics:
    | **Module 2** | [Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order)](garagehive-training-module-2.html){:target="_blank"} |
    | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html){:target="_blank"}                                      |
    | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html){:target="_blank"}                                                |
+   |              |                                                                                                                                                                                                               |
 
 
 Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
@@ -44,6 +45,7 @@ Here are the steps to follow to make a booking using the Schedule from the Role 
    | **Step 3** | You will be presented with different allocation types. You can choose the one that you require and click OK.                                                                                  |
    | **Step 4** | If you select the existing Jobsheet, choose from the list of created Jobsheets and click OK.                                                                                                  |
    | **Step 5** | If you select a standard event, choose from the list of available standard events and click OK.                                                                                               |
+   |            |                                                                                                                                                                                               |
 
 With the allocations, the booking schedule should look more like this:
 
@@ -62,6 +64,7 @@ Here are a few methods on how to populate the Jobsheet:
    | **Step 3** | Select the type of entity to add in the Type column. It can either be Item or Labour.                                                |
    | **Step 4** | Then select the number for the Item or Labour in the No. column. If the item is not in stock, you can use a Placeholder Item number. |
    | **Step 5** | Repeat this for all the items and labour you want to add.                                                                            |
+   |            |                                                                                                                                      |
 
 2. **Service Packages** - These are pre-created packages which includes items and labours put together to help create jobs faster, simplify job pricing, increase consistency and so on.
 
@@ -71,6 +74,7 @@ Here are a few methods on how to populate the Jobsheet:
    | **Step 2** | Select Lookup from the Menu bar, followed by Service Packages.                                                                                             |
    | **Step 3** | Select the Service Package to add and click OK. If you don't have service packages created, you can learn how to create one and add it or contact support. |
    | **Step 4** | The Service Package Items and Labour is added to the Lines FastTab.                                                                                        |
+   |            |                                                                                                                                                            |
 
 3. **Repair Times** - This refers to the vehicle repair information obtained from external providers, like Autodata, which includes both labours and items.
    
@@ -82,6 +86,7 @@ Here are a few methods on how to populate the Jobsheet:
    | **Step 4** | Select the correct Repair Category to add, followed by the repair groups.                                                                          |
    | **Step 5** | In the Repair Summary page, select the checkbox in the include column for the lines you want to add to the Jobsheet.                               |
    | **Step 6** | After selecting the lines you want, click on the Add Lines to Document option from the menu bar. This will add the selected lines to the Jobsheet. |
+   |            |                                                                                                                                                    |
 
 Learn more: [Video: How to populate a Jobsheet](https://www.youtube.com/watch?v=ABnKqYB4f3A){:target="_blank"}
 

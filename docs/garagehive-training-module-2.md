@@ -18,6 +18,7 @@ In the training Modules we'll cover the following topics:
    | **Module 2** | [Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order)](garagehive-training-module-2.html){:target="_blank"} |
    | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html){:target="_blank"}                                      |
    | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html){:target="_blank"}                                                |
+   |              |                                                                                                                                                                                                               |
 
 Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a Jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
 
@@ -32,6 +33,7 @@ Here's how to order items through the schedule:
    | **Step 3** | Choose the vendor to order from in the Vendor No. column.                                                                               |
    | **Step 4** | In the Menu Bar, go to Parts and select Create Purchase Order(s). This will generate the Purchase Order(s).                             |
    | **Step 5** | In the Lines FastTab, locate the Special Order Purchase No. column on the right, and click on the purchase order link that was created. |
+   |            |                                                                                                                                         |
 
 Learn more: [Video: How to create a purchase order](https://www.youtube.com/watch?v=M1KB7dSiZrY){:target="_blank"}
 
@@ -49,6 +51,7 @@ Follow these steps to process a Purchase Order after items have been received:
    | **Step 7** | In the Menu Bar, go to Process and select Post.                                                                                                                                                                    |
    | **Step 8** | Click OK, to Receive and Invoice the parts.                                                                                                                                                                        |
    | **Step 9** | From the list of Purchase Orders, click on the Purchase Order you want to process so as to open it.                                                                                                                |
+   |            |                                                                                                                                                                                                                    |
 
 Learn more: [Video: How to process a purchase order/invoice](https://www.youtube.com/watch?v=M1KB7dSiZrY){:target="_blank"}
 
@@ -64,6 +67,7 @@ Here is how to view the report:
    | :--------- | :------------------------------------------------------------------------------------------------------------------------------------- |
    | **Step 1** | Go to the Role Centre and click on Reports from the Actions Menu. Then, select Additional and click on Items to Return.                |
    | **Step 2** | This will open the Items to Return Report. To review an item's history, choose the item and select History Overview from the Menu Bar. |
+   |            |                                                                                                                                        |
 
 Learn more: [Video: How to process a purchase order/invoice](https://www.youtube.com/watch?v=EyVbV50EwaQ){:target="_blank"}
 
@@ -80,6 +84,7 @@ Learn more: [Video: How to process a purchase order/invoice](https://www.youtube
    | **Step 7** | When you receive the Credit Note from the supplier, ensure that it matches the Purchase Return Order details. Then, enter the Vendor Cr. Memo No. as the one on the Credit Note from the supplier. |
    | **Step 8** | Set the Posting Date as today and the Document Date as the date on the Credit Note.                                                                                                                |
    | **Step 9** | Click Process and select Post. In the pop-up notification, choose Invoice and click OK.                                                                                                            |
+   |            |                                                                                                                                                                                                    |
 
 Learn more: [Video: How to create a Purchase Return Order](https://www.youtube.com/watch?v=X81T5UAOTNU){:target="_blank"}
 
