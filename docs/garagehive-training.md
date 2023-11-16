@@ -3,6 +3,8 @@ layout: docs
 title: Garage Hive Training Modules for Beginners - Service Advisor
 --- 
 
+<a name="top"></a>
+
 # Garage Hive Training Modules: Service Advisor
 ## Module 1 - Getting Started
 These training modules are designed to train **Service Advisor** users on the basic processes in Garage Hive. Users will be tested on all the modules before your go-live date and scored on progress. 
@@ -17,7 +19,6 @@ In the training Modules we'll cover the following topics:
    | **Module 2** | [Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order)](garagehive-training-module-2.html){:target="_blank"} |
    | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html){:target="_blank"}                                      |
    | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html){:target="_blank"}                                                |
-   |              |                                                                                                                                                                                                               |
 
 
 Module 1 looks at logging into Garage Hive for the first time, creating a booking and populating a jobsheet with some labours and items. 
@@ -108,3 +109,5 @@ Learn more: [Video: How to populate a Jobsheet](https://www.youtube.com/watch?v=
 | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html)                                                        |
 | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html)                                                                  |
 
+
+[Go back to top](#top)
