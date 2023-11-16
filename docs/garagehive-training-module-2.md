@@ -9,6 +9,7 @@ title: Garage Hive Training Module 2 for Beginners - Service Advisor
 We are currently reviewing this article before it is published, check back later.
 
 ## Module 2 - Purchasing
+Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a Jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
 
 In the training Modules we'll cover the following topics:
 
@@ -19,8 +20,6 @@ In the training Modules we'll cover the following topics:
    | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html){:target="_blank"}                                      |
    | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Processing a Vehicle Inspection)](garagehive-training-module-4.html){:target="_blank"}                                                |
    |              |                                                                                                                                                                                                               |
-
-Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a Jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
 
 
 #### How to Create a Purchase Order
@@ -102,3 +101,6 @@ Learn more: [Video: How to create a Purchase Return Order](https://www.youtube.c
 | **Module 2** | [Purchasing (This includes Creating a Purchase Order, Processing a Purchase Order, Viewing Items to Return Report and Creating a Purchase Return Order)](garagehive-training-module-2.html) |
 | **Module 3** | [Processing a Jobsheet and Invoice (This includes Processing a Vehicle Arriving, Processing a Jobsheet to Invoice)](garagehive-training-module-3.html)                                      |
 | **Module 4** | [Estimates and Vehicle Inspections (This Includes Creating an Estimate, Procoessing a Vehicle Inspection)](garagehive-training-module-4.html)                                               |
+
+
+[Go back to top](#top)
