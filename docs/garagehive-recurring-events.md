@@ -29,7 +29,7 @@ In Garage Hive, recurring events are used for scheduling allocations that will h
 
    ![](media/garagehive-recurring-events5.png)
 
-7. To allocate the dates that aren't yet allocated, uncheck the **Unavailable Date** field and select **Allocate** from the menu bar. Click **Close**.
+7. To allocate the dates that aren't yet allocated, untick the **Unavailable Date** field and select **Allocate** from the menu bar. Click **Close**.
 
    ![](media/garagehive-recurring-events6.png)
 
