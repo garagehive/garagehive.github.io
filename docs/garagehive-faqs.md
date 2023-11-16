@@ -135,12 +135,12 @@ Yes, a Jobsheet can be split. See the step-by-step instructions below.
 
    ![](media/garagehive-faqs5.png)
 
-2. Scroll down to the **Service Splitting Lines** FastTab and uncheck the lines in the **Include** column that you want to put on a separate Jobsheet.
-3. After unchecking these, go to the menu bar and select **Split**.
+2. Scroll down to the **Service Splitting Lines** FastTab and untick the lines in the **Include** column that you want to put on a separate Jobsheet.
+3. After unticking these, go to the menu bar and select **Split**.
 
    ![](media/garagehive-faqs6.png)
 
-4. You will then see a pop-up message informing you of the new Jobsheet number for the lines you have unchecked.
+4. You will then see a pop-up message informing you of the new Jobsheet number for the lines you have unticked.
 5. You will now have two Jobsheets open for this customer/vehicle.
 
 [Go back to top](#top)
