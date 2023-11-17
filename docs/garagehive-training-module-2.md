@@ -34,6 +34,8 @@ Here's how to order items through the schedule:
    | **Step 5** | In the Lines FastTab, locate the Special Order Purchase No. column on the right, and click on the purchase order link that was created. |
    |            |                                                                                                                                         |
 
+   ![](media/garagehive-training-purchase-order.png)
+
 Learn more: [Video: How to create a purchase order](https://www.youtube.com/watch?v=M1KB7dSiZrY){:target="_blank"}
 
 #### How to Process a Purchase Order/Invoice
@@ -49,8 +51,9 @@ Follow these steps to process a Purchase Order after items have been received:
    | **Step 6** | Add the prices of the items, enter the Vendor Invoice No. to match the invoice you’ve received from the vendor, enter the Posting Date to be today’s date, and the Document Date to match the Vendor’s Invoice No. |
    | **Step 7** | In the Menu Bar, go to Process and select Post.                                                                                                                                                                    |
    | **Step 8** | Click OK, to Receive and Invoice the parts.                                                                                                                                                                        |
-   | **Step 9** | From the list of Purchase Orders, click on the Purchase Order you want to process so as to open it.                                                                                                                |
    |            |                                                                                                                                                                                                                    |
+
+   ![](media/garagehive-training-process-purchase-order.png)
 
 Learn more: [Video: How to process a purchase order/invoice](https://www.youtube.com/watch?v=M1KB7dSiZrY){:target="_blank"}
 
@@ -68,6 +71,8 @@ Here is how to view the report:
    | **Step 2** | This will open the Items to Return Report. To review an item's history, choose the item and select History Overview from the Menu Bar. |
    |            |                                                                                                                                        |
 
+   [](media/garagehive-training-items-to-return.png)
+
 Learn more: [Video: How to process a purchase order/invoice](https://www.youtube.com/watch?v=EyVbV50EwaQ){:target="_blank"}
 
 #### How to create a purchase return order
@@ -84,6 +89,8 @@ Learn more: [Video: How to process a purchase order/invoice](https://www.youtube
    | **Step 8** | Set the Posting Date as today and the Document Date as the date on the Credit Note.                                                                                                                |
    | **Step 9** | Click Process and select Post. In the pop-up notification, choose Invoice and click OK.                                                                                                            |
    |            |                                                                                                                                                                                                    |
+
+   [](media/garagehive-training-purchase-return-order.png)
 
 Learn more: [Video: How to create a Purchase Return Order](https://www.youtube.com/watch?v=X81T5UAOTNU){:target="_blank"}
 
