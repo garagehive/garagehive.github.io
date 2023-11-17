@@ -44,9 +44,9 @@ Here are the steps to follow to make a booking using the Schedule from the Role 
    | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
    | **Step 1** | Open the Schedule.                                                                                                                                                                            |
    | **Step 2** | On the left-hand side, select the resource you want to book. Then, click and hold the left mouse button from the starting time to the ending time to choose the desired time for the booking. |
-   | **Step 3** | You will be presented with different allocation types. You can choose the one that you require and click OK.                                                                                  |
-   | **Step 4** | If you select the existing Jobsheet, choose from the list of created Jobsheets and click OK.                                                                                                  |
-   | **Step 5** | If you select a standard event, choose from the list of available standard events and click OK.                                                                                               |
+   | **Step 3** | You will be presented with different **allocation types**. You can choose the one that you require and click **OK**.                                                                          |
+   | **Step 4** | If you select the existing Jobsheet, choose from the list of created Jobsheets and click **OK**.                                                                                              |
+   | **Step 5** | If you select a **Standard Event**, choose from the list of available standard events and click **OK**.                                                                                       |
    |            |                                                                                                                                                                                               |
 
 With the allocations, the booking schedule should look more like this:
@@ -59,40 +59,40 @@ Learn more: [Video: How to create a booking](https://www.youtube.com/watch?v=MJq
 Here are a few methods on how to populate the Jobsheet:
 1. **Manually Populating a Jobsheet** - This involves adding the items and labours one by one in the **Lines** FastTab.
 
-   |            |                                                                                                                                      |
-   | :--------- | :----------------------------------------------------------------------------------------------------------------------------------- |
-   | **Step 1** | Open the Jobsheet.                                                                                                                   |
-   | **Step 2** | Scroll down to the Lines FastTab.                                                                                                    |
-   | **Step 3** | Select the type of entity to add in the Type column. It can either be Item or Labour.                                                |
-   | **Step 4** | Then select the number for the Item or Labour in the No. column. If the item is not in stock, you can use a Placeholder Item number. |
-   | **Step 5** | Repeat this for all the items and labour you want to add.                                                                            |
-   |            |                                                                                                                                      |
+   |            |                                                                                                                                              |
+   | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
+   | **Step 1** | Open the Jobsheet.                                                                                                                           |
+   | **Step 2** | Scroll down to the **Lines** FastTab.                                                                                                        |
+   | **Step 3** | Select the type of entity to add in the **Type** column. It can either be **Item** or **Labour**.                                            |
+   | **Step 4** | Then select the number for the Item or Labour in the **No.** column. If the item is not in stock, you can use a **Placeholder Item** number. |
+   | **Step 5** | Repeat this for all the items and labour you want to add.                                                                                    |
+   |            |                                                                                                                                              |
 
    ![](media/garagehive-training-manually-populate-a-jobsheet.png)
 
 2. **Service Packages** - These are pre-created packages which includes items and labours put together to help create jobs faster, simplify job pricing, increase consistency and so on.
 
-   |            |                                                                                                                                                            |
-   | :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-   | **Step 1** | Open the Jobsheet.                                                                                                                                         |
-   | **Step 2** | Select Lookup from the Menu bar, followed by Service Packages.                                                                                             |
-   | **Step 3** | Select the Service Package to add and click OK. If you don't have service packages created, you can learn how to create one and add it or contact support. |
-   | **Step 4** | The Service Package Items and Labour is added to the Lines FastTab.                                                                                        |
-   |            |                                                                                                                                                            |
+   |            |                                                                                                                                                                                                                          |
+   | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+   | **Step 1** | Open the Jobsheet.                                                                                                                                                                                                       |
+   | **Step 2** | Select **Lookup** from the Menu bar, followed by **Service Packages**.                                                                                                                                                   |
+   | **Step 3** | Select the **Service Package** to add and click **OK**. If you don't have service packages created, you can [learn how](garagehive-service-packages.html){:target="_blank"} to create one and add it or contact support. |
+   | **Step 4** | The Service Package Items and Labour is added to the Lines FastTab.                                                                                                                                                      |
+   |            |                                                                                                                                                                                                                          |
 
    ![](media/garagehive-training-service-packages-populate-a-jobsheet.png)
 
 3. **Repair Times** - This refers to the vehicle repair information obtained from external providers, like Autodata, which includes both labours and items.
    
-   |            |                                                                                                                                                    |
-   | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-   | **Step 1** | Open the Jobsheet.                                                                                                                                 |
-   | **Step 2** | From the menu bar, Select Lookup, and then Repair Times.                                                                                           |
-   | **Step 3** | Double-check the vehicle details to ensure that the correct data is pulled.                                                                        |
-   | **Step 4** | Select the correct Repair Category to add, followed by the repair groups.                                                                          |
-   | **Step 5** | In the Repair Summary page, select the checkbox in the include column for the lines you want to add to the Jobsheet.                               |
-   | **Step 6** | After selecting the lines you want, click on the Add Lines to Document option from the menu bar. This will add the selected lines to the Jobsheet. |
-   |            |                                                                                                                                                    |
+   |            |                                                                                                                                                        |
+   | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+   | **Step 1** | Open the Jobsheet.                                                                                                                                     |
+   | **Step 2** | From the menu bar, Select **Lookup**, and then **Repair Times**.                                                                                       |
+   | **Step 3** | Double-check the vehicle details to ensure that the correct data is pulled.                                                                            |
+   | **Step 4** | Select the correct **Repair Category** to add, followed by the **Repair Groups**.                                                                      |
+   | **Step 5** | In the **Repair Summary** page, select the checkbox in the **include** column for the lines you want to add to the Jobsheet.                           |
+   | **Step 6** | After selecting the lines you want, click on the **Add Lines to Document** option from the menu bar. This will add the selected lines to the Jobsheet. |
+   |            |                                                                                                                                                        |
 
    ![](media/garagehive-training-repair-times-populate-a-jobsheet.png)
 
