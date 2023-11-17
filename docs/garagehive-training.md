@@ -31,13 +31,14 @@ Your Role Centre Looks as shown below:
 1. **Navigation Menu:** The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.The top-level navigation menu provides access to the main roles of the business, with the option to expand submenus relevant to the main roles. They include Service, Purchasing, Catalogues and Posted/Archived Documents.
 2. **Navigation Bar:** The second-level navigation menu provides access to the most useful entities in your business process, such as your customer, their vehicle and item data stored on the system.
 3. **Menu Bar:** The menu bar provides submenus of the most often used tasks that enable you to create a relevant page quickly.
-4. **Data Tiles:** Each tile provides a visual representation of business data, such as total Jobsheets open and vehicle inspections, for the vehicles in your workshop booked in for repairs. These tiles will also change to red when action needs to be taken, which prompts you or your service advisor to open it to complete a task relevant to that tile.
-5. **Web Links Area:** This area allows you to add commonly used web links such as Power BI, tyre or parts suppliers so you can click on them and open them up for easier access. 
+4. **Data Tiles:** Each tile provides a visual representation of business data, such as total Jobsheets open and vehicle inspections, for the vehicles in your workshop booked in for repairs. These tiles will also change to red when action needs to be taken, which prompts you or your service advisor to open it to complete a task relevant to that tile. 
 
 Learn more: [Video: Welcome to your Role Centre](https://www.youtube.com/watch?v=R_mLcdbFWdo){:target="_blank"}
 
 ### How to Create a Booking
 Here are the steps to follow to make a booking using the Schedule from the Role Centre:
+
+   ![](media/garagehive-module-create-a-booking.png)
 
    |            |                                                                                                                                                                                               |
    | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,6 +68,8 @@ Here are a few methods on how to populate the Jobsheet:
    | **Step 5** | Repeat this for all the items and labour you want to add.                                                                            |
    |            |                                                                                                                                      |
 
+   ![](media/garagehive-training-manually-populate-a-jobsheet.png)
+
 2. **Service Packages** - These are pre-created packages which includes items and labours put together to help create jobs faster, simplify job pricing, increase consistency and so on.
 
    |            |                                                                                                                                                            |
@@ -76,6 +79,8 @@ Here are a few methods on how to populate the Jobsheet:
    | **Step 3** | Select the Service Package to add and click OK. If you don't have service packages created, you can learn how to create one and add it or contact support. |
    | **Step 4** | The Service Package Items and Labour is added to the Lines FastTab.                                                                                        |
    |            |                                                                                                                                                            |
+
+   ![](media/garagehive-training-service-packages-populate-a-jobsheet.png)
 
 3. **Repair Times** - This refers to the vehicle repair information obtained from external providers, like Autodata, which includes both labours and items.
    
@@ -88,6 +93,8 @@ Here are a few methods on how to populate the Jobsheet:
    | **Step 5** | In the Repair Summary page, select the checkbox in the include column for the lines you want to add to the Jobsheet.                               |
    | **Step 6** | After selecting the lines you want, click on the Add Lines to Document option from the menu bar. This will add the selected lines to the Jobsheet. |
    |            |                                                                                                                                                    |
+
+   ![](media/garagehive-training-repair-times-populate-a-jobsheet.png)
 
 Learn more: [Video: How to populate a Jobsheet](https://www.youtube.com/watch?v=ABnKqYB4f3A){:target="_blank"}
 
