@@ -39,6 +39,8 @@ The following steps outline how to create an Estimate in Garage Hive:
    | **Step 8** | After converting the Estimate to a Jobsheet, open the schedule and allocate the created Jobsheet to the date when the customer says they will book their vehicle.                                                                                        |
    |            |                                                                                                                                                                                                                                                          |
 
+![](media/garagehive-training-create-an-estimate.png)
+
 Learn more: [Video: Creating an Estimate](https://www.youtube.com/watch?v=otMUsW5hGAA){:target="_blank"}
 
 #### How to Process a Vehicle Inspection
@@ -59,7 +61,7 @@ The following steps outline how to process an arriving vehicle that was pre-book
    |            |                                                                                                                                                                             |
 
 
-![](media/garagehive-training-create-an-estimate.png)
+
 
 Learn more: [Video: Processing a Vehicle Inspection](https://www.youtube.com/watch?v=LldJYN6HkeU){:target="_blank"}
 
