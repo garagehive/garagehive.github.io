@@ -60,7 +60,7 @@ The following steps outline how to process a Jobsheet to an Invoice:
 
 Learn more: [Video: How to Process a Jobsheet to Invoice](https://www.youtube.com/watch?v=SdgMs_uS9Y0){:target="_blank"}
 
-### Module 3 test
+### Links for Further Learning in Module 3
 
 * [Managing Key Numbers](garagehive-managing-key-numbers-in-the-system.html){:target="_blank"}
 * [How to Use Comments](garagehive-comments-extended.html){:target="_blank"}
