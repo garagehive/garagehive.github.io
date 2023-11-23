@@ -38,5 +38,9 @@ Once you have downloaded the **Checklist Template**, follow these steps to impor
 
    ![](media/garagehive-mot-your-system6.png)
 
+7. Check out the webinar below to learn how you can use the **Checklist Template** to housekeep your system.
+
+{% include youtube.html id="Ny_bBEP7HiU" %}
+
 
 [Go back to top](#top)
