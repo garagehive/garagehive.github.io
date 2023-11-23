@@ -47,20 +47,20 @@ Learn more: [Video: Creating an Estimate](https://www.youtube.com/watch?v=otMUsW
 
 The following steps outline how to process an arriving vehicle that was pre-booked:
 
-   |            |                                                                                                                                                                             |
-   | :--------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-   | **Step 1** | Open the schedule to access the booking allocation.                                                                                                                         |
-   | **Step 2** | Right-click on the allocation and select **Lookup**.                                                                                                                        |
-   | **Step 3** | On the **General** FastTab, enable the **Vehicle on Site** slider to confirm that the vehicle has arrived.                                                                  |
-   | **Step 4** | Allocate the key number for the vehicle in the **Key Tag No.** field.                                                                                                       |
-   | **Step 5** | If the vehicle is staying overnight, enable the **Vehicle Staying Overnight** slider.                                                                                       |
-   | **Step 6** | If there is a requested time and date to return the vehicle, enter the date in the **Requested Delivery Date** field and the time in the **Requested Delivery Time** field. |
-   | **Step 7** | Scroll down to the **Comments** FastTab and add any customer comments.                                                                                                      |
-   | **Step 8** | Ensure that the right items and labour are added in the **Lines** FastTab. Close the Jobsheet when done.                                                                    |
-   | **Step 8** | The Job will now be ready to allocate to a technician.                                                                                                                      |
-   |            |                                                                                                                                                                             |
-
-
+   |            |                                                                                                                                                                                                                                                                                            |
+   | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+   | **Step 1** | Once a technician completes a Vehicle Inspection, the tile **Awaiting Confirmation** under **Vehicle Inspection** turns red. Click on the tile to view the list of completed Vehicle Inspections, and select the one to view.                                                              |
+   | **Step 2** | In the Vehicle Inspection, you'll see colour codes that indicate the extent to which a line requires attention, and at the end of each line, you'll find comments from the technician. Go through all the lines to confirm what the technician has done.                                   |
+   | **Step 3** | After checking all the lines, select **Process** from the menu bar, followed by **Confirm** to confirm the Vehicle Inspection. You will receive a notification asking you if you want to create a **VIE**. Click **YES**.                                                                  |
+   | **Step 4** | Click **OK** in the next notifications, and the created Vehicle Inspection Estimate will open.                                                                                                                                                                                             |
+   | **Step 5** | In the Vehicle Inspection Estimate, click on **Prepare** from the menu bar, and select **Add Checklist Attention Lines**. This will add the advisory and requires urgent attention lines as a group, under the **Group Items** FastTab. You can edit the group heading in the group lines. |
+   | **Step 6** | Next, add **Items** and Labour" with their quantity and prices in the **Lines** FastTab, and link them with the groups created in the **Group Items** FastTab. Click on the **Group Description** column to link them with the group.                                                      |
+   | **Step 7** | When done adding the Items and Labour, send an **SMS or Email** to the customer with the total price, or call the customer and discuss the Vehicle Inspection Estimate. Change the **VIE Status** to **Awaiting Authorisation** under the **General** FastTab.                             |
+   | **Step 8** | Tick the authorised lines in the **Customer Authorised** column under the **Lines** FastTab.                                                                                                                                                                                               |
+   | **Step 8** | Once the customer authorises the Vehicle Inspection Estimate, click **Process**"** from the menu bar, then **Copy Authorised Lines to Jobsheet**. Select the Jobsheet to copy the lines to and click **OK**.                                                                               |
+   | **Step 8** | Change the **VIE Status** to "Complete".                                                                                                                                                                                                                                                   |
+   |            |                                                                                                                                                                                                                                                                                            |
+![](media/garagehive-training-process-a-vehicle-inspection-estimate.png)
 
 
 Learn more: [Video: Processing a Vehicle Inspection](https://www.youtube.com/watch?v=LldJYN6HkeU){:target="_blank"}
