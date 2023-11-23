@@ -60,6 +60,7 @@ The following steps outline how to process an arriving vehicle that was pre-book
    | **Step 8** | Once the customer authorises the Vehicle Inspection Estimate, click **Process**"** from the menu bar, then **Copy Authorised Lines to Jobsheet**. Select the Jobsheet to copy the lines to and click **OK**.                                                                               |
    | **Step 8** | Change the **VIE Status** to "Complete".                                                                                                                                                                                                                                                   |
    |            |                                                                                                                                                                                                                                                                                            |
+
 ![](media/garagehive-training-process-a-vehicle-inspection-estimate.png)
 
 
