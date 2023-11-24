@@ -28,6 +28,7 @@ Garage Hive's customer ranking feature allows you to rate customers based on you
    ![](media/garagehive-customer-ranks-setup3.png)
 
 6. Enable the **Prompt Customer Rank in Documents** slider, under the **General** FastTab.
+7. You can also enable the **Customer Rank Mandatory Before Post Service Document** slider, to ensure that the customer rank is updated before any document is posted.
 
    ![](media/garagehive-customer-ranks-setup4.png)
 
@@ -35,7 +36,9 @@ Garage Hive's customer ranking feature allows you to rate customers based on you
 [Go back to top](#top)
 
 ### How to Rank the Customers
-1. To rank the existing customers, open the customer card of the customer you want to rank.
+
+#### To Rank an Existing Customer
+1. Open the customer card of the customer you want to rank.
 2. Under the **General** FastTab, there is **Customer Ranking** section. Click on the ellipsis (...) at the end of the **Rank Code** field.
 
    ![](media/garagehive-customer-ranking1.png)
@@ -48,7 +51,16 @@ Garage Hive's customer ranking feature allows you to rate customers based on you
 
    ![](media/garagehive-customer-ranking3.png)
 
-5. The **Customer Ranking** details notification will be shown each time a new document is created for the customer.
+#### To View or Rank a Customer from an Open Jobsheet
+1. Under the **General** FastTab, click on **Show More** in the right hand top corner to view the hidden fields. 
+
+   ![](media/garagehive-customer-ranking5.png)
+
+2. The **Customer Rank** section is revealed, where you can rank the customer or view the customer rank.
+
+   ![](media/garagehive-customer-ranking6.png)
+
+3. The **Customer Ranking** details notification will be shown each time a new document is created for the customer.
 
    ![](media/garagehive-customer-ranking4.png)
 
