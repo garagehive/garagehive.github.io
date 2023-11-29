@@ -10,7 +10,7 @@ Data migration to Garage Hive is the process of transferring data from one garag
 
 > Please contact the **Garage Hive Support Team** for assistance with this process:
 > * **Phone** - [**02031461163**](tel:02031461163)
-> * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
+> * **Email** - [**getonboard@garagehive.co.uk**](mailto:getonboard@garagehive.co.uk)
 
 The steps for data migration from other garage management systems to Garage Hive may vary depending on the specific system and preferences of each garage. However, a general outline of the process is as follows:
 
@@ -29,7 +29,7 @@ The steps for data migration from other garage management systems to Garage Hive
 # Support Contact Details for Some of the Garage Management Systems
 
 ## MAM Software
-   * **Phone** - [**01226352904**](tel:01226 352904) 
+   * **Phone** - [**01226352904**](tel:01226352904) 
    * **Email** - [**awolsupport@mamsoft.co.uk**](mailto:awolsupport@mamsoft.co.uk)
 
       ![](media/mamsoftware-logo.png)
@@ -41,7 +41,7 @@ They will ask if you want a CD, We recommend asking them to log into your comput
 We often notice that the reminder file provided during the standard export only contains expired dates, please ask them to ensure the reminders file is accurate.
    
 ## Techman
-   * **Phone** - [**01604936462**](tel:01604 936462)
+   * **Phone** - [**01604936462**](tel:01604936462)
    * **Email** - [**info@techmangms.com**](mailto:info@techmangms.com)
 
       ![](media/techman-logo.png)
