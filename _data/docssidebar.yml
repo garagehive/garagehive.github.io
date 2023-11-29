@@ -226,7 +226,7 @@
     - name: Correct or Cancel a Purchase Invoice
       url: /docs/garagehive-correct-or-cancel-a-purchase-order.html
     - name: Combine Receipts on a Single Invoice
-      url: /docs/garagehive-working-on-it.html
+      url: /docs/garagehive-combine-receipts-on-a-single-invoice.html
     - name: Create an External Service
       url: /docs/garagehive-create-external-service.html
     - name: Process Purchase Returns
@@ -268,8 +268,6 @@
       url: /docs/garagehive-stock-adjustments.html
     - name: Extending Prices, Markups and Discounts Calculations
       url: /docs/garagehive-automatic-price-markup-and-discount-calculations.html
-    - name: How to set retail prices, margins & markups
-      url: /docs/garagehive-item-pricing-markup.html
     - name: How to create item Price/Discount groups and update items
       url: /docs/item-price-discount-groups.html      
 - name: Service Advisor Operations
