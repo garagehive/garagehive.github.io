@@ -4,7 +4,7 @@ title: Go Live Setup - Customer Notification Setup (1/3)
 ---
 
 ## Customer Notification Setup  
-In Garage Hive, there are several customer notifications, such as **MOT Reminders**, **Service Reminders** & **Online Booking Confirmations**. In the **Customer Notifications** you can change settings such as how reminders are received, you can customise the templates and adjust the times in which messages are sent.
+In Garage Hive, there are several customer notifications, such as **MOT Reminders**, **Service Reminders** & **Booking Confirmations**. In the **Customer Notifications** you can change settings such as how reminders are received, you can customise the templates and adjust the times in which messages are sent.
 
 To access the **Customer Notifications**, select the ![](media/search_icon.png) icon in the top right corner, enter **Customer Notifications**, and select the related link.
 
