@@ -14,7 +14,7 @@ Why not have a play with our demo system here, [online booking demo page.](https
 
 The following are the steps to help you set up online booking:
 
-| Step        | Read More                                                                                                                                   |
+|             |                                                                                                                                             |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | **STEP 1**  | [Initial Setup](garagehive-onlinebooking-setup.html){:target="_blank"}                                                                      |
 | **STEP 2**  | [Setting up the Branches](garagehive-onlinebooking-branches.html){:target="_blank"}                                                         |

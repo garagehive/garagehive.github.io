@@ -33,5 +33,7 @@ To use the FactBox in a page:
 
    ![](media/garagehive-factbox4.png)
 
+5. To collapse the FactBox and save space on your screen, click the ℹ️ icon again.
+
 
 [Go back to top](#top)
