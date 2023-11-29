@@ -21,7 +21,7 @@ If you are a user of Garage Hive please feel free to join our [Facebook Communit
 * **Wednesday** 8am - 6pm
 * **Thursday** 8am - 6pm
 * **Friday** 8am - 6pm
-* **Saturday** 8am - 6pm
+* **Saturday** 8am - 1pm
 * **Sunday** Closed
 
 ## Support Contact Details

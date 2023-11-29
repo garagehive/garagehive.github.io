@@ -9,7 +9,7 @@ title: Data Migration to Garage Hive from Other Garage Management Systems
 Data migration to Garage Hive is the process of transferring data from one garage management system to Garage Hive system. The purpose of data migration is to ensure that the data is accurate, consistent and compatible with the Garage Hive. This process can involve different types of data, such as customer records, vehicle history, inventory stock, invoices, etc.
 
 > Please contact the **Garage Hive Support Team** for assistance with this process:
-> * **Phone** - [**02031461164**](tel:02031461164)
+> * **Phone** - [**02031461163**](tel:02031461163)
 > * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
 
 The steps for data migration from other garage management systems to Garage Hive may vary depending on the specific system and preferences of each garage. However, a general outline of the process is as follows:
@@ -49,8 +49,6 @@ We often notice that the reminder file provided during the standard export only 
 You will need to contact Techman directly for them to perform the data extract for you, simply inform them that you need the data required to import into another Garage Management System and they will send you a file to forward to us.
 
 ## GA3
-   * **Phone** - [**02031461164**](tel:02031461164)
-   * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
 
       ![](media/ga3.png)
 
