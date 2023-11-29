@@ -116,10 +116,6 @@ This option is typically used only after the invoice has been received from the 
 
    ![](media/garagehive-creating-a-purchase-order9.gif)
 
-[Go back to top](#top)
-
-### Create and Email the Purchase Order from a Jobsheet
-
 
 [Go back to top](#top)
 
