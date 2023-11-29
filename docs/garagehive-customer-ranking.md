@@ -28,7 +28,7 @@ Garage Hive's customer ranking feature allows you to rate customers based on you
    ![](media/garagehive-customer-ranks-setup3.png)
 
 6. Enable the **Prompt Customer Rank in Documents** slider, under the **General** FastTab.
-7. You can also enable the **Customer Rank Mandatory Before Post Service Document** slider, to ensure that the customer rank is updated before any document is posted.
+7. You can also enable the **Customer Rank Mandatory Before Posting Service Document** slider, to ensure that the customer rank is updated before any document is posted.
 
    ![](media/garagehive-customer-ranks-setup4.png)
 
