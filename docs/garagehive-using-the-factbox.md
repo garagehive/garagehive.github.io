@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Using the FactBox in Garage Hive
+title: Using the FactBox in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Using the FactBox in Garage Hive
 A FactBox is an information area located on the right-hand side of a page which is represented by the icon ℹ️. The area is divided into several sections for displaying content such as links, attachments, other pages, and tiles. Typically, a FactBox is used to showcase information related to a particular item on the main content page. For instance, if you are viewing a list of vehicles, you can use a FactBox to view details of a selected vehicle in the list as shown below.
