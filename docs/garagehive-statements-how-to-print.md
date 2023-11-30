@@ -8,7 +8,7 @@ To print customer statements:
 
    ![](media/garagehive-customer-statements-print1.gif)
 
-2. Select **Aged As Of** as the date you want to run the statement from. Typically, this should be the date from which you still have outstanding invoices from the customer. In this case, we'll use the end of the previous month.
+2. Choose **Aged As Of** as the date the statement should be run up to. This date should typically reflect the ending date for the statement. For instance, if you want to view invoices up to the present day, choose today's date.
 3. The **Aged By** field can be set to the **Due Date**, **Posting Date**, or **Document Date**. This specifies the end date for running the statement. In this case, we will select **Due Date**.
 
    ![](media/garagehive-customer-statements-print2.gif)
