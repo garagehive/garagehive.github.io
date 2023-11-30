@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Combine Receipts on a Single Invoice in Garage Hive
+title: How to Combine Receipts on a Single Invoice in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Combine Receipts on a Single Invoice in Garage Hive
 In Garage Hive, you have the option to combine received items into a single invoice. This means that if you have received items from the same vendor/supplier in multiple purchase orders, you can combine them into a single purchase invoice.
