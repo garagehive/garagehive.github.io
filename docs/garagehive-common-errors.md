@@ -17,7 +17,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
    
       ![](media/garagehive-common-errors5.png)
 
-   - This indicates that the document is not yet paid, or it doesn't have payment terms.
+   > This error indicates that the document is not yet paid, or it doesn't have payment terms.
       
 |                |                                                                                   |
 | :------------- | :-------------------------------------------------------------------------------- |
@@ -30,6 +30,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
 |                | - In the document, scroll down to the Invoicing FastTab.                          |
 |                | - Enter payment terms in the Payment Terms Code field.                            |
 |                | - you can now proceed and Post the document.                                      |
+|                |                                                                                   |
 
    **Link to Learn More** - [Taking a Payment and Posting a Jobsheet](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it){:target="_blank"}.
 
