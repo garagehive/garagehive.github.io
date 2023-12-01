@@ -19,18 +19,18 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
    > This error indicates that the document is not yet paid, or it doesn't have payment terms.
       
-|                |                                                                                   |
-| :------------- | :-------------------------------------------------------------------------------- |
-| **Solution 1** | **Take Payment.**                                                                 |
-|                | - Select Payment/Posting in the menu bar, followed by Take Payment.               |
-|                | - Enter the payment for the job done in the Payment Method line, and click Close. |
-|                | - You can now proceed and Post the document.                                      |
-|                |                                                                                   |
-| **Solution 2** | **Add Payment Terms Code.**                                                       |
-|                | - In the document, scroll down to the Invoicing FastTab.                          |
-|                | - Enter payment terms in the Payment Terms Code field.                            |
-|                | - you can now proceed and Post the document.                                      |
-|                |                                                                                   |
+   |                |                                                                                   |
+   | :------------- | :-------------------------------------------------------------------------------- |
+   | **Solution 1** | **Take Payment.**                                                                 |
+   |                | - Select Payment/Posting in the menu bar, followed by Take Payment.               |
+   |                | - Enter the payment for the job done in the Payment Method line, and click Close. |
+   |                | - You can now proceed and Post the document.                                      |
+   |                |                                                                                   |
+   | **Solution 2** | **Add Payment Terms Code.**                                                       |
+   |                | - In the document, scroll down to the Invoicing FastTab.                          |
+   |                | - Enter payment terms in the Payment Terms Code field.                            |
+   |                | - you can now proceed and Post the document.                                      |
+   |                |                                                                                   |
 
    **Learn More** - [Taking a Payment and Posting a Jobsheet](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it){:target="_blank"}.
 
