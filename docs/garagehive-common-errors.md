@@ -16,12 +16,24 @@ In order to effectively use the Garage Hive system, it is important to familiari
 1. **Error** - 'Document must be fully paid before posting!'
    
       ![](media/garagehive-common-errors5.png)
+
+   - This indicates that the document is not yet paid, or it doesn't have payment terms.
       
-   **Solution** - [Taking a Payment and Posting a Jobsheet](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it){:target="_blank"}.
+|                |                                                                                   |
+| :------------- | :-------------------------------------------------------------------------------- |
+| **Solution 1** | **Take Payment**                                                                  |
+|                | - Select Payment/Posting in the menu bar, followed by Take Payment.               |
+|                | - Enter the payment for the job done in the Payment Method line, and click Close. |
+|                | - You can now proceed and Post the document.                                      |
+|                |                                                                                   |
+| **Solution 2** | **Add Payment Terms Code**                                                        |
+|                | - In the document, scroll down to the Invoicing FastTab.                          |
+|                | - Enter payment terms in the Payment Terms Code field.                            |
+|                | - you can now proceed and Post the document.                                      |
 
-      ![](media/garagehive-common-errors5a.png)
+   **Link to Learn More** - [Taking a Payment and Posting a Jobsheet](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it){:target="_blank"}.
 
-2. **Error** - 'Item No. MISC (Placeholder Item) on line 181000 is marked as Placeholder Item. Current item could not be used.'
+1. **Error** - 'Item No. MISC (Placeholder Item) on line 181000 is marked as Placeholder Item. Current item could not be used.'
 
       ![](media/garagehive-common-errors2.png)
 
@@ -29,7 +41,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
       ![](media/garagehive-common-errors2a.png)
 
-3. **Error** - 'You have insufficient quantity of Item E1171L on inventory.'
+2. **Error** - 'You have insufficient quantity of Item E1171L on inventory.'
 
       ![](media/garagehive-common-errors9.png)
 
