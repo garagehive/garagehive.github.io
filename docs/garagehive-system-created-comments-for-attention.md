@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - System Created Comments for Attention
+title: System Created Comments for Attention
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # System Created Comments for Attention
 Whenever there's an automated interaction between the system and a customer, the system will generate comments that appear in the **Attention Tile**.  
