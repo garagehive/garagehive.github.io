@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - Emojis for the Customer's Actions in the Attention Tile
+title: DRAFT* - System Created Comments for Attention
 ---
 
 <a name="top"></a>
@@ -8,12 +8,12 @@ title: DRAFT* - Emojis for the Customer's Actions in the Attention Tile
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-# Emojis for the Customer's Actions in the Attention Tile
-When a customer takes action in response to the online document authorisation or payment links sent, the action is reflected in the Comments **Attention Tile** in the Role Centre. 
+# System Created Comments for Attention
+Whenever there's an automated interaction between the system and a customer, the system will generate comments that appear in the **Attention Tile**.  
 
    ![](media/garagehive-attention-emojis1.png)
 
-This feature allows you to review each action taken by the customer individually with the assistance of emojis. Here's a quick look at how these actions appear with emojis:
+These comments are prefixed with emojis to help you understand and prioritize them. Here's a quick look at how these actions appear with emojis:
 
    ![](media/garagehive-attention-emojis2.png)
 
