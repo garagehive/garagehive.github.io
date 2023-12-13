@@ -345,10 +345,10 @@
       url: /docs/garagehive-set-up-self-service-change-log.html
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-comments-extended.html
+    - name: System Created Comments for Attention
+      url: /docs/garagehive-system-created-comments-for-attention.html
     - name: Copy Documents
       url: /docs/garagehive-copydocument.html
-    - name: System Created Comments for Attention
-      url: garagehive-system-created-comments-for-attention.html
     - name: How to Send Bulk SMS's
       url: /docs/garagehive-send-bulk-sms.html
 - name: End of Day Process
