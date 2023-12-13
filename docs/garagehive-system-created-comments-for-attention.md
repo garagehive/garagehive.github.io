@@ -6,7 +6,7 @@ title: System Created Comments for Attention
 <a name="top"></a>
 
 # System Created Comments for Attention
-Whenever there's an automated interaction between the system and a customer, the system will generate comments that appear in the **Attention Tile**.  
+Whenever there's an automated interaction between the system and a customer, the system will generate comments that appear in the Comments **Attention Tile**.  
 
    ![](media/garagehive-attention-emojis1.png)
 
