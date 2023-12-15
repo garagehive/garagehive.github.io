@@ -47,7 +47,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
    ![](media/garagehive-reminded-not-booked-tiles1.png)
 
 2. In the **New** tile, you'll find the recently sent **Reminded Not Booked** notifications and in the **In Process** tile, you'll find the **Reminded Not Booked** notifications that you've already begun working on.
-3. Click on the **New** tile to view the notifications.
+3. Click on the **New** tile to view the reminders.
 4. From the menu bar, there are several actions to use. When you click on the **Suggest Lines**, it refreshes the notifications to retrieve new ones.
 
    ![](media/garagehive-reminded-not-booked-tiles2.png)
@@ -56,13 +56,17 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-tiles3.png)
 
-6. To move the notification to the **In Process** tile or mark it as closed, select **Process** and choose either **Set In Process** to move it to the **In Process** tile, or **Mark as Closed** to close it.
+6. To move the reminder to the **In Process** tile or mark it as closed, select **Process** and choose either **Set In Process** to move it to the **In Process** tile, or **Mark as Closed** to close it.
 
    ![](media/garagehive-reminded-not-booked-tiles4.png)
 
 7. To send an Email or SMS to the customer, select **Create Interaction** and choose **Send Email** to send an email or **Send SMS** to send an SMS to the customer. To learn more on how to use the emailing feature, click [here](/docs/garagehive-using-emailing-feature.html#using-the-emailing-feature){:target="_blank"}.
 
    ![](media/garagehive-reminded-not-booked-tiles5.png)
+
+8. To add a review comment in the reminder, scroll to the left of the reminders to the **Review Comment** column, and click on the line in which you want to add the comment. A comment pop-up box will appear, where you can write your comment and close it.
+
+   ![](media/garagehive-reminded-not-booked-tiles6.png)
 
 
 [Go back to top](#top)
