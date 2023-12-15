@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - Setting up Reminders for "Reminded Not Booked" Notifications
+title: DRAFT* - Using the Reminded Not Booked Tiles
 ---
 
 <a name="top"></a>
@@ -8,8 +8,8 @@ title: DRAFT* - Setting up Reminders for "Reminded Not Booked" Notifications
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-# Setting up Reminders for "Reminded Not Booked" Notifications
-The primary goal of sending reminders to customers is to prompt them to book the service they were notified about. However, in some cases, the customer may not book as expected and require further follow-up. This is where the **Reminded Not Booked** setup is useful. It creates notifications within the system to help you keep track of which customers need follow-up action regarding their booking.
+# Using the Reminded Not Booked Tiles
+The primary goal of sending reminders to customers is to prompt them to book the service they were notified about. However, in some cases, the customer may not book as expected and require further follow-up. This is where the **Reminded Not Booked** is useful. It creates notifications within the system to help you keep track of which customers need follow-up action regarding their booking.
 
 ## In this article
 1. [Reminded Not Booked Set Up](#reminded-not-booked-set-up)
@@ -21,16 +21,16 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-setup1.png)
 
-2. In the **Reminded Not Booked Setup** page, select the **Reminder Type** that you want to setup.
-3. The **maximum number of days until the due date** will be automatically retrieved from the system, but you can adjust it if necessary. 
-4. In the **Check reminders sent within the last No. of days** field, specify the number of days you would like to receive a **Reminded Not Booked** notification after the initial reminder has been sent.
+2. In the **Reminded Not Booked Setup** page, the **Reminder Type** are added depending on the **Vehicle Reminder Dates** notifications that have been enabled in the system. You can also select the **Reminder Type** that you want to setup, and then enable the **Vehicle Reminder Date** notification.
+3. The **maximum number of days until the due date** will be automatically filled to 30 days, but you can adjust it if necessary. 
+4. In the **Check reminders sent within the last No. of days** field, the days will be automatically be added as 7 days but you can specify the number of days you would like to receive a **Reminded Not Booked** notification after the initial reminder has been sent.
 
    ![](media/garagehive-reminded-not-booked-setup2.png)
 
 5. Then, in the **General** FastTab, you have the option to choose the **Vehicle Data Update Method** for when the **Reminded Not Booked** notification is sent.
    - **None**: No vehicle data updates will occur when this option is selected.
-   - **Update MOT**: Vehicle data will be updated for the MOT Due Date only. Standard lookup charges will apply.
-   - **Update MOT & Vehicle Data by VIN**: All vehicle data for the service dates will be updated using the vehicle VIN. Standard lookup charges will apply. 
+   - **Update MOT**: MOT data for applicable vehicles will be updated. Standard lookup charges will apply.
+   - **Update MOT & Vehicle Data by VIN**: All vehicle data for applicable vehicles will be updated using the vehicle VIN. Standard lookup charges will apply. 
 
       ![](media/garagehive-reminded-not-booked-setup3.png)
 
@@ -46,9 +46,11 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-tiles1.png)
 
-2. In the **New** tile, you'll find the recently sent **Reminded Not Booked** notifications and in the **In Process** tile, you'll find the **Reminded Not Booked** notifications that you've already begun working on.
-3. Click on the **New** tile to view the reminders.
-4. From the menu bar, there are several actions to use. When you click on the **Suggest Lines**, it refreshes the notifications to retrieve new ones.
+   {% include tip.html title="Note" text="The tiles can be personalised out not to appear in the Role Centre. Read more about personalisation in the documentation." %}
+
+2. In the **New** tile, you'll find the list of vehicles which match the **Reminded Not Booked Setup**. This list will be regenerated once per day (overnight).
+3. Click on the **New** tile to view the list.
+4. From the menu bar, there are several actions to use. When you click on the **Suggest Lines**, it reruns the report, and generates a new list.
 
    ![](media/garagehive-reminded-not-booked-tiles2.png)
 
@@ -56,7 +58,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-tiles3.png)
 
-6. To move the reminder to the **In Process** tile or mark it as closed, select **Process** and choose either **Set In Process** to move it to the **In Process** tile, or **Mark as Closed** to close it.
+6. To move the line to the **In Process** tile or mark it as closed, select **Process** and choose either **Set In Process**, or **Mark as Closed**.
 
    ![](media/garagehive-reminded-not-booked-tiles4.png)
 
@@ -64,7 +66,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-tiles5.png)
 
-8. To add a review comment in the reminder, scroll to the left of the reminders to the **Review Comment** column, and click on the line in which you want to add the comment. A comment pop-up box will appear, where you can write your comment and close it.
+8. To add a comment about the line, select an appropriate **Reason Code** and write the comment in the **Comment** column.
 
    ![](media/garagehive-reminded-not-booked-tiles6.png)
 
