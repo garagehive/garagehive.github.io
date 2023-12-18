@@ -21,7 +21,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-setup1.png)
 
-2. In the **Reminded Not Booked Setup** page, the **Reminder Type** are added depending on the **Vehicle Reminder Dates** notifications that have been enabled in the system. You can also select the **Reminder Type** that you want to setup, and then enable the **Vehicle Reminder Date** notification.
+2. In the **Reminded Not Booked Setup** page, the **Reminder Type's** listed are dependent on **Vehicle Reminder Dates** type customer notifications being enabled in the system. To learn more on how to setup the **Vehicle Date Reminders**, click [here](/docs/garagehive-vehicle-date-reminders.html){:target="_blank"}.
 3. The **maximum number of days until the due date** will be automatically filled to 30 days, but you can adjust it if necessary. 
 4. In the **Check reminders sent within the last No. of days** field, the days will be automatically be added as 7 days but you can specify the number of days you would like to receive a **Reminded Not Booked** notification after the initial reminder has been sent.
 
