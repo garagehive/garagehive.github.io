@@ -7,7 +7,18 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 16th November 2023
+* Added the ability to rank customers based on your interactions with them at the garage; for example, you may rank a customer according to their past purchasing behaviours, [read more](garagehive-customer-ranking.html){:target="_blank"}.
+
+   ![](media/customer-ranking-feature1.png)
+
+* Added emojis as a prefix to system generated comments that appear in the **Attention** tile to help you understand and prioritise them, [read more](garagehive-system-created-comments-for-attention.html){:target="_blank"}.
+
+   ![](media/system-generated-comments1.png)
+
+### 16th November 2023
 * The schedule now includes the ability to add recurring **Standard Events**. For example, you can now easily schedule a daily, weekly, or monthly training session for any of your resources, [read more](garagehive-recurring-events.html){:target="_blank"}.
+
+   ![](media/recurring-events1.png)
 
 ### 27th October 2023
 * Added the **Castrol Integration** with Garage Hive, which enables you to view oil types and capacities for the vehicle in a service document, [read more](garagehive-castrol-lookup.html){:target="_blank"}. This feature was first announced at **The Blend 2023**.
