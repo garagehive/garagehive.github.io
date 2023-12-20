@@ -6,7 +6,7 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
-### 16th November 2023
+### 20th December 2023
 * Added the ability to rank customers based on your interactions with them at the garage; for example, you may rank a customer according to their past purchasing behaviours, [read more](garagehive-customer-ranking.html){:target="_blank"}.
 
    ![](media/customer-ranking-feature1.png)
