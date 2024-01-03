@@ -9,7 +9,7 @@ title: DRAFT* - Understanding PowerBI Summary Reports
 We are currently reviewing this article before it is published, check back later.
 
 # Summary Reports Overview
-The Summary Reports provide a brief overview of your business data based on certain key performance indicators. You can view this data for specific timeframes such as today, yesterday, this week, last week, this month, and last month. The summary reports are optimised to be viewed on your mobile device. It is highly recommended to review these reports on a daily basis.
+The Summary Reports provide a brief overview of your business data based on certain key performance indicators. You can view these data for specific timeframes such as today, yesterday, this week, last week, this month, and last month. The summary reports are optimised to be viewed on your mobile device. It is highly recommended to review these reports on a daily basis.
 
    ![](media/garagehive-powerbi-summary-reports1.png)
 
