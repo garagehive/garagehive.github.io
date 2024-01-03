@@ -5,9 +5,6 @@ title: Garage Hive Training Module 3 for Beginners - Service Advisor
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 ## Module 3 - Processing Jobsheets & Invoicing
 
 Module 3 covers the process of when a customer arrives to drop off their vehicle. You will learn to use features to mark vehicles as on-site, assign parking locations and key numbers, and add expected collection times. Additionally, in module 3, you will learn how to process a Jobsheet from complete to ready for collection, and how to convert a Jobsheet into an invoice.  

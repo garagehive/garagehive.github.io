@@ -5,9 +5,6 @@ title: Garage Hive Training Module 2 for Beginners - Service Advisor
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 ## Module 2 - Purchasing
 Module 2 looks at purchasing in Garage Hive. In this module you will learn how to raise a purchase order from a Jobsheet and how to process the purchase order once the invoice has arrived. You will also how to view your items to return report and how to raise a purchase return order. 
 

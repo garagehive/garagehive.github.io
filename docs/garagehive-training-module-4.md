@@ -5,9 +5,6 @@ title: Garage Hive Training Module 4 for Beginners - Service Advisor
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 ## Module 4 - Estimates & Vehicle Inspections
 
 In Module 4, the focus is on differentiating between an Estimate and a Vehicle Inspection Estimate. You'll learn how to create an estimate and convert it into a Jobsheet. Additionally, you will understand how to process a Vehicle Inspection, convert it into an Estimate, and copy the approved work onto the Jobsheet.
