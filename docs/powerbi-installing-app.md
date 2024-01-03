@@ -13,46 +13,46 @@ title: Installing the Power BI App
 
 To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
-1. After clicking the link, you will receive a notification in **Power BI** asking if you want to install the app. Select **Install**. 
+2. After clicking the link, you will receive a notification in **Power BI** asking if you want to install the app. Select **Install**. 
 
    ![](media/garagehive-installing-powerbi-app1.png)
 
-1. Once the app  has installed, go to your apps on Power BI and open the **Garage Hive Power BI** app. Select the app to open.
+3. Once the app  has installed, go to your apps on Power BI and open the **Garage Hive Power BI** app. Select the app to open.
 
    ![](media/garagehive-installing-powerbi-app2.png)
 
-1. When you open the app, you will see a warning at the top that says, "You're viewing this app with sample data. **Connect Your Data**." Select **Connect Your Data**. 
+4. When you open the app, you will see a warning at the top that says, "You're viewing this app with sample data. **Connect Your Data**." Select **Connect Your Data**. 
 
    ![](media/garagehive-installing-powerbi-app3.png)
 
-1. A page to enter your **Company Details** opens.
+5. A page to enter your **Company Details** opens.
 
    ![](media/garagehive-installing-powerbi-app4.png)
 
-1. Enter your **Company Details**; you can find these by using the search function to find **GH Power BI App Setup** within **Garage Hive**.
+6. Enter your **Company Details**; you can find these by using the search function to find **GH Power BI App Setup** within **Garage Hive**.
 
    ![](media/garagehive-installing-powerbi-app3.gif)
 
-1. Enter these details into the relevant fields and click **Next**.
+7. Enter these details into the relevant fields and click **Next**.
 
    ![](media/garagehive-installing-powerbi-app5.png)
 
-1. You will now be asked to authorise the connection to your **Garage Hive** system. 
-1. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
+8. You will now be asked to authorise the connection to your **Garage Hive** system. 
+9. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
 
    {% include tip.html title="Note" text="We recommend using the Web Service Access Key since it's independent of the Garage Hive system password. This means, if your Garage Hive system is reset, your Power BI App will continue working as usual without crashing." %}
    
-1.  Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. Your **Power BI App** will now start refreshing.
+10.  Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. Your **Power BI App** will now start refreshing.
 
-   ![](media/garagehive-installing-powerbi-app5.gif)
+     ![](media/garagehive-installing-powerbi-app5.gif)
 
-1. If you successfully authorise your **Garage Hive** system, you should see the data refreshing under **Workspaces**, select **Garage Hive** app and then **Datasets+Dataflows** option.
+11. If you successfully authorise your **Garage Hive** system, you should see the data refreshing under **Workspaces**, select **Garage Hive** app and then **Datasets+Dataflows** option.
 
-   ![](media/garagehive-installing-powerbi-app6.gif)
+     ![](media/garagehive-installing-powerbi-app6.gif)
 
-1. You can now add the app to your **Favourites**, for easier accessibility.
+12. You can now add the app to your **Favourites**, for easier accessibility.
 
-   ![](media/garagehive-installing-powerbi-app7.gif)
+     ![](media/garagehive-installing-powerbi-app7.gif)
 
 The app is now ready to use.
 
