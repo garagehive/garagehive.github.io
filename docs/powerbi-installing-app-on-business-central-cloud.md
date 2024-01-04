@@ -57,6 +57,18 @@ The app is now ready to use.
 
 You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
 
+## Admin Portal Settings
+If you are having any trouble when installing, check the **Admin Portal Settings**.
+
+To do this:
+1. login to your **Garage Hive Power BI** and go to your **Admin Portal**. 
+
+   ![](media/powerbi-admin-cloud.png)
+
+2. Once you are in your **Admin Portal**, select **Tenant settings**, scroll to the bottom of the page and enable **Install Template Apps Not Listed in AppSource** and click **Apply**. 
+
+![](media/powerbi-admin-install-template-apps-cloud.png)
+
 
 <br>
 
