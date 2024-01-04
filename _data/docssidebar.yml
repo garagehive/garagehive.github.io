@@ -25,7 +25,7 @@
     - name: Minimum Requirements
       url: /docs/garagehive-system-requirements.html
     - name: Garage Hive Training Modules - Beginners
-      url: /docs/garagehive-training.html
+      url: /docs/garagehive-training-module-1.html
     - name: Videos of Common Tasks
       url: /docs/garagehive-video-of-common-tasks.html
     - name: Data Exports from your Old GMS to Garage Hive
@@ -110,6 +110,8 @@
           url: /docs/garagehive-booking-reminders.html
         - name: Setting Up Booking Confirmation Notifications
           url: /docs/garagehive-booking-confirmation.html
+        - name: Using the Reminded Not Booked Tiles
+          url: /docs/garagehive-reminded-not-booked-setup.html
         - name: View the Report on Reminders Sent and Not Booked
           url: /docs/garagehive-reminders-sent-not-booked-report.html
     - name: Setting Your Average Labour Rate
@@ -302,7 +304,9 @@
     - name: How to Use Customer Ranking
       url: /docs/garagehive-customer-ranking.html
     - name: How to Manage Mobile Service Work
-      url: /docs/garagehive-mobile-service-work.html 
+      url: /docs/garagehive-mobile-service-work.html
+    - name: How to Housekeep Your Garage Hive System
+      url: /docs/garagehive-housekeep-your-system.html
 - name: Technicians Operations
   url: "#"
   subitems:
