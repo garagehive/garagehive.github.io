@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Installing the Power BI App
+title: Installing the Power BI App on Business Central Cloud
 ---
 
 > **Important:**
@@ -15,60 +15,47 @@ To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
 2. After clicking the link, you will receive a notification in **Power BI** asking if you want to install the app. Select **Install**. 
 
-   ![](media/garagehive-installing-powerbi-app1.png)
+   ![](media/garagehive-installing-powerbi-app-cloud1.png)
 
-3. Once the app  has installed, go to your apps on Power BI and open the **Garage Hive Power BI** app. Select the app to open.
+3. Once the app  has installed, go to your apps on Power BI and open the **Garage Hive Power BI** app for BC cloud. Select the app to open.
 
-   ![](media/garagehive-installing-powerbi-app2.png)
+   ![](media/garagehive-installing-powerbi-app-cloud2.png)
 
 4. When you open the app, you will see a warning at the top that says, "You're viewing this app with sample data. **Connect Your Data**." Select **Connect Your Data**. 
 
-   ![](media/garagehive-installing-powerbi-app3.png)
+   ![](media/garagehive-installing-powerbi-app-cloud3.png)
 
 5. A page to enter your **Company Details** opens.
 
-   ![](media/garagehive-installing-powerbi-app4.png)
+   ![](media/garagehive-installing-powerbi-app-cloud4.png)
 
 6. Enter your **Company Details**; you can find these by using the search function to find **GH Power BI App Setup** within **Garage Hive**. Make sure that the setup is **Enabled**.
 
-   ![](media/garagehive-installing-powerbi-app3.gif)
+   ![](media/garagehive-installing-powerbi-app-cloud5.png)
 
 7. Enter these details into the relevant fields and click **Next**.
-
-   ![](media/garagehive-installing-powerbi-app5.png)
-
 8. You will now be asked to authorise the connection to your **Garage Hive** system. 
-9. Select the Authentication method as **Basic**, enter your **Username** and **Password** (use the **Web Service Access Key** - click on the three dots to view) from your **Power BI App Setup**.
+9. Select the Authentication method as **OAuth2**.   
+10.  Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. 
 
-   {% include tip.html title="Note" text="We recommend using the Web Service Access Key since it's independent of the Garage Hive system password. This means, if your Garage Hive system is reset, your Power BI App will continue working as usual without crashing." %}
-   
-10.  Leave the **Privacy Level Setting** as it is and **Sign In and Connect**. Your **Power BI App** will now start refreshing.
+     ![](media/garagehive-installing-powerbi-app-cloud6.png)
 
-     ![](media/garagehive-installing-powerbi-app5.gif)
+11. You will be redirected to the Business Central cloud sign-in page. Select the account to connect with.
 
-11. If you successfully authorise your **Garage Hive** system, you should see the data refreshing under **Workspaces**, select **Garage Hive** app and then **Datasets+Dataflows** option.
+     ![](media/garagehive-installing-powerbi-app-cloud7.png)
 
-     ![](media/garagehive-installing-powerbi-app6.gif)
+12. If you successfully authorise your **Garage Hive** system, you should see the data refreshing.
+13. You can view the refresh progress in **Workspaces**, select the **Garage Hive Power BI** app.
 
-12. You can now add the app to your **Favourites**, for easier accessibility.
+     ![](media/garagehive-installing-powerbi-app-cloud8.png)
 
-     ![](media/garagehive-installing-powerbi-app7.gif)
+14. You can now add the app to your **Favourites**, for easier accessibility.
+
+     ![](media/garagehive-installing-powerbi-app-cloud9.png)
 
 The app is now ready to use.
 
 You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
-
-## **Admin Portal Settings.**
-If you are having any trouble when installing, check the **Admin Portal Settings**.
-
-To do this:
-1. login to your **Garage Hive Power BI** and go to your **Admin Portal**. 
-
-   ![](media/powerbi-admin.png)
-
-2. Once you are in your **Admin Portal**, select **Tenant settings**, scroll to the bottom of the page and enable **Install Template Apps Not Listed in AppSource** and click **Apply**. 
-
-![](media/powerbi-admin-install-template-apps.png)
 
 
 <br>
