@@ -1,13 +1,13 @@
 ---
 layout: docs
-title: Installing the Power BI App on Business Central Cloud
+title: Installing the Power BI App on Business Central Online
 ---
 
 > **Important:**
 > 
 > Before installing the **Power BI App**, you should first setup your **Average Labour Rate** in Garage Hive. - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate"){:target="_blank"}.
 
-# Installing the Power BI App
+# Installing the Power BI App on Business Central Online
 
 > # Power BI installation link: <ins>[Garage Hive Power BI App - V59 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=739eb02b-643e-4bc3-a9ae-61191a89452d&packageKey=73750ca0-52fb-4db8-8fa7-ef5f61e392fdL0ZFggHiQecl0eblitlIqTDEo2P7-Ie6bb7CWfsuW8A&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=59 "Power BI V59 Download"){:target="_blank"}</ins>
 
