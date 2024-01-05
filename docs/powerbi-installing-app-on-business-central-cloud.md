@@ -55,7 +55,7 @@ To install the app:
 
 The app is now ready to use.
 
-You can setup a refresh schedule, learn more here - [How to refresh your data](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
+You can setup a refresh schedule, learn more here - [How to refresh your data.](https://docs.garagehive.co.uk/docs/powerbi-refresh-data.html "How to refresh your data"){:target="_blank"}
 
 ## Admin Portal Settings
 If you are having any trouble when installing, check the **Admin Portal Settings**.
