@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - How to Housekeep Your Garage Hive System
+title: How to Housekeep Your Garage Hive System
 ---
 
 <a name="top"></a>
