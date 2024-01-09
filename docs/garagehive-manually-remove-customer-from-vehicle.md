@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Removing Customer Ownership from a Vehicle Card in Garage Hive
+title: Removing Customer Ownership from a Vehicle Card in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Removing Customer Ownership from a Vehicle Card in Garage Hive
 When a vehicle changes ownership, the previous owner may still receive reminders about the vehicle, even if they are no longer the owner. Here's how to remove the ownership from the vehicle:
