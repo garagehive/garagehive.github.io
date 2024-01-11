@@ -51,4 +51,4 @@ title: How to Process Factored Debt in Garage Hive
 <br>
 
 ### **See Also**
-[Take Payment for posted documents](/docs/take-payment.html#take-payment){:target="_blank"}
+[Take Payment for posted documents](take-payment.html#take-payment){:target="_blank"}
