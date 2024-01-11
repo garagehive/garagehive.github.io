@@ -30,7 +30,7 @@ See the video below or follow the written instructions to take payments for post
 
    ![](media/take-payment-apply-to-document.png)
 
-6. On this page, you can pay for the documents you want by checking the **"Payment Made"** box. If the value paid differs from the balance of the document, change it in the **"Amount received"** column. When the Payment made check box is selected on any document, the amount received will default to the full amount owed.
+6. [On this page](#take-payment), you can pay for the documents you want by checking the **"Payment Made"** box. If the value paid differs from the balance of the document, change it in the **"Amount received"** column. When the Payment made check box is selected on any document, the amount received will default to the full amount owed.
 
    ![](media/take-payment-entries.png)
 
