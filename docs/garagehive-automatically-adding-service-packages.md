@@ -22,7 +22,7 @@ To begin automatically applying service packages in jobsheets, link **Service Ty
 
 4. This also applies when booking from the **Schedule**. You can book a **Service Type** is linked to a **Service Package**, and the **Service Package** will be added automatically.
 
-   ![](media/garagehive-trial-creating-a-purchase-order4.gif)
+   ![](media/garagehive-automatically-adding-service-packages4.gif)
 
 
 [Go back to top](#top)
