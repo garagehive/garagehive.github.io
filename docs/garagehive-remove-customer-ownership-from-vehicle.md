@@ -27,6 +27,9 @@ When a vehicle changes ownership, the previous owner may still receive reminders
 
 4. This will remove the customer from the ownership of the vehicle and they will no longer receive reminders related with the vehicle.
 
+
+[Go back to top](#top)
+
 ## Using the Customer Opt Out Link in the Reminder Message
 1. When customers receive email or SMS reminders, they can use the **Opt-Out Link** to indicate they no longer own the vehicle.
 
