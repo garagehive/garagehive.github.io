@@ -43,4 +43,5 @@ When a vehicle changes ownership, the previous owner may still receive reminders
 
    ![](media/garagehive-remove-customer-from-vehicle-opt-out3.png)
 
+
 [Go back to top](#top)
