@@ -39,5 +39,8 @@ When a vehicle changes ownership, the previous owner may still receive reminders
   
    ![](media/garagehive-remove-customer-from-vehicle-opt-out2.png)
 
+3. The system automatically removes the customer's name from the vehicle card when the first option is deselected.
+
+   ![](media/garagehive-remove-customer-from-vehicle-opt-out3.png)
 
 [Go back to top](#top)
