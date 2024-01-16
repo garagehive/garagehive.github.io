@@ -1,9 +1,12 @@
 ---
 layout: docs
-title: Using the Reminded Not Booked Tiles
+title: DRAFT* - Using the Reminded Not Booked Tiles
 ---
 
 <a name="top"></a>
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
 
 # Using the Reminded Not Booked Tiles
 The primary goal of sending reminders to customers is to prompt them to book the service they were notified about. However, in some cases, the customer may not book as expected and require further follow-up. This is where the **Reminded Not Booked** feature is useful. It creates a list within the system to help you keep track of which customers need follow-up action regarding their booking.
