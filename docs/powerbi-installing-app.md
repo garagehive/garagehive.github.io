@@ -13,7 +13,7 @@ title: Installing the Power BI App
 
 To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
-2. After clicking the link, you will receive a notification in **Power BI** asking if you want to install the app. Select **Install**. 
+2. After clicking the link, you will receive a notification in **Power BI** asking if you want to install the app. Select **Install**. If you are having any trouble when installing, read about [admin portal settings](#admin-portal-settings).
 
    ![](media/garagehive-installing-powerbi-app1.png)
 
