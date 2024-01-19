@@ -61,7 +61,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
    ![](media/garagehive-reminded-not-booked-tiles3.png)
 
 6. To move a line to the **In Process** tile or mark it as closed, click **Process** and choose either **Set In Process** or **Mark as Closed**.
-7. Any reminder older than 30 days is automatically closed and removed from the tiles. If a reminder remains in the New state and passes its due date, it will automatically be set to Closed. 
+7. If a reminder remains in the New state and passes its due date, it will automatically be set to Closed. 
 
    ![](media/garagehive-reminded-not-booked-tiles4.png)
 
