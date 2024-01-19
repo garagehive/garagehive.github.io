@@ -27,9 +27,12 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
    ![](media/garagehive-reminded-not-booked-setup2.png)
 
 4. In the **General** FastTab, choose how you want the system to update vehicle data when the **Reminded Not Booked** notification is sent. You have three options:
+
+    {% include tip.html title="Note" text="Changing the setup from None to any other option will result in more data lookups than usual, and this will be reflected in your subscription. Details outlined below. RShould you need assistance or clarification, feel free to reach out to our support team." %}
+
    - **None**: No updates to vehicle data will be made.
    - **Update MOT**: Updates the MOT data for applicable vehicles. Standard charges apply.
-   - **Update MOT & Vehicle Data by VIN**: Updates all vehicle data using the vehicle's VIN, but only if it wasn't looked up in the last 30 days. This update is done once every 30 days. Standard charges apply.
+   - **Update MOT & Vehicle Data by VIN**: Updates all vehicle data using the vehicle’s VIN, but only if it wasn’t looked up in the last 30 days; if however the reason for needing a lookup is because of an MOT an MOT lookup will be done instead of a VIN lookup. Standard charges apply.
 
       ![](media/garagehive-reminded-not-booked-setup3.png)
 
@@ -41,9 +44,6 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 [Go back to top](#top)
 
 ### Reviewing Reminded Not Booked Tiles
-
-   {% include tip.html title="Note" text="Depending with the Reminded Not Booked setup, vehicle data updates using the VIN lookup occur only once every 30 days. If the update has happened in the last 30 days only, only the MOT data will be updated. " %}
-
 1. Once the **Reminded Not Booked** Setup is enabled, you'll see the following tiles under the **Reminded Not Booked** heading in your Role Centre.
 
    ![](media/garagehive-reminded-not-booked-tiles1.png)
@@ -61,7 +61,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
    ![](media/garagehive-reminded-not-booked-tiles3.png)
 
 6. To move a line to the **In Process** tile or mark it as closed, click **Process** and choose either **Set In Process** or **Mark as Closed**.
-7. Any reminder older than 30 days is automatically closed and removed from the tiles.
+7. Any reminder older than 30 days is automatically closed and removed from the tiles. If a reminder is still in **New** state and its due date becomes over due it will be set to **Automatically Closed.** 
 
    ![](media/garagehive-reminded-not-booked-tiles4.png)
 
