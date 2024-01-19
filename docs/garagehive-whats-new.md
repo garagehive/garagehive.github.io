@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 19th January 2024
+* Added the ability for the customers to mark their vehicle as sold from a reminder notification to stop receiving further reminders, [read more](garagehive-remove-customer-ownership-from-vehicle.html#using-the-customer-opt-out-link-in-the-reminder-message){:target="_blank"}.
+
+   ![](media/customer-ownership-opt-out.png)
+
 ### 20th December 2023
 * Added the ability to rank customers based on your interactions with them at the garage; for example, you may rank a customer according to their past purchasing behaviours, [read more](garagehive-customer-ranking.html){:target="_blank"}.
 
