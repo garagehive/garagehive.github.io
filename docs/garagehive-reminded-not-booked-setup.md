@@ -73,7 +73,7 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
    ![](media/garagehive-reminded-not-booked-tiles6.png)
 
-10. To add a specific **Reason Code** or a **Comment** to a reminder, click **Edit List**. Then select the appropriate reason in the **Reason Code** column and enter your comment in the **Review Comment** column.
+10. To add a specific **Reason Code** or a **Comment** to a reminder, click **Edit List**. Then select the appropriate reason in the **Reason Code** column and enter your comment in the **Review Comment** column. To learn more on how to set up the **Reason Codes**, [click here](garagehive-service-reason-codes.html){:target="_blank"}.
 
    ![](media/garagehive-reminded-not-booked-tiles7.png)
 
