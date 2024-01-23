@@ -4,8 +4,7 @@ title: Adding and Managing Media in Garage Hive
 ---
 
 # Managing Media List in Garage Hive
-
-With the ability to add images to the system, it is now easier to manage all of the images that have been added so that there is a smooth way of linking images to documents, adding images to documents, and so on.
+In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents. This feature enhances the visual appeal what you want to communicate to the customers.
 
 ## In this article
 
@@ -17,17 +16,33 @@ With the ability to add images to the system, it is now easier to manage all of 
    {% include tip.html title="Note" text="When you upload media to Garage Hive, larger images are downscaled to 1500x2000px or 2000x1500px if the ratio is 3x4." %}
 
 ### Adding media to group lines
-To add media in group lines, follow these steps:
-1. In the **Group Items** section, under the **Media Count** column, select the cell in the line to add the media.
-2. On the **Linked Media** page, click **New** from the menu bar, and then choose the method for adding the media.
-3. You can link existing media in the system, take a picture, or upload from your device. In this case, we'll click **Upload Picture**, and select the media to add.
+To add media in group lines for Jobsheets, Estimates or VIEs, follow these steps:
+1. In the **Group Items** section, under the **Media Count** column, click on the cell in the line to add the media.
 
-   ![](media/garagehive-adding-and-managing-media1.gif)
+   ![](media/garagehive-adding-and-managing-media1.png)
 
-4. The newly added media is now linked to the selected group item.
-5. When the online document is published, the customer will be able to see the media that has been added to that group.
+2. On the **Linked Media** page, click **New** from the menu bar, and then choose the method for adding the media. You can choose either of the following:
 
-   ![](media/garagehive-adding-and-managing-media2.gif)
+      ![](media/garagehive-adding-and-managing-media2.png)
+
+   - **Link Vehicle Picture** - This allows access to the vehicle pictures added in the system, and link them to the open document.
+   - **Link Document Picture** - This allows access the document pictures added in the system, and link them to the open document.
+   - **Add Vehicle Visuals** - This allows access to videos in the Vehicle Visuals videos (paid plan), and link them to the open document. When you click on **Add Vehicle Visuals**, select the video you want to add and click **OK.**
+      
+      ![](media/garagehive-adding-and-managing-media3.png)
+
+   - **Add YouTube Video** - This allows adding a link of a video from YouTube, and link it to the open document. When you click on **Add YouTube Video**, copy the link of the video you want and paste the link in the **YouTube Video URL** and press the tab key. The **YouTube Video ID** will be automatically filled and you can enter the **Description**. Click **OK** when done.
+
+      ![](media/garagehive-adding-and-managing-media4.png)
+
+3. After adding media, click **Open Online** to view the desired video.
+
+   ![](media/garagehive-adding-and-managing-media6.png)
+
+4. The newly added media will now be linked to the selected group item.
+5. When the online document is published, the customer will be able to see the media that has been added to that group. [Click here](garagehive-online-documents-previewing-and-publishing-online-documents.html), to read more on how to publish an online document.
+
+   ![](media/garagehive-adding-and-managing-media9.png)
 
 ### Adding media to document lines
 Follow these steps to add media into document lines:
