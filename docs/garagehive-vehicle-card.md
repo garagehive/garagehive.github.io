@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Vehicle Card
+title: Vehicle Card
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 ## Vehicle Card
 A vehicle card is a valuable tool in Garage Hive, used to store and organize information about a specific vehicle. The information on the card is typically composed of a combination of data obtained through a VRM (Vehicle Registration Mark) lookup, as well as manual input. This information is organized into several sub-headings to make it easy to find and reference. 
