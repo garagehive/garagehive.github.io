@@ -10,13 +10,14 @@ In the Garage Hive system, the **User Management** page allows creation of licen
 
 ## In this article
 1. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
-2. [Creating a Service Advisor user](#creating-a-service-advisor-user)
-3. [Creating a Technician user](#creating-a-technician-user)
-4. [Enabling and disabling a user](#enabling-and-disabling-the-user)
-5. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
-6. [Enabling Data Permissions for a User](#enabling-data-permissions-for-a-user)
-7. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory-aad)
-8. [How to Filter Out Service Advisor Tiles For a User](#how-to-filter-out-service-advisor-tiles-for-a-user)
+2. [Checking User Licences Available In the System](#checking-user-licences-available-in-the-system)
+3. [Creating a Service Advisor user](#creating-a-service-advisor-user)
+4. [Creating a Technician user](#creating-a-technician-user)
+5. [Enabling and disabling a user](#enabling-and-disabling-the-user)
+6. [Password reset for garage hive user](#password-reset-for-garage-hive-user)
+7. [Enabling Data Permissions for a User](#enabling-data-permissions-for-a-user)
+8. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory-aad)
+9. [How to Filter Out Service Advisor Tiles For a User](#how-to-filter-out-service-advisor-tiles-for-a-user)
 
 ### Adding and removing a user licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
@@ -34,6 +35,23 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
    **'Your request was submitted to Garage Hive support. You should receive a confirmation email immediately. Please note that processing Microsoft licences can take up to 48 hours.'**
 
    {% include tip.html title="Note" text="If you did not receive the automated email confirmation, please contact the support team as they may not have received the request." %}
+
+[Go back to top](#top)
+
+### Checking User Licences Available In the System
+To check the number of user licences available in your system:
+1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
+
+   ![](media/garagehive-user-management-check-licences1.png)
+
+2. In the top right corner, you'll find an information icon (ℹ️). Click on it.
+
+   ![](media/garagehive-user-management-check-licences2.png)
+
+3. This action will open a new sidebar on the right side of the screen, where the total number of GH user licences currently available in your system can be viewed.
+
+   ![](media/garagehive-user-management-check-licences3.png)
+
 
 [Go back to top](#top)
 
