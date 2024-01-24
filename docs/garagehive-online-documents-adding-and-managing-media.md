@@ -1,58 +1,54 @@
 ---
 layout: docs
-title: Adding and Managing Media in Garage Hive
+title: DRAFT* - Adding and Managing Media in Garage Hive
 ---
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
 
 # Managing Media List in Garage Hive
 In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents. This feature enhances the visual appeal what you want to communicate to the customers.
 
 ## In this article
 
-1. [Adding Media to Group Lines](#adding-media-to-group-lines)
-2. [Adding Media to Document Lines](#adding-media-to-document-lines)
-3. [Adding Media to Checklist Lines](#adding-media-to-checklist-lines)
-4. [Managing All Added Media](#managing-all-added-media)
+1. [Adding Media to Group Lines and Document Lines](#adding-media-to-group-lines-and-document-lines)
+2. [Adding Media to Checklist Lines](#adding-media-to-checklist-lines)
+3. [Managing All Added Media](#managing-all-added-media)
 
    {% include tip.html title="Note" text="When you upload media to Garage Hive, larger images are downscaled to 1500x2000px or 2000x1500px if the ratio is 3x4." %}
 
-### Adding media to group lines
-To add media in group lines for Jobsheets, Estimates or VIEs, follow these steps:
+### Adding Media to Group Lines and Document Lines
+To add media in group lines for Jobsheets, Estimates or VIEs, or in document lines for Jobsheets follow these steps:
 1. In the **Group Items** section, under the **Media Count** column, click on the cell in the line to add the media.
 
    ![](media/garagehive-adding-and-managing-media1.png)
 
-2. On the **Linked Media** page, click **New** from the menu bar, and then choose the method for adding the media. You can choose either of the following:
+2. For adding media to document lines in Jobsheets, first select the desired line from the document lines. Then, go to the **Lines** menu bar, choose **Line** and then **Line Media**.
+  
+   ![](media/garagehive-adding-and-managing-media10.png)
+
+3. On the **Linked Media** page, click **New** from the menu bar, and then choose the method for adding the media. You can choose either of the following:
 
       ![](media/garagehive-adding-and-managing-media2.png)
 
-   - **Link Vehicle Picture** - This allows access to the vehicle pictures added in the system, and link them to the open document.
-   - **Link Document Picture** - This allows access the document pictures added in the system, and link them to the open document.
-   - **Add Vehicle Visuals** - This allows access to videos in the Vehicle Visuals videos (paid plan), and link them to the open document. When you click on **Add Vehicle Visuals**, select the video you want to add and click **OK.**
+   - **Link Vehicle Picture** - This option lets you link existing vehicle media in the system to your current document.
+   - **Link Document Picture** - This option lets you link already uploaded media to documents in the system to your current document.
+   - **Add Vehicle Visuals** - This option lets you access and link videos from the Vehicle Visuals library (available with a paid plan) to your current document. To do this, select **Add Vehicle Visuals**, choose your desired video, and click **OK**.
       
       ![](media/garagehive-adding-and-managing-media3.png)
 
-   - **Add YouTube Video** - This allows adding a link of a video from YouTube, and link it to the open document. When you click on **Add YouTube Video**, copy the link of the video you want and paste the link in the **YouTube Video URL** and press the tab key. The **YouTube Video ID** will be automatically filled and you can enter the **Description**. Click **OK** when done.
+   - **Add YouTube Video** - This option enables you to link a YouTube video to your current document. Select **Add YouTube Video**, then copy and paste the video's link into the **YouTube Video URL** field. Press the tab key, and the **YouTube Video ID** will fill in automatically. You can then add a **Description** and click **OK** to complete the process.
 
       ![](media/garagehive-adding-and-managing-media4.png)
 
-3. After adding media, click **Open Online** to view the desired video.
+4. After adding media, click **Open Online** to view the desired video.
 
    ![](media/garagehive-adding-and-managing-media6.png)
 
-4. The newly added media will now be linked to the selected group item.
-5. When the online document is published, the customer will be able to see the media that has been added to that group. [Click here](garagehive-online-documents-previewing-and-publishing-online-documents.html), to read more on how to publish an online document.
+5. The newly added media will now be linked to the selected group item or document line.
+6. When the online document is published, the customer will be able to see the media that has been added. [Click here](garagehive-online-documents-previewing-and-publishing-online-documents.html), to read more on how to publish an online document.
 
    ![](media/garagehive-adding-and-managing-media9.png)
-
-### Adding media to document lines
-Follow these steps to add media into document lines:
-1. Select the line to which you want to add media from the document lines.
-2. From the menu bar, select **Line** and then **Line Media**.
-3. In the new window that appears, select **New** and then select the method for adding the media. In our case we'll choose **Upload Picture**.
-
-   ![](media/garagehive-adding-and-managing-media3.gif)
-
-4. Similar to adding media to group lines, the picture added to the document line will be displayed on the online document when it is published.
 
 ### Adding media to checklist lines
 When creating a checklist, use the steps below to add media to the checklist lines:
@@ -73,18 +69,18 @@ When creating a checklist, use the steps below to add media to the checklist lin
 A list of all added media to the system can be viewed and managed. To do so, follow these steps:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Media List** and select the related link.
 
-   ![](media/garagehive-adding-and-managing-media6.gif)
+   ![](media/garagehive-adding-and-managing-media12.png)
 
 2. The following actions are available to help you manage the media:
 
    ![](media/garagehive-adding-and-managing-media7.png)
 
-  * **Search** - Used when looking for a specific media file based on description, date, or other criteria.
-  * **+New** - Used to add new media to the system.
-  * **Take** - Used to add new media to the system by capturing it with the device's camera.
-  * **Download Picture** - Used to save a picture from the system to your device.
-  * **Open Online** - Used to open the media using a browser link, making it appear large.
-  * **References** - Used to open a list of all the links that the media has in the system, which could be a jobsheet, a checklist, or something else.
+   * **Search** - Use this to find a specific media file, filtering by description, date, or other parameters.
+   * * **+New** - This allows you to create a new media card.
+   * * **Take** - Select this to capture an image directly using your device's camera.
+   * * **Download Picture** - Use this option to save an image from the system onto your device.
+   * * **Open Online** - This opens the media in a browser link.
+   * * **References** - Used to open a list of all the links related to the media in the system, which could be a Jobsheet, a Checklist, etc.
 
 <br>
 
