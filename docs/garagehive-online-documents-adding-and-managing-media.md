@@ -3,6 +3,8 @@ layout: docs
 title: DRAFT* - Adding and Managing Media in Garage Hive
 ---
 
+<a name="top"></a>
+
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
@@ -10,7 +12,6 @@ We are currently reviewing this article before it is published, check back later
 In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents. This feature enhances the visual appeal what you want to communicate to the customers.
 
 ## In this article
-
 1. [Adding Media to Group Lines and Document Lines](#adding-media-to-group-lines-and-document-lines)
 2. [Adding Media to Checklist Lines](#adding-media-to-checklist-lines)
 3. [Managing All Added Media](#managing-all-added-media)
@@ -50,6 +51,9 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
 
    ![](media/garagehive-adding-and-managing-media9.png)
 
+
+[Go back to top](#top)
+
 ### Adding media to checklist lines
 When creating a checklist, use the steps below to add media to the checklist lines:
 1. From the checklist lines, select the ellipsis (...) at the end of the checklist line to add the media.
@@ -64,6 +68,9 @@ When creating a checklist, use the steps below to add media to the checklist lin
 4. To automatically start the take picture option when an attention option is selected, search for **Process Checklist Setup**, and on the **Process Checklist Setup** page, select the slider on **Take Line Picture On Attention** field.
 
    ![](media/garagehive-adding-and-managing-media8.png)
+
+
+[Go back to top](#top)
 
 ### Managing all added media
 A list of all added media to the system can be viewed and managed. To do so, follow these steps:
@@ -81,6 +88,9 @@ A list of all added media to the system can be viewed and managed. To do so, fol
    * * **Download Picture** - Use this option to save an image from the system onto your device.
    * * **Open Online** - This opens the media in a browser link.
    * * **References** - Used to open a list of all the links related to the media in the system, which could be a Jobsheet, a Checklist, etc.
+
+
+[Go back to top](#top)
 
 <br>
 
