@@ -33,7 +33,7 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
       ![](media/garagehive-adding-and-managing-media2.png)
 
    - **Link Vehicle Picture** - This option lets you link existing vehicle media in the system to your current document.
-   - **Link Document Picture** - This option lets you link already uploaded media to documents in the system to your current document.
+   - **Link Document Picture** - This option lets you link the media attached to this document to another part of the document like group items or lines.
    - **Add Vehicle Visuals** - This option lets you access and link videos from the Vehicle Visuals library (available with a paid plan) to your current document. To do this, select **Add Vehicle Visuals**, choose your desired video, and click **OK**.
       
       ![](media/garagehive-adding-and-managing-media3.png)
@@ -42,7 +42,7 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
 
       ![](media/garagehive-adding-and-managing-media4.png)
 
-4. After adding media, click **Open Online** to view the desired video.
+4. After adding media, click **Open Online** to view the desired video or picture.
 
    ![](media/garagehive-adding-and-managing-media6.png)
 
