@@ -9,7 +9,7 @@ title: Installing the Power BI App on Business Central Online
 
 # Installing the Power BI App on Business Central Online
 
-> # Power BI installation link: <ins>[Garage Hive Power BI App For BC Cloud - V1 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=44d2cec5-65d3-42b3-8327-30913727847d&packageKey=9fb1ca65-5c32-4152-9913-9736a138285340-H93cU8k32wvk-E3icMw-WOtx4woyztb-nbWJgSvU&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=1 "Power BI V1 Download"){:target="_blank"}</ins>
+> # Power BI installation link: <ins>[Garage Hive Power BI App For BC Cloud - V3 Download](https://app.powerbi.com/Redirect?action=InstallApp&appId=44d2cec5-65d3-42b3-8327-30913727847d&packageKey=bfc71ad3-4aa0-4a38-875b-55750b35e9bbKY-nwaffTgRCzVNUAGSRbA4WmusUt-v-bsD0OAqFoAQ&ownerId=1bde89ad-b4ce-45df-a919-e1e08e47294d&buildVersion=3 "Power BI V3 Download"){:target="_blank"}</ins>
 
 To install the app:
 1. Click on the installation link above. Make sure you are logged into your **Garage Hive Power BI** on the same web browser. 
