@@ -6,6 +6,17 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 30th January 2024
+* Added a default branch code for vehicle cards, so that the location specific vehicle reminders can be sent, [read more](garagehive-vehicle-card.html#adding-a-default-location-code-to-vehicle-card){:target="_blank"}.
+* Added the capability to include videos from external platforms, such as YouTube and Service Visuals into the online job authorisation, [read more](garagehive-online-documents-adding-and-managing-media.html#adding-media-to-group-lines-and-document-lines){:target="_blank"}.
+
+   ![](media/videos-from-external-platforms.png)
+
+* Added **Reminded Not Booked** tiles which shows a list of reminders sent to customers who have not yet booked. This feature helps you keep track of which customers require follow-up action regarding their booking, [read more](garagehive-reminded-not-booked-setup.html){:target="_blank"}.
+
+   ![](media/reminded-not-booked-tiles.png)
+
+
 ### 19th January 2024
 * Added the ability for the customers to mark their vehicle as sold from a reminder notification to stop receiving further reminders, [read more](garagehive-remove-customer-ownership-from-vehicle.html#using-the-customer-opt-out-link-in-the-reminder-message){:target="_blank"}.
 
