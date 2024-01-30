@@ -36,7 +36,11 @@ This setup can be only be done by a **System Admin**. To Setup the **Reminded No
 
       ![](media/garagehive-reminded-not-booked-setup3.png)
 
-5. Once you've completed the setup, click the **Enabled** slider to enable the setup in the system.
+5. To understand better how the logic for the setup works, please refer to this flowchart.
+
+    ![](media/garagehive-reminded-not-booked-setup5.png) 
+
+6. Once you've completed the setup, click the **Enabled** slider to enable the setup in the system.
 
    ![](media/garagehive-reminded-not-booked-setup4.png)
 
