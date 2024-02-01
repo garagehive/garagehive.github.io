@@ -13,7 +13,7 @@ This feature enables garages to import catalogue items along with their prices i
 
 1. Start by downloading the Excel template (CSV format) below, which you will use to add all the items you wish to add in the system.
 
-   > # Download the Import Catalogue Items with Prices Template: <ins>[Import Catalogue Items Template](import-catalogue-items-with-prices.csv){:target="_blank"}</ins>
+   > Download the Import Catalogue Items with Prices Template: <ins>[Import Catalogue Items Template](import-catalogue-items-with-prices.csv){:target="_blank"}</ins>
 
 2. The excel template has the following fields available to fill:
 
@@ -41,6 +41,8 @@ This feature enables garages to import catalogue items along with their prices i
 6. Once the file is imported, you can view the added catalogue items by clicking the ![](media/search_icon.png) icon, enter **Catalogue Items** and select the related link.
 
    ![](media/garagehive-import-catalogue-items-with-prices5.png)
+
+7. If you import another file, with a similar item to a previously imported file, the existing item description and price will be updated to match the one of the newly imported file.
 
 
 [Go back to top](#top)
