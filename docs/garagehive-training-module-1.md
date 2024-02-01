@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Garage Hive Training Modules for Beginners - Service Advisor
+title: Garage Hive Training Module 1 for Beginners - Service Advisor
 --- 
 
 <a name="top"></a>
