@@ -14,7 +14,23 @@ Garage Hive has made it possible to integrate QuickBooks online accounting syste
 3. [Integrate Payment Methods](#integrate-payment-methods)
 
 ### Initial Setup
-To integrate **QuickBooks Online** with Garage Hive:
+To integrate **QuickBooks Online** with Garage Hive, follow these steps.
+
+#### Quickbooks Mandatory Setup
+To be able to integrate QuickBooks Online with Garage Hive, the following mandatory setup must be done on your QuickBooks Online system:
+1. Click on the settings ![](media/settings.png) icon in the top right corner of screen, and choose **Accounts and Settings** from the dropdown menu..
+
+   ![](media/garagehive-quickbooks-online-mandatory-settings1.png)
+
+2. Select **Advanced** tab  located on the left side. Then, click on the edit icon along the **Automation** section.
+
+   ![](media/garagehive-quickbooks-online-mandatory-settings2.png)
+
+3. Fidn and disable the **Automatically Apply Credits** option, and click on **Save**.
+
+   ![](media/garagehive-quickbooks-online-mandatory-settings3.png)
+
+#### Garage Hive Initial Setup
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
 
    ![](media/garagehive-quickbooks-online-integration1.png)
