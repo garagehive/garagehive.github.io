@@ -353,6 +353,8 @@
       url: /docs/garagehive-set-up-self-service-change-log.html
     - name: Add Comments to Cards and Documents
       url: /docs/garagehive-comments-extended.html
+    - name: Creating Service Reason Codes
+      url: /docs/garagehive-service-reason-codes.html
     - name: System Created Comments for Attention
       url: /docs/garagehive-system-created-comments-for-attention.html
     - name: Copy Documents
