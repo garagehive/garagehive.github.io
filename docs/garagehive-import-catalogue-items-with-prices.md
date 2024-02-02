@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Importing Catalogue Items with Prices in Garage Hive
+title: Importing Catalogue Items with Prices in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Importing Catalogue Items with Prices in Garage Hive
 This feature enables garages to import catalogue items along with their prices in Garage Hive. This ensures that the catalogue list is updated with new items and that existing item prices and descriptions are up-to-date. This feature also makes it easy to quickly add catalogue items to the inventory with the updated prices, which streamlines the inventory management process. To import the catalogue items with prices:
@@ -42,7 +39,7 @@ This feature enables garages to import catalogue items along with their prices i
 
    ![](media/garagehive-import-catalogue-items-with-prices5.png)
 
-7. If you import another file, with a similar item to a previously imported file, the existing item description and price will be updated to match the one of the newly imported file.
+7. If you import a file with an item matching a previously imported item, the system will update the description and price of the existing item to match the newly imported item.
 
 
 [Go back to top](#top)
