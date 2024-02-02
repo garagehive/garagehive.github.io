@@ -64,7 +64,7 @@ To add the **External System No.** to the **Payments Methods**:
 
    ![](media/garagehive-sage-50-accounts-integration9.png)
 
-2. In the **External System No.** column, enter the corresponding code for the **Payment Methods** that you use in your external system.
+2. In the **External System No.** column, click on the three dots to select the corresponding code for the **Payment Methods** that you use in your external system.
 
    ![](media/garagehive-sage-50-accounts-integration10.png)
 
