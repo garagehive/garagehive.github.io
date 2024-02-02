@@ -322,8 +322,8 @@
       url: /docs/garagehive-technicians-vehicle-inspections.html
     - name: Terminal 
       url: /docs/garagehive-terminal-user.html 
-    - name: Vehicle Card Contents
-      url: /docs/garagehive-vehicle-card.html 
+    - name: Vehicle Card Details
+      url: /docs/garagehive-vehicle-card.html
     - name: Setting Up Devices 
       url: /docs/garagehive-setting-up-devices.html
 - name: General Functionality
