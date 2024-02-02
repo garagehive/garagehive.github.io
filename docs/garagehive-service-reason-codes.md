@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Creating Service Reason Codes in Garage Hive
+title: Creating Service Reason Codes in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Creating Service Reason Codes in Garage Hive
 The **Service Reason Codes**  are used to explain why a customer did not proceed with the service booking. Here is how to create the **Service Reason Codes** in the system:
