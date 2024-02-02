@@ -260,6 +260,8 @@
       url: /docs/garagehive-non-inventory.html
     - name: How to View Item History from a Document
       url: /docs/garagehive-how-to-view-item-history-from-a-document.html
+    - name: How to Import Catalogue Items with Prices
+      url: /docs/garagehive-import-catalogue-items-with-prices.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
       url: /docs/garagehive-requisition-worksheet.html
     - name: How to Use Item Lookup and Advance Tyre Lookup Feature
