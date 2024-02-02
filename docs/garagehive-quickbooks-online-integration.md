@@ -26,7 +26,7 @@ To be able to integrate QuickBooks Online with Garage Hive, the following mandat
 
    ![](media/garagehive-quickbooks-online-mandatory-settings2.png)
 
-3. Fidn and disable the **Automatically Apply Credits** option, and click on **Save**.
+3. Disable the **Automatically Apply Credits** option, and click on **Save**.
 
    ![](media/garagehive-quickbooks-online-mandatory-settings3.png)
 
@@ -35,27 +35,14 @@ To be able to integrate QuickBooks Online with Garage Hive, the following mandat
 
    ![](media/garagehive-quickbooks-online-integration1.png)
 
-2. In the **General** FastTab, select **QuickBooks Online** as your accounting system in the **Accountancy System** field.
+2. In the **General** FastTab, select **QuickBooks Online v2** as your accounting system in the **Accountancy System** field.
 
    ![](media/garagehive-quickbooks-online-integration2.png)
 
-3. Turn on the **Integration Enabled** slider and select **Document Date** in both the **Export Customer Ledger by** and **Export Vendor Ledger by** fields.
+3. Select **Document Date** in both the **Export Customer Ledger by** and **Export Vendor Ledger by** fields, and turn on the **Integration Enabled** slider.
 
    ![](media/garagehive-quickbooks-online-integration3.png)
 
-4. From the menu bar Select **Init. Customers** and **Init. Vendors**, then click **Yes** in the pop-up windows. This generates an **External System No.** for all **Customer** and **Vendor** cards in Garage Hive. Exit the page.
-
-   ![](media/garagehive-quickbooks-online-integration4.gif)
-
-5. When you open any **Customer** or **Vendor** card, you will see the **External System No.** as shown below.
-
-   * Customer Card:
-  
-      ![](media/garagehive-quickbooks-online-integration5.png)
-
-   * Vendor Card:
-
-      ![](media/garagehive-quickbooks-online-integration6.png)
 
 [Go back to top](#top)
 
