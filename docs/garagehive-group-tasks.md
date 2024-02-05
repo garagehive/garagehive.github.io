@@ -9,7 +9,7 @@ title: DRAFT* - How to Use Group Tasks in Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # How to Use Group Tasks in Garage Hive
-In Garage Hive, **Group Tasks** are used to categorise jobs that are similar and assign technicians who can work on them. This ensures that you are able to assign the jobs to the relevant technicians on the schedule. For instance, you can group all the Tyre jobs together. Here is how to create **Group Tasks** in Garage Hive:
+In Garage Hive, **Group Tasks(Pool Jobs)** are used to allow a group of technicians to choose from a pool of jobs. This allows you to book to one bay on the schedule without having to assign to individual technicians. For instance, you can group all the Tyre jobs together. Here is how to create **Group Tasks** in Garage Hive:
 
 ## In this article
 1. [Create Easy Clocking Group Tasks Action](#create-easy-clocking-group-tasks-action)
