@@ -14,7 +14,6 @@ In Garage Hive, **Group Tasks** are used to categorise jobs that are similar and
 ## In this article
 1. [Create Easy Clocking Group Tasks Action](#create-easy-clocking-group-tasks-action)
 2. [Assign Group Tasks to Resources](#assign-group-tasks-to-resources)
-3. [Allocate Group Tasks in the Schedule](#integrate-payment-methods)
 
 ### Create Easy Clocking Group Tasks Action
 1. In the top-right corner of your screen, choose the ![](media/search_icon.png) icon, enter **Easy Clocking Menu Items**, and select the related link.
