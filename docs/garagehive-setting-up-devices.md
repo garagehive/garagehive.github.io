@@ -4,7 +4,7 @@ title: Setting Up Devices with Microsoft Dynamics 365 Business Central App
 ---
 
 ## Setting Up Devices with Microsoft Dynamics 365 Business Central App
-Garage Hive can be used in devices such as phones and tablets, and all of its features are available. Here's how to install and set it up: 
+Garage Hive can be used in devices such as phones and tablets, and most of its features are available. Here's how to install and set it up: 
 
 1. Open the **App Store/Google Play Store** on the device and search for and install Microsoft Dynamics 365 Business Central.
 2. Here are the links to the **Garage Hive App (Microsoft Dynamics 365 Business Central)** for **iOS** and **Android** mobile/tablet devices:
@@ -26,7 +26,7 @@ Garage Hive can be used in devices such as phones and tablets, and all of its fe
 
    ![](media/garagehive-setting-up-devices3.png)
 
-7. You will now see your login screen; enter the **User name** and **Password** for the device users. If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below in Image 2.
+7. You will now see your login screen; enter the **User name** and **Password** for the device users (Image 1). If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below in Image 2.
 
       {% include tip.html title="Note" text="Please note the first time you enter the User name and Password it may ask you to create a new password." %} 
 
@@ -38,7 +38,7 @@ Garage Hive can be used in devices such as phones and tablets, and all of its fe
 
       ![](media/garagehive-setting-up-devices4a.png)
 
-After you have logged in and you see the screen below you have successfully set up the device ready for your staff to start using. 
+Upon successful login, the following screen will appear, indicating that the device is ready for use by your staff.
 
 ![](media/garagehive-setting-up-devices5.png)
 
