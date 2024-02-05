@@ -9,66 +9,61 @@ title: DRAFT* - How to Use Group Tasks in Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # How to Use Group Tasks in Garage Hive
-
-1. Search resources
-
-
-
+In Garage Hive, **Group Tasks** are used to categorise jobs that are similar and assign technicians who can work on them. This ensures that you are able to assign the jobs to the relevant technicians on the schedule. For instance, you can group all the Tyre jobs together. Here is how to create **Group Tasks** in Garage Hive:
 
 ## In this article
-1. [Get the Online Booking HTML embed script](#get-the-online-booking-html-embed-script)
-2. [Parent Page Example](#parent-page-example)
-3. [Google Tag Manager Setup](#google-tag-manager-setup)
+1. [Create Easy Clocking Group Tasks Action](#create-easy-clocking-group-tasks-action)
+2. [Assign Group Tasks to Resources](#assign-group-tasks-to-resources)
 
-### Get the Online Booking HTML embed script
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and select the related link.
-2. Change the **Google Analytics Versions** field to **v2** under the **Booking** FastTab.
+### Create Easy Clocking Group Tasks Action
+1. In the top-right corner of your screen, choose the ![](media/search_icon.png) icon, enter **Easy Clocking Menu Items**, and select the related link.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup1.png)
+   ![](media/easy-clocking-menu-items1.png)
 
-3. Then, from the menu bar, select **Actions** followed by **Get Embed HTML** to obtain a new version of the Online Booking HTML embed script.
+2. Click on **New** to create a new **Group Tasks** action. A **No.** will be automatically assigned fo this action. For **Type**, choose **Button** from the options. 
+3. Enter a Caption for your Group Task action.This caption will be the name or title of your Group Task. 
+4. In the **Run Action** dropdown menu, select **Start Group Task**. To assign an icon to your Group Task, you can copy the icon from an existing action.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup2.png)
+   ![](media/easy-clocking-menu-items2.png)
 
-4. Note that the change between V1 and V2 is in the Java Script (JS) file name – V1 is “form.js” and V2 is “form-v2.js”.
+5. The added **Group Task** will now appear in the **Easy Clocking** page.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup3.png)
+   ![](media/easy-clocking-menu-items3.png)
 
-[Go back to top](#top)
+6. You can repeat the steps above to create additional **Group Tasks** actions, such as **MOT Jobs**, **Service Jobs**, etc.
 
-### Parent Page Example
-The following is an example of a parent page with **Google Tag Manager** default scripts and **Garage Hive Online Booking** embed script.
+   ![](media/easy-clocking-menu-items4.png)
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup4.png)
 
 [Go back to top](#top)
 
-### Google Tag Manager Setup
-Google Tag Manager needs to have 2 Tags set up – one is GA4 Configuration for the parent page general analytics and the second is GA4 Event to catch the custom iframe page load event and forward it to GA4.
-1. Open **Google Tag Manager** and select **Tag** on the left side, followed by **New**.
+### Assign Group Tasks to Resources
+To assign the Group Tasks to the **Resources**:
+1. In the top-right corner of your screen, choose the ![](media/search_icon.png) icon, enter **Schedule Resource Links**, and select the related link.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup5.png)
+   ![](media/schedule-resource-links1.png)
 
-2. Enter the tag's name in the top left corner and click the **Tag Configuration** edit button.
+2. Click on **Edit List**. In the **Group Resource No.** column, select the group to which you want to assign technicians and in the **Resource No.** column, select the technician you wish to assign to the chosen group. 
+3. Repeat the selection process for all the groups and technicians you need to assign, ensuring every required group has its technicians assigned.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup6.png)
+   ![](media/schedule-resource-links2.png)
 
-3. Select **Google Analytics: GA4 Configuration** as the **Tag Type** and enter the **Measurement ID** (starts with G-). You should create a new GA4 instance and obtain the measurement ID from there, [learn more](https://support.google.com/analytics/answer/9744165#use_existing_tags&zippy=%2Cin-this-article).
-4. Then, for **Triggering**, click the edit button and choose **All Pages**. Click **Save**.
+4. Only the technicians assigned to specific groups will be able to view and access the tasks meant for their groups. When done, exit the page.
+5. Open the schedule, and allocate the tasks in the different Resource Groups that are available in the schedule.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup7.png)
+   ![](media/schedule-resource-links3.png)
 
-5. Select **New** to create a new tag, and then setup the **Tag Configuration** as shown in the image below. This is to capture an iframe event and transform it to match a GA4 parameter so that it can be logged as a page view event.
+6. When a technician is ready to start a task, they can click on the **Group Task** action in the easy clocking. 
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup8.png)
+   ![](media/schedule-resource-links4.png)
 
-6. Click on the **Trigger Configuration** edit button and change the settings as shown in the image below.
+7. Technicians can view and select from the group tasks assigned to them. After selecting the desired task, they should click **OK**.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup9.png)
+   ![](media/schedule-resource-links5.png)
 
-7. You should now have the two tags in place. Click the **Submit** button.
+8. To start the task, the technician selects **Start Task** and then clicks **OK**.
 
-   ![](media/garagehive-online-booking-and-google-analytics-setup10.png)
+   ![](media/schedule-resource-links6.png)
 
 
 [Go back to top](#top)
