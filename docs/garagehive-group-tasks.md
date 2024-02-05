@@ -21,7 +21,7 @@ In Garage Hive, **Group Tasks(Pool Jobs)** are used to allow a group of technici
    ![](media/easy-clocking-menu-items1.png)
 
 2. Click on **New** to create a new **Group Tasks** action. A **No.** will be automatically assigned for this action. For **Type**, choose **Button** from the options. 
-3. Enter a **Caption** for your Group Task action. This caption will be the name or title of your Group Task. 
+3. Enter a **Caption** for your Group Task action. This caption will be the name or title of your **Group Task (Pools Jobs)**. 
 4. In the **Run Action** dropdown menu, select **Start Group Task**. 
 5. To assign an **icon** to your Group Task, you can copy the icon from an existing action.
 
