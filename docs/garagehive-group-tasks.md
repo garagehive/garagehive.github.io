@@ -8,7 +8,7 @@ title: DRAFT* - How to Assign Technicians to Group Tasks (Pool Jobs) in Garage H
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-# How to Use Group Tasks (Pool Jobs) in Garage Hive
+# How to Assign Technicians to Group Tasks (Pool Jobs) in Garage Hive
 In Garage Hive, **Group Tasks(Pool Jobs)** are used to allow a group of technicians to choose from a pool of jobs. This allows you to book to one bay on the schedule without having to assign to individual technicians. For instance, you can group all the Tyre jobs together. Here is how to create **Group Tasks** in Garage Hive:
 
 ## In this article
