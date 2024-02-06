@@ -3,27 +3,29 @@ layout: docs
 title: Vehicle Inspection Estimates (VIEs)
 ---
 
-# How to use Vehicle Inspection Estimates (VIEs)
+<a name="top"></a>
 
-VIEs in Garage Hive allow you to manage and monitor your upsell, additional authorization, and estimates across all of your service staff. VIEs are created by confirming a [Vehicle Inspection Checklist](/docs/garagehive-technicians-vehicle-inspections.html "How to Perform a Vehicle Inspection") or a **Quality Control Checklist**.
+# How to use Vehicle Inspection Estimates (VIEs)
+VIEs in Garage Hive allow you to manage and monitor your upsell, additional authorisation, and estimates across all of your service staff. VIEs are created by confirming a [Vehicle Inspection Checklist](/docs/garagehive-technicians-vehicle-inspections.html "How to Perform a Vehicle Inspection") or a **Quality Control Checklist**.
 
 ## In this article
-1. [Understanding the process from jobsheet to VIE back to jobsheet](#understanding-the-process-from-jobsheet-to-vie-back-to-jobsheet)
-2. [Confirming a checklist to a VIE](#confirming-a-checklist-to-a-vie)
-3. [Different VIE statuses](#different-vie-statuses)
-4. [Adding customer authorisation and copy the authorised lines to Jobsheet](#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet)
+1. [Understanding the Process from Jobsheet to VIE Back to Jobsheet](#Understanding-the-process-from-jobsheet-to-vie-back-to-jobsheet)
+2. [Confirming a Checklist to a VIE](#confirming-a-checklist-to-a-vie)
+3. [Different VIE Statuses](#different-vie-statuses)
+4. [Adding Customer Authorisation and Copy the Authorised Lines to Jobsheet](#adding-customer-authorisation-and-copy-the-authorised-lines-to-jobsheet)
+5. [How to Copy VIE Lines to an Estimate](#how-to-copy-vie-lines-to-an-estimate)
 
 
-### Understanding the process from jobsheet to VIE and back to jobsheet
-To help you understand the process of creating a VIE from a jobsheet, we've created the flowchart below, which shows all of the steps involved.
+### Understanding the Process from Jobsheet to VIE Back to Jobsheet
+To help you understand the process of creating a VIE from a Jobsheet, we've created the flowchart below, which shows all of the steps involved.
 
 ![](media/garagehive-vehicle-inspection-estimate1.png)
 
-1. Once the jobsheet is created, the technician creates a **Vehicle Inspection** linked to the jobsheet and inspects the vehicle.
+1. Once the Jobsheet is created, the technician creates a **Vehicle Inspection** linked to the Jobsheet and inspects the vehicle.
 2. Depending on the outcome of the inspection, the vehicle may require additional work or not. If not, there is no need to create a VIE.
 3. If yes, then the service advisor checks and confirms the vehicle inspection and creates a **Vehicle Inspection Estimate**.
 4. The vehicle inspection estimate is filled out with the items and labour needed for the identified work, and the service advisor then shares the quotation with the customer **for authorisation**.
-5. When the customer gives approval for the work to be done, the work that has been approved is **copied to the linked jobsheet**, and the work that has not been approved is given a **reminder date** for future reference.
+5. When the customer gives approval for the work to be done, the work that has been approved is **copied to the linked Jobsheet**, and the work that has not been approved is given a **reminder date** for future reference.
 
 ### Confirming a checklist to a VIE
 To verify a checklist that has been completed by a technician:
@@ -37,6 +39,9 @@ To verify a checklist that has been completed by a technician:
    ![](media/garagehive-vehicle-inspection-estimate2.1.gif)
 
 {% include tip.html title="Note" text="After confirming the checklist, change the Process Status on the checklist to Completed, so as archive the checklist card." %}
+
+
+[Go back to top](#top)
 
 ### Different VIE statuses 
 From the **Role Centre**, the VIE has the following statuses that it goes through:
@@ -55,6 +60,9 @@ The VIE status can be changed from the document as follows:
 
 ![](media/garagehive-vehicle-inspection-estimate4.gif)
 
+
+[Go back to top](#top)
+
 ### Add items and labour to the vehicle inspection estimate
 After creating a VIE from the checklist, the status is **Awaiting Action**, to give the service advisor an alert to take action:
 1. Click on the **Awaiting Action** tile to open the VIE list, and select the VIE to work on.
@@ -70,6 +78,9 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 4. If you click on any amount under the **Totals Including VAT**, which is below the vehicle inspection estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Jobsheet Value (Current)** totals, **Customer Authorised** totals, **Customer Unauthorised** totals and **Combined Total (Authorised)**.
 
    ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4a.gif)
+
+
+[Go back to top](#top)
 
 ### Adding customer authorisation and copy the authorised lines to Jobsheet
 You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
@@ -99,6 +110,29 @@ You've already communicated with the customer and been advised on what work need
 {% include tip.html title="Note" text="The VIE is marked complete and archived after all the lines are approved, or you could change the VIE status to complete for archiving the unapproved lines." %}
 
 ![](media/garagehive-trial-vehicle-inspection-estimate-completed.png)
+
+
+[Go back to top](#top)
+
+### How to Copy VIE Lines to an Estimate
+When you want to copy the lines from a VIE to an Estimate:
+1. Open the VIE from which you want to copy the lines from. Click on **Process** then select **Copy Lines to Estimate** from the dropdown menu.
+
+   ![](media/garagehive-copy-vie-lines-to-an-estimate1.png)
+
+2. To include specific lines, tick the checkboxes in the **included** column next to each line you want to copy.
+3. To select all lines simultaneously, use the **Set All Included** action located on the menu bar.
+
+   ![](media/garagehive-copy-vie-lines-to-an-estimate2.png)
+
+4. With your lines selected, proceed by clicking the **Copy Lines to Estimates** action on the menu bar.
+
+   ![](media/garagehive-copy-vie-lines-to-an-estimate3.png)
+
+5. Once the lines are copied, a new estimate is automatically created. You can view and edit this estimate by going to the Estimates list.
+
+
+[Go back to top](#top)
 
 # See Also
 
