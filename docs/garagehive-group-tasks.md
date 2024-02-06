@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - How to Use Group Tasks (Pool Jobs) in Garage Hive
+title: DRAFT* - How to Assign Technicians to Group Tasks (Pool Jobs) in Garage Hive
 ---
 
 <a name="top"></a>
@@ -39,12 +39,12 @@ In Garage Hive, **Group Tasks(Pool Jobs)** are used to allow a group of technici
 [Go back to top](#top)
 
 ### Assign Group Tasks to Resources
-To assign the Group Tasks to the **Resources**:
+To assign technicians to **Group Tasks (Pool Jobs)**:
 1. In the top-right corner of your screen, choose the ![](media/search_icon.png) icon, enter **Schedule Resource Links**, and select the related link.
 
    ![](media/schedule-resource-links1.png)
 
-2. Click on **Edit List**. In the **Group Resource No.** column, select the group to which you want to assign technicians and in the **Resource No.** column, select the technician you wish to assign to the chosen group. 
+2. Click on **Edit List**. In the **Group Resource No.** column, select the **Resource No (Bay Name)** to which you want to assign technicians and in the **Resource No.** column, select the technician you wish to assign to the chosen group. 
 3. Repeat the selection process for all the groups and technicians you need to assign, ensuring every required group has its technicians assigned.
 
    ![](media/schedule-resource-links2.png)
