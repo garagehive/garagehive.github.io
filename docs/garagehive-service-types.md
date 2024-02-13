@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Create Service Types in Garage Hive
+title: How to Create Service Types in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Create Service Types in Garage Hive
 **Service Types** are essential for organising and categorising the services offered by your garage. They greatly assist in creating Jobsheets and Estimates. You have the flexibility to set up service types based on your garage's specific requirements. For instance, you can create a **Full MOT** Service Type, which, when selected in a document, automatically populates with relevant Service Package or **Comments** related to MOT. To create **Service Types** in your system:
