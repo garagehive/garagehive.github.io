@@ -23,7 +23,7 @@ We are currently reviewing this article before it is published, check back later
 
    ![](media/garagehive-service-types3.png)
 
-4. Under the **General** FastTab, enter a unique **Code** for the Service Type, add a **Description** for the Service Type, select a **Group Code** for the Service Type and n the **Service Package Filter** field, choose the appropriate Service Package to link with the Service Type.
+4. Under the **General** FastTab, enter a unique **Code** for the Service Type, add a **Description** for the Service Type, select a **Group Code** for the Service Type and in the **Service Package Filter** field, choose the appropriate Service Package to link with the Service Type.
 5. If the Service Type you are creating is applicable to MOT vehicle booking or service booking, you can enable the **MOT** and **Service** sliders.
 6. The **Minimum Doc. Item Margin** specifies the minimum price margin to be applied when the **Service Type** is selected in a document.
 
