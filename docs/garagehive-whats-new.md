@@ -6,6 +6,19 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 9th February 2024
+* Added the vehicle location code to the **Reminded Not Booked** table and modified the filter to consider the location. This allows for filtering the **Reminded Not Booked** notifications based on location.
+* Added the ability of **Vehicle Date Reminders** to incorporate location codes from the vehicle card. This enables reminders to be sent based on the specific location code assigned to the vehicle.
+* Added the line checker triangle warning (⚠️) to include information when an item is being listed more than once on the same document, [read more](garagehive-line-checker.html){:target="_blank"}.
+
+   ![](media/line-checker-triangle-warning1.png)
+
+* Added Integration with **QuickBooks Online API** to enable syncing of data to and from Quickbooks, [read more](garagehive-quickbooks-online-integration.html){:target="_blank"}.
+
+   ![](media/quickbooks-online-api.png)
+
+* Added integration with **InfoPro (formerly Haynes Pro)** as an alternative VRM lookup provider to **UK Vehicle Data**.
+
 ### 30th January 2024
 * Added a default branch code for vehicle cards, so that the location specific vehicle reminders can be sent, [read more](garagehive-vehicle-card.html#adding-a-default-location-code-to-vehicle-card){:target="_blank"}.
 * Added the capability to include videos from external platforms, such as YouTube and Service Visuals into the online job authorisation, [read more](garagehive-online-documents-adding-and-managing-media.html#adding-media-to-group-lines-and-document-lines){:target="_blank"}.
@@ -15,7 +28,6 @@ The following is a list of all new Garage Hive features and updates:
 * Added **Reminded Not Booked** tiles which shows a list of reminders sent to customers who have not yet booked. This feature helps you keep track of which customers require follow-up action regarding their booking, [read more](garagehive-reminded-not-booked-setup.html){:target="_blank"}.
 
    ![](media/reminded-not-booked-tiles.png)
-
 
 ### 19th January 2024
 * Added the ability for the customers to mark their vehicle as sold from a reminder notification to stop receiving further reminders, [read more](garagehive-remove-customer-ownership-from-vehicle.html#using-the-customer-opt-out-link-in-the-reminder-message){:target="_blank"}.
