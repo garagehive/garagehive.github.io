@@ -17,8 +17,6 @@ The following is a list of all new Garage Hive features and updates:
 
    ![](media/quickbooks-online-api.png)
 
-* Added integration with **InfoPro (formerly Haynes Pro)** as an alternative VRM lookup provider to **UK Vehicle Data**.
-
 ### 30th January 2024
 * Added a default branch code for vehicle cards, so that the location specific vehicle reminders can be sent, [read more](garagehive-vehicle-card.html#adding-a-default-location-code-to-vehicle-card){:target="_blank"}.
 * Added the capability to include videos from external platforms, such as YouTube and Service Visuals into the online job authorisation, [read more](garagehive-online-documents-adding-and-managing-media.html#adding-media-to-group-lines-and-document-lines){:target="_blank"}.
