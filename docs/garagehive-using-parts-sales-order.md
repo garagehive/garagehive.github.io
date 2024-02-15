@@ -47,17 +47,26 @@ Here's how to create the **Sales Order** in Garage Hive:
 [Go back to top](#top)
 
 ### Ship or Invoice the Parts Sales Order
-1. When you are ready to ship or invoice the order, select **Posting** from the menu bar and then **Post**. You are given three options: 
+1. When you are ready to ship or invoice the order, select **Posting** from the menu bar and choose **Post and Print Invoice**, to post and print the invoice. Alternatively, if you only want to post the invoice without printing it, select **Post**.
+
+   ![](media/garagehive-parts-sales-order-ship-or-invoice1.png)
+
+2. You get three options: 
    * **Ship** - if the customer hasn't paid but you have sent the parts to the customer.
    * **Invoice** - can be used once the parts are shipped to create the sales invoice.
    * **Ship and Invoice** - if the customer has paid and you have sent the parts to the customer at the same time.
   
    Choose the suitable one for you and click **OK**.
 
-2. In the next window, select the method of payment from the customer and enter the amount in the **Amount** field to receive the payment. Click the **Close** button.
-3. In the next dialogue box, confirm the posting date and click **Yes** to continue. The **Sales Order** has been posted successfully. To view the invoice, open it.
+      ![](media/garagehive-parts-sales-order-ship-or-invoice2.png)
 
-   ![](media/garagehive-parts-sales-order4.gif)
+3. In the next window, select the method of payment from the customer and enter the amount in the **Amount** field to receive the payment. Click the **Close** button.
+
+   ![](media/garagehive-parts-sales-order-ship-or-invoice3.png)
+
+4. Confirm the posting date in the next popup box, click **Yes** to proceed or **No** if you want to modify the dates. Once confirmed, the Sales Order will be successfully posted. To view the invoice, simply open it.
+
+   ![](media/garagehive-parts-sales-order-ship-or-invoice4.png)
 
 
 [Go back to top](#top)
@@ -68,7 +77,7 @@ To partially Ship some of the items:
 
    ![](media/garagehive-parts-sales-order-ship1.png)
 
-2. Select **Posting** from the menu bar, choose **Posting**.
+2. To post and print the invoice, select **Posting** from the menu bar and choose **Post and Print Invoice**. Alternatively, if you only want to post the invoice without printing it, select **Post**.
 
    ![](media/garagehive-parts-sales-order-ship2.png)
 
