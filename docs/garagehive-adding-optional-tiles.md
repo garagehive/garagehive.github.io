@@ -27,7 +27,7 @@ To add these tiles in the **Role Centre**:
 
    ![](media/garagehive-optional-tiles1.gif)
 
-3. To add the **User Tasks**, **Document Attention**, **Jobsheet Complete**, and **Current VI's** tiles to the **Role Centre**, simply slide the slider on the right-hand side column of the under the **General** FastTab.
+3. To add the **User Tasks**, **Document Attention**, **Jobsheet Complete**, and **Current VI's** tiles to the **Role Centre**, simply slide the slider on the right-hand side column of the **General** FastTab.
 
    ![](media/garagehive-optional-tiles2.gif)
 
