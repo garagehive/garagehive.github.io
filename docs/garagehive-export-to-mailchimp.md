@@ -28,6 +28,9 @@ To ensure your contact list in MailChimp is up-to-date, you can export the conta
    ![](media/garagehive-export-to-mailchimp4.png)
 
 5. A CSV file will be downloaded on your computer, with all the contacts available.
- 
+6. To filter the list and download specific contacts, click on the filter icon at the top right corner of the window. This will open a filter sidebar on the left. For more information on filtering lists, refer to [this article](garagehive-filter-lists.html).
+
+   ![](media/garagehive-export-to-mailchimp5.png)
+
 
 [Go back to top](#top)
