@@ -9,7 +9,7 @@ title: DRAFT* - How to Add Schedule Allocations Count in Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # How to Add Schedule Allocations Count in Garage Hive
-The addition of allocations count improves the visibility of Jobsheet allocations within the schedule. Garage Hive utilizes an right arrow emoji (➡️) accompanied by a number to indicate the number of pending or in-progress allocations for each Jobsheet. This feature allows users to easily identify Jobsheets with multiple ongoing tasks, thereby enhancing workflow management. Here is how to add the allocations count:
+The addition of allocations count improves the visibility of Jobsheet allocations within the schedule. Garage Hive uses an right arrow emoji (➡️) accompanied by a number to indicate the number of pending or in-progress allocations for each Jobsheet. This feature allows users to easily identify Jobsheets with multiple ongoing tasks, thereby enhancing workflow management. Here is how to add the allocations count:
 
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **schedule cell config**, and select the related link.
 
