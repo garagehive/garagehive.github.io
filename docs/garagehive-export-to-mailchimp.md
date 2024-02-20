@@ -26,6 +26,8 @@ To ensure your contact list in MailChimp is up-to-date, you can export the conta
 4. A pop-up dialogue box will appear, confirming the number of selected vehicles and the number of unique customers available. Click **Yes** to continue.
 
    ![](media/garagehive-export-to-mailchimp4.png)
+
+5. A CSV file will be downloaded on your computer, with all the contacts available.
  
 
 [Go back to top](#top)
