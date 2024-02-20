@@ -363,6 +363,8 @@
       url: /docs/garagehive-copydocument.html
     - name: How to Send Bulk SMS's
       url: /docs/garagehive-send-bulk-sms.html
+    - name: How to Export Contacts to Mailchimp
+      url: /docs/garagehive-export-to-mailchimp.html
 - name: End of Day Process
   url: "#"
   subitems:
