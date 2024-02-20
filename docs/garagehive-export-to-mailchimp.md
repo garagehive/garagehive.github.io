@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Exporting Contacts for Mailchimp Emailing in Garage Hive
+title: Exporting Contacts for Mailchimp Emailing in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Exporting Contacts for Mailchimp Emailing in Garage Hive
 To ensure your contact list in MailChimp is up-to-date, you can export the contacts from Garage Hive in CSV format and import them into MailChimp. This allows you to easily send email newsletters to all your customers using MailChimp. Here is how to export the contacts:
