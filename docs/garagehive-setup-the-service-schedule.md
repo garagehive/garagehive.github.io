@@ -60,7 +60,7 @@ Select the **Delete Old Allocations** slider on the **Service Schedule Setup** p
 [Go back to top](#top)
 
 ### Show idle allocations in the schedule
-You can also enable or disable the display of idle allocations such as **Holiday** for a technician.
+You can also enable or disable the display of idle allocations such as when a technician has paused an allocation, and they are not working.
 
    ![](media/garagehive-service-schedule-setup9.png)
 
