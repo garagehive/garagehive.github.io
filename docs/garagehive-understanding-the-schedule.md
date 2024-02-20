@@ -21,8 +21,9 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 10. [Adding a standard event](#adding-a-standard-event)
 11. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
 12. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
-13. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
-14. [Adding an allocation type](#adding-an-allocation-type)
+13. [How to Add Schedule Allocations Count](#how-to-add-schedule-allocations-count)
+14. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
+15. [Adding an allocation type](#adding-an-allocation-type)
 
 ###  Understanding the schedule layout
 The service schedule layout is divided into the following parts:
@@ -232,7 +233,36 @@ The emojis are used in the allocations to visually help the service advisor and 
 * ⏰ This indicates that the customer has specified a time to collect the vehicle. <br>
 * £ This indicates the amount including VAT. <br>
 * ⚓ This indicates that the vehicle has been assigned a parking location code. <br>
-* 🤷 or 🙋‍♀️ This indicates that the customer is waiting.
+* 🤷 or 🙋‍♀️ This indicates that the customer is waiting. <br>
+* ➡️ This indicates the number of Jobsheet allocations available in the schedule.
+
+
+[Go back to top](#top) 
+
+### How to Add Schedule Allocations Count
+The addition of allocations count improves the visibility of Jobsheet allocations within the schedule. Garage Hive uses an right arrow emoji (➡️) accompanied by a number to indicate the number of pending or in-progress allocations for each Jobsheet. This feature allows users to easily identify Jobsheets with multiple ongoing tasks, thereby enhancing workflow management. Here is how to add the allocations count:
+
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **schedule cell config**, and select the related link.
+
+   ![](media/garagehive-schedule-allocation-count1.png)
+
+2. Click on **New** to create a new line, and enter the following details on the new line for the columns indicated:
+   * **Source Type** - 25006145
+   * **Source Ref. No.** - 15020
+   * **Source Ref. Description** - *This will be automatically filled.*
+   * **Sequence** - 9999999
+   * **Prefix** - ➡️ (Press [WIN] + [.] on your keyboard, and search for right arrow.)
+
+     ![](media/garagehive-schedule-allocation-count2.png)
+
+3. Click the back arrow (&#8592;) to close the page.
+4. When there is an allocation is added in the schedule, the emoji will appear on the allocation showing the number of Jobsheet allocations available in the schedule.
+
+   ![](media/garagehive-schedule-allocation-count3.png)
+
+If the emoji is not visible, you can hover your mouse over the allocation to view more information about the allocation.
+
+   ![](media/garagehive-schedule-allocation-count4.png)
 
 
 [Go back to top](#top)
