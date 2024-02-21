@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 21st February 2024
+* Added a column that shows the number of scheduled allocations that are in progress or pending. This feature allows users to easily identity Jobsheets with multiple ongoing tasks, [read more](garagehive-understanding-the-schedule.html#how-to-add-schedule-allocations-count){:target="_blank"}.
+
+   ![](media/garagehive-schedule-allocations-count1.png)
+
 ### 9th February 2024
 * Added the vehicle location code to the **Reminded Not Booked** table and modified the filter to consider the location. This allows for filtering the **Reminded Not Booked** notifications based on location.
 * Added the ability of **Vehicle Date Reminders** to incorporate location codes from the vehicle card. This enables reminders to be sent based on the specific location code assigned to the vehicle.
