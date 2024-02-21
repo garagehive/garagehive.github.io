@@ -260,7 +260,7 @@ The addition of allocations count improves the visibility of Jobsheet allocation
 
    ![](media/garagehive-schedule-allocation-count3.png)
 
-If the emoji is not visible, you can hover your mouse over the allocation to view more information about the allocation.
+5. If the emoji is not visible, you can hover your mouse over the allocation to view more information about the allocation.
 
    ![](media/garagehive-schedule-allocation-count4.png)
 
