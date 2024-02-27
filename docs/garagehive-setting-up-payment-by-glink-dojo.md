@@ -3,6 +3,8 @@ layout: docs
 title: Setting Up Payment by Garage Link for Dojo in Garage Hive
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [Setting Up Payment by Garage Link for Dojo in Garage Hive](#setting-up-payment-by-garage-link-for-dojo-in-garage-hive)
 2. [Testing the garage link setup](#testing-the-garage-link-setup)
@@ -58,6 +60,8 @@ Garage Link for Dojo is a payment gateway that is used for online payments. To s
 1. Click the **Back** arrow to exit the **Payment Gateway Card** and save your changes. Your new payment method is now active.
 
 
+[Go back to top](#top)
+
 ### Testing the Garage Link setup
 Once configured, it is recommended that you run a **£0.01** transaction as a test. Create a new jobsheet with your personal information, add a  or **consumable or a non-inventory item**, and then proceed to the **Take Payment** screen. Once on the **Take Payment** screen, select **Process** in the action bar and **Pay By Garage Link**.
 
@@ -75,3 +79,17 @@ You can check the status of the payment in **Garage Hive** by selecting the **Pa
 ![](media/paybygaragelink-gateway-entries.jpg)
 
 You should also receive an email confirming the payment has been received. Once you've received payment for this job, post it with the penny on it.
+
+[Go back to top](#top)
+
+<br>
+
+### See Also
+
+[Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Pay360](garagehive-payment-gateways.html){:target="_blank"} \
+[How to Use Humm Financing](garagehive-humm-financing.html){:target="_blank"} \
+[Setting Up Payment by Card Terminal](garagehive-setting-up-payment-by-card-terminal.html){:target="_blank"} \
+[How to Set Card Terminals Into Integration Mode](garagehive-setting-card-terminals-into-integration-mode.html){:target="_blank"} \
+[Generating Paymentsense Card Machine End of Day, X Balance and Z Balance Report](garagehive-paymentsense-card-machine-x-and-z-report.html){:target="_blank"}
+ 
