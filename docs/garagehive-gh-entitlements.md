@@ -53,3 +53,6 @@ To assign GH Entitlements for companies in your system, follow these steps if yo
 5. The location will now have the assigned entitlements.
 
    ![](media/garagehive-gh-entitlement-location4.png)
+
+
+[Go back to top](#top)
