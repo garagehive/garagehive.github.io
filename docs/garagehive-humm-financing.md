@@ -3,6 +3,8 @@ layout: docs
 title: How to Use Humm Financing
 ---
 
+<a name="top"></a>
+
 **Humm** is a debt-factoring service integrated with Garage Hive that allows customers to have work done on their vehicles or purchase a vehicle using Humm financing. Customers can then transfer their bills to Humm and have their needs fulfilled.
 
 ### Humm Financing Registration
@@ -37,6 +39,9 @@ To register for Humm financing, please fill out the form at below:
 5. To view the payment status, select **Payment Gateway Entries** from the menu bar.
 
    ![](media/garagehive-humm-payment-request5.png)
+
+
+[Go back to top](#top)
 
 ### Starting the Purchase on Humm Website
 1. After requesting Humm financing, the customer will receive an email with a link to start the purchase.
@@ -83,6 +88,9 @@ To register for Humm financing, please fill out the form at below:
 
    ![](media/garagehive-humm-payment-start-purchase12.png)
 
+
+[Go back to top](#top)
+
 ### Finalise the Payment in Garage Hive
 1. When the payment is authorised in Humm, a notification will appear in the **Attention** tile on Garage Hive's Role Centre.
 
@@ -117,3 +125,17 @@ To register for Humm financing, please fill out the form at below:
    ![](media/garagehive-humm-finalise-payment8.png)
 
 9. The payment is now finalised.
+
+[Go back to top](#top)
+
+<br>
+
+### See Also
+
+[Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Pay360](garagehive-payment-gateways.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Dojo](garagehive-payment-gateways.html){:target="_blank"} \
+[Setting Up Payment by Card Terminal](garagehive-setting-up-payment-by-card-terminal.html){:target="_blank"} \
+[How to Set Card Terminals Into Integration Mode](garagehive-setting-card-terminals-into-integration-mode.html){:target="_blank"} \
+[Generating Paymentsense Card Machine End of Day, X Balance and Z Balance Report](garagehive-paymentsense-card-machine-x-and-z-report.html){:target="_blank"}
+ 

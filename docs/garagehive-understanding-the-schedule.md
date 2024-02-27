@@ -25,7 +25,7 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 14. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
 15. [Adding an allocation type](#adding-an-allocation-type)
 
-###  Understanding the schedule layout
+###  Understanding the Schedule Layout
 The service schedule layout is divided into the following parts:
 
 ![](media/garagehive-understanding-the-schedule-layout1.png)
@@ -103,7 +103,7 @@ The schedule can be customised to your liking; for example, you can reduce the n
 
 [Go back to top](#top)
 
-### Adding resources in the schedule
+### Adding Resources in the Schedule
 In Garage Hive, resources refer to all of the assets that the company has that aid and support the business in completing its work, including the technicians. Technicians are added via [User Management](/docs/garagehive-user-management.html), but their appearance in the schedule can be controlled. Here's how to add or manage resources in the schedule in general:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Schedule Resource Group** and select the related link.
 2. In the list that appears, select the **Default** resource group and then click **Specifications** from the menu bar.
@@ -121,7 +121,7 @@ In Garage Hive, resources refer to all of the assets that the company has that a
 
 [Go back to top](#top)
 
-### Rearranging resources in the schedule
+### Rearranging Resources in the Schedule
 Rearranging the resources, how they appear from top to bottom, helps organize which resources to be at the top and how they should follow each other. 
 
 {% include tip.html title="Note" text="It is recommended to have the bays at the top and the technicians at the bottom." %}
@@ -142,7 +142,7 @@ To rearrange:
 
 [Go back to top](#top)
 
-### Managing service hours in the schedule
+### Managing Service Hours in the Schedule
 The service hours are the hours in the schedule when the resources are available for work. For example, you could add the technicians’ working hours as 08:00 a.m. to 17:00 p.m. every day. To change a resource's service hours:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Service Hours** and select related result.
 2. The list that appears contains all of the resources that have been added in the system, with their service hours specified for various days of the week.
@@ -157,7 +157,7 @@ The service hours are the hours in the schedule when the resources are available
 
 [Go back to top](#top)
 
-### Adding resources calender changes
+### Adding Resources Calender Changes
 Sometimes there might be a single change of the scheduled work time for the resources, and you have to change it in the schedule:
 1. click on **Related** from the menu bar.
 2. Select **Resource Calender Changes** in the service schedule page.
@@ -178,7 +178,7 @@ Sometimes there might be a single change of the scheduled work time for the reso
 
 [Go back to top](#top)
 
-### View the statistics of the schedule
+### View the Statistics of the Schedule
 The schedule statistical information summarizes the resources capacity, remaining hours after allocations, a list of all the allocations for the day, and the total jobsheets for all the allocations made for the day. To view the statistics for a day:
 1. From the view FastTab, select **Period Type** as **Day**.
 2. The **Start Date** as the day you want to view the statistics.
@@ -189,7 +189,7 @@ The schedule statistical information summarizes the resources capacity, remainin
 
 [Go back to top](#top)
 
-### Adding a standard event
+### Adding a Standard Event
 A standard event is an allocation not related to a jobsheet but adds other considerations about the resources, such as a sick off, etc. To add a standard event:
 1. Click and drag in the booking slot along the resource to allocate.
 2. Release up to the time when the standard event ends. 
@@ -202,7 +202,7 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 
 [Go back to top](#top)
 
-### How to exclude some standard events when calculating available hours
+### How to Exclude Some Standard Events When Calculating Available Hours
 1. The schedule's available hours are shown in the header. They show the currently available hours after subtracting the total scheduled hours.
 
    ![](media/garagehive-understanding-the-schedule-exclude-standard-event1.png)
@@ -220,7 +220,7 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 
 [Go back to top](#top)
 
-### Understanding the emojis in an allocation
+### Understanding the Emojis in an Allocation
 The emojis are used in the allocations to visually help the service advisor and technicians understand status and requirements of the job. Here are some of the most commonly used emojis: <br>
 
 * 📫 This indicates a posted jobsheet. <br>
@@ -267,7 +267,7 @@ The addition of allocations count improves the visibility of Jobsheet allocation
 
 [Go back to top](#top)
 
-### Using the search function in the schedule
+### Using the Search Function in the Schedule
 When there are many bookings in the schedule, it becomes harder to find an allocation that you are looking for easily. The search function helps you overcome this challenge by enabling you to search for an allocation using the customer name, vehicle registration No., vehicle make or model, or the jobsheet No.:
 1. From the view FastTab, under the **Search** field, enter the allocation details to search.
 2. Press enter; this hides all the other allocations, leaving the allocation you need.
@@ -277,7 +277,7 @@ When there are many bookings in the schedule, it becomes harder to find an alloc
 
 [Go back to top](#top)
 
-### Adding an allocation type
+### Adding an Allocation Type
 Allocation Type appears after the drag and release action on the schedule, where you select which allocation to add.
 
    ![](media/garagehive-understanding-the-schedule15.png)

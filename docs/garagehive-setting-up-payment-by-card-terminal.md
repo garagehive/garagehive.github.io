@@ -3,6 +3,8 @@ layout: docs
 title: Setting Up Payment by Card Terminal
 ---
 
+<a name="top"></a>
+
 ## Setting Up Payment by Card Terminal
 To setup payment by **Card Terminal**:
 1. **Payment Sense** will send you an email with the details you'll need to set up the integration; here's an example:
@@ -26,4 +28,22 @@ To setup payment by **Card Terminal**:
    ![](media/garagehive-card-terminal4.png)
 
 7. Click the **Back** arrow to exit the **Payment Gateway Card** and save your changes. Your new payment method is now active.
+
+
+[Go back to top](#top)
+
+<br>
+
+{% include tip.html title="Note" text="You can set up multiple card terminals based on the number of terminals available at your location." %}
+
+<br>
+
+### See Also
+
+[Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Pay360](garagehive-payment-gateways.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Dojo](garagehive-payment-gateways.html){:target="_blank"} \
+[How to Use Humm Financing](garagehive-humm-financing.html){:target="_blank"} \
+[How to Set Card Terminals Into Integration Mode](garagehive-setting-card-terminals-into-integration-mode.html){:target="_blank"} \
+[Generating Paymentsense Card Machine End of Day, X Balance and Z Balance Report](garagehive-paymentsense-card-machine-x-and-z-report.html){:target="_blank"}
  

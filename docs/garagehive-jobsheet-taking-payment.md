@@ -3,6 +3,8 @@ layout: docs
 title: Taking a Payment and Posting a Jobsheet
 ---
 
+<a name="top"></a>
+
 When a Jobsheet is completed, it should now be posted in order to update the relevant accounts in the system. To do so, you must understand how to take payment on a Jobsheet, update the Jobsheet lines, and then post the Jobsheet.
 
 ## In this article
@@ -11,7 +13,7 @@ When a Jobsheet is completed, it should now be posted in order to update the rel
 4. [Taking a payment in a Jobsheet and posting it](#taking-a-payment-in-a-jobsheet-and-posting-it)
 5. [Post the Jobsheet without taking the payment](#post-the-jobsheet-without-taking-the-payment)
 
-### Adding resources to labour lines in a Jobsheet
+### Adding Resources to Labour Lines in a Jobsheet
 Before posting the jobsheet, all labour lines must-have resource information added to them. There are several ways this can be done:
 1. If the Technician uses the Technician **Confirmed** button on their device, the resources column will be pre-populated.
 
@@ -29,7 +31,10 @@ Before posting the jobsheet, all labour lines must-have resource information add
 
     ![](media/garagehive-jobsheet-adding-resources4.gif)
 
-### Updating the items numbers and quantities
+
+[Go back to top](#top)
+
+### Updating the Items Numbers and Quantities
 1. All item numbers must be updated from the **Placeholder Item**, such as **MISC, to their actual item numbers. Ensure that the quantities and prices of the items remain unchanged.
 
     ![](media/garagehive-jobsheet-placeholder-item1.gif)
@@ -42,23 +47,35 @@ Before posting the jobsheet, all labour lines must-have resource information add
 
     ![](media/garagehive-jobsheet-taking-payment3.png)
 
-### Taking a payment in a Jobsheet and posting it
-When the job is completed and the financial information is correct. You can now **take payment** from the customer and post the Jobsheet, or you can **add payment terms** to the Jobsheet so that you can post it. To take payment from the Jobsheet:
-1. Select **Payments/Posting** from the jobsheet's menu bar, then **Take Payment** to select the customer's payment method and add the amount paid along the customer's payment method row.
+
+[Go back to top](#top)
+
+### Taking a Payment in a Jobsheet and Posting It
+Once the job is finished and the financial details are correct, you have two options. You can either take payment from the customer and post the Jobsheet, or you can [add payment terms](#post-the-jobsheet-without-taking-the-payment) to the Jobsheet and then post it. To take payment from the Jobsheet:
+1. Select **Payments/Posting** from the Jobsheet's menu bar, then **Take Payment**.
 
     ![](media/garagehive-jobsheet-taking-payment1.png)
 
+2. Enter the amount paid in the payment method row corresponding to the customer's chosen payment method. If the customer is paying by card, select **Pay by Card Terminal** from the menu bar. If they are using Humm Financing, select **Request Humm Financing** from the menu bar. For payments made through GarageLink, select **Pay by Garage Link** from the menu bar.
+
     ![](media/garagehive-jobsheet-taking-payment2.png)
 
-2. You can view other payments that have been applied in the document by selecting **Payment Gateway Entries** action, in the **Take Payment** window.
+3. When multiple card terminals are available for the location, a notification will prompt you to select the card terminal that the customer is using.
+
+   ![](media/garagehive-jobsheet-taking-payment2d.png)
+
+4. You can view other payments that have been applied in the document by selecting **Payment Gateway Entries** action, in the **Document Payments** window.
 
     ![](media/garagehive-jobsheet-taking-payment2a.png)
 
-3. Close the **Take Payment** page, and select the **Post** under the **Payment/Posting** menu.
+5. Close the **Take Payment** page, and select the **Post** under the **Payment/Posting** menu.
 
    ![](media/garagehive-jobsheet-taking-payment2c.png)
 
-### Post the Jobsheet without taking the payment
+
+[Go back to top](#top)
+
+### Post the Jobsheet Without Taking the Payment
 1. Scroll down to the **Invoicing** FastTab and enter the customer's **Payment Terms Code**, such as **10 days from invoice (10D)**.
 
    ![](media/garagehive-jobsheet-taking-payment2b.png)
@@ -73,6 +90,20 @@ Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
    ![](media/garagehive-jobsheet-posting1.gif)
 
 
+[Go back to top](#top)
+
 <br>
 
 {% include tip.html title="Note" text="After the jobsheet has been posted, it can be found in Posted & Archived Documents under Posted Jobsheet, which can be accessed from the role centre navigation menu." %}
+
+<br>
+
+### See Also
+
+[Setting Up Payment by Card Terminal](garagehive-setting-up-payment-by-card-terminal.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Pay360](garagehive-payment-gateways.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Dojo](garagehive-payment-gateways.html){:target="_blank"} \
+[How to Use Humm Financing](garagehive-humm-financing.html){:target="_blank"} \
+[How to Set Card Terminals Into Integration Mode](garagehive-setting-card-terminals-into-integration-mode.html){:target="_blank"} \
+[Generating Paymentsense Card Machine End of Day, X Balance and Z Balance Report](garagehive-paymentsense-card-machine-x-and-z-report.html){:target="_blank"}
+ 
