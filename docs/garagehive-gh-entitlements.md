@@ -9,7 +9,7 @@ title: DRAFT* - How to Manage GH Entitlements
 We are currently reviewing this article before it is published, check back later.
 
 # How to Manage GH Entitlements
-GH Entitlements, in Garage Hive, are the services that a customer is entitled to use according to the licence that they have purchased or the role that a user has in the system. These entitlements define the specific features, functionalities, and access rights available to the customer or user. By aligning entitlements with licences and roles, Garage Hive ensures that customers and users have access and functionality based on their specific needs and permissions. This helps optimise the user experience and ensure that customers can make the most of the services Garage Hive provides.
+GH Entitlements, in Garage Hive, are the services that a customer is entitled to use according to the licence that they have purchased or the role that a user has in the system. These entitlements define the specific features, functionalities, and access rights available to the customer or user. This helps optimise the user experience and ensure that customers can make the most of the services Garage Hive provides.
 
 ## In this article
 1. [Assigning GH Entitlements to Companies](#assigning-gh-entitlements-to-companies)
@@ -26,17 +26,18 @@ To assign GH Entitlements for companies in your system, follow these steps if yo
 
    ![](media/garagehive-gh-entitlement-company2.png)
 
-3. In the page opened, choose the component you wish to assign to the company. Then, click on **Assign** in the menu bar to assign it. To remove an assignment, select **Remove** from the menu bar.
+3. In the page opened, choose the component you wish to assign to the company. Then, click on **Assign** in the menu bar to assign it. 
+4. To remove an assignment, select **Remove** from the menu bar.
 
    ![](media/garagehive-gh-entitlement-company3.png)
 
-4. The company will now have the assigned entitlement.
+5. The company will now have the assigned entitlement.
 
 
 [Go back to top](#top)
 
 ### Assigning GH Entitlements to Locations
-To assign GH Entitlements for companies in your system, follow these steps if your system is licensed for multiple companies:
+To assign GH Entitlements for companies in your system, follow these steps if your system is licensed for multiple locations:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Locations**, and select the related link.
 
    ![](media/garagehive-gh-entitlement-location1.png)
