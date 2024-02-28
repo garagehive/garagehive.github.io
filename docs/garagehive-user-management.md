@@ -203,4 +203,5 @@ If you want a specific user to only see the tiles they have created in the Role 
 ### **See Also**
 
 [Video: How to manage system users within Garage Hive](https://www.youtube.com/watch?v=Icq0D8j4HIc){:target="_blank"} \
-[How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password](garagehive-azure-active-directory-user.html){:target="_blank"}
+[How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password](garagehive-azure-active-directory-user.html){:target="_blank"} \
+[How to Manage GH Entitlements](garagehive-gh-entitlements.html){:target="_blank"}
