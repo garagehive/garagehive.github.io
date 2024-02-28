@@ -57,3 +57,10 @@ To assign GH Entitlements for companies in your system, follow these steps if yo
 
 
 [Go back to top](#top)
+
+<br>
+
+### See Also
+
+[How to Create Users, Manage Roles and Enable Data Permissions](garagehive-user-management.html){:target="_blank"} \
+[How to Create and Edit Users in Azure Active Directory (AAD) and Reset Password](garagehive-azure-active-directory-user.html){:target="_blank"}
