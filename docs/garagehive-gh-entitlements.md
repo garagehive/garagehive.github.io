@@ -14,7 +14,6 @@ GH Entitlements, in Garage Hive, are the services that a customer is entitled to
 ## In this article
 1. [Assigning GH Entitlements to Companies](#assigning-gh-entitlements-to-companies)
 2. [Assigning GH Entitlements to Locations](#assigning-gh-entitlements-to-locations)
-3. [Assigning GH Entitlements to Users](#assigninggh-entitlements-to-users)
 
 ### Assigning GH Entitlements to Companies
 To assign GH Entitlements for companies in your system, follow these steps if your system is licensed for multiple companies:
