@@ -165,6 +165,8 @@
       url: /docs/garagehive-jobsheet-cancel-and-correct.html
     - name: Deleting a Job after a Technician has Clocked On to It
       url: /docs/garagehive-deleting-jobs-with-clock-on.html
+    - name: How to Assign Technicians to Group Tasks (Pool Jobs)
+      url: /docs/garagehive-group-tasks.html
     - name: Create a Return Jobsheet
       url: /docs/garagehive-service-return-order.html
     - name: Create an Estimate
