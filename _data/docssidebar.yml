@@ -71,6 +71,8 @@
       url: /docs/garagehive-user-management.html
     - name: How to Create and Edit Users in Azure Active Directory (AAD)
       url: /docs/garagehive-azure-active-directory-user.html
+    - name: How to Manage GH Entitlements
+      url: /docs/garagehive-gh-entitlements.html
     - name: Migrating to AAD Sign-on
       url: /docs/garagehive-migrating-to-aad-sign-on.html
     - name: Guide on Microsoft Accounts
