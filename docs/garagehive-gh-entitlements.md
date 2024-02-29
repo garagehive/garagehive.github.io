@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Manage GH Entitlements
+title: How to Manage GH Entitlements
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Manage GH Entitlements
 GH Entitlements, in Garage Hive, are the services that a customer is entitled to use according to the licence that they have purchased. These entitlements define the specific features, functionalities, and access rights available to the customer. GH Entitlements can be assigned to users, companies, or locations. The service will start working only after the GH Entitlement has been assigned to the respective entity.
