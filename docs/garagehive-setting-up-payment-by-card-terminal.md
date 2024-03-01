@@ -28,6 +28,14 @@ To setup payment by **Card Terminal**:
    ![](media/garagehive-card-terminal4.png)
 
 7. Click the **Back** arrow to exit the **Payment Gateway Card** and save your changes. Your new payment method is now active.
+8. Once you have set up your payment card terminal, you need to add the payment to the desired location where the card will be used. To do this, search for **Location Payment Methods** by clicking on the search ![](media/search_icon.png) icon located at the top right corner of the screen.
+
+   ![](media/garagehive-card-terminal5.png)
+
+9. Choose the location you want by selecting the corresponding code in the **Location Code** column. In the **Payment Method Code** column, select **INCARD** as the payment method. 
+10. Finally, select the card terminal you have set up by choosing the corresponding code in the **Payment Gateway Code** column.
+
+   ![](media/garagehive-card-terminal6.png)
 
 
 [Go back to top](#top)
