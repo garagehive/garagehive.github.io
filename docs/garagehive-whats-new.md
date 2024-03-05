@@ -7,7 +7,7 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 21st February 2024
-* Added a column that shows the number of scheduled allocations that are in progress or pending. This feature allows users to easily identity Jobsheets with multiple ongoing tasks, [read more](garagehive-understanding-the-schedule.html#how-to-add-schedule-allocations-count){:target="_blank"}.
+* Added a column that shows the number of scheduled allocations that are in progress or pending. This feature allows users to easily identify Jobsheets with multiple ongoing tasks, [read more](garagehive-understanding-the-schedule.html#how-to-add-schedule-allocations-count){:target="_blank"}.
 
    ![](media/garagehive-schedule-allocations-count1.png)
 

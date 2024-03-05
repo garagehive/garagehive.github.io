@@ -27,8 +27,26 @@ The steps for data migration from other garage management systems to Garage Hive
    {% include tip.html title="Note" text="Data migration from one garage management system to Garage Hive can be a complex and time-consuming process that requires careful planning and execution. It is recommended to consult with both support teams before starting the process and during each step of it for guidance and troubleshooting." %}
 
 # Support Contact Details for Some of the Garage Management Systems
+In the following list, please select the current system that you are using to view their contact details.
 
-## MAM Software
+## Which is your current system?
+1. [MAM Software](#mam-software)
+2. [Techman](#techman)
+3. [GA3](#ga3)
+4. [Auto In Touch](#auto-in-touch)
+5. [Apex RMS](#apex-rms)
+6. [CAM Systems](#cam-systems)
+7. [CarSys Software](#carsys-software)
+8. [Click Dealer](#click-dealer)
+9. [Dragon 2000](#dragon-2000)
+10. [Garage Manager](#garage-manager)
+11. [Garage Data Systems](#garage-data-systems)
+12. [Gemini Systems](#gemini-systems)
+13. [GS Onestop](#gs-onestop)
+14. [Motasoft](#motasoft)
+15. [MOT Manager](#mot-manager)
+
+### MAM Software
    * **Phone** - [**01226352904**](tel:01226352904) 
    * **Email** - [**awolsupport@mamsoft.co.uk**](mailto:awolsupport@mamsoft.co.uk)
 
@@ -39,8 +57,10 @@ You will need to contact MAM Software directly for them to perform the data extr
 They will ask if you want a CD, We recommend asking them to log into your computer and leaving the file on your desktop instead.
 
 We often notice that the reminder file provided during the standard export only contains expired dates, please ask them to ensure the reminders file is accurate.
+
+[Go back to top](#top)
    
-## Techman
+### Techman
    * **Phone** - [**01604936462**](tel:01604936462)
    * **Email** - [**info@techmangms.com**](mailto:info@techmangms.com)
 
@@ -48,11 +68,147 @@ We often notice that the reminder file provided during the standard export only 
 
 You will need to contact Techman directly for them to perform the data extract for you, simply inform them that you need the data required to import into another Garage Management System and they will send you a file to forward to us.
 
-## GA3
+[Go back to top](#top)
 
-      ![](media/ga3.png)
+### GA3
+
+   ![](media/ga3.png)
 
 To obtain the correctly formatted data from GA3 for us to import into Garage Hive you will need to ask [**SWS Solutions (UK) Ltd**](https://www.sws-solutions.co.uk/contact.php){:target="_blank"} to perform an export of your data. Please don't forget to ask for your vehicle history.
 
+[Go back to top](#top)
+
+### Auto In Touch
+   * **Phone** - [**01934421320**](tel:01934421320)
+   * **Email** - [**sales@mttltd.com**](mailto:sales@mttltd.com)
+
+      ![](media/auto-in-touch.png)
+
+To export data from Auto in Touch, contact their support team to request the necessary data export.
+
+[Go back to top](#top)
+
+### Apex RMS
+   * **Phone** - [**02031956757**](tel:02031956757)
+   * **Email** - [**sales@apex-networks.com**](mailto:sales@apex-networks.com)
+
+      ![](media/apex-rms.png)
+
+Reach out to the Apex Networks' support team, and ask them to export the data from your system in universally readable formats, such as CSV or XML.
+
+[Go back to top](#top)
+
+### CAM Systems
+   * **Phone** - [**01453891000**](tel:01453891000)
+
+      ![](media/cam-systems.png)
+
+Contact CAM Systems support team for the data export.
+
+[Go back to top](#top)
+
+### CarSys Software
+   * **Phone** - [**02037885879**](tel:02037885879)
+
+      ![](media/carsys-software.png)
+
+Contact CarSys support team, for a detailed guide on how to export your system data.
+
+[Go back to top](#top)
+
+### Click Dealer
+   * **Phone** - [**01782478220**](tel:01782478220)
+   * **Email** - [**help@clickdealer.co.uk**](mailto:help@clickdealer.co.uk)
+
+      ![](media/click-dealer.png)
+
+Contact Click Dealer support team, for a detailed guide on how to export your system data.
+
+[Go back to top](#top)
+
+### Dragon 2000
+   * **Phone** - [**01327222333**](tel:01327222333)
+   * **Email** - [**sales@dragon2000.co.uk**](mailto:sales@dragon2000.co.uk)
+
+      ![](media/dragon-2000.png)
+
+Contact Dragon 2000 support team for the data export.
+
+[Go back to top](#top)
+
+### Garage Manager
+   * **Phone** - [**+353860299090**](tel:+353860299090)
+   * **Email** - [**sales@garagemanager.ie**](mailto:sales@dragon2000.co.uk)
+ 
+      ![](media/garage-manager.png)
+
+Reach out to the Garage Manager support team, and ask them to export the data from your system.
+
+[Go back to top](#top)
+
+### Garage Data Systems
+   * **Phone** - [**01482330735**](tel:01482330735)
+   * **Email** - [**info@gds.co.uk**](mailto:info@gds.co.uk)
+ 
+      ![](media/garage-data-systems.png)
+
+Reach out to the Garage Data Systems (GDS) support team, and ask them to export the data from your system.
+
+[Go back to top](#top)
+
+### Gemini Systems
+   * **Phone** - [**01522698911**](tel:01522698911)
+ 
+      ![](media/gemini-systems.png)
+
+Contact Gemini Systems support team for the data export.
+
+[Go back to top](#top)
+
+### GS Onestop
+   * **Phone** - [**01214110770**](tel:01214110770)
+   * **Email** - [**support@gs-onestop.com**](mailto:support@gs-onestop.com)
+ 
+      ![](media/gs-onestop.png)
+
+Contact GS Onestop support team for the data export.
+
+[Go back to top](#top)
+
+### Motasoft
+   * **Phone** - [**01179428678**](tel:01179428678)
+   * **Email** - [**support@motasoft.co.uk**](mailto:support@motasoft.co.uk)
+ 
+      ![](media/motasoft.png)
+
+Contact Motasoft (VGM) support team for the data export.
+
+[Go back to top](#top)
+
+### MOT Manager
+   * **Phone** - [**03333444626**](tel:03333444626)
+ 
+      ![](media/mot-manager.png)
+
+Contact MOT Manager support team for the data export.
+
+[Go back to top](#top)
+
+### Onyx Garage Invoice System
+   * **Phone** - [**01482503046**](tel:01482503046)
+   * **Email** - [**support@onyxsoftware.co.uk**](mailto:support@onyxsoftware.co.uk)
+
+      ![](media/onyx-garage-invoice-system.png)
+
+To export data from Onyx Garage Invoice System, contact their support team to request the necessary data export.
+
+[Go back to top](#top)
+
+### Pinnacle DMS by Pinewood
+   * **Phone** - [**01216976600**](tel:01216976600)
+
+      ![](media/pinnacle.png)
+
+To export data from Pinnacle DMS by Pinewood, contact their support team to request the necessary data export.
 
 [Go back to top](#top)
