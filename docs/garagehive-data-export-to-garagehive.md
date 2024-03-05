@@ -45,6 +45,9 @@ In the following list, please select the current system that you are using to vi
 13. [GS Onestop](#gs-onestop)
 14. [Motasoft](#motasoft)
 15. [MOT Manager](#mot-manager)
+16. [Onyx Garage Invoice System](#onyx-garage-invoice-system)
+17. [Pinnacle DMS by Pinewood](#pinnacle-dms-by-pinewood)
+18. [TyreSoft](#tyresoft)
 
 ### MAM Software
    * **Phone** - [**01226352904**](tel:01226352904) 
@@ -210,5 +213,15 @@ To export data from Onyx Garage Invoice System, contact their support team to re
       ![](media/pinnacle.png)
 
 To export data from Pinnacle DMS by Pinewood, contact their support team to request the necessary data export.
+
+[Go back to top](#top)
+
+### TyreSoft
+   * **Phone** - [**03455280388**](tel:03455280388)
+   * **Email** - [**info@tyresoft.co.uk**](mailto:info@tyresoft.co.uk)
+
+      ![](media/tyresoft.png)
+
+To export data from TyreSoft, contact their support team to request the necessary data export.
 
 [Go back to top](#top)
