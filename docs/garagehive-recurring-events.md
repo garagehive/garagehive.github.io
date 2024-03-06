@@ -21,11 +21,11 @@ In Garage Hive, recurring events are used for scheduling allocations that will h
 
    ![](media/garagehive-recurring-events3.png)
 
-5. In the **Recurrence Settings** FastTab, you can now set the **Frequency** of the allocation, the **Starting Date** and **Ending Date**, as well as the days on which the recurring allocation should run. Click **OK** when finished.
+5. In the **Recurrence Settings** FastTab, set the **Frequency** of the allocation, enter the **Expiring Date**, and select the days on which the recurring allocation should run (when the frequency is set to **Daily**). Click **OK** when finished.
 
    ![](media/garagehive-recurring-events4.png)
 
-6. You will receive the following notification if the recurring allocation is assigned on a date that you have specified it shouldn't run. To view the dates that aren't assigned, click **Yes**.
+6. If the recurring allocation runs on an unavailable day, such as Sunday, you will receive the following notification. To view the dates that aren't assigned, click **Yes**.
 
    ![](media/garagehive-recurring-events5.png)
 
