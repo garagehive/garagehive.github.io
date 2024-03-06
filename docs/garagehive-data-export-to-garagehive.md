@@ -81,6 +81,14 @@ To obtain the correctly formatted data from GA3 for us to import into Garage Hiv
 
 [Go back to top](#top)
 
+### GA4
+
+   ![](media/ga4.png)
+
+To export data in CSV format from GA4, go to the GA4 settings page. Under the **Documents (All)** tab, select **All Invoices**. Under **Customers**, **Vehicles**, and **Suppliers**, select **Export All** (refer to the image above). We will then be able to import this data into Garage Hive.
+
+[Go back to top](#top)
+
 ### Auto In Touch
    * **Phone** - [**01934421320**](tel:01934421320)
    * **Email** - [**sales@mttltd.com**](mailto:sales@mttltd.com)
