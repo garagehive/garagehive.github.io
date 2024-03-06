@@ -87,7 +87,7 @@ To obtain the correctly formatted data from GA3 for us to import into Garage Hiv
 
       ![](media/auto-in-touch.png)
 
-To export data from Auto in Touch, contact their support team to request the necessary data export.
+If you want to export data from Auto In Touch, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -97,7 +97,7 @@ To export data from Auto in Touch, contact their support team to request the nec
 
       ![](media/apex-rms.png)
 
-Reach out to the Apex Networks' support team, and ask them to export the data from your system in universally readable formats, such as CSV or XML.
+If you want to export data from Apex RMS, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -106,7 +106,7 @@ Reach out to the Apex Networks' support team, and ask them to export the data fr
 
       ![](media/cam-systems.png)
 
-Contact CAM Systems support team for the data export.
+If you want to export data from CAM Systems, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -115,7 +115,7 @@ Contact CAM Systems support team for the data export.
 
       ![](media/carsys-software.png)
 
-Contact CarSys support team, for a detailed guide on how to export your system data.
+If you want to export data from CarSys Software, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -125,7 +125,7 @@ Contact CarSys support team, for a detailed guide on how to export your system d
 
       ![](media/click-dealer.png)
 
-Contact Click Dealer support team, for a detailed guide on how to export your system data.
+If you want to export data from Click Dealer, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -135,7 +135,7 @@ Contact Click Dealer support team, for a detailed guide on how to export your sy
 
       ![](media/dragon-2000.png)
 
-Contact Dragon 2000 support team for the data export.
+If you want to export data from Dragon 2000, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -145,7 +145,7 @@ Contact Dragon 2000 support team for the data export.
  
       ![](media/garage-manager.png)
 
-Reach out to the Garage Manager support team, and ask them to export the data from your system.
+If you want to export data from Garage Manager, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -155,7 +155,7 @@ Reach out to the Garage Manager support team, and ask them to export the data fr
  
       ![](media/garage-data-systems.png)
 
-Reach out to the Garage Data Systems (GDS) support team, and ask them to export the data from your system.
+If you want to export data from Garage Data Systems (GDS), contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -164,7 +164,7 @@ Reach out to the Garage Data Systems (GDS) support team, and ask them to export 
  
       ![](media/gemini-systems.png)
 
-Contact Gemini Systems support team for the data export.
+If you want to export data from Gemini Systems, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -174,7 +174,7 @@ Contact Gemini Systems support team for the data export.
  
       ![](media/gs-onestop.png)
 
-Contact GS Onestop support team for the data export.
+If you want to export data from GS Onestop, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -184,7 +184,7 @@ Contact GS Onestop support team for the data export.
  
       ![](media/motasoft.png)
 
-Contact Motasoft (VGM) support team for the data export.
+If you want to export data from Motasoft, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -193,7 +193,7 @@ Contact Motasoft (VGM) support team for the data export.
  
       ![](media/mot-manager.png)
 
-Contact MOT Manager support team for the data export.
+If you want to export data from MOT Manager, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -203,7 +203,7 @@ Contact MOT Manager support team for the data export.
 
       ![](media/onyx-garage-invoice-system.png)
 
-To export data from Onyx Garage Invoice System, contact their support team to request the necessary data export.
+If you want to export data from Onyx Garage Invoice System, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -212,7 +212,7 @@ To export data from Onyx Garage Invoice System, contact their support team to re
 
       ![](media/pinnacle.png)
 
-To export data from Pinnacle DMS by Pinewood, contact their support team to request the necessary data export.
+If you want to export data from Pinnacle DMS by Pinewood, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
 
@@ -222,6 +222,6 @@ To export data from Pinnacle DMS by Pinewood, contact their support team to requ
 
       ![](media/tyresoft.png)
 
-To export data from TyreSoft, contact their support team to request the necessary data export.
+If you want to export data from TyreSoft, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
