@@ -54,7 +54,7 @@ To integrate the **Chart of Accounts** to **QuickBooks** accounting system:
    ![](media/garagehive-quickbooks-online-integration7.png)
 
 2. In the **Chart of Accounts** page, select **Edit List** from the menu bar.
-3. In the **External System No.** column, enter the account number for the accounts you want to integrate with the external system. In this case, we'll integrate all of the **4000s** accounts.
+3. In the **External System No.** column, click on the three dots to select the corresponding **Account** that you use in your external system. In this case, we'll integrate all of the **4000s** accounts.
 
    {% include tip.html title="Note" text="Typically only the 4000's and 5000's accounts are needed." %}
 
@@ -85,12 +85,12 @@ To add the **External System No.** to the **Payments Methods**:
    * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
    * **Export Customer Payments/Refunds** - This will export Invoice payments/refunds as well as payments to accounts within the specified date range.
    * **Export Vendor Invoices/Credit Memos** - This will export all posted purchase orders/purchase invoices as well as posted purchase return orders/purchase credit memos within the given date range.
-   * **Export Type** - All or New. You may either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any previously exported documents. This implies that it is **important** that you keep all prior exported files secure since they will never be reproduced. When using **New**, a transaction that has already been exported will be flagged and will not be exported again.
+   * **Export Type** - All or New. You may either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any previously exported documents. When using **New**, a transaction that has already been exported, will not be exported again.
    * **Date From** and **Date To** - Choose your date range.
 
 3. Under Catalogs:
-   * **Export All Customers** - This will generate an export of all customers in the system (**It is highly recommended that you never select this**).
-   * **Export All Vendors** - This will generate an export of all vendors in the system (**It is highly recommended that you never select this**).
+   * **Export All Customers** - This will generate an export of all customers in the system (**It is highly recommended that you do not select this**).
+   * **Export All Vendors** - This will generate an export of all vendors in the system (**It is highly recommended that you do not select this**).
 
 4. Click **OK**, to start exporting the data.
 
