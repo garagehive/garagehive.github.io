@@ -7,7 +7,7 @@ title: Using Vehicle Sales Invoices
 Vehicle Sales Invoice is the invoice created in the system when the customer confirms the purchase of the vehicle. There are several types of invoices used for vehicle sales:
 
    - **Deposit Invoice** - This is created for the deposit given for the vehicle.
-   - **Finance Invoice** - This is created for the finance company, when the payment is done by the finance company.
+   - **Finance Invoice** - This is created for the finance company, when the payment is made by the finance company.
    - **Customer Invoice** - This is created for the customer, for the remaining amount that they will pay.
    - **Finance Balancing Invoice** - This is created for system requirements. It exists to keep the system's books balanced; it may not be printed and will always have a zero value.
 

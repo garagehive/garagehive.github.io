@@ -28,10 +28,10 @@ If the bank statement format you need is not listed above, you can use the **Gen
 
    | Date (dd/mm/yyyy) | Description                        | Amount (Positive - Money In, or Negative - Money Out) |
    | :---------------- | :--------------------------------- | :---------------------------------------------------- |
-   | 01/03/2024        | Customer Invoice #001 Payment      | +450                                                  |
+   | 01/03/2024        | Customer Invoice #001 Payment      | 450                                                   |
    | 02/03/2024        | Auto Parts Supply - Euro Car Parts | -200                                                  |
    | 03/03/2024        | Utility Bill - Electricity         | -120                                                  |
-   | 04/03/2024        | Sale of Used Car                   | +5000                                                 |
+   | 04/03/2024        | Sale of Used Car                   | 5000                                                  |
 
 2. After your bank statement file is prepared, search for the **Payment Reconciliation Journal** page and choose **Custom Import Transactions** followed by **Generic**.
 
