@@ -58,6 +58,8 @@ The type of invoice is indicated in the **Vehicle Sales Invoice Type** column of
 
    ![](media/garagehive-vehicle-sales-invoice10.png)
 
+   ![](media/garagehive-vehicle-sales-invoice10a.png)
+
 
 {% include tip.html title="Note" text="After the deal is done, all the invoices should be posted." %}
 
