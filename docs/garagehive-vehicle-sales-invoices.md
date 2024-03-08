@@ -75,7 +75,7 @@ The type of invoice is indicated in the **Vehicle Sales Invoice Type** column of
 
    ![](media/garagehive-vehicle-sales-invoice13.png)
 
-4. On the page that opens, click **Ok**.
+4. On the page that opens, enter the dates as today's date and click **OK**.
 
    ![](media/garagehive-vehicle-sales-invoice14.png)
    
