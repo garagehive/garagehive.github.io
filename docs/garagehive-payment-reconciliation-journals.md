@@ -23,6 +23,26 @@ The following are the supported bank statement formats:
 
    ![](media/garagehive-bank-statements-supported.png)
 
+If the bank statement format you need is not listed above, you can use the **Generic** method, to import your statement as follows:
+1. To import data using the **Generic** method, the file must be formatted with three specific columns: **Date, Description, and Amount**, and save it in **CSV file format**. Here is an example:
+
+   | Date (dd/mm/yyyy) | Description                        | Amount (Positive - Money In, or Negative - Money Out) |
+   | :---------------- | :--------------------------------- | :---------------------------------------------------- |
+   | 01/03/2024        | Customer Invoice #001 Payment      | +450                                                  |
+   | 02/03/2024        | Auto Parts Supply - Euro Car Parts | -200                                                  |
+   | 03/03/2024        | Utility Bill - Electricity         | -120                                                  |
+   | 04/03/2024        | Sale of Used Car                   | +5000                                                 |
+
+2. After your bank statement file is prepared, search for the **Payment Reconciliation Journal** page and choose **Custom Import Transactions** followed by **Generic**.
+
+   ![](media/garagehive-bank-statement-generic1.png)
+
+3. Once the import window pops up, choose your file to import it. The data will be imported automatically.
+
+   ![](media/garagehive-bank-statement-generic2.png)
+
+<br>
+
 You can also reconcile bank accounts without simultaneously applying payments on the **Bank Acc. Reconciliation** page. <br>
 The following is a list of tasks involved in working with payment reconciliation journals, alongside links to topics that describe them:
 <br>
