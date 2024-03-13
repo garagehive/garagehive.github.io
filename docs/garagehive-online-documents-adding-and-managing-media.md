@@ -1,12 +1,12 @@
 ---
 layout: docs
-title: Adding and Managing Media in Garage Hive
+title: Adding and Managing Media in Garage Hive ()
 ---
 
 <a name="top"></a>
 
 # Managing Media List in Garage Hive
-In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents. This feature enhances the visual appeal what you want to communicate to the customers.
+In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents. This feature also includes adding YouTube and Vehicle Visuals videos.
 
 ## In this article
 1. [Adding Media to Group Lines and Document Lines](#adding-media-to-group-lines-and-document-lines)
