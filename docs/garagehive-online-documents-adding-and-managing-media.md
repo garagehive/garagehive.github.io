@@ -1,17 +1,18 @@
 ---
 layout: docs
-title: Adding and Managing Media in Garage Hive ()
+title: Adding and Managing Media in Garage Hive (Including YouTube and Vehicle Visuals)
 ---
 
 <a name="top"></a>
 
-# Managing Media List in Garage Hive
-In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents. This feature also includes adding YouTube and Vehicle Visuals videos.
+# Managing Media List in Garage Hive (Including YouTube and Vehicle Visuals)
+In this article, we look at the feature of adding media (referring to both images and videos) into the Garage Hive system. We will explore how you can add media, including adding media to grouped lines and document lines, linking media with various documents, and seamlessly integrating media into documents.
 
 ## In this article
 1. [Adding Media to Group Lines and Document Lines](#adding-media-to-group-lines-and-document-lines)
 2. [Adding Media to Checklist Lines](#adding-media-to-checklist-lines)
-3. [Managing All Added Media](#managing-all-added-media)
+3. [Adding Media to Service Packages](#adding-media-to-service-packages)
+4. [Managing All Added Media](#managing-all-added-media)
 
    {% include tip.html title="Note" text="When you upload media to Garage Hive, larger images are downscaled to 1500x2000px or 2000x1500px if the ratio is 3x4." %}
 
@@ -52,7 +53,7 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
 [Go back to top](#top)
 
 ### Adding media to checklist lines
-When creating a checklist, use the steps below to add media to the checklist lines:
+When creating a Checklist, use the steps below to add media to the checklist lines:
 1. From the checklist lines, select the ellipsis (...) at the end of the checklist line to add the media.
 2. From the pop-up menu, select the method for adding a picture to the line, in this case we'll use **Upload Line Picture**.
 
@@ -65,6 +66,21 @@ When creating a checklist, use the steps below to add media to the checklist lin
 4. To automatically start the take picture option when an attention option is selected, search for **Process Checklist Setup**, and on the **Process Checklist Setup** page, select the slider on **Take Line Picture On Attention** field.
 
    ![](media/garagehive-adding-and-managing-media8.png)
+
+
+[Go back to top](#top)
+
+### Adding Media to Service Packages
+When creating a Service Package, use the steps below to add media to the checklist lines:
+1. In the **Service Package** Card, go to the **Versions** sub-page, scroll to the **Media Count** column and click on the cell of the line to add media.
+
+   ![](media/garagehive-adding-media-to-service-packages1.png)
+
+2. On the **Linked Media** page, click **New** from the menu bar, and then choose the method for adding the media.
+
+   ![](media/garagehive-adding-media-to-service-packages2.png)
+
+3. The newly added media will now be linked to the selected Service Package.
 
 
 [Go back to top](#top)
