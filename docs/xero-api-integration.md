@@ -10,8 +10,9 @@ title: Xero API Integration Setup
 2. [Initial Setup](#initial-setup)
 3. [Integrate Chart of Accounts](#integrate-chart-of-accounts)
 3. [Integrate Payment Methods](#integrate-payment-methods)
-4. [How to run the export](#how-to-run-the-export)
-5. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
+4. [Integrate VAT Posting](#integrate-vat-posting)
+5. [How to run the export](#how-to-run-the-export)
+6. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
 
 
 ### What you can export via the Xero API
@@ -108,6 +109,18 @@ To add the **External System No.** to the **Payments Methods**:
 
    ![](media/garagehive-xero-payment-methods2.png)
 
+[Go back to top](#top)
+
+### Integrate VAT Posting
+To integrate the VAT posting in your system: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **VAT Posting Setup** and select the related link.
+
+   ![](media/garagehive-xero-vat-posting1.png)
+
+2. In the **External VAT Identifier Code** column, click on the three dots to select the corresponding code for the **VAT Posting** that you use in your external system.
+
+   ![](media/garagehive-xero-vat-posting2.png)
+   
 [Go back to top](#top)
 
 ### How to run the export 
