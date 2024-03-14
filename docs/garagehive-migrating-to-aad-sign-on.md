@@ -20,19 +20,19 @@ Your old username, for example, 'Daves,' will no longer work and will be replace
 
    ![](media/garagehive-aad-sign-on-migrate3.png)
 
-2. You will receive a **Username** and a **Temporary Password** in the email. To login, open an **inprivate/incognito** window in your browser or use a **guest** profile in your browser and go to [office.com](https://www.office.com/?auth=2){:target="_blank"}. Enter the username and temporary password you received.
+2. You will receive a **Username** and a **Temporary Password** in the email. To login, open an **inprivate/incognito** window in your browser or use a **guest** profile in your browser and go to [office.com](https://www.office.com/?auth=2){:target="_blank"}. Enter the username and temporary password you received. Click **Sign In**.
 
    ![](media/garagehive-aad-sign-on-migrate4.png)
 
-3. You will be prompted to change the temporary password to a password of your choice.
+3. In the next page, you will be prompted to change the temporary password to a password of your choice. Enter your **Current Password(temporary password)** as received on email, and then create a **New Password** and confirm the password. Click **Sign In**.
 
    ![](media/garagehive-aad-sign-on-migrate8.png)
 
-4. To increase the security of your account, select your account on the top right corner, and click on **View Account**.
+4. To increase the security of your account, click on your account icon located at the top right corner and select **View Account**.
 
    ![](media/garagehive-aad-sign-on-migrate9.png)
 
-5. Go to the **Security info** section on the left and click on **add a sign-in method**. Choose the **authenticator app** as the method you want to use, and click on **Add**. Download the Microsoft Authenticator App for your mobile phone or tablet [**here**].(https://www.microsoft.com/en-us/security/mobile-authenticator-app).
+5. Go to the **Security info** section on the left and click on **add a sign-in method**. Choose the **authenticator app** as the method you want to use, and click on **Add**. Download the Microsoft Authenticator App for your mobile phone or tablet [**here**](https://www.microsoft.com/en-us/security/mobile-authenticator-app){:target="_blank"}.
 
    ![](media/garagehive-aad-sign-on-migrate5.png)
 
