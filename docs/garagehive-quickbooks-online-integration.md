@@ -12,7 +12,8 @@ Garage Hive has made it possible to integrate QuickBooks online accounting syste
 1. [Initial Setup](#initial-setup)
 2. [Integrate Chart of Accounts](#integrate-chart-of-accounts)
 3. [Integrate Payment Methods](#integrate-payment-methods)
-4. [How to run the export](#how-to-run-the-export)
+4. [Integrate VAT Posting](#integrate-vat-posting)
+5. [How to run the export](#how-to-run-the-export)
 
 ### Initial Setup
 To integrate **QuickBooks Online** with Garage Hive, follow these steps.
@@ -72,6 +73,19 @@ To add the **External System No.** to the **Payments Methods**:
 2. In the **External System No.** column, click on the three dots to select the corresponding code for the **Payment Methods** that you use in your external system.
 
    ![](media/garagehive-quickbooks-online-integration10.png)
+
+
+[Go back to top](#top)
+
+### Integrate VAT Posting
+To integrate the VAT posting in your system: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **VAT Posting Setup** and select the related link.
+
+   ![](media/garagehive-quickbooks-vat-posting1.png)
+
+2. In the **External VAT Identifier Code** column, click on the three dots to select the corresponding code for the **VAT Posting** that you use in your external system.
+
+   ![](media/garagehive-quickbooks-vat-posting2.png)
 
 
 [Go back to top](#top)

@@ -3,24 +3,15 @@ layout: docs
 title: Sage Accounting Integration Setup
 ---
 
+<a name="top"></a>
+
 ## In this article
-1. [What you can export via the Sage Accounting integration](#what-you-can-export-via-the-sage-accounting-integration)
-2. [Initial Setup](#initial-setup)
+1. [Initial Setup](#initial-setup)
+2. [Integrate Chart of Accounts](#integrate-chart-of-accounts)
+3. [Integrate Payment Methods](#integrate-payment-methods)
+4. [Integrate VAT Posting](#integrate-vat-posting)
 3. [How to run the export](#how-to-run-the-export)
-
-
-### What you can export via the Sage Accounting integration
-
-Garage Hive allows you to export your data to Sage Accounting; you can export the following:
-
-* Customer Invoices
-* Customer Credit Memos
-* Customer Payments
-* Customer Refunds
-* Vendor Invoices
-* Vendor Credit memos
-
-{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
+4. [What you can export via the Sage Accounting integration](#what-you-can-export-via-the-sage-accounting-integration)
 
 ### Initial Setup
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
@@ -48,6 +39,51 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
 
    ![](media/garagehive-sage-accounting-setup7.png)
 
+
+[Go back to top](#top)
+
+### Integrate Chart of Accounts
+To integrate the **Chart of Accounts** to **Sage Accounting** system: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Chart of Accounts** and select the related link.
+
+   ![](media/garagehive-sage-accounting-chart-of-accounts1.png)
+
+2. In the **Chart of Accounts** page, select **Edit List** from the menu bar.
+3. In the **External System No.** column, click on the three dots to select the corresponding **Account** that you use in your external system. In this case, we'll integrate all of the **4000s** accounts.
+
+   {% include tip.html title="Note" text="Typically only the 4000's and 5000's accounts are needed." %}
+
+   ![](media/garagehive-sage-accounting-chart-of-accounts2.png)
+
+
+[Go back to top](#top)
+
+### Integrate Payment Methods
+To add the **External System No.** to the **Payments Methods**: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Payment Methods** and select the related link.
+
+   ![](media/garagehive-sage-accounting-payment-methods1.png)
+
+2. In the **External System No.** column, click on the three dots to select the corresponding code for the **Payment Methods** that you use in your external system.
+
+   ![](media/garagehive-sage-accounting-payment-methods2.png)
+
+
+[Go back to top](#top)
+
+### Integrate VAT Posting
+To integrate the VAT posting in your system: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **VAT Posting Setup** and select the related link.
+
+   ![](media/garagehive-sage-accounting-vat-posting1.png)
+
+2. In the **External VAT Identifier Code** column, click on the three dots to select the corresponding code for the **VAT Posting** that you use in your external system.
+
+   ![](media/garagehive-sage-accounting-vat-posting2.png)
+
+
+[Go back to top](#top)
+
 ### How to run the export 
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
@@ -67,6 +103,25 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
 4. Click **OK**, to start exporting the data.
 
    ![](media/garagehive-sage-accounting-setup9.png)
+
+
+[Go back to top](#top)
+
+### What you can export via the Sage Accounting integration
+
+Garage Hive allows you to export your data to Sage Accounting; you can export the following:
+
+* Customer Invoices
+* Customer Credit Memos
+* Customer Payments
+* Customer Refunds
+* Vendor Invoices
+* Vendor Credit memos
+
+{% include tip.html title="Note" text="We currently don't support exporting vendor payments, it is recommended that this is done in your external accountancy system." %}
+
+
+[Go back to top](#top)
 
 
 <br>
