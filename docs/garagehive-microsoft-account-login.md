@@ -1,16 +1,13 @@
 ---
 layout: docs
-title: DRAFT* - Your First Sign In to Microsoft Account
+title: Your First Sign In to your new Microsoft Account
 ---
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
-# Your First Sign In to Microsoft Account
+# Your First Sign In to your new Microsoft Account
 In this article, you'll learn how to log in to your Microsoft account as a new user and how to enable the Authenticator app to add an extra layer of security to your account. As a new user, you will receive an email containing your **Email** address and **Temporary Password**. Once you have these details, you can proceed with the following steps:
-1. Open the [Microsoft Office 365 Login Page](https://www.office.com/){:target="_blank"} and click on **Sign In** button. Enter your **Email** address, as sent and click on **Next** and then enter the **Temporary Password**. Click **Sign In**.
+1. Navigate to www.office.com from any browser or click [here](https://www.office.com/){:target="_blank"} to open the [Microsoft Office 365 Login Page] and click on **Sign In** button. Enter your **Email** address, as sent and click on **Next** and then enter the **Temporary Password**. Click **Sign In**.
 
    ![](media/garagehive-microsoft-account-sign-in1.png)
 
