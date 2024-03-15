@@ -37,9 +37,13 @@ Your old username, for example, 'Daves,' will no longer work and will be replace
    ![](media/garagehive-aad-sign-on-migrate5.png)
 
 6. In the **Microsoft Authenticator App**, add an account, select **Work or School** account, and then **Scan a QR Code**.
-7. In your **Microsoft Account Page**, click **Next** until you reach the page where you can **Scan the QR Code**. Scan the code.
 
    ![](media/garagehive-aad-sign-on-migrate6.png)
+
+7. In your **Microsoft Account Page**, click **Next** until you reach the page where you can **Scan the QR Code**. Scan the code.
+
+   ![](media/garagehive-aad-sign-on-migrate10.png)
+   ![](media/garagehive-aad-sign-on-migrate11.png)
 
 8. You will be given an authenticator number to enter into your Microsoft Authenticator app; enter the number as prompted in the app.
 
