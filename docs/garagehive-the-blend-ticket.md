@@ -5,12 +5,9 @@ title: DRAFT* - How to Order the Blend Tickets
 
 <a name="top"></a>
 
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
-
 ## How to Order The Blend Tickets
 As a Garage Hive customer, to order tickets for The Blend:
-1. Go to your **Role Centre**, where you will find two links related to **The Blend 2024** event.
+1. Go to your **Service Advisor Role Centre**, where you will find two links related to **The Blend 2024** event.
 2. Click on the link that says **Order Tickets**.
 
    ![](media/garagehive-the-blend-ticket.png)
