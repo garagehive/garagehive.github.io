@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - How to Order the Blend Tickets
+title: How to Order the Blend Tickets
 ---
 
 <a name="top"></a>
