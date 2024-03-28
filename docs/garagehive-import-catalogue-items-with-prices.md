@@ -41,6 +41,8 @@ This feature enables garages to import catalogue items along with their prices a
    ![](media/garagehive-import-catalogue-items-with-prices5.png)
 
 7. If you import a file with an item matching a previously imported item, the system will update the description and price of the existing item to match the newly imported item.
+8. The item card in Garage Hive includes a **Barcode** field. You can search for an item in the items list or catalog items using the barcode number.
 
+   ![](media/garagehive-import-catalogue-items-with-prices6.png)
 
 [Go back to top](#top)
