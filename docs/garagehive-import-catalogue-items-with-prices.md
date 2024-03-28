@@ -1,12 +1,12 @@
 ---
 layout: docs
-title: Importing Catalogue Items with Prices in Garage Hive
+title: Importing Catalogue Items with Prices and Barcodes in Garage Hive
 ---
 
 <a name="top"></a>
 
-# Importing Catalogue Items with Prices in Garage Hive
-This feature enables garages to import catalogue items along with their prices in Garage Hive. This ensures that the catalogue list is updated with new items and that existing item prices and descriptions are up-to-date. This feature also makes it easy to quickly add catalogue items to the inventory with the updated prices, which streamlines the inventory management process. To import the catalogue items with prices:
+# Importing Catalogue Items with Prices and Barcodes in Garage Hive
+This feature enables garages to import catalogue items along with their prices and barcode in Garage Hive. This ensures that the catalogue list is updated with new items and that existing item prices and descriptions are up-to-date. This feature also makes it easy to quickly add catalogue items to the inventory with the updated prices, which streamlines the inventory management process. To import the catalogue items with prices:
 
 1. Start by downloading the Excel template (CSV format) below, which you will use to add all the items you wish to add in the system.
 
@@ -23,6 +23,7 @@ This feature enables garages to import catalogue items along with their prices i
    * **Cost Price** - Optional, but useful for tracking item costs.
    * **Sales Price** - This field must be filled, so that the item prices are updated.
    * **Item Template** - Optional. If filled, ensure you copy the code from the **Item Template** within the system. Search for **Item Templates** in the ![](media/search_icon.png) icon, located at the top right corner of your screen.
+   * **Barcode** - Optional. This field should be used to enter the barcode number of the item.
 
       ![](media/garagehive-import-catalogue-items-with-prices2.png)
 
