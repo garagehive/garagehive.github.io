@@ -11,6 +11,7 @@ GH Entitlements, in Garage Hive, are the services that a customer is entitled to
 ## In this article
 1. [Assigning GH Entitlements to Companies](#assigning-gh-entitlements-to-companies)
 2. [Assigning GH Entitlements to Locations](#assigning-gh-entitlements-to-locations)
+3. [Assigning GH Entitlements to Users](#assigning-gh-entitlements-to-users)
 
 ### Assigning GH Entitlements to Companies
 To assign GH Entitlements to companies in your system, follow these steps if your system is licensed for multiple companies:
@@ -58,6 +59,30 @@ To assign GH Entitlements to locations in your system, follow these steps if you
 
 
 [Go back to top](#top)
+
+### Assigning GH Entitlements to Users
+To assign GH Entitlements to Users in your system, follow these steps if your system is licensed for multiple users:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **User Management**, and select the related link.
+
+   ![](media/garagehive-gh-entitlement-users1.png)
+
+2. You can view both the **available** and **assigned** GH Entitlements by clicking on the information icon (ℹ️) located on the right side.
+3. To manage a user's GH Entitlements, on the **User Management** page, select the user from the list and then click on **Manage GH Entitlements** in the menu bar.
+
+   ![](media/garagehive-gh-entitlement-users2.png)
+
+4. Select the **component** where you want to assign the user, and click **Assign** in the menu bar.
+
+   ![](media/garagehive-gh-entitlement-users3.png)
+
+5. The user will now have the assigned entitlement.
+
+   ![](media/garagehive-gh-entitlement-users4.png)
+
+6. If you want to remove an assignment from a user, select the user from the list, click on **Manage GH Entitlements**, choose the component in which the user is assigned, and then select **Remove** from the menu bar.
+
+   ![](media/garagehive-gh-entitlement-users5.png)
+
 
 <br>
 
