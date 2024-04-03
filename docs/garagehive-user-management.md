@@ -35,7 +35,7 @@ To check the available and assigned GH Entitlements in your system:
 
 [Go back to top](#top)
 
-### Adding and removing a user licence
+### Adding and Removing a User Licence
 To be able to use user accounts in the Garage Hive system, they must have a licence. The addition or removal of licences is handled by the Garage Hive support team. So, to initiate the process of adding or removing licence:
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
 2. From the menu bar, select **Add/Remove User Licences**.
@@ -54,7 +54,7 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 
 [Go back to top](#top)
 
-### Creating a Service Advisor user
+### Creating a Service Advisor User
 To create a Service Advisor Role:
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
 
@@ -92,34 +92,34 @@ To create a Service Advisor Role:
 
 [Go back to top](#top)
 
-### Creating a Technician user
+### Creating a Technician User
 To create a **Technician** user:
 1. Click on **Create** from the menu bar and enter the user full name.
 2. The system generates a username and password for the user.
-2. Select, the **user Role** as **Technician**, which will have the **GH Entitlement** as the **GH Lite User**. Click **Next**.
+3. Select, the **user Role** as **Technician**, which will have the **GH Entitlement** as the **GH Lite User**. Click **Next**.
 
     ![](media/garagehive-user-management7.png)
 
-3. Enter the user **Contact Details** and notification settings for the user. Click **Next**.
+4. Enter the user **Contact Details** and notification settings for the user. Click **Next**.
 
    ![](media/garagehive-user-management8.png)
 
-4. Select **Will be using Easy Clocking** and add the **Schedule Resource Group Code** that the technician will be using. The **Resource No.** is automatically generated. Click **Next**.
+5. Select **Will be using Easy Clocking** and add the **Schedule Resource Group Code** that the technician will be using. The **Resource No.** is automatically generated. Click **Next**.
 
    ![](media/garagehive-user-management9.png)
 
-5. No salesperson is required on the following pages, click **Next**.
-6. Select **Send Welcome Email** to the technician. Click **Create**.
+6. No salesperson is required on the following pages, click **Next**.
+7. Select **Send Welcome Email** to the technician. Click **Create**.
 
     ![](media/garagehive-user-management10.png)
 
-7. After creating the technician user, check the schedule to ensure the technician is added.
+8. After creating the technician user, check the schedule to ensure the technician is added.
 
 ![](media/garagehive-user-management9.gif)
 
 [Go back to top](#top)
 
-### Enabling and disabling the user
+### Enabling and Disabling the User
 To enable or disable the user:
 1. Click on **Enable** or **Disable** from the menu bar.
 
@@ -127,12 +127,12 @@ To enable or disable the user:
 
 [Go back to top](#top)
 
-### Password reset for garage hive user
+### Password Reset for Garage Hive User
 To reset a garage hive user's password:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **User Management**, and choose the related link.
-2. Click on the name of the user you want to reset the password.
+2. Select the user you want to reset the password, choose **Manage** from the menu bar, and click **Edit**.
 
-   ![](media/garagehive-user-management11.gif)
+   ![](media/garagehive-user-management11.png)
 
 3. Click on **Reset Password** action, and then **OK**.
 
