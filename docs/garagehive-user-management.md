@@ -9,8 +9,8 @@ title: How to Create Users, Manage Roles and Enable Data Permissions in Garage H
 In the Garage Hive system, the **User Management** page allows creation of licenced users, management of their roles, and enabling of data permissions. The only user who can create users, manage roles, and enable data permissions for users is the one who is marked as the **System Administrator**.
 
 ## In this article
-1. [Checking User Licences Available In the System](#checking-user-licences-available-in-the-system)
-2. [Adding and removing a user licence](#adding-and-removing-a-user-licence)
+1. [Checking GH Entitlements Available In the System](#checking-gh-entitlements-available-in-the-system)
+2. [Adding and Removing a User Licence](#adding-and-removing-a-user-licence)
 3. [Creating a Service Advisor user](#creating-a-service-advisor-user)
 4. [Creating a Technician user](#creating-a-technician-user)
 5. [Enabling and disabling a user](#enabling-and-disabling-the-user)
@@ -19,8 +19,8 @@ In the Garage Hive system, the **User Management** page allows creation of licen
 8. [Add Authentication Email with Azure Active Directory &#40;AAD&#41;](#add-authentication-email-with-azure-active-directory-aad)
 9. [How to Filter Out Service Advisor Tiles For a User](#how-to-filter-out-service-advisor-tiles-for-a-user)
 
-### Checking User Licences Available In the System
-To check the number of user licences available in your system:
+### Checking GH Entitlements Available In the System
+To check the available and assigned GH Entitlements in your system:
 1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
 
    ![](media/garagehive-user-management-check-licences1.png)
@@ -29,7 +29,7 @@ To check the number of user licences available in your system:
 
    ![](media/garagehive-user-management-check-licences2.png)
 
-3. This action will open a new sidebar on the right side of the screen, where the total number of GH user licences currently available in your system can be viewed.
+3. This action will open a new sidebar on the right side of the screen, where the total number of GH Entitlements currently available or assigned in your system can be viewed.
 
    ![](media/garagehive-user-management-check-licences3.png)
 
@@ -55,30 +55,38 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 [Go back to top](#top)
 
 ### Creating a Service Advisor user
-1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner. 
-2. The user management table opens; it displays all the users, their roles, statuses, user licences and the GH User licences for the system (right-hand side).
+To create a Service Advisor Role:
+1. Search for **User Management** in the ![](media/search_icon.png) icon, at the top-right corner.
 
-    ![](media/garagehive-user-management1.gif)
+   ![](media/garagehive-user-management1a.png)
 
-3. To create a new **Service Advisor** user, click on **Create User** from the menu bar and enter the user details in the pop-up window. 
-4. The system generates a username and password.
+2. The **User Management** page displays all the users, their roles, statuses, and GH Entitlements assigned.
 
-    ![](media/garagehive-user-management2.gif)
+    ![](media/garagehive-user-management1.png)
 
-5. Click **Next** to enter user contact details and notification settings for the user.
-6. Click **next** to specify the clocking preference for the user.
+3. To create a new **Service Advisor** user, click on **Create User** from the menu bar and enter the user Full Name in the pop-up window. 
+4. The system generates a username and password for the user.
+5. Select, the **user Role** as **Service Advisor**, which will have the **GH Entitlement** as the **GH Full User**. Click **Next**.
 
-    ![](media/garagehive-user-management3.gif)
+   ![](media/garagehive-user-management1b.png)
 
-7. The following two pages allow you to add the **Salesperson Code** or use an existing salesperson and choose whether to send a welcome email.
+6. Enter the user **Contact Details** and notification settings for the user. Click **Next**.
 
-    ![](media/garagehive-user-management4.gif)
+   ![](media/garagehive-user-management2.png)
 
-8. After adding all the required information, click on **Create** to create the user.
+7. Specify the clocking preference for the user. Click **Next**.
 
-    ![](media/garagehive-user-management5.gif)
+   ![](media/garagehive-user-management3.png)
 
-9. An email is sent to the new user with the login details, and they can now sign in.
+8. The following page allow you to add the **Salesperson Code** or use an existing salesperson. Click **Next**.
+
+   ![](media/garagehive-user-management4.png)
+
+9. Choose whether to send a welcome email. Click **Create**.
+
+   ![](media/garagehive-user-management5.png)
+
+10. An email is sent to the new user with the login details, and they can now sign in.
 
 ![](media/garagehive-user-management6.png)
 
@@ -86,16 +94,26 @@ To be able to use user accounts in the Garage Hive system, they must have a lice
 
 ### Creating a Technician user
 To create a **Technician** user:
-1. Click on **Create** from the menu bar and enter the user details and contact details in the following two pages.
+1. Click on **Create** from the menu bar and enter the user full name.
+2. The system generates a username and password for the user.
+2. Select, the **user Role** as **Technician**, which will have the **GH Entitlement** as the **GH Lite User**. Click **Next**.
 
-    ![](media/garagehive-user-management7.gif)
+    ![](media/garagehive-user-management7.png)
 
-2. On the third page, select **Will be using Easy Clocking** and add the **Schedule Resource Group Code** that the technician will be using. The **Resource No.** is automatically generated. 
-3. No salesperson is required on the following pages, and you can send out a welcome email to the technician.
+3. Enter the user **Contact Details** and notification settings for the user. Click **Next**.
 
-    ![](media/garagehive-user-management8.gif)
+   ![](media/garagehive-user-management8.png)
 
-4. After creating the technician user, check the schedule to ensure the technician is added.
+4. Select **Will be using Easy Clocking** and add the **Schedule Resource Group Code** that the technician will be using. The **Resource No.** is automatically generated. Click **Next**.
+
+   ![](media/garagehive-user-management9.png)
+
+5. No salesperson is required on the following pages, click **Next**.
+6. Select **Send Welcome Email** to the technician. Click **Create**.
+
+    ![](media/garagehive-user-management10.png)
+
+7. After creating the technician user, check the schedule to ensure the technician is added.
 
 ![](media/garagehive-user-management9.gif)
 
