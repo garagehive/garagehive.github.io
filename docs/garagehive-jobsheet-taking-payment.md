@@ -101,7 +101,7 @@ Click **Yes** on the pop-up notification of *do you want to post the Jobsheet?*.
 ### See Also
 
 [Setting Up Payment by Card Terminal](garagehive-setting-up-payment-by-card-terminal.html){:target="_blank"} \
-[Setting Up Payment by Garage Link for Pay360](garagehive-payment-gateways.html){:target="_blank"} \
+[Setting Up Payment by Garage Link for Access PaySuite](garagehive-payment-gateways.html){:target="_blank"} \
 [Setting Up Payment by Garage Link for Dojo](garagehive-payment-gateways.html){:target="_blank"} \
 [How to Use Humm Financing](garagehive-humm-financing.html){:target="_blank"} \
 [How to Set Card Terminals Into Integration Mode](garagehive-setting-card-terminals-into-integration-mode.html){:target="_blank"} \
