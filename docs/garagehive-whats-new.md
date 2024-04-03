@@ -226,7 +226,7 @@ To update your PowerBI App, [follow this link](powerbi-updating-app.html){:targe
 * Added the ability to set the vehicle's age service package condition based on the vehicle's first registration date rather than the production year, [read more](service-package-conditions.html){:target="_blank"}.
 
 ### 23rd January 2023
-* Garage Hive now includes the **Pay360** integration, which is an online payment service that helps make the payment process more efficient and faster, [read more](garagehive-setting-up-payment-by-glink-pay360.html){:target="_blank"}.
+* Garage Hive now includes the **Access PaySuite** integration, which is an online payment service that helps make the payment process more efficient and faster, [read more](garagehive-setting-up-payment-by-glink-access-paysuite.html){:target="_blank"}.
 * Added **EV Components** in vehicle cards, such as **EV Type** and **EV Battery Size**.
 
    ![](media/garagehive-ev-components.png)
