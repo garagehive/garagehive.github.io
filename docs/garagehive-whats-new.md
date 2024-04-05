@@ -6,6 +6,12 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 5th April 2024
+* Added support for multi-location businesses using Sage Accounting.
+* Added barcode column to import feature for catalogue items with prices, [read more](garagehive-import-catalogue-items-with-prices.html){:target="_blank"}.
+
+   ![](media/garagehive-barcode-column-added.png)
+
 ### 21st February 2024
 * Added a column that shows the number of scheduled allocations that are in progress or pending. This feature allows users to easily identify Jobsheets with multiple ongoing tasks, [read more](garagehive-understanding-the-schedule.html#how-to-add-schedule-allocations-count){:target="_blank"}.
 
