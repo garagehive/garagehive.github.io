@@ -23,13 +23,13 @@ title: Sage Accounting Integration Setup
 
    ![](media/garagehive-sage-accounting-setup2.png)
 
-1. To authorise data sharing with **Sage Accounting 2** software, select **Actions** from the menu bar, then **Sage Accounting**, and then **Authorise**. 
-
-   ![](media/garagehive-sage-accounting-setup4.png)
-
 1. If you have a business with multiple locations, select **Branch** as the **Department Dimension Code** in **Sage Accounting** FastTab.
 
    ![](media/garagehive-sage-accounting-setup4a.png)
+
+1. To authorise data sharing with **Sage Accounting 2** software, select **Actions** from the menu bar, then **Sage Accounting**, and then **Authorise**. 
+
+   ![](media/garagehive-sage-accounting-setup4.png)
 
 1. This opens **Sage Accounting** software, where you must log in to successfully authorise sending data directly to Sage Accounting software.
 
