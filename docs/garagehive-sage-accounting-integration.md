@@ -18,12 +18,12 @@ title: Sage Accounting Integration Setup
 
    ![](media/garagehive-sage-accounting-setup1.png)
 
-1. Select **Sage Accounting** as the **Accountancy System** in the **General** FastTab.
+1. Select **Sage Accounting 2** as the **Accountancy System** in the **General** FastTab.
 1. Specify whether the data should be exported using the posting date or the document date in the **Export Customer Ledger by** and **Export Vendor Ledger by** fields. The most commonly used approach is by **Document Date**. Garage Hive users are often limited to only posting within the current date, therefore the posting date may differ from the date on the invoice from the supplier, whereas the document date would match.
 
    ![](media/garagehive-sage-accounting-setup2.png)
 
-1. To authorise data sharing with **Sage Accounting** software, select **Actions** from the menu bar, then **Sage Accounting**, and then **Authorise**. 
+1. To authorise data sharing with **Sage Accounting 2** software, select **Actions** from the menu bar, then **Sage Accounting**, and then **Authorise**. 
 
    ![](media/garagehive-sage-accounting-setup4.png)
 
