@@ -5,7 +5,7 @@ title: Copy Document Function
 
 <a name="top"></a>
 
-# How to use the copy document function. 
+# How to use the copy document function 
 
 In Garage Hive, you can copy any document into another document using the copy document function. You could, for example, copy a posted document into an estimate, a vehicle inspection estimate, or another Jobsheet. Let's take a look at how to copy a posted jobsheet into an estimate:
 1. In the estimate to copy the jobsheet to, select **Process** and then **Copy Document** from the menu bar.
