@@ -23,7 +23,7 @@ Before posting the jobsheet, all labour lines must-have resource information add
 
     ![](media/garagehive-jobsheet-adding-resources2.gif)  
 
-3. If multiple technicians are working on the job or there are multiple labour lines upon which a sole technician has clocked onto a job, you can select **Process** followed by A**dd Resources to Lines**. This will either split the total time spent between multiple technicians on all lines, or it will add 100% to all labour lines for one specific technician. 
+3. If multiple technicians are working on the job or there are multiple labour lines upon which a sole technician has clocked onto a job, you can select **Process** followed by **Add Resources to Lines**. This will either split the total time spent between multiple technicians on all lines, or it will add 100% to all labour lines for one specific technician. 
 
     ![](media/garagehive-jobsheet-adding-resources3.gif)
 
