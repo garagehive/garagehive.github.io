@@ -3,7 +3,7 @@ layout: docs
 title: Re-ordering Policies and Requisition Worksheets
 ---
 # Re-ordering Policies and Requisition Worksheets
-Reordering policies and requisition worksheets help manage your stock by suggesting orders and creating purchase orders based on your available inventory.
+Reordering policies and requisition worksheets help manage your stock by suggesting **Items to Order** and creating purchase orders based on your available inventory.
 
 ## In this article
 1. [Setting up the Item Card](#setting-up-the-item-card)
