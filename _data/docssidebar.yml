@@ -269,7 +269,7 @@
     - name: How to Import Catalogue Items with Prices
       url: /docs/garagehive-import-catalogue-items-with-prices.html
     - name: Setting Up Requisition Worksheet for Re-ordering Items
-      url: /docs/garagehive-requisition-worksheet.html
+      url: /docs/garagehive-requisition-worksheet-items-to-order.html
     - name: How to Use Item Lookup and Advance Tyre Lookup Feature
       url: /docs/garagehive-item-lookup-and-advanced-tyre-lookup.html
     - name: Doing a Physical Stock Take in Garage Hive
