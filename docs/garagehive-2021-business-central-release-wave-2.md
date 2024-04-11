@@ -19,7 +19,7 @@ This article outlines the improvements that come with Microsoft Dynamics 365 Bus
 
 2. **Add non-inventory items on requisition and planning worksheets**
    
-   **Garage Hive Operation:** [Re-ordering policies and requisition worksheet](garagehive-requisition-worksheet.html){:target="_blank"}
+   **Garage Hive Operation:** [Re-ordering policies and requisition worksheet](garagehive-requisition-worksheet-items-to-order.html){:target="_blank"}
    <br>
 
    **Feature Details**: You can process non-inventory lines in much the same way as other types of items. If you use requisition and planning worksheets as the starting point for purchase orders in your procurement process, you can manually enter lines for non-inventory items on the worksheets. Then, when you create your purchase orders, the non-inventory items will be included. This allows you to use the same procurement process for inventory and non-inventory items.

@@ -321,7 +321,7 @@ To update your PowerBI App, [follow this link](powerbi-updating-app.html){:targe
    ![](media/garagehive-autodata-workshop-appliction-action.png)
 
 ### 4th July 2022
-* Added the [Requisition Worksheet Express](garagehive-requisition-worksheet.html){:target="_blank"} tile to the role centre and an automatic recalculation of what needs to be ordered each day.
+* Added the [Requisition Worksheet Express](garagehive-requisition-worksheet-items-to-order.html){:target="_blank"} tile to the role centre and an automatic recalculation of what needs to be ordered each day.
 
    ![](media/garagehive-requisition-worksheet4.png)
   
@@ -449,7 +449,7 @@ To update your PowerBI App, [follow this link](powerbi-updating-app.html){:targe
 
 ### 15th December 2021
 * [Items to Report](garagehive-items-to-return.html) now considers stock keeping units.
-* **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet.html){:target="_blank"} now works with stock keeping units.
+* **Calculate Plan** action in [Requisition Worksheets Page](garagehive-requisition-worksheet-items-to-order.html){:target="_blank"} now works with stock keeping units.
 * Added the possibility to correct a posted jobsheet.
 * Added the **Mark as Reviewed** button to the **Comments Attention**, **Surveys to Review**, **Online Booking to Review** and **Self Check-in** tiles.
 * Added vehicle age filter to [extended calculations for sales price, markups, and discounts v16](garagehive-automatic-price-markup-and-discount-calculations.html){:target="_blank"}.

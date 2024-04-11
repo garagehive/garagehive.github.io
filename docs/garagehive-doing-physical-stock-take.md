@@ -40,4 +40,4 @@ Physical stock takes enable comparisons between items in the system and those th
 ### **See Also**
 
 [Webinar: Stock purchasing and stock take](https://www.youtube.com/watch?v=FYLwdVivC2E){:target="_blank"} \
-[Re-ordering policies and requisition worksheets](/docs/garagehive-requisition-worksheet.html){:target="_blank"} 
+[Re-ordering policies and requisition worksheets](/docs/garagehive-requisition-worksheet-items-to-order.html){:target="_blank"} 
