@@ -636,7 +636,7 @@ To update your PowerBI App, [follow this link](powerbi-updating-app.html){:targe
 
 ### 31st December 2020
 
-* Introduced a Take Payment wizard, this wizard simplifies the payment application process
+* Introduced a Take Payment wizard, this wizard simplifies the payment application process.
 * Added the ability to fix the line amount on a Service Package. When changing the quantity of an item such as oil, the line amount will remain fixed and the unit price will be automatically adjusted. 
 * Added Vehicle Registration Number to Jobsheets Attention tile list
 * Added Customer Category as a condition in Service Packages

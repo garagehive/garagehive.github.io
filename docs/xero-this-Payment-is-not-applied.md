@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: This Payment is not applied.
+title: This Payment is not applied
 ---
 
-#   This Payment is not applied.  
+#   This Payment is not applied  
 
 This error is most commonly seen when aa payment has been taken on Garage Hive but has not been applied to a document. 
 
