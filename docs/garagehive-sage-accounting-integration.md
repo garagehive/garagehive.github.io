@@ -23,7 +23,7 @@ title: Sage Accounting Integration Setup
 
    ![](media/garagehive-sage-accounting-setup2.png)
 
-1. If you have a business with multiple locations, select **Branch** as the **Department Dimension Code** in **Sage Accounting** FastTab.
+1. If you have a business with multiple locations/cost centres, select **Branch** as the **Department Dimension Code** in **Sage Accounting** FastTab.
 
    ![](media/garagehive-sage-accounting-setup4a.png)
 

@@ -70,7 +70,7 @@ Here are ways in which you can use Chart of Accounts:
 
    ![](media/garagehive-chart-of-accounts-use1.png)
 
-2. To view the **Trial Balance**, select **Process** from the menu bar followed by **Detailed Trial Balance** or **Trial Balance**.
+2. To view the **Trial Balance**, select **Report** from the menu bar followed by **Detailed Trial Balance** or **Trial Balance**.
 
    ![](media/garagehive-chart-of-accounts-use2.png)
 
@@ -78,7 +78,7 @@ Here are ways in which you can use Chart of Accounts:
 
    ![](media/garagehive-chart-of-accounts-use3.png)
 
-4. To update the indentation of all the G/L accounts in the chart of accounts, select **Process** from the menu bar followed by **Indent Chart of Accounts**. All accounts between a **Begin-Total** and the matching **End-Total** are indented one level. The Totalling for each End-total is also updated.
+4. To update the indentation of all the G/L accounts in the chart of accounts, select **Home** from the menu bar followed by **Indent Chart of Accounts**. All accounts between **Begin-Total** and the matching **End-Total** columns are indented one level. The Totalling for each End-total is also updated.
 
    ![](media/garagehive-chart-of-accounts-use4.png)
 
