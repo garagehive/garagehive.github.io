@@ -17,25 +17,19 @@ There are various methods for creating a jobsheet, as described [**here**](garag
 
 ### Create a new Jobsheet
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
+
+    ![](media/garagehive-create-a-jobsheet1.gif)
+
 1. Select the **Service Type** - This is the type of job to do.
-
-   ![](media/garagehive-create-a-jobsheet1.gif)
-
 1. Fill in the **Vehicle Registration No.**:
     - If the vehicle is in the system, the vehicle information will be auto-filled.
     - If the vehicle is not in the system, the system will look it up using **VRM** to obtain the vehicle's details.
 1. Enter the current vehicle mileage, in the **Mileage** field.
-
-    ![](media/garagehive-create-a-jobsheet2.gif)
-
 1. After the VRM lookup for the vehicle, enter the customer information:
     - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
     - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
-1.  Fill in **Address & Contact** FastTab in the **Customer** card:
-    - Select **Lookup Address from Postcode**, enter the **Postcode**, click **OK**, and then select the appropriate address.
-    - Fill in the contact information, including phone number and email address.
 
-         ![](media/garagehive-create-a-jobsheet3.gif)
+    ![](media/garagehive-create-a-jobsheet2.png)
 
 1.  You can now add the following details:
      - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
@@ -50,23 +44,24 @@ There are various methods for creating a jobsheet, as described [**here**](garag
      - **Marketing Channel** - This is the channel through which the customer found the business.
      - **Work Description** - This is the description of the products or services being offered, it appears at the top of the invoice when printed.
 
-      ![](media/garagehive-create-a-jobsheet4.gif)
+      ![](media/garagehive-create-a-jobsheet4.png)
 
 1.  The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
 
-   ![](media/garagehive-create-a-jobsheet4a.png)
+    ![](media/garagehive-create-a-jobsheet4a.png)
 
-1. Under the **Checklist** subpage, you may view and access any checklists that are linked to the jobsheet.
+1. Under the **Checklist** subpage, you may view and access any checklists that are linked to the Jobsheet.
 
-      ![](media/garagehive-create-a-jobsheet5.gif)
+    ![](media/garagehive-create-a-jobsheet5.png)
 
 1. In the **Comments** subpage, you can enter any information the customer has provided about the job to be done. 
 
-      ![](media/garagehive-create-a-jobsheet6.gif)
+      ![](media/garagehive-create-a-jobsheet6.png)
    
 1. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}. 
 
     ![](media/garagehive-create-a-jobsheet6a.png)
+
 
 [Go back to top](#top)
 
@@ -83,7 +78,7 @@ There are various methods for creating a jobsheet, as described [**here**](garag
     - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html){:target="_blank"} to add it.
     - **Line Amount Excl. VAT** - This is the pre-VAT total line amount.
     
-         ![](media/garagehive-create-a-jobsheet7.gif)
+         ![](media/garagehive-create-a-jobsheet7.png)
 
 [Go back to top](#top)
 
@@ -115,7 +110,7 @@ To setup Jobsheet deletion reasons:
 
 ### Transferring Lines to an Estimate
 Transferring lines to an Estimate is a feature available in a Jobsheet that allows the user to create an Estimate directly from the Jobsheet when the added lines in the Jobsheet have not yet been approved by the customer. To transfer lines to an Estimate:
-1. Open the Jobsheet with the lines you want to transfer, then select **Process** from the menu bar, followed by **Transfer Lines to Estimate**.
+1. Open the Jobsheet with the lines you want to transfer, then select **Home** from the menu bar, followed by **Transfer Lines to Estimate**.
 
    ![](media/garagehive-transfer-lines-to-estimate1.png)
 
@@ -123,11 +118,11 @@ Transferring lines to an Estimate is a feature available in a Jobsheet that allo
 
    ![](media/garagehive-transfer-lines-to-estimate2.png)
 
-3. You will see a pop-up notification that an Estimate has been created. Take note of the Estimate number, then click **OK**.
+3. You will see a pop-up notification that an Estimate has been created and you can open it by clicking **Yes**.
 
    ![](media/garagehive-transfer-lines-to-estimate3.png)
 
-4. You can open the Estimate by selecting it from the Estimate lists. It is worth noting that **Group Items** are transferred as Group Items.
+4. It is worth noting that **Group Items** are transferred as Group Items.
 
    ![](media/garagehive-transfer-lines-to-estimate4.png)
 
