@@ -100,13 +100,13 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
    > This error indicates that the placeholder item (e.g. MISC) has not yet been updated to the actual stock item number.
 
-   |              |                                                                                                   |
-   | :----------- | :------------------------------------------------------------------------------------------------ |
-   | **Solution** | **Convert the Placeholder Item to Stock Item.**                                                   |
-   |              | - In the Purchase Order, click on Process from the menu bar, and choose Convert Placeholder Item. |
-   |              | - Scroll to the left and click on the action, in the Action column. Click OK.                     |
-   |              | - Then click on Posting, and select Post.                                                         |
-   |              |                                                                                                   |
+   |              |                                                                                                |
+   | :----------- | :--------------------------------------------------------------------------------------------- |
+   | **Solution** | **Convert the Placeholder Item to Stock Item.**                                                |
+   |              | - In the Purchase Order, click on Home from the menu bar, and choose Convert Placeholder Item. |
+   |              | - Scroll to the left and click on the action, in the Action column. Click OK.                  |
+   |              | - Then click on Posting, and select Post.                                                      |
+   |              |                                                                                                |
 
 3. **Error** - 'Posting Date is not within your range of allowed posting dates in Purchase Header Document Type='Order',No.='PO100120''.
 
