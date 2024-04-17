@@ -46,13 +46,13 @@ There are two ways to convert an Estimate into a Jobsheet, first is copying the 
 
 ### Make an Estimate into a Jobsheet
 
-The other method to convert an Estimate into a Jobsheet:
-1. Use the option **Make Jobsheet**, which means that the customer has approved all the items and labour in the estimate.
-2. Click on **Home** from the menu bar and select **Make Jobsheet** from the submenus. The Jobsheet is automatically created, and the estimate is archived.
+The other method to convert an Estimate into a Jobsheet, is by making the Estimate a Jobsheet:
+1. Use the option **Make Jobsheet**, which means that the customer has approved all the items and labour in the Estimate.
+2. Select **Home** from the menu bar and click on **Make Jobsheet** from the submenus. The Jobsheet is automatically created, and the estimate is archived.
 
 ![](media/garagehive-trial-creating-an-estimate4.gif)
 
-{% include tip.html title="Note" text="From the role centre estimate tiles, the estimate will be on the Awaiting Action tile. After making a jobsheet, the estimate is no longer available in the tile because it has been archived." %}
+{% include tip.html title="Note" text="The Estimate created will be available on the Awaiting Action tile, in the Role Centre. Once a Jobsheet is created, the Estimate gets archived and removed from the tile." %}
 
 
 ### **See Also**
