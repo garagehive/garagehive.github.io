@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 18th April 2024
+* Added actionable stacked error messages when posting a Jobsheet, minimising the number of clicks required before successfully posting it.
+
+   ![](media/garagehive-actionable-stacked-error-messages.png)
+
 ### 5th April 2024
 * Added support for multi-location businesses using Sage Accounting.
 * Added barcode column to import feature for catalogue items with prices, [read more](garagehive-import-catalogue-items-with-prices.html){:target="_blank"}.
