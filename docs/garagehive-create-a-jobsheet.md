@@ -6,7 +6,7 @@ title: Using the Jobsheet
 <a name="top"></a>
 
 # Using the Jobsheet 
-There are various methods for creating a jobsheet, as described [**here**](garagehive-jobsheet-create-from-various-places.html){:target="_blank"}. In this article we'll look at the standard way of using the Jobsheet. The Jobsheet typically includes information about the labour and items used during the repair or maintenance process of the vehicle, as well as any additional charges or discounts.
+There are various methods for creating a Jobsheet, as described [**here**](garagehive-jobsheet-create-from-various-places.html){:target="_blank"}. In this article we'll look at the standard way of using the Jobsheet. The Jobsheet typically includes information about the labour and items used during the repair or maintenance process of the vehicle, as well as any additional charges or discounts.
 
 ## In this article
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
@@ -66,7 +66,7 @@ There are various methods for creating a jobsheet, as described [**here**](garag
 [Go back to top](#top)
 
 ### Add Items and Labour
-1. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the jobsheet:
+1. You may now begin adding **Labour** lines, **Item** lines, or **Service Packages** to the Jobsheet:
     - **Type** column - Select either **Labour** or **Item** to define what type of details are to be entered in the line.
     - **No.** column - Enter the number for **Labour** or **Item** as added in the system. For example, for labour, you can choose **service labour**, **standard labour** or other labours; for item, you can choose **inventory items** like air filters and engine oil, **non-inventory items** like consumables, or **external services** or other items.
     - **Description** column - This is the item or labour description that will appear in the customer's invoice.
@@ -78,12 +78,12 @@ There are various methods for creating a jobsheet, as described [**here**](garag
     - **Line Discount Amount** column - This is the amount applied to the line as a discount. By default this column is not visible, but you can use [personalisation](garagehive-personalising-garage-hive.html){:target="_blank"} to add it.
     - **Line Amount Excl. VAT** - This is the pre-VAT total line amount.
     
-         ![](media/garagehive-create-a-jobsheet7.png)
+         ![](media/garagehive-create-a-Jobsheet7.png)
 
 [Go back to top](#top)
 
 ### View the Factbox and copy the VIN
-1. The **FactBox** is located to the right of a jobsheet and provides quick information and links about the work being done on the jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
+1. The **FactBox** is located to the right of a Jobsheet and provides quick information and links about the work being done on the Jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)
 
@@ -102,7 +102,7 @@ To setup Jobsheet deletion reasons:
 
    ![](media/garagehive-create-a-jobsheet10.gif)
 
-6. Open the Jobsheet to delete, and at the top of the jobsheet, you'll see an icon to delete a jobsheet; click on it, choose **Yes** on the pop-up, and choose the reason for deleting the Jobsheet.
+6. Open the Jobsheet to delete, and at the top of the Jobsheet, you'll see an icon to delete a Jobsheet; click on it, choose **Yes** on the pop-up, and choose the reason for deleting the Jobsheet.
 
    ![](media/garagehive-create-a-jobsheet11.gif)
 
