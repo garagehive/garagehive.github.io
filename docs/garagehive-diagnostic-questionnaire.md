@@ -1,18 +1,15 @@
 ---
 layout: docs
-title: DRAFT* - How to Setup and Send the Diagnostic Questionnaire to the Customer
+title: How to Create and Send a Diagnostic Questionnaire to the Customer
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Create and Send a Diagnostic Questionnaire to the Customer
 Diagnostic questionnaires are used by garages to gather additional information about a job before the customer arrives. This helps the garage gain a better understanding of the issue and plan accordingly. By using this approach, the garage can be well-prepared and provide more efficient service to its customers.
 
 ## In this article
-1. [Creating the Diagnostic Questionnaire](#Creating-the-diagnostic-questionnaire)
+1. [Creating the Diagnostic Questionnaire](#creating-the-diagnostic-questionnaire)
 2. [Sending Diagnostic Questionnaire to Customer](#sending-diagnostic-questionnaire-to-customer)
 3. [Reviewing Answers from the Diagnostic Questionnaire](#reviewing-answers-from-the-diagnostic-questionnaire)
 
