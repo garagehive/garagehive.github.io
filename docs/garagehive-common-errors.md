@@ -34,7 +34,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
    **Learn More** - [Taking a Payment and Posting a Jobsheet](/docs/garagehive-jobsheet-taking-payment.html#taking-a-payment-in-a-jobsheet-and-posting-it){:target="_blank"}.
 
-1. **Error** - 'Item No. MISC (Placeholder Item) on line 181000 is marked as Placeholder Item. Current item could not be used.'
+2. **Error** - 'Selected item Misc (Air Filter) on line 14000 is a Placeholder Item. Add the actual number to proceed.'
 
       ![](media/garagehive-common-errors2.png)
 
@@ -56,7 +56,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
    **Learn More** - [Working with a Placeholder Item](/docs/garagehive-creating-a-placeholder-item.html){:target="_blank"}.
 
-2. **Error** - 'You have insufficient quantity of Item E1171L on inventory.'
+3. **Error** - 'You have insufficient quantity of Item E1171L on inventory.'
 
       ![](media/garagehive-common-errors9.png)
 
