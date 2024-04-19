@@ -12,6 +12,8 @@ Garage Hive has enabled the seamless integration of the Sage 50 Accounts account
 1. [Initial Setup](#initial-setup)
 2. [Integrate Chart of Accounts](#integrate-chart-of-accounts)
 3. [Integrate Payment Methods](#integrate-payment-methods)
+4. [Integrate VAT Posting](#integrate-vat-posting)
+5. [How to run the export](#how-to-run-the-export)
 
 ### Initial Setup
 To integrate **Sage 50 Cloud Accounts** with Garage Hive:
@@ -70,10 +72,47 @@ To add the **External System No.** to the **Payments Methods**:
 
 [Go back to top](#top)
 
+
+### Integrate VAT Posting
+To integrate the VAT posting in your system: 
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **VAT Posting Setup** and select the related link.
+
+   ![](media/garagehive-sage-accounting-vat-posting1.png)
+
+2. In the **External VAT Identifier Code** column, click on the three dots to select the corresponding code for the **VAT Posting** that you use in your external system.
+
+   ![](media/garagehive-sage-accounting-vat-posting2.png)
+
+
+[Go back to top](#top)
+
+### How to run the export 
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
+
+    ![](media/garagehive-sage-accounting-setup8.png)
+
+2. Select the following options:
+   * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
+   * **Export Customer Payments/Refunds** - This will export Invoice payments/refunds as well as payments to accounts within the specified date range.
+   * **Export Vendor Invoices/Credit Memos** - This will export all posted purchase orders/purchase invoices as well as posted purchase return orders/purchase credit memos within the given date range.
+   * **Export Type** - All or New. Select **New**. Selecting **New** will exclude any previously exported documents. When using **New**, a transaction that has already been exported, will not be exported again.
+   * **Date From** and **Date To** - Choose your date range.
+
+3. Under Catalogs:
+   * **Export All Customers** - This will generate an export of all customers in the system (**It is highly recommended that you never select this**).
+   * **Export All Vendors** - This will generate an export of all vendors in the system (**It is highly recommended that you never select this**).
+
+4. Click **OK**, to start exporting the data.
+
+   ![](media/garagehive-sage-accounting-setup9.png)
+
+[Go back to top](#top)
+
 <br>
 
 ### **See Also**
 
+[Accounting System Integrations](garagehive-external-accountancy-integration.html){:target="_blank"} \
 [How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"} \
 [How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html){:target="_blank"} \
 [Accountancy System Integrations](garagehive-external-accountancy-integration.html)
