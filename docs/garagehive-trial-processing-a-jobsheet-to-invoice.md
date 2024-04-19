@@ -3,41 +3,64 @@ layout: docs
 title: Processing a Jobsheet to Invoice in Your Trial
 ---
 
+<a name="top"></a>
+
 # Processing a Jobsheet to Invoice in Your Trial
 
-When a jobsheet is done, all the information is correct, and all the work is done, it's time to make the jobsheet an invoice to share with the customer. In this article, we learn about how to turn a jobsheet into an invoice.
+When a Jobsheet is done, all the information is correct, and all the work is done, it's time to make the Jobsheet an invoice to share with the customer. In this article, we learn about how to turn a Jobsheet into an invoice.
 
 ## In this article
 
-1. [Mark the jobsheet ready for collection](#mark-the-jobsheet-ready-for-collection)
-2. [Taking payments on a jobsheet](#taking-payments-on-a-jobsheet)
-3. [Posting a jobsheet and creating an invoice](#posting-a-jobsheet-and-creating-an-invoice)
+1. [Mark the Jobsheet Ready for Collection](#mark-the-jobsheet-ready-for-collection)
+2. [Taking Payments on a Jobsheet](#taking-payments-on-a-jobsheet)
+3. [Posting a Jobsheet and Creating an Invoice](#posting-a-jobsheet-and-creating-an-invoice)
 
-### Mark the jobsheet ready for collection
+### Mark the Jobsheet Ready for Collection
 When the work on the vehicle is finished:
-1. Confirm that everything in the jobsheet lines is ticked by the technician on the **Technician Confirmed** column. 
-2. Mark the jobsheet ready for collection by selecting the field **Work Status Code**.
-3. Enter the **Ready for Collection** status from the options; this moves the jobsheet to **Ready for Collection** tile.
+1. Confirm that everything in the Jobsheet lines is ticked by the technician on the **Technician Confirmed** column. 
 
-![](media/garagehive-trial-processing-a-jobsheet-to-invoice1.gif)
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice1.png)
 
-{% include tip.html title="Note" text="For the jobsheet to be complete, the technician must mark it Complete." %}
+2. Select **Ready for Collection** in the field **Work Status Code** under the **General** FastTab.
 
-### Taking payments on a jobsheet
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice2.png)
+
+3. This moves the Jobsheet to **Ready for Collection** tile in the Role Centre.
+
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice3.png)
+
+{% include tip.html title="Note" text="For the Jobsheet to be complete, the technician must mark it Complete." %}
+
+[Go back to top](#top)
+
+
+### Taking Payments on a Jobsheet
 To receive payment from the customer:
 1. Click **Payments/Posting** from the menu bar and select **Take Payment**. 
+
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice5.png)
+
 2. Various methods are available to receive the Payment; select the exact method(s) the customer has used.
 3. The amount is automatically updated at the bottom **Difference** row. Click on **Close** when done. 
 
-![](media/garagehive-trial-processing-a-jobsheet-to-invoice2.gif)
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice6.png)
 
-### Posting a jobsheet and creating an invoice
-After receiving the payment, the next step is to post the jobsheet:
-1. Confirm that all the details in the jobsheet are correct; the dates, amount, items signed out and customer details.
+### Posting a Jobsheet and Creating an Invoice
+After receiving the payment, the next step is to post the Jobsheet:
+1. Confirm that all the details in the Jobsheet are correct; the dates, amount, items signed out and customer details.
 2. The posting date should be today's date (the day you are posting).
-3. Click on **Payments/Posting** from the menu bar and select **Post and Print**. The invoice is downloaded and ready to print.
+3. Then from the menu bar, select **Payment/Posting**, then you can select either of the following options:
+  * **Post** - Post/invoice this Jobsheet without the option of printing or emailing it.
+  * **Post and Print** - Post/invoice this Jobsheet and print a copy of the invoice.
+  * **Post and Email** - Post/invoice this Jobsheet and email a copy of the invoice to the **Bill-To Customer**.
 
-![](media/garagehive-trial-processing-a-jobsheet-to-invoice3.gif) 
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice4.png)
+
+4. The following **Error Messages** window will display errors and warnings occuring from posting the Jobsheet.
+
+   ![](media/garagehive-trial-processing-a-jobsheet-to-invoice7.png)
+
+[Go back to top](#top)
 
 
 ### **See Also**
