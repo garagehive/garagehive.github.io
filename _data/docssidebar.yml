@@ -393,7 +393,7 @@
       url: /docs/garagehive-posted-archived-documents.html      
     - name: Archived Documents 
       url: /docs/garagehive-archived-documents.html
-- name: Surveys
+- name: Surveys and Questionnaires
   url: "#"
   subitems:
     - name: Customer Surveys
@@ -424,6 +424,8 @@
           url: /docs/garagehive-importing-an-internal-survey.html
         - name: How to Get Started With External Consultant Survey
           url: /docs/garagehive-how-to-get-started-with-external-consultant-survey.html
+    - name: Diagnostic Questionnaires
+      url: /docs/garagehive-diagnostic-questionnaire.html
 - name: Online Booking and Enquiries
   url: "#"
   subitems:
