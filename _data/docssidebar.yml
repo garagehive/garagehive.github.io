@@ -393,7 +393,7 @@
       url: /docs/garagehive-posted-archived-documents.html      
     - name: Archived Documents 
       url: /docs/garagehive-archived-documents.html
-- name: Surveys and Questionnaires
+- name: Surveys
   url: "#"
   subitems:
     - name: Customer Surveys

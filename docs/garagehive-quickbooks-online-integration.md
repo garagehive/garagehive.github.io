@@ -99,7 +99,7 @@ To integrate the VAT posting in your system:
    * **Export Customer Invoices/Credit Memos** - This will export all Customer invoices/credit memos for the given date range. 
    * **Export Customer Payments/Refunds** - This will export Invoice payments/refunds as well as payments to accounts within the specified date range.
    * **Export Vendor Invoices/Credit Memos** - This will export all posted purchase orders/purchase invoices as well as posted purchase return orders/purchase credit memos within the given date range.
-   * **Export Type** - All or New. You may either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any previously exported documents. When using **New**, a transaction that has already been exported, will not be exported again.
+   * **Export Type** - All or New. Select **New**. Selecting **New** will exclude any previously exported documents. When using **New**, a transaction that has already been exported, will not be exported again.
    * **Date From** and **Date To** - Choose your date range.
 
 3. Under Catalogs:
