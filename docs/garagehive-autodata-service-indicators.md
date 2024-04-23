@@ -6,7 +6,7 @@ title: Viewing the Service Indicator Reset Data
 <a name="top"></a>
 
 ## Viewing the Service Indicator Reset Data
-The **Service Indicator** exisit to let the motorist know when the vehicle need general maintainance, after which they have to be reset to normal. The Autodata integration in Garage Hive allows you to view the **Service Indicators** reset data directly from a document, such as a Jobsheet or Checklist.
+The **Service Indicator** exists to let the motorist know when the vehicle need general maintenance, after which they have to be reset to normal. The Autodata integration in Garage Hive allows you to view the **Service Indicators** reset data directly from a document, such as a Jobsheet or Checklist.
 1. To view the **Service Indicators** reset data from a document, go to the menu bar and select **Lookup**, then **Service Indicators**.
 
    ![](media/garagehive-autodata-service-indicators1.png)
