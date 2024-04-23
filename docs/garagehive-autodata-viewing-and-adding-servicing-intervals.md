@@ -1,4 +1,3 @@
-
 ---
 layout: docs
 title: Viewing and Adding Servicing Intervals Data
@@ -6,32 +5,62 @@ title: Viewing and Adding Servicing Intervals Data
 
 <a name="top"></a>
 
-# Viewing and Adding Servicing Intervals Data
+Servicing intervals are the recommended number of months or miles between vehicle services, whichever comes first. Autodata integration provides necessary data for vehicle servicing.
 
-Servicing intervals are the number of months or miles between services for the vehicle, whichever comes first. The Autodata integration provides most of the data required for vehicle servicing. To view and add the data:
-1. Open the Jobsheet for the vehicle for which you want to check the servicing intervals, and then click on **Lookup** and select **Service Interval Matrix** from the menu bar.
+## In this article
+1. [Auto Selection of Service Intervals Data From Autodata](#auto-selection-of-service-intervals-data-from-autodata)
+2. [Manual Selection of Service Intervals Data From Autodata](#manual-selection-of-service-intervals-data-from-autodata)
+
+### Auto Selection of Service Intervals Data From Autodata
+Auto selection from Autodata, is available for the Great Britain, Northern Ireland and Ireland Markets. To view and add the data:
+1. Open the Jobsheet or document for the vehicle and click on **Lookup** followed by **Service Interval Matrix** in the menu bar.
 
    ![](media/garagehive-autodata-service-intervals1.png)
 
-2. If the vehicle registration is not auto-detected, select **Other**, and click **OK** to choose the **Make** and **Model** of the vehicle from Autodata.
+2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and re-enter the correct details in the document.
+
+   ![](media/garagehive-autodata-service-intervals3.png)
+
+3. The service intervals are presented in a grid format with miles and months on the left and items to be changed at the top. A tick at the intersection indicates what needs to be changed and when it needs to be changed.
+4. Click the tick box in the **Include** column to select the items that need to be added to the document. Then, click **Next** from the menu bar.
+
+   ![](media/garagehive-autodata-service-intervals4.png)
+
+5. In the next window, you can deselect the **Transfer Lines to Document** checkbox to exclude some lines from the transfer (if you don't want to include everything).
+
+   ![](media/garagehive-autodata-service-intervals5.png)
+
+6. Click **Add Lines to Document** in the menu bar to add lines to the document. The lines will be grouped under the **Interval Change** heading.
+
+   ![](media/garagehive-autodata-service-intervals6.png)
+
+7. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the menu bar. This initiates the process of confirming everything and creating a quotation for the customer.
+
+   ![](media/garagehive-autodata-service-intervals7.png)
+
+[Go back to top](#top)
+
+
+### Manual Selection of Service Intervals Data From Autodata
+Manual selection can be used for any vehicle and is not specific to any market. To view and add the data using manual selection:
+1. If the vehicle registration is not automatically detected, a pop-up window will appear. Select **Other** and then click **OK** to choose the vehicle make and model from Autodata.
 
    ![](media/garagehive-autodata-service-intervals2.png)
 
-3. The servicing intervals are displayed in a grid format, with the miles and months on the left and the items to be changed at the top. The tick at the intersection of the items to be changed column and the miles and months intervals row indicates what needs to be changed at what interval.
+2. In the window that opens, search for the **Model** of the vehicle and click on the **Description** to select it.
 
-   ![](media/garagehive-autodata-service-intervals2.gif)
+   ![](media/garagehive-autodata-service-intervals8.png)
 
-4. From here, you could select what needs to be changed to add it to the document by clicking on the column **Include** along the interval that the vehicle is at, and then clicking **Next** from the menu bar.
+3. After that, you should select the **Vehicle Type** based on the **Engine Code** of the vehicle in the next window that opens.
 
-   ![](media/garagehive-autodata-service-intervals3.gif)
+   ![](media/garagehive-autodata-service-intervals9.png)
 
-5. In the next window, by clicking on the **Transfer Lines to Document** checkbox, you can remove some lines to add to the document (if you don't want to change everything indicated). Then, to add the lines to the document, click **Add Lines to Document**. The lines are added and put in a group under the heading of the **Interval Change**.
+4. Then, select the appropriate option depending on the **VIN** of the vehicle.
 
-   ![](media/garagehive-autodata-service-intervals4.gif)
+   ![](media/garagehive-autodata-service-intervals10.png)
 
-6. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the menu bar. This initiates the process of confirming everything and creating a quotation for the customer.
+5. Finally, follow the steps from step number 3 in the [auto selection part](#auto-selection-of-service-intervals-data-from-autodata) to complete the process.
 
-   ![](media/garagehive-autodata-service-intervals5.gif)
 
 
 [Go back to top](#top)
