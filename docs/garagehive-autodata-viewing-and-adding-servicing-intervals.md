@@ -13,7 +13,7 @@ Servicing intervals are the recommended number of months or miles between vehicl
 
 ### Auto Selection of Service Intervals Data From Autodata
 Auto selection from Autodata, is available for the Great Britain, Northern Ireland and Ireland Markets. To view and add the data:
-1. Open the Jobsheet or document for the vehicle and click on **Lookup** followed by **Service Interval Matrix** in the menu bar.
+1. Open the Jobsheet or document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) for the vehicle and click on **Lookup** followed by **Service Interval Matrix** in the menu bar.
 
    ![](media/garagehive-autodata-service-intervals1.png)
 
@@ -42,7 +42,7 @@ Auto selection from Autodata, is available for the Great Britain, Northern Irela
 
 
 ### Manual Selection of Service Intervals Data From Autodata
-Manual selection can be used for any vehicle and is not specific to any market. To view and add the data using manual selection:
+Manual selection can be used to get data from Autodata for any vehicle and is not specific to any market. To view and add the data using manual selection:
 1. If the vehicle registration is not automatically detected, a pop-up window will appear. Select **Other** and then click **OK** to choose the vehicle make and model from Autodata.
 
    ![](media/garagehive-autodata-service-intervals2.png)
