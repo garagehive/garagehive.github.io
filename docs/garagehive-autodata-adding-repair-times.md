@@ -57,6 +57,7 @@ Manual selection can be used to get data from Autodata for any vehicle and is no
 
 5. Finally, follow the steps from step number 3 in the [auto selection part](#auto-selection-of-repair-times-data-from-autodata) to complete the process.
 
+[Go back to top](#top)
 
 
 ### **See Also**
