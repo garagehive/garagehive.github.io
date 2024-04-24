@@ -8,7 +8,7 @@ title: How to Use the Timing Belt Intervals Feature
 Depending on the make and model of the vehicle, the timing belt should be replaced at a specific interval. It is critical that you keep the vehicle owner informed at the appropriate time.
 
 ## In this article
-1. [Checking Timing Belt Interval From the menu bar](#checking-timing-belt-interval-from-the-actions-bar)
+1. [Checking Timing Belt Interval From the Menu Bar](#checking-timing-belt-interval-from-the-actions-bar)
 2. [Checking Timing Belt Interval From the Vehicle Reminder Dates Section](#checking-timing-belt-interval-from-the-vehicle-reminder-dates-section)
 3. [Manual Selection of Timing Belt Interval from Autodata](#manual-selection-of-timing-belt-interval-from-autodata)
 

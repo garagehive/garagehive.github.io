@@ -5,8 +5,11 @@ title: Viewing Vehicle Engine Oil's Data
 
 <a name="top"></a>
 
-# Viewing Vehicle Engine Oil's Data
+## In this article
+1. [Auto Selection of Vehicle Engine Oil Data From Autodata](#auto-selection-of-vehicle-engine-oil-data-from-autodata)
+2. [Manual Selection of Vehicle Engine Oil Data From Autodata](#manual-selection-of-vehicle-engine-oil-data-from-autodata)
 
+### Auto Selection of Vehicle Engine Oil Data From Autodata
 In this action, the autodata provides the engine oil data that is required before refilling or changing the oil.
 
 1. Select **Lookup** and then **Oil(Autodata)** from the menu bar.
@@ -21,6 +24,26 @@ In this action, the autodata provides the engine oil data that is required befor
 
    ![](media/garagehive-autodata-oil-data3.png)
 
+[Go back to top](#top)
+
+
+### Manual Selection of Vehicle Engine Oil Data From Autodata
+Manual selection can be used to get data from Autodata for any vehicle and is not specific to any market. To view and add the data using manual selection:
+1. If the vehicle registration is not automatically detected, a pop-up window will appear. Select **Other** and then click **OK** to choose the vehicle make and model from Autodata.
+
+   ![](media/garagehive-autodata-repair-times2.png)
+
+2. In the window that opens, search for the **Model** of the vehicle and click on the **Description** to select it.
+
+   ![](media/garagehive-autodata-repair-times8.png)
+
+3. After that, you should select the **Vehicle Type** based on the **Engine Code** of the vehicle in the next window that opens.
+
+   ![](media/garagehive-autodata-repair-times9.png)
+
+4. Then, select the appropriate option depending on the **VIN** of the vehicle.
+
+   ![](media/garagehive-autodata-repair-times10.png)
 
 [Go back to top](#top)
 
