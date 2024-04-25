@@ -16,38 +16,45 @@ Placeholder Item is used when waiting on purchase invoice from the supplier; it 
 
 ### Creating a Placeholder Item
 To create a placeholder item:
-1. click on **Items** from the navigation bar in the role centre.
+1. click on **Items** from the navigation bar in the Role Centre.
 
     ![](media/garagehive-placeholder-item1.png)
 
-2. Select **+New** from the items list page that opens.
-3. Assign an **Item Template** and click OK. 
-4. You can add an **Item No.** and **Description** according to your preference (in this case, the item no will be **MISC** and description **Placeholder Item**). 
+2. Select **New** from the items list page that opens.
 
-    ![](media/garagehive-placeholder-item1.gif)
+   ![](media/garagehive-placeholder-item2.png)
 
-5. Scroll down to the **Costs and Posting** section and select the slider on **Placeholder Item**.
+3. Assign an **Item Template** and click **OK**.
+
+   ![](media/garagehive-placeholder-item3.png)
+
+4. Add an **Item No.** and **Description** according to your preference (in this case, the Item No. will be **MISC** and description **Placeholder Item**). 
+
+    ![](media/garagehive-placeholder-item4.png)
+
+5. Scroll down to the **Costs and Posting** FastTab and select the slider on **Placeholder Item** field.
 6. If you can't see the option, click on **Show More** at the top-right corner of the section.
 
-![](media/garagehive-placeholder-item2.gif)
+![](media/garagehive-placeholder-item5.png)
 
 [Go back to top](#top)
 
 ### Add Placeholder Item in a document
-After creating a placeholder item, you can add it to a document for items you are yet to receive a purchase invoice. To add it in a jobsheet:
-1. Open the particular jobsheet and select **Item** from the **Type** column in the jobsheet lines. 
-2. Start typing the placeholder item name in the **No.** column and choose it from the options. 
-3. Add a description and unit price. 
+Once you create a placeholder item, you can add it to a document (Can be Jobsheet, Estimate or Vehicle Inspection Estimate) for items that you haven't received a purchase invoice for yet. To add it in a Jobsheet:
+1. Open the particular Jobsheet and select **Item** from the **Type** column in the Jobsheet lines. 
+2. Type the placeholder item name in the **No.** column and press the tab key. 
+3. Add a description and unit price; do not rename the placeholder item.
+
+   {% include tip.html title="Tip" text="The placeholder item can be used as many times as need be." %}
+
+   ![](media/garagehive-placeholder-item6.png)
+
 4. You can as well [Create a Purchase Order for the Item from the Jobsheet](garagehive-create-a-purchase-order.html){:target="_blank"}.
-
-{% include tip.html title="Tip" text="The placeholder item can be used as many times as need be." %}
-
-![](media/garagehive-placeholder-item3.gif)
 
 [Go back to top](#top)
 
 ### Convert a Placeholder Item into an inventory item
-When you receive the purchase invoice from the supplier, convert the placeholder item to the item on the purchase invoice. To do this from the **Purchase Order**:
+When you receive the Purchase Invoice from the supplier, convert the placeholder item to the item on the Purchase Invoice. To do this from the **Purchase Order**:
 1. Open the **Purchase Order** and replace the placeholder item **No** with the actual item **No.** from the vendor's purchase invoice.
 2. Select **Create a new item card for (Item No.)** in the pop-up window and click **OK**.
 3. On the next page, choose a template for the new item and click **OK**. The placeholder item **No.** will be replaced, but the description will stay.
@@ -58,18 +65,25 @@ When you receive the purchase invoice from the supplier, convert the placeholder
 
 ### Convert a Placeholder Item to the Vendor Item Number
 Use this method when the **Vendor Item No.** field is prefilled using the external integration available in Garage Hive. To do this from the Purchase Order:
-1. Open the **Purchase Order** and select **Process**, then **Convert Placeholder Items** from the menu bar.
+1. Open the **Purchase Order** and select **Home**, then **Convert Placeholder Items** from the menu bar.
+
+   ![](media/garagehive-placeholder-item7.png)
+
 2. Scroll to the right to the **Action** column, and for each item, click the **Create Item** action and select the template on the page that appears.
 3. When you're done with all of the items, click **OK**.
 
-   ![](media/garagehive-placeholder-item5.gif)
+   ![](media/garagehive-placeholder-item8.png)
 
 To convert the items in the **Jobsheet**:
 1. Open the Jobsheet with the placeholder items, select **Parts** followed by **Convert Placeholder Items** from the menu bar.
-2. Scroll right to the **Action** column, and click on **Select Item**. Select the item from the **Items** List, and click **OK**.
-3. Repeat step **2** for all placeholder items.
 
-   ![](media/garagehive-placeholder-item4.gif)
+   ![](media/garagehive-placeholder-item9.png)
+
+2. Scroll right to the **Action** column, and click on **Select Item**. Select the item from the **Items** List, and click **OK**.
+
+   ![](media/garagehive-placeholder-item10.png)
+
+3. Repeat step **2** for all placeholder items.
 
 
 {% include tip.html title="Note" text="It is not possible to post a document with a Placeholder Item; it must be converted into an inventory item." %}
