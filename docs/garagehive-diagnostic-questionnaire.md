@@ -14,29 +14,21 @@ Diagnostic questionnaires are used by garages to gather additional information a
 3. [Reviewing Answers from the Diagnostic Questionnaire](#reviewing-answers-from-the-diagnostic-questionnaire)
 
 ### Creating the Diagnostic Questionnaire
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Surveys**, and select the related link.
+1. To create a diagnostic questionnaire, you first need to create a survey. Click this link to learn how to create a survey, [setting up customer surveys](garagehive-surveys-setting-up-customer-surveyshtml).
 
    ![](media/garagehive-creating-diagnostic-questionanaires1.png)
 
-2. Click on **New** to create a new survey with the questions you would like to ask the customer in advance. Enter **Description** of the questionnaire, and the questions in the **Questions** FastTab.
-
-   ![](media/garagehive-creating-diagnostic-questionanaires2.png)
-
-3. Once done adding the questions, click on **Enable** in the menu bar, to activate the survey and then close the **Survey Card** window.
-
-   ![](media/garagehive-creating-diagnostic-questionanaires3.gif)
-
-4. Now, select the search ![](media/search_icon.png) icon, enter **Customer Notifications**, and select the related link to create a questionnaire notification.
+2. After creating the survey, select the search ![](media/search_icon.png) icon, enter **Customer Notifications**, and select the related link to create a questionnaire notification.
 
    ![](media/garagehive-creating-diagnostic-questionanaires4.png)
 
-5. Click on **New** to create a new **Customer Notification**.
-6. Choose **Jobsheet Questionnaire Notification** as the **Type**, select the diagnostic questionnaire survey that you created in the **Survey No.** field, set **Service Comment Line Type** to **Customer** or any other comment type, enter the **Description**, and specify the **Date Formula** as **0D**.
-7. Enable SMS, Email, or both, depending on where you want the customer to receive the questionnaire link and write the **Text** that will appear in the message body.
+3. Click on **New** to create a new **Customer Notification**.
+4. Choose **Jobsheet Questionnaire Notification** as the **Type**, select the diagnostic questionnaire survey that you created in the **Survey No.** field, set the **Service Comment Line Type**, enter the **Description**, and specify the **Date Formula** as **0D**.
+5. Enable SMS, Email, or both, depending on where you want the customer to receive the questionnaire link and write the **Text** that will appear in the message body.
 
    ![](media/garagehive-creating-diagnostic-questionanaires5.png)
 
-8. To activate the notification, click on the **Enabled** slider. Once enabled, the notification will be set for use.
+6. To activate the notification, click on the **Enabled** slider. Once enabled, the notification will be set for use.
 
    ![](media/garagehive-creating-diagnostic-questionanaires6.png)
    
@@ -44,7 +36,7 @@ Diagnostic questionnaires are used by garages to gather additional information a
 [Go back to top](#top)
 
 ### Sending Diagnostic Questionnaire to Customer
-To send the diagnostic questionnnaire to the customer:
+To send the diagnostic questionnaire to the customer:
 1. Open the Jobsheet and select **Home**, followed by **Send Questionnaire**.
 
    ![](media/garagehive-send-diagnostic-questionanaires1.png)
@@ -69,7 +61,7 @@ To send the diagnostic questionnnaire to the customer:
 
    ![](media/garagehive-reviewing-diagnostic-questionanaires2.png)
 
-3. This will open the **Customer Survey Entries**** window. Click on the number under **Answers Count** column or select the **Answers** action in the menu bar to access the questionnaire answers.
+3. This will open the **Customer Survey Entries** window. Click on the number under **Answers Count** column or select the **Answers** action in the menu bar to access the questionnaire answers.
 4. After reviewing the answers, click on **Mark as Reviewed**.
 
    ![](media/garagehive-reviewing-diagnostic-questionanaires3.png)
