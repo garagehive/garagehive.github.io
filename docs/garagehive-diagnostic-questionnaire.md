@@ -45,7 +45,7 @@ Diagnostic questionnaires are used by garages to gather additional information a
 
 ### Sending Diagnostic Questionnaire to Customer
 To send the diagnostic questionnnaire to the customer:
-1. Open the Jobsheet and select **Process**, followed by **Send Questionnaire**.
+1. Open the Jobsheet and select **Home**, followed by **Send Questionnaire**.
 
    ![](media/garagehive-send-diagnostic-questionanaires1.png)
 
@@ -69,6 +69,10 @@ To send the diagnostic questionnnaire to the customer:
 4. After reviewing the answers, click on **Mark as Reviewed**.
 
    ![](media/garagehive-reviewing-diagnostic-questionanaires3.png)
+
+5. The technician can view the customer's answers by selecting **Related Questionnaires** under **Show Attached** in the menu bar.
+
+   ![](media/garagehive-reviewing-diagnostic-questionanaires4.png)
 
 
 [Go back to top](#top)
