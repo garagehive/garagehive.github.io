@@ -14,7 +14,7 @@ Diagnostic questionnaires are used by garages to gather additional information a
 3. [Reviewing Answers from the Diagnostic Questionnaire](#reviewing-answers-from-the-diagnostic-questionnaire)
 
 ### Creating the Diagnostic Questionnaire
-1. To create a diagnostic questionnaire, you first need to create a survey. Click this link to learn how to create a survey, [setting up customer surveys](garagehive-surveys-setting-up-customer-surveyshtml).
+1. To create a diagnostic questionnaire, you first need to create a survey. Click this link to learn how to create a survey, [setting up customer surveys](/docs/garagehive-surveys-setting-up-customer-surveys.html).
 
    ![](media/garagehive-creating-diagnostic-questionanaires1.png)
 
