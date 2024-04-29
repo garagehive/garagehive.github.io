@@ -24,6 +24,9 @@ Diagnostic questionnaires are used by garages to gather additional information a
 
 3. Click on **New** to create a new **Customer Notification**.
 4. Choose **Jobsheet Questionnaire Notification** as the **Type**, select the diagnostic questionnaire survey that you created in the **Survey No.** field, set the **Service Comment Line Type**, enter the **Description**, and specify the **Date Formula** as **0D**.
+
+   ![](media/garagehive-creating-diagnostic-questionanaires8.png)
+
 5. In the **SMS Text** field, add the Questionnaire URL tag from the Field Tags. Click on the **Field Tags** number to view available field tags and copy the one for questionnaire.
 
    ![](media/garagehive-creating-diagnostic-questionanaires7.png)
