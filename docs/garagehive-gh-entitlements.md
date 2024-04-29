@@ -41,7 +41,7 @@ To assign GH Entitlements to locations in your system, follow these steps if you
 
    ![](media/garagehive-gh-entitlement-location1.png)
 
-2. Choose the desired location to manage the GH Entitlements, then click on **Process**, followed by **Manage GH Entitlements** in the menu bar.
+2. Choose the desired location to manage the GH Entitlements, then click on **Home**, followed by **Manage GH Entitlements** in the menu bar.
 
    ![](media/garagehive-gh-entitlement-location2.png)
 
