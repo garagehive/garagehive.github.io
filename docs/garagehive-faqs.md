@@ -57,7 +57,7 @@ Once you've created the quote within the **Vehicle Inspection Estimates** and th
 
    ![](media/garagehive-faqs3.png)
 
-Then, in the menu bar, choose **Process**, followed by **Copy Authorized Lines** to Jobsheet.
+Then, in the menu bar, choose **Home**, followed by **Copy Authorized Lines** to Jobsheet.
 
    ![](media/garagehive-faqs3a.png)
 
@@ -131,7 +131,7 @@ See the article link below for more information.
 
 Yes, a Jobsheet can be split. See the step-by-step instructions below.
 
-1. From the Jobsheet, select **Process**, and then **Split Document**. This will take you to the Service Splitting page.
+1. From the Jobsheet, select **Home**, and then **Split Document**. This will take you to the Service Splitting page.
 
    ![](media/garagehive-faqs5.png)
 
