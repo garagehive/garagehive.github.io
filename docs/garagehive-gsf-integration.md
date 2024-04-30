@@ -79,11 +79,11 @@ To order parts from the GSF website:
 
    ![](media/garagehive-gsf-integration7.png)
 
-1.  When the customer approves the work, create a purchase order from the menu bar by selecting **Parts** and then **Create Purchase Order(s)**.
+1. When the customer approves the work, create a purchase order from the menu bar by selecting **Parts** and then **Create Purchase Order(s)**.
 
    ![](media/garagehive-gsf-integration8.png)
 
-1.  In the pop-up notification, you have the option to select **Yes** and place an order from **Allicat** which also creates a Purchase Order for the items, or **No** and simply create the Purchase Order.
+1. In the pop-up notification, you have the option to select **Yes** and place an order from **Allicat** which also creates a Purchase Order for the items, or **No** and simply create the Purchase Order.
 
    ![](media/garagehive-gsf-integration11.png)
 
