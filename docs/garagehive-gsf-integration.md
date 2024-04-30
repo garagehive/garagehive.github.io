@@ -9,7 +9,7 @@ title: GSF Integrations in Garage Hive
 
 ![](media/garagehive-gsf-to-garage-hive.png)
 
-GSF integrations allow you to link Garage Hive to the GSF Allicat Online, where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
+GSF integrations allows you to link Garage Hive to the GSF Allicat Online, where you may directly place an order for the parts that need to be ordered from the Garage Hive system.
 
 ## In this article
 1. [Getting the System Integration Customer ID](#getting-the-system-integration-customer-id)
@@ -56,47 +56,56 @@ To order parts from the GSF website:
 1. You may add the items from the external data lookup to the Jobsheet that you want to work on. Choose **Lookup**, followed by **Repair Times** and/or **Service Interval Matrix**. Choose the type of labour and items required for the vehicle.
 1. **MISC** will be used as a placeholder for the added items.
 
-   ![](media/garagehive-gsf-integration3.gif)
+   ![](media/garagehive-gsf-integration3.png)
    
 1. Choose **Parts** from the menu bar, then **Open AlliCat Online**. This redirects you to your account at the **AlliCat Online Catalogue Portal** and opens the page where the items in the Jobsheet have been looked up using the **Vehicle Registration Number**.
 
-   ![](media/garagehive-gsf-integration4.gif)
+   ![](media/garagehive-gsf-integration4.png)
 
 1. Add the items from your **Shopping List** to your **Basket**, then open the **Basket** and choose **Send Quote to Garage Hive**.
 
    ![](media/garagehive-gsf-integration9.gif)
 
 1. Open the Jobsheet you're working on and, from the menu bar, choose **Parts**, then **Get AlliCat Basket**.
-1. Return to the Garage Hive system, select an item to add to the Jobsheet from the page that opens, then scroll to the right and click the **Action** column. You can add it as a **New line**, **New line to a group**, or **Update an existing line**. When you're finished, click **OK**.
 
-   ![](media/garagehive-gsf-integration5.gif)
+   ![](media/garagehive-gsf-integration5.png)
+
+1. Select an item to add to the Jobsheet from the page that opens, then scroll to the right and click the **Action** column. You can add it as a **New line**, **New line to a group**, or **Update an existing line**. When you're finished, click **OK**.
+
+   ![](media/garagehive-gsf-integration6.png)
 
 1. The **Description**, **Quantity**, and **Unit Cost** of the Item lines will be updated, but the **Item No.** will remain as **MISC**.
 1. The Item lines will also be marked as **Purchase (Special)** with the **Vendor No.** and the **Vendor Item No.** added.
 
-   ![](media/garagehive-gsf-integration6.gif)
+   ![](media/garagehive-gsf-integration7.png)
 
 1.  When the customer approves the work, create a purchase order from the menu bar by selecting **Parts** and then **Create Purchase Order(s)**.
+
+   ![](media/garagehive-gsf-integration8.png)
+
 1.  In the pop-up notification, you have the option to select **Yes** and place an order from **Allicat** which also creates a Purchase Order for the items, or **No** and simply create the Purchase Order.
 
-   ![](media/garagehive-gsf-integration7.gif)
+   ![](media/garagehive-gsf-integration11.png)
 
 [Go back to top](#top)
 
 ### Ordering Parts from the Purchase Order
 1. Open the **Purchase Order.**
-2. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Process** from the menu bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
+2. To make an order through GSF's **AlliCat Online Catalogue Portal**, select **Home** from the menu bar, followed by **GSF Order Parts**. The order will be placed, and more details will be received from GSF.
 
-   ![](media/garagehive-gsf-integration8.gif)
+   ![](media/garagehive-gsf-integration12.png)
 
 [Go back to top](#top)
 
 ### Receiving Parts from the GSF Invoice into the System
 When the items arrive, you may now convert the placeholder items to the actual item number. To do this, use the **Convert Placeholder Items** action, which is available in both the Purchase Order and the Jobsheet. Learn more [here](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
 
+- Purchase Order:
+
    ![](media/garagehive-gsf-integration9.png)
 
-<br>
+
+- Jobsheet:
 
    ![](media/garagehive-gsf-integration10.png)
 
