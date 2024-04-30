@@ -3,99 +3,88 @@ layout: docs
 title: How to view Service History
 ---
 
-#   How to view Service History 
+<a name="top"></a>
 
-{% include youtube.html id="EvhukzzeABo" %}
+# How to view Service History 
+There are multiple ways of viewing service history of a vehicle.
 
-####   There are multiple ways of viewing service history of a vehicle.
-
-
--   Last Visit Date via the **Vehicle** search then **FactBox** on the home page.
--   Full history through the **Vehicle** search then **History** button within the *menu bar* followed by **Vehicle History**.
--   Full history within the jobsheet through the **Lookup** button followed by **Vehicle History**.   
-
-##  Option 1 - 
-Last Visit Date via the **Vehicle** search then **FactBox** on the home page.
-
-Select Vehicles in the home screen. 
-
-![](media/garagehive-how-to-view-service-history1.png)
-
-A.  Search & Highlight relevant vehicle. 
-
-B.  Ensure the Factbox is displayed. 
-
-C.  You will see the date and mileage of the last visit (If you require to see specifics of the last visit select either the date or mileage.)
+1. [Last Visit Date of the Vehicle From the Vehicle Card](#last-visit-date-of-the-vehicle-from-the-vehicle-card)
+2. [Full History of the Vehicle from the Vehicle Card](#full-history-of-the-vehicle-from-the-vehicle-card)
+3. [Full History of the Vehicle from the Jobsheet](#full-history-of-the-vehicle-from-the-jobsheet)
+4. [How Service History is Displayed](#how-service-history-is-displayed)
 
 
-![](media/garagehive-how-to-view-service-history2.png)
+## Last Visit Date of the Vehicle From the Vehicle Card 
+To view the Last Visit Date of the vehicle:
+1. Select **Vehicles** in the Role Centre. 
 
-##  Option 2 - 
-Full history through the **Vehicle** search then **History** button within the *menu bar* followed by 
-**Vehicle History**.
+   ![](media/garagehive-how-to-view-service-history1.png)
 
-Select Vehicles in the home screen. 
+2. Search and select the vehicle you want to view the Last Visit Date for.
+3. Click on the Factbox icon (ℹ️) to open the Factbox pane, if it's not already showing.
+4. You will see the date and mileage of the last visit. If you need more details about the last visit, simply click on either the date or mileage.
 
-![](media/garagehive-how-to-view-service-history1.png)
+   ![](media/garagehive-how-to-view-service-history2.png)
 
-A.  Search & Highlight relevant vehicle. 
-
-B.  Select History within the menu bar. 
-
-C.  Select Vehicle History. 
-
-![](media/garagehive-how-to-view-service-history3.png)
-
-##  Option 3 - 
-
-Full history within the jobsheet through the **Lookup** button followed by **Vehicle History**.   
-
-Search for Jobsheet within Home Screen via the: - 
-
-A.  menu bar
-
-B.  Tiles
-
-![](media/garagehive-how-to-view-service-history4.png)
-
-Open the Jobsheet
-
-![](media/garagehive-how-to-view-service-history5.png)
-
-A.  Select Lookup within the menu bar.  
-
-B.  Select Vehicle History.
-
-![](media/garagehive-how-to-view-service-history6.png)
-
-##  How Service History is Displayed & Why 
-
-Service History is displayed in list format, showing all Items, Labour or External Service which have been invoiced against this vehicle. 
-
-![](media/garagehive-how-to-view-service-history7.png)
-
-You can search for a specific word, which will filter all history to include that description. 
-
-![](media/garagehive-how-to-view-service-history8.png)
-
-You can choose columns which you wish to be displayed for example: - 
-
-*   Mileage
-*   Resource (Technician)
-*   Date 
-*   Cost 
-
-You can also view the document a specific item relates to. 
-
-A.  Select Process within the Action Bar. 
-
-B.  Select Show Document. 
-
-![](media/garagehive-how-to-view-service-history9.png)
-
-This will display the posted jobsheet. 
+[Go back to top](#top)
 
 
+## Full History of the Vehicle from the Vehicle Card
+To view the full history of the vehicle form the Vehicle Card:
+1. Select **Vehicles** in the Role Centre.
+
+   ![](media/garagehive-how-to-view-service-history1.png)
+
+2. Search and select the vehicle you want to view the full history for.
+3. Select **History** from the menu bar, followed by **Vehicle History**.
+
+   ![](media/garagehive-how-to-view-service-history3.png)
+
+[Go back to top](#top)
+
+
+## Full History of the Vehicle from the Jobsheet
+To view the full history of the vehicle from the Jobsheet:
+1. Open the Jobsheet List, from the Role Centre.  
+
+   ![](media/garagehive-how-to-view-service-history4.png)
+
+2. Search and Open the Jobsheet that has the vehicle that you want to view the vehicle history.
+3. Select **Related** from the menu bar, followed by **Vehicle History**.
+
+   ![](media/garagehive-how-to-view-service-history5.png)
+
+[Go back to top](#top)
+
+
+## How Service History is Displayed
+1. The service history of the vehicle is displayed as a list, showing all items, labour or external services that have been invoiced. 
+
+   ![](media/garagehive-how-to-view-service-history7.png)
+
+2. You can search for specific words to filter your history.
+
+   ![](media/garagehive-how-to-view-service-history8.png)
+
+3. You can [personalise](garagehive-personalising-garage-hive.html) the page to view columns which you wish to be displayed. For example you can have the following columns: 
+   * Mileage
+   * Resource (Technician)
+   * Date 
+   * Cost 
+4. You can view the document related with a specific item by selecting the item from the service ledger entries list and then clicking on **Show Document** from the menu bar.
+
+   ![](media/garagehive-how-to-view-service-history9.png)
+
+5. This will show the posted Jobsheet. 
+
+
+[Go back to top](#top)
+
+<br>
+
+### **See Also**
+
+[How to View Vehicle History in Garage Hive](https://www.youtube.com/watch?v=EvhukzzeABo){:target="_blank"}
 
 
 
