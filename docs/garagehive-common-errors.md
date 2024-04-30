@@ -116,7 +116,7 @@ In order to effectively use the Garage Hive system, it is important to familiari
 
    |              |                                                                                                      |
    | :----------- | :--------------------------------------------------------------------------------------------------- |
-   | **Solution** | **Convert the Placeholder Item to Stock Item.**                                                      |
+   | **Solution** | **Update the Posting Date field to Match Today's Date.**                                             |
    |              | - In the General FastTab of the Purchase Order, update the Posting Date field to match today's date. |
    |              | - Also, ensure that the Document Date matches the Vendor Invoice date.                               |
    |              | - Then click on Posting, and select Post.                                                            |
