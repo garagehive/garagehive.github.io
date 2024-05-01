@@ -112,18 +112,27 @@ When the items arrive, you may now convert the placeholder items to the actual i
 [Go back to top](#top)
 
 ### Ordering Service Package Items from GSF
-1. When items from the **Service Packages** are added to a document and you try to place an order from GSF, the items are not automatically added to the **Shopping List** as they are when items from the **Autodata Repair Times** are added. This is because the items have not yet been linked with the **General Part No.** that the system uses for item identification in the **GSF Allicat Online** system. Here is an example.
+1. When items from the **Service Packages** are added to a document and you try to place an order from GSF, the items are not automatically added to the **Shopping List** as they are when items from the **Autodata Repair Times** are added. This is because the items have not yet been linked with the **General Part No.** that the system uses for item identification in the **GSF Allicat Online** system. 
 
-   ![](media/garagehive-gsf-integration10.gif)
+   ![](media/garagehive-gsf-integration14.png)
 
-2. The **General Part No.** is automatically added to items via the **Autodata Repair Times** or the **GSF Allicat Online**, therefore any other item that is not from these sources does not have the **General Part No.**.
+2. The shopping list will be empty as shown below.
 
-   ![](media/garagehive-gsf-integration11.gif)
+   ![](media/garagehive-gsf-integration15.png)
 
-3. To ensure the Shopping List in **GSF Allicat Online** is automatically generated for items within a **Service Packages**, you need to manually link them to the relevant **General Part No.**. And this number can be added to/found in the column **General Part Nos.** When you add it, the items will be added to the shopping list in **GSF Allicat Online**.
+3. The **General Part No.** is automatically added to items via the **Autodata Repair Times** or the **GSF Allicat Online**, therefore any other item that is not from these sources does not have the **General Part No.**.
 
-   ![](media/garagehive-gsf-integration12.gif)
+   ![](media/garagehive-gsf-integration16.png)
 
+4. To ensure the Shopping List in **GSF Allicat Online** is automatically generated for items within a **Service Packages**, you need to manually link them to the relevant **General Part No.**. And this number can be added to/found in the column **General Part Nos.** Copy the relevant General Part No. from items added using the **Autodata Lookup**.
+
+   ![](media/garagehive-gsf-integration17.png)
+
+5. Paste it to the relevant Service Package Item within the document containing the items.
+
+   ![](media/garagehive-gsf-integration18.png)
+
+6. When you add it, the items will be added to the shopping list in **GSF Allicat Online**.
 
 So, here is the complete process flow.
 
