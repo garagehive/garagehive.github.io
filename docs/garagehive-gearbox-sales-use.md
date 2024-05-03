@@ -64,7 +64,7 @@ To quote the customer, you now need to create a **Sales Quote**:
 
    ![](media/garagehive-gearbox-sales-quote3.png)
 
-4. After sending the **Sales Quote** to the Customer and receiving their approval, convert the **Sales Quote** to an invoice. Select **Process** and then **Make Invoice**.
+4. After sending the **Sales Quote** to the Customer and receiving their approval, convert the **Sales Quote** to an invoice. Select **Home** and then **Make Invoice**.
 
    ![](media/garagehive-gearbox-sales-quote4.png)
 
