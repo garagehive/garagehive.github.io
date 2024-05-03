@@ -24,7 +24,7 @@ Diagnostic questionnaires are used by garages to gather additional information a
 
 3. Click on **New** to create a new **Customer Notification**.
 4. Choose **Jobsheet Questionnaire Notification** as the **Type**, select the diagnostic questionnaire survey that you created in the **Survey No.** field, set the **Service Comment Line Type**, enter the **Description**, and specify the **Date Formula** as **0D**.
-5. Set the **Source Code** field with the value **JOBCOMPLETE**. This will allow the system to use the description associated with that source code as the email subject line.
+5. By default, the Source Code field is set to **JOBSHEETQST**. However, you can change it to your preference. This will allow the system to use the description associated with that source code as the email subject line.
 
    ![](media/garagehive-creating-diagnostic-questionanaires8.png)
 
