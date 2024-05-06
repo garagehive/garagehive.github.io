@@ -107,7 +107,7 @@ The Micheldever integration is available in **VI Estimates**, **Estimates**, **J
 
 ### Ordering Parts from the Purchase Order
 To order the tyres from Micheldever in the Purchase Order:
-1. Open the Purchase Order you have created. You have the option to add more tyres to order from Micheldever Catalogue/Stock in the Purchase Order. Select **Process**, followed by **Micheldever Lookup Items**.
+1. Open the Purchase Order you have created. You can add more tyres to order from Micheldever Catalogue/Stock in the Purchase Order. Select **Home**, followed by **Micheldever Lookup Items**.
 
    ![](media/micheldever-purchase-order4.png)
 
@@ -119,7 +119,7 @@ To order the tyres from Micheldever in the Purchase Order:
 
    ![](media/micheldever-purchase-order6.png)
 
-4. Then to order the tyres, select **Process**, followed by **Micheldever Order Items** in the menu bar.
+4. Then to order the tyres, select **Home**, followed by **Micheldever Order Items** in the menu bar.
 
    ![](media/micheldever-purchase-order1.png)
 
