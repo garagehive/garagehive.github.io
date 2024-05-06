@@ -1,11 +1,11 @@
 ---
 layout: docs
-title: GSF Integrations in Garage Hive
+title: GSF Integration with Garage Hive
 ---
 
 <a name="top"></a>
 
-# GSF Integrations in Garage Hive
+# GSF Integration with Garage Hive
 
 ![](media/garagehive-gsf-to-garage-hive.png)
 
