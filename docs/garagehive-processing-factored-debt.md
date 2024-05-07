@@ -23,21 +23,24 @@ title: How to Process Factored Debt in Garage Hive
 1. After you've created the item card, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales Credit Memo** and select the related link.
 1. To create a new sales credit memo, click **New** from the menu bar.
 
-   ![](media/garagehive-processing-factored-debt3.gif)
+   ![](media/garagehive-processing-factored-debt3.png)
 
-1. In the **General** FastTab **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
+1. Under the **General** FastTab in the **Customer Name** field, enter the name of the factoring company, **Payment Assist**, as the balance is now under the company.
 1. In the **Lines** sub-page, enter the **Item** you created as the **Payment Assist Commission**, **Quantity** to be one, and the **Unit Price** as the balance, in this case **£152**.
 
-   ![](media/garagehive-processing-factored-debt4.gif)
+   ![](media/garagehive-processing-factored-debt4.png)
 
-1. To apply the amount in the customer account, select **Prepare** and then **Apply Entries** in the Sales Credit Memo menu bar.
-1. Select **Process** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
+1. To apply the amount in the customer account, select **Home** and then **Apply Entries** in the Sales Credit Memo menu bar.
 
-   ![](media/garagehive-processing-factored-debt7.gif)
+   ![](media/garagehive-processing-factored-debt5.png)
 
-1. To post the amount and apply the entries to **Payment Assist**, select **Posting** from the menu bar, followed by **Post**.
+1. Select **Home** and then **Set Applies-to ID** from the pop-up window. Click **OK**.
+
+   ![](media/garagehive-processing-factored-debt7.png)
+
+1. To apply the entries to **Payment Assist** and post the amount, select the **Post** option from the split button dropdown menu under **Process Fund** on the menu bar.
    
-   ![](media/garagehive-processing-factored-debt5.gif)
+   ![](media/garagehive-processing-factored-debt8.png)
 
 1. The balance from **Payment assist** will now be £0, and the sales/payment to **Payment Assist** will be £650.
 
