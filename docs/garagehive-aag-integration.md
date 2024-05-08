@@ -9,7 +9,7 @@ title: DRAFT* - AAG Integration With Garage Hive
 We are currently reviewing this article before it is published, check back later.
 
 # AAG Integration With Garage Hive
-AAG (Alliance Automotive Group) integration allows you to link Garage Hive to the AAG....., where you can directly place an order for the parts that need to be ordered and transfer them to the Garage Hive system.
+AAG (Alliance Automotive Group) integration allows you to link Garage Hive to the AAG Parts 360 website, where you can directly place an order for the parts that need to be ordered and transfer them to the Garage Hive system.
 
 ## In this article
 1. [Linking AAG to Garage Hive System](#linking-aag-to-garage-hive-system)
