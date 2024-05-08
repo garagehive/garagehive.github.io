@@ -76,11 +76,11 @@ Make sure the **Payment Amount** value is set to **£0.01**, select the notifica
 {% include tip.html title="Note" text="Normally, when requesting payment via the Pay by GarageLink, the details automatically picked to send the request are the Bill-to Customer details." %}
 
 
-![](media/paybygaragelink-paymentwindow.jpg)
+![](media/paybygaragelink-paymentwindow.png)
 
 You can check the status of the payment in **Garage Hive** by selecting the **Payment Gateway Entries** from the action bar. 
 
-![](media/paybygaragelink-gateway-entries.jpg)
+![](media/paybygaragelink-gateway-entries.png)
 
 You should also receive an email confirming the payment has been received. Once you've received payment for this job, post it with the penny on it.
 
