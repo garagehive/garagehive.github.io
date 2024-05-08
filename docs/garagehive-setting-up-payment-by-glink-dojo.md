@@ -63,11 +63,15 @@ Garage Link for Dojo is a payment gateway that is used for online payments. To s
 [Go back to top](#top)
 
 ### Testing the Garage Link setup
-Once configured, it is recommended that you run a **£0.01** transaction as a test. Create a new jobsheet with your personal information, add a  or **consumable or a non-inventory item**, and then proceed to the **Take Payment** screen. Once on the **Take Payment** screen, select **Process** in the action bar and **Pay By Garage Link**.
+Once configured, it is recommended that you run a **£0.01** transaction as a test. Create a new Jobsheet with your personal information, add a  or **consumable or a non-inventory item**, and then proceed to the **Take Payment** screen.
 
-![](media/paybygaragelink-takepayment.jpg)
+   ![](media/paybygaragelink-takepayment1.png)
 
-Make sure the value is set to **£0.01**, select the notification type and enter your details. Once you receive the test SMS/Email please follow the link and complete the test payment. 
+Once on the **Take Payment** screen, enter the amount in the **Pay By Garage Link** line, and select **Pay By Garage Link** from the menu bar.
+
+   ![](media/paybygaragelink-takepayment.png)
+
+Make sure the **Payment Amount** value is set to **£0.01**, select the notification type and enter your details. Once you receive the test SMS/Email please follow the link and complete the test payment. 
 
 {% include tip.html title="Note" text="Normally, when requesting payment via the Pay by GarageLink, the details automatically picked to send the request are the Bill-to Customer details." %}
 
