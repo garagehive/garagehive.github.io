@@ -97,7 +97,7 @@ If you want to use deposit amount as payment method in a Jobsheet:
 
    ![](media/apply-deposit-payment1.png)
 
-2. Select the document to which you want to apply the deposit, then **Process** from the menu bar, followed by **Close With Deposit - Preview** to preview the posting.
+2. Select the document to which you want to apply the deposit, then **Home** from the menu bar, followed by **Close With Deposit - Preview** to preview the posting.
 
    ![](media/apply-deposit-payment2.png)
 
@@ -105,7 +105,7 @@ If you want to use deposit amount as payment method in a Jobsheet:
 
    ![](media/apply-deposit-payment3.png)
 
-4. You can now apply the deposit by selecting **Process** from the menu bar, followed by **Close With Deposit**.
+4. You can now apply the deposit by selecting **Home** from the menu bar, followed by **Close With Deposit**.
 
    ![](media/apply-deposit-payment4.png)
 
