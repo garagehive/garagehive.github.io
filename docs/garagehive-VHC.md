@@ -29,16 +29,20 @@ To help you understand the process of creating a VIE from a Jobsheet, we've crea
 
 ### Confirming a checklist to a VIE
 To verify a checklist that has been completed by a technician:
-1. On the checklist page, click **Process** and then **Confirm** from the menu bar.
+1. On the checklist page, click **Home** and then **Confirm** from the menu bar.
 2. To create a VIE, answer **Yes** to the prompt question that appears.
 
-   ![](media/garagehive-vehicle-inspection-estimate2.gif)
+   ![](media/garagehive-vehicle-inspection-estimate2.png)
 
-3. To auto-fill the **Service Advisor Code** when it is blank, search for **Service Mgt. Setup GH** in the top-right corner ![](media/search_icon.png) icon and select **Yes** for **Auto-fill Service Advisor in VI Estimates** field in **General** FastTab, which now ensures that the **Service Advisor Code** is filled in after the vehicle inspection is confirmed.
+3. To auto-fill the **Service Advisor Code** when it is blank, search for **Service Mgt. Setup GH** in the top-right corner ![](media/search_icon.png) icon.
+   
+   ![](media/garagehive-vehicle-inspection-estimate11.png)
 
-   ![](media/garagehive-vehicle-inspection-estimate2.1.gif)
+4. select **Yes** for **Auto-fill Service Advisor in VI Estimates** field in **General** FastTab, which now ensures that the **Service Advisor Code** is filled in after the vehicle inspection is confirmed.
 
-{% include tip.html title="Note" text="After confirming the checklist, change the Process Status on the checklist to Completed, so as archive the checklist card." %}
+   ![](media/garagehive-vehicle-inspection-estimate12.png)
+
+{% include tip.html title="Note" text="After confirming the checklist, change the Process Status on the checklist to Completed, so as to archive the checklist card." %}
 
 
 [Go back to top](#top)
@@ -58,7 +62,7 @@ The VIE status can be changed from the document as follows:
 2. Select the VIE from the list that appears by clicking on the **No.** of the VIE to open.
 3. From the VIE's **General** FastTab, scroll to the **VIE Status** field and select the status to change to from the drop-down menu.
 
-![](media/garagehive-vehicle-inspection-estimate4.gif)
+![](media/garagehive-vehicle-inspection-estimate4.png)
 
 
 [Go back to top](#top)
@@ -67,17 +71,24 @@ The VIE status can be changed from the document as follows:
 After creating a VIE from the checklist, the status is **Awaiting Action**, to give the service advisor an alert to take action:
 1. Click on the **Awaiting Action** tile to open the VIE list, and select the VIE to work on.
 2. Add items and labour to the VIE according to the checks done.
+
+   ![](media/garagehive-vehicle-inspection-estimate5.png)
+
 3. Change the **VIE Status** to **Awaiting Authorisation** from the customer, which moves it from the **Awaiting Action** to **Awaiting Authorisation** tile.
 
-   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4.gif)
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4.png)
 
    <br>
 
    ![](media/garagehive-trial-vehicle-inspection-estimate-awaiting-authorisation.png)
 
-4. If you click on any amount under the **Totals Including VAT**, which is below the vehicle inspection estimate lines, a pop-up window appears which shows the **Document Total**, **Price Calculation**, **Jobsheet Value (Current)** totals, **Customer Authorised** totals, **Customer Unauthorised** totals and **Combined Total (Authorised)**.
+4. If you click on any amount under the **Totals Including VAT**, below the vehicle inspection estimate lines.
+   
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.png)
 
-   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate4a.gif)
+5.  A pop-up window appears which shows the **Document Total**, **Price Calculation**, **Jobsheet Value (Current)** totals, **Customer Authorised** totals, **Customer Unauthorised** totals and **Combined Total (Authorised)**.
+
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate9.png)
 
 
 [Go back to top](#top)
@@ -86,17 +97,17 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
 1. The first is from the document lines:
    * Scroll to the right on the document until you reach the **Customer Authorised** column. Tick all of the lines that the customer has approved.
-   * From the menu bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
+   * From the menu bar, select **Home** and then **Copy Authorised Lines to Jobsheet**.
 
-   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.gif)
+   ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate5.png)
 
 2. Alternatively, from the group items where the document lines have been added:
    * Scroll up to the section **Group Items** (see [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}), where the groups have already been created.
    * Select the group items that have been approved from the **Customer Authorised** column. When a group is checked, all document lines within that group are approved. A single document line that is already part of a group cannot be separately authorised.
-   * From the menu bar, select **Process** and then **Copy Authorized Lines to Jobsheet**.
+   * From the menu bar, select **Home** and then **Copy Authorised Lines to Jobsheet**.
    * Select the document to copy to from the page that appears, then click **OK**.
 
-      ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate6.gif)
+      ![](media/garagehive-trial-processing-a-vehicle-inspection-estimate10.png)
 
    * You will be prompted, 'Do you want to copy comments related to the current VIE?' ** Select **Yes** to copy the comments to the Jobsheet.
          
