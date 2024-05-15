@@ -9,21 +9,22 @@ title: Understanding the Schedule
 The service schedule is a tool predominantly used to manage your workshop. Garage Hive works by allocating time rather than jobsheets within the schedule; this allows you to load time accurately.
 
 ## In this article
-1. [Understanding the schedule layout](#understanding-the-schedule-layout)
-2. [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule)
+1. [Understanding the Schedule Layout](#understanding-the-schedule-layout)
+2. [Understanding the Colours within the Schedule](#understanding-the-colours-within-the-schedule)
 3. [Changing the Schedule View](#changing-the-schedule-view)
 4. [View and Setup Time Grids and Service Hours from the Schedule](#view-and-setup-time-grids-and-service-hours-from-the-schedule)
-5. [Adding resources in the schedule](#adding-resources-in-the-schedule)
-6. [Rearranging resources in the schedule](#rearranging-resources-in-the-schedule)
-7. [Managing service hours in the schedule](#managing-service-hours-in-the-schedule)
-8. [Adding resources calender changes](#adding-resources-calender-changes)
-9. [View the statistics of the schedule](#view-the-statistics-of-the-schedule)
-10. [Adding a standard event](#adding-a-standard-event)
-11. [How to exclude some standard events when calculating available hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
-12. [Understanding the emojis in an allocation](#understanding-the-emojis-in-an-allocation)
+5. [Adding Resources in the Schedule](#adding-resources-in-the-schedule)
+6. [Rearranging Resources in the Schedule](#rearranging-resources-in-the-schedule)
+7. [Managing Service Hours in the Schedule](#managing-service-hours-in-the-schedule)
+8. [Adding Resources Calender Changes](#adding-resources-calender-changes)
+9. [View the Statistics of the Schedule](#view-the-statistics-of-the-schedule)
+10. [Adding a Standard Event](#adding-a-standard-event)
+11. [How to Exclude Some Standard Events when Calculating Available Hours](#how-to-exclude-some-standard-events-when-calculating-available-hours)
+12. [Understanding the Emojis in an Allocation](#understanding-the-emojis-in-an-allocation)
 13. [How to Add Schedule Allocations Count](#how-to-add-schedule-allocations-count)
-14. [Using the search function in the schedule](#using-the-search-function-in-the-schedule)
-15. [Adding an allocation type](#adding-an-allocation-type)
+14. [Using the Search Function in the Schedule](#using-the-search-function-in-the-schedule)
+15. [Adding an Allocation Type](#adding-an-allocation-type)
+16. [Block Days from Booking in the Schedule](#block-days-from-booking-in-the-schedule)
 
 ###  Understanding the Schedule Layout
 The service schedule layout is divided into the following parts:
@@ -304,6 +305,14 @@ To add an allocation type in the schedule:
 
 
 [Go back to top](#top)
+
+### Block Days from Booking in the Schedule
+When a day in the schedule is blocked, it prevents any new allocations from being added. To block out a day in the schedule:
+1. Open the schedule in your system, and enable the **Fully Booked** slider from the header.
+
+   ![](media/garagehive-fully-booked-slider.png)
+
+2. This will grey out the diary where there is no allocation. The existing allocations in the schedule can be modified.
 
 <br>
 
