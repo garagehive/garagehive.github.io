@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 15th May 2024
+* Added the ability to send out questions to customers prior to their visit, in order to collect more information about the job in advance, [read more](garagehive-diagnostic-questionnaire.html){:target="_blank"}.
+
+   ![](media/garagehive-send-questionnaire.png)
+
+* Added a slider to the schedule header called **Fully Booked**, which, when enabled, prevents new allocations and greys out the diary, [read more](garagehive-understanding-the-schedule.html#block-days-from-booking-in-the-schedule){:target="_blank"}.
+
+   ![](media/garagehive-fully-booked.png)
+
 ### 18th April 2024
 * Added actionable stacked error messages when posting a Jobsheet, minimising the number of clicks required before successfully posting it.
 
