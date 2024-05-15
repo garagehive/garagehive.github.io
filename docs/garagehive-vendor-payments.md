@@ -19,17 +19,17 @@ The first thing to do while paying the vendors is to generate an ageing accounts
 
    ![](media/garagehive-vendor-payments-aged-report4.png)
 
-3. Then from the vendor list, choose **Reports**, followed by **Financial Management** and then **Aged Accounts Payable**.
+2. Then from the vendor list, choose **Reports**, followed by **Financial Management** and then **Aged Accounts Payable**.
 
    ![](media/garagehive-vendor-payments-aged-report1.png)
 
-4. In the **Aged Accounts Payable** filter window, select the **Aged as Of** date, select **Ageing by** to be **Due Date** and **Period Length** to be **1M**.
-5. Select the **Print Details** slider to view the invoices for the Vendor and **Use External Document No.** slider to print the vendor’s document number.
-6. Click on Preview to preview the report.
+3. In the **Aged Accounts Payable** filter window, select the **Aged as Of** date, select **Ageing by** to be **Due Date** and **Period Length** to be **1M**.
+4. Select the **Print Details** slider to view the invoices for the Vendor and **Use External Document No.** slider to print the vendor’s document number.
+5. Click on Preview to preview the report.
 
    ![](media/garagehive-vendor-payments-aged-report2.png)
 
-7. The report will be previewed, and you can print it to use it on making payments to the vendors.
+6. The report will be previewed, and you can print it to use it on making payments to the vendors.
 
    ![](media/garagehive-vendor-payments-aged-report3.png)
 
@@ -59,11 +59,12 @@ The first option for making payments to vendors is through the **Payment Journal
 
    ![](media/garagehive-vendor-payments-payment-journal5.png)
 
-7. To assign a numbers (if there are no numbers) in **Document No.** column, select **Process**, followed by **Renumber Document Numbers**.
+7. To assign a numbers (if there are no numbers) in **Document No.** column, select **Home**, followed by **Renumber Document Numbers**.
 
    ![](media/garagehive-vendor-payments-payment-journal6.png)
 
-8. Select **Post/Print** from the menu bar and then **Post** to post the **Payment Journals**. To see if there are any errors in the posting, select **Preview Posting**.
+8. Select **Home** from the menu bar and then select the **Post** option from the split button dropdown menu to post the **Payment Journals**. 
+9. To see if there are any errors, in the split button dropdown menu, select **Preview Posting**.
 
    ![](media/garagehive-vendor-payments-payment-journal7.png)
 
@@ -76,7 +77,7 @@ The other option for making payments to vendors is from the Vendor Ledger Entrie
    ![](media/garagehive-vendor-payments-vendor-ledger-entries1.png)
 
 2. Hold down the **Ctrl** key and use your mouse to select all of the **Vendor Ledger Entries** for which you want to create a payment.
-3. Select **Process**, followed by **Create Payment**.
+3. Select **Home**, followed by **Create Payment**.
 
    ![](media/garagehive-vendor-payments-vendor-ledger-entries2.png)
 
@@ -85,7 +86,7 @@ The other option for making payments to vendors is from the Vendor Ledger Entrie
    ![](media/garagehive-vendor-payments-vendor-ledger-entries3.png)
 
 5. This opens the **Payment Journal** page with the payments that you selected to be paid.
-6. To Post the **Payment Journals**, select **Post/Print** from the menu bar and then **Post**.
+6. To Post the **Payment Journals**, select **Home** from the menu bar and then select the **Post** option from the split button dropdown menu to post the **Payment Journals**.
 
    ![](media/garagehive-vendor-payments-vendor-ledger-entries4.png)
 
