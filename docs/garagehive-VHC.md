@@ -93,7 +93,7 @@ After creating a VIE from the checklist, the status is **Awaiting Action**, to g
 
 [Go back to top](#top)
 
-### Adding customer authorisation and copy the authorised lines to Jobsheet
+### Adding customer Authorisation and Copy the Authorised Lines to Jobsheet
 You've already communicated with the customer and been advised on what work needs to be done at this point. The following step is to approve the document lines. There are two methods for authorising the document lines:
 1. The first is from the document lines:
    * Scroll to the right on the document until you reach the **Customer Authorised** column. Tick all of the lines that the customer has approved.
