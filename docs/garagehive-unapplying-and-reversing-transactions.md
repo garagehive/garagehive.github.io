@@ -12,7 +12,7 @@ You may have applied a payment to the wrong invoice, made a payment to the wrong
 
 ### Un-applying Transactions
 Un-applying payments means that you want to deallocate or unlink a transaction from a customer's invoice so that you can reallocate it to another one. To undo an applied transaction:
-1. Select the customer's list from the role centre, and then select the customer to whom the transaction was incorrectly applied.
+1. Select the customer's list from the Role Centre, and then select the customer to whom the transaction was incorrectly applied.
 
    ![](media/garagehive-unapplying-and-reversing-transactions1.png)
 
