@@ -3,6 +3,8 @@ layout: docs
 title: Using Online Documents in Estimates, Checklists and Vehicle Inspection Estimate
 ---
 
+<a name="top"></a>
+
 # Using Online Documents in Estimates, Checklists and Vehicle Inspections
 
 In this article, we'll take a look at how online documents are used and displayed in Estimates, checklists, Vehicle Inspection Estimates and Jobsheets. This will assist you in determining which document is the best for you to use the online documents feature.
@@ -26,6 +28,9 @@ If a customer has authorised the work, you can use the **Make Jobsheet** action 
 
    ![](media/garagehive-online-documents-using-in-estimates1.png)
 
+
+[Go back to top](#top)
+
 ### Using Online Documents in Checklists
 When the customer brings the vehicle to the garage for pre-booked work, the garage can have a policy of doing overall vehicle health check. In such a scenario, the **Checklist** should be created, which involves physically checking the vehicle, taking pictures of the faults, and adding technicians' comments. To share the Checklist online, open the document, select **Print/Send**, and then choose **Publish Online Document**.
 
@@ -36,6 +41,9 @@ As a result of the inspection, a report is created and can be sent to the custom
    ![](media/garagehive-online-documents-using-in-checklists2.png)
 
 After reviewing the checklist, the customer can **Request a Callback** if they have any questions or give the go-ahead to prepare a Vehicle Inspection Estimate.
+
+
+[Go back to top](#top)
 
 ### Using Online Documents in Vehicle Inspection Estimates
 When a **Checklist** is carried out and there are some previously unknown faults found, to prepare an Estimate for the work needed to fix them 
@@ -59,6 +67,9 @@ The customer can approve all of the items in a category or just some subitems. T
 
    ![](media/garagehive-online-documents-using-in-vehicle-inspection-estimate1.png)
 
+
+[Go back to top](#top)
+
 ### Using Online Documents in Jobsheets
 The customer has approved work, and you create a Jobsheet for those items. While working on the car additional work can be found that needs to be done and for this you can just add that work to the same Jobsheet and publish an online job authorization. To share the Jobsheet online, open the document, select **Print/Send**, and then choose **Publish Online Document**.
 
@@ -67,6 +78,9 @@ The customer has approved work, and you create a Jobsheet for those items. While
 This allows the customer to keep track of all approved items as well as any additional items that come up.
 
    ![](media/garagehive-online-documents-using-in-jobsheets2.png)
+
+
+[Go back to top](#top)
 
 <br>
 

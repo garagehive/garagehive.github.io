@@ -3,6 +3,8 @@ layout: docs
 title: Registering Customer Payments in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Registering Customer Payments in Garage Hive
 Other than using the **Cash Receipt Journal**, there is another method to receive payments in Garage Hive:
 1. Select the customer's list from the Role Centre, and then select the customer you want to receive the payment from the **Customer List**.
@@ -30,6 +32,8 @@ Other than using the **Cash Receipt Journal**, there is another method to receiv
 
    ![](media/garagehive-registering-customer-payments6.png)
 
+
+[Go back to top](#top)
 
 <br>
 
