@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: What are resource time registration entries and how can I change them?
+title: What are Resource Time Registration Entries and How Can I Modify Them?
 ---
 
 <a name="top"></a>
@@ -55,7 +55,7 @@ To view the original time before adjustments were made, personalise the table by
 
 This will display the original times alongside your modified times.
 
-   ![](media/garagehive-time-reg-entries-columns.png)
+![](media/garagehive-time-reg-entries-columns.png)
 
 
 [Go back to top](#top)
