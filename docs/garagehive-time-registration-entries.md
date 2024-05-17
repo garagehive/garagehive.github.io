@@ -55,7 +55,7 @@ To view the original time before adjustments were made, personalise the table by
 
 This will display the original times alongside your modified times.
 
-![](media/garagehive-time-reg-entries-columns.png)
+![](media/garagehive-time-reg-entries-addmorecolumns1.png)
 
 
 [Go back to top](#top)
