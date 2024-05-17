@@ -2,49 +2,61 @@
 layout: docs
 title: What are resource time registration entries and how can I change them?
 ---
-# What are resource time registration entries and can I modify them?
 
-To find your resource time registration entries please search for "Resource Time Reg. Entries"
+<a name="top"></a>
 
-![](media/garagehive-time-reg-entries-search1.png)
+## In this article
+1. [What are Resource Time Registration Entries](#what-are-resource-time-registration-entries)
+2. [How to Modify a Time Registration Entry](#how-to-modify-a-time-registration-entry)
+3. [How to View the Original Time Before Adjustments Were Made](#how-to-view-the-original-time-before-adjustments-were-made)
 
-Resource time registration entries is the table that holds all the information about your technicians clocking activity. Our reporting software will use this table to determine your technicians efficiencies and attendance.
+### What are Resource Time Registration Entries
+**Resource Time Registration Entries** is the table that contains all the information about your technicians' clocking activity. Our reporting software will use this table to assess your technicians' efficiency and attendance. The table stores the following records:
+
+   * Work time entries
+   * Idle allocations
+   * Jobsheet allocations
+   * Break time entries
+   * Standard events, such as housekeeping
+
+To find your resource time registration entries, choose the ![](media/search_icon.png) icon, enter **Resource Time Reg. Entries**, and select the related link.
+
+   ![](media/garagehive-time-reg-entries-search1.png)
+
+It is highly recommended to filter the columns by specific days and resources in order to view and modify the information. You can do this by right-clicking on the header of a column and selecting **filter**.
+
+   ![](media/garagehive-time-reg-entries2.png)
 
 
-The following records are stored here
-* Work time entries
-* Idle allocations
-* Jobsheet allocations
-* Break time entries
-* Standard events, such as housekeeping
+[Go back to top](#top)
 
-**It is highly recommend that you filter the columns to specific days and resources to help view and modify the information, you can do this by right clicking on the header of a column and selecting "filter"**
+### How to Modify a Time Registration Entry
+1. Select the time registration entry you wish to modify, then select the **Modify Date/Time** action in the menu bar. 
+
+   ![](media/garagehive-time-reg-entries-adjust.png)
+
+2. Adjust the **Time**. If this is the finished entry, you must also adjust the **Time Spent** option. Once you have adjusted the time, press **OK**. 
+
+   ![](media/garagehive-time-reg-entries-adjust1.png)
+
+3. Check the time registration entries to ensure you are satisfied with the adjustments you have made.
 
 
-![](media/garagehive-time-reg-entries2.png)
+[Go back to top](#top)
 
-This information can be modified by selecting **Process** followed by the **Modify Date/Time** button in the menu bar, please note you can only modify existing entries, you can't delete existing or add new entries manually. 
+### How to View the Original Time Before Adjustments Were Made
+To view the original time before adjustments were made, personalise the table by clicking on the **Settings** icon at the top right corner. Then, select **Personalise** and click on **+Field**. Drag and drop the following columns:
 
-# How to modify a time registration entry
+   * Original Date
+   * Original Time
+   * Original Time Spent
 
-1. Select the time registration entry you wish to modify, then select the "Modify Date/Time" button in the ribbon. 
+   ![](media/garagehive-time-reg-entries-addmorecolumns.png)
 
-![](media/garagehive-time-reg-entries-adjust.png)
+This will display the original times alongside your modified times.
 
-2. Adjust the time, if this is an ending entry, you must adjust the "Time Spent" option too. Once you have adjust the time press OK. Check the time registration entries to make sure you are happy with the adjustments that you have made. 
+   ![](media/garagehive-time-reg-entries-columns.png)
 
-# How can I see the original time before I adjusted it?
 
-We have added the option of additional columns allowing you to view the original un-adjusted times, simply right click on a column header and select 
+[Go back to top](#top)
 
-![](media/garagehive-time-reg-entries-addmorecolumns.png)
-
-Select the following options
-
-* Original Date
-* Original Time
-* Original Time Spent
-
-![](media/garagehive-time-reg-entries-columns.png)
-
-This will display the original times along side your modified times. 
