@@ -3,6 +3,8 @@ layout: docs
 title: Un-applying and Reversing Transactions
 ---
 
+<a name="top"></a>
+
 # Un-applying and Reversing Transactions
 You may have applied a payment to the wrong invoice, made a payment to the wrong customer, completed the wrong transaction to a customer, and so on; in all of these cases, Garage Hive provides a way to have the transactions corrected or reversed.
 
@@ -30,6 +32,9 @@ Un-applying payments means that you want to deallocate or unlink a transaction f
 
 5. You can now re-apply the entry by selecting another customer's invoice.
 
+
+[Go back to top](#top)
+
 ### Reversing Transactions
 
 {% include tip.html title="Note" text="You can only reverse entries that are posted from journals." %}
@@ -48,6 +53,8 @@ Reversing transactions means completely undoing the entry and removing it from t
 
    ![](media/garagehive-unapplying-and-reversing-transactions7.png)
 
+
+[Go back to top](#top)
 
 <br>
 
