@@ -17,37 +17,48 @@ title: Using Parts Sales Order in Garage Hive
 
 ### Creating a Parts Sales Order
 Here's how to create the **Sales Order** in Garage Hive:
-1. You can create a new **Sales Order** by selecting **Sales Orders** tile from the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Process** from the **Sales Quote** menu bar, followed by **Make Order**.
+1. You can create a new **Sales Order** by selecting **Sales Orders** tile from the **Parts Sales Admin** role centre, or by creating one from a [Sales Quote](garagehive-creating-sales-quote.html){:target="_blank"}; select **Home** from the **Sales Quote** menu bar, followed by **Make Order**.
+
+   ![](media/garagehive-parts-sales-order1.png)
+
 2. From the **Sales Order** list page, select **New** from the menu bar.
 
-   ![](media/garagehive-parts-sales-order1.gif)
+   ![](media/garagehive-parts-sales-order2.png)
 
 3. Enter the customer's name in the **Customer Name** field (if the order is new and not created from a sales quote). 
 4. Add the items for the parts ordered by the customer to the **Lines** sub-page.
 
-   ![](media/garagehive-parts-sales-order2.gif)
+   ![](media/garagehive-parts-sales-order3.png)
 
 5. Scroll down to **Invoice Print Options** and select the **Print Item No.** slider if you want to print the **Part/Item Numbers** in the invoice. **Part Numbers** will be printed in brackets in the invoice line description.
 
-   ![](media/garagehive-parts-sales-order2aa.gif)
+   ![](media/garagehive-parts-sales-order4.png)
 
-6. To change the default **Invoice Print Options** for all **Sales Order** documents, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales & Receivables Setup**, and select the related link. Select the **Print Item No.** slider from the **Document Print Option** FastTab.
+6. To change the default **Invoice Print Options** for all **Sales Order** documents, choose the ![](media/search_icon.png) icon in the top-right corner, enter **Sales & Receivables Setup**, and select the related link.
 
-   ![](media/garagehive-parts-sales-order2aaa.gif)
+   ![](media/garagehive-parts-sales-order5.png)
 
-7. The column **Unit Price (Calc.) Inc. VAT** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window. For example, you can enter a margin of 60 % for all items and so on.
+7. Select the **Print Item No.** slider from the **Document Print Option** FastTab.
 
-   ![](media/garagehive-parts-sales-order2a.gif)
+   ![](media/garagehive-parts-sales-order6.png)
 
-8. Select **Print/Send** from the menu bar, followed by **Email Proforma Invoice** to send the order confirmation to the customer.
+8. The column **Unit Price (Calc.) Inc. VAT** assists you in calculating the selling price and margin; click on the amount in the column, and enter the **Unit Price** or **Margin %** in the **Edit - Calc Price** window.
 
-   ![](media/garagehive-parts-sales-order3.gif)
+   ![](media/garagehive-parts-sales-order7.png)
+
+   For example, you can enter a margin of 60 % for all items and so on.
+
+      ![](media/garagehive-parts-sales-order8.png)
+
+9. Select **Print/Send** from the menu bar, followed by **Email Proforma Invoice** to send the order confirmation to the customer.
+
+   ![](media/garagehive-parts-sales-order9.png)
 
 
 [Go back to top](#top)
 
 ### Ship or Invoice the Parts Sales Order
-1. When you are ready to ship or invoice the order, select **Posting** from the menu bar and choose **Post and Print Invoice**, to post and print the invoice. Alternatively, if you only want to post the invoice without printing it, select **Post**.
+1. When you are ready to ship or invoice the order, select the **Post and Print Invoice** option from the **Take Payment** split button dropdown menu under **Home** in the menu bar, to post and print the invoice. Alternatively, if you only want to post the invoice without printing it, select **Post**.
 
    ![](media/garagehive-parts-sales-order-ship-or-invoice1.png)
 
@@ -77,7 +88,7 @@ To partially Ship some of the items:
 
    ![](media/garagehive-parts-sales-order-ship1.png)
 
-2. To post and print the invoice, select **Posting** from the menu bar and choose **Post and Print Invoice**. Alternatively, if you only want to post the invoice without printing it, select **Post**.
+2. To post and print the invoice, select the **Post and Print Invoice** option from the **Take Payment** split button dropdown menu under **Home** in the menu bar. Alternatively, if you only want to post the invoice without printing it, select **Post**.
 
    ![](media/garagehive-parts-sales-order-ship2.png)
 
@@ -121,11 +132,11 @@ If you want the shipment date to be set by default equal to the work date:
 
 ### Creating a Jobsheet from a Parts Sales Order
 1.  If a customer requests that the parts be fitted to the vehicle, you can generate a **Jobsheet** from the **Sales Order**. Enter the vehicle registration number in the **Vehicle Registration No.** field under the **Service** FastTab.
-2. Choose **Process** from the menu bar, followed by **Create Jobsheet**.
+2. Choose **Home** from the menu bar, followed by **Create Jobsheet**.
     
     {% include tip.html title="Note" text="If you continue without entering a Vehicle Registration No., the system will generate a dummy registration number that you can replace later." %}
 
-   ![](media/garagehive-parts-sales-order5.gif)
+   ![](media/garagehive-parts-sales-order-create-jobsheet5.png)
 
 
 [Go back to top](#top)
