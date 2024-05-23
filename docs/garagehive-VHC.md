@@ -127,7 +127,7 @@ You've already communicated with the customer and been advised on what work need
 
 ### How to Copy VIE Lines to an Estimate
 When you want to copy the lines from a VIE to an Estimate:
-1. Open the VIE from which you want to copy the lines from. Click on **Process** then select **Copy Lines to Estimate** from the dropdown menu.
+1. Open the VIE from which you want to copy the lines from. Click on **Home** then select **Copy Lines to Estimate** from the dropdown menu.
 
    ![](media/garagehive-copy-vie-lines-to-an-estimate1.png)
 

@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Invoice not of valid status for modification This document cannot be edited as it has a payment or credit note allocated to it.
+title: Invoice not of valid status for modification This document cannot be edited as it has a payment or credit note allocated to it
 ---
 
-#   Invoice not of valid status for modification This document cannot be edited as it has a payment or credit note allocated to it.  
+#   Invoice not of valid status for modification This document cannot be edited as it has a payment or credit note allocated to it  
 
 This error is most commonly seen when an invoice is manually created Xero instead of allowing GH to create the invoice via the integration. 
 

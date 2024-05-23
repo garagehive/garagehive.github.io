@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Email address must be valid.
+title: Email address must be valid
 ---
 
-#   Email address must be valid. 
+#   Email address must be valid 
 
 This error is most commonly seen when the email address in a customer card is not correct . 
 

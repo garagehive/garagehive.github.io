@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Account could not be found.
+title: Account could not be found
 ---
 
-#   Account could not be found. 
+#   Account could not be found 
 
 This error is most commonly seen when a payment was made in Garage Hive without a Payment Method code and means there is a problem with your setup as it should not be possible to do this, please contact support. 
 
