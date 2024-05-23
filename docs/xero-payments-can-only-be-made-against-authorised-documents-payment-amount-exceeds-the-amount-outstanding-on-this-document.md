@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Payments can only be made against Authorised documents Payment amount exceeds the amount outstanding on this document.
+title: Payments can only be made against Authorised documents Payment amount exceeds the amount outstanding on this document
 ---
 
-#   Payments can only be made against Authorised documents Payment amount exceeds the amount outstanding on this document.  
+#   Payments can only be made against Authorised documents Payment amount exceeds the amount outstanding on this document  
 
 This error is most commonly seen when an invoice is manually paid in Xero instead of allowing GH to pay the invoice via the integration. 
 

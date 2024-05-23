@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Another contact has this contact number. Please enter a different contact number
+title: Another contact has this contact number. Please enter a different contact number.
 ---
 
 ## Another contact has this contact number. Please enter a different contact number. 
