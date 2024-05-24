@@ -10,9 +10,10 @@ title: Setting Up and Using Emailing Feature in Garage Hive
    - [Microsoft office 365 email account setup](#microsoft-office-365-email-account-setup)
    - [Gmail email account setup](#gmail-email-account-setup)
 2. [Using the emailing feature](#using-the-emailing-feature)
-3. [Accessing email outbox](#accessing-email-outbox)
-4. [Accessing sent emails](#accessing-sent-emails)
-5. [View email logs for posted documents](#view-email-logs-for-posted-documents)
+3. [Adding Attachments](#adding-attachments)
+4. [Accessing email outbox](#accessing-email-outbox)
+5. [Accessing sent emails](#accessing-sent-emails)
+6. [View email logs for posted documents](#view-email-logs-for-posted-documents)
 
 ### Email setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
@@ -93,27 +94,27 @@ To set up a **Gmail email account:**
 
 ### Using the emailing feature
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
-1. To use the Email feature, go to the document's menu bar and select **Email** for Estimates, Vehicle Inspection Estimates, and Checklists, or **Email Invoice** for the Jobsheets.
+1. To use the Email feature, go to the document's menu bar; 
+      * Select **Print/Send** followed by **Email** for Estimates, Vehicle Inspection Estimates, and Checklists.
 
    ![](media/garagehive-email-feature1.png)
+
+      * Select **Print/Send** followed by **Email Invoice** or **Email Proforma Invoice** for the Jobsheets.
 
    ![](media/garagehive-email-feature2.png)
   
 2. When you select the email option, the document is automatically attached to the email. You can find it at the bottom of the page under the **Attachments** FastTab.
 
-   ![](media/garagehive-email-feature3.gif)
+   ![](media/garagehive-email-feature3.png)
 
 3. The email signature (which includes the company name, phone number, and email address) and the logo on the email message body are obtained from the system's **Company Information** page. You can update them by entering **Company Information** into the top right corner search icon and selecting the related link. Fields to update are: **Name**, **Phone Number**, **Email**, or **Picture**.
 
    ![](media/garagehive-email-feature4.gif)
 
 4. Under **Email Details** FastTab, enter the email address to send to in the **To** field and the subject of the email in the **Subject** field.
-
-   ![](media/garagehive-email-feature6.gif)
-
 5. You can now add the email **Message** body for the customer. You can format the message however you want by changing the different formats available at the bottom of the **Message** field, such as the font, font size, text colour, and so on.
 
-   ![](media/garagehive-email-feature7.gif)
+   ![](media/garagehive-email-feature7.png)
 
 6. To make it easier to manage the email **Message** body, create **Text Templates** that will allow you to reuse similar text across multiple emails that you send. Click on **Select Text Template** under the **Email Details** FastTab, then select **New** from the menu bar, enter the **Code** for the template (you can name it depending on what you put in the message body), select **Type** as **Email Body**, and then enter the **Message** body in the writing space under the **General** FastTab.
 
@@ -123,11 +124,19 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
    ![](media/garagehive-email-feature9.gif)
 
-8. You could attach a file to the email by selecting **Attach File**. When you're finished editing the email, select **Send Email** from the menu bar to send it.
+8. You could attach a file to the email by scrolling down to the **Attachments** FastTab and selecting either of the following options:
+   * **Add related documents** - You can attach related documents to the current document such as estimates, VI estimates, or Checklists.
+   * **Add files from default selection** - You can attach files stored in **Email Scenario Attachments**.
+   * **Add file** - You can attach various file types such as PDFs, Word documents, images, etc directly from your computer. 
+   * **Add file from source document** - You can add documents linked to the source document, if the document you are working on was created from another document.
 
-   ![](media/garagehive-email-feature10.gif)
+      ![](media/garagehive-email-feature9.png)
 
-9. If you want to save the email as a draft and return to it later, click the back button and choose **Keep as draft in Email Outbox**; otherwise, choose **Discard email**.
+9. When you're finished editing the email, select **Send Email** from the menu bar to send it.
+
+   ![](media/garagehive-email-feature10.png)
+
+1. If you want to save the email as a draft and return to it later, click the back button and choose **Keep as draft in Email Outbox**; otherwise, choose **Discard email**.
 
    ![](media/garagehive-email-feature10a.gif)
 
