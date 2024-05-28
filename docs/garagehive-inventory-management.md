@@ -32,12 +32,12 @@ Utilise the available Garage Hive reports to analyse item usage patterns. This w
 
    ![](media/garagehive-garagehive-inventory-management3.png)
 
-### 4. Suppliers Integration
+### 4. Use Suppliers Integrations
 Direct integration with suppliers can significantly improve the efficiency of managing item quantities. Garage Hive allows for seamless integration with suppliers, facilitating quick order placements and ensuring that stock levels are replenished in a timely manner. The supplier integration links are available in the documents under the **Parts** menu in the menu bar.
 
    ![](media/garagehive-garagehive-inventory-management4.png)
 
-### 5. Regular Physical Stock Takes
+### 5. Do Regular Physical Stock Takes
 Regular physical stock takes are crucial in helping verify the accuracy of the system's data, identify possible discrepancies, and adjust records accordingly. To learn more on how to do physical stock take, click [here](garagehive-doing-physical-stock-take.html){:target="_blank"}.
 
 
