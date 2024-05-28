@@ -70,7 +70,7 @@ There are two options for setting up the **Microsoft Office 365 email account**,
 
 #### Gmail email account setup
 To set up a **Gmail email account:**
-1. First you have to generate an **App Password**, from your [Google Account](https://myaccount.google.com/){:target="_blank"}. An App Password is a 16-digit passcode that gives a Garage Hive app permission to access your Google Account. App Passwords can only be used with accounts that have 2-Step Verification turned on, [read more](https://support.google.com/accounts/answer/185833?hl=en).
+1. First you have to generate an **App Password**, from your [Google Account](https://myaccount.google.com/){:target="_blank"}. An App Password is a 16-digit passcode that gives a Garage Hive app permission to access your Google Account. App Passwords can only be used with accounts that have 2-Step Verification turned on, [read more](https://support.google.com/accounts/answer/185833?hl=en){:target="_blank"}.
 1. From your google account, select **Security**, and under **Signing in to Google**, select **App Passwords.**
 1. At the bottom, choose **Select app** and select **Other (Custom name)**. Enter the name of the **App Password**, and click **Generate**.
 1. Copy the **App Password** generated in the yellow bar.
