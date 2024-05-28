@@ -15,7 +15,7 @@ When using the Autodata **Service Interval Matrix**, you may create a Vehicle In
 
    ![](media/garagehive-autodata-vehicle-inspection-checklist1.png)
 
-2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and re-enter the correct details in the document.
+2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and select the correct vehicle.
 
    ![](media/garagehive-autodata-repair-times3.png)
    

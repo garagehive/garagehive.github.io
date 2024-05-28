@@ -17,7 +17,7 @@ Auto selection from Autodata, is available for the Great Britain, Northern Irela
 
    ![](media/garagehive-autodata-service-intervals1.png)
 
-2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and re-enter the correct details in the document.
+2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and select the correct vehicle.
 
    ![](media/garagehive-autodata-service-intervals3.png)
 
