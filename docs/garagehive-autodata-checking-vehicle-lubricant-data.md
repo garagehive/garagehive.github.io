@@ -16,7 +16,7 @@ Aside from the engine oil, the lubricant data provides data for other lubricants
 
    ![](media/garagehive-autodata-lubricant-data1.png)
 
-2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and re-enter the correct details in the document.
+2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and select the correct vehicle.
 
    ![](media/garagehive-timing-belt-intervals4.png)
 

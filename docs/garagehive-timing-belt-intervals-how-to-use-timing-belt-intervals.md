@@ -18,21 +18,21 @@ To check the timing belt interval from the menu bar:
 
    ![](media/garagehive-timing-belt-intervals1.png)
 
-2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and re-enter the correct details in the document.
+2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and select the correct vehicle.
 
    ![](media/garagehive-timing-belt-intervals4.png)
 
-3. The following information is displayed in the pop-up **Timing Belt Intervals** information box:
-   * **Timing belt interval in Miles or Months** - This is based on the manufacturer's specifications, which were obtained from the **Autodata**.
-   * **Current mileage of the vehicle (miles)** - The mileage on the vehicle at the time of booking, as indicated on the document.
-   * **Current age of the vehicle (months)** - The age of the vehicle at the time of booking. 
-   * **Average miles per year** - This is calculated by dividing the vehicle's **current mileage** by its **current age**. 
-   * **Next recommended timing belt change date (in miles)** - Based on the manufacturer's recommended timing belt change interval in miles. 
-   * **Next Suggested Timing Belt Change Date (in Months)** - Based on the manufacturer's recommended timing belt change interval in months.
+3. The following information is displayed in the **Autodata Timing Belt Intervals** page:
+   * **Mileage**: The mileage of the vehicle at the time of booking, as indicated on the document.
+   * **Age in Months**: The age of the vehicle at the time of booking.
+   * **Average Annual Mileage (Miles)**: This is calculated by dividing the vehicle's current mileage by its current age.
+   * **Service Interval**: This is based on the manufacturer's specifications obtained from Autodata.
+   * **Calculated Next Service Date**: Suggested timing belt change service date based on the manufacturer's recommendation in miles or months.
+   * **Action**: By clicking on the action, you can set the timing belt service date as recommended in the Calculated Next Service Date field.
 
-   ![](media/garagehive-timing-belt-intervals2.png)
+      ![](media/garagehive-timing-belt-intervals2.png)
 
-4. Choose your preferred date from the suggested timing belt change dates in miles or months, and then click **OK**. The selected date is added into the **Timing Belt Due Date** field in the vehicle reminder dates section.
+4. Choose your preferred date from the calculated timing belt service dates in miles or months, and click on the **Set This Due Date** in the Action column. The selected date is added into the **Timing Belt Due Date** field in the vehicle reminder dates section.
 
    ![](media/garagehive-timing-belt-intervals5.png)
 
