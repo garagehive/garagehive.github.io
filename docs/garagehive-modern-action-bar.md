@@ -8,7 +8,7 @@ title: Modern Action Bar Improvements in Garage Hive
 # Modern Action Bar Improvements in Garage Hive
 The modern action bar was introduced as a preview in the previous versions of Business Central, but now it's being made available to all customer in the new releases, [read more](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/modern-action-bar){:target="_blank"}. It focuses on reducing clutter by consolidating related actions and eliminating redundancy. Key features include: 
 
-### 1. Introduction of Split Buttons for Easier Access to Frequently used Actions
+### 1. Introduction of Split Buttons for Easier Access to Frequently Used Actions
 The split button allows the users to quickly access the most commonly used action from the action bar while also providing a dropdown menu with additional, related actions that might be used less frequently. 
 
    - Previously in a Purchase Order:
@@ -33,7 +33,7 @@ In the Modern Action bar, the Process tab has been renamed to Home to suggest a 
 
    ![](media/garagehive-modern-action-bar5.png)
 
-### 4. Presentation Document Pages in a Pinned State by Default
+### 4. Presentation of Document Pages in a Pinned State by Default
 The action bar at the top of pages contains actions related to the page you are viewing. This bar can be either expanded ("pinned") or collapsed. When the action bar is in a pinned state, all actions and menus are fully visible and accessible with a single click, without the need to expand the action bar. 
 
    ![](media/garagehive-modern-action-bar6.png)
