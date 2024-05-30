@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: DRAFT* - Modern Action Bar Improvements in Garage Hive
+title: Modern Action Bar Improvements in Garage Hive
 ---
 
 <a name="top"></a>
