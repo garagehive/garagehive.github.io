@@ -32,7 +32,7 @@ To check the timing belt interval from the menu bar:
 
       ![](media/garagehive-timing-belt-intervals2.png)
 
-4. The red flag indicates that the suggested timing belt service date is applicable for countries with high levels of dust.
+4. The red flag indicates that the suggested **Service Interval** is applicable for countries with high levels of dust.
 
    ![](media/garagehive-timing-belt-intervals7.png)
 
