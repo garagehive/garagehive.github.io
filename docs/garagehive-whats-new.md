@@ -6,6 +6,30 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 30th May 2024
+* Added limitations for the **Change Accountancy Setup** slider in the user card.
+
+   ![](media/garagehive-change-accountancy-setup.png)
+
+* Added the Resources check before the error page when posting the Jobsheet.
+
+   ![](media/garagehive-resource-check.png)
+
+* Improved the **Autodata Timing Belt Lookup** feature.
+
+   ![](media/garagehive-autodata-timing-belt-lookup.png)
+
+* Created the **Calculated Availability** field for **Line Checker** to show a warning triangle when the calculation of the quantity in the sum below is less than zero.
+   
+   = “Qty. in stock” - "Qty. in Unposted Jobsheets" - “Qty. in Unposted Sales Docs.” + “Qty in Unposted Sales Credit Memo” + Qty. in Unposted Return Jobs"
+
+     ![](media/garagehive-calculated-availability.png)
+
+* Added the **Add Related Documents** action to the emailing feature, allowing selection of attachments from other documents when emailing a document.
+
+   ![](media/garagehive-add-related-documents.png)
+
+
 ### 15th May 2024
 * Added the ability to send out questions to customers prior to their visit, in order to collect more information about the job in advance, [read more](garagehive-diagnostic-questionnaire.html){:target="_blank"}.
 
