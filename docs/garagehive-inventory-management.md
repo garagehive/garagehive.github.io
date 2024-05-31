@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Inventory Management in Garage Hive
+title: Inventory Management in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Inventory Management in Garage Hive
 Managing inventory in Garage Hive involves ensuring that item quantities are accurately tracked based on purchases, current stock, and items that have been signed out in documents. This process ensures that there are enough items available to issue out and that document posting is not affected. Here are some ways to manage the inventory:
