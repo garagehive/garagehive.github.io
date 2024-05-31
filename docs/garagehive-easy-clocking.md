@@ -3,21 +3,21 @@ layout: docs
 title: Easy Clocking Functionality 
 ---
 
-#   Easy Clocking 
+<a name="top"></a>
 
-{% include youtube.html id="FKGxkYSX8bs" %}
+# Easy Clocking Functionality
+Easy Clocking is where the technician will work for the majority of the time. The technician will use Easy Clocking for most of his daily tasks, such as:
 
-Easy Clocking is where the Technician will work from the majority of the time. He will use Easy Clocking for most of his daily tasks such as: -
-
-*   Clocking in/out of work. 
-*   Viewing their tasks for the day. 
-*   Clocking on/off jobs. 
-*   Clocking on/off breaks. 
-*   Being able to view which job he is currently clocked on. 
+   * Clocking in and out of work
+   * Viewing their tasks for the day
+   * Clocking on and off jobs
+   * Clocking on and off breaks
+   * Being able to view which job they are currently clocked on
+   * Adding comments to jobs, with the ability to mark them for attention or print on document
 
 ![](media/garagehive-easy-clocking1.png)
 
-###    Within the Easy Clocking Tab there are several options: -  
+### Within the Easy Clocking Tab there are several options: -  
 
 ![](media/garagehive-easy-clocking2.png)
 
@@ -63,6 +63,13 @@ They will see their current task as being on break and the job they were on. **T
 
 
 ### D.  **Select Existing Jobsheet** - A technician can select a job to clock on themselves. This will be useful if a technician wants to clock onto another job to help another technician.
+
+
+[Go back to top](#top)
+
+### **See Also**
+
+[Video: How to use the technicians Device on Garage Hive](https://www.youtube.com/watch?v=FKGxkYSX8bs){:target="_blank"} \
 
 
 

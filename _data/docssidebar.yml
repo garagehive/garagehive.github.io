@@ -264,6 +264,8 @@
       url: /docs/garagehive-creating-a-placeholder-item.html    
     - name: How to setup Non Inventory Items 
       url: /docs/garagehive-non-inventory.html
+    - name: How to Manage Inventory
+      url: /docs/garagehive-inventory-management.html
     - name: How to View Item History from a Document
       url: /docs/garagehive-how-to-view-item-history-from-a-document.html
     - name: How to Import Catalogue Items with Prices
