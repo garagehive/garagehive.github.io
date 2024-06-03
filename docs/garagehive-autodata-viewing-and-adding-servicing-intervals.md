@@ -5,6 +5,8 @@ title: Viewing and Adding Servicing Intervals Data
 
 <a name="top"></a>
 
+# Viewing and Adding Servicing Intervals Data
+
 Servicing intervals are the recommended number of months or miles between vehicle services, whichever comes first. Autodata integration provides necessary data for vehicle servicing.
 
 ## In this article
@@ -13,7 +15,7 @@ Servicing intervals are the recommended number of months or miles between vehicl
 
 ### Auto Selection of Service Intervals Data From Autodata
 Auto selection from Autodata, is available for the Great Britain, Northern Ireland and Ireland Markets. To view and add the data:
-1. Open the Jobsheet or document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) for the vehicle and click on **Lookup** followed by **Service Interval Matrix** in the menu bar.
+1. Open the document (can be a Jobsheet, Estimate, or Vehicle Inspection Estimate) for the vehicle and click on **Lookup** followed by **Service Interval Matrix** in the menu bar.
 
    ![](media/garagehive-autodata-service-intervals1.png)
 
@@ -55,7 +57,7 @@ Manual selection can be used to get data from Autodata for any vehicle and is no
 
    ![](media/garagehive-autodata-service-intervals9.png)
 
-4. Then, select the appropriate option depending on the **VIN** of the vehicle.
+4. Then, select the appropriate option for the vehicle.
 
    ![](media/garagehive-autodata-service-intervals10.png)
 

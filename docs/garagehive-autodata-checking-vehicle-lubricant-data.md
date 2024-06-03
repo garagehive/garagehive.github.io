@@ -5,6 +5,8 @@ title: Checking Vehicle Lubricant's Data
 
 <a name="top"></a>
 
+# Checking Vehicle Lubricant's Data
+
 Aside from the engine oil, the lubricant data provides data for other lubricants used in the vehicle. The information includes the type of oil used and the capacity that will be used.
 
 ## In this article
@@ -41,7 +43,7 @@ Manual selection can be used to get data from Autodata for any vehicle and is no
 
    ![](media/garagehive-autodata-repair-times9.png)
 
-4. Then, select the appropriate option depending on the **VIN** of the vehicle.
+4. Then, select the appropriate option for the vehicle.
 
    ![](media/garagehive-autodata-repair-times10.png)
 
