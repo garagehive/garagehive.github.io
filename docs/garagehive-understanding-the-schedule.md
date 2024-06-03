@@ -312,7 +312,10 @@ When a day in the schedule is blocked, it prevents any new allocations from bein
 
    ![](media/garagehive-fully-booked-slider.png)
 
-2. This will grey out the diary where there is no allocation. The existing allocations in the schedule can be modified.
+2. This will grey out the diary where there is no allocation.
+
+{% include tip.html title="Note" text="New allocations can be made for existing jobs." %}
+The existing allocations in the schedule can be modified.
 
 <br>
 
