@@ -5,6 +5,8 @@ title: How to Use the Timing Belt Intervals Feature
 
 <a name="top"></a>
 
+# How to Use the Timing Belt Intervals Feature
+
 Depending on the make and model of the vehicle, the timing belt should be replaced at a specific interval. It is critical that you keep the vehicle owner informed at the appropriate time.
 
 ## In this article
@@ -72,7 +74,7 @@ Manual selection can be used to get data from Autodata for any vehicle and is no
 
    ![](media/garagehive-autodata-repair-times9.png)
 
-4. Then, select the appropriate option depending on the **VIN** of the vehicle.
+4. Then, select the appropriate option for the vehicle.
 
    ![](media/garagehive-autodata-repair-times10.png)
 
