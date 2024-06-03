@@ -159,7 +159,18 @@ To manage **Data Permissions** for a user:
    ![](media/garagehive-user-management15.png)
 
 3. You can enable the following **Data Permissions** for a user:
-   * **Change Accountancy Setup** - This should never be enabled unless in consultation with the Garage Hive support team.
+      * **Change Accountancy Setup** - If a user's **Change Accountancy Setup** slider is enabled, they can change:
+         - General Ledger Setup
+         - General Posting Setup
+         - VAT Posting Setup
+         - Inventory Posting Setup
+         - Gen. Business Posting Group
+         - Gen. Product Posting Group
+         - VAT Business Posting Group
+         - VAT Product Posting Group
+         - Customer Posting Group
+         - Vendor Posting Group
+         - Inventory Posting Group
    * **Change Customer Credit Limit** - When this is enabled, the user can change the **Credit Limit** field in the Customer Card, which is located under the **General** FastTab.
          
       ![](media/garagehive-user-management16.png)
