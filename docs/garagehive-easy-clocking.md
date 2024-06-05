@@ -28,7 +28,7 @@ ___
 
       ![](media/garagehive-easy-clocking2.png)
 
-   - **My Current Status** - This is the current status that the technician is working on with the following control:
+   - **My Current Tasks** - This is the current tasks that the technician is working on with the following controls:
 
       ⏸ - To place an allocation on hold. 
 
@@ -58,11 +58,20 @@ ___
 
    - **On Break** - By pressing this button the technician will automatically pause the allocation he is on and clock them on to a break. 
    - They will see their current task as being on break and the job they were on.
-   - **Note:** To resume the job they were press the :ballot_box_with_check: against the Break and the :arrow_forward: on the job they want to resume.** 
+      **Note:** To resume the job they were press the :ballot_box_with_check: against the Break and the :arrow_forward: on the job they want to resume.** 
 
       ![](media/garagehive-easy-clocking6.png)
 
    - **Select Existing Jobsheet** - A technician can select a job to clock on themselves. This will be useful if a technician wants to clock onto another job to help another technician.
+   - **Adding comments to jobs** - To add a comment in a Jobsheet, click on **My Tasks** and then select **Open Jobsheet**. Scroll down on the Jobsheet and choose **Show Comments**. Then, click on the **+** sign at the bottom to add a comment.
+
+      ![](media/garagehive-easy-clocking8.png)
+
+   - After adding the comment, you can mark it for attention of the Service Advisor, or mark it to be printed on the document using the tick boxes **Attention** or **Print on Document** under the comment.
+
+      ![](media/garagehive-easy-clocking9.png)
+
+
 
 
 [Go back to top](#top)
