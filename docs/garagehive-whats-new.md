@@ -7,7 +7,7 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 30th May 2024
-* Added limitations for the **Change Accountancy Setup** slider in the user card. If a user's **Change Accountancy Setup** slider is enabled, they can change:
+* Added limitations and restrictions for the **Change Accountancy Setup** slider in the user card. If a user's **Change Accountancy Setup** slider is enabled, they can change:
    - General Ledger Setup
    - General Posting Setup
    - VAT Posting Setup
