@@ -34,7 +34,7 @@ To check the timing belt interval from the menu bar:
 
       ![](media/garagehive-timing-belt-intervals2.png)
 
-4. The warning triangle indicates that the suggested **Service Interval** is applicable for countries with high levels of dust.
+4. The information icon (ℹ️) indicates that the suggested **Service Interval** is applicable for countries with high levels of dust when clicked.
 
    ![](media/garagehive-timing-belt-intervals7.png)
 
