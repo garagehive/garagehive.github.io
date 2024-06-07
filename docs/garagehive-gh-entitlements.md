@@ -12,6 +12,7 @@ GH Entitlements, in Garage Hive, are the services that a customer is entitled to
 1. [Assigning GH Entitlements to Companies](#assigning-gh-entitlements-to-companies)
 2. [Assigning GH Entitlements to Locations](#assigning-gh-entitlements-to-locations)
 3. [Assigning GH Entitlements to Users](#assigning-gh-entitlements-to-users)
+4. [Reviewing Over Assigned GH Entitlements](#reviewing-over-assigned-gh-entitlements)
 
 ### Assigning GH Entitlements to Companies
 To assign GH Entitlements to companies in your system, follow these steps if your system is licensed for multiple companies:
@@ -82,6 +83,34 @@ To assign GH Entitlements to Users in your system, follow these steps if your sy
 6. If you want to remove an assignment from a user, select the user from the list, click on **Manage GH Entitlements**, choose the component in which the user is assigned, and then select **Remove** from the menu bar.
 
    ![](media/garagehive-gh-entitlement-users5.png)
+
+
+[Go back to top](#top)
+
+### Reviewing Over Assigned GH Entitlements
+If you have assigned more GH Entitlements to users than are available, you will receive a notification on your Role Centre stating '*You have over assigned GH Entitlements. Please review and adjust the GH Entitlements.*'
+
+   ![](media/garagehive-gh-entitlement-users6.png)
+
+1. Click on the **Open GH Entitlements** action in the notification to open the list of GH Entitlements available in your system. Over-assigned GH entitlements will be highlighted in red in the available and assigned columns.
+
+   ![](media/garagehive-gh-entitlement-users7.png)
+
+2. Click on the **Component Description** of the GH Entitlement you wish to review to open it.
+3. In the page that opens, from the menu bar, select **Home**, followed by **Manage GH Entitlements**.
+
+   ![](media/garagehive-gh-entitlement-users9.png)
+
+4. Select the GH Entitlements highlighted in red, and choose **Remove** from the menu bar. Repeat this process for all the GH Entitlements highlighted in red.
+
+   ![](media/garagehive-gh-entitlement-users10.png)
+
+5. This will resolve the issue of over-assigning GH entitlements.
+
+
+
+   
+
 
 
 <br>

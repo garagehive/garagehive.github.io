@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 7th June 2024
+* Added the **Search Vehicle By Engine Code (Autodata)** feature in the documents (Jobsheet, Service Estimate, and Vehicle Inspection Estimates), [read more](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html#auto-selection-of-vehicle-service-schedules-and-repair-times-using-engine-code-from-autodata){:target="_blank"}.
+
+   ![](media/garagehive-vehicle-search-engine-code.png)
+
 ### 30th May 2024
 * Added limitations and restrictions for the **Change Accountancy Setup** slider in the user card. If a user's **Change Accountancy Setup** slider is enabled, they can change:
    - General Ledger Setup
