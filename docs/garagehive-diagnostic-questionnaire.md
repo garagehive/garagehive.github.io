@@ -53,7 +53,11 @@ To send the diagnostic questionnaire to the customer:
 
    ![](media/garagehive-send-diagnostic-questionanaires2.png)
 
-3. When the questionnaire is sent to the customer, a comment is added to the **Comments** FastTab.
+3. Select the **Notification Type** - it can be **SMS**, **Email**, or both. Then, confirm or enter the **Email** or **Mobile Phone No.** to send the questionnaire to the customer. Click **OK**.
+
+   ![](media/garagehive-send-diagnostic-questionanaires4.png)
+
+4. When the questionnaire is sent to the customer, a comment is added to the **Comments** FastTab.
 
    ![](media/garagehive-send-diagnostic-questionanaires3.png)
 
