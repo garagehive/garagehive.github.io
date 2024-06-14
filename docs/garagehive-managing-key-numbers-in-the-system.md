@@ -3,17 +3,19 @@ layout: docs
 title: Managing Key Numbers in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Managing Key Numbers in Garage Hive
 
 The system's key numbers functionality is used to reference the vehicle key numbers with the jobsheet. This ensures that the technicians can quickly and easily focus on incoming jobs without being disrupted in their workflow. The system allows you to match the vehicle key number to the jobsheet for the vehicle.
 
 ## In this article
 
-1. [Enabling key numbers functionality](#enabling-key-numbers-functionality)
-2. [How to use key numbers from the jobsheet](#how-to-use-key-numbers-from-the-jobsheet)
-3. [How to use key numbers from the purchase order](how-to-use-key-numbers-from-the-purchase-order)
+1. [Enabling Key Numbers Functionality](#enabling-key-numbers-functionality)
+2. [How to Use Key Numbers from the Jobsheet](#how-to-use-key-numbers-from-the-jobsheet)
+3. [How to Use Key Numbers from the Purchase Order](#how-to-use-key-numbers-from-the-purchase-order)
 
-### Enabling key numbers functionality
+### Enabling Key Numbers Functionality
 Normally, the **Key Tag Text** at the **General** FastTab is the only field on the jobsheet; however, when the key numbers functionality is enabled, a new field **Key Tag No.** is added.
 
 ![](media/garagehive-managing-key-numbers1.png)
@@ -36,7 +38,10 @@ To enable the key numbers functionality, follow these steps:
 
 {% include tip.html title="Note" text="In the future, the Parts Bin feature will be developed independently to accommodate garages with more bins than key tags." %}
 
-### How to use key numbers from the jobsheet
+
+[Go back to top](#top)
+
+### How to Use Key Numbers from the Jobsheet
 To begin using the **Key Tag No.** field, ensure that you have added all of the key numbers from the key tags list that you have in your garage. To accomplish this, follow these steps:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Key Tags** and select the related link.
 2. The window that appears displays a list of all the key tags that have already been added, along with the details of where they have been assigned.
@@ -62,7 +67,10 @@ To begin using the **Key Tag No.** field, ensure that you have added all of the 
 
 {% include tip.html title="Note" text="A key number cannot be assigned to more than one jobsheet; doing so will result in an error from the system." %}
 
-### How to use key numbers from the purchase order
+
+[Go back to top](#top)
+
+### How to Use Key Numbers from the Purchase Order
 If the **Use Key Tags** option is selected on the **Service Mgt. Setup GH** page under the **Use Parts Bin Catalogue** field, the key numbers functionality can be used in purchase orders. When this option is enabled, the purchase order will include the field **Jobsheet Key Tag No.**.
 
 ![](media/garagehive-managing-key-numbers10.gif)
@@ -74,3 +82,6 @@ As a result, the **Jobsheet Key Tag No.** field displays the linked jobsheet's k
 If the vehicle has not yet arrived and the jobsheet is available, you can assign a key number from the purchase order by first linking the purchase order to the jobsheet, then clicking the ellipsis (...) at the end of the **Jobsheet Key Tag No.** field and selecting the key number.
 
 ![](media/garagehive-managing-key-numbers12.gif)
+
+
+[Go back to top](#top)

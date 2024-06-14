@@ -3,6 +3,8 @@ layout: docs
 title: Installing the Power BI App on Business Central Online
 ---
 
+<a name="top"></a>
+
 > **Important:**
 > 
 > Before installing the **Power BI App**, you should first setup your **Average Labour Rate** in Garage Hive. - [How to set your **Average Labour Rate**](https://docs.garagehive.co.uk/docs/garagehive-labour-rate.html "Set Average Labour Rate"){:target="_blank"}.
@@ -69,6 +71,8 @@ To do this:
 
 ![](media/powerbi-admin-install-template-apps-cloud.png)
 
+
+[Go back to top](#top)
 
 <br>
 
