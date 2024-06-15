@@ -35,21 +35,22 @@ In the following list, please select the current system that you are using to vi
 1. [MAM Software](#mam-software)
 2. [Techman](#techman)
 3. [GA3](#ga3)
-4. [Auto In Touch](#auto-in-touch)
-5. [Apex RMS](#apex-rms)
-6. [CAM Systems](#cam-systems)
-7. [CarSys Software](#carsys-software)
-8. [Click Dealer](#click-dealer)
-9. [Dragon 2000](#dragon-2000)
-10. [Garage Manager](#garage-manager)
-11. [Garage Data Systems](#garage-data-systems)
-12. [Gemini Systems](#gemini-systems)
-13. [GS Onestop](#gs-onestop)
-14. [Motasoft](#motasoft)
-15. [MOT Manager](#mot-manager)
-16. [Onyx Garage Invoice System](#onyx-garage-invoice-system)
-17. [Pinnacle DMS by Pinewood](#pinnacle-dms-by-pinewood)
-18. [TyreSoft](#tyresoft)
+4. [GA4](#ga4)
+5. [Auto In Touch](#auto-in-touch)
+6. [Apex RMS](#apex-rms)
+7. [CAM Systems](#cam-systems)
+8. [CarSys Software](#carsys-software)
+9. [Click Dealer](#click-dealer)
+10. [Dragon 2000](#dragon-2000)
+11. [Garage Manager](#garage-manager)
+12. [Garage Data Systems](#garage-data-systems)
+13. [Gemini Systems](#gemini-systems)
+14. [GS Onestop](#gs-onestop)
+15. [Motasoft](#motasoft)
+16. [MOT Manager](#mot-manager)
+17. [Onyx Garage Invoice System](#onyx-garage-invoice-system)
+18. [Pinnacle DMS by Pinewood](#pinnacle-dms-by-pinewood)
+19. [TyreSoft](#tyresoft)
 
 ### MAM Software
    * **Phone** - [**01226352904**](tel:01226352904) 
@@ -85,7 +86,7 @@ To obtain the correctly formatted data from GA3 for us to import into Garage Hiv
 
 ### GA4
 
-![](media/ga4.png)
+![](media/ga-4.png)
 
 To export data in CSV format from GA4, go to the GA4 settings page. Under the **Documents (All)** tab, select **All Invoices**. Under **Customers**, **Vehicles**, and **Suppliers**, select **Export All** (refer to the image above). We will then be able to import this data into Garage Hive.
 
