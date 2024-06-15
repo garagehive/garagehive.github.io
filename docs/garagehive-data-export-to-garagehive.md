@@ -85,7 +85,7 @@ To obtain the correctly formatted data from GA3 for us to import into Garage Hiv
 
 ### GA4
 
-   ![](media/ga4.png)
+![](media/ga4.png)
 
 To export data in CSV format from GA4, go to the GA4 settings page. Under the **Documents (All)** tab, select **All Invoices**. Under **Customers**, **Vehicles**, and **Suppliers**, select **Export All** (refer to the image above). We will then be able to import this data into Garage Hive.
 
