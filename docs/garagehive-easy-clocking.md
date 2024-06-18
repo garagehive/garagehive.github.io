@@ -78,7 +78,7 @@ ___
 
 ### **See Also**
 
-[Video: How to use the technicians Device on Garage Hive](https://www.youtube.com/watch?v=FKGxkYSX8bs){:target="_blank"} \
+[Video: How to use the technicians Device on Garage Hive](https://www.youtube.com/watch?v=FKGxkYSX8bs){:target="_blank"}
 
 
 

@@ -13,8 +13,8 @@
       url: /docs/garagehive-create-a-booking.html
     - name: Create an Estimate
       url: /docs/garagehive-create-an-estimate.html
-    - name: Device Users
-      url: /docs/garagehive-device-user.html
+    - name: Easy Clocking Functionality
+      url: /docs/garagehive-easy-clocking.html
     - name: How to Use Comments
       url: /docs/garagehive-comments-extended.html 
     - name: Vehicle Inspections
@@ -322,8 +322,6 @@
 - name: Technicians Operations
   url: "#"
   subitems:
-    - name: Device Users
-      url: /docs/garagehive-device-user.html
     - name: Easy Clocking
       url: /docs/garagehive-easy-clocking.html
     - name: Vehicle Inspections
