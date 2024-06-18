@@ -134,7 +134,6 @@ Garage Hive allows you to export your data to Sage Accounting; you can export th
 
 [Video: Garage Hive Integration with Sage Accounting](https://www.youtube.com/watch?v=-UMuQjqTgmQ){:target="_blank"} \
 [Accounting System Integrations](garagehive-external-accountancy-integration.html){:target="_blank"} \
-[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"} \
-[How to Import Your Exported Data Into Sage Accounting](garagehive-import-exported-data-to-sage-accounting.html){:target="_blank"}
+[How to Export to Your External Accountancy System](garagehive-finance-accountancy-export.html){:target="_blank"}
 
 
