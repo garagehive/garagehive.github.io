@@ -55,5 +55,4 @@ To understand how these transactions are imported into your accountancy software
 
 [Accountancy System Integrations](garagehive-external-accountancy-integration.html){:target="_blank"} \
 [How to Import Your Exported Data Into Sage 50 Accounts](garagehive-import-exported-data-to-sage-50-accounts.html){:target="_blank"} \
-[How to Import Your Exported Data Into Sage Accounting](garagehive-import-exported-data-to-sage-accounting.html){:target="_blank"} \
 [How to Import Your Exported Data Into QuickBooks Online](garagehive-import-exported-data-to-quickbooks-online.html){:target="_blank"}
