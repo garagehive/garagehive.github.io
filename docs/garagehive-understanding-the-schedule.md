@@ -308,13 +308,15 @@ To add an allocation type in the schedule:
 
 ### Block Days from Booking in the Schedule
 When a day in the schedule is blocked, it prevents any new allocations from being added. To block out a day in the schedule:
+
+  {% include tip.html title="Note" text="New allocations can be made for existing jobs." %}
+
 1. Open the schedule in your system, and enable the **Fully Booked** slider from the header.
 
    ![](media/garagehive-fully-booked-slider.png)
 
 2. This will grey out the diary where there is no allocation.
 
-{% include tip.html title="Note" text="New allocations can be made for existing jobs." %}
 The existing allocations in the schedule can be modified.
 
 <br>
