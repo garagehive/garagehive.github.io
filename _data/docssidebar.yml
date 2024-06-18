@@ -480,8 +480,6 @@
       url: /docs/garagehive-finance-accountancy-export.html
     - name: How to Import Your Exported Data Into Sage 50 Accounts
       url: /docs/garagehive-import-exported-data-to-sage-50-accounts.html
-    - name: How to Import Your Exported Data Into Sage Accounting
-      url: /docs/garagehive-import-exported-data-to-sage-accounting.html
     - name: How to Import Your Exported Data Into QuickBooks Online
       url: /docs/garagehive-import-exported-data-to-quickbooks-online.html
     - name: Setting Up Payment by Card Terminal
