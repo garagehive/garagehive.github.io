@@ -31,7 +31,7 @@ The following is a list of all new Garage Hive features and updates:
 
    ![](media/garagehive-resource-check.png)
 
-* Improved the **Autodata Timing Belt Lookup** feature.
+* Improved the **Autodata Timing Belt Lookup** feature, [read more](garagehive-timing-belt-intervals-how-to-use-timing-belt-intervals.html){:target="_blank"}.
 
    ![](media/garagehive-autodata-timing-belt-lookup.png)
 
@@ -41,7 +41,7 @@ The following is a list of all new Garage Hive features and updates:
 
      ![](media/garagehive-calculated-availability.png)
 
-* Added the **Add Related Documents** action to the emailing feature, allowing selection of attachments from other documents when emailing a document.
+* Added the **Add Related Documents** action to the emailing feature, allowing selection of attachments from other documents when emailing a document, [read more](garagehive-using-emailing-feature.html#using-the-emailing-feature){:target="_blank"}.
 
    ![](media/garagehive-add-related-documents.png)
 
