@@ -10,10 +10,10 @@ title: Checking Vehicle Lubricant's Data
 Aside from the engine oil, the lubricant data provides data for other lubricants used in the vehicle. The information includes the type of oil used and the capacity that will be used.
 
 ## In this article
-1. [Auto Selection of Vehicle Lubricant Data From Autodata](#auto-selection-of-vehicle-lubricant-data-from-autodata)
-2. [Manual Selection of Vehicle Lubricant Data From Autodata](#manual-selection-of-vehicle-lubricant-data-from-autodata)
+1. [Auto Selection of the Vehicle](#auto-selection-of-the-vehicle)
+2. [Manual Selection of the Vehicle](#manual-selection-of-the-vehicle)
 
-### Auto Selection of Vehicle Lubricant Data From Autodata
+### Auto Selection of the Vehicle
 1. Select **Lookup** and then click on **Lubricants (Autodata)** from the menu bar.
 
    ![](media/garagehive-autodata-lubricant-data1.png)
@@ -29,7 +29,7 @@ Aside from the engine oil, the lubricant data provides data for other lubricants
 [Go back to top](#top)
 
 
-### Manual Selection of Vehicle Lubricant Data From Autodata
+### Manual Selection of the Vehicle
 Manual selection can be used to get data from Autodata for any vehicle and is not specific to any market. To view and add the data using manual selection:
 1. If the vehicle registration is not automatically detected, a pop-up window will appear. Select **Other** and then click **OK** to choose the vehicle make and model from Autodata.
 

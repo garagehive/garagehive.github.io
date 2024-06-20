@@ -6,8 +6,8 @@ title: Viewing Vehicle Engine Oil's Data
 <a name="top"></a>
 
 ## In this article
-1. [Auto Selection of Vehicle Engine Oil Data From Autodata](#auto-selection-of-vehicle-engine-oil-data-from-autodata)
-2. [Manual Selection of Vehicle Engine Oil Data From Autodata](#manual-selection-of-vehicle-engine-oil-data-from-autodata)
+1. [Auto Selection of the Vehicle](#auto-selection-of-the-vehicle)
+2. [Manual Selection of the Vehicle](#manual-selection-of-the-vehicle)
 
 ### Auto Selection of Vehicle Engine Oil Data From Autodata
 In this action, the autodata provides the engine oil data that is required before refilling or changing the oil.
