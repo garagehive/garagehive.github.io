@@ -1,19 +1,19 @@
 ---
 layout: docs
-title: Checking Servicing Intervals and Adding Repair Times Using Engine Code
+title: Searching for Vehicle, Checking Servicing Intervals and Adding Repair Times Using Engine Code
 ---
 
 <a name="top"></a>
 
-# Checking Servicing Intervals and Adding Repair Times Using Engine Code
+# Searching for Vehicle, Checking Servicing Intervals and Adding Repair Times Using Engine Code
 
 If you need to add specific servicing intervals and repair times in a Jobsheet using the vehicle's engine code, you can check the details from the Jobsheet using the engine code.
 
 ## In this article
-1. [Auto Selection of Vehicle, Service Schedules and Repair Times Using Engine Code From Autodata](#auto-selection-of-vehicle-service-schedules-and-repair-times-using-engine-code-from-autodata)
-2. [Manual Selection of Servicing Intervals and Repair Times Using Engine Code From Autodata](#manual-selection-of-servicing-intervals-and-repair-times-using-engine-code-from-autodata)
+1. [Auto Selection of the Vehicle](#auto-selection-of-the-vehicle)
+2. [Manual Selection of the Vehicle](#manual-selection-of-the-vehicle)
 
-### Auto Selection of Vehicle, Service Schedules and Repair Times Using Engine Code From Autodata
+### Auto Selection of the Vehicle
 To view and add the data: 
 1. Select **Actions** from the menu bar(if not visible click on **More Options**), then **Lookup** from the submenus, and then click on **Search Vehicle By Engine Code (Autodata)**, **Service Schedules by Engine Code** for servicing intervals or **Repair Times by Engine Code** for repair times, depending on what you're looking for.
 
@@ -34,7 +34,7 @@ To view and add the data:
 [Go back to top](#top)
 
 
-### Manual Selection of Servicing Intervals and Repair Times Using Engine Code From Autodata
+### Manual Selection of the Vehicle
 Manual selection can be used to get data from Autodata for any vehicle and is not specific to any market. To view and add the data using manual selection:
 1. If the vehicle registration is not automatically detected, a pop-up window will appear. Select **Other** and then click **OK** to choose the vehicle make and model from Autodata.
 
