@@ -48,8 +48,8 @@ To create an export, first confirm that your setup is complete; please contact a
      * **Export Type** - All or New. You can either export **All** of the documents within the date range or only the **New** documents. Selecting **New** will exclude any documents previously exported. This means it is important that you keep all previous exported files safe as these can never be re-produced. Once a transaction has been exported it will be flagged and not exported again when using **New**.
      * **Date From/To** - Select your date range.
      * **Catalogs** options:
-         * * **Export All Customers** - This slider should always be off.
-         * **Export All Vendors** - This will produce an export of every single vendor in the system.
+         * * **Export All Customers** - This will produce an export of every single customer in the system.
+           * **Export All Vendors** - This will produce an export of every single vendor in the system.
 
       ![](media/garagehive-accountancy-export4.png)
 
