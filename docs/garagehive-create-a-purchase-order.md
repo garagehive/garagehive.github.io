@@ -10,56 +10,54 @@ Purchase Orders are commonly used in Business-to-Business (B2B) transactions to 
 
 ## In this article
 1. [Creating a Purchase Order Directly from a Document](#creating-a-purchase-order-directly-from-a-document)
-2. [Create and Email the Purchase Order from a Jobsheet](#create-and-email-the-purchase-order-from-a-jobsheet)
-3. [Creating a Purchase Order From the Role Centre](#creating-a-purchase-order-from-the-role-centre)
-4. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
-5. [How to Split a Purchase Order Across Multiple Invoices](#how-to-split-a-purchase-order-across-multiple-invoices)
-6. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
-7. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
+2. [Creating a Purchase Order from a Jobsheet Confirmation Worksheet](#creating-a-purchase-order-from-a-jobsheet-confirmation-worksheet)
+3. [Create and Email the Purchase Order from a Jobsheet](#create-and-email-the-purchase-order-from-a-jobsheet)
+4. [Creating a Purchase Order From the Role Centre](#creating-a-purchase-order-from-the-role-centre)
+5. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
+6. [How to Split a Purchase Order Across Multiple Invoices](#how-to-split-a-purchase-order-across-multiple-invoices)
+7. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
+8. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
 
 ### Creating a Purchase Order directly from a Document
 To create a purchase order directly from a document(Such as a Jobsheet, Estimate or a VI Estimate):
-<br>
-
-**Option 1**
 1. Open the relevant document and scroll down to the **Lines** FastTab.
-1. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
-1. Use a **Placeholder Item** number, such as **MISC**, for items that you don't know the part number. This will be the placeholder part number until you receive the items.
-1. Enter the quantity to be ordered in the **Quantity** column.
+2. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
+3. Use a **Placeholder Item** number, such as **MISC**, for items that you don't know the part number. This will be the placeholder part number until you receive the items.
+4. Enter the quantity to be ordered in the **Quantity** column.
 
    ![](media/garagehive-creating-a-purchase-order1.png)
 
-2. Enter the supplier name to order from in the **Vendor No.** column. If there are several parts from the same supplier, enter the same supplier in all the item lines.
-3. If, on the other hand, some items are from a different supplier, enter the relevant supplier name in the **Vendor No.** column. This will ensure that separate Purchase Orders are created for each supplier.
-4. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
+5. Enter the supplier name to order from in the **Vendor No.** column. If there are several parts from the same supplier, enter the same supplier in all the item lines.
+6. If, on the other hand, some items are from a different supplier, enter the relevant supplier name in the **Vendor No.** column. This will ensure that separate Purchase Orders are created for each supplier.
+7. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
    
    ![](media/garagehive-creating-a-purchase-order2.png)
 
-5. Select **Parts** from the menu bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
+8. Select **Parts** from the menu bar, then **Create Purchase Order(s)**. The purchase order will be created and its number will be indicated on the alert. If several suppliers are selected, an alert will be shown for each supplier.
 
    ![](media/garagehive-creating-a-purchase-order3.png)
 
-6. The Purchase Order(s) have now been created and are ready for the parts to be ordered. Click on the **Special Order Purchase No.** to open the Purchase Order. 
+9. The Purchase Order(s) have now been created and are ready for the parts to be ordered. Click on the **Special Order Purchase No.** to open the Purchase Order. 
    
    ![](media/garagehive-creating-a-purchase-order4.png)
 
-7. When you receive and post the Purchase Order for parts ordered from a Jobsheet, the **Check** column  in the Jobsheet line is updated with a parcel icon (📦) to indicate that the items have been received as ordered.
+10. When you receive and post the Purchase Order for parts ordered from a Jobsheet, the **Check** column  in the Jobsheet line is updated with a parcel icon (📦) to indicate that the items have been received as ordered.
 
    ![](media/garagehive-parcel-icon-jobsheet-line1.png)
 
-8. Click on the parcel icon, to open the **Posted Purchase Receipt** of the part.
+11. Click on the parcel icon, to open the **Posted Purchase Receipt** of the part.
 
    ![](media/garagehive-parcel-icon-jobsheet-line2.gif)
 
-9. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the Jobsheet from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
-10. Delete the lines from the previously created purchase order(s).
+12. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the document from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
+13. Delete the lines from the previously created purchase order(s).
 
    ![](media/garagehive-creating-a-purchase-order5.png)
 
 [Go back to top](#top)
 
-**Option 2**
-When creating a Purchase Order directly from the Jobsheet, you also have the option of using the action **Confirmation Worksheet**:
+### Creating a Purchase Order from a Jobsheet Confirmation Worksheet
+When creating a Purchase Order directly from the Jobsheet, you also have the option of using the **Confirmation Worksheet**:
 1. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
 2. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
 3. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
