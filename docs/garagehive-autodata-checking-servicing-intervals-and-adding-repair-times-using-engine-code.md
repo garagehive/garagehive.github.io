@@ -7,29 +7,69 @@ title: Searching for Vehicle, Checking Servicing Intervals and Adding Repair Tim
 
 # Searching for Vehicle, Checking Servicing Intervals and Adding Repair Times Using Engine Code
 
-If you need to add specific servicing intervals and repair times in a Jobsheet using the vehicle's engine code, you can check the details from the Jobsheet using the engine code.
+If you need to search for a vehicle, add specific servicing intervals or repair times in a document (Jobsheet, Estimate and VI Estimate) using the vehicle's engine code, here are the instructions to follow.
 
 ## In this article
-1. [Auto Selection of the Vehicle](#auto-selection-of-the-vehicle)
-2. [Manual Selection of the Vehicle](#manual-selection-of-the-vehicle)
+1. [Search Vehicle by Engine Code](#search-vehicle-by-engine-code)
+2. [Add Servicing Intervals by Engine Code](#add-servicing-intervals-by-engine-code)
+3. [Add Repair Times by Engine Code](#add-repair-times-by-engine-code)
+4. [Manual Selection of the Vehicle](#manual-selection-of-the-vehicle)
 
-### Auto Selection of the Vehicle
-To view and add the data: 
-1. Select **Actions** from the menu bar(if not visible click on **More Options**), then **Lookup** from the submenus, and then click on **Search Vehicle By Engine Code (Autodata)**, **Service Schedules by Engine Code** for servicing intervals or **Repair Times by Engine Code** for repair times, depending on what you're looking for.
+### Search Vehicle by Engine Code
+To search a vehicle using by Engine Code: 
+1. Select **Actions** from the menu bar(if not visible click on **More Options**), then **Lookup** from the submenus, and then click on **Search Vehicle By Engine Code (Autodata)**.
 
-   ![](media/garagehive-autodata-using-engine-code1.png)
+   ![](media/garagehive-autodata-search-vehicle-using-engine-code1.png)
+
+2. Enter the Engine Code in the pop-up window that appears.
+
+   ![](media/garagehive-autodata-search-vehicle-using-engine-code2.png)
+
+3. Select the vehicle and click **OK**.
+
+   ![](media/garagehive-autodata-search-vehicle-using-engine-code3.png)
+
+[Go back to top](#top)
+
+
+### Add Servicing Intervals by Engine Code
+To add Servicing Intervals using the Engine Code: 
+1. Select **Actions** from the menu bar(if not visible click on **More Options**), then **Lookup** from the submenus, and then click on **Search Vehicle By Engine Code (Autodata)**.
+
+   ![](media/garagehive-autodata-service-intervals-using-engine-code1.png)
 
 2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and select the correct vehicle.
 
-   ![](media/garagehive-autodata-repair-times3.png)
+   ![](media/garagehive-autodata-service-intervals-using-engine-code2.png)
 
-3. Choose the **Make** and **Model** of the vehicle from Autodata, followed by the **Engine Code** and the **Repair Categories** for repair times or **Maintenance** for service schedules. We'll use repair times in this case.
+3. In the next pop-up windows, select what matches the vehicle.
 
-   ![](media/garagehive-autodata-using-engine-code2.gif)
+   ![](media/garagehive-autodata-service-intervals-using-engine-code3.png)
+
+4. Select the lines to include in the **Include** column, and then click the **Add Lines to Document** button in the menu bar.
+
+   ![](media/garagehive-autodata-service-intervals-using-engine-code4.png)
+
+[Go back to top](#top)
+
+
+### Add Repair Times by Engine Code
+To add Repair Times using the Engine Code: 
+1. Select **Actions** from the menu bar(if not visible click on **More Options**), then **Lookup** from the submenus, and then click on **Search Vehicle By Engine Code (Autodata)**.
+
+   ![](media/garagehive-autodata-repair-times-using-engine-code1.png)
+
+2. When the pop-up window opens, confirm the vehicle details by clicking **Yes**. If the details don't match, click **No** and select the correct vehicle.
+
+   ![](media/garagehive-autodata-repair-times-using-engine-code2.png)
+
+3. In the next pop-up windows, select what matches the vehicle and the Repair Times for the vehicle.
+
+   ![](media/garagehive-autodata-repair-times-using-engine-code3.png)
 
 4. After selecting the **Repair Categories**, select the lines to include in the **Include** column, and then click the **Add Lines to Document** button in the menu bar.
 
-   ![](media/garagehive-autodata-using-engine-code3.gif)
+   ![](media/garagehive-autodata-repair-times-using-engine-code4.png)
 
 [Go back to top](#top)
 
