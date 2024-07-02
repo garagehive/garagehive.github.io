@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 1st July 2024
+* Added the ability to create Purchase Orders from estimates and VI estimates, similar to how it is set up in the Jobsheet using the **Purchase(Special)** column, [read more](garagehive-create-a-purchase-order.html){:target="_blank"}.
+
+   ![](media/garagehive-create-purchase-order-estimate.png)
+
 ### 7th June 2024
 * Added the **Search Vehicle By Engine Code (Autodata)** feature in the documents (Jobsheet, Service Estimate, and Vehicle Inspection Estimates), [read more](garagehive-autodata-checking-servicing-intervals-and-adding-repair-times-using-engine-code.html#auto-selection-of-vehicle-service-schedules-and-repair-times-using-engine-code-from-autodata){:target="_blank"}.
 
