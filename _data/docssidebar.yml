@@ -569,8 +569,6 @@
       url: /docs/garagehive-tyre-scanner-integration.html
     - name: Vostel Telephone System Integration
       url: /docs/garagehive-vostel-integration.html
-    - name: Setting Up Payment by Access PaySuite
-      url: /docs/garagehive-setting-up-payment-by-glink-access-paysuite.html
     - name: Setting Up Payment by Dojo
       url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
     - name: Humm Financing Integration
