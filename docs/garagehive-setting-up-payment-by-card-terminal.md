@@ -49,7 +49,6 @@ To setup payment by **Card Terminal**:
 ### See Also
 
 [Taking a Payment and Posting a Jobsheet](garagehive-jobsheet-taking-payment.html){:target="_blank"} \
-[Setting Up Payment by Garage Link for Access PaySuite](garagehive-payment-gateways.html){:target="_blank"} \
 [Setting Up Payment by Garage Link for Dojo](garagehive-payment-gateways.html){:target="_blank"} \
 [How to Use Humm Financing](garagehive-humm-financing.html){:target="_blank"} \
 [How to Set Card Terminals Into Integration Mode](garagehive-setting-card-terminals-into-integration-mode.html){:target="_blank"} \
