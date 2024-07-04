@@ -79,16 +79,20 @@ If you want to use deposit amount as payment method in a Jobsheet:
 
    ![](media/take-payment-with-deposit-amount1.png)
 
-3. Select **UseDeposit** from the list of payment methods and enter the amount you want to use in the **Amount** column.
+3. The **Available Deposit** is indicated at the top of the **Take Payment** page. If the document has a different **Bill-To** customer from **Sell-To** both will be indicated.
+
+   ![](media/take-payment-with-deposit-amount4.png)
+
+4. Select **UseDeposit** from the list of payment methods and enter the amount you want to use in the **Amount** column.
 
    ![](media/take-payment-with-deposit-amount2.png)
 
-4. You can also use the **Apply Deposit Amount** action, which appears on the notification at the top,  to use the entire deposit amount available for the customer or to fill in the **Difference** for the amount paid in the **UseDeposit** payment method.
-5. Close the payment method window by clicking **Close**.
+5. You can also use the **Apply Deposit Amount** action, which appears on the notification at the top,  to use the entire deposit amount available for the customer or to fill in the **Difference** for the amount paid in the **UseDeposit** payment method.
+6. Close the payment method window by clicking **Close**.
 
    ![](media/take-payment-with-deposit-amount3.png)
 
-6. You can now **Post** the Jobsheet, and the **Deposit Amount** will be applied to the Jobsheet as a payment method.
+7. You can now **Post** the Jobsheet, and the **Deposit Amount** will be applied to the Jobsheet as a payment method.
 
 [Go back to top](#top)
 
