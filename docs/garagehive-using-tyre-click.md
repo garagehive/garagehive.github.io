@@ -3,14 +3,22 @@ layout: docs
 title: Using TyreClick Booking System in Garage Hive 
 ---
 
+# Using TyreClick Booking System in Garage Hive
+**TyreClick** is a [Micheldever](https://www.micheldever.co.uk/){:target="_blank"} tyre supplier online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. TyreClick is now integrated with Garage Hive to enable online booking of tyre services, and creating of Jobsheet from the booking.
+
+Before requesting a connection with the support team, please have the following information ready:
+1. What services does your garage offer on Tyre Click? (For example: Tyre Replacement Only, MOT, Tyre Checks, etc.).
+2. What time slots does your garage want to use? (Actual times/AM/PM slots with a limited number for each session).
+3. What are the opening times for your garage?
+4. What is your garage's Tyre Click URL?
+
 ## In this article
 1. [Online Booking Connection Setup for TyreClick](#online-booking-connection-setup-for-tyre-click)
 2. [TyreClick online booking example](#tyre-click-online-booking-example)
 3. [Opening the booking in Garage Hive](#Opening-the-booking-in-Garage-Hive)
 
-### Online Booking Connection Setup for TyreClick
-**TyreClick** is a [Micheldever](https://www.micheldever.co.uk/){:target="_blank"} tyre supplier online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. TyreClick is now integrated with Garage Hive to enable online booking of tyre services, and creating of jobsheet from the booking.
 
+### Online Booking Connection Setup for TyreClick
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Connections**,  and select the related link.
 2. Select **New** from the menu bar on the **Online Booking Connections** page to create a new online connection for TyreClick integration.
 
