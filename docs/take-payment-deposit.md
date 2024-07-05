@@ -79,7 +79,7 @@ If you want to use deposit amount as payment method in a Jobsheet:
 
    ![](media/take-payment-with-deposit-amount1.png)
 
-3. The **Available Deposit** is indicated at the top of the **Take Payment** page. If the document has a different **Bill-To** customer from **Sell-To** both will be indicated.
+3. The **Available Deposit** is shown at the top of the **Take Payment** page. If the document has a different **Bill-To** customer from the **Sell-To**, both deposits will be indicated.
 
    ![](media/take-payment-with-deposit-amount4.png)
 
