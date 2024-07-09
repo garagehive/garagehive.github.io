@@ -13,7 +13,7 @@ AAG (Alliance Automotive Group) integration allows you to link Garage Hive to th
 
 ## In this article
 1. [Linking AAG to Garage Hive](#linking-aag-to-garage-hive)
-2. [Ordering Parts from AAG Parts 360 from Garage Hive](#ordering-parts-from-aag-parts-360-from-garage-hive)
+2. [Ordering Parts from AAG Parts 360 through Garage Hive](#ordering-parts-from-aag-parts-360-through-garage-hive)
 3. [Transfer the AAG Parts 360 Basket to the Garage Hive](#transfer-the-aag-parts-360-basket-to-the-garage-hive)
 4. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
 5. [Receiving Parts from the AAG Invoice into the System](#receiving-parts-from-the-aag-invoice-into-the-system)
@@ -40,7 +40,7 @@ To link AAG to the Garage Hive System:
 [Go back to top](#top)
 
 
-### Ordering Parts from AAG Parts 360 from Garage Hive
+### Ordering Parts from AAG Parts 360 through Garage Hive
 To order parts from the AAG Parts 360 website:
 1. Open the document (Jobsheet, Estimate, or VI Estimate) from which you want to order. Select **Parts** from the menu bar and then select **Open AAG Parts 360**.
 
