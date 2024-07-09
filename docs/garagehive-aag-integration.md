@@ -12,12 +12,13 @@ We are currently reviewing this article before it is published, check back later
 AAG (Alliance Automotive Group) integration allows you to link Garage Hive to the AAG Parts 360 website, where you can directly place an order for the parts that need to be ordered and transfer them to the Garage Hive system.
 
 ## In this article
-1. [Linking AAG to Garage Hive System](#linking-aag-to-garage-hive-system)
-2. [Ordering Parts from AAG Parts 360 Using the Garage Hive System](#ordering-parts-from-aag-parts-360-using-the-garage-hive-system)
-3. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
-4. [Receiving Parts from the AAG Invoice into the System](#receiving-parts-from-the-aag-invoice-into-the-system)
+1. [Linking AAG to Garage Hive](#linking-aag-to-garage-hive)
+2. [Ordering Parts from AAG Parts 360 from Garage Hive](#ordering-parts-from-aag-parts-360-from-garage-hive)
+3. [Transfer the AAG Parts 360 Basket to the Garage Hive](#transfer-the-aag-parts-360-basket-to-the-garage-hive)
+4. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
+5. [Receiving Parts from the AAG Invoice into the System](#receiving-parts-from-the-aag-invoice-into-the-system)
 
-### Linking AAG to Garage Hive system
+### Linking AAG to Garage Hive
 To link AAG to the Garage Hive System:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **AAG Integrations**, and choose the related link.
 
@@ -39,32 +40,49 @@ To link AAG to the Garage Hive System:
 [Go back to top](#top)
 
 
-### Ordering Parts from AAG Parts 360 Using the Garage Hive System
+### Ordering Parts from AAG Parts 360 from Garage Hive
 To order parts from the AAG Parts 360 website:
-1. Open the document in which you want to order from, can be a Jobsheet, Estimate or VI Estimate. Select **Parts** from the menu bar, followed by **Open AAG Parts 360**.
+1. Open the document (Jobsheet, Estimate, or VI Estimate) from which you want to order. Select **Parts** from the menu bar and then select **Open AAG Parts 360**.
 
    ![](media/garagehive-aag-ordering-parts1.png)
 
-2. Select the vehicle and add the items you want to order to your basket on the **AAG Parts 360** website.
-3. After adding the items to your basket, go back to the Garage Hive system and open the Jobsheet to add the items you are ordering.
-4. Select **Parts** from the menu bar, followed by **Get AAG Basket**.
+2. This action will open the AAG Parts 360 website. Once the page is open, choose the category for the parts you need.
+
+   ![](media/garagehive-aag-ordering-parts8.png)
+
+3.  Scroll through the items in the category, and when you find the one you're looking for, click on the basket icon located on the right of the item. Repeat this process for all the items you want to order.
+
+   ![](media/garagehive-aag-ordering-parts9.png)
+
+4. Once you've added the items to your basket, click on the basket icon in the top right corner to confirm the items you've added.
+
+   ![](media/garagehive-aag-ordering-parts10.png)
+
+5. Return to the Garage Hive system and open the document to transfer the items you are ordering.
+
+[Go back to top](#top)
+
+
+### Transfer the AAG Parts 360 Basket to the Garage Hive
+To transfer the items in your basket to Garage Hive and place an order:
+1. Select **Parts** from the menu bar, followed by **Get AAG Basket**.
 
    ![](media/garagehive-aag-ordering-parts2.png)
 
-5. Select an item to add to the Jobsheet from the page that opens, then scroll to the right and click the **Action** column. You can add it as a **New line**, **New line to a group**, or **Update an existing line**. When you're finished, click **OK**.
+2. Select an item to add to the Jobsheet from the page that opens, then scroll to the right and click the **Action** column. You can add it as a **New line**, **New line to a group**, or **Update an existing line**. When you're finished, click **OK**.
 
    ![](media/garagehive-aag-ordering-parts3.png)
 
-6. The **Description**, **Quantity**, and **Unit Cost** of the Item lines will be updated, but the **Item No.** will remain as **MISC**.
-7. The Item lines will also be marked as **Purchase (Special)** with the **Vendor No.** and the **Vendor Item No.** added.
+3. The **Description**, **Quantity**, and **Unit Cost** of the Item lines will be updated, but the **Item No.** will remain as **MISC**.
+4. The Item lines will also be marked as **Purchase (Special)** with the **Vendor No.** and the **Vendor Item No.** added.
 
    ![](media/garagehive-aag-ordering-parts4.png)
 
-8. To create a purchase order for the items, from the menu bar select **Parts** and then **Create Purchase Order(s)**.
+5. To create a purchase order for the items, from the menu bar select **Parts** and then **Create Purchase Order(s)**.
 
    ![](media/garagehive-aag-ordering-parts5.png)
 
-9. In the pop-up notification, you have the option to select **Yes** and place an order from **AAG Parts 360** website which also creates a Purchase Order for the items, or **No** and simply create the Purchase Order.
+6.  In the pop-up notification, you have the option to select **Yes** and place an order from **AAG Parts 360** website which also creates a Purchase Order for the items, or **No** and simply create the Purchase Order.
 
    ![](media/garagehive-aag-ordering-parts6.png)
 
