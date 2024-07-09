@@ -10,7 +10,7 @@ Purchase Orders are commonly used in Business-to-Business (B2B) transactions to 
 
 ## In this article
 1. [Creating a Purchase Order Directly from a Document](#creating-a-purchase-order-directly-from-a-document)
-2. [Creating a Purchase Order from a Jobsheet Confirmation Worksheet](#creating-a-purchase-order-from-a-jobsheet-confirmation-worksheet)
+2. [Creating a Purchase Order from a Document Confirmation Worksheet](#creating-a-purchase-order-from-a-document-confirmation-worksheet)
 3. [Create and Email the Purchase Order from a Jobsheet](#create-and-email-the-purchase-order-from-a-jobsheet)
 4. [Creating a Purchase Order From the Role Centre](#creating-a-purchase-order-from-the-role-centre)
 5. [Receive Items Without an Invoice](#receive-items-without-an-invoice)
@@ -56,8 +56,8 @@ To create a purchase order directly from a document(Such as a Jobsheet, Estimate
 
 [Go back to top](#top)
 
-### Creating a Purchase Order from a Jobsheet Confirmation Worksheet
-When creating a Purchase Order directly from the Jobsheet, you also have the option of using the **Confirmation Worksheet**:
+### Creating a Purchase Order from a Document Confirmation Worksheet
+When creating a Purchase Order from a document (Jobsheet, Estimate and VI Estimate), there is also option of using the **Confirmation Worksheet**:
 1. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
 2. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
 3. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
