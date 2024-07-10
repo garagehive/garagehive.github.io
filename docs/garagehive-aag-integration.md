@@ -54,7 +54,7 @@ To order parts from the AAG Parts 360 website:
 
    ![](media/garagehive-aag-ordering-parts9.png)
 
-4. Once you've added the items to your basket, click on the basket icon in the top right corner to confirm the items you've added.
+4. Once you've added the items to your basket, click on the basket icon in the top right corner to view the items you've added.
 
    ![](media/garagehive-aag-ordering-parts10.png)
 
