@@ -92,11 +92,11 @@ Instead of simply creating a Purchase Order from the Jobsheet, you may want to c
 [Go back to top](#top)
 
 ### Creating a Purchase Order from the role centre
-This option is typically used only after the invoice has been received from the supplier. To create a Purchase Order from the home screen:
+This option is used when ordering parts not designated to a specific document, such as stock items. To create a Purchase Order from the home screen:
 1. Select **Purchasing**, and then **Purchase Orders** from the navigation menu in the home screen.
 2. Choose **New** from the **Purchase Orders** page.
 3. Start typing the vendor name in the **Vendor No.** field, and select from the list. If the vendor is not available in the system you can [create a new vendor card](garagehive-create-a-vendor-card.html){:target="_blank"}.
-4. In the **General** FastTab, enter the invoice number in the **Vendor Invoice No.** field.
+4. In the **General** FastTab, enter the vendor invoice number in the **Vendor Invoice No.** field, and ensure that the document date matches the invoice they sent.
 
    ![](media/garagehive-creating-a-purchase-order6.gif)
 
