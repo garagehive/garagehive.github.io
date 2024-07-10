@@ -36,9 +36,10 @@ To create an export, first confirm that your setup is complete; please contact a
 
    ![](media/garagehive-accountancy-export2.png)
 
-4. When you're done, click **OK**. Running the export will generate a zip file containing the transactions and the customers/vendors linked with the transactions. You can export Invoices/Credit Memos, Customer Payments and Refunds, and Vendor Invoices/Credit Memos all at once. 
+3. When you're done, click **OK**. Running the export will directly send the data to your external accounting system, which includes the transactions and the associated customers/vendors. 
+4. You can export Invoices/Credit Memos, Customer Payments and Refunds, and Vendor Invoices/Credit Memos all at once. 
 
-{% include tip.html title="Note" text="To understand how to import these transactions into your accounting software, please refer to the documentation for your accounting system." %}
+   {% include tip.html title="Note" text="If you are using Sage 50 Cloud, the system will generate a zip file for you to import into your Sage 50 Cloud system. Please refer to the documentation for your Sage 50 Cloud system on how to import." %}
 
 5. **Advanced Options** - There is a slider for advanced options on the export page.
 
