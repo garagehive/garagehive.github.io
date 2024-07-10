@@ -19,7 +19,7 @@ Purchase Orders are commonly used in Business-to-Business (B2B) transactions to 
 8. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
 
 ### Creating a Purchase Order directly from a Document
-To create a purchase order directly from a document(Such as a Jobsheet, Estimate or a VI Estimate):
+To create a purchase order directly from a document (Such as a Jobsheet, Estimate or a VI Estimate):
 1. Open the relevant document and scroll down to the **Lines** FastTab.
 1. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
 1. Use a **Placeholder Item** number, such as **MISC**, for items that you don't know the part number. This will be the placeholder part number until you receive the items.
@@ -27,9 +27,9 @@ To create a purchase order directly from a document(Such as a Jobsheet, Estimate
 
    ![](media/garagehive-creating-a-purchase-order1.png)
 
+1. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
 1. Enter the supplier name to order from in the **Vendor No.** column. If there are several parts from the same supplier, enter the same supplier in all the item lines.
 1. If, on the other hand, some items are from a different supplier, enter the relevant supplier name in the **Vendor No.** column. This will ensure that separate Purchase Orders are created for each supplier.
-1. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered, even if they are from different suppliers.
    
    ![](media/garagehive-creating-a-purchase-order2.png)
 
