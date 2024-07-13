@@ -6,6 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 12th July 2024
+* Added the ability to assign deposits to different customers. It can be used to apply a payment if the document has a different **Sell-to** and **Bill-to** customer, [read more](take-payment-deposit.html#using-deposit-amount-as-payment-method-in-a-jobsheet){:target="_blank"}.
+
+   ![](media/garagehive-assign-deposits-to-different-customers.png)
+
+* Added document printouts to use the model description from the vehicle card to ensure that good quality details are printed.
+
+   ![](media/garagehive-document-printout-model-description.png)
+
 ### 1st July 2024
 * Added the ability to create Purchase Orders from estimates and VI estimates, similar to how it is set up in the Jobsheet using the **Purchase(Special)** column, [read more](garagehive-create-a-purchase-order.html){:target="_blank"}.
 
