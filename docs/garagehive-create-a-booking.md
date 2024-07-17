@@ -16,18 +16,21 @@ To create a booking from the schedule:
 
    ![](media/garagehive-create-a-booking2.gif)
 
-4. For other resources, such as **MOT Bay**, choose the **Allocation Type** after creating the allocation by dragging along the row. Enter the **Vehicle Registration No.** and press the **Tab** key. 
+4. For other resources, such as **MOT Bay**, choose the **Allocation Type** after creating the allocation by dragging along the row. Enter the **Vehicle Registration No.** and press the **Tab** key.
+
+   ![](media/garagehive-create-a-booking6.png)
+
 5. If the vehicle is in the system, you will be notified that it is linked with a customer, and you will be able to apply allocation to the customer.
 
-   ![](media/garagehive-create-a-booking3.gif)
+   ![](media/garagehive-create-a-booking3.png)
 
-5. If the vehicle is not in the system, the system will find it using the VRM, and you will now need to provide the customer information in the **Customer** field. If the customer is already in the system, you can choose from the list; or else, create a new **Customer** card by clicking on **New** at the bottom left of the list.
+6. If the vehicle is not in the system, the system will find it using the VRM, and you will now need to provide the customer information in the **Customer** field. If the customer is already in the system, you can choose from the list; or else, create a new **Customer** card by clicking on **New** at the bottom left of the list.
 
-   ![](media/garagehive-create-a-booking4.gif)
+   ![](media/garagehive-create-a-booking4.png)
 
-6. Add any information that the customer has given in the **Comments** FastTab about the job on the vehicle. The top line is the line the technician will see prior to to opening the job card, add the most relevant information in this line. **Close** the open page.
+7. Add any information that the customer has given in the **Comments** FastTab about the job on the vehicle. The top line is the line the technician will see prior to to opening the job card, add the most relevant information in this line. **Close** the open page.
 
-   ![](media/garagehive-create-a-booking5.gif)
+   ![](media/garagehive-create-a-booking5.png)
 
 
 [Go back to top](#top)
