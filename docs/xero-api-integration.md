@@ -12,7 +12,7 @@ title: Xero API Integration Setup
 3. [Integrate Payment Methods](#integrate-payment-methods)
 4. [Integrate VAT Posting](#integrate-vat-posting)
 5. [How to run the export](#how-to-run-the-export)
-6. [Setting Up External Accountancy Numbers for Customers and Vendors](#setting-up-external-accountancy-numbers-for-customers-and-vendors)
+6. [Initializing External Accountancy Numbers for Customers and Vendors](#initializing-external-accountancy-numbers-for-customers-and-vendors)
 7. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
 
 
@@ -126,13 +126,13 @@ To integrate the VAT posting in your system:
 
    ![](media/garagehive-xero-vat-posting1.png)
 
-2. In the **Xero Input Tax Type** and **Xero Output Tax Type** columns, the setup as shown below for the **VAT Bus. Posting Groups**.
+2. In the **Xero Input Tax Type** and **Xero Output Tax Type** columns, fill in the setup according to your Xero configuration.
 
    ![](media/garagehive-xero-vat-posting2.png)
    
 [Go back to top](#top)
 
-### Setting Up External Accountancy Numbers for Customers and Vendors
+### Initializing External Accountancy Numbers for Customers and Vendors
 1. To set up the external accountancy numbers for customers and vendors, return to the **Accountancy Integration Setup** page in Garage Hive.
 
    ![](media/garagehive-xero-external-accountancy-numbers1.png)
