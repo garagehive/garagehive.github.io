@@ -12,7 +12,8 @@ title: Xero API Integration Setup
 3. [Integrate Payment Methods](#integrate-payment-methods)
 4. [Integrate VAT Posting](#integrate-vat-posting)
 5. [How to run the export](#how-to-run-the-export)
-6. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
+6. [Setting Up External Accountancy Numbers for Customers and Vendors](#setting-up-external-accountancy-numbers-for-customers-and-vendors)
+7. [Adding Tracking Categories in Xero](#adding-tracking-categories-in-xero)
 
 
 ### What you can export via the Xero API
@@ -66,21 +67,29 @@ Garage Hive allows you to export your data to Xero via an API. You can export th
 1. Copy the client id and paste it into Garage Hive in the **Xero Client Id** field under **Xero** FastTab.
 1. Then choose **Generate a Secret**, copy it, and enter it into Garage Hive in the **Xero Client Secret** field.
 
-     ![](media/xero-2-orth-app-2.png)
+   **Xero App**
 
-     ![](media/xero-2-orth-app2.png)
+      ![](media/xero-2-orth-app-2.png)
 
-     ![](media/xero-2-orth-app3.png) 
+      ![](media/xero-2-orth-app2.png)
 
-1. Now, under Garage Hive's **Accountancy Integration Setup**, from the menu bar, choose **Actions**, then **Xero**, and lastly **Authorise**.
+   **Garage Hive**
+
+      ![](media/xero-2-orth-app3.png) 
+
+1. Now, under Garage Hive's **Accountancy Integration Setup**, from the menu bar, choose **Actions**, followed by **Xero**, and then **Authorise**.
 
      ![](media/xero-2-orth-app-3.png)
 
-1.  You will be redirected to the **Xero Website** and prompted to select **Allow Access** before a successful integration is confirmed.
+1. You will be redirected to the **Xero Website** and prompted to select **Allow Access** before a successful integration is confirmed.
 
-     ![](media/xero-2-orth-app-4.png)
+   **Allow Access**
 
-     ![](media/xero-2-orth-app-5.png)
+      ![](media/xero-2-orth-app-4.png)
+
+   **Integration Successful**
+
+      ![](media/xero-2-orth-app-5.png)
 
 [Go back to top](#top)
 
@@ -117,10 +126,31 @@ To integrate the VAT posting in your system:
 
    ![](media/garagehive-xero-vat-posting1.png)
 
-2. In the **External VAT Identifier Code** column, click on the three dots to select the corresponding code for the **VAT Posting** that you use in your external system.
+2. In the **Xero Input Tax Type** and **Xero Output Tax Type** columns, the setup as shown below for the **VAT Bus. Posting Groups**.
 
    ![](media/garagehive-xero-vat-posting2.png)
    
+[Go back to top](#top)
+
+### Setting Up External Accountancy Numbers for Customers and Vendors
+1. To set up the external accountancy numbers for customers and vendors, return to the **Accountancy Integration Setup** page in Garage Hive.
+
+   ![](media/garagehive-xero-external-accountancy-numbers1.png)
+
+2. Click on **Init Customers** action to initiate the setup of customer external accountancy numbers, and **Init Vendors** to initiate the setup of vendor external accountancy numbers. Then, click **Yes** when prompted.
+
+   ![](media/garagehive-xero-external-accountancy-numbers2.png)
+
+3. The **External System No.** field in all the customer and vendor cards will be filled with the generated numbers.
+
+   **Customer**
+
+      ![](media/garagehive-xero-external-accountancy-numbers3.png)
+   
+   **Vendor**
+
+      ![](media/garagehive-xero-external-accountancy-numbers4.png)
+
 [Go back to top](#top)
 
 ### How to run the export 
