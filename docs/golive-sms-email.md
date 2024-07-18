@@ -9,7 +9,7 @@ To send an SMS or an Email from a jobsheet:
 
    ![](media/garagehive-go-live-setup-sms-and-email1.png)
 
-2.  Then select the Jobsheet by clicking on the Jobsheet **No.**.
+2. Then select the Jobsheet by clicking on the Jobsheet **No.**.
 
    ![](media/garagehive-go-live-setup-sms-and-email2.png)
 
