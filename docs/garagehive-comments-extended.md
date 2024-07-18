@@ -33,16 +33,12 @@ To add a new comment in a document:
    ![](media/garagehive-comments6.gif)
 
 5. Comments on a phone now include additional information such as the time, date, user, and type code.
+6. Before writing a comment, technicians must choose a type code.
+7. When reading or entering comments on a phone, the comment is now displayed in a pop-up window. 
 
    ![](media/garagehive-comments-phone.png)
 
-6. Before writing a comment, technicians must choose a type code.
-
-   ![](media/garagehive-comment-tech-code.png)
-
-7. When reading or entering comments on a phone, the comment is now displayed in a pop-up window. Once you've finished typing your comment, click OK. 
-
-   ![](media/garagehive-comment-phone-input.png)
+8. Once you've finished typing your comment, click OK. 
 
 [Go back to top](#top)
 
