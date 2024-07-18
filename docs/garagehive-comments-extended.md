@@ -14,7 +14,10 @@ title: How to Use Comments in Garage Hive
 
 ### Adding Comments in a Document
 To add a new comment in a document:
-1. Open the document and scroll down to the **Comments** subpage. 
+1. Open the document and scroll down to the **Comments** subpage.
+
+   ![](media/garagehive-comments0.png)
+
 2. Select a **Type Code** or create your own custom **Type Code** with the following set-up:
    * **Description** - Specifies what will be printed on the invoice.
    * **Office Only** - Indicates whether the comment should be hidden from technicians.
@@ -22,7 +25,7 @@ To add a new comment in a document:
    * **Print Sequence** - This parameter specifies the order in which the comments are printed. Numbers are used to specify priority in ordering; the lower the number, the higher the priority in ordering, and vice versa.
    * **Print Placement** - Specifies whether the comment appears at the top or bottom of the invoice.
 
-      ![](media/garagehive-comments1.gif)
+      ![](media/garagehive-comments1.png)
 
 3. You can now add a comment to the document, by selecting the **Type Code** and adding the comment in the **Comment** field.
 4. Here's an example of what printed comments look like; you can be as creative as you want with the description, positions, and orders. 
@@ -37,7 +40,7 @@ To add a new comment in a document:
 
    ![](media/garagehive-comment-tech-code.png)
 
-8. When reading or entering comments on a phone, the comment is now displayed in a pop-up window. Once you've finished typing your comment, click OK. 
+7. When reading or entering comments on a phone, the comment is now displayed in a pop-up window. Once you've finished typing your comment, click OK. 
 
    ![](media/garagehive-comment-phone-input.png)
 
@@ -46,9 +49,18 @@ To add a new comment in a document:
 ### How to Use Extended Comments
 **Comment (Extended)** is a function in Garage Hive that enables you to write comments which are longer and with more details. This function is available on all documents, can be printed in documents and has the possibility of hiding from the technicians.
 
-Under the **Comments** subpage, clicking on the **Comment(extended)** field will open a pop-out window that can be made full screen and allows you to type as much text as you want. When you move your cursor over the **Comment (extended)** field, a pop-up preview of the full comment appears. 
+1. Under the **Comments** subpage, click on the **Comment(extended)** field 
 
-   ![](media/garagehive-comments2.gif)
+   ![](media/garagehive-comments02.png)
+
+2. This opens a pop-out window that can be made full screen and allows you to type as much text as you want. 
+
+   ![](media/garagehive-comments2.png)
+
+3. When you move your cursor over the **Comment (extended)** field, a pop-up preview of the full comment appears. 
+
+   ![](media/garagehive-comments002.png)
+
 
 [Go back to top](#top)
 
@@ -65,20 +77,23 @@ You can also have standard comments that can be used multiple times. This helps 
 
 4. The comment will now be available for adding in all documents, such as a jobsheet.
 
-   ![](media/garagehive-comments5.gif)
+   ![](media/garagehive-comments5.png)
 
 [Go back to top](#top)
 
 ### Adding Comments in a Card
 To add a new comment in a card, for example a **Customer Card**:
 1. Open the **Customer Card**, then select **Customer** and then **Comments** from the menu bar.
+
+   ![](media/garagehive-comments07.png)
+
 2. Add the comment and then close the card.
 
-   ![](media/garagehive-comments7.gif)
+   ![](media/garagehive-comments7.png)
 
 3. When adding the customer to a new Jobsheet, the comment(s) will now pop up before adding the customer, giving you the option to use the **Copy to Document** action to transfer the comment to the document.
 
-   ![](media/garagehive-comments8.gif)
+   ![](media/garagehive-comments8.png)
 
 [Go back to top](#top)
 
