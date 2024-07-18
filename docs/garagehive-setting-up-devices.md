@@ -3,6 +3,8 @@ layout: docs
 title: Setting Up Devices with Microsoft Dynamics 365 Business Central App   
 ---
 
+<a name="top"></a>
+
 ## Setting Up Devices with Microsoft Dynamics 365 Business Central App
 Garage Hive can be used in devices such as phones and tablets, and most of its features are available. Here's how to install and set it up: 
 
@@ -14,40 +16,20 @@ Garage Hive can be used in devices such as phones and tablets, and most of its f
       ![](media/garagehive-setting-up-devices1.png)
 
 3. Once the App has been installed and it is open, select **Advanced Options**.
+4. On the next page, choose the sign-in option as **On-Premises**.
+5. In the **On-Premises** sign-in page, enter your service address, which you can find in your original login email from Garage Hive, and it should look like this: "https://yourtenantaddress.garagehive.co.uk/BC2". 
+6. Check that your tenant's name is correct and that your BC number matches. If you can't find these details, contact a member of the Support Team.
+7. When you're finished, click the arrow to go to the next page.
 
    ![](media/garagehive-setting-up-devices2.png)
 
-4. On the next page, choose the sign-in option as **On-Premises**.
-
-   ![](media/garagehive-setting-up-devices6.png)
-
-5. In the **On-Premises** sign-in page, enter your service address, which you can find in your original login email from Garage Hive, and it should look like the link below. Check that your tennant's name is correct and that your BC number matches. If you can't find these details, contact a member of the Support team.
-6. When you're finished, click the arrow to go to the next page.
-
-   ![](media/garagehive-setting-up-devices3.png)
-
-7. You will now see your login screen; enter the **User name** and **Password** for the device users (Image 1). If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below in Image 2.
+8. You will now see your login screen; enter the **User name** and **Password** for the device users. If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below in Image 2.
 
       {% include tip.html title="Note" text="Please note the first time you enter the User name and Password it may ask you to create a new password." %} 
 
-   **Image 1**: Normal login screen
+9. Upon successful login, the home page willl appear.
 
-      ![](media/garagehive-setting-up-devices4.png)
-
-   **Image 2**: Azure Active Directory (AAD) login screen
-
-      ![](media/garagehive-setting-up-devices4a.png)
-
-Upon successful login, the following screen will appear, indicating that the device is ready for use by your staff.
-
-![](media/garagehive-setting-up-devices5.png)
+   ![](media/garagehive-setting-up-devices3.png)
 
 
-
-
-
-
-
-
-
- 
+[Go back to top](#top)
