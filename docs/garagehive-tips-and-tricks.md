@@ -3,6 +3,8 @@ layout: docs
 title: Tips and Tricks When Working With Garage Hive
 ---
 
+<a name="top"></a>
+
 # Tips and Tricks When Working With Garage Hive
 
 When working with Garage Hive, there are some tips and tricks that you can use to help you increase your productivity and save time. In this article, we list some of the most used and easy to understand:
@@ -46,3 +48,6 @@ FastTabs and Fact Boxes can be expanded or collapsed to improve performance and 
 When users click on the Pop-out icon, users can work on two different documents or pages at the same time.
 
 ![](media/garagehive-tips-and-tricks8.png)
+
+
+[Go back to top](#top)
