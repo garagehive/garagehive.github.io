@@ -61,7 +61,7 @@ You can create as many customised labour cards as you want.
 
 3. When you add the labour in the Jobsheet, the **Standard Time** is used, of which it can be changed from the **Quantity** field. The **Standard Time (Hours)** column is available for comparison (if not available you can add it by personalising).
 
-   ![](media/garagehive-create-a-labour-card6.gif)
+   ![](media/garagehive-create-a-labour-card6.png)
 
 4. If there are several **Standard Times** available, a pop-up appears with the preset **Standard Times**, and you can choose the relevant one.
 
