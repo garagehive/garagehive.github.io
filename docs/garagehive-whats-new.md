@@ -15,6 +15,10 @@ The following is a list of all new Garage Hive features and updates:
 
    ![](media/garagehive-document-printout-model-description.png)
 
+* Added Alliance Automotive Group (AAG) integration that enables direct order placement on AAG 360 website for the required parts from Garage Hive, [read more](garagehive-aag-integration.html){:target="_blank"}.
+
+   ![](media/garagehive-aag-integration.png)
+
 ### 1st July 2024
 * Added the ability to create Purchase Orders from estimates and VI estimates, similar to how it is set up in the Jobsheet using the **Purchase(Special)** column, [read more](garagehive-create-a-purchase-order.html){:target="_blank"}.
 
