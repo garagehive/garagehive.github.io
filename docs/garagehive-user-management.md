@@ -136,7 +136,7 @@ To reset a garage hive user's password:
 
 3. Click on **Reset Password** action, and then **OK**.
 
-   ![](media/garagehive-user-management12.gif)
+   ![](media/garagehive-user-management12.png)
 
 4. The user will receive an email with the new password and a link to login. When the user logs in, they will be prompted to change the password to a new password. The **Old Password** should be the password received via email, and the **New Password** should be the user coming up with it, and **Confirm Password**.
 

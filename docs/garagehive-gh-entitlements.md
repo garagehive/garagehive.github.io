@@ -108,10 +108,7 @@ If you have assigned more GH Entitlements to users than are available, you will 
 5. This will resolve the issue of over-assigning GH entitlements.
 
 
-
-   
-
-
+[Go back to top](#top)
 
 <br>
 
