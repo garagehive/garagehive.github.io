@@ -12,7 +12,7 @@ GH Entitlements, in Garage Hive, are the services that a customer is entitled to
 1. [Assigning GH Entitlements to Companies](#assigning-gh-entitlements-to-companies)
 2. [Assigning GH Entitlements to Locations](#assigning-gh-entitlements-to-locations)
 3. [Assigning GH Entitlements to Users](#assigning-gh-entitlements-to-users)
-4. [Reviewing Over Assigned GH Entitlements](#reviewing-over-assigned-gh-entitlements)
+4. [Reviewing Over-Assigned GH Entitlements](#reviewing-over-assigned-gh-entitlements)
 
 ### Assigning GH Entitlements to Companies
 To assign GH Entitlements to companies in your system, follow these steps if your system is licensed for multiple companies:
@@ -87,7 +87,7 @@ To assign GH Entitlements to Users in your system, follow these steps if your sy
 
 [Go back to top](#top)
 
-### Reviewing Over Assigned GH Entitlements
+### Reviewing Over-Assigned GH Entitlements
 If you have assigned more GH Entitlements to users than are available, you will receive a notification on your Role Centre stating '*You have over assigned GH Entitlements. Please review and adjust the GH Entitlements.*'
 
    ![](media/garagehive-gh-entitlement-users6.png)
