@@ -3,6 +3,8 @@ layout: docs
 title: Creating a Purchase Return Order and Purchase Credit Memo
 ---
 
+<a name="top"></a>
+
 # Creating a Purchase Return Order and Purchase Credit Memo
 Purchase return orders are documents that you use to manage and track all of your returns. They facilitate you in tracking items you ship back to the supplier and receiving a credit memo when the supplier processes them.
 
@@ -24,7 +26,7 @@ Purchase return orders are documents that you use to manage and track all of you
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice2.png)
 
-4. When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed. Select **Posting** from the menu bar and then select **Post** from the submenus.
+4. When the purchase return order is created, the items must be returned to the supplier for a credit memo to be processed. Select **Home** from the menu bar and then select **Post** from the submenus.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice3.png)
 
@@ -42,40 +44,63 @@ Purchase return orders are documents that you use to manage and track all of you
    ![](media/garagehive-purchase-return-order-ship-and-invoice6.png)
 
 
+[Go back to top](#top)
+
 ### Shipping and Invoicing Parts in a Purchase Return Order with More than one Credit Memo from the Supplier
 The Garage Hive system allows you to ship and invoice parts from a single **Purchase Return Order** for parts with different Credit Memo from the supplier. Here is the procedure:
 1. Open the Purchase Return Order with the parts that have two different Credit Memos from the supplier. Scroll down to the **Lines** sub-page.
 1. Take note of the columns **Quantity**, **Return Qty. to Ship**, **Return Qty. Shipped**, **Qty to Invoice** and **Qty Invoiced**.
+1. When you enter a value in the **Quantity** column, the **Return Qty. to Ship** and **Qty. to Invoice** columns are automatically filled in, but you can edit them.
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice7.png)
+ 
+1. To **Ship** some parts, for example, delete the quantity from the **Return Qty. to Ship** column for the parts you don't want to ship.
+1. Then select **Home**, followed by **Post** in the menu bar.
 
-1. When you enter a value in the **Quantity** column, the **Return Qty. to Ship** and **Qty. to Invoice** columns are automatically filled in, but you can edit them.
-1. To **Ship** some parts, for example, delete the value from the **Return Qty. to Ship** column in the Purchase Return Order for the parts you don't want to ship.
-1. Then select **Posting**, followed by **Post** in the menu bar. Select **Ship** from the options in the pop-up menu and click **OK**.
+   ![](media/garagehive-purchase-return-order-ship-and-invoice18.png)
+
+1. Select **Ship** from the options in the pop-up menu and click **OK**.
+
+   ![](media/garagehive-purchase-return-order-ship-and-invoice19.png)
+
 1. The number of items shipped is recorded in the column **Return Qty. Shipped**.
 
-   ![](media/garagehive-purchase-return-order-ship-and-invoice8.gif)
+   ![](media/garagehive-purchase-return-order-ship-and-invoice8.png)
 
 1. When the other items are ready to ship, repeat step **5**.
 1. After shipping the parts, you may receive different Credit Memos for the parts on the Purchase Return Order. You must invoice separately for each Credit Memo parts.
 1. Enter the **Vendor Cr. Memo No.** for one of the Credit Memos, then scroll down to the **Lines** sub-page and delete the value of column **Qty to Invoice** for the parts that are not in the Credit Memo to invoice.
-1. Then select **Posting**, followed by **Post** in the menu bar. Select **Invoice** from the options in the pop-up menu and click **OK**.
-1. The number of items on the Credit Memo are invoiced and recorded in the column **Qty Invoiced**.
+1. Then select **Home**, followed by **Post** in the menu bar.
 
-   ![](media/garagehive-purchase-return-order-ship-and-invoice9.gif)
+   ![](media/garagehive-purchase-return-order-ship-and-invoice20.png)
 
-1. After you've invoiced one of the Credit Memos, delete its number from the **Vendor Cr. Memo No.** field. Take the other Credit Memo and enter its number in the **Vendor Cr. Memo No.** field. Confirm the **Qty. to Invoice** column contains the correct values that correspond to the credit memo, then select **Posting** followed by **Post** from the menu bar.
 1. Select **Invoice** from the options in the pop-up menu and click **OK**.
 
-   ![](media/garagehive-purchase-return-order-ship-and-invoice10.gif)
+   ![](media/garagehive-purchase-return-order-ship-and-invoice9.png)
 
+1. The number of items on the Credit Memo are invoiced and recorded in the column **Qty Invoiced**.
+
+   ![](media/garagehive-purchase-return-order-ship-and-invoice21.png)
+
+1. After you've invoiced one of the Credit Memos, delete its number from the **Vendor Cr. Memo No.** field. Take the other Credit Memo and enter its number in the **Vendor Cr. Memo No.** field. Confirm the **Qty. to Invoice** column contains the correct values that correspond to the credit memo, then select **Home** followed by **Post** from the menu bar.
+
+   ![](media/garagehive-purchase-return-order-ship-and-invoice10.png)
+
+1. Select **Invoice** from the options in the pop-up menu and click **OK**.
 1. If there are no more parts to invoice, the Purchase Return Order will disappear, and a Purchase Credit Memo will be created.
+
+
+[Go back to top](#top)
 
 ### Creating a Purchase Credit Memo When Parts have Been Shipped and the Supplier Credit Memo Does not Match Purchase Return Order 
 As an example, suppose you created two separate **Purchase Return Orders** and shipped the parts in them, and then the supplier sends a single **Credit Memo** for the parts in both Purchase Return Orders. Here's how to go about it:
 1. To begin, ensure that the parts in the two created **Purchase Return Orders** are shipped by ensuring that the **Return Qty. to Ship** column is empty and the **Return Qty. Shipped** column contains a value equal to the quantity shipped.
 
-   ![](media/garagehive-purchase-return-order-ship-and-invoice11.png)
+   **Purchase Return Order 1**
+
+      ![](media/garagehive-purchase-return-order-ship-and-invoice11.png)
+   
+   **Purchase Return Order 2**
 
    ![](media/garagehive-purchase-return-order-ship-and-invoice12.png)
 
@@ -85,16 +110,16 @@ As an example, suppose you created two separate **Purchase Return Orders** and s
    ![](media/garagehive-shipped-items-purchase-return-order10.png)
 
 1. Fill in the **Vendor Name** and the **Vendor Cr Memo No.** for the Credit Memo. 
-1. Within the Lines sub-page of the **Purchase Credit Memo**, select **More Options**, followed by **Functions** and choose **Get Return Shipment Lines**.
+1. Within the Lines sub-page of the **Purchase Credit Memo**, select **Functions** followed by **Get Return Shipment Lines**.
 
    ![](media/garagehive-shipped-items-purchase-return-order12.png)
 
 1. Find the relevant parts from the pop-up box and select **Ok**. Repeat this step for each item on the **Vendor Credit Memo**.
+
+   ![](media/garagehive-shipped-items-purchase-return-order22.png)
+
 1. This will add all the parts onto the **Purchase Credit Memo**.
-
-   ![](media/garagehive-shipped-items-purchase-return-order12.gif)
-
-1. Once you have all the parts from the Credit Memo from your supplier on the Purchase Credit Memo, select **Posting** followed by **Post**.  
+1. Once you have all the parts from the Credit Memo from your supplier on the Purchase Credit Memo, select **Home** from the menu bar, followed by **Post**.  
 
    ![](media/garagehive-shipped-items-purchase-return-order15.png)
 
@@ -106,9 +131,12 @@ As an example, suppose you created two separate **Purchase Return Orders** and s
 
    ![](media/garagehive-shipped-items-purchase-return-order17.png)
 
+
+[Go back to top](#top)
+
 ### Undo Return Shipment on Shipped Items
 1. When you ship items from a Purchase Return Order but need to reverse the shipping, open the Purchase Return Order with the items you've just shipped.
-2. In the menu bar, select **Navigate** and then **Return Shipments**.
+2. In the menu bar, select **Return Order** and then **Return Shipments**.
 
    ![](media/garagehive-undo-return-shipment1.png)
 
@@ -121,5 +149,6 @@ As an example, suppose you created two separate **Purchase Return Orders** and s
    ![](media/garagehive-undo-return-shipment3.png)
 
 
+[Go back to top](#top)
 
 
