@@ -25,10 +25,10 @@ To get quick assist from the system, click on **Garage Hive Support** tile from 
 
    ![](media/garagehive-support-quick-assist1.png)
 
-Then select either of the following options abd click **OK**:
+Then select either of the following options and click **OK**:
    * **Record Your Issue:** Opens the request to record your screen, and you can record the issue to report to the support team.
    * **Visit Docs:** Opens the documentation website with 'how-to' guides.
-   * **Contact Support:** Opens a pop-up window where you can type your question and send to the support team. 
+   * **Contact Support:** Opens a pop-up window where you can type your question and send to the support team.
    * **Get Support Access Code:** Creates a support access code from your system, that you can share with the support team to access your system.
 
       ![](media/garagehive-support-quick-assist2.png)
