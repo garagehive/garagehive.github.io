@@ -62,7 +62,7 @@ Once the GDPR Consent Form is signed, enable the **GDPR consent form signed** sl
 
    ![](media/garagehive-create-a-customer-card10.png)
 
-In the customer's Jobsheet, the signed GDPR Consent form status will be displayed.
+In the customer's Jobsheet, the signed GDPR Consent form status will be displayed as **Yes**.
 
    ![](media/garagehive-create-a-customer-card11.png)
 
