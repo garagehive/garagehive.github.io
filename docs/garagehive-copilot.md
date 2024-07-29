@@ -8,7 +8,12 @@ title: DRAFT* - How to Setup Copilot and AI Capabilities in Garage Hive
 # We are still working on this article!
 We are currently reviewing this article before it is published, check back later.
 
-# How to Setup Copilot and AI Capabilities in Garage Hive
+# In this article
+1. [How to Setup Copilot and AI Capabilities](#how-to-setup-copilot-and-ai-capabilities)
+2. [Using Copilot in VI Estimate Descriptions](#using-garage-hive-copilot-in-vi-estimate-descriptions)
+
+
+## How to Setup Copilot and AI Capabilities
 Garage Hive now integrates Copilot and AI capabilities to enhance the overall efficiency. By leveraging Microsoft's AI technologies, Garage Hive Copilot simplifies tasks by generating easy-to-understand descriptions in the VI Estimate. Users can write just a few sentences, and Copilot will generate a clearer, more understandable description. To enable the Copilot and AI Capabilities:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Copilot & AI Capabilities**, and select the related link.
 
@@ -22,13 +27,22 @@ Garage Hive now integrates Copilot and AI capabilities to enhance the overall ef
 
    ![](media/garagehive-copilot3.png)
 
-4. To use the Garage Hive copilot, open the **VI Estimate**, scroll down to the lines, and click on the **Sales Extended Description** field of the line you want to use.
+
+[Go back to top](#top)
+
+## Using Copilot in VI Estimate Descriptions
+1. Garage Hive Copilot uses the fault descriptions available in the **Sales Extended Description** field in a VI Estimate.
+2. To use the Garage Hive Copilot, open the **VI Estimate**, scroll down to the **Lines** FastTab, and click on the **Sales Extended Description** field of the line with a description indicated as **Yes**.
 
    ![](media/garagehive-copilot4.png)
 
-5. Enter a description, and then click on **Draft with Garage Hive Copilot**.
+4. You have the option to modify the description or leave it as it is, and then click on **Draft with Garage Hive Copilot**.
 
    ![](media/garagehive-copilot5.png)
+
+5. Garage Hive Copilot will generate a draft preview of the description. You can click on **Keep It** to add it to the **Sales Extended Description** field, **Regenerate** to generate another draft description, or **Discard it** to exit the Garage Hive Copilot window.
+
+   ![](media/garagehive-copilot6.png)
 
 
 [Go back to top](#top)
