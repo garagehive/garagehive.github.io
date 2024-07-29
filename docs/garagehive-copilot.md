@@ -10,7 +10,8 @@ We are currently reviewing this article before it is published, check back later
 
 # In this article
 1. [How to Setup Copilot and AI Capabilities](#how-to-setup-copilot-and-ai-capabilities)
-2. [Using Copilot in VI Estimate Descriptions](#using-garage-hive-copilot-in-vi-estimate-descriptions)
+2. [Assign Garage Hive Copilot Entitlement](#assign-garage-hive-copilot-entitlement)
+3. [Using Copilot in VI Estimate Descriptions](#using-garage-hive-copilot-in-vi-estimate-descriptions)
 
 
 ## How to Setup Copilot and AI Capabilities
@@ -26,6 +27,24 @@ Garage Hive now integrates Copilot and AI capabilities to enhance the overall ef
 3. Once enabled the **Status** of the **Production ready previews** capabilities will change to **Active**.
 
    ![](media/garagehive-copilot3.png)
+
+
+[Go back to top](#top)
+
+
+## Assign Garage Hive Copilot Entitlement
+To use the Garage Hive Copilot feature, ensure that you have assigned the GH Entitlement to your company, especially if you have two companies in your system:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Companies**, and select the related link.
+
+   ![](media/garagehive-copilot7.png)
+
+2. Select the company where you want to assign the **Garage Hive Copilot** entitlement, and then select **Manage GH Entitlement** from the menu bar.
+
+   ![](media/garagehive-copilot8.png)
+
+3. In the **Manage GH Entitlement** page, choose **Garage Hive Copilot** and click **Assign**. Then, click **Close** to exit the page.
+
+   ![](media/garagehive-copilot9.png)
 
 
 [Go back to top](#top)
