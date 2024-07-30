@@ -79,6 +79,8 @@
       url: /docs/garagehive-migrating-to-aad-sign-on.html
     - name: Guide on Microsoft Accounts
       url: /docs/garagehive-microsoft-accounts-guide.html
+    - name: How to Setup Copilot and AI Capabilities
+      url: /docs/garagehive-copilot.html
     - name: Create a Labour Card
       url: /docs/garagehive-create-a-labour-card.html
     - name: Create an External Service
