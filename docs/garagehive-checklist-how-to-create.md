@@ -106,7 +106,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 6. The **Checklist Template** is now ready to use. Create a new **Checklist** and select the **Checklist Template** you have created as the **Template Code**.
 
-   ![](media/garagehive-checklist-setup8.gif)
+   ![](media/garagehive-checklist-setup8.png)
 
 [Go back to top](#top)
 
