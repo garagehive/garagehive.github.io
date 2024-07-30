@@ -13,7 +13,7 @@ Checklists allow you to create an inspection sheet/checklist for vehicle diagnos
 2. [Checklist Templates](#checklist-templates)
 3. [Checklist Template Item Groups](#checklist-template-item-groups)
 4. [Checklist Items](#checklist-items)
-5. [Setup to create a Checklist automatically](#setup-to-create-a-checklist-automatically)
+5. [Setup to Create a Checklist automatically](#setup-to-create-a-checklist-automatically)
 
 ### Structure of a Checklist
 The following is the structure of a checklist:
@@ -110,7 +110,7 @@ A Checklist Template is considered the header of the Checklist. To view and crea
 
 [Go back to top](#top)
 
-### Setup to create a Checklist Automatically
+### Setup to Create a Checklist Automatically
 Checklists can be set to be created automatically in response to a specific system trigger, as follows:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Checklist Template Selection**, and select the related link.
 
