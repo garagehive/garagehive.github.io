@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Setup Copilot and AI Capabilities in Garage Hive
+title: How to Setup Copilot and AI Capabilities in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # In this article
 1. [How to Setup Copilot and AI Capabilities](#how-to-setup-copilot-and-ai-capabilities)
