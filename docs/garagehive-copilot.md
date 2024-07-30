@@ -63,7 +63,7 @@ Garage Hive Copilot uses the fault descriptions available in the **Checklist Lin
 
    ![](media/garagehive-copilot6.png)
 
-4. To edit or view the **Checklist Line** prompt, click on the heading title marked with a pen icon located in the top left corner.
+4. To edit or view the input text from which the description is generated, click on the heading title marked with a pen icon located in the top left corner.
 
    ![](media/garagehive-copilot10.png)
 
