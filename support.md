@@ -20,7 +20,7 @@ title: Garage Hive Support
 * **Email** - [**help@garagehive.co.uk**](mailto:help@garagehive.co.uk)
 * **Screen Record** - [**Record Screen and Share**](https://garage-hive.hellozest.io/recorder?rl=eyJvIjozNTY0fQ==){:target="_blank"}
 
-### Quick Assist From the System
+### Getting Support From the Garage Hive Support Team through the System
 To get quick assist from the system, click on **Garage Hive Support** tile from the Role Centre.
 
 ![](garagehive-support-quick-assist1.png)
@@ -34,13 +34,17 @@ Then select either of the following options and click **OK**:
 ![](garagehive-support-quick-assist2.png)
 
 ### Remote Support
-* **ZOHO - Desktop**
-    * [**Windows**](https://assist.zoho.eu/install-customer-plugin){:target="_blank"}
-    * [**Mac**](https://join.zoho.eu){:target="_blank"}
+* **Quick assist (Windows 10 or above)**
+    * Search on PC or use Ctrl + Windows + Q
 
-* **ZOHO - Mobile/Tablets**
-    * [**iOS**](https://apps.apple.com/gb/app/zoho-assist-customer/id1277551323){:target="_blank"}
-    * [**Android**](https://play.google.com/store/apps/details?id=com.zoho.assist.agent&hl=en_GB){:target="_blank"}
+* **ZOHO (Windows when Quick assist isn't available & For Mac)**
+    * **Desktop**
+      * [**Windows**](https://assist.zoho.eu/install-customer-plugin){:target="_blank"}
+      * [**Mac**](https://join.zoho.eu){:target="_blank"}
+
+    * **Mobile/Tablets**
+      * [**iOS**](https://apps.apple.com/gb/app/zoho-assist-customer/id1277551323){:target="_blank"}
+      s* [**Android**](https://play.google.com/store/apps/details?id=com.zoho.assist.agent&hl=en_GB){:target="_blank"}
 
 ### Garage Hive App for Mobile/Tablets  
 * **Microsoft Dynamics 365 Business Central**
