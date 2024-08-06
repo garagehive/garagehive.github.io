@@ -7,8 +7,14 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 6th August 2024
-* Added **TPMS** and **Service Indicator** quick access buttons within the Jobsheets for both Service Advisors and Technicians.
-* Introduced **Vehicle Type** filters on Service Packages for online booking, available under the **SP Version Conditions**.
+* Added **TPMS**,  **Service Indicator** and **Technical Specificifications** quick access buttons within the Jobsheets for both Service Advisors and Technicians.
+
+   ![](media/garagehive-autodata-quick-access.png)
+
+* Introduced **Vehicle Type** filter on Service Packages for online booking, available under the **SP Version Conditions**.
+
+   ![](media/garagehive-vehicle-type-filter.png)
+
 * Updated the payment link to make the **Show Document** button more prominent, encouraging customers to click on it and view their invoice.
 
    ![](media/garagehive-show-document.png)
