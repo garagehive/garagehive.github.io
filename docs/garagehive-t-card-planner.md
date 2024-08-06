@@ -3,56 +3,48 @@ layout: docs
 title: Setting up the TCard Planner 
 ---
 
-#   The TCard Planner 
+<a name="top"></a>
 
-{% include youtube.html id="BwhUUHvPUI4" %}
+## The TCard Planner 
+The TCard Planner is a flexible tool for managing various aspects of your business, such as:
+  * Collection and Deliveries
+  * Car Washes
+  * Parts Ordered
+  * Parts Arrived
 
-The TCard Planner is a flexible tool and can a used for managing several aspects of your business. <br>
+## Setting up the TCard Planner
+1. Front the **Role Centre** select TCard Planner.    
 
-*i.e.* <br>
- *  *Collection and Deliveries*<br>
- *  *Car Washes* <br>
-*    *Parts Ordered*<br>
- *  *Parts Arrived*<br>
+   ![](media/garagehive-t-card-planner1.png)
 
- ###    Setting up the TCard Planner
- 
- *  Front the Home Screen select TCard Planner.    
+2. Select **Actions** from the menu bar, followed by **Configuration**: 
 
- ![](media/garagehive-t-card-planner1.png)
+#### Enter Configuration Mode
+1. Select **Configuration Mode** to add, delete or personalise Containers.
 
-*   Select the Actions Tab followed by the Planner button. 
+   ![](media/garagehive-t-card-planner2.png)
 
-*   Select Configuration Mode. (*this will now allow you to add/remove or personalise "Containers"*)
+2. When in **Configuration Mode** you can select, the settings ⚙ icon to customise the container.
 
-![](media/garagehive-t-card-planner2.png)
+   ![](media/garagehive-t-card-planner4.png)
 
-*   Select Create New Container if you want to add to standard containers. 
+3. This will open a pop-up window where you can edit the container information.
 
-![](media/garagehive-t-card-planner3.png)
+   ![](media/garagehive-t-card-planner5.png)
 
-####    **In Configuration Mode**
-
-*   Select the ⚙ 
-
-![](media/garagehive-t-card-planner4.png)
-
-*   This will now enable to you customise the Container information
-
-![](media/garagehive-t-card-planner5.png)
-
-A. **Location Code**    - This will pre-select Location Code as **"MAIN"** 
-
-B.  **Type** - Select **"Order"**
-
-C.  **Subtype** - Select **"Standard"**
-
-D.  **Name** - This will be the name you want this specific container to be called. 
-
-E.  **Enabled** - Tick the Enabled box. .
-
-F.  **Container Colour** - Choose your required container colour.  
-
-G.  **Container Size** - You can choose the size you wish the container to be or customize to the required size. 
+* **Location Code** - This will pre-select Location Code as **Main**.
+* **Type** - Select **Order**.
+* **Subtype** - Select **Standard**.
+* **Name** - Enter the name for this specific container.
+* **Enabled** - Tick the Enabled box.
+* **Container Colour** - Choose your preferred container colour.  
+* **Container Size** - Select or customise the container size as needed.
 
 
+#### Create New Container
+To add to the standard containers, select Create New Container.
+
+   ![](media/garagehive-t-card-planner3.png)
+
+
+[Go back to top](#top)
