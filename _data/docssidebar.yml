@@ -108,7 +108,7 @@
     - name: Setting Up Primary Makes and Models
       url: /docs/garagehive-setting-up-primary-makes-and-models.html
     - name: Setting Up the Customer Notifications
-      url: "#"
+      url: /docs/garagehive-setting-up-customer-notifications.html
       subitems:
         - name: Setting Up Vehicle Date Reminder Notifications
           url: /docs/garagehive-vehicle-date-reminders.html
