@@ -6,6 +6,21 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 6th August 2024
+* Added **TPMS** and **Service Indicator** quick access buttons within the Jobsheets for both Service Advisors and Technicians.
+* Introduced **Vehicle Type** filters on Service Packages for online booking, available under the **SP Version Conditions**.
+* Updated the payment link to make the **Show Document** button more prominent, encouraging customers to click on it and view their invoice.
+
+   ![](media/garagehive-show-document.png)
+
+* Enabled the splitting of scheduled standard events into separate allocations when paused and restarted from Easy Clocking, similar to service allocations.
+* Renamed the **Ask a Question** button in the Role Centre to **Get Support**, which now provides several options for customers to obtain support when clicked, [read more](support.html).
+
+   ![](media/garagehive-get-support.png)
+
+### 23rd July 2024
+* Added the ability to select a vehicle for online booking based on Make, Model, Fuel Type, and Engine Capacity.
+
 ### 12th July 2024
 * Added the ability to assign deposits to different customers. It can be used to apply a payment if the document has a different **Sell-to** and **Bill-to** customer, [read more](take-payment-deposit.html#using-deposit-amount-as-payment-method-in-a-jobsheet){:target="_blank"}.
 
