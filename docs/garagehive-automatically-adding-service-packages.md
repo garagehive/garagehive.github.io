@@ -7,22 +7,22 @@ title: Automatically Adding Service Packages in Documents
 
 # Adding Service Packages Automatically 
 
-To begin automatically applying service packages in jobsheets, link **Service Types** with **Service Packages**. Here's how to do it:
-1. To access the **Service Types** list from an open jobsheet, choose the **Service Type** field and click **See Full List**, or search for **Service Types** using the ![](media/search_icon.png) icon.
+To automatically apply service packages in Jobsheets, link Service Types with Service Packages. Here's how to do it:
+1. To access the **Service Types** list from an open Jobsheet, choose the **Service Type** field and click **See Full List**, or search for **Service Types** using the ![](media/search_icon.png) icon.
 
-   ![](media/garagehive-automatically-adding-service-packages1.gif)
+   ![](media/garagehive-automatically-adding-service-packages1.png)
 
-2. Select **Edit List** from the menu bar, and then select the **Service Type** you want to link with a **Service Package**. Fill out the **Service Package Filter** Column with the service package. To save, click the back arrow (&#8592;) or **OK**.
+2. Select **Edit List** from the menu bar, then choose the **Service Type** you want to link with a **Service Package**. Fill out the **Service Package Filter** Column with the service package, and click **OK**.
 
-   ![](media/garagehive-automatically-adding-service-packages2.gif)
+   ![](media/garagehive-automatically-adding-service-packages2.png)
 
-3. When you create a new jobsheet, add a **Service Type** that is linked to a **Service Package**, and choose the relevant **Vehicle** for the jobsheet, the **Service Package** lines will automatically be inserted into the document lines.
+3. When you create a new Jobsheet, add a **Service Type** that is linked to a **Service Package**, and choose the relevant **Vehicle** for the Jobsheet, the **Service Package** lines will automatically be inserted into the document lines.
 
-   ![](media/garagehive-automatically-adding-service-packages3.gif)
+   ![](media/garagehive-automatically-adding-service-packages3.png)
 
-4. This also applies when booking from the **Schedule**. You can book a **Service Type** is linked to a **Service Package**, and the **Service Package** will be added automatically.
+4. This also applies when booking from the **Schedule**. If you book a **Service Type** that is linked to a **Service Package**, the **Service Package** will be added automatically.
 
-   ![](media/garagehive-automatically-adding-service-packages4.gif)
+   ![](media/garagehive-automatically-adding-service-packages4.png)
 
 
 [Go back to top](#top)
