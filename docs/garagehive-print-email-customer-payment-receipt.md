@@ -3,10 +3,12 @@ layout: docs
 title: How to Print or Email Customer Payment Receipt
 ---
 
+<a name="top"></a>
+
 # How to Print or Email Customer Payment Receipt
 You can print or email a customer payment receipt from **Take Payment** function or from the **Customer Ledger Entries**:
 
-### From take payment function
+### From Take Payment Function
 To print or email a payment receipt when taking a payment with the **Take Payment** function:
 1. In the Role Centre, select the **Take Payment** function, enter the **Customer Name** and the **Payment Method**, and then click the **Next** button.
 2. Select the **Amount** field, choose the document to which the payment will be applied, and enter the amount; click the **Next** button.
@@ -17,17 +19,25 @@ To print or email a payment receipt when taking a payment with the **Take Paymen
 
    ![](media/garagehive-print-email-payment-receipt2.gif)
 
-### From customer ledger entries
-1. Select the **Customers** list from the role centre, and then select the customer for whom you want to print or email the payment receipt.
-2. In the **Sales** column, click on the **Amount** for the customer. On the ledger entries list, you'll see payment ledger entries for the customer.
 
-   ![](media/garagehive-print-email-payment-receipt3.gif)
+[Go back to top](#top)
 
-3. Select the payment ledger entries for which you want to print a payment receipt, then select **Report** from the menu bar, followed by **Cash Receipt**.
+### From Customer Ledger Entries
+1. Select the **Customers** list from the Role Centre, and then select the customer for whom you want to print or email the payment receipt.
+2. In the **Sales** column, click on the **Amount** for the customer. 
+
+   ![](media/garagehive-print-email-payment-receipt3.png)
+
+3. On the **Customer Ledger Entries** list, select the payment ledger entries for which you want to print a payment receipt, then click **Report** from the menu bar, followed by **Cash Receipt**.
+
+   ![](media/garagehive-print-email-payment-receipt4.png)
+
 4. You can now **Print** or **Email** the payment receipt by clicking **Print** or **Send To**, respectively.
 
-   ![](media/garagehive-print-email-payment-receipt4.gif)
+   ![](media/garagehive-print-email-payment-receipt5.png)
 
+
+[Go back to top](#top)
 
 <br>
 
