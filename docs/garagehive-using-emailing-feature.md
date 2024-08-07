@@ -10,9 +10,11 @@ title: Setting Up and Using Emailing Feature in Garage Hive
    - [Microsoft office 365 email account setup](#microsoft-office-365-email-account-setup)
    - [Gmail email account setup](#gmail-email-account-setup)
 2. [Using the emailing feature](#using-the-emailing-feature)
-3. [Accessing email outbox](#accessing-email-outbox)
-4. [Accessing sent emails](#accessing-sent-emails)
-5. [View email logs for posted documents](#view-email-logs-for-posted-documents)
+3. [Adding Email Text Templates](#adding-email-text-templates)
+4. [Attaching a Document to the Email](#attaching-a-document-to-the-email)
+5. [Accessing email outbox](#accessing-email-outbox)
+6. [Accessing sent emails](#accessing-sent-emails)
+7. [View email logs for posted documents](#view-email-logs-for-posted-documents)
 
 ### Email setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
@@ -31,38 +33,38 @@ If your system does not have an email setup, you must do the setup before using 
 #### Microsoft office 365 email account setup
 There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
 1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9){:target="_blank"}. An App Password is a 16-digit passcode that gives the Garage Hive app permission to access your Microsoft Account.
-2. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/{:target="_blank"}) and select **Security info**.
+1. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/{:target="_blank"}) and select **Security info**.
 
    ![](media/garagehive-email-setup1.png)
 
-3. Select **Add sign-in method**, choose **App password** from the list, and then select **Add**.
+1. Select **Add sign-in method**, choose **App password** from the list, and then select **Add**.
 
    ![](media/garagehive-email-setup2.png)
 
-4. Enter a name for the app password, and then select **Next**; this name helps differentiate the app password from others.
+1. Enter a name for the app password, and then select **Next**; this name helps differentiate the app password from others.
 
    ![](media/garagehive-email-setup3.png)
 
-5. Copy the password from the **App password** page, and then select **Done**.
+1. Copy the password from the **App password** page, and then select **Done**.
 
    ![](media/garagehive-email-setup4.png)
 
-6. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
+1. Open the **Set Up Email** page in Garage Hive, choose **SMTP**, and select **Next**.
 
    ![](media/garagehive-email-setup5.png)
 
-7. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
-8.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the Microsoft office 365 email address to setup), the **User Name** (this is the Microsoft office 365 email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
+1. In the **Setup SMTP Account** page, select **Apply Office 365 Server Settings**.
+1.  Enter the **Account Name** (this can be the user's name), the **Sender Name** (the name that appears in the email header when an email is sent), your **Email Address** (the Microsoft office 365 email address to setup), the **User Name** (this is the Microsoft office 365 email address), and then paste the **App Password**, that you created in your Microsoft account, in the **Password** Field.
 
      ![](media/garagehive-email-setup6.png)
 
-9. When you're finished, click **Next**.
-10. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
-11. Select **Finish** to add the email.
+1. When you're finished, click **Next**.
+1. To confirm the settings, click **Send Test Email**, then **Other** and enter the email address to which you want to send the test email. If an email is sent, the email settings are correct; otherwise, please contact the Garage Hive Support team for assistance with the setup.
+1. Select **Finish** to add the email.
 
      ![](media/garagehive-email-setup7.png)
 
-12. If you don't have **Multi-factor Authentication** enabled, repeat steps 7 and 8 and enter your email account password instead of the **App Password** in the **Password** field.
+1. If you don't have **Multi-factor Authentication** enabled, repeat steps 7 and 8 and enter your email account password instead of the **App Password** in the **Password** field.
 
      ![](media/garagehive-email-setup8.png)
 
@@ -106,24 +108,57 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
    ![](media/garagehive-email-feature3.png)
 
-3. The email signature (which includes the company name, phone number, and email address) and the logo on the email message body are obtained from the system's **Company Information** page. You can update them by entering **Company Information** into the top right corner search icon and selecting the related link. Fields to update are: **Name**, **Phone Number**, **Email**, or **Picture**.
+3. The email signature (which includes the company name, phone number, and email address) and the logo on the email message body are obtained from the system's **Company Information** page.
 
-   ![](media/garagehive-email-feature4.gif)
+   ![](media/garagehive-email-feature21.png)  
+   
+4. You can update the information by searching **Company Information** into the top right corner ![](media/search_icon.png) icon and select the related link. Fields to update are: **Name**, **Phone Number**, **Email**, or **Picture**.
 
-4. Under **Email Details** FastTab, enter the email address to send to in the **To** field and the subject of the email in the **Subject** field.
-5. You can now add the email **Message** body for the customer. You can format the message however you want by changing the different formats available at the bottom of the **Message** field, such as the font, font size, text colour, and so on.
+   ![](media/garagehive-email-feature4.png)
+
+5. Under **Email Details** FastTab, enter the email address to send to in the **To** field and the subject of the email in the **Subject** field.
+6. You can now add the email **Message** body for the customer. You can format the message however you want by changing the different formats available at the bottom of the **Message** field, such as the font, font size, text colour, and so on.
 
    ![](media/garagehive-email-feature7.png)
 
-6. To make it easier to manage the email **Message** body, create **Text Templates** that will allow you to reuse similar text across multiple emails that you send. Click on **Select Text Template** under the **Email Details** FastTab, then select **New** from the menu bar, enter the **Code** for the template (you can name it depending on what you put in the message body), select **Type** as **Email Body**, and then enter the **Message** body in the writing space under the **General** FastTab.
+6.  When you're finished editing the email, select **Send Email** from the menu bar to send it.
 
-   ![](media/garagehive-email-feature8.gif)
+   ![](media/garagehive-email-feature10.png)
 
-7. To add a template, click the **Select Text Template** link, choose the template, and then click the **OK** button. To insert the template into the **Message** body, select the desired position and press the **Ctrl+V** keys to paste the template.
+7.  If you want to save the email as a draft and return to it later, click the back button and choose **Keep as draft in Email Outbox**; otherwise, choose **Discard email**.
 
-   ![](media/garagehive-email-feature9.gif)
+   ![](media/garagehive-email-feature10a.gif)
 
-8. You could attach a file to the email by scrolling down to the **Attachments** FastTab and selecting either of the following options:
+
+[Go back to top](#top)
+
+### Adding Email Text Templates
+To make it easier to manage the email **Message** body, you can create **Text Templates** that will allow you to reuse similar text across multiple emails that you send. 
+1. Click on **Select Text Template** under the **Email Details** FastTab.
+   
+   ![](media/garagehive-email-feature18.png)
+
+1. Select **New** from the menu bar.
+   
+   ![](media/garagehive-email-feature19.png)
+
+2. Enter the **Code** for the template (you can name it depending on what you put in the message body), select **Type** as **Email Body**, and then enter the **Message** body in the writing space under the **General** FastTab.
+
+   ![](media/garagehive-email-feature8.png)
+
+3. To add a template, click the **Select Text Template** link under the **Email Details** FastTab, then choose the template, and then click the **OK** button.
+
+   ![](media/garagehive-email-feature20.png)
+
+4. To insert the template into the **Message** body, select the desired position and press the **Ctrl+V** keys to paste the template.
+
+   ![](media/garagehive-email-feature11.png)
+
+
+[Go back to top](#top)
+
+### Attaching a Document to the Email
+1. You could attach a file to the email by scrolling down to the **Attachments** FastTab and selecting either of the following options:
    * **Add related documents** - You can attach related documents to the current document such as estimates, VI estimates, or Checklists.
    * **Add files from default selection** - You can attach files stored in **Email Scenario Attachments**.
    * **Add file** - You can attach various file types such as PDFs, Word documents, images, etc directly from your computer. 
@@ -131,13 +166,6 @@ The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Es
 
       ![](media/garagehive-email-feature9.png)
 
-9. When you're finished editing the email, select **Send Email** from the menu bar to send it.
-
-   ![](media/garagehive-email-feature10.png)
-
-1. If you want to save the email as a draft and return to it later, click the back button and choose **Keep as draft in Email Outbox**; otherwise, choose **Discard email**.
-
-   ![](media/garagehive-email-feature10a.gif)
 
 [Go back to top](#top)
 

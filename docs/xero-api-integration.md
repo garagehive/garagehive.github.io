@@ -174,7 +174,7 @@ To integrate the VAT posting in your system:
 [Go back to top](#top)
 
 ### Adding Tracking Categories in Xero
-1. To add **Tracking Category** such as **Branch** in Xero, choose the ![](media/search icon.png) icon, enter **Dimensions**, and select the related link.
+1. To add **Tracking Category** such as **Branch** in Xero, choose the ![](media/search_icon.png) icon, enter **Dimensions**, and select the related link.
 2. Select the row with the **Branch** dimension and then select **Dimension** from the menu bar, followed by **Dimension Values**.
 
     ![](media/garagehive-xero-dimensions.png)
@@ -186,7 +186,7 @@ To integrate the VAT posting in your system:
     
     ![](media/garagehive-xero-external-dimension-values.png)
 
-5. Choose the ![](media/search icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
+5. Choose the ![](media/search_icon.png) icon, enter **Accountancy Integration Setup**, and select the related link.
 6. Scroll down to **Xero** FastTab, and in the **Department Dimension Code** field, enter **Branch**.
 
     ![](media/garagehive-xero-dimension-department.png)
