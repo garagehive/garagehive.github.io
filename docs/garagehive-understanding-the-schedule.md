@@ -319,6 +319,9 @@ When a day in the schedule is blocked, it prevents any new allocations from bein
 
 The existing allocations in the schedule can be modified.
 
+
+[Go back to top](#top)
+
 <br>
 
 ### See Also

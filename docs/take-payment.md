@@ -3,6 +3,8 @@ layout: docs
 title: Take Payment for Posted Documents
 ---
 
+<a name="top"></a>
+
 # Take Payment for Posted Documents
 
 See the video below or follow the written instructions to take payments for posted sales documents.
@@ -30,7 +32,7 @@ See the video below or follow the written instructions to take payments for post
 
    ![](media/take-payment-apply-to-document.png)
 
-6. [On this page](#take-payment), you can pay for the documents you want by checking the **"Payment Made"** box. If the value paid differs from the balance of the document, change it in the **"Amount received"** column. When the Payment made check box is selected on any document, the amount received will default to the full amount owed.
+6. On this page, you can pay for the documents you want by checking the **"Payment Made"** box. If the value paid differs from the balance of the document, change it in the **"Amount received"** column. When the Payment made check box is selected on any document, the amount received will default to the full amount owed.
 
    ![](media/take-payment-entries.png)
 
@@ -42,6 +44,9 @@ See the video below or follow the written instructions to take payments for post
 9. If you have an integrated card terminal and have chosen a card payment method, the **Lump Payment** option will be selected by default. This means that if you choose to post this Payment, the card terminal will be triggered and the entry will be posted if the Payment is successful. 
 
    ![](media/take-payment-post-card.png)
+
+
+[Go back to top](#top)
 
 <br>
 
