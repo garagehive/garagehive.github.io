@@ -27,11 +27,10 @@ The steps for data migration from other garage management systems to Garage Hive
    {% include tip.html title="Note" text="Data migration from one garage management system to Garage Hive can be a complex and time-consuming process that requires careful planning and execution. It is recommended to consult with both support teams before starting the process and during each step of it for guidance and troubleshooting." %}
 
 # Support Contact Details for Some of the Garage Management Systems
-In the following list, please select the current system that you are using to view their contact details.
+In the following list, please select the current system that you are using:
 
 <a name="top"></a>
 
-## To Migrate Data from Your Current System, follow the following Steps
 1. [MAM Software](#mam-software)
 2. [Techman](#techman)
 3. [GA3](#ga3)
