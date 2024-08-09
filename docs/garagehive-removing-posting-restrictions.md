@@ -6,7 +6,7 @@ title: Removing and Adding Posting Restrictions
 ## Removing and Adding Posting Restrictions
 Garage Hive is set up by default with a posting restriction for both Sales and Purchase Invoices. This is done to prevent documents from being posted to the original document date rather than the actual date when they are posted to the ledgers. 
 
-This can be removed, but it is recommended that you return the restriction once you have completed any rectification work. 
+**This can be removed, but it is recommended that you return the restriction once you have completed any rectification work.** 
 
 ### To remove the posting restriction:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **User Management** and select the related link. 
