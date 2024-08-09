@@ -31,31 +31,14 @@ In the following list, please select the current system that you are using to vi
 
 <a name="top"></a>
 
-## Which is your current system?
+## To Migrate Data from Your Current System, follow the following Steps
 1. [MAM Software](#mam-software)
 2. [Techman](#techman)
 3. [GA3](#ga3)
 4. [GA4](#ga4)
-5. [Auto In Touch](#auto-in-touch)
-6. [Apex RMS](#apex-rms)
-7. [CAM Systems](#cam-systems)
-8. [CarSys Software](#carsys-software)
-9. [Click Dealer](#click-dealer)
-10. [Dragon 2000](#dragon-2000)
-11. [Garage Manager](#garage-manager)
-12. [Garage Data Systems](#garage-data-systems)
-13. [Gemini Systems](#gemini-systems)
-14. [GS Onestop](#gs-onestop)
-15. [Motasoft](#motasoft)
-16. [MOT Manager](#mot-manager)
-17. [Onyx Garage Invoice System](#onyx-garage-invoice-system)
-18. [Pinnacle DMS by Pinewood](#pinnacle-dms-by-pinewood)
-19. [TyreSoft](#tyresoft)
+5. [Other Systems](#other-systems)
 
 ### MAM Software
-   * **Phone** - [**01226352904**](tel:01226352904) 
-   * **Email** - [**awolsupport@mamsoft.co.uk**](mailto:awolsupport@mamsoft.co.uk)
-
 You will need to contact MAM Software directly for them to perform the data extract for you, simply inform them that you need the data required to import into another Garage Management System and they will send you a file to forward to us.
 
 They will ask if you want a CD, We recommend asking them to log into your computer and leaving the file on your desktop instead.
@@ -65,9 +48,6 @@ We often notice that the reminder file provided during the standard export only 
 [Go back to top](#top)
    
 ### Techman
-   * **Phone** - [**01604936462**](tel:01604936462)
-   * **Email** - [**info@techmangms.com**](mailto:info@techmangms.com)
-
 You will need to contact Techman directly for them to perform the data extract for you, simply inform them that you need the data required to import into another Garage Management System and they will send you a file to forward to us.
 
 [Go back to top](#top)
@@ -85,117 +65,7 @@ To export data in CSV format from GA4, go to the GA4 settings page. Under the **
 
 [Go back to top](#top)
 
-### Auto In Touch
-   * **Phone** - [**01934421320**](tel:01934421320)
-   * **Email** - [**sales@mttltd.com**](mailto:sales@mttltd.com)
-
-If you want to export data from Auto In Touch, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Apex RMS
-   * **Phone** - [**02031956757**](tel:02031956757)
-   * **Email** - [**sales@apex-networks.com**](mailto:sales@apex-networks.com)
-
-If you want to export data from Apex RMS, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### CAM Systems
-   * **Phone** - [**01453891000**](tel:01453891000)
-
-If you want to export data from CAM Systems, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### CarSys Software
-   * **Phone** - [**02037885879**](tel:02037885879)
-
-If you want to export data from CarSys Software, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Click Dealer
-   * **Phone** - [**01782478220**](tel:01782478220)
-   * **Email** - [**help@clickdealer.co.uk**](mailto:help@clickdealer.co.uk)
-
-If you want to export data from Click Dealer, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Dragon 2000
-   * **Phone** - [**01327222333**](tel:01327222333)
-   * **Email** - [**sales@dragon2000.co.uk**](mailto:sales@dragon2000.co.uk)
-
-If you want to export data from Dragon 2000, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Garage Manager
-   * **Phone** - [**+353860299090**](tel:+353860299090)
-   * **Email** - [**sales@garagemanager.ie**](mailto:sales@dragon2000.co.uk)
-
-If you want to export data from Garage Manager, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Garage Data Systems
-   * **Phone** - [**01482330735**](tel:01482330735)
-   * **Email** - [**info@gds.co.uk**](mailto:info@gds.co.uk)
-
-If you want to export data from Garage Data Systems (GDS), contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Gemini Systems
-   * **Phone** - [**01522698911**](tel:01522698911)
-
-If you want to export data from Gemini Systems, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### GS Onestop
-   * **Phone** - [**01214110770**](tel:01214110770)
-   * **Email** - [**support@gs-onestop.com**](mailto:support@gs-onestop.com)
-
-If you want to export data from GS Onestop, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Motasoft
-   * **Phone** - [**01179428678**](tel:01179428678)
-   * **Email** - [**support@motasoft.co.uk**](mailto:support@motasoft.co.uk)
-
-If you want to export data from Motasoft, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### MOT Manager
-   * **Phone** - [**03333444626**](tel:03333444626)
-
-If you want to export data from MOT Manager, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Onyx Garage Invoice System
-   * **Phone** - [**01482503046**](tel:01482503046)
-   * **Email** - [**support@onyxsoftware.co.uk**](mailto:support@onyxsoftware.co.uk)
-
-If you want to export data from Onyx Garage Invoice System, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### Pinnacle DMS by Pinewood
-   * **Phone** - [**01216976600**](tel:01216976600)
-
-If you want to export data from Pinnacle DMS by Pinewood, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
-
-[Go back to top](#top)
-
-### TyreSoft
-   * **Phone** - [**03455280388**](tel:03455280388)
-   * **Email** - [**info@tyresoft.co.uk**](mailto:info@tyresoft.co.uk)
-
-If you want to export data from TyreSoft, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
+### Other Systems
+If you want to export data from any other system, contact their support team and request them to provide you with the necessary data export from your system in universally readable formats, such as CSV or XML.
 
 [Go back to top](#top)
