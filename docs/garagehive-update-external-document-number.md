@@ -1,18 +1,25 @@
 ---
 layout: docs
-title: Updating an external document number of a posted sales invoice 
+title: Updating an External Focument Number of a Posted Sales Invoice 
 ---
-# How to update an external document number of a posted sales invoice
 
-In Garage Hive you have the ability to add an External Document number to a posted sales Invoice. 
+<a name="top"></a>
 
-First locate the Posted Sales Invoice through the Posted & Archived Documents.
+# How to Update an External Document Number of a Posted Dales Invoice
+To update the external document number of a posted sales invoice in Garage Hive, follow these steps:
+1. From the Role Centre, select **Posted & Archived Documents** and then choose Posted Sales Invoice. 
 
-![](media/garagehive-salesinvoice-menu.png)
+   ![](media/garagehive-salesinvoice-menu.png)
 
-The Document will open in "View Mode", change the document to edit mode using the pencil symbol at the top of the page. 
+2. Select or search for the **Posted Sales Invoice** to update in the list that opens.
 
-This will allow you to enter an external document number to update the document. 
+   ![](media/garagehive-salesinvoice-menu2.png)
 
-![](media/garagehive-salesinvoice-update-external-document-number.png)
+3. The document will open in editable mode. If it doesn't open in editable mode, change it using the pencil symbol at the top of the page.
+4. Enter the **External Document No. (updated)** in the respective field under the **General** FastTab and press Tab key. 
+
+   ![](media/garagehive-salesinvoice-update-external-document-number3.png)
+
+
+   [Go back to top](#top)
 
