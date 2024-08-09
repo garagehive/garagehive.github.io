@@ -12,19 +12,19 @@ title: How to Return Parts to the Vendor Under Warranty in Garage Hive
 A customer purchased a set of PAGID brake pads, but three days later, they contact the garage to complain about a loud squeaking noise coming from the pads. You instruct the customer to bring the vehicle back to the garage so the brake pads can be replaced with a different type.
 
 ## How to Return Parts to the Vendor Under Warranty
-1. Start by creating a **Purchase Order** to order the replacement brake pads you’ll be fitting. Once the new brake pads arrive, **Post** the order to confirm receipt.
+1. Start by creating a **Purchase Order** to order the replacement brake pads you’ll be fitting. Once the new replacement brake pads arrive, **Post** the order to confirm receipt.
 
    ![](media/garagehive-return-warranty-parts-to-vendor1.png)
 
-2. Create a Jobsheet for the customer as usual, adding the new brake pads and the associated labour for fitting them.
+2. Create a Jobsheet for the customer as usual, adding the new replacement brake pads and the associated labour for fitting them.
 
    ![](media/garagehive-return-warranty-parts-to-vendor2.png)
 
-3. After completing the job as required, before you post the **Jobsheet**, create a [**Return Jobsheet**](garagehive-service-return-order.html){:target="_blank"} for that customer and the vehicle. Enter the labour and parts originally fitted, then post the **Return Jobsheet**.
+3. After completing the job as required, before you post the **Jobsheet**, create a [**Return Jobsheet**](garagehive-service-return-order.html){:target="_blank"} for that customer and the vehicle. Enter the labour and the faulty parts originally fitted, then post the **Return Jobsheet**. This is to bring the faulty parts back into stock.
 
    ![](media/garagehive-return-warranty-parts-to-vendor3.png)
 
-4. Adjust the **Jobsheet** for the new brake pads to match the amount on the posted **Return Jobsheet**, then post the Jobsheet using credit terms.
+4. After you have created and posted the Return Jobsheet return to the customers Jobsheet and adjust the **Jobsheet** for the new replacement brake pads to match the amount on the posted **Return Jobsheet**, then post the Jobsheet using credit terms.
 
    ![](media/garagehive-return-warranty-parts-to-vendor4.png)
 
@@ -37,11 +37,11 @@ A customer purchased a set of PAGID brake pads, but three days later, they conta
 
    ![](media/garagehive-return-warranty-parts-to-vendor6.png)
 
-7. Click **Home**, then select **Set Applies-to ID**, followed by **Post Application** to complete the process.
+8. Click **Home**, then select **Set Applies-to ID**, followed by **Post Application** to complete the process.
 
    ![](media/garagehive-return-warranty-parts-to-vendor7.png)
 
-8. Finally, create a **Purchase Return Order** for the originally fitted brake pads that were returned to stock when the Return Jobsheet was posted. Post the return order and ship the brake pads back to the vendor.
+9. Finally, create a **Purchase Return Order** for the faulty originally fitted brake pads that were returned to stock when the Return Jobsheet was posted. Post the return order and ship the brake pads back to the vendor.
 
    ![](media/garagehive-return-warranty-parts-to-vendor8.png)
 
