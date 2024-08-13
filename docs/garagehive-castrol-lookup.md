@@ -15,14 +15,14 @@ Garage Hive users can now use Castrol Lookup to easily search for appropriate oi
 
 3. The **Castrol Lookup** page opens, and you can select the oil type that you are looking for to view the required capacity and details.
 
-   ![](media/garagehive-castrol-lookup-use2.gif)
+   ![](media/garagehive-castrol-lookup-use2.png)
 
 4. If the Castrol service cannot find your vehicle registration number, an error message will appear, giving you the option to select the **Make** and **Model** of the vehicle. Click **Yes** to proceed.
 
    ![](media/garagehive-castrol-lookup-use3.png)
 
-5. Follow the prompts to select the exact **Make** and **Model** of the vehicle that you want.
+5. Follow the prompts to select the exact **Make** and **Model** of the vehicle that you want, and click **OK** when done.
 
-   ![](media/garagehive-castrol-lookup-use4.gif)
+   ![](media/garagehive-castrol-lookup-use4.png)
 
 [Go back to top](#top)
