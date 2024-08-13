@@ -56,11 +56,15 @@ To start using the **Gearbox Sales** module, the following setup is required in 
 
    ![](media/garagehive-gearbox-sales-setup7.gif)
 
-4. Create a new **Service Type** in the field **Recharge Invoice Service Type**, with the code **GEARBOXES**, Description as **Gearboxes**, and the Group Code as **Repairs**.
+4. Create a new **Service Type** in the field **Recharge Invoice Service Type**.
 
-   ![](media/garagehive-gearbox-sales-setup8.gif)
+   ![](media/garagehive-gearbox-sales-setup8.png)
+
+5. Add the code as **GEARBOX**, Description as **Gearbox**, and the Group Code as **Repairs**.
+
+   ![](media/garagehive-gearbox-sales-setup10.png)
    
-5. Add the new customer card to the **Default Internal Customer No.** field.
+6. Add the new customer card to the **Default Internal Customer No.** field.
 
    ![](media/garagehive-gearbox-sales-setup9.png)
 
