@@ -172,9 +172,12 @@ To make it easier to manage the email **Message** body, you can create **Text Te
 ### Accessing email outbox
 To access the draft emails in the outbox:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Email Outbox**, and select the related link.
+
+   ![](media/garagehive-email-feature12.png)
+
 2. Choose the draft email that you want to continue editing. You can view the document from which the email was created by selecting **Show Source**.
 
-   ![](media/garagehive-email-feature12.gif)
+   ![](media/garagehive-email-feature22.png)
 
 [Go back to top](#top)
 
@@ -194,15 +197,16 @@ You can keep track of how many copies of a posted document were sent via email. 
 
    ![](media/garagehive-email-feature14.png)
 
-2. Scroll down to the **Details** FastTab in the document you've chosen (click **Show More** to see all the fields). 
+2. Scroll down to the **Details** FastTab in the **Posted Jobsheet** document you've chosen (click **Show More** to see all the fields). 
+3. The **No. of Emailed Documents** field indicates how many copies of that document have been emailed.
 
    ![](media/garagehive-email-feature15.png)
 
-3. The **No. of Emailed Documents** field indicates how many copies of that document have been emailed.
+4. For the **Posted Sales Invoice** document, go to the **General** FastTab.
 
    ![](media/garagehive-email-feature16.png)
 
-4. When you click on the number in the **No. of Emailed Documents** field, the **Communication Log Entries** for that document open, and you can view the customer to whom the document was sent, who sent it, and so on.
+5. When you click on the number in the **No. of Emailed Documents** field, the **Communication Log Entries** for that document open, and you can view the customer to whom the document was sent, who sent it, and so on.
 
    ![](media/garagehive-email-feature17.png)
 
