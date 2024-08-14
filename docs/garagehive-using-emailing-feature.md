@@ -9,14 +9,15 @@ title: Setting Up and Using Emailing Feature in Garage Hive
 1. [Email setup](#email-setup)
    - [Microsoft office 365 email account setup](#microsoft-office-365-email-account-setup)
    - [Gmail email account setup](#gmail-email-account-setup)
-2. [Using the emailing feature](#using-the-emailing-feature)
+2. [Using the Emailing Feature](#using-the-emailing-feature)
 3. [Adding Email Text Templates](#adding-email-text-templates)
 4. [Attaching a Document to the Email](#attaching-a-document-to-the-email)
-5. [Accessing email outbox](#accessing-email-outbox)
-6. [Accessing sent emails](#accessing-sent-emails)
-7. [View email logs for posted documents](#view-email-logs-for-posted-documents)
+5. [Accessing Email Outbox](#accessing-email-outbox)
+6. [Accessing Sent Emails](#accessing-sent-emails)
+7. [View Email Logs for Posted Documents](#view-email-logs-for-posted-documents)
+8. [Email Setup for Multi-Branch Garage](#email-setup-for-multi-branch-garage)
 
-### Email setup
+### Email Setup
 If your system does not have an email setup, you must do the setup before using the emailing feature:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Email Accounts**, and select the related link.
 2. Select **New** and then **Add an email account**.
@@ -30,7 +31,7 @@ If your system does not have an email setup, you must do the setup before using 
 
 [Go back to top](#top)
 
-#### Microsoft office 365 email account setup
+#### Microsoft Office 365 Email Account Setup
 There are two options for setting up the **Microsoft Office 365 email account**, one is when you have a **Multi-factor Authentication** method enabled, this is when the user is required to provide two or more verification factors to gain access to your Microsoft account, and two is when you don't have the **Multi-factor Authentication** enabled. First, let's look at scenario one.
 1. When you have the **Multi-factor Authentication** enabled, you will require an **App Password** which you get from your microsoft account, [read more](https://support.microsoft.com/en-us/account-billing/manage-app-passwords-for-two-step-verification-d6dc8c6d-4bf7-4851-ad95-6d07799387e9){:target="_blank"}. An App Password is a 16-digit passcode that gives the Garage Hive app permission to access your Microsoft Account.
 1. To get the **App Password**, sign in to your Microsoft account, go to the [My Account page](https://myaccount.microsoft.com/{:target="_blank"}) and select **Security info**.
@@ -70,7 +71,7 @@ There are two options for setting up the **Microsoft Office 365 email account**,
 
 [Go back to top](#top)
 
-#### Gmail email account setup
+#### Gmail Email Account Setup
 To set up a **Gmail email account:**
 1. First you have to generate an **App Password**, from your [Google Account](https://myaccount.google.com/){:target="_blank"}. An App Password is a 16-digit passcode that gives a Garage Hive app permission to access your Google Account. App Passwords can only be used with accounts that have 2-Step Verification turned on, [read more](https://support.google.com/accounts/answer/185833?hl=en){:target="_blank"}.
 1. From your google account, select **Security**, and under **Signing in to Google**, select **App Passwords.**
@@ -93,7 +94,7 @@ To set up a **Gmail email account:**
 
 [Go back to top](#top)
 
-### Using the emailing feature
+### Using the Emailing Feature
 The emailing feature is available in Jobsheets, Estimates, Vehicle Inspection Estimates, and Checklists. Here's how to get the most out of the feature:
 1. To use the Email feature, go to the document's menu bar; 
       * Select **Print/Send** followed by **Email** for Estimates, Vehicle Inspection Estimates, and Checklists.
@@ -169,7 +170,7 @@ To make it easier to manage the email **Message** body, you can create **Text Te
 
 [Go back to top](#top)
 
-### Accessing email outbox
+### Accessing Email Outbox
 To access the draft emails in the outbox:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Email Outbox**, and select the related link.
 
@@ -181,7 +182,7 @@ To access the draft emails in the outbox:
 
 [Go back to top](#top)
 
-### Accessing sent emails
+### Accessing Sent Emails
 To access the sent emails in the system:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Sent Emails**, and select the related link.
 2. You can view the sent email by selecting it from the list that appears.
@@ -191,7 +192,7 @@ To access the sent emails in the system:
 
 [Go back to top](#top)
 
-### View email logs for posted documents
+### View Email Logs for Posted Documents
 You can keep track of how many copies of a posted document were sent via email. This is how you do it:
 1. Open the posted document you want to check from the **Posted & Archived Documents** menu in the Role Centre, such as **Posted Jobsheet** and **Posted Sales Invoice**.
 
@@ -209,6 +210,39 @@ You can keep track of how many copies of a posted document were sent via email. 
 5. When you click on the number in the **No. of Emailed Documents** field, the **Communication Log Entries** for that document open, and you can view the customer to whom the document was sent, who sent it, and so on.
 
    ![](media/garagehive-email-feature17.png)
+
+
+[Go back to top](#top)
+
+### Email Setup for Multi-Branch Garage
+Garage Hive allows you to set up custom email addresses for each branch, enabling you to send emails from documents or reminders to customers using branch-specific email addresses. To setup this:
+1. Ensure that all the email accounts for your branches are set up, see how to setup the emails [here](#email-setup).
+
+   ![](media/garagehive-email-multi-branch1.png)
+
+2. Then in the top right corner, choose the ![](media/search_icon.png) icon, enter **Locations**, and select the related link.
+
+   ![](media/garagehive-email-multi-branch2.png)
+
+3. Click on the **Code** of the location card for the branch where you want to setup a custom email.
+
+   ![](media/garagehive-email-multi-branch3.png)
+
+4. On the location card, under the **General** FastTab, set the **Email Account Type** field to Custom. Then, click on the ellipsis(...) next to the **Email Account** field to choose the desired email address.
+
+   ![](media/garagehive-email-multi-branch4.png)
+
+5. Select the appropriate email account and click **OK**.
+
+   ![](media/garagehive-email-multi-branch5.png)
+
+6. The custom email for the branch is now set up. Repeat this process for each branch to setup their respective emails.
+
+   ![](media/garagehive-email-multi-branch6.png)
+
+7. When you send an email from the system, whether it's a document or a booking reminder, the default "From" address will be the email you setup for that branch.
+
+   ![](media/garagehive-email-multi-branch7.png)
 
 
 [Go back to top](#top)
