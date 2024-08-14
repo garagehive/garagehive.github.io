@@ -3,6 +3,8 @@ layout: docs
 title: Using Parts Sales Return Order in Garage Hive
 ---
 
+<a name="top"></a>
+
 # Using Parts Sales Return Order in Garage Hive
 **Parts Sales Return Order** is the document used to credit items sold to customers. **Parts Sales Return Order** allows you to receive parts from multiple sales documents with a single sales return and automatically create related **Parts Sales Credit Memo**. 
 
@@ -39,6 +41,8 @@ Here's how to use the **Parts Sales Return Order** in Garage Hive:
 
 10. The **Sales Return Order** will be posted, and a **Posted Sales Credit Memo** will be generated.
 
+
+[Go back to top](#top)
 
 <br>
 
