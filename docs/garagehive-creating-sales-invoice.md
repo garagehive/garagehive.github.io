@@ -22,7 +22,7 @@ To create a **Sales Invoice**:
 
    ![](media/garagehive-parts-sales-invoice3.png)
 
-4. When the customer pays the bill, you can proceed with posting the document and taking payment. select the **Post** option from the **Take Payment** split button dropdown menu under **Home** in the menu bar.
+4. When the customer pays the bill, you can proceed with posting the document and taking payment. Select the **Post** option from the **Take Payment** split button dropdown menu under **Home** in the menu bar.
 
    ![](media/garagehive-parts-sales-invoice4.png)
 
