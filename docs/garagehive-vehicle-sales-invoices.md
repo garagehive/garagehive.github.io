@@ -3,6 +3,8 @@ layout: docs
 title: Using Vehicle Sales Invoices
 ---
 
+<a name="top"></a>
+
 ## Using the Vehicle Sales Invoices
 Vehicle Sales Invoice is the invoice created in the system when the customer confirms the purchase of the vehicle. There are several types of invoices used for vehicle sales:
 
@@ -71,14 +73,16 @@ The type of invoice is indicated in the **Vehicle Sales Invoice Type** column of
 
    ![](media/garagehive-vehicle-sales-invoice12.png)
 
-3. Choose **Posting** and **Post Batch** from the menu bar. This will post all of the selected invoices at once.
+3. Select the **Post Batch** option from the **Post** split button dropdown menu in the menu bar. This will post all of the selected invoices at once.
 
    ![](media/garagehive-vehicle-sales-invoice13.png)
 
 4. On the page that opens, enter the dates as today's date and click **OK**.
 
    ![](media/garagehive-vehicle-sales-invoice14.png)
-   
+
+
+ [Go back to top](#top)  
 
 <br>
 

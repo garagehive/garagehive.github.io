@@ -17,20 +17,24 @@ When using Vehicle Sales, it is recommended that any data related to vehicle sal
 5. [Creating a Vehicle Sales Invoice](#creating-a-vehicle-sales-invoice)
 
 ### Creating a Vehicle Sales Order
-1. From the Role Centre, select the **Sales Orders** tiles, and click on **New** from the actions bar in the page that opens.
+1. From the Role Centre, select the **Sales Orders** tiles.
+
+   ![](media/garagehive-vehicle-sales-order15.png)
+
+2. Click on **New** from the actions bar in the page that opens.
 
    ![](media/garagehive-vehicle-sales-order1.png)
 
-2. Choose whether the vehicle sale **Deal Type** is a **Stock Sale**, in which you sell the vehicles you have in stock, or a **Sale or Return**, in which you return the unsold stock to the wholesaler or manufacturer.
-3. Then, in the fields such as **Vehicle Registration No.**, **Mileage**, **Order Date**, **SalesPerson Code** and *Vehicle Item No.** (The number of the vehicle being sold), enter the vehicle's details.
+3. Choose whether the vehicle sale **Deal Type** is a **Stock Sale**, in which you sell the vehicles you have in stock, or a **Sale or Return**, in which you return the unsold stock to the wholesaler or manufacturer.
+4. Then, in the fields such as **Vehicle Registration No.**, **Mileage**, **Order Date**, **SalesPerson Code** and *Vehicle Item No.** (The number of the vehicle being sold), enter the vehicle's details.
    
    ![](media/garagehive-vehicle-sales-order2.png)
 
-4. Make sure to specify the **Source of Payments** for **Addons** under the **General** FastTab, which can be either the **Customer** or the **Finance Company**.
+5. Make sure to specify the **Source of Payments** for **Addons** under the **General** FastTab, which can be either the **Customer** or the **Finance Company**.
 
    ![](media/garagehive-vehicle-sales-order3.png)
 
-5. Enter the details of the customer to whom you are selling the vehicle under **Customer** FastTab.
+6. Enter the details of the customer to whom you are selling the vehicle under **Customer** FastTab.
 
    ![](media/garagehive-vehicle-sales-order4.png)
 
