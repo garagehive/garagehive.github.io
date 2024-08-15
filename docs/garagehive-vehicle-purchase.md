@@ -17,7 +17,7 @@ When using the Vehicle Sale Module, you must have vehicles available for sale in
 
    ![](media/garagehive-vehicle-item-card-purchase1.png)
 
-2. Click on **New**, to create a new Item Card.
+2. Click on **New**, to create a new **Item Card**.
 
    ![](media/garagehive-vehicle-item-card-purchase2.png)
 
@@ -34,11 +34,11 @@ When using the Vehicle Sale Module, you must have vehicles available for sale in
 [Go back to top](#top)
 
 ### Create a Purchase Invoice
-1. Select **Purchasing**, and then **Invoices** from the navigation menu in the Role Centre, or click on the **Purchase Invoice** action.
+1. Select **Purchasing**, and then **Purchase Invoices** from the navigation menu in the Role Centre.
 
    ![](media/garagehive-vehicle-purchase-invoice1.png)
 
-2. Choose **New** from the **Invoices** page.
+2. Choose **New** from the **Purchase Invoices** list page.
 
    ![](media/garagehive-vehicle-purchase-invoice2.png)
 
@@ -46,7 +46,7 @@ When using the Vehicle Sale Module, you must have vehicles available for sale in
 
    ![](media/garagehive-vehicle-purchase-invoice3.png)
 
-4. When you receive the vehicle from the seller, enter the **Vendor Invoice No.** and click on **Posting** followed by **Post**, to post the Invoice.
+4. When you receive the vehicle from the seller, enter the **Vendor Invoice No.** and click on **Home** select **Post** in the menu bar, to post the Invoice.
 
    ![](media/garagehive-vehicle-purchase-invoice4.png)
 
