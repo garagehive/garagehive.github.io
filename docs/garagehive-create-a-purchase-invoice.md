@@ -6,11 +6,11 @@ title: How to Create a Purchase Invoice in Garage Hive
 <a name="top"></a>
 
 # How to Create a Purchase Invoice in Garage Hive
-In this article, the first question to answer is why use a **Purchase Invoice** instead of a **Purchase Order**? The best answer to that question is that Purchase Invoices are used when the item being purchased does not need to be linked with a Jobsheet. 
+In this article, we'll first address the question: why opt for a **Purchase Invoice** instead of a **Purchase Order**? The most straightforward reason is that Purchase Invoices are used when the purchased item doesn't need to be associated with a Jobsheet. 
 
-For instance, if you require a workshop tool for use in your garage, you need to create a Purchase Invoice, so it can be posted directly to the relevant G/L Account. 
+For example, if you need to purchase a workshop tool for use in your garage, you'll create a Purchase Invoice, allowing it to be posted directly to the relevant General Ledger (G/L) Account. 
 
-Purchase Invoices can also be used for any bills coming into the business, such as tyre Disposal Invoices, Utility Bills, etc.
+Purchase Invoices are also suitable for handling any incoming bills, such as tyre disposal invoices, utility bills, and similar expenses.
 
 To create a **Purchase Invoice:**
 1. From the Role Centre/Home Screen, select **Purchasing** followed by **Purchase Invoices.**   
@@ -41,7 +41,7 @@ To create a **Purchase Invoice:**
 
    ![](media/garagehive-create-a-purchase-invoice4.png)
 
-5. Once you confirm that the vendor invoice's cost and document date matches with those on the **Purchase Invoice** and that the posting date is correct, select **Posting** and then **Post** from the menu bar.
+5. Once you confirm that the vendor invoice's cost and document date matches with those on the **Purchase Invoice** and that the posting date is correct, select **Home**, followed by **Post** from the menu bar.
 
    ![](media/garagehive-create-a-purchase-invoice5.png)
 
