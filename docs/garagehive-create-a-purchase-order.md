@@ -18,7 +18,7 @@ Purchase Orders are commonly used in Business-to-Business (B2B) transactions to 
 7. [Undo Receipt on Received Items](#undo-receipt-on-received-items)
 8. [Available Price Columns in Purchase Orders](#available-price-columns-in-purchase-orders)
 
-### Creating a Purchase Order directly from a Document
+### Creating a Purchase Order Directly from a Document
 To create a purchase order directly from a document (Such as a Jobsheet, Estimate or a VI Estimate):
 1. Open the relevant document and scroll down to the **Lines** FastTab.
 1. Select the **Type** column as **Item** and, if you know the part number or the item is in stock, start typing the part number or description in the **No.** column. 
@@ -46,32 +46,31 @@ To create a purchase order directly from a document (Such as a Jobsheet, Estimat
    ![](media/garagehive-parcel-icon-jobsheet-line1.png)
 
 1. Click on the parcel icon, to open the **Posted Purchase Receipt** of the part.
-
-   ![](media/garagehive-parcel-icon-jobsheet-line2.gif)
-
 1. If the vendor selected does not have the items, or there is a problem ordering, you can unlink the document from the purchase order by selecting the **Unlink From Purchase Document** action under **Parts** in the menu bar, allowing you to create a new purchase order with a different supplier.
-1. Delete the lines from the previously created purchase order(s).
 
    ![](media/garagehive-creating-a-purchase-order5.png)
+
+1. Delete the lines from the previously created purchase order(s).
+
 
 [Go back to top](#top)
 
 ### Creating a Purchase Order from a Document Confirmation Worksheet
-When creating a Purchase Order from a document (Jobsheet, Estimate and VI Estimate), there is also option of using the **Confirmation Worksheet**:
-1. Select **Parts** from the menu bar, then **Confirmation Worksheet**. A page with all of the parts added in the Jobsheet lines opens (excluding the labour).
-2. Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
+When creating a Purchase Order from a document (Jobsheet, Estimate and VI Estimate), there is also the option of using the **Confirmation Worksheet**:
+1. Select **Parts** from the menu bar, then **Confirmation Worksheet**. 
+
+   ![](media/garagehive-creating-a-purchase-order10.png)
+
+2. A page with all of the parts added in the Jobsheet lines opens (excluding the labour). Select the **Purchase (Special)** checkbox column on all item lines that need to be ordered on the **Parts Order Confirmation** page and enter the **Vendor No.**.
 3. Select **Create Purchase Order(s)** from the menu bar when done. The Purchase Order(s) has now been created and is ready for the parts to be ordered.
 
-   ![](media/garagehive-creating-a-purchase-order10.gif)
+   ![](media/garagehive-creating-a-purchase-order11.png)
 
 [Go back to top](#top)
 
 ### Create and Email the Purchase Order from a Jobsheet
 Instead of simply creating a Purchase Order from the Jobsheet, you may want to create the Purchase Order and email it to the Vendor:
 1. Ensure that the **Purchase (Special)** checkbox column is selected for the items you want to order, and that the Vendor is chosen in the **Vendor No.** column.
-
-    ![](media/garagehive-create-and-email-a-purchase-order1.png)
-
 2. Select **Parts** from the menu bar, then the **Create and Email Purchase Order(s)** action to create and email the Purchase Order(s).
 
     ![](media/garagehive-create-and-email-a-purchase-order2.png)
@@ -80,7 +79,7 @@ Instead of simply creating a Purchase Order from the Jobsheet, you may want to c
 
     ![](media/garagehive-create-and-email-a-purchase-order3.png)
 
-4. Select the option to use to select the document sending profile in the next prompt. Document sending profile includes predefined rules and settings that dictate how the documents are sent. Click **OK**. 
+4. In the following prompt, select the document sending profile. This profile consists of predefined rules and settings that determine the document sending process to the vendor. Click **OK**.
 
    ![](media/garagehive-create-and-email-a-purchase-order4.png)
 
@@ -91,28 +90,37 @@ Instead of simply creating a Purchase Order from the Jobsheet, you may want to c
 
 [Go back to top](#top)
 
-### Creating a Purchase Order from the role centre
-This option is used when ordering parts not designated to a specific document, such as stock items. To create a Purchase Order from the home screen:
-1. Select **Purchasing**, and then **Purchase Orders** from the navigation menu in the home screen.
-2. Choose **New** from the **Purchase Orders** page.
+### Creating a Purchase Order from the Role Centre
+Use this option when ordering parts not linked to a specific document, such as stock items. To create a Purchase Order from the home screen, follow these steps:
+1. From the home screen, select **Purchasing**, then choose **Purchase Orders** from the navigation menu.
+
+   ![](media/garagehive-creating-a-purchase-order6.png)
+
+2. On the **Purchase Orders** list page, click New.
+
+   ![](media/garagehive-creating-a-purchase-order7.png)
+
 3. Start typing the vendor name in the **Vendor No.** field, and select from the list. If the vendor is not available in the system you can [create a new vendor card](garagehive-create-a-vendor-card.html){:target="_blank"}.
-4. In the **General** FastTab, enter the vendor invoice number in the **Vendor Invoice No.** field, and ensure that the document date matches the invoice they sent.
 
-   ![](media/garagehive-creating-a-purchase-order6.gif)
+   ![](media/garagehive-creating-a-purchase-order8.png)
 
-5. Scroll down to the **Lines** FastTab and add the items from the supplier invoice by selecting **Item** in the **Type** column and entering the part number in the **No.** column, or [create an item card](garagehive-create-an-item-card.html){:target="_blank"} for items not in stock list.
+4. Scroll down to the **Lines** FastTab and add the items from the supplier invoice. Select Item in the **Type** column and enter the part number in the **No.** column. If the item is not listed, you can [new create an item card](garagehive-create-an-item-card.html){:target="_blank"}.
 
-   ![](media/garagehive-creating-a-purchase-order7.gif)
+   ![](media/garagehive-creating-a-purchase-order9.png)
 
-6. If you want to link the purchase order to a jobsheet, go to the **General** FastTab, then to the **Purch. Source Type** field, and choose **Jobsheet.**
-7. Select the Jobsheet to link to in the **Jobsheet No.** field, which is located below the **Purch. Source Type** field.
-8. Select **Special Order** from the menu bar, followed by **Add Item Lines to Jobsheet** action.
+5. To link the purchase order to a Jobsheet, go to the **General** FastTab, locate the **Purch. Source Type** field, and select **Jobsheet**.
+6. In the **Jobsheet No.** field, just below **Purch. Source Type**, select the appropriate Jobsheet.
+7. From the menu bar, choose **Special Order**, then select **Add Item Lines to Jobsheet**.
 
-   ![](media/garagehive-creating-a-purchase-order8.gif)
+   ![](media/garagehive-creating-a-purchase-order12.png)
 
-9. You can now post the Purchase Order by choosing **Posting** and then **Post** from the menu bar.
+8. When you receive the items from the vendor, enter the vendor invoice number in the **Vendor Invoice No.** field, and ensure that the document date matches the invoice they sent.
 
-   ![](media/garagehive-creating-a-purchase-order9.gif)
+   ![](media/garagehive-creating-a-purchase-order13.png)
+
+9. You can now post the Purchase Order by choosing **Home** and then **Post** from the menu bar.
+
+   ![](media/garagehive-creating-a-purchase-order14.png)
 
 
 [Go back to top](#top)
@@ -121,12 +129,9 @@ This option is used when ordering parts not designated to a specific document, s
 When the items are received in the garage, without an invoice it is possible to first receive them in the system and then when you get an invoice you post them using the invoice. To receive the items first:
 1. Open the purchase order with the items to be received. 
 2. Under the **Lines** FastTab, in the **Qty. to Receive** column, delete the quantity for the items yet to be received and leave only the quantity for the items to receive.
+3. In the menu bar, select **Home** and then **Post**.
 
    ![](media/garagehive-posting-a-purchase-order1.png)
-
-3. In the menu bar, select **Posting** and then **Post**.
-
-   ![](media/garagehive-posting-a-purchase-order2.png)
 
 4. Select **Receive** from the pop-up notification and click **OK**.
 
@@ -143,9 +148,9 @@ When the items are received in the garage, without an invoice it is possible to 
 [Go back to top](#top)
 
 ### How to Split a Purchase Order Across Multiple Invoices
-At times, it's possible that the items listed in a Purchase Order will be delivered through multiple invoices. Here is how to effectively process the Purchase Order with the multiple invoices:
-1. Open the Purchase Order with the items to be received.
-2. Delete from the **Qty. to Receive** column, the quantity of the item that has a different invoice (or the invoice has yet to be received).
+In some cases, the items listed in a Purchase Order (PO) may be delivered through several invoices. Here's how to effectively manage and process a Purchase Order with multiple invoices:
+1. Open the Purchase Order containing the items to be received.
+2. Adjust the **Qty. to Receive** column by removing the quantity of any items that are associated with a different invoice (or have not yet been invoiced).
 
    ![](media/garagehive-purchase-order-with-multiple-invoices1.png)
 
@@ -153,7 +158,7 @@ At times, it's possible that the items listed in a Purchase Order will be delive
 
    ![](media/garagehive-purchase-order-with-multiple-invoices2.png)
 
-4. Select **Posting** and then **Post** from the menu bar.
+4. Select **Home** and then **Post** from the menu bar.
 
    ![](media/garagehive-purchase-order-with-multiple-invoices3.png)
 
@@ -161,20 +166,20 @@ At times, it's possible that the items listed in a Purchase Order will be delive
 
    ![](media/garagehive-purchase-order-with-multiple-invoices4.png)
 
-6. The **Quantity Received** and **Quantity Invoiced** columns of the items in the invoice are filled with the respective quantities. However, for the other items in other invoices, their quantities are still displayed in the **Qty. to Receive** and **Qty. to Invoice** columns, as the Purchase Order is still open.
+6. The quantities in the **Quantity Received** and **Quantity Invoiced** columns will be updated accordingly for the items included in the invoice. Items associated with other invoices will remain in the **Qty. to Receive** and **Qty. to Invoice** columns, keeping the Purchase Order open.
 
    ![](media/garagehive-purchase-order-with-multiple-invoices5.png)
 
-7. Repeat the procedure for all the remaining invoices, making sure to enter the correct **Document Date**, **Posting Date**, and **Vendor Invoice Number** for each invoice. 
-8. After all the Items have been received and invoiced, the purchase order will be fully closed and posted, and will no longer be visible in the purchase order list.
+7. Repeat this process for each remaining invoice(s), ensuring you accurately enter the **Document Date**, **Posting Date**, and **Vendor Invoice Number** for each one. 
+8. Once all items have been received and invoiced, the Purchase Order will be fully closed and posted, and will no longer appear in the purchase order list.
 
-   ![](media/garagehive-purchase-order-with-multiple-invoices6.gif)
 
 [Go back to top](#top)
 
 ### Undo Receipt on Received Items
-1. When you receive items from a Purchase Order but need to reverse the receipt. Open the Purchase Order with the items you've just received.
-2. In the menu bar, select **Navigate** and then **Receipts**.
+When you receive items from a Purchase Order but need to reverse the receipt, here is the process: 
+1. Open the Purchase Order that includes the received items and is still in an open status.
+2. In the menu bar, select **Order**, then choose **Receipts**.
 
    ![](media/garagehive-posting-a-purchase-order6.png)
 
@@ -186,12 +191,15 @@ At times, it's possible that the items listed in a Purchase Order will be delive
 
    ![](media/garagehive-posting-a-purchase-order8.png)
 
+
+[Go back to top](#top)
+
 ### Available Price Columns in Purchase Orders
 The following price columns are available in the Purchase Order to indicate the various prices for the item as explained below:
-1. **Direct Unit Cost** - This is the cost of the item as purchased from the supplier.
-2. **Line Amount** - This is the total amount for all items in the line to be purchased from the supplier.
-3. **Item Card Unit Price** - This is the unit sales price for the item as it appears on the Item Card.
-4. **Sales Doc. Unit Price** - This is the unit sales price for the item as it appears on the linked sales document.
+1. **Direct Unit Cost** - The price at which the item is purchased from the supplier.
+2. **Line Amount** - The total amount for all items in that specific line to be purchased from the supplier.
+3. **Item Card Unit Price** - The unit sales price of the item as shown on the Item Card.
+4. **Sales Doc. Unit Price** - The unit sales price of the item as displayed on the linked sales document.
 
    ![](media/garagehive-purchase-order-price-columns1.png)
 
