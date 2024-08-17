@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 16th August 2024
+* Added the Vehicle Identification Number(VIN) to the Vehicle Checklist Card.
+* Added the vehicle model description on the Vehicle Sales Order Page, Vehicle Sales Invoice Printout, and Vehicle Sales Order Printout, ensuring that all sales documents reflect the updated vehicle details.
+* Added the ability to set up custom email addresses for each branch. This feature allows users to send emails from documents or reminders to customers using branch-specific email addresses, [read more](garagehive-using-emailing-feature.html#email-setup-for-multi-branch-garage).
+
 ### 6th August 2024
 * Added **TPMS**,  **Service Indicator** and **Technical Specificifications** quick access buttons within the Jobsheets for both Service Advisors and Technicians.
 
