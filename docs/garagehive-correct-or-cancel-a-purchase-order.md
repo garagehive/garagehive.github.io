@@ -22,7 +22,7 @@ If you accidentally posted a purchase order for the incorrect amount or to the w
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order2.png)
 
-3. Select **Correct** from the menu bar, followed by **Cancel Invoice**.
+3. Select **Home** from the menu bar, followed by **Cancel Invoice**.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order3.png)
 
@@ -34,11 +34,15 @@ If you accidentally posted a purchase order for the incorrect amount or to the w
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order5.png)
 
-6. After that, you'll see this message. This confirms that the credit memo was successfully posted. You are not required to open this, but you may do so if you so wish.
+6. After that, you'll see this following message. This confirms that the credit memo was successfully posted. 
+7. You are not required to open this, but you may do so if you so wish.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order6.png)
 
-7. You'll need to create a new purchase order if it was posted incorrectly.
+8. You'll need to create a new purchase order if it was posted incorrectly.
+
+
+[Go back to top](#top)
 
 ### Correct a Purchase Invoice
 To correct a **Posted Purchase Invoice:**
@@ -46,15 +50,19 @@ To correct a **Posted Purchase Invoice:**
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order7.png)
 
-2. Choose the Purchase Invoice you want to correct from the list of **Posted Purchase Invoices**, then open it. Copy the **Invoice Number** found on the top left corner of the page. You will need it later.
+2. Use the **Search** option to locate the required **Posted Purchase Invoice** in the list, and then **Open** it.
+
+   ![](media/garagehive-correct-or-cancel-a-purchase-order13.png)
+
+3. Copy the **Invoice Number** found on the top left corner of the page. You will need it later.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order8.png)
 
-3. Click on **Correct** from the menu bar, then select **Create Corrective Credit Memo**.
+4. Select **Home** from the menu bar, followed by the **Create Corrective Credit Memo** option from the split button dropdown menu under **Cancel Invoice**.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order9.png)
 
-4. In the **Purchase Credit Memo** that opens, select **Prepare** and then **Copy Document**.
+5. In the **Purchase Credit Memo** that opens, select **Prepare** and then **Copy Document**.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order10.png)
 
@@ -63,8 +71,11 @@ To correct a **Posted Purchase Invoice:**
    ![](media/garagehive-correct-or-cancel-a-purchase-order11.png)
 
 7. When you click **OK**, you will have a credit that will cancel the original **Purchase Invoice**. 
-8. If you leave it open for now and then create a new Purchase order for the correction to be made (you can use the **Copy document** feature again to make this process quicker). 
-9. After posting the **New Purchase Order**, post the credit memo to complete the correction process.
+8. Leave it open for now and then create a new Purchase order for the correction to be made (you can use the **Copy document** feature in the Purchase Order to make this process quicker).
+
+   ![](media/garagehive-correct-or-cancel-a-purchase-order14.png)
+
+9.  After posting the **New Purchase Order**, select **Home**, followed by **Post** to post the credit memo and complete the correction process.
 
    ![](media/garagehive-correct-or-cancel-a-purchase-order12.png)
 
