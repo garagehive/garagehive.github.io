@@ -8,9 +8,12 @@ title: Creating an Item Card
 # Creating an Item Card
 To create a new **Item Card:**
 1. Select **Catalogues** in the Home Screen/Role Centre, and then choose **Items**.
+
+   ![](media/garagehive-create-an-item-card1.png)
+
 2. Click on **New**, to create a new **Item Card.**
 
-   ![](media/garagehive-create-an-item-card1.gif)
+   ![](media/garagehive-create-an-item-card8.png)
 
 3. In the next window, select the most relevant **Template** for the item you wish to create, which pre-selects the **Item Category** within the item card.
 
