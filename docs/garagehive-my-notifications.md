@@ -3,6 +3,8 @@ layout: docs
 title: Managing My Notifications
 ---
 
+<a name="top"></a>
+
 # How to Edit Your Notifications Within Garage Hive.
 When using Garage Hive, you can manage your notifications to ensure that you have reminders for some of the actions you take. The following are some examples of notifications that you can manage:
 
@@ -28,6 +30,8 @@ To manage the notifications:
 
    ![](media/garagehive-my-notifications5.png)
 
+
+[Go back to top](#top)
 
 <br>
 
