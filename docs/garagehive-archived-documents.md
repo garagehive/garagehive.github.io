@@ -10,26 +10,40 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
 ### Types of Archived Documents
 1. Archived **Estimates** and **Vehicle Inspection Estimates**:
-   - An **Estimate** or a **Vehicle Inspection Estimate** is archived when you delete it.
-   - An archived estimate can be copied to another document using [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
-   - Using the **Restore** action from the archived document, you can restore the archived **Estimate** or **Vehicle Inspection Estimate**, where the original still exists and it's not posted.
+   - An **Estimate** or **Vehicle Inspection Estimate** is archived when deleted or published online.
+   - Archived estimates can be copied to other documents using the [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
+   - To access the Archived Estimates and VI Estimates, select **Posted & Archived  Documents** in the Role Centre, and select either **Archived Estimates** or **Archived VI Estimates**.
+
+      ![](media/garagehive-archived-estimate-vi-estimates.png)
+
+   - If the original document still exists and hasn't been deleted, you can restore an archived **Estimate** or **Vehicle Inspection Estimate** using the **Restore** action. 
 
       ![](media/garagehive-restore-estimate.png)
 
 2. Archived **Jobsheets** and **Return Jobsheets**:
-   - A **Jobsheet** or **Return Jobsheet** can be archived by deleting it or by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
+   - A **Jobsheet** or **Return Jobsheet** can be archived by deleting it, publishing it online (for Jobsheet) or by using the **Archive Document** action under **Functions** in **Actions** menu in the menu bar, and it can be archived multiple times, saving different **Archived Versions**.
 
       ![](media/garagehive-archive-jobsheets.png)
       
-   - An archived jobsheet can be copied to another document using [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
-   - Using the **Restore** action from the archived document, you can restore the archived **Jobsheet** or **Return Jobsheet**, where the original still exists and it's not posted.
+   - To access the Archived Jobsheets or Archived Return Jobsheets, select **Posted & Archived  Documents** from the Role Centre, and select either **Archived Jobsheets** or **Archived Return Jobsheets**.
+
+      ![](media/garagehive-archive-jobsheets-archived-return-jobsheets.png)
+
+   - An archived Jobsheet can be copied to another document using [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
+   - If the original document is still available and hasn't been posted or deleted, you can restore an archived Jobsheet or Return Jobsheet using the **Restore** action.
+
+      ![](media/garagehive-archive-jobsheets-archived-return-jobsheets2.png)
 
 3. Archived **Checklists**:
-   - A **Checklist** can be archived by deleting it or by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
+   - A **Checklist** can be archived by deleting it, publishing it online by selecting the **Archive Document** action from the **Home** menu, and it can be archived multiple times, saving different **Archived Versions**.
 
       ![](media/garagehive-archive-checklists1.png)
 
-   - You can print or email an archived checklist by selecting **Print** menu from the menu bar, followed by **Print Vehicle Inspection** or **Email** actions.
+   - To access the Archived Checklists, select **Posted & Archived  Documents** from the Role Centre, and select **Archived Checklists**.
+
+      ![](media/garagehive-archive-checklists3.png)
+
+   - Archived checklists can be printed or emailed by choosing the **Print** menu on the menu bar, then selecting **Print Vehicle Inspection** or **Email**.
 
       ![](media/garagehive-archive-checklists2.png)
 
@@ -38,7 +52,11 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-archive-purchase-order.png)
 
-   - You can print an archived purchase order by selecting **Related** from the menu bar, followed by **Version**, and then **Print**.
+   - To access the Archived Purchase Orders, select **Posted & Archived  Documents** from the Role Centre, and select **Archived Purchase Orders**.
+
+      ![](media/garagehive-archive-purchase-order3.png)
+
+   - You can print an archived purchase order by selecting **Home** from the menu bar, followed by **Print**.
 
       ![](media/garagehive-archive-purchase-order2.png)
 
