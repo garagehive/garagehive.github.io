@@ -12,7 +12,7 @@ Autodata Labour Time Adjustment is a feature that ensures that the actual time i
 
    ![](media/garagehive-autodata-labour-time-adjustment1.gif)
 
-2. Select the group of customers in the **Customer Category Code** field to adjust the labour times when the data is pulled from autodata. If you want to introduce the adjustment to all customers, leave this field blank.
+2. Select the group of customers in the **Customer Category Code** field to adjust the labour times when the data is pulled from Autodata. If you want to introduce the adjustment to all customers, leave this field blank.
 3. In the **Hours From** and **Hours To** fields, you define the range of job hours to which the time adjustment should apply. For example, you could specify that jobs with hours ranging from **0.5** to **3** should receive a 30% increase. To apply to all jobs with any hours, enter a **Zero** in these fields.
 
    ![](media/garagehive-autodata-labour-time-adjustment2.gif)
@@ -22,9 +22,9 @@ Autodata Labour Time Adjustment is a feature that ensures that the actual time i
 
    ![](media/garagehive-autodata-labour-time-adjustment3.gif)
 
-{% include tip.html title="Note" text="Some autodata repair times maybe cached in the system, and to make sure that the changes you make have immediate effect consider using the Clear Autodata Cache. In the Labour Time Adjustment page, click on More Options, Choose Actions and select Clear Autodata Cache." %}
+6. Some Autodata repair times maybe cached in the system, and to make sure that the changes you make have immediate effect consider using the **Clear Autodata Cache**. To do this, go to the **Labour Time Adjustment** page, click on **More Options**, select **Actions**, and then choose **Clear Autodata Cache**.
 
-![](media/garagehive-autodata-labour-time-adjustment4.png)
+   ![](media/garagehive-autodata-labour-time-adjustment4.png)
 
 
 [Go back to top](#top)
