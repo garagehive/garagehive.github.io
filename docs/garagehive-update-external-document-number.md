@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Updating an External Focument Number of a Posted Sales Invoice 
+title: Updating an External Document Number of a Posted Sales Invoice 
 ---
 
 <a name="top"></a>
