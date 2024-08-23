@@ -7,24 +7,22 @@ title: Autodata Labour Time Adjustment
 
 # Autodata Labour Time Adjustment
 
-Autodata Labour Time Adjustment is a feature that ensures that the actual time it takes to complete a job is captured when labour times are pulled from Autodata. The goal is to ensure that the garage does not undercharge for labour hours. Here's how you can change the time:
+**Autodata Labour Time Adjustment** is a feature designed to ensure that the actual time spent on a job is accurately reflected when pulling labour times from Autodata. This helps prevent undercharging for labour hours in the garage. Here’s how you can adjust the labour time:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Labour Time Adjustment**, and select the related link.
 
-   ![](media/garagehive-autodata-labour-time-adjustment1.gif)
+   ![](media/garagehive-autodata-labour-time-adjustment1.png)
 
-2. Select the group of customers in the **Customer Category Code** field to adjust the labour times when the data is pulled from Autodata. If you want to introduce the adjustment to all customers, leave this field blank.
-3. In the **Hours From** and **Hours To** fields, you define the range of job hours to which the time adjustment should apply. For example, you could specify that jobs with hours ranging from **0.5** to **3** should receive a 30% increase. To apply to all jobs with any hours, enter a **Zero** in these fields.
+2. In the **Customer Category Code** field, choose the customer group for which you want to adjust labour times when pulling data from Autodata. If you want the adjustment to apply to all customers, leave this field blank.
+3. Use the **Hours From (Greater Than or Equal To)** and **Hours To (Less Than)** fields to define the range of job hours that should receive the time adjustment. For example, if you want jobs taking between **0** and **1** hours to have a **25%** increase, specify this range. This means any job lasting from **0** to **0.999** hours will be increased by **25%**. 
+4. To apply the adjustment to all jobs, regardless of hours, enter 0 in these fields.
+5. In the **Value Type** field, select either **Percent** to increase labour time by a percentage, or Hours to increase it by a specific number of hours.
+6. Enter the desired **Percentage** or **Hours** in the **Increase Value** field.
 
-   ![](media/garagehive-autodata-labour-time-adjustment2.gif)
+   ![](media/garagehive-autodata-labour-time-adjustment2.png)
 
-4. Set the **Value Type** field to be either **Percent** to increase the labour time by a specific percentage, or **Hours** to increase the labour time by a certain number of hours.
-5. Then, in the **Increase Value** field, enter the value of the **Percentage** or **Hours**.
+7. Some Autodata repair times might be cached in the system. To ensure your changes take effect immediately, consider clearing the Autodata cache. To do this, go to the **Labour Time Adjustment** page, click on **More Options**, select **Actions**, and then choose **Clear Autodata Cache**.
 
-   ![](media/garagehive-autodata-labour-time-adjustment3.gif)
-
-6. Some Autodata repair times maybe cached in the system, and to make sure that the changes you make have immediate effect consider using the **Clear Autodata Cache**. To do this, go to the **Labour Time Adjustment** page, click on **More Options**, select **Actions**, and then choose **Clear Autodata Cache**.
-
-   ![](media/garagehive-autodata-labour-time-adjustment4.png)
+   ![](media/garagehive-autodata-labour-time-adjustment3.png)
 
 
 [Go back to top](#top)
