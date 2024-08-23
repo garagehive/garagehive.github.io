@@ -7,14 +7,14 @@ title: Posted & Archived Jobsheets.
 
 {% include youtube.html id="mFmimPCl9ns" %}
 
-##  Posted Jobsheets 
+##  Posted Jobsheets and Return Jobsheets 
 
-*   **Posted Jobsheets** This is where all posted jobsheets go. 
+* **Posted Jobsheets** This is where all posted jobsheets go. 
 -   From within the Posted Jobsheets, you can [Correct Incorrect Payments](https://docs.garagehive.co.uk/docs/garagehive-jobsheets-incorrectpayment.html "Correct Incorrect Payments"){:target="_blank"}. 
 
 *   **Posted Return Jobsheets** - This is where all Posted Return Jobsheets (Customer Jobsheet Credits) go. 
 
-##  Posted Invoices 
+##  Posted Sales and Purchase Invoices 
 
 *   **Posted Sales Invoices** - This shows a copy of all lines which have been invoiced on a specific jobsheet. 
 
@@ -22,21 +22,21 @@ title: Posted & Archived Jobsheets.
 
 -   Also, If a Purchase Order has been posted incorrectly either to the wrong , within Posted Purchase Credit Memos, you can [Correct or Cancel a Purchase Order](https://docs.garagehive.co.uk/docs/garagehive-correct-or-cancel-a-purchase-order.html "Correct or Cancel a Purchase Order"){:target="_blank"}. 
 
-##  Posted Credit Memos 
+## Posted Sales and Purchase Credit Memos 
 
-*   **Posted Sales Credit Memos** - This shows a copy of all lines which have been invoiced on a specific jobsheet. 
+* **Posted Sales Credit Memos** - This shows a copy of all lines which have been invoiced on a specific jobsheet. 
 
-*   **Posted Purchase Credit Memos** - You will be able to see any credits which have been posted from Vendors in here. 
+* **Posted Purchase Credit Memos** - You will be able to see any credits which have been posted from Vendors in here. 
 
-##  Posted Shipments 
+## Posted Sales, Return and Transfer Shipments 
 
-*   **Posted Sales Shipments** - This shows a copy of all lines which have been invoiced on a specific jobsheet. 
+* **Posted Sales Shipments** - This shows a copy of all lines which have been invoiced on a specific jobsheet. 
 
-*   **Posted Return Shipments** - When parts are shipped to a Vendor, they go into a Return Shipment. If you need to cancel a shipped part, you can do this within **Lines** followed by **Functions** then by selecting the relevant part and selecting **Undo Return Shipment**. 
+* **Posted Return Shipments** - When parts are shipped to a Vendor, they go into a Return Shipment. If you need to cancel a shipped part, you can do this within **Lines** followed by **Functions** then by selecting the relevant part and selecting **Undo Return Shipment**. 
 
-*   **Posted Transfer Shipments**   - If you are a multi branch location - This will show any Parts which have been transferred from one branch to another. 
+* **Posted Transfer Shipments**   - If you are a multi branch location - This will show any Parts which have been transferred from one branch to another. 
 
-##   Archived Documents 
+## Archived Documents 
 
 Whenever a document is deleted, this is not gone forever. It is placed into the relevant archived file. 
 
@@ -48,15 +48,13 @@ For archived documents where the original still exists and is not posted, you ca
 
 For archived documents where the original is deleted, you can only reuse the content by copying the data, for example with the **Copy Document** function.
 
-####    Types of Archived Documents 
+### Types of Archived Documents 
 
-*   Archived Estimates 
+* [Archived Estimates](garagehive-archived-documents.html#archived-estimates-and-vehicle-inspection-estimates){:target="_blank"}
 
-*   Archived Jobsheets
+* [Archived Jobsheets](garagehive-archived-documents.html#archived-jobsheets-and-return-jobsheets){:target="_blank"}
 
-*   Archived VHC
+* [Archived Checklists](garagehive-archived-documents.html#archived-checklists){:target="_blank"}
 
-*   Archived Checklists 
-
-*   Archived Purchase Orders 
+* [Archived Purchase Orders](garagehive-archived-documents.html#archived-purchase-orders){:target="_blank"}
 
