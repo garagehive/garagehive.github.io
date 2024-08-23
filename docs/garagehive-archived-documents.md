@@ -21,6 +21,9 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-restore-estimate.png)
 
+
+[Go back to top](#top)
+
 ### Archived Jobsheets and Return Jobsheets
    - A **Jobsheet** or **Return Jobsheet** can be archived by deleting it, publishing it online (for Jobsheet) or by using the **Archive Document** action under **Functions** in **Actions** menu in the menu bar, and it can be archived multiple times, saving different **Archived Versions**.
 
@@ -35,6 +38,9 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-archive-jobsheets-archived-return-jobsheets2.png)
 
+
+[Go back to top](#top)
+
 ### Archived Checklists
    - A **Checklist** can be archived by deleting it, publishing it online by selecting the **Archive Document** action from the **Home** menu, and it can be archived multiple times, saving different **Archived Versions**.
 
@@ -47,6 +53,9 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
    - Archived checklists can be printed or emailed by choosing the **Print** menu on the menu bar, then selecting **Print Vehicle Inspection** or **Email**.
 
       ![](media/garagehive-archive-checklists2.png)
+
+
+[Go back to top](#top)
 
 ### Archived Purchase Orders
    - A **Purchases Order** can be archived by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
