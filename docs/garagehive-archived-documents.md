@@ -8,8 +8,9 @@ title: Archived Documents
 # Archived Documents 
 You can archive purchase orders, estimates, jobsheets, and checklists, if you want to save a copy of a document for later use.
 
-### Types of Archived Documents
-1. Archived **Estimates** and **Vehicle Inspection Estimates**:
+## Types of Archived Documents
+
+### Archived Estimates and Vehicle Inspection Estimates
    - An **Estimate** or **Vehicle Inspection Estimate** is archived when deleted or published online.
    - Archived estimates can be copied to other documents using the [**Copy Document**](garagehive-copydocument.html){:target="_blank"} function.
    - To access the Archived Estimates and VI Estimates, select **Posted & Archived  Documents** in the Role Centre, and select either **Archived Estimates** or **Archived VI Estimates**.
@@ -20,7 +21,7 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-restore-estimate.png)
 
-2. Archived **Jobsheets** and **Return Jobsheets**:
+### Archived Jobsheets and Return Jobsheets
    - A **Jobsheet** or **Return Jobsheet** can be archived by deleting it, publishing it online (for Jobsheet) or by using the **Archive Document** action under **Functions** in **Actions** menu in the menu bar, and it can be archived multiple times, saving different **Archived Versions**.
 
       ![](media/garagehive-archive-jobsheets.png)
@@ -34,7 +35,7 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-archive-jobsheets-archived-return-jobsheets2.png)
 
-3. Archived **Checklists**:
+### Archived Checklists
    - A **Checklist** can be archived by deleting it, publishing it online by selecting the **Archive Document** action from the **Home** menu, and it can be archived multiple times, saving different **Archived Versions**.
 
       ![](media/garagehive-archive-checklists1.png)
@@ -47,7 +48,7 @@ You can archive purchase orders, estimates, jobsheets, and checklists, if you wa
 
       ![](media/garagehive-archive-checklists2.png)
 
-4. Archived **Purchase Orders**:
+### Archived Purchase Orders
    - A **Purchases Order** can be archived by using the **Archive Document** action, and it can be archived multiple times, saving different **Archived Versions**.
 
       ![](media/garagehive-archive-purchase-order.png)
