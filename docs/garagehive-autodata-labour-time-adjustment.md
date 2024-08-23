@@ -15,7 +15,7 @@ title: Autodata Labour Time Adjustment
 2. In the **Customer Category Code** field, choose the customer group for which you want to adjust labour times when pulling data from Autodata. If you want the adjustment to apply to all customers, leave this field blank.
 3. Use the **Hours From (Greater Than or Equal To)** and **Hours To (Less Than)** fields to define the range of job hours that should receive the time adjustment. For example, if you want jobs taking between **0** and **1** hours to have a **25%** increase, specify this range. This means any job lasting from **0** to **0.999** hours will be increased by **25%**. 
 4. To apply the adjustment to all jobs, regardless of hours, enter 0 in these fields.
-5. In the **Value Type** field, select either **Percent** to increase labour time by a percentage, or Hours to increase it by a specific number of hours.
+5. In the **Value Type** field, select either **Percent** to increase labour time by a percentage, or **Hours** to increase it by a specific number of hours.
 6. Enter the desired **Percentage** or **Hours** in the **Increase Value** field.
 
    ![](media/garagehive-autodata-labour-time-adjustment2.png)
