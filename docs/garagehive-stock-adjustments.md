@@ -11,7 +11,7 @@ Stock adjustment is required when there are discrepancies between the Physical S
 
    ![](media/garagehive-stock-adjustment1.png)
 
-1. Search for **Item Journal** in the **No. Series** column, and click **OK**.
+1. Ensure that the batch name is set to **Default**.
 
    ![](media/garagehive-stock-adjustment2.png)
 
@@ -22,7 +22,7 @@ Stock adjustment is required when there are discrepancies between the Physical S
    ![](media/garagehive-stock-adjustment3.png)
 
 1. Add as many items as you need, specifying whether it’s a Negative or Positive adjustment.
-1. When done, select **Posting** from the menu bar, followed by **Post**.
+1. When done, select **Home** from the menu bar, followed by **Post**.
 
    ![](media/garagehive-stock-adjustment4.png)
 
