@@ -3,6 +3,8 @@ layout: docs
 title: How to Create Item Price and Discount Groups
 ---
 
+<a name="top"></a>
+
 ## How to Create Item Price and Discount Groups
 Item price/Discount groups can be used to set up markups, pricing and discounts for specific items. To create Item Price or Discount groups: 
 
@@ -27,6 +29,8 @@ Item price/Discount groups can be used to set up markups, pricing and discounts 
 
    ![](media/item-price-groups5.png)
 
+
+[Go back to top](#top)
 
 <br>
 
