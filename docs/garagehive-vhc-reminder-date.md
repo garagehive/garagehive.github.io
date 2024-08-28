@@ -3,6 +3,8 @@ layout: docs
 title: Vehicle Inspection Estimates (VIE) Reminder Dates
 ---
 
+<a name="top"></a>
+
 #   Vehicle Inspection Estimates (VIE) Reminder Dates
 
 You have the option to defer any advisory work reported that has not been authorised by the customer within the Vehicle Inspection Estimate. You can provide your customer with a follow-up call for the recommended work.
@@ -44,6 +46,9 @@ When the reminder tiles are populated, you should ensure that you have followed 
 
 4. Schedule the job for the agreed-upon date, then **Select Existing Jobsheet** and add the Jobsheet linked to the Vehicle Inspection Estimate.
 5. After booking, open the Vehicle Inspection Estimate and copy the authorised lines to the Jobsheet.
+
+
+[Go back to top](#top)
 
 # See Also
  
