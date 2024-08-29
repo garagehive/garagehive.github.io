@@ -6,10 +6,15 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates:
 
+### 27th August 2024
+* Integrated the Isle of Man Vehicle Data Lookup service into the online booking system, enabling the identification of Isle of Man licence plates when customers from the region make an online booking, [read more](garagehive-onlinebooking-setup.html#enable-vehicle-data-lookup-by-regions){:target="_blank"}.
+
+   ![](media/garagehive-online-booking-isle-of-man.png)
+
 ### 16th August 2024
 * Added the Vehicle Identification Number(VIN) to the Vehicle Checklist Card.
 * Added the vehicle model description on the Vehicle Sales Order Page, Vehicle Sales Invoice Printout, and Vehicle Sales Order Printout, ensuring that all sales documents reflect the updated vehicle details.
-* Added the ability to set up custom email addresses for each branch. This feature allows users to send emails from documents or reminders to customers using branch-specific email addresses, [read more](garagehive-using-emailing-feature.html#email-setup-for-multi-branch-garage).
+* Added the ability to set up custom email addresses for each branch. This feature allows users to send emails from documents or reminders to customers using branch-specific email addresses, [read more](garagehive-using-emailing-feature.html#email-setup-for-multi-branch-garage){:target="_blank"}.
 
    ![](media/garagehive-multi-branch-email.png)
 
@@ -27,7 +32,7 @@ The following is a list of all new Garage Hive features and updates:
    ![](media/garagehive-show-document.png)
 
 * Enabled the splitting of scheduled standard events into separate allocations when paused and restarted from Easy Clocking, similar to service allocations.
-* Renamed the **Ask a Question** button in the Role Centre to **Get Support**, which now provides several options for customers to obtain support when clicked, [read more](support.html).
+* Renamed the **Ask a Question** button in the Role Centre to **Get Support**, which now provides several options for customers to obtain support when clicked, [read more](support.html){:target="_blank"}.
 
    ![](media/garagehive-get-support.png)
 
