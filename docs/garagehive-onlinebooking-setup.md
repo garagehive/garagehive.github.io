@@ -3,21 +3,24 @@ layout: docs
 title: Setting Up Online Booking
 ---
 
+<a name="top"></a>
+
 Online booking in Garage Hive allows customers to book, for example, MOT, servicing, or repairs from the business' websites or social media platforms available, and the booking is recorded directly in the Garage Hive system.
 
 ## In this article
 1. [Online Booking Setup](#online-booking-setup)
-2. [Get Embed HTML](#get-embed-html)
-3. [Get Standalone Page URL](#get-standalone-page-url)
+2. [Enable Vehicle Data Lookup by Regions](#enable-vehicle-data-lookup-by-regions)
+3. [Get Embed HTML](#get-embed-html)
+4. [Get Standalone Page URL](#get-standalone-page-url)
 
 
 ### Online Booking Setup 
 To setup online booking:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and choose the related link.
 
-   ![](media/garagehive-onlinebooking-setup1.gif)
+   ![](media/garagehive-onlinebooking-setup1.png)
 
-2. Under the **General** FastTab, you will see the **URL** for online booking, **Access Token**, **Instance ID**, and whether the setup is enabled.
+2. Under the **General** FastTab, you will see the **Access Token**, **Instance ID**, and whether the setup is enabled.
 
    ![](media/garagehive-onlinebooking-setup2.png)
 
@@ -38,17 +41,40 @@ To setup online booking:
 
         ![](media/garagehive-onlinebooking-setup4.gif)
 
-4. Under the **Internal Notification FastTab, you can set the following:
+4. Under the **Internal Notification** FastTab, you can set the following:
       - **Send To Emails** – This is usually left blank, but it can be used for additional email recipients; this is for a confirmation email that's sent to the branch.
       - **Send To BCC Emails** – You can use these if you need to BCC the confirmation somewhere else. Multiple addresses can be entered using the ";" character, as in service@thegarage.com;management@thegarage.com.
       - **Send To Branch Email** - It is best practise to check this box, as this will send the confirmation message to the email address specified in the branch setup, which we will do later in the setup.
 
         ![](media/garagehive-onlinebooking-setup5.png)
 
+
+[Go back to top](#top)
+
+### Enable Vehicle Data Lookup by Regions
+Enabling the Vehicle Data Lookup for the Great Britain, Ireland, and Isle of Man regions allows the identification of licence plates when customers from these areas make an online booking. To enable the Vehicle Data Lookup for these regions:
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Vehicle Data Lookup Setup**, and choose the related link.
+
+   ![](media/garagehive-vehicle-data-lookup-regions1.png)
+
+2. Scroll down to the Vehicle Data Lookup Regions FastTab, and tick the checkbox in the **Activated** column next to the region you want to make available for online booking.
+
+   ![](media/garagehive-vehicle-data-lookup-regions2.png)
+
+3. The regions will now be available in online booking, allowing customers to select their region below the **Registration No.** entry box on the booking page.
+
+   ![](media/garagehive-vehicle-data-lookup-regions3.png)
+
+
+[Go back to top](#top)
+
 ### Get Embed HTML
 The **Embed** tag in HTML is used for embedding the booking link to your HTML file (the website). To get the **Embed HTML** link, select **Actions** in the **Online Booking Setup** page, and click on **Get Embed HTML** for online booking or **Get Enquiry Only Embed HTML** for online enquiries.
 
    ![](media/garagehive-onlinebooking-setup6.png)
+
+
+[Go back to top](#top)
 
 ### Get Standalone Page URL
 The **Standalone Page URL** is suitable for businesses that do not have a website to which to add an **Embed HTML** tag. In this case, a **Standalone Page URL** can be used as a dedicated link for booking, such as on social media platforms like Facebook, where a **Book Now** button can be added, and when sending SMS notifications to customers.
@@ -60,5 +86,7 @@ The **Standalone Page URL** opens a web page, as shown below.
 
    ![](media/garagehive-onlinebooking-setup8.png)
 
+
+[Go back to top](#top)
 
 [Previous](/docs/garagehive-onlinebooking-intro.html) | [Next Step](/docs/garagehive-onlinebooking-branches.html)
