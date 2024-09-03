@@ -52,7 +52,7 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
 
 [Go back to top](#top)
 
-### Adding media to checklist lines
+### Adding Media to Checklist Lines
 When creating a Checklist, use the steps below to add media to the checklist lines:
 1. From the checklist lines, select the ellipsis (...) at the end of the checklist line to add the media.
 
@@ -92,7 +92,7 @@ When creating a Service Package, use the steps below to add media to the checkli
 
 [Go back to top](#top)
 
-### Managing all added media
+### Managing All Added Media
 A list of all added media to the system can be viewed and managed. To do so, follow these steps:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Media List** and select the related link.
 
