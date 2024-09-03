@@ -14,8 +14,7 @@ When it comes to using online documents, the group items feature is very importa
 3. [Duplicate Group, Merge Groups and Create Alternative Actions](#Duplicate-group,-merge-groups-and-create-alternative-actions)
 4. [Creating Service Package Version Action](#creating-service-package-version-action)
 5. [Matching Approved Line Groups Action](#matching-approved-line-groups-action)
-6. [Adding Checklist Attention Lines](Adding-checklist-attention-lines)
-7. [Lookup Tyre Catalogue](#lookup-tyre-catalogue)
+6. [Lookup Tyre Catalogue](#lookup-tyre-catalogue)
 
 
 ### Move Up and Move Down Actions
@@ -73,15 +72,6 @@ If you change a group description or price after it has been published and the c
 1. From the **Group Items** sub-page menu bar, select **Functions**, followed by **Match Approved Line Groups**.
 
    ![](media/garagehive-group-actions5.png)
-
-
-[Go back to top](#top)
-
-### Adding Checklist Attention Lines
-This action is available in Vehicle Inspection Estimates and allows you to add Vehicle Inspection Checklist lines as groups in the group items subpage.
-1. From the group items sub-page menu bar, select **Functions**, followed by **Add Checklist Attention Lines**.
-
-   ![](media/garagehive-group-actions6.gif)
 
 
 [Go back to top](#top)

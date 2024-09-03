@@ -96,25 +96,25 @@ The following actions are available for use on the menu bar of the vehicle card:
 
 ### 2. History 
 
-   * MOT History - View all MOT history of the vehicle which is taken from the DVSA website and includes all previous MOT failures and advisories. 
-   * [Vehicle History](/docs/garagehive-service-history.html "Vehicle History") - View all Service history of the vehicle.
-   * [Posted MOT History](/docs/garagehive-mot-history.html "MOT History") - View all MOT history of the vehicle. 
-   * Posted Jobsheets - View all posted jobsheets for this vehicle.
-   * Posted Invoices - View all posted invoices for this vehicle including costs. 
-   * Posted Credit Memos - View any posted credits for this vehicle. 
-   * Posted Return Jobsheets - View any posted credits for this vehicle. 
+   * **MOT History** - View all MOT history of the vehicle which is taken from the DVSA website and includes all previous MOT failures and advisories. 
+   * [**Vehicle History**](/docs/garagehive-service-history.html "Vehicle History") - View all Service history of the vehicle.
+   * [**Posted MOT History**](/docs/garagehive-mot-history.html "MOT History") - View all MOT history of the vehicle. 
+   * **Posted Jobsheets** - View all posted jobsheets for this vehicle.
+   * **Posted Invoices** - View all posted invoices for this vehicle including costs. 
+   * **Posted Credit Memos** - View any posted credits for this vehicle. 
+   * **Posted Return Jobsheets** - View any posted credits for this vehicle. 
 
       ![](media/garagehive-vehicle-card11.png)
 
 ### 3. Related 
 
-   * EV Components - View EV components for the vehicle.
-   * [Customer Card](/docs/garagehive-create-a-customer-card.html "Customer Card") - View the Customer information.  
-   * Process Checklist - View any completed checklists for this vehicle. 
-   * [Estimates](/docs/garagehive-create-an-estimate.html "Estimates") - View any estimates made for this vehicle. 
-   * Vehicle Inspection Estimates - View any Vehicle Inspection Estimates  linked to this vehicle.
-   * Jobsheets - View any Jobsheets linked to this vehicle. 
-   * Return Jobsheets - View any credits for this vehicle. 
+   * **EV Components** - View EV components for the vehicle.
+   * [**Customer Card**](/docs/garagehive-create-a-customer-card.html "Customer Card") - View the Customer information.  
+   * **Process Checklist** - View any completed checklists for this vehicle. 
+   * [**Estimates**](/docs/garagehive-create-an-estimate.html "Estimates") - View any estimates made for this vehicle. 
+   * **Vehicle Inspection Estimates** - View any Vehicle Inspection Estimates  linked to this vehicle.
+   * **Jobsheets** - View any Jobsheets linked to this vehicle. 
+   * **Return Jobsheets** - View any credits for this vehicle. 
 
       ![](media/garagehive-vehicle-card12.png)
 
