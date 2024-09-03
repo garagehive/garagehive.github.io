@@ -55,15 +55,22 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
 ### Adding media to checklist lines
 When creating a Checklist, use the steps below to add media to the checklist lines:
 1. From the checklist lines, select the ellipsis (...) at the end of the checklist line to add the media.
+
+   ![](media/garagehive-adding-and-managing-media11.png)
+
 2. From the pop-up menu, select the method for adding a picture to the line, in this case we'll use **Upload Line Picture**.
 
-   ![](media/garagehive-adding-and-managing-media4.gif)
+   ![](media/garagehive-adding-and-managing-media14.png)
 
 3. The checklist line will now display an available media with a photo icon on the line. When the checklist is printed, emailed, or published to an online document, the media will be displayed as well. 
 
    ![](media/garagehive-adding-and-managing-media5.png)
 
-4. To automatically start the take picture option when an attention option is selected, search for **Process Checklist Setup**, and on the **Process Checklist Setup** page, select the slider on **Take Line Picture On Attention** field.
+4. To automatically start the take picture option when a 'requires attention colour' is selected, click on the ![](media/search_icon.png) icon and search for **Process Checklist Setup**.
+
+   ![](media/garagehive-adding-and-managing-media13.png)
+
+5. On the **Process Checklist Setup** page, select the slider on **Take Line Picture On Attention** field.
 
    ![](media/garagehive-adding-and-managing-media8.png)
 
