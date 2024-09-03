@@ -11,7 +11,7 @@ Grouping document lines is a feature available in the estimates, vehicle inspect
 ## In this article
 1. [Creating and Adding Document Lines to a Group](#creating-and-adding-document-lines-to-a-group)
 2. [Select Document Lines First and Then Create a Group](#select-document-lines-first-and-then-create-a-group)
-3. [Creating Group Items from Checklist Attention Lines](#creating-group-items-from-checklist-attention-lines)
+3. [Creating Groups from Checklist and MOT Attention Lines](#reating-groups-from-checklist-and-mot-attention-lines)
 4. [Creating Groups by Inserting Service Packages](#creating-groups-by-inserting-service-packages)
 5. [Print or Preview the Document](#print-or-preview-the-document)
 
@@ -55,7 +55,7 @@ You can also add document lines to a group directly from the **Lines** section:
 
 [Go back to top](#top)
 
-### Creating Group Items from Checklist Attention Lines
+### Creating Groups from Checklist and MOT Attention Lines
 While working from a Vehicle Inspection Estimate, you may identify issues in the vehicle which require urgent attention. From these issues, you can create groups to enable you add items and labour. 
 
 > **Example**
@@ -63,12 +63,12 @@ While working from a Vehicle Inspection Estimate, you may identify issues in the
 > Suppose you have identified that the vehicle requires service, based on the mileage since the vehicle was last serviced. In that case, you can create a group under this heading (or rename the group to 'Full Servicing') and add servicing items and labour.
 
 
-To create a group from the Checklist attention items, first work on the Checklist lines and identify the 'requires attention' lines. **Confirm** and **Create a VIE**. 
+To create a group from the Checklist attention lines, first work on the Checklist lines and identify the 'requires attention' lines. **Confirm** and **Create a VIE**. 
 
    ![](media/garagehive-group-items8.png)
 
 Then carry out the following steps from VIE:
-1. Select **Prepare** from the menu bar, then choose **Add Checklist Attention Lines**.
+1. Select **Prepare** from the menu bar, then choose **Add Checklist Attention Lines** or **Add MOT Attention Lines**.
 
    ![](media/garagehive-group-items9.png)
 
