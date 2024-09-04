@@ -4,7 +4,7 @@ title: System Improvements in Garage Hive
 ---
 
 # System Improvements
-The following is a list of bug fixes and improvements in Garage Hive:
+The following is a list of system improvements in Garage Hive:
 
 ### 4th September 2024
 * Refined email notification for customer.
