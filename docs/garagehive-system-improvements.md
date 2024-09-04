@@ -7,8 +7,8 @@ title: System Improvements in Garage Hive
 The following is a list of system improvements in Garage Hive:
 
 ### 4th September 2024
-* Refined email notification for customer.
-* Refined support request email check.
+* Refined email notification for **Customer Notifications**.
+* Refined how support request email are handled.
 * Increased character limit for **Planning and Reminder Notes** field to accommodate more detailed entries.
 * Enhanced accountancy integration with the capability to define system-specific number prefixes.
 * Updated **Invoice Printout** to include discount values.

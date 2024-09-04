@@ -6,6 +6,9 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 4th September 2024
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 
 ### 27th August 2024
 * Integrated the Isle of Man Vehicle Data Lookup service into the online booking system, enabling the identification of Isle of Man licence plates when customers from the region make an online booking, [read more](garagehive-onlinebooking-setup.html#enable-vehicle-data-lookup-by-regions){:target="_blank"}.
