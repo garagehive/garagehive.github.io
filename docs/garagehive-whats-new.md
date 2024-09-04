@@ -7,21 +7,9 @@ title: What's New in Garage Hive
 The following is a list of all new Garage Hive features and updates:
 
 ### 27th August 2024
-##### New Features
 * Integrated the Isle of Man Vehicle Data Lookup service into the online booking system, enabling the identification of Isle of Man licence plates when customers from the region make an online booking, [read more](garagehive-onlinebooking-setup.html#enable-vehicle-data-lookup-by-regions){:target="_blank"}.
 
    ![](media/garagehive-online-booking-isle-of-man.png)
-
-###### Bugs Fixes and Improvements
-<small> 
-
-* Updated the **Labour Time Adjustment** page for better user clarity. The **Hours From** column is now named **Hours From (Greater Than or Equal To)**, and the **Hours To** column is renamed to **Hours To (Less Than)**.
-
-   ![](media/garagehive-labour-time-adjustment-page.png)
-
-* Improved the opening of document cards with filters, ensuring they focus on the correct document.
-* Screen recording now available in South Africa from the **Support** tile.
-</small>
 
 ### 16th August 2024
 * Added the Vehicle Identification Number(VIN) to the Vehicle Checklist Card.
