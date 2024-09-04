@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Bugs Fixes and Improvements in Garage Hive
+title: System Improvements in Garage Hive
 ---
 
-# Bugs Fixes and Improvements
+# System Improvements
 The following is a list of bug fixes and improvements in Garage Hive:
 
 ### 27th August 2024
