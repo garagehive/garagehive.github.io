@@ -24,6 +24,20 @@ In this article, we will look at what they actually mean and the implications of
 
 [Go back to top](#top)
 
+### How to Set the System to Check if Unit Price is Less Than or Equal to Unit Cost*
+To set the system to check if Unit Price is less than or equal to Unit Cost and give a warning in the line checker:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
+
+   ![](media/garagehive-line-checker-unit-price1.png)
+
+2. Under **General** FastTab scroll down to the **Check the Unit Price vs. Cost in Line Checker** field and enable it.
+
+   ![](media/garagehive-line-checker-unit-price2.png)
+
+
+[Go back to top](#top)
+
+
 ### Line Checker in Technician Jobsheet
 The **Technician Jobsheet** allows the technician to see notification about Item Unavailability as well as whether a substitute for the item exists. The following is how the notification appears and what the technician should do to view it:
 1. If a line has a notification in the line checker, the icon appears in the **Show Document Lines** action, and when clicked, it displays the lines with the notification in italic and bold for the **Item No.**, as shown below.

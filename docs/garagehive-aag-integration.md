@@ -1,27 +1,27 @@
 ---
 layout: docs
-title: AAG (Alliance Automotive Group) Integration With Garage Hive
+title: NAPA Autoparts Integration With Garage Hive
 ---
 
 <a name="top"></a>
 
-# AAG (Alliance Automotive Group) Integration With Garage Hive
-AAG (Alliance Automotive Group) integration allows you to link Garage Hive to the AAG Parts 360 website, where you can directly place an order for the parts that need to be ordered and transfer them to the Garage Hive system.
+# NAPA Autoparts Integration With Garage Hive
+NAPA Autoparts integration allows you to link Garage Hive to the NAPA Autoparts 360 website, where you can directly place an order for the parts that need to be ordered and transfer them to the Garage Hive system.
 
 ## In this article
-1. [Linking AAG to Garage Hive](#linking-aag-to-garage-hive)
-2. [Ordering Parts from AAG Parts 360 through Garage Hive](#ordering-parts-from-aag-parts-360-through-garage-hive)
-3. [Transfer the AAG Parts 360 Basket to the Garage Hive](#transfer-the-aag-parts-360-basket-to-the-garage-hive)
+1. [Linking NAPA Autoparts to Garage Hive](#linking-napa-autoparts-to-garage-hive)
+2. [Ordering Parts from NAPA Autoparts 360 through Garage Hive](#ordering-parts-from-napa-autoparts-360-through-garage-hive)
+3. [Transfer the NAPA Autoparts 360 Basket to the Garage Hive](#transfer-the-napa-autoparts-360-basket-to-the-garage-hive)
 4. [Ordering Parts from the Purchase Order](#ordering-parts-from-the-purchase-order)
-5. [Receiving Parts from the AAG Invoice into the System](#receiving-parts-from-the-aag-invoice-into-the-system)
+5. [Receiving Parts from the NAPA Autoparts Invoice into the System](#receiving-parts-from-the-napa-autoparts-invoice-into-the-system)
 
-### Linking AAG to Garage Hive
-To link AAG to the Garage Hive System:
+### Linking NAPA Autoparts to Garage Hive
+To link NAPA Autoparts to the Garage Hive System:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **AAG Integrations**, and choose the related link.
 
    ![](media/garagehive-aag-integration1.png)
 
-2. Select **New** to add the location to which you want to link AAG.
+2. Select **New** to add the location to which you want to link NAPA Autoparts.
    
    ![](media/garagehive-aag-integration2.png)
    
@@ -37,13 +37,13 @@ To link AAG to the Garage Hive System:
 [Go back to top](#top)
 
 
-### Ordering Parts from AAG Parts 360 through Garage Hive
-To order parts from the AAG Parts 360 website:
+### Ordering Parts from NAPA Autoparts 360 through Garage Hive
+To order parts from the NAPA Autoparts 360 website:
 1. Open the document (Jobsheet, Estimate, or VI Estimate) from which you want to order. Select **Parts** from the menu bar and then select **Open AAG Parts 360**.
 
    ![](media/garagehive-aag-ordering-parts1.png)
 
-2. This action will open the AAG Parts 360 website. Once the page is open, choose the category for the parts you need.
+2. This action will open the NAPA Autoparts 360 website. Once the page is open, choose the category for the parts you need.
 
    ![](media/garagehive-aag-ordering-parts8.png)
 
@@ -60,7 +60,7 @@ To order parts from the AAG Parts 360 website:
 [Go back to top](#top)
 
 
-### Transfer the AAG Parts 360 Basket to the Garage Hive
+### Transfer the NAPA Autoparts 360 Basket to the Garage Hive
 To transfer the items in your basket to Garage Hive and place an order:
 1. Select **Parts** from the menu bar, followed by **Get AAG Basket**.
 
@@ -88,14 +88,14 @@ To transfer the items in your basket to Garage Hive and place an order:
 
 ### Ordering Parts from the Purchase Order
 1. Open the **Purchase Order.**
-2. To make an order through **AAG Parts 360 website**, select **Home** from the menu bar, followed by **AAG Order Parts**. The order will be placed, and more details will be received from AAG.
+2. To make an order through **AAG Parts 360 website**, select **Home** from the menu bar, followed by **AAG Order Parts**. The order will be placed, and more details will be received from NAPA Autoparts.
 
    ![](media/garagehive-aag-ordering-parts7.png)
 
 [Go back to top](#top)
 
 
-### Receiving Parts from the AAG Invoice into the System
+### Receiving Parts from the NAPA Autoparts Invoice into the System
 When the items arrive, you may now convert the placeholder items to the actual item number. To do this, use the **Convert Placeholder Items** action, which is available in both the Purchase Order and the Jobsheet. Learn more [here](garagehive-creating-a-placeholder-item.html#convert-a-placeholder-item-to-the-vendor-item-number){:target="_blank"}.
 
 - Purchase Order:
