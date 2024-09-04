@@ -45,6 +45,8 @@
   subitems:
     - name: What's New in Garage Hive
       url: /docs/garagehive-whats-new.html
+    - name: Bug Fixes and Improvements in Garage Hive
+      url: /docs/garagehive-bug-fixes-and-improvements.html
     - name: Business Central Improvements
       url: /docs/garagehive-business-central-improvement.html
 - name: Power BI Reporting
