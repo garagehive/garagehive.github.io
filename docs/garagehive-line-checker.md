@@ -34,6 +34,14 @@ To set the system to check if Unit Price is less than or equal to Unit Cost and 
 
    ![](media/garagehive-line-checker-unit-price2.png)
 
+3. To set the system to check if Unit Price is less than or equal to Unit Price in **Sales Order**, and **Sales Quote** line checker, choose the ![](media/search_icon.png) icon, enter **Sales & Receivalbles Setup**, and select the related link.
+
+   ![](media/garagehive-line-checker-unit-price3.png)
+
+4. Enable the **Check the Unit Price. Vs. Cost in Line Checker** field, under the **General** FastTab.
+
+   ![](media/garagehive-line-checker-unit-price4.png)
+
 
 [Go back to top](#top)
 
