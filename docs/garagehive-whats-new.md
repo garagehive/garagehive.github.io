@@ -15,7 +15,7 @@ The following is a list of all new Garage Hive features and updates. For more de
 
    ![](media/garagehive-online-booking-isle-of-man.png)
 
-* System improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}.
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
 
 ### 16th August 2024
 * Added the Vehicle Identification Number(VIN) to the Vehicle Checklist Card.
