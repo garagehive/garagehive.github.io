@@ -5,6 +5,9 @@ title: Understanding the Jobsheet Line Checker Notifications
 
 <a name="top"></a>
 
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
+
 # Understanding the Jobsheet Line Checker Notifications
 The line checker is a column available in the Jobsheet **Lines** Sub-Page that provides notifications on the **Item** or **Labour** that has been added to the Jobsheet lines. This ensures that the user is aware of any errors, warnings, or information related to the added item or labour. 
 
@@ -33,6 +36,14 @@ To set the system to check if Unit Price is less than or equal to Unit Cost and 
 2. Under **General** FastTab scroll down to the **Check the Unit Price vs. Cost in Line Checker** field and enable it.
 
    ![](media/garagehive-line-checker-unit-price2.png)
+
+3. To set the system to check if Unit Price is less than or equal to Unit Price in **Sales Order**, and **Sales Quote** line checker, choose the ![](media/search_icon.png) icon, enter **Sales & Receivalbles Setup**, and select the related link.
+
+   ![](media/garagehive-line-checker-unit-price3.png)
+
+4. Enable the **Check the Unit Price. Vs. Cost in Line Checker** field, under the **General** FastTab.
+
+   ![](media/garagehive-line-checker-unit-price4.png)
 
 
 [Go back to top](#top)
