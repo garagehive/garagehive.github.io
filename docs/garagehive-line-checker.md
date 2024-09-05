@@ -5,6 +5,9 @@ title: Understanding the Jobsheet Line Checker Notifications
 
 <a name="top"></a>
 
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
+
 # Understanding the Jobsheet Line Checker Notifications
 The line checker is a column available in the Jobsheet **Lines** Sub-Page that provides notifications on the **Item** or **Labour** that has been added to the Jobsheet lines. This ensures that the user is aware of any errors, warnings, or information related to the added item or labour. 
 
