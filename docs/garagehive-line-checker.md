@@ -1,12 +1,12 @@
 ---
 layout: docs
-title: Understanding the Jobsheet Line Checker Notifications
+title: Understanding the Document Line Checker Notifications
 ---
 
 <a name="top"></a>
 
-# Understanding the Jobsheet Line Checker Notifications
-The line checker is a column available in the Jobsheet **Lines** Sub-Page that provides notifications on the **Item** or **Labour** that has been added to the Jobsheet lines. This ensures that the user is aware of any errors, warnings, or information related to the added item or labour. 
+# Understanding the Document Line Checker Notifications
+The line checker is a column found in the **Lines** Sub-Page of the Jobsheet, Sales Quote, and Sales Order. It provides warnings regarding any Item or Labour added to the lines, ensuring the user is alerted to any errors, warnings, or relevant information associated with the added item or labour. 
 
    ![](media/garagehive-line-checker.png)
 
