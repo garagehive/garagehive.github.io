@@ -58,7 +58,8 @@ ___
 
    - **On Break** - By pressing this button the technician will automatically pause the allocation he is on and clock them on to a break. 
    - They will see their current task as being 'on break' and the job they were on.
-      **Note:** To resume the job, the technician should press the ✅ next to "Break" and then select the ▶ icon for the job they wish to continue. 
+      
+   > **Note:** To resume the job, the technician should press the ✅ next to "Break" and then select the ▶ icon for the job they wish to continue. 
 
       ![](media/garagehive-easy-clocking6.png)
 
