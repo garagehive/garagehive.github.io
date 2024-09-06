@@ -32,7 +32,7 @@ ___
 
       ⏸ - To place an allocation on hold. 
 
-      ▶ - To resume an allocation. 
+      ▶ - To start or resume an allocation. 
 
       ✅ - To complete/Finish an allocation. 
 
@@ -57,8 +57,8 @@ ___
       ![](media/garagehive-easy-clocking5.png)
 
    - **On Break** - By pressing this button the technician will automatically pause the allocation he is on and clock them on to a break. 
-   - They will see their current task as being on break and the job they were on.
-      **Note:** To resume the job they were press the :ballot_box_with_check: against the Break and the :arrow_forward: on the job they want to resume.** 
+   - They will see their current task as being 'on break' and the job they were on.
+      **Note:** To resume the job, the technician should press the ✅ next to "Break" and then select the ▶ icon for the job they wish to continue. 
 
       ![](media/garagehive-easy-clocking6.png)
 
