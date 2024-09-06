@@ -3,6 +3,8 @@ layout: docs
 title: Understanding Dimensions in Business Central
 ---
 
+<a name="top"></a>
+
 ## In this article
 1. [What are dimensions](#what-are-dimensions)
 2. [Setting up dimensions](#setting-up-dimensions)
@@ -24,17 +26,23 @@ Examples of **Dimension Values:**
 
 So, when you analyse entries in your system, the branch dimension values show you which branch conducted which jobs and sold which items. The more dimensions you use, the more detailed reports you generate to support your business decisions.
 
+
+[Go back to top](#top)
+
 ### Setting up dimensions
 To set up Dimensions in your system:
 1.	Choose the ![](media/search_icon.png) icon, enter **Dimensions**, and then select the related link.
 2.	On the **Dimensions** page, add the dimensions to work with in your system, such as **Area**, **Branch**, **Department** etc.
 
-   ![](media/garagehive-setting-up-dimensions1.gif)
+    ![](media/garagehive-setting-up-dimensions1.gif)
 
 3.	After adding the **Dimensions**, select **Dimension** from the menu bar and choose the **Dimension Values** action to add the subcategories of the dimensions you added.
 4.	Add the subcategories on the **Dimension Values** page, such as **Main**, **Vehicle Sales** etc, for the **Branch** dimension. Press the **Esc** key to exit the page.
 
-   ![](media/garagehive-setting-up-dimensions2.gif)
+    ![](media/garagehive-setting-up-dimensions2.gif)
+
+
+[Go back to top](#top)
 
 ### Defining dimensions in the General Ledger Setup
 You can define dimensions on the **General Ledger Setup** page as follows:
@@ -48,10 +56,13 @@ You can define dimensions on the **General Ledger Setup** page as follows:
 
 3. In the **Global Dimension 1** Code field and/or **Global Dimension 2** Code field select the dimension(s) to use as a **Global Dimension** from the previously added dimensions.
 4.	After adding the Global Dimension(s), select either **Sequential** or **Parallel** mode from the menu bar to define which mode the batch job is run.
--	In **Sequential** mode (the default), the change is done in one transaction that reverts all entries to the dimensions they had before the change. In **Sequential** mode, choose the **Start** action.
--	In **Parallel** mode, the dimension change happens in multiple background sessions and the operation is split into multiple transactions. To use this option, turn on the **Parallel Processing** slider, and choose the **Prepare** action.
+   - In **Sequential** mode (the default), the change is done in one transaction that reverts all entries to the dimensions they had before the change. In **Sequential** mode, choose the **Start** action.
+   - In **Parallel** mode, the dimension change happens in multiple background sessions and the operation is split into multiple transactions. To use this option, turn on the **Parallel Processing** slider, and choose the **Prepare** action.
 
    ![](media/garagehive-defining-general-ledger-setup-dimensions3.gif)
+
+
+[Go back to top](#top)
 
 ### Adding dimensions in documents
 In documents, such as **Purchase Orders**, **Jobsheets** and so on, you can change dimensions for the whole document (all the document lines) or for particular document lines. To change for the whole documents:
@@ -62,6 +73,9 @@ In documents, such as **Purchase Orders**, **Jobsheets** and so on, you can chan
 2. To add/change dimensions in specific document lines, open the document and select the line in the document. From the menu bar, click on **More Options** to show more menu, followed by **Line**, and then **Dimensions**.
 
    ![](media/garagehive-adding-dimensions-in-documents2.gif)
+
+
+[Go back to top](#top)
 
 ### Creating default dimensions
 You can create **Default Dimensions** to documents for specific accounts, customers, vendors, or items, which helps make reports more consistent. To add **Default Dimensions** for a specific **Vendor**:
@@ -76,6 +90,9 @@ You can create **Default Dimensions** to documents for specific accounts, custom
 
    ![](media/garagehive-creating-default-dimensions2.gif)
 
+
+[Go back to top](#top)
+
 ### Correcting dimensions
 If you discover that an incorrect dimension has been used on posted general ledger entries, you can correct the dimension values; this helps in keeping the financial reports and analyses accurate. To start a dimension correction:
 1.	Choose the ![](media/search_icon.png) icon, enter **General Ledger Entries**, and choose the related link.
@@ -88,12 +105,12 @@ If you discover that an incorrect dimension has been used on posted general ledg
    ![](media/garagehive-correcting-dimensions2.gif)
 
 4.	On the **Selected Ledger Entries** FastTab, choose the relevant entries to correct. You have the following options of adding the entries:
--	**Add Related Entries** - Add G/L entries that are in the same G/L register.
--	**Add by Filter** - Use filter criteria when adding G/L entries.
--	**Select Manually** - Select specific G/L entries.
--	**Add by Dimension** - Filter G/L entries by dimensions.
--	**Remove Entries** - Deselect G/L entries.
--	**Manage Selection Criteria** - Keep track of the selection process, and undo selections if needed.
+   - **Add Related Entries** - Add G/L entries that are in the same G/L register.
+   - **Add by Filter** - Use filter criteria when adding G/L entries.
+   - **Select Manually** - Select specific G/L entries.
+   - **Add by Dimension** - Filter G/L entries by dimensions.
+   - **Remove Entries** - Deselect G/L entries.
+   - **Manage Selection Criteria** - Keep track of the selection process, and undo selections if needed.
 
    ![](media/garagehive-correcting-dimensions3.gif)
 
@@ -117,5 +134,7 @@ If you discover that an incorrect dimension has been used on posted general ledg
 
    ![](media/garagehive-correcting-dimensions8.gif)
 
+
+[Go back to top](#top)
 
 
