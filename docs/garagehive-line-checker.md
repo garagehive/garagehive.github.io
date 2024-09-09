@@ -12,21 +12,20 @@ The line checker is a column found in the **Lines** Sub-Page of the Jobsheet, Sa
 
 In this article, we will look at what they actually mean and the implications of posting the document:
 
-   | Icon | Description                                                                                                                                                                                                          | Implication to Posting Jobsheet            |
-   | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-   | 🚩    | The red flag icon appears when: <br> 1. Item stock levels are insufficient. <br> 2. Labour line resource information is missing. <br> 3. The slider **Prevent Posting if Unit Price is Less than Cost** is enabled*. | Prevents document from posting.            |
-   | ⚠️    | The triangle warning icon appears when the **Unit Price of Labour** in a line is less than or equal to zero.                                                                                                         | Doesn't prevent the document from posting. |
-   | ⚠️    | The triangle warning icon appears when: <br> **1**. The **Unit Price of an Item** is less than or equal to the Unit Cost. <br> **2**. An item appears in more than one document lines.                               | Doesn't prevent the document from posting. |
-   | 🔁    | The Anticlockwise Downwards and Upwards Open Circle Arrows icon appears when there is a substitution available in the system for the item.                                                                           | Doesn't prevent the document from posting. |
-   | ℹ️    | The information icon, appears when there is more than one information available to display.                                                                                                                          | Doesn't prevent the document from posting. |
-   | 📦    | The package icon appears when the parts ordered from the Jobsheet have been received in the system.                                                                                                                  | Doesn't prevent the document from posting. |
+   | Icon | Description                                                                                                                                                                                                                                                                          | Implication to Posting Jobsheet            |
+   | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+   | 🚩    | The red flag icon appears when: <br> 1. Item stock levels are insufficient. <br> 2. Labour line resource information is missing. <br> 3. The slider **Prevent Posting if Unit Price is Less than Cost** is enabled*.                                                                 | Prevents document from posting.            |
+   | ⚠️    | The triangle warning icon appears when: <br> **1.** The **Line Amount of an Item or Labour** in a line is less than or equal to zero. <br> **2.** The **Unit Price of an Item** is less than or equal to the Unit Cost. <br> **3.** An item appears in more than one document lines. | Doesn't prevent the document from posting. |
+   | 🔁    | The Anticlockwise Downwards and Upwards Open Circle Arrows icon appears when there is a substitution available in the system for the item.                                                                                                                                           | Doesn't prevent the document from posting. |
+   | ℹ️    | The information icon, appears when there is more than one information available to display.                                                                                                                                                                                          | Doesn't prevent the document from posting. |
+   | 📦    | The package icon appears when the parts ordered from the Jobsheet have been received in the system.                                                                                                                                                                                  | Doesn't prevent the document from posting. |
 
 
 [Go back to top](#top)
 
 
-### Setting The Flag Warning when the Unit Price is Less than Unit Cost*
-When the flag warning is set for when the Unit Price is less than the Unit Cost, this prevents the document from posting. To set it:
+### Prevent Documents from Being Posted if an Item is Being Sold Below Cost*
+When the **Prevent Posting if Unit Price is Less than Cost** slider is on the warning ⚠️ is changed to a Flag 🚩 and documents are prevented from posting. To enable the slider:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Service Mgt. Setup GH**, and select the related link.
 
    ![](media/garagehive-line-checker-unit-price-vs-unit-cost1.png)
