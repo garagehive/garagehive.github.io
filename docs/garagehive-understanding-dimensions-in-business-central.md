@@ -6,14 +6,14 @@ title: Understanding Dimensions in Business Central
 <a name="top"></a>
 
 ## In this article
-1. [What are dimensions](#what-are-dimensions)
-2. [Setting up dimensions](#setting-up-dimensions)
-3. [Defining dimensions in the General Ledger Setup](#defining-dimensions-in-the-general-ledger-setup)
-4. [Adding dimensions in documents](#adding-dimensions-in-documents)
-5. [Creating default dimensions](#creating-default-dimensions)
-6. [Correcting dimensions](#correcting-dimensions)
+1. [What are Dimensions](#what-are-dimensions)
+2. [Setting up Dimensions](#setting-up-dimensions)
+3. [Defining Dimensions in the General Ledger Setup](#defining-dimensions-in-the-general-ledger-setup)
+4. [Adding Dimensions in Documents](#adding-dimensions-in-documents)
+5. [Creating Default Dimensions](#creating-default-dimensions)
+6. [Correcting Dimensions](#correcting-dimensions)
 
-### What are dimensions
+### What are Dimensions
 In Business Central, a dimension is a term used to define an analysis category. Dimensions are used to group or categorise data for analysis. Dimensions consist of dimension values, which are subcategories or 'tags' linked to data to allow meaningful analysis. For example, you can have a **Dimension** as **Branch** and **Dimension Values** as **Main**, **Vehicle Sales** etc. 
 
 Examples of **Dimensions:**:
@@ -29,7 +29,7 @@ So, when you analyse entries in your system, the branch dimension values show yo
 
 [Go back to top](#top)
 
-### Setting up dimensions
+### Setting up Dimensions
 To set up Dimensions in your system:
 1.	Choose the ![](media/search_icon.png) icon, enter **Dimensions**, and then select the related link.
 2.	On the **Dimensions** page, add the dimensions to work with in your system, such as **Area**, **Branch**, **Department** etc.
@@ -44,56 +44,68 @@ To set up Dimensions in your system:
 
 [Go back to top](#top)
 
-### Defining dimensions in the General Ledger Setup
+### Defining Dimensions in the General Ledger Setup
 You can define dimensions on the **General Ledger Setup** page as follows:
 1.	Choose the ![](media/search_icon.png) icon, enter **General Ledger Setup**, and select the related link.
 
-   ![](media/garagehive-defining-general-ledger-setup-dimensions1.gif)
+    ![](media/garagehive-defining-general-ledger-setup-dimensions1.png)
 
-2.	On the **General Ledger Setup** page, choose **General** from the menu bar and select **Change Global Dimensions** action.
+2.	On the **General Ledger Setup** page, choose **Home** from the menu bar and select **Change Global Dimensions** action.
 
-   ![](media/garagehive-defining-general-ledger-setup-dimensions2.gif)
+    ![](media/garagehive-defining-general-ledger-setup-dimensions2.png)
 
 3. In the **Global Dimension 1** Code field and/or **Global Dimension 2** Code field select the dimension(s) to use as a **Global Dimension** from the previously added dimensions.
+
+    ![](media/garagehive-defining-general-ledger-setup-dimensions3.png)
+
 4.	After adding the Global Dimension(s), select either **Sequential** or **Parallel** mode from the menu bar to define which mode the batch job is run.
    - In **Sequential** mode (the default), the change is done in one transaction that reverts all entries to the dimensions they had before the change. In **Sequential** mode, choose the **Start** action.
+
+       ![](media/garagehive-defining-general-ledger-setup-dimensions4.png)
+
    - In **Parallel** mode, the dimension change happens in multiple background sessions and the operation is split into multiple transactions. To use this option, turn on the **Parallel Processing** slider, and choose the **Prepare** action.
 
-   ![](media/garagehive-defining-general-ledger-setup-dimensions3.gif)
+       ![](media/garagehive-defining-general-ledger-setup-dimensions5.png)
 
 
 [Go back to top](#top)
 
-### Adding dimensions in documents
+### Adding Dimensions in Documents
 In documents, such as **Purchase Orders**, **Jobsheets** and so on, you can change dimensions for the whole document (all the document lines) or for particular document lines. To change for the whole documents:
-1. Open the document to add/change the dimensions, for the **Purchase Order**, select **Order** from the menu bar, followed by **Dimensions**, for the **Jobsheets**, select **Related** from the menu bar, then **Jobsheet**, and then **Dimensions**.
+1. Open the document which you want to add/change the dimensions; for the **Purchase Order**, select **Dimensions** from the menu bar, for the **Jobsheets**, select **Related** from the menu bar, then **Jobsheet**, and choose **Dimensions**.
 
-   ![](media/garagehive-adding-dimensions-in-documents1.gif)
+   **Purchase Order:**
 
-2. To add/change dimensions in specific document lines, open the document and select the line in the document. From the menu bar, click on **More Options** to show more menu, followed by **Line**, and then **Dimensions**.
+      ![](media/garagehive-adding-dimensions-in-documents1.png)
+   
+   **Jobsheet:**
 
-   ![](media/garagehive-adding-dimensions-in-documents2.gif)
+      ![](media/garagehive-adding-dimensions-in-documents2.png)
+
+2. To add/change dimensions in specific document lines, open the document and select the line in the document. From the menu bar, click on **Line**, and choose **Dimensions**.
+
+   ![](media/garagehive-adding-dimensions-in-documents3.png)
 
 
 [Go back to top](#top)
 
-### Creating default dimensions
+### Creating Default Dimensions
 You can create **Default Dimensions** to documents for specific accounts, customers, vendors, or items, which helps make reports more consistent. To add **Default Dimensions** for a specific **Vendor**:
 1. Select the vendor from the list of **Vendors**, and then from the menu bar select **Vendor** followed by **Dimensions**.
 
-   ![](media/garagehive-creating-default-dimensions1.gif)
+   ![](media/garagehive-creating-default-dimensions1.png)
 
 2. From the **Default Dimensions** page, select the dimension in the **Dimension Code** column, followed by the **Dimension Value Code**, and then **Value Posting** which can be: 
    - **Code Mandatory** - is used if you want the **Vendor** account to always have a **Dimension**, but allow any **Dimension Value Code**.
    - **Same Code** - is used if you only want a single **Dimension Value Code** to be allowed for the vendor account. If you try posting the document, it will show an error when the **Dimension Value Code** is not selected.
    - **No Code** - is used if you want to prevent a particular dimension from being used with that vendor account.
 
-   ![](media/garagehive-creating-default-dimensions2.gif)
+   ![](media/garagehive-creating-default-dimensions2.png)
 
 
 [Go back to top](#top)
 
-### Correcting dimensions
+### Correcting Dimensions
 If you discover that an incorrect dimension has been used on posted general ledger entries, you can correct the dimension values; this helps in keeping the financial reports and analyses accurate. To start a dimension correction:
 1.	Choose the ![](media/search_icon.png) icon, enter **General Ledger Entries**, and choose the related link.
 
