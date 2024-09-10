@@ -12,12 +12,14 @@ In Garage Hive, customer notifications are system settings that allow the system
    ![](media/garagehive-customer-notifications1.png)
 
 ## In this article
-1. [Vehicle date reminder notification](#vehicle-date-reminder-notification)
-2. [Booking reminder notification](#booking-reminder-notification)
-3. [Booking confirmation notification](#booking-confirmation-notification)
-4. [Survey notification](#-urvey-notification)
-4. [Checklist notification](#checklist-notification)
-5. [Job authorisation notification](#job-authorisation-notification)
+1. [Vehicle Date Reminder Notification](#vehicle-date-reminder-notification)
+2. [Booking Reminder Notification](#booking-reminder-notification)
+3. [Booking Confirmation Notification](#booking-confirmation-notification)
+4. [Survey Notification](#-urvey-notification)
+4. [Checklist Notification](#checklist-notification)
+5. [Job Authorisation Notification](#job-authorisation-notification)
+6. [Jobsheet Complete Notification](#jobsheet-complete-notification)
+7. [Jobsheet Questionnaire Notification](#jobsheet-questionnaire-notification)
 
 ### Vehicle date reminder notification
 **Vehicle Date Reminder** notifications are used in the system when you need to notify the customer about upcoming due dates for recurring work on their vehicle, such as MOT reminders, and service reminders.
@@ -69,6 +71,16 @@ Here is an example of a **Job Authorisation Notification** setup.
 Here is an example of a **Checklist Notification** setup.
 
    ![](media/garagehive-customer-notifications6.png)
+
+### Jobsheet Complete Notification
+The **Jobsheet Complete Notification** is used to send a notification to the customer when the job is marked as complete. Here is an example of a **Jobsheet Complete Notification** setup.
+
+   ![](media/garagehive-customer-notifications8.png)
+
+### Jobsheet Questionnaire Notification
+**Jobsheet Questionnaire Notification** is used to gather additional information about a job before the customer arrives by sending a **Diagnostic Questionnaire**. Read **[this article](garagehive-diagnostic-questionnaire.html)** to understand more about the **Diagnostic Questionnaire**. Here is an example of a **Diagnostic Check Questionnaire** setup.
+
+   ![](media/garagehive-customer-notifications9.png)
 
 
 [Go back to top](#top)
