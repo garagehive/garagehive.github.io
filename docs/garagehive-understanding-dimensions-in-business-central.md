@@ -109,14 +109,21 @@ You can create **Default Dimensions** to documents for specific accounts, custom
 If you discover that an incorrect dimension has been used on posted general ledger entries, you can correct the dimension values; this helps in keeping the financial reports and analyses accurate. To start a dimension correction:
 1.	Choose the ![](media/search_icon.png) icon, enter **General Ledger Entries**, and choose the related link.
 
-   ![](media/garagehive-correcting-dimensions1.gif)
+   ![](media/garagehive-correcting-dimensions1.png)
 
-2.	On the **General Ledger Entries** page, choose **Entry** from the menu bar and then **Correct Dimensions** action.
+2.	On the **General Ledger Entries** page, choose **Correct Dimensions** action from the menu bar.
+
+   ![](media/garagehive-correcting-dimensions2.png)
+
 3.	In the **Description** field, enter information about the change. Other people might use this information later to understand what was done.
 
-   ![](media/garagehive-correcting-dimensions2.gif)
+   ![](media/garagehive-correcting-dimensions3.png)
 
-4.	On the **Selected Ledger Entries** FastTab, choose the relevant entries to correct. You have the following options of adding the entries:
+4.	On the **Dimension Correction Changes** FastTab, choose the dimension that you want to change in the **Dimension Code** field and the **New Dimension Value Code** field.
+
+   ![](media/garagehive-correcting-dimensions4.png)
+
+5. On the **Selected Ledger Entries** FastTab, choose the relevant entries to correct. You have the following options of adding the entries:
    - **Add Related Entries** - Add G/L entries that are in the same G/L register.
    - **Add by Filter** - Use filter criteria when adding G/L entries.
    - **Select Manually** - Select specific G/L entries.
@@ -124,25 +131,25 @@ If you discover that an incorrect dimension has been used on posted general ledg
    - **Remove Entries** - Deselect G/L entries.
    - **Manage Selection Criteria** - Keep track of the selection process, and undo selections if needed.
 
-   ![](media/garagehive-correcting-dimensions3.gif)
+   ![](media/garagehive-correcting-dimensions5.png)
 
-5.	On the **Dimension Correction Changes** FastTab, choose the dimension that you want to change in the **Dimension Code** field and the **New Dimension Value Cod**e field.
 
-   ![](media/garagehive-correcting-dimensions4.gif)
 
 6.	To validate the correction, choose **Validate Dimension Changes** from the menu bar.
 
-   ![](media/garagehive-correcting-dimensions5.gif)
+   ![](media/garagehive-correcting-dimensions6.png)
 
-7.	After successfully validating the dimension change, click on **Entry**, select **History of Dimension Corrections**, and then select the validated change. Choose **Run** from the menu bar on the** Draft Dimension Correction** page. You can run it immediately instead of scheduling it by using the **Run Immediately** slider.
+7.	After successfully validating the dimension change, click on **Related**, followed by **Entry** and then select **History of Dimension Corrections** from the **General Ledger Entries** menu bar, and then select the validated change.
+8. Choose **Run** from the menu bar on the **Draft Dimension Correction** page. You can run it immediately instead of scheduling it by using the **Run Immediately** slider. 
 
-   ![](media/garagehive-correcting-dimensions6.gif)
+   ![](media/garagehive-correcting-dimensions7.png)
 
-8.	To undo a correction, go to the **General Ledger Entries** page, click **Entry** from the menu bar, and then **History of Dimension Corrections**.
 
-   ![](media/garagehive-correcting-dimensions7.gif)
+9.	To undo a correction, click on **Related**, followed by **Entry** and then select **History of Dimension Corrections**
 
-9.	Select the change to be reversed, and then, from the **Dimension Correction** page, scroll to the **Dimension Correction Changes** FastTab, select **Manage** from the menu bar, and **Revert Change** for a single change or **Revert All Changes** for all changes made in the entry.
+   ![](media/garagehive-correcting-dimensions8.png)
+
+10. Select the change to be reversed, and then, from the **Dimension Correction** page, scroll to the **Dimension Correction Changes** FastTab, select **Manage** from the menu bar, and **Revert Change** for a single change or **Revert All Changes** for all changes made in the entry.
 
    ![](media/garagehive-correcting-dimensions8.gif)
 
