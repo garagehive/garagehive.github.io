@@ -6,14 +6,14 @@ title: How to Audit and Cleanse the Use of Garage Hive System
 <a name="top"></a>
 
 # How to Audit and Cleanse the Use of Garage Hive System
-As the Garage continues to use the Garage Hive system, it is important to make sure that the system is used efficiently and effectively. This is where a system audit/cleanse comes in. A system audit/cleanse helps in reviewing your current processes and workflows in order to continuously improve effectiveness and optimise the use of Garage Hive features. In this article, we'll look at what you can do on a weekly, monthly, and annual basis to audit and cleanse your system.
+As you continues to use the Garage Hive system, it is important to make sure that the system is used efficiently and effectively. This is where a system audit/cleanse comes in. A system audit/cleanse helps in reviewing your current processes and workflows in order to continuously improve effectiveness and optimise the use of Garage Hive features. In this article, we'll look at what you can do on a weekly, monthly, and annual basis to audit and cleanse your system.
 
 {% include tip.html title="Note" text="To complete the annual routine, you must first complete the listed weekly and monthly routines." %}
 
 1. [Weekly Routines](#weekly-routines)
    * [Cleansing the Jobsheet List](#cleansing-the-jobsheet-list)
    * [Cleansing the Estimates List](#cleansing-the-estimates-list)
-   * [Cleansing the Vehicle Inspections List](#cleansing-the-vehicle-inspections-list)
+   * [Cleansing the Vehicle Inspections(checklist) List](#cleansing-the-vehicle-inspections-checklist-list)
    * [Cleansing the Vehicle Inspection Estimates and Estimates Reminders](#cleansing-the-vehicle-inspection-estimates-and-estimates-reminders)
    * [Cleansing the User Tasks List](#cleansing-the-user-tasks-list)
    * [Cleansing the Purchase Orders and Purchase Return Orders](#cleansing-the-purchase-orders-and-purchase-return-orders)
@@ -65,7 +65,7 @@ To ensure your Estimates list is cleansed:
 
 [Go back to top](#top)
 
-### Cleansing the Vehicle Inspections List
+### Cleansing the Vehicle Inspections (Checklist) List
 To ensure your Vehicle Inspections list is cleansed:
 1. From the Role Centre, click on the **Current** tile under the **Vehicle Inspections** to open the list of all Vehicle Inspections that have been created.
 
