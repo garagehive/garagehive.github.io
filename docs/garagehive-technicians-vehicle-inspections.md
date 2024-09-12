@@ -2,43 +2,60 @@
 layout: docs
 title: How to perform a Vehicle Inspection Checklist as a Technician
 ---
+
+<a name="top"></a>
+
 # How to perform a Vehicle Inspection Checklist as a Technician
+To perform a Vehicle Inspection Checklist, you can either start a new one or open an existing checklist that has been pre-assigned to a Jobsheet by the Service Advisor.
 
-{% include youtube.html id="BBjOZrxbzPs" %}
+### Opening a New or Existing Vehicle Inspection Checklist
+1. From the Jobsheet menu (three dots), select **Vehicle Inspections** to open existing ones.
+2. If there is already an inspection attached to the Jobsheet, it will automatically open. If not, the system will prompt you to create a new checklist.
+3. Select **Yes** to create a new inspection. You will be prompted to choose from a list of predefined vehicle inspections. Select the appropriate inspection and press **OK.**
+4. You can also create a new one directly by selecting **Create Vehicle Inspection** from the menu.
+ 
+   ![](media/garagehive-technician-vehicleinspection.png)
 
 
+[Go back to top](#top)
 
-A Vehicle Inspection Checklist can either be pre-assigned to a jobsheet by a Service Advisor, or it can be created by a Technician. To create a new inspection or open an existing inspection, open the menu from the jobsheet and select "Show Vehicle Inspection." 
+### Completing the Checklist
+1. Once in the Vehicle Inspection Checklist, use your touch screen to select options based on a traffic light system (Green for good, Amber for attention needed, Red for urgent issues).
+2. You can add additional details by typing in the available text boxes.
+3. When finished, press the back button to automatically save your entries.
 
-![](media/garagehive-technician-vehicleinspection.png)
+   ![](media/garagehive-technician-vehicleinspection-complete.png)
 
-If there is already an inspection attached to the jobsheet it will open, otherwise the system will prompt you to create a new one. 
 
-![](media/garagehive-technician-vehicleinspection-new.png)
+[Go back to top](#top)
 
-Press yes and select from a list of pre-defined vehicle inspections and press OK. 
+### Adding Pictures
+1. To add or view pictures, select the menu option within the inspection to access the picture menu.
+2. In the menu, you can view existing pictures by selecting **Document Media** or **Vehicle Media** & change descriptions, or add new ones by selecting **Upload Picture** or **Upload Line Picture**.
+3. You can also take pictures using your device's camera by using the options **Take Picture** or **Take Line Picture**.
 
-![](media/garagehive-technician-vehicleinspection-new-select.png)
-
-Once in the Vehicle Inspection Checklist, you can use your touch screen to select from a traffic light system. You can also type any details into the available text boxes. If the Vehicle Inspection Checklist is complete, you can simply press the back button. The system will automatically save the data you enter. 
-
-![](media/garagehive-technician-vehicleinspection-complete.png)
-
-If you would like to add any pictures, select the menu option within the vehicle inspection to view the picture menu. 
-
-![](media/garagehive-technician-vehicleinspection-pictures.png)
-
-In the picture menu you can view existing pictures, change the description of the pictures or add new pictures. You can either take pictures using the devices camera or upload existing pictures. 
+   ![](media/garagehive-technician-vehicleinspection-pictures.png)
 
 ![](media/garagehive-technician-vehicleinspection-pictures-upload.png)
 
-Once the Vehicle Inspection Checklist is completed, simply press the back button until you are asked if the checklist is complete. If it is, press Yes. If you need to finish the Vehicle Inspection Checklist later, press No. 
 
-![](media/garagehive-technician-vehicleinspection-complete-question.png)
+[Go back to top](#top)
 
-The service advisor will now see that a Vehicle Inspection Checklist is awaiting confirmation.
+### Finalising the Checklist
+1. Once the checklist is complete, press the back button. The system will ask if the checklist is finished. Press "Yes" if you're done, or "No" if you need to return to it later.
 
-![](media/garagehive-technician-vehicleinspection-awaiting-confirmation.png)
+   ![](media/garagehive-technician-vehicleinspection-complete-question.png)
+
+2. Or simply click on the menu option, and select **Confirm** action.
+
+   ![](media/garagehive-technician-vehicleinspection-complete-confirm.png)
+
+3. The service advisor will now see that a Vehicle Inspection Checklist is awaiting confirmation.
+
+   ![](media/garagehive-technician-vehicleinspection-awaiting-confirmation.png)
+
+
+[Go back to top](#top)
 
 # See Also
 [How to setup Checklists](garagehive-checklist-how-to-create.html "How to setup Checklists in Garage Hive"){:target="_blank"}
