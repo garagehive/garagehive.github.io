@@ -14,7 +14,7 @@ There are a couple of scenarios in which you may need to change a vehicle's regi
 In this article, we will look through both scenarios so that you can keep your records accurate.
 
 
-Flowchart summary:
+**Flowchart summary:**
 
    ![](media/change-registration-number.png)
 
@@ -24,11 +24,7 @@ When a vehicle changes to a new registration number:
 
    ![](media/change-registration-number1.png)
 
-2. If prompted to confirm the region of the vehicle registration, select from the list and click **OK**.
-
-   ![](media/change-registration-number2.png)
-
-3. The new vehicle registration has been updated, and the vehicle history has been transferred to the new vehicle registration number.
+2. The new vehicle registration has been updated, and the vehicle history has been transferred to the new vehicle registration number.
 
 
 [Go back to top](#top)
@@ -39,7 +35,7 @@ To transfer a registration number from one vehicle to a new vehicle:
 
    ![](media/change-registration-number3.png)
 
-2. Open the Jobsheet with created for the vehicle and enter the registration number that you deleted in the vehicle card.
+2. Open the Jobsheet created for the vehicle and enter the registration number that you deleted in the vehicle card.
 
    ![](media/change-registration-number4.png)
 
