@@ -15,7 +15,7 @@ Automatically blocking customers who have exceeded their credit limit ensures th
 
    ![](media/garagehive-automatic-blocking-customers2.png)
 
-3. On the **Customer Cards**, ensure that the **Credit Limit** is set, and select **All** in the **Blocked** field to ensure that no transactions will take place for the customer if the credit limit is exceeded.
+3. If a customer should not be allowed further bookings, set the block on the **Customer Cards** page. Ensure the **Credit Limit** is defined and select **All** in the **Blocked** field to prevent any transactions once the credit limit is exceeded.
 
    ![](media/garagehive-automatic-blocking-customers3.png)
 
