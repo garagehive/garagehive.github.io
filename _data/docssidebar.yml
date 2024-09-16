@@ -118,6 +118,8 @@
           url: /docs/garagehive-booking-reminders.html
         - name: Setting Up Booking Confirmation Notifications
           url: /docs/garagehive-booking-confirmation.html
+        - name: Setting Up Jobsheet Complete Notification
+          url: /docs/garagehive-jobsheet-complete-notification.html
         - name: Using the Reminded Not Booked Tiles
           url: /docs/garagehive-reminded-not-booked-setup.html
         - name: View the Report on Reminders Sent and Not Booked
