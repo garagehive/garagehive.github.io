@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - How to Set Up Jobsheet Complete Notification
+title: How to Set Up Jobsheet Complete Notification
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # How to Set Up Jobsheet Complete Notification
 The **Jobsheet Complete Notification** is sent to the customer when the **Jobsheet Complete** slider is enabled within the Jobsheet, provided the setup is available in the system. To setup the Jobsheet Complete Notification:
