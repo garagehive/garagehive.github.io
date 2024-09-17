@@ -13,8 +13,9 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
 ## In this article
 1. [Integrating Timetastic With Garage Hive](#integrating-timetastic-with-garage-hive)
-2. [Syncing Employee Data](#syncing-employee-data)
-3. [Google Tag Manager Setup](#google-tag-manager-setup)
+2. [Syncing Employees and Linking Them to Resources](#syncing-employees-and-linking-them-to-resources)
+3. [Syncing Causes of Absence](#syncing-causes-of-absence)
+4. [Syncing Registered Absences](#syncing-registered-absences)
 
 ### Integrating Timetastic With Garage Hive
 1. To begin the integration between Timetastic and Garage Hive, you'll first need your **Timetastic API Key**. To get this key, log into your Timetastic account and go to the **Settings** menu, located in the top-right corner.
