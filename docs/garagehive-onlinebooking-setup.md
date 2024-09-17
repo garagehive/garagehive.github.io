@@ -57,7 +57,7 @@ Enabling the Vehicle Data Lookup for the Great Britain, Ireland, and Isle of Man
 
    ![](media/garagehive-vehicle-data-lookup-regions1.png)
 
-2. Scroll down to the Vehicle Data Lookup Regions FastTab, and tick the checkbox in the **Activated** column next to the region you want to make available for online booking.
+2. Scroll down to the **Vehicle Data Lookup Regions** FastTab, and tick the checkbox in the **Activated** column next to the region you want to make available for online booking.
 
    ![](media/garagehive-vehicle-data-lookup-regions2.png)
 
