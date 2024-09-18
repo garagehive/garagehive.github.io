@@ -6,6 +6,12 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 16th September 2024
+* Added an action so technicians can access **PartsLink24** directly from their devices.
+* Added the ability to import **Capital On Tap** Bank CSV files.
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 4th September 2024
 * System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
 

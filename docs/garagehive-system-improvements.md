@@ -6,6 +6,12 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 16th September 2024
+* Speed improvements for publishing online authorisation.
+* Speed improvements for customer notifications.
+* Improved SMS sender ID management.
+* Improved how vehicle model descriptions are shown in the service documents.
+
 ### 4th September 2024
 * Refined email notification for **Customer Notifications**.
 * Refined how support request email are handled.
