@@ -9,7 +9,11 @@ The following is a list of all new Garage Hive features and updates. For more de
 ### 16th September 2024
 * Added an action so technicians can access **PartsLink24** directly from their devices.
 * Added the ability to import **Capital On Tap** Bank CSV files.
+* Added the **Show Jobsheet** action in VI Estimate, allowing users to open the linked Jobsheet directly.
 
+   ![](media/show-jobsheet-action-vie.png)
+
+<br>
 * System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
 
 ### 4th September 2024
