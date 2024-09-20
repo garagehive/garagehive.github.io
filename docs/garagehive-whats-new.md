@@ -14,6 +14,7 @@ The following is a list of all new Garage Hive features and updates. For more de
    ![](media/show-jobsheet-action-vie.png)
 
 <br>
+
 * System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
 
 ### 4th September 2024
