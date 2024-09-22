@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Timetastic Integration with Garage Hive
+title: Timetastic Integration with Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Timetastic Integration with Garage Hive
 The Timetastic integration allows Garage Hive users who already use the Timetastic HR system to sync employee data, including holidays and absence records. Once integrated, employee details can be linked to the resources in your Garage Hive system. This ensures that any holidays or absences automatically block out time in the schedule, helping you manage team availability more effectively and avoid booking conflicts.
