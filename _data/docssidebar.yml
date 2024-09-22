@@ -587,6 +587,8 @@
       url: /docs/garagehive-partslink24-integration.html
     - name: AAG (Alliance Automotive Group) Integration
       url: /docs/garagehive-aag-integration.html
+    - name: Timetastic Integration
+      url: /docs/garagehive-timetastic-integration.html
     - name: Accountancy System Integrations
       url: /docs/garagehive-external-accountancy-integration.html
 - name: Garage Industry Trends
