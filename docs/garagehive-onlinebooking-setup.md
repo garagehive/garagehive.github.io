@@ -34,6 +34,7 @@ To setup online booking:
       - **Default Vehicle Status** – Should be set to **Customer**.
       - **Hide Service Prices** – This will hide the sales price of all service packages.
       - **Automatic Booking Confirmation** – If enabled, will send an email and/or SMS confirmation to the customer.
+      - **Primary Vehicle Data Lookup Region Code** – In this field, you can select the default vehicle lookup region for your system from the available regions.
 
         ![](media/garagehive-onlinebooking-setup3.png)
 
