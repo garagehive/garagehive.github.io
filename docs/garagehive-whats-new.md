@@ -6,6 +6,24 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 23rd September 2024
+* Added the option to select the default Primary Vehicle Data Lookup Region in Online Booking.
+
+   ![](media/primary-vehicle-data-lookkup-region.png)
+
+* Added access to the **Whats New** page from the Home screen.
+
+   ![](media/whats-new-page.png)
+
+* Added the ability to copy comments from surveys, allowing customers to easily transfer them to external review platforms. This streamlines the process of completing a survey and, if positive, leaving a review.
+
+   ![](media/leave-a-review-copy-comment.png)
+
+<br>
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
+
 ### 16th September 2024
 * Added an action so technicians can access **PartsLink24** directly from their devices.
 
