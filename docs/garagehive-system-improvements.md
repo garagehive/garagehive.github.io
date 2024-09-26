@@ -6,6 +6,12 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 23rd September 2024
+* Refinement to GH Entitlements.
+* Refinement to pay by garagelink action.
+* Refinement to NAPA Auto Parts integration.
+* Refinement to Jobsheet work statuses.
+
 ### 16th September 2024
 * Speed improvements for publishing online authorisation.
 * Speed improvements for customer notifications.
