@@ -3,6 +3,8 @@ layout: docs
 title: How to Use the Teaching Tips
 ---
 
+<a name="top"></a>
+
 # How to Use the Teaching Tips
 In the context of Business Central, teaching tips refer to guided tours of the various pages within the software. These tours are intended to help users with the onboarding process and to educate them on the various functionalities and features available in Business Central. By using teaching tips, users can familiarise themselves with the layout, navigation, and key elements of each page, enabling them to effectively navigate and utilize the software.
 
@@ -29,6 +31,8 @@ In the context of Business Central, teaching tips refer to guided tours of the v
    ![](media/garagehive-teaching-tips4.png)
 
 
+[Go back to top](#top)
+
 ### Enabling and Disabling the Teaching Tips
 1. To enable or disable the teaching tips on all pages, click the **Gear Icon** in the top-right corner, then **My Settings**.
 
@@ -37,4 +41,7 @@ In the context of Business Central, teaching tips refer to guided tours of the v
 2. Scroll down to the **Teaching Tips** field on the pop-up window and enable it by sliding the slider to the right, or disable it by sliding the slider to the left.
 
    ![](media/garagehive-teaching-tips6.png)
+
+
+[Go back to top](#top)
 
