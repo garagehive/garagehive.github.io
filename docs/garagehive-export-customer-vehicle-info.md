@@ -15,7 +15,7 @@ Exporting customer or vehicle information in Garage Hive, includes exporting all
 
    ![](media/garagehive-export-customer-information2.png)
 
-3. Click on the **+Field** option at the top, which now adds the hidden columns to the right side of the screen. To add a new column, drag and drop it into place. To remove an existing column, click on it and select the **remove** option from the available options. When finished click on **Done**.
+3. Click on the **+Field** option at the top, which now adds the hidden columns to the right side of the screen. To add a new column, drag and drop it into place. To hide an existing column, click on it and select the **Hide** option from the available options. When finished click on **Done**.
 
    ![](media/garagehive-export-customer-information3.png)
 
