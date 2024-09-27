@@ -7,8 +7,7 @@ title: How to Setup Copilot and AI Capabilities in Garage Hive
 
 # In this article
 1. [How to Setup Copilot and AI Capabilities](#how-to-setup-copilot-and-ai-capabilities)
-2. [Assign Garage Hive Copilot Entitlement](#assign-garage-hive-copilot-entitlement)
-3. [Using Copilot in VI Estimate Descriptions](#using-garage-hive-copilot-in-vi-estimate-descriptions)
+2. [Using Garage Hive Copilot in VI Estimate Descriptions](#using-garage-hive-copilot-in-vi-estimate-descriptions)
 
 
 ## How to Setup Copilot and AI Capabilities
@@ -28,25 +27,7 @@ Garage Hive now integrates Copilot and AI capabilities to enhance the overall ef
 
 [Go back to top](#top)
 
-
-## Assign Garage Hive Copilot Entitlement
-To use the Garage Hive Copilot feature, ensure that you have assigned the GH Entitlement to your company in your system:
-1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Companies**, and select the related link.
-
-   ![](media/garagehive-copilot7.png)
-
-2. Select the company where you want to assign the **Garage Hive Copilot** entitlement, and then select **Manage GH Entitlement** from the menu bar.
-
-   ![](media/garagehive-copilot8.png)
-
-3. In the **Manage GH Entitlement** page, choose **Garage Hive Copilot** and click **Assign**. Then, click **Close** to exit the page.
-
-   ![](media/garagehive-copilot9.png)
-
-
-[Go back to top](#top)
-
-## Using Copilot in VI Estimate Descriptions
+## Using Garage Hive Copilot in VI Estimate Descriptions
 Garage Hive Copilot uses the fault descriptions available in the **Checklist Lines**. You can find the Checklist lines with descriptions under **Group Items** FastTab, in the **Checklist Lines Count** field in a VI Estimate. To use Garage Hive Copilot in a VI Estimate: 
 1. Open the **VI Estimate**, scroll down to the **Group Items** FastTab, and click on the **Sales Extended Description** field. If the **Checklist Lines Count** field has a count, Garage Hive Copilot will automatically generate a description from it.
 
