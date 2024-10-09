@@ -35,7 +35,7 @@ Filtering lists in Garage Hive allows users to extract specific information from
 
    ![](media/garagehive-filtering-lists-date-range1.png)
 
-3. Select **Posting Date** as the filter value in the filter field and press the **Enter** or **Tab** keys. Enter the date range as **010722...300922**. This narrows the list to the dates specified.
+3. Select **Posting Date** as the filter value in the filter field and press the **Enter** or **Tab** keys. Enter the date range as **010124...091024**. This narrows the list to the dates specified.
 
    ![](media/garagehive-filtering-lists-date-range2.png)
 
@@ -95,13 +95,17 @@ Filtering lists in Garage Hive allows users to extract specific information from
 
    ![](media/garagehive-filtering-lists-save-filter2.png)
 
-4. In the **All (Copy)** box, give the filter view a name, such as "Items Greater Than 5".
+4. In the **All (Copy)** box, give the filter view a name, such as "Items Greater Than 10 and 0 in Jobsheet".
 
    ![](media/garagehive-filtering-lists-save-filter3.png)
 
 5. To accept the name, press the Enter key or move the cursor out of the text box. You can save as many filter views as you need.
 
    ![](media/garagehive-filtering-lists-save-filter4.png)
+
+6. To **remove**, **hide**, or **rename** the filter view, click the three dots and choose the desired option.
+
+   ![](media/garagehive-filtering-lists-save-filter5.png)
 
 
 [Go back to top](#top)
