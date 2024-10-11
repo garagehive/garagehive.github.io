@@ -24,7 +24,7 @@ To setup online booking:
 
    ![](media/garagehive-onlinebooking-setup2.png)
 
-3. You can make the following changes under the **Booking** FastTab:
+3. Adjust the following setting under the **Booking** FastTab:
       - **Minimum Minutes Delay** - This is the time difference between now and the first available booking, i.e., 180 minutes equals a 3-hour delay, implying that at 8 a.m., a customer can make a booking for 11 a.m. that same day.
       - **Max Days in Future** - This is the maximum number of days in the future that bookings can be made.
       - **Default Deal Type Code** - It is recommended that this be set to **OB**. For more information on this feature, please contact a member of the team. 
@@ -41,6 +41,13 @@ To setup online booking:
       - **Hide Service Expected Time** – This hides the expected service times from service packages. (displayed when **More Info** is clicked, along with any extended descriptions set up in the packages).
 
         ![](media/garagehive-onlinebooking-setup4.gif)
+
+      - **Contact Information** - On the last page of the Online Booking form, customers are asked to provide their contact details. You can customise what information is required by adjusting the following fields:
+        - **Contact Name Request Option:** Choose between requesting just the name, or a combination of title, first name, and last name. 
+        - **Address Request Option:** Select whether to request only the house number or the full address.
+        - **Phone No. Mandatory:** Decide whether the customer must provide a phone number.
+
+         ![](media/garagehive-customer-information.png)
 
 4. Under the **Internal Notification** FastTab, you can set the following:
       - **Send To Emails** – This is usually left blank, but it can be used for additional email recipients; this is for a confirmation email that's sent to the branch.
