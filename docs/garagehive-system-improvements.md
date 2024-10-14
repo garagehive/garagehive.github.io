@@ -6,6 +6,16 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 11th October 2024
+* Updated **Human Resource** setup.
+* Refinement on **Reminded not Booked** feature.
+* Enhancement of the **MOT Reminders** notifications.
+* Improvement on the **ServiceSplit** plan creation.
+* Refinement to the **Line Checker** flagging and warnings.
+* Enhancement to the **Castrol Lookup** mobile view and adding of Castrol oil to documents using the feature.
+* Refinement to the **Online Booking** customer and address information form.
+* Improvement to **Tyre Stock Groups** ordering process.
+
 ### 23rd September 2024
 * Refinement to GH Entitlements.
 * Refinement to pay by garagelink action.
