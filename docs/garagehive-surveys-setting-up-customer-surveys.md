@@ -18,60 +18,81 @@ Here we will look at the NPS customer surveys, which help you measure the custom
 
 
 ### Enabling Customer Surveys
-To enable customer surveys, you must first contact our support team to have the service activated in your system. To see if the service is enabled, do the following:
-1. Search for **Survey Setup** in the top-right corner ![](media/search_icon.png) icon and select it from the search results.
-2. In the resulting window, there is an option to enable the surveys service with a slider, which should be enabled if the service is activated.
-3. When the surveys service is enabled, the customer surveys are enabled by default.
+To enable customer surveys, you will need to contact our support team to have the service activated in your system. Once activated, follow these steps to verify if the service is enabled:
+1. In the top-right corner, search for **Survey Setup** using the ![](media/search_icon.png) icon and select the related link.
 
-   ![](media/garagehive-surveys-customer01.gif)
+   ![](media/garagehive-surveys-customer1.png)
+
+2. In the setup page that opens, you'll see a slider option to enable the surveys service. If the service is already activated, the slider will be enabled.
+3. Once the service is enabled, customer surveys will be automatically active.
+
+   ![](media/garagehive-surveys-customer2.png)
 
 
 [Go back to top](#top)
 
 ### Creating a New Customer Survey
-1. Search for **Surveys** in the top right corner ![](media/search_icon.png) icon and select it from the list to create a new customer survey.
+1. In the top-right corner, search for **Surveys** using the ![](media/search_icon.png) icon and select the related link.
+
+   ![](media/garagehive-surveys-customer-new1.png)
+
 1. The window that appears displays a list of the previously setup surveys. To create a new one, go to the menu bar and select **+New**.
 
-   ![](media/garagehive-surveys-customer001.gif)
+   ![](media/garagehive-surveys-customer-new2.png)
 
 1. From the window that appears, you can rename the **No.** field or press the tab button to have the survey number series automatically filled in.
 1. Fill out the **Description** field with a description of the survey.
 1. Select **Customer** in the **Type** field, as you are creating a customer survey.
 
-  ![](media/garagehive-surveys-customer002.gif)
+  ![](media/garagehive-surveys-customer-new3.png)
 
 1. Add the questions for the customer to answer in the **Questions** section. The question should be in the **Description** column.
 1. In the **Type** column, specify the type of response you anticipate from the customer and in the **Answer Options** define the answers to be selected:
-   - **Single Choice** refers to a situation in which the customer selects from the available options but can only select one.
-   - **Multiple Choice** refers to a situation in which the customer can select a number of options.
-   - **Text** is where the customer writes down the answer in text form.
-   - **Gradient** is where the customer selects between 0 to 10 the likelihood of the answer, with 0 being **not at all likely** and 10 being **extremely likely**.
+   - **Single Choice:** Allows the customer to select only one option.
+   - **Multiple Choice:** Allows the customer to select multiple options.
+   - **Text:** The customer provides a written response.
+             - **Gradient:** The customer rates their response on a scale from 0 to 10, where 0 means **not at all likely** and 10 means **extremely likely**.
 
-   ![](media/garagehive-surveys-customer003.gif)
+      ![](media/garagehive-surveys-customer-new4.png)
 
-1. After adding the questions, you can preview and enable the survey.
+2. Once you’ve added your questions, you can now **Preview** and **Enable** the survey.
 
-   ![](media/garagehive-surveys-customer004.gif)
+      ![](media/garagehive-surveys-customer-new5.png)
 
-1. Whenever you create a new customer survey, make sure it's the one that's available to send to the customer, because it's sent whenever a jobsheet is posted. To check this, search for **Customer Notifications** and select it from the results.
-1. From the list that appears, open the **Survey** notification setup and check/select the survey to be sent out under the **General** FastTab in the **Survey No.** field.
+3. Ensure the newly created survey is ready to be sent to customers. Surveys are typically sent when a Jobsheet is posted. To confirm this:
+      - In the top-right corner, search for **Customer Notifications** using the ![](media/search_icon.png) icon and select the related link.
 
-   ![](media/garagehive-surveys-customer005.gif)
+         ![](media/garagehive-surveys-customer-new6.png)
+
+      - From the list, open the **Survey** notification setup. 
+
+         ![](media/garagehive-surveys-customer-new7.png)
+
+      - Under the **General** FastTab, select the correct survey from the **Survey No.** field and ensure the notification is enabled.
+
+         ![](media/garagehive-surveys-customer-new8.png)
 
 
 [Go back to top](#top)
 
 ### Opt in All Customers to the Survey
-For the customer surveys to work effectively, you must ensure that the system setup is correct. First, confirm that the customers' settings are right. To check this:
-1. Select the **Customers** list on the navigation bar from the role centre.
-2. Add the **Feedback and Review Requests** column; this column indicates the customers who have been opted into the services.
-3. From the list, you can filter the customers who are opted into the service by right-clicking on the column and select **Filter**. 
-4. From the filter pane that appears, choose **No** or **Yes** from the dropdown to filter the customers who are not into the service and customers who are into the service, respectively. 
+To ensure that customer surveys work properly, it’s important to verify that the system is correctly set up and that customers are opted in. Follow these steps to check and manage the customer settings:
+1. From the Role Centre, select the Customers list on the navigation bar.
+2. Add the **Feedback and Review Requests** column (use personalisation), which shows which customers that have opted into the service.
+
+   ![](media/garagehive-surveys-opt-in-all-customers1.png)
+
+3. To filter out the customers who are opted in, right-click on the column and select Filter. 
+4. In the filter pane that appears, use the dropdown to select **No** for customers who are not opted in, or **Yes** for those who are. 
+
+   ![](media/garagehive-surveys-opt-in-all-customers2.png)
+
+5. For customers who are not opted in, open their customer cards, scroll down to the **GDPR and Community Policy** section, and enable the **Feedback and Review Requests** slider. Use the arrow on the side to move to the next customer.
+
+   ![](media/garagehive-surveys-opt-in-all-customers3.png)
 
 
-{% include tip.html title="Tip" text="It is advisable to opt all your customers in, and after sending the survey, you give them the option of opting out." %}
-
-   ![](media/garagehive-surveys-customer1.gif)
+{% include tip.html title="Tip" text="It is advisable to opt all your customers in by default and provide them with the option to opt-out after sending the survey." %}
 
 
 [Go back to top](#top)
@@ -82,10 +103,13 @@ Secondly, you need to ensure that customers are automatically opted in when you 
 {% include tip.html title="Note" text="If this is not the case, contact a member of our support team to set this up." %}
 
 To confirm:
-1. Click **+New** to create a new customer card from the customers' list page. 
+1. Click **+New** to create a new customer card from the customers' list page.
+
+   ![](media/garagehive-surveys-customer-opt-in-new1.png)
+
 2. Without filling in any information, scroll down to the **GDPR and Communication Policy** section and confirm **Feedback and Review Requests** is selected.
 
-   ![](media/garagehive-surveys-customer2.gif)
+   ![](media/garagehive-surveys-customer-opt-in-new2.png)
 
 
 [Go back to top](#top)
@@ -93,27 +117,40 @@ To confirm:
 ### Confirm Message to Send in the Surveys
 Finally, you need to check the message that you are going to send your customers:
 1. Search **Customer Notifications** (top-right corner), and select customer notifications from the search results.
-2. From the window that appears, select **Survey** from the list. 
+
+   ![](media/garagehive-surveys-customer-confirm-message1.png)
+
+2. From the window that appears, select **Survey** from the list.
+
+   ![](media/garagehive-surveys-customer-confirm-message2.png)
+
 3. In the General FastTab, set the **Scheduled Time** to send out the survey, and the date, relative to the date of sending the invoice, on the **Date Formula** field.
 
-    ![](media/garagehive-surveys-customer3.gif)
+   ![](media/garagehive-surveys-customer-confirm-message3.png)
 
 4. Scroll down to the SMS section and select the **SMS Text** field to edit the message to send.
-5. Use the **Field Tags**, **CustName** to insert the customer's name, **SurveyURL** to insert the survey link, and **OptOutURL** to insert the link where customers can opt-out of the survey (click on the **Fields Tag** to see these options). 
-6. Do the same on the Email section. 
+5. Use the **Field Tags**, **CustName** to insert the customer's name, **SurveyURL** to insert the survey link, and **OptOutURL** to insert the link where customers can opt-out of the survey (click on the **Fields Tag** to see these options).
 
-   ![](media/garagehive-surveys-customer4.gif)
+   ![](media/garagehive-surveys-customer-confirm-message4.png)
+
+6. Do the same on the Email section. 
 
 
 [Go back to top](#top)
 
 ### Preview the Message to Send
 After confirming the message is okay to send out to the customers: 
-1. Select the **Send SMS** field or **Send Email Field** and fill in the customer information. 
-2. Click **Okay** to preview the message to send. 
+1. Select the **Send SMS** field or **Send Email Field**.
+
+   ![](media/garagehive-surveys-customer-preview-message1.png)
+
+2. Fill in the customer information and click **Okay** to preview the message to send.
+
+   ![](media/garagehive-surveys-customer-preview-message2.png)
+
 3. Before closing the **Customer Notifications** window, select **Enabled** from the General FastTab to activate the survey.
 
-   ![](media/garagehive-surveys-customer5.gif)
+   ![](media/garagehive-surveys-customer-preview-message3.png)
 
 
 [Go back to top](#top)

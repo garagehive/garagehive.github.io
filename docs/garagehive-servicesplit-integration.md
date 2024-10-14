@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - ServiceSplit Integration with Garage Hive
+title: ServiceSplit Integration with Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # ServiceSplit Integration with Garage Hive
 The ServiceSplit integration enables Garage Hive users to offer garages monthly service plans with flexible payment options. Garages can create custom payment schedules, which are then processed and managed by ServiceSplit, simplifying the billing process for both the garage and its customers. 
