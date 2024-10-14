@@ -14,7 +14,7 @@ In this article, we will look at what they actually mean and the implications of
 
    | Icon | Description                                                                                                                                                                                                                                                                          | Implication to Posting Jobsheet            |
    | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-   | 🚩    | The red flag icon appears when: <br> 1. Item stock levels are insufficient. <br> 2. Labour line resource information is missing. <br> 3. The slider **Prevent Posting if Unit Price is Less than Cost** is enabled*.                                                                 | Prevents document from posting.            |
+   | 🚩    | The red flag icon appears when: <br> 1. Item stock levels are insufficient. <br> 2. Labour line resource information is missing. <br> 3. The slider **Prevent Posting if Unit Price is Less or Equal Than Cost** is enabled*.                                                        | Prevents document from posting.            |
    | ⚠️    | The triangle warning icon appears when: <br> **1.** The **Line Amount of an Item or Labour** in a line is less than or equal to zero. <br> **2.** The **Unit Price of an Item** is less than or equal to the Unit Cost. <br> **3.** An item appears in more than one document lines. | Doesn't prevent the document from posting. |
    | 🔁    | The Anticlockwise Downwards and Upwards Open Circle Arrows icon appears when there is a substitution available in the system for the item.                                                                                                                                           | Doesn't prevent the document from posting. |
    | ℹ️    | The information icon, appears when there is more than one information available to display.                                                                                                                                                                                          | Doesn't prevent the document from posting. |
@@ -30,7 +30,7 @@ When the **Prevent Posting if Unit Price is Less than Cost** slider is on the wa
 
    ![](media/garagehive-line-checker-unit-price-vs-unit-cost1.png)
 
-2. Under **General** FastTab, enable the **Prevent Posting if Unit Price is Less than Cost** slider.
+2. Under **General** FastTab, enable the **Prevent Posting if Unit Price is Less or Equal Than Cost** slider.
 
    ![](media/garagehive-line-checker-unit-price-vs-unit-cost2.png)
 
@@ -38,7 +38,7 @@ When the **Prevent Posting if Unit Price is Less than Cost** slider is on the wa
 
    ![](media/garagehive-line-checker-unit-price-vs-unit-cost3.png)
 
-4. Enable the **Prevent Posting if Unit Price is Less than Cost** slider.
+4. Enable the **Prevent Posting if Unit Price is Less or Equal Than Cost** slider.
 
    ![](media/garagehive-line-checker-unit-price-vs-unit-cost4.png)
 

@@ -6,6 +6,14 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 11th October 2024
+* Added integration with **TimeTastic** HR system which enables syncing of employee data, including holidays and absence records, [read more](garagehive-timetastic-integration.html){:target="_blank"}.
+* Added item margin line checker setup, which, when enabled, prevents posting of the document if the Unit Price is less than or equal to the Cost, [read more](garagehive-line-checker.html){:target="_blank"}.
+
+   ![](media/prevent-posting-if-unit-price-is-less-than-or-equal-than-cost.png)
+
+* 
+
 ### 23rd September 2024
 * Added the option to select the default Primary Vehicle Data Lookup Region in Online Booking.
 
