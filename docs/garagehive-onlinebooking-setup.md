@@ -5,6 +5,7 @@ title: Setting Up Online Booking
 
 <a name="top"></a>
 
+# Setting Up Online Booking
 Online booking in Garage Hive allows customers to book, for example, MOT, servicing, or repairs from the business' websites or social media platforms available, and the booking is recorded directly in the Garage Hive system.
 
 ## In this article
@@ -34,7 +35,7 @@ To setup online booking:
       - **Default Vehicle Status** – Should be set to **Customer**.
       - **Hide Service Prices** – This will hide the sales price of all service packages.
       - **Automatic Booking Confirmation** – If enabled, will send an email and/or SMS confirmation to the customer.
-      - **Primary Vehicle Data Lookup Region Code** – In this field, you can select the default vehicle lookup region for your system from the available regions.
+      - **Primary Vehicle Data Lookup Region Code** – In this field, you can select the default vehicle lookup region for online booking from the available regions.
 
         ![](media/garagehive-onlinebooking-setup3.png)
 
@@ -44,7 +45,7 @@ To setup online booking:
 
       - **Contact Information** - On the last page of the Online Booking form, customers are asked to provide their contact details. You can customise what information is required by adjusting the following fields:
         - **Contact Name Request Option:** Choose between requesting just the name, or a combination of title, first name, and last name. 
-        - **Address Request Option:** Select whether to request only the house number or the full address.
+        - **Address Request Option:** Select whether to request only the house number and postcode or the full address.
         - **Phone No. Mandatory:** Decide whether the customer must provide a phone number.
 
          ![](media/garagehive-customer-information.png)
@@ -59,8 +60,8 @@ To setup online booking:
 
 [Go back to top](#top)
 
-### Enable Vehicle Data Lookup by Regions
-Enabling the Vehicle Data Lookup for the Great Britain, Ireland, and Isle of Man regions allows the identification of licence plates when customers from these areas make an online booking. To enable the Vehicle Data Lookup for these regions:
+### Vehicle Data Lookup Region Setup
+The Vehicle Data Lookup region setup enables the identification of registration numbers for available regions, allowing customers from those areas to make online bookings. To enable the Vehicle Data Lookup for these regions:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Vehicle Data Lookup Setup**, and choose the related link.
 
    ![](media/garagehive-vehicle-data-lookup-regions1.png)
