@@ -4,13 +4,14 @@ title: Tyre Stock Groups in Garage Hive
 ---
 
 # Tyre Stock Groups
-**Tyre Stock Groups** is a feature in Garage Hive where you can conveniently create and manage various tyre groups available in the market, allowing you to effectively organize your tyre inventory based on these groups.
+**Tyre Stock Groups** is a feature in Garage Hive where you can easily create and manage various tyre groups available in the market, allowing you to effectively organise your tyre inventory based on these groups.
 
 
 ## In this article
 1. [Creating Tyre Stock Groups](#creating-tyre-stock-groups)
 2. [Creating Tyre Stock Categories](#creating-tyre-stock-categories)
 3. [Add Location Specific Setup to Tyre Stock Groups](#add-location-specific-setup-to-tyre-stock-groups)
+4. [Enable Tyre Stock Group Ordering in Requisition Worksheet](#enable-tyre-stock-group-ordering-in-requisition-worksheet)
 
 ### Creating Tyre Stock Groups
 To create **Tyre Stock Groups**:
@@ -37,7 +38,7 @@ To create **Tyre Stock Groups**:
 [Go back to top](#top)
 
 ### Creating Tyre Stock Categories
-**Tyre Stock Categories** help in categorising the **Tyre Stock Groups** based on the criteria you use. Here is how to create the categories:
+**Tyre Stock Categories** help in categorising the **Tyre Stock Groups** based on the criteria you choose. Here is how to create the categories:
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Tyre Stock Categories**, and select the related link.
 
    ![](media/garagehive-tyre-stock-categories1.png)
@@ -46,7 +47,7 @@ To create **Tyre Stock Groups**:
 
    ![](media/garagehive-tyre-stock-categories2.png)
 
-3. Open the **Tyre Stock Groups** page, go to the **Stock Category** field, and select the tyres to which you want to add a category. Add the categories there.
+3. Open the **Tyre Stock Groups** page, go to the **Stock Category** field, select the tyres to which you want to add a category and add the categories there.
 
    ![](media/garagehive-tyre-stock-categories3.png)
 
@@ -71,5 +72,38 @@ Location Specific setup helps in the creation of the Tyre Stock Group for a spec
 6. Select **New** from the menu bar, and choose the location you want to have in the group.
 
    ![](media/garagehive-tyre-group-location-specific4.png)
+
+[Go back to top](#top)
+
+### Enable Tyre Stock Group Ordering in Requisition Worksheet
+If you want the requisition worksheet to work with Tyre Stock Groups instead of individual tyre items when selecting items to order, you need to create tyre placeholder items and categorise all the tyre stock groups. Here’s how to do it:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Tyre Stock Groups**, and select the related link.
+
+   ![](media/garagehive-tyre-stock-placeholder1.png)
+
+2. In the **Tyre Stock Placeholder Item** column, create new placeholder items for each category you have.
+
+   ![](media/garagehive-tyre-stock-placeholder2.png)
+
+3. Make sure the item card is set up as a **Tyre** item template and marked as a **Placeholder Item**.
+
+   ![](media/garagehive-tyre-stock-placeholder3.png)
+
+4. After adding a **Tyre Stock Placeholder Item** for each category, go to the tyre item card and add the **Reordering Policy** as **Maximum Qty.** and the **Reorder Point** as point when to reorder.
+
+   ![](media/garagehive-tyre-stock-placeholder4.png)
+
+5.  In the **Tyre Fields** FastTab of the item card, ensure that the **Stock Category** is included.
+
+   ![](media/garagehive-tyre-stock-placeholder5.png)
+
+6. Next, click on the **Items to Order** tile.
+
+   ![](media/garagehive-tyre-stock-placeholder6.png)
+
+7. Click on **Calculate Plan** in the **Requisition Worksheet Express**, and it will give you the number of tyre category to order.
+
+   ![](media/garagehive-tyre-stock-placeholder7.png)
+
 
 [Go back to top](#top)

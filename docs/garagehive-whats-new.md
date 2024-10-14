@@ -12,7 +12,7 @@ The following is a list of all new Garage Hive features and updates. For more de
 
    ![](media/prevent-posting-if-unit-price-is-less-than-or-equal-than-cost.png)
 
-* 
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
 
 ### 23rd September 2024
 * Added the option to select the default Primary Vehicle Data Lookup Region in Online Booking.
