@@ -10,7 +10,7 @@ Online booking in Garage Hive allows customers to book, for example, MOT, servic
 
 ## In this article
 1. [Online Booking Setup](#online-booking-setup)
-2. [Enable Vehicle Data Lookup by Regions](#enable-vehicle-data-lookup-by-regions)
+2. [Vehicle Data Lookup Region Setup](#vehicle-data-lookup-region-setup)
 3. [Get Embed HTML](#get-embed-html)
 4. [Get Standalone Page URL](#get-standalone-page-url)
 
