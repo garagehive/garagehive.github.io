@@ -3,6 +3,8 @@ layout: docs
 title: How to Send Customer Surveys from a Posted Jobsheet
 ---
 
+<a name="top"></a>
+
 # How to Send Customer Surveys from a Posted Jobsheet
 Customer surveys are usually sent when a Jobsheet is posted, but Garage Hive allows for flexibility to send them later from the posted Jobsheet if needed. Here is how:
 1. Select **Posted & Archived Documents** from the Role Centre navigation menu, then click on **Posted Jobsheets** to view a list of all posted Jobsheets.
@@ -18,6 +20,9 @@ Customer surveys are usually sent when a Jobsheet is posted, but Garage Hive all
 
    ![](media/garagehive-customer-survey-posted-jobsheet3.png)
 
-6. The customer survey will be sent.
+5. The customer survey will be sent.
 
    ![](media/garagehive-customer-survey-posted-jobsheet4.png)
+
+
+[Go back to top](#top)
