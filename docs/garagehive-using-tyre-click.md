@@ -3,6 +3,8 @@ layout: docs
 title: Using TyreClick Booking System in Garage Hive 
 ---
 
+<a name="top"></a>
+
 # Using TyreClick Booking System in Garage Hive
 **TyreClick** is a [Micheldever](https://www.micheldever.co.uk/){:target="_blank"} tyre supplier online booking service, where customers can buy tyres and have them fitted at your garage at a certain date. TyreClick is now integrated with Garage Hive to enable online booking of tyre services, and creating of Jobsheet from the booking.
 
@@ -72,3 +74,6 @@ Here is the process of the customer getting to use the TyreClick online booking:
    ![](media/garagehive-tyre-click-example3.png)
 
 9. To view the booking made by the customer in the Garage Hive system, refer to [**Reviewing Online Bookings and Enquiries**](garagehive-reviewing-online-bookings-and-enquiries.html) for more details.
+
+
+[Go back to top](#top)
