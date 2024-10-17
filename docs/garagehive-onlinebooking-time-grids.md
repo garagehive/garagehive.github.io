@@ -7,13 +7,10 @@ title: Setting Up Online Booking - Time Grids
 
 Time grids are system time allocations that help manage time slot availability for online bookings. When a customer makes a booking online, they first select a service package. After that, they need to choose a time slot for the booking. This is where time grids come in, allowing the system to display available time slots. These grids are configured to calculate the labour hours required for the selected service package and suggest suitable time slots for the resource performing the work. Let’s explore how to set up and use time grids effectively.
 
-   ![](media/garagehive-time-grids.png)
-
-
 ## In this article
 1. [Setting Up Time Grids in the System](#setting-up-time-grids-in-the-system)
 2. [Adding Time Grids for a Resource](#adding-time-grids-for-a-resource)
-3. [Adding Greyed Lines in the Schedule Using Time Grids](adding-greyed-lines-in-the-schedule)
+3. [Adding Greyed Lines in the Schedule Using Time Grids](#adding-greyed-lines-in-the-schedule-using-time-grids)
 
 ### Setting Up Time Grids in the System
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Time Grids**, and select the related link.
@@ -42,22 +39,28 @@ Time grids are system time allocations that help manage time slot availability f
 ### Adding Time Grids for a Resource
 Time grids are added to the resource to specify the duration of time that the resource can work and the time slots that the resource can be booked. For example, if we add **1Hr** to the time grid for the resource, it means that the resource can be booked for the full 60-minute duration. Here's how to add time grids for resources:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Resources** and select the related link.
+
+   ![](media/garagehive-online-booking-time-grids4.png)
+
 2. The window that appears lists all of the resources that have been added to the system; select the resource to which you want to add the time grids. In this instance, we'll go with **MOT**.
 
-  ![](media/garagehive-online-booking-time-grids4.gif)
+   ![](media/garagehive-online-booking-time-grids5.png)
 
-3. From the resource page, select **Related** from the menu bar, then select **Resources** from the submenu, and finally click on **Time Grids**.
+3. From the resource page, select **Related** (click More Options if not visible) from the menu bar, then select **Resources** from the submenu, and finally click on **Time Grids**.
+
+   ![](media/garagehive-online-booking-time-grids6.png)
+
 4. From the window that appears, you can add a single time grid to the resource or several.
 
-  ![](media/garagehive-online-booking-time-grids5.gif)
+   ![](media/garagehive-online-booking-time-grids7.png)
 
 5. As a result of the above added time grids, the resource can be assigned to a service package and booked within the specified time slots for the added time grids.
 
-### Adding greyed lines in the schedule using time grids
+### Adding Greyed Lines in the Schedule Using Time Grids
 Sometimes you would want to add greyed lines in the schedule, to help in organizing the schedule; for example in lunch breaks. It is possible to add the greyed lines for a specific resource. To do this:
 1. From the MOT **Resource** page, scroll down to **Time Grid Code** in the general FastTab, and choose a previously set up time grid.
 
-  ![](media/garagehive-online-booking-time-grids6.gif)
+   ![](media/garagehive-online-booking-time-grids6.gif)
 
 The time slots set up in the selected time grid are greyed out along the MOT timeline as a result of this. As explained above, you can modify the settings for the time slots.
 
