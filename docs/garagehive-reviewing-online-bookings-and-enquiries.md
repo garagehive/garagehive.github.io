@@ -3,6 +3,8 @@ layout: docs
 title: Reviewing Online Bookings and Enquiries
 ---
 
+<a name="top"></a>
+
 # Reviewing Online Bookings and Enquiries
 1. When an **Online Booking or Enquiry** is made, the notification appears in the **To Review** tile under the Online Booking section.
 
@@ -30,3 +32,6 @@ title: Reviewing Online Bookings and Enquiries
 9. After reviewing a line, select it and choose **Mark as Reviewed** from the menu bar.
 
    ![](media/garagehive-reviewing-onlinebooking-and-enquiries3.png)
+
+
+[Go back to top](#top)
