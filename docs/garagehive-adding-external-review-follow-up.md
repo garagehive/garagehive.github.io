@@ -11,7 +11,7 @@ Including an external review follow-up in a customer survey allows the garage to
 ## In this article
 1. [External Review Follow Up Setup for Single Location](#external-review-follow-up-setup-single-location)
 2. [External Review Follow Up Setup for Multi Location](#external-review-follow-up-setup-for-multi-location)
-3. [How the External Review Link Appears to the Customer](#tyre-scanner-checklist-template)
+3. [How the External Review Link Appears to the Customer](#how-the-external-review-link-appears-to-the-customer)
 
 
 ### External Review Follow Up Setup for Single Location
