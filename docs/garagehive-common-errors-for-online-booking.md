@@ -38,7 +38,7 @@ In this article, we'll look at the common errors and how to fix them:
    
 5. **Resource has no Time Grids**: This error occurs when the resource for the online booking don't have time grids slots; this are the system time allocations that help manage resource time slots availability for online bookings. **Open Related Record** to go to the **Resource** card, from the menu bar select **Related**, **Resources** and then **Time Grids**. In the **Resource Time Grids** table, add the different slots that the resource is available for online booking, could be **45MIN**, **1HR** and **2HRS**.
 
-   ![](media/garagehive-online-booking-errors7.gif)
+   ![](media/garagehive-online-booking-errors7.png)
 
 [Previous](/docs/garagehive-onlinebooking-testing.html)
 
