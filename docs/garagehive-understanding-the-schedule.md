@@ -6,7 +6,7 @@ title: Understanding the Schedule
 <a name="top"></a>
 
 # Understanding the Schedule
-The service schedule is a tool predominantly used to manage your workshop. Garage Hive works by allocating time rather than jobsheets within the schedule; this allows you to load time accurately.
+The service schedule is a tool predominantly used to manage your workshop. Garage Hive works by allocating time rather than Jobsheets within the schedule; this allows you to load time accurately.
 
 ## In this article
 1. [Understanding the Schedule Layout](#understanding-the-schedule-layout)
@@ -25,6 +25,7 @@ The service schedule is a tool predominantly used to manage your workshop. Garag
 14. [Using the Search Function in the Schedule](#using-the-search-function-in-the-schedule)
 15. [Adding an Allocation Type](#adding-an-allocation-type)
 16. [Block Days from Booking in the Schedule](#block-days-from-booking-in-the-schedule)
+17. [Putting an Allocation On Hold from the Schedule](#putting-an-allocation-on-hold-from-the-schedule)
 
 ###  Understanding the Schedule Layout
 The service schedule layout is divided into the following parts:
@@ -34,7 +35,7 @@ The service schedule layout is divided into the following parts:
 1. **The menu bar:** this is where you find the different actions to use as you navigate through the schedule.
 2. **The View FastTab:** this helps you to filter what to view in the schedule according to your preference.
 3. **The Schedule Timeline:** this shows the day and time in the schedule. The red line in the schedule, running from top to bottom, is the current time of the day. 
-4. **The Booking Slots:** this is where the allocations bookings are made and displayed. You can make multiple allocations for a single jobsheet. The colour of the booking changes depending on the allocation status; see [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule).
+4. **The Booking Slots:** this is where the allocations bookings are made and displayed. You can make multiple allocations for a single Jobsheet. The colour of the booking changes depending on the allocation status; see [Understanding the colours within the schedule](#understanding-the-colours-within-the-schedule).
 
     >   **Example** <br>
     >   If you are booking in a gearbox repair job, you would not be doing all of the work in one go.<br>
@@ -55,11 +56,11 @@ The schedule colours are used to help understand the different work statuses for
 |                                                                         |      |                            |      |
 | ![](media/garagehive-understanding-the-schedule3.png) (**Purple**)      |      | **FINISHED**               |      | A technician has clocked onto this allocation and completed their part of this job, whether that be due to requiring additional authorisation or that it is fully completed (Do not move this allocation).                                      |
 |                                                                         |      |                            |      |
-| ![](media/garagehive-understanding-the-schedule4.png) (**Green**)       |      | **READY**                  |      | The jobsheet status has been manually set to **READY**, meaning the vehicle is ready for collection. The customer has been contacted and the invoice has been prepared. (Do not move this allocation)                                           |
+| ![](media/garagehive-understanding-the-schedule4.png) (**Green**)       |      | **READY**                  |      | The Jobsheet status has been manually set to **READY**, meaning the vehicle is ready for collection. The customer has been contacted and the invoice has been prepared. (Do not move this allocation)                                           |
 |                                                                         |      |                            |      |
-| ![](media/garagehive-understanding-the-schedule5.png) (**Grey with** 📫) |      | **POSTED**                 |      | The postbox symbol means that the jobsheet for this allocation has been invoiced and posted to the accounts.                                                                                                                                    |
+| ![](media/garagehive-understanding-the-schedule5.png) (**Grey with** 📫) |      | **POSTED**                 |      | The postbox symbol means that the Jobsheet for this allocation has been invoiced and posted to the accounts.                                                                                                                                    |
 |                                                                         |      |                            |      |
-| ![](media/garagehive-understanding-the-schedule6.png) (**Grey with** ✅) |      | **REALLOCATED**            |      | The vehicle is still on site and the jobsheet is still open. A new allocation has been made for this vehicle within the schedule, turning any previous allocations grey.                                                                        |
+| ![](media/garagehive-understanding-the-schedule6.png) (**Grey with** ✅) |      | **REALLOCATED**            |      | The vehicle is still on site and the Jobsheet is still open. A new allocation has been made for this vehicle within the schedule, turning any previous allocations grey.                                                                        |
 |                                                                         |      |                            |      |
 | ![](media/garagehive-understanding-the-schedule9.png) (**Red**)         |      | **ON HOLD**                |      | A paused allocation can be moved on the schedule during the same day for a technician to resume this job. If it gets to the end of the day and there are still paused allocations, deallocate these and make a new allocation for the next day. |
 |                                                                         |      |                            |      |
@@ -180,7 +181,7 @@ Sometimes there might be a single change of the scheduled work time for the reso
 [Go back to top](#top)
 
 ### View the Statistics of the Schedule
-The schedule statistical information summarizes the resources capacity, remaining hours after allocations, a list of all the allocations for the day, and the total jobsheets for all the allocations made for the day. To view the statistics for a day:
+The schedule statistical information summarizes the resources capacity, remaining hours after allocations, a list of all the allocations for the day, and the total Jobsheets for all the allocations made for the day. To view the statistics for a day:
 1. From the view FastTab, select **Period Type** as **Day**.
 2. The **Start Date** as the day you want to view the statistics.
 3. Click on the **Statistics** from the menu bar.
@@ -191,7 +192,7 @@ The schedule statistical information summarizes the resources capacity, remainin
 [Go back to top](#top)
 
 ### Adding a Standard Event
-A standard event is an allocation not related to a jobsheet but adds other considerations about the resources, such as a sick off, etc. To add a standard event:
+A standard event is an allocation not related to a Jobsheet but adds other considerations about the resources, such as a sick off, etc. To add a standard event:
 1. Click and drag in the booking slot along the resource to allocate.
 2. Release up to the time when the standard event ends. 
 3. Select the **Allocation Type** as **Standard Event**.
@@ -224,12 +225,12 @@ A standard event is an allocation not related to a jobsheet but adds other consi
 ### Understanding the Emojis in an Allocation
 The emojis are used in the allocations to visually help the service advisor and technicians understand status and requirements of the job. Here are some of the most commonly used emojis: <br>
 
-* 📫 This indicates a posted jobsheet. <br>
-* ❌This indicates that the vehicle is not marked on site from the jobsheet. <br>
-* ✅ or ✔ This indicates that the vehicle has been marked as on site from the jobsheet. <br>
+* 📫 This indicates a posted Jobsheet. <br>
+* ❌This indicates that the vehicle is not marked on site from the Jobsheet. <br>
+* ✅ or ✔ This indicates that the vehicle has been marked as on site from the Jobsheet. <br>
 * 🔑 This indicates that the vehicle key has been assigned a key tag. <br>
 * 🆑 This indicates that the vehicle has been marked as requiring collection and delivery. <br>
-* 🚗 This indicates that the customer requires a courtesy car, and it's marked in the jobsheet. <br>
+* 🚗 This indicates that the customer requires a courtesy car, and it's marked in the Jobsheet. <br>
 * 🌛 This indicates that the vehicle has been marked as staying overnight. <br>
 * ⏰ This indicates that the customer has specified a time to collect the vehicle. <br>
 * £ This indicates the amount including VAT. <br>
@@ -269,7 +270,7 @@ The addition of allocations count improves the visibility of Jobsheet allocation
 [Go back to top](#top)
 
 ### Using the Search Function in the Schedule
-When there are many bookings in the schedule, it becomes harder to find an allocation that you are looking for easily. The search function helps you overcome this challenge by enabling you to search for an allocation using the customer name, vehicle registration No., vehicle make or model, or the jobsheet No.:
+When there are many bookings in the schedule, it becomes harder to find an allocation that you are looking for easily. The search function helps you overcome this challenge by enabling you to search for an allocation using the customer name, vehicle registration No., vehicle make or model, or the Jobsheet No.:
 1. From the view FastTab, under the **Search** field, enter the allocation details to search.
 2. Press enter; this hides all the other allocations, leaving the allocation you need.
 
@@ -318,6 +319,20 @@ When a day in the schedule is blocked, it prevents any new allocations from bein
 2. This will grey out the diary where there is no allocation.
 
 The existing allocations in the schedule can be modified.
+
+
+[Go back to top](#top)
+
+### Putting an Allocation On Hold from the Schedule
+To put an allocation on hold while it is in progress, follow these steps:
+1. Open the schedule and go to the allocation that is **In Process**. Right click on it and select **On Hold**.
+
+   ![](media/garagehive-on-hold-schedule1.png)
+
+2. The allocation will change to red, indicating it is on hold. To resume the allocation, right-click on it and select **Start**.
+3. If you wish to complete the allocation, right-click on it and select **Finish**.
+
+   ![](media/garagehive-on-hold-schedule2.png)
 
 
 [Go back to top](#top)
