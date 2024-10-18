@@ -23,15 +23,19 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
    ![](media/garagehive-timetastic-integration2.png)
 
-3. In the **API Key** section, click on **Generate new key**, and make sure to copy the key that is generated.
+3. A new API key will be generated. Click on the key to automatically copy it.
+
+   ![](media/garagehive-timetastic-integration6.png)
+
+4. In the **API Key** section, click on **Generate new key**. 
 
    ![](media/garagehive-timetastic-integration3.png)
 
-4. Next, log into your Garage Hive account. Choose the ![](media/search_icon.png) icon in the top right corner, enter **HR Integration Setup**, and select the related link.
+5. Next, log into your Garage Hive account. Choose the ![](media/search_icon.png) icon in the top right corner, enter **HR Integration Setup**, and select the related link.
 
    ![](media/garagehive-timetastic-integration4.png)
 
-5. In the **HR Integration Setup** page, set **HR Platform** to **Timetastic**, paste the API Key you copied into the **Timetastic API Key** field, and enable the **HR Integration is Enabled** slider. You can also select specific sync options in the **Sync Task** section. Once done, exit the setup.
+6. In the **HR Integration Setup** page, set **HR Platform** to **Timetastic**, paste the API Key you copied into the **Timetastic API Key** field, and enable the **HR Integration is Enabled** slider. You can also select specific sync options in the **Sync Task** section. Once done, exit the setup.
 
    ![](media/garagehive-timetastic-integration5.png)
 

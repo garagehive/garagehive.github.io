@@ -24,7 +24,7 @@ title: Reviewing Online Bookings and Enquiries
    ![](media/garagehive-reviewing-onlinebooking-and-enquiries5.png)
 
 6. The details provided by the customer in online booking form are show at the **Online Booking Customer Details** section where they can be edited.
-7. Use the **Lookup address from postcode** to update the customers address - if necessary.
+7. Use the **Lookup address from postcode** to update the customer's address - if necessary.
 8. To create a new customer from the online booking details, select the **Create New Customer** option. Click **OK** when done.
 
    ![](media/garagehive-reviewing-onlinebooking-and-enquiries6.png)
