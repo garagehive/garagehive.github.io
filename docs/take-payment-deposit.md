@@ -151,7 +151,7 @@ To refund a deposit, a posted document reflecting the total amount to be refunde
 
    ![](media/apply-deposit-refund5.png)
 
-7. In the **Document Payments** page, enter the amount to refund along the **Payment Method** line that the Deposit was originally paid, and close the page.
+7. In the **Document Payments** page, enter the amount to refund along the **Payment Method** line that the Deposit was refunded to the customer, and close the page.
 
    ![](media/apply-deposit-refund6.png)
 
