@@ -329,7 +329,7 @@ To put an allocation on hold while it is in progress, follow these steps:
 
    ![](media/garagehive-on-hold-schedule1.png)
 
-2. The allocation will change to red, indicating it is on hold. To resume the allocation, right-click on it and select **Start**.
+2. The allocation will change to red, indicating it is On Hold. To resume the allocation, right-click on it and select **Start**.
 3. If you wish to complete the allocation, right-click on it and select **Finish**.
 
    ![](media/garagehive-on-hold-schedule2.png)
