@@ -13,6 +13,7 @@ This article provides guidance on how to take a deposit from a customer, using t
 2. [How to Post Deposits to Customer Accounts](#how-to-post-deposits-to-customer-accounts)
 3. [Using Deposit Amount as Payment Method in a Jobsheet](#using-deposit-amount-as-payment-method-in-a-jobsheet)
 4. [Applying Deposits to Posted Documents](#applying-deposits-to-posted-documents)
+5. [How to Refund a Deposit](#how-to-refund-a-deposit)
 
 ### How to Take a Deposit in a Document
 To take a deposit on a document, such as a Jobsheet, Sales Order, or Sales Invoice:
@@ -123,6 +124,41 @@ If you want to use deposit amount as payment method in a Jobsheet:
 
 
 [Go back to top](#top)
+
+### How to Refund a Deposit
+
+   {% include tip.html title="Note" text="It is recommended to avoid accepting deposits that will likely need to be refunded. Only initiate the refund process when absolutely necessary." %}
+
+To refund a deposit, a posted document reflecting the total amount to be refunded is required. Follow these steps:
+1. Create a **Non-Inventory** item card and call it **Refund Deposit** for easier reference. Assign the **VAT Prod. Posting Group** as **NOVAT** as it is a non-vatable item.
+
+   ![](media/apply-deposit-refund1.png)
+
+2. Next, create a new Jobsheet for the customer who is to receive the refund, and include the vehicle for which the deposit was made. Add the **Refund Deposit** item, ensuring the total amount matches the deposit being refunded.
+3. In the menu bar, select **Payments/Posting**, then click on **Take Payment**.
+
+   ![](media/apply-deposit-refund2.png)
+
+4. On the **Document Payments** page, choose **Apply Deposit Amount** from the notification, then close the page.
+
+   ![](media/apply-deposit-refund3.png)
+
+5. Post the Jobsheet.
+
+   ![](media/apply-deposit-refund4.png)
+
+6. The next step is to create a **Return Jobsheet**, with the same details as the **Jobsheet**. In the lines, include the **Refund** item.. After adding the details, select **Refund/Posting**, followed by **Process Refund** in the menu bar.
+
+   ![](media/apply-deposit-refund5.png)
+
+7. In the **Document Payments** page, enter the amount to refund along the **Payment Method** line that the Deposit was originally paid, and close the page.
+
+   ![](media/apply-deposit-refund6.png)
+
+8. Finally, post the **Return Jobsheet**, which will process the refund of the deposit.
+
+   ![](media/apply-deposit-refund7.png)
+
 
 <br>
 
