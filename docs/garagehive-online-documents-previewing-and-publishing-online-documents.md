@@ -16,11 +16,11 @@ Previewing an online document is done when the document to be previewed has been
 3. [Set the Online Document to Require Authorisation by Default](#set-the-online-document-to-require-authorisation-by-default)
 
 ### How to Preview an Online Document
-To preview an online document from a jobsheet:
+To preview an online document from a Jobsheet:
 1. Scroll down to the **Group Items** section (where you have already created the groups, read [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}).
 2. Depending on the level of urgency and the nature of the job, add an **Action Category** to each group. You have the option of customising the action categories or using the pre-defined action categories.
 
-   ![](media/garagehive-online-documents-previewing1.gif)
+   ![](media/garagehive-online-documents-previewing1.png)
 
    {% include tip.html title="Note" text="To ensure that action categories are displayed as a group online, each of them must have a Type." %}
 
@@ -32,15 +32,15 @@ To preview an online document from a jobsheet:
 
    ![](media/garagehive-online-documents-previewing3.png)
 
-5. The document will be previewed without the option for the customer to authorise the work to be done online.
+5. The document will be previewed without the option for the customer to authorise online. This option is primarily used to inform the customer about the work to be done.
 
    ![](media/garagehive-online-documents-previewing4.png)
 
-6. To preview the document with the option for the customer to authorise online, select the **With Authorisation** slider on the **Publish Online Document** page. Click **OK**.
+6. To preview the document with the option for the customer to authorise online, select the **With Authorisation** slider on the **Publish Online Document** page, then click **OK**.
 
    ![](media/garagehive-online-documents-previewing5.png)
 
-7. The document will be previewed with the option for the customer to authorise the work to be done online.
+7. The document will be previewed with the option(s) for the customer to authorise the work online.
 
    ![](media/garagehive-online-documents-previewing6.png)
 
@@ -57,26 +57,27 @@ After you have finished preparing the document and are ready to send it to the c
    ![](media/garagehive-online-documents-publishing1.png)
 
 2. Select the **Mode** to be **Publish to Customer** and specify the method for sending the online document. It could be via SMS, email, or both.
+3. You can also personalise the text used for the SMS, Email, or online document introduction, or use previously saved text messages. Click **OK** to send the online document to the customer without giving the customer the option to authorise the work to be done online.
 
    ![](media/garagehive-online-documents-publishing2.png)
 
-3. You can also personalise the text used for the SMS, Email, or online document introduction, or use previously saved text messages. Click **OK** to send the online document to the customer without giving the customer the option to authorise the work to be done online.
+4. If the contact information is new, you get an option to update the information.
 
-   ![](media/garagehive-online-documentspublishing3.png)
+   ![](media/garagehive-online-documents-publishing8.png)
 
-4. The document will be published and sent to the customer for viewing, with the option to call back with any questions.
+5. The document will be published and sent to the customer for viewing, with the option **Request a Call Back** for any questions related to the document.
 
    ![](media/garagehive-online-documentspublishing4.png)
 
-5. To publish the document with the option to for the customer to authorise the work to be done online, select the **With Authorisation** slider on the **Publish Online Document** page. Click **OK**.
+6. To publish the document with the option for the customer to authorise the work to be done online, select the **With Authorisation** slider on the **Publish Online Document** page. Click **OK**.
 
    ![](media/garagehive-online-documentspublishing5.png)
 
-6. Scroll down to the **Online Document** FastTab to see what actions the customer takes from the sent online document. Here you can see how many edit versions of the document are available, when the published online document was opened, when it will expire, and so on.
+7. Scroll down to the **Online Document** FastTab to see what actions the customer takes from the sent online document. Here you can see how many edit versions of the document are available, when the published online document was opened, when it will expire, and so on.
 
-   ![](media/garagehive-online-documents-publishing6.gif)
+   ![](media/garagehive-online-documents-publishing6.png)
 
-7. When a customer takes action, the **Online Document** FastTab is updated after a while. The following is an example of when the customer approves the document.
+8. When a customer takes action, the **Online Document** FastTab is updated after a while. The following is an example of when the customer approves the document.
 
    ![](media/garagehive-online-documents-publishing7.png)
 

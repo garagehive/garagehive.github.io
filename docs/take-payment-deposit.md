@@ -147,7 +147,7 @@ To refund a deposit, a posted document reflecting the total amount to be refunde
 
    ![](media/apply-deposit-refund4.png)
 
-6. The next step is to create a **Return Jobsheet**, with the same details as the **Jobsheet**. In the lines, include the **Refund** item.. After adding the details, select **Refund/Posting**, followed by **Process Refund** in the menu bar.
+6. The next step is to create a **Return Jobsheet**, with the same details as the **Jobsheet**. In the lines, include the **Refund Deposit** item. After adding the details, select **Refund/Posting**, followed by **Process Refund** in the menu bar.
 
    ![](media/apply-deposit-refund5.png)
 
@@ -155,10 +155,12 @@ To refund a deposit, a posted document reflecting the total amount to be refunde
 
    ![](media/apply-deposit-refund6.png)
 
-8. Finally, post the **Return Jobsheet**, which will process the refund of the deposit.
+8. Finally, post the **Return Jobsheet**, which will record the refund of the deposit.
 
    ![](media/apply-deposit-refund7.png)
 
+
+[Go back to top](#top)
 
 <br>
 
