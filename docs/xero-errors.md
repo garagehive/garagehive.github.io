@@ -9,7 +9,7 @@ title: Common Xero Errors
 This article lists some common errors that are found after exporting to Xero:
 
 1. [Payment is applied to more than one document&#46;](#payment-is-applied-to-more-than-one-document)
-2. [Payments can only be made against authorised documents payment amount exceeds the amount outstanding on this document&#46;](#payments-can-only-be-made-against-authorised-documents-payment-amount-exceeds-the-amount-outstanding-on-this-document)
+2. [Payments can only be made against authorised documents&#46; The payment amount exceeds the amount outstanding on this document&#46;](#payments-can-only-be-made-against-authorised-documents-the-payment-amount-exceeds-the-amount-outstanding-on-this-document)
 3. [Invoice not of valid status for modification&#46; This document cannot be edited as it has a payment or credit note allocated to it&#46;](#invoice-not-of-valid-status-for-modification-this-document-cannot-be-edited-as-it-has-a-payment-or-credit-note-allocated-to-it)
 4. [Account could not be found&#46;](#account-could-not-be-found)
 5. [Email address must be valid.](#email-address-must-be-valid)
@@ -64,16 +64,16 @@ The full description of the error will appear if you hover your mouse pointer ov
 
 [Go back to top](#top)
 
-#### Payments can only be made against authorised documents payment amount exceeds the amount outstanding on this document.
+#### Payments can only be made against authorised documents. The payment amount exceeds the amount outstanding on this document.
 This error is most commonly seen when an invoice is manually paid in Xero instead of allowing GH to pay the invoice via the integration. 
 
 To see what document this error relates to clicking on the “Source” code to the right of the error and the customer ledger entries page will load with the effected document highlighted. 
 
    ![](media/xero-error-source.png)
 
-To rectify this either un-apply the payment in Xero and re-export the payment from Garage Hive or select more options > functions > incoming document > external accountancy > mark as skipped.
+To resolve this issue, you can either un-apply the payment in Xero and re-export it from Garage Hive, or navigate to the **Customer Ledger Entries** page, select **More Options**, then choose **Actions**, followed by **Functions**, then **Incoming Document**, then **External Accountancy** and finally, **Mark as Skipped**.
 
-   ![](media/xero-mark-as-skipped.gif)
+   ![](media/xero-mark-as-skipped.png)
 
 
 [Go back to top](#top)
@@ -85,9 +85,9 @@ To see what document this error relates to clicking on the “Source” code to 
 
    ![](media/xero-error-source.png)
 
-To rectify this either remove the invoice from Xero and re-export the invoice from Garage Hive or select more options > functions > incoming document > external accountancy > mark as skipped.
+To resolve this issue, you can either remove the invoice from Xero and re-export the invoice from Garage Hive or navigate to the **Customer Ledger Entries** page, select **More Options**, then choose **Actions**, followed by **Functions**, then **Incoming Document**, then **External Accountancy** and finally, **Mark as Skipped**.
 
-   ![](media/xero-mark-as-skipped.gif)
+   ![](media/xero-mark-as-skipped2.png)
 
 
 [Go back to top](#top)
@@ -95,7 +95,7 @@ To rectify this either remove the invoice from Xero and re-export the invoice fr
 #### Account could not be found.
 This error is most commonly seen when a payment was made in Garage Hive without a Payment Method code and means there is a problem with your setup as it should not be possible to do this, please contact support. 
 
-To see what document this error relates to clicking on the “Source” code to the right of the error and the customer ledger entries page will load with the effected document highlighted.
+To see what document this error relates to click on the **Source** code to the right of the error and the customer ledger entries page will load with the affected document highlighted.
 
    ![](media/xero-error-source.png)
 
@@ -103,22 +103,25 @@ Look for the Payment Method Code column and you will see that the code is blank.
 
    ![](media/blank-payment-code.png)
 
-To rectify this either make the payment in Xero and skip the payment in Garage Hive by selecting more options > functions > incoming document > external accountancy > mark as skipped. 
+To resolve this issue, either make the payment in Xero and skip the payment in Garage Hive by selecting **More Options**, then choose **Actions**, followed by **Functions**, then **Incoming Document**, then **External Accountancy** and finally, **Mark as Skipped**.
+
+   ![](media/xero-error-mark-as-skipped3.png)
+
 Or check how the payment was made.
 
    ![](media/check-payment-entry.gif)
 
-Then Un-Apply the entry so that it can be edited, remember to note the document that this entry was applied to.
+Next, un-apply the entry so that it can be edited. Select **Home** from the menu bar, followed by the **Unapply Entries** option from the split button dropdown menu under **Apply Entries**. Make sure to take note of the document to which the entry was previously applied.
 
-   ![](media/xero-unapply-cust-ledger-entries.gif)
+   ![](media/xero-unapply-cust-ledger-entries2.png)
 
-Now edit the list and enter the correct payment method code. 
+Proceed to update the list by entering the correct payment method code. Click on **Edit List** to make it editable. 
 
-   ![](media/xero-edit-payment-method-code.gif)
+   ![](media/xero-edit-payment-method-code.png)
 
-Finally re-apply the entry before running the export to xero again.
+Once done, re-apply the entry before running the export to Xero again. Select **Home** from the menu bar, followed by the **Apply Entries**.
 
-   ![](media/xero-apply-entries.gif)
+   ![](media/xero-apply-entries.png)
 
 
 [Go back to top](#top)
@@ -130,10 +133,11 @@ To see what document this error relates to clicking on the “Source” code to 
 
    ![](media/xero-error-source.png)
 
-Click on the customer number and select open to open the customer card before editing the email address and re exporting to Xero.
+Select **Entry** from the menu bar, and choose **Customer** to open the customer card and edit the email address. 
 
    ![](media/xero-cust-ledger-entries-open-customer-card.png)
 
+Once done, you can re-export to Xero.
 
 [Go back to top](#top)
 
@@ -144,7 +148,9 @@ To see which document is affected by this error, click on the **Source** code to
 
    ![](media/xero-error-source.png)
 
-To rectify this make the entry needed manually in **Xero** and mark the entry as skipped in Garage Hive by selecting **More Options** > **Actions** > **Functions** > **Incoming Document** > **External Accountancy** > **Mark as Skipped**.
+To resolve this issue, make the entry needed manually in **Xero** and mark the entry as skipped in Garage Hive by selecting **More Options**, then choose **Actions**, followed by **Functions**, then **Incoming Document**, then **External Accountancy** and finally, **Mark as Skipped**.
+
+   ![](media/xero-mark-as-skipped4.png)
 
 Then be sure to block that contact in Garage Hive so it's not used again.
 
@@ -152,7 +158,7 @@ Then be sure to block that contact in Garage Hive so it's not used again.
 [Go back to top](#top)
 
 #### This payment is not applied.
-This error is most commonly seen when aa payment has been taken on Garage Hive but has not been applied to a document. 
+This error is most commonly seen when a payment has been taken on Garage Hive but has not been applied to a document. 
 
 To see what document this error relates to clicking on the “Source” code to the right of the error and the customer ledger entries page will load with the effected document highlighted. 
 
