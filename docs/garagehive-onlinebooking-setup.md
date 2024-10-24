@@ -43,9 +43,10 @@ To setup online booking:
 
         ![](media/garagehive-onlinebooking-setup4.gif)
 
-      - **Contact Information** - On the last page of the Online Booking form, customers are asked to provide their contact details. You can customise what information is required by adjusting the following fields:
+      - **Contact Information & Mileage** - On the last page of the Online Booking form, customers are asked to provide their contact details. You can customise what information is required by adjusting the following fields:
         - **Contact Name Request Option:** Choose between requesting just the name, or a combination of title, first name, and last name. 
         - **Address Request Option:** Select whether to request only the house number and postcode or the full address.
+        - **Mileage Request Option:** Choose whether to **Skip** the mileage request, make it **Optional**, or set it as **Mandatory**.
         - **Phone No. Mandatory:** Decide whether the customer must provide a phone number.
 
          ![](media/garagehive-customer-information.png)
