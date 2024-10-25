@@ -92,4 +92,9 @@ To take payment using **Stripe** from a document:
 
    ![](media/garagehive-stripe-take-payment6.png)
 
+7. The payment will now be updated in the **Payment Gateway Amount** for Stripe. Enter the amount paid in the **Amount** column, and close the **Document Payments** page.
+
+   ![](media/garagehive-stripe-take-payment7.png)
+
+
 [Go back to top](#top)

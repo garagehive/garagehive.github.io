@@ -9,6 +9,8 @@ title: What is a Return Jobsheet and How to Create One
 
 A Return Jobsheet is a document used to issue refunds to customers, essentially serving as the reverse of a standard Jobsheet. It offers the same functionalities as a Jobsheet, including labour allocation and payment processing.
 
+   {% include tip.html title="Note" text="Please do not enter amounts as negative figures, as the Return Jobsheet is already set up to deduct the amount automatically." %}
+
 ## How to create a New Return Jobsheet
 1. Select **Service** from the Role Centre, then choose the **Return Jobsheet** option.
 
