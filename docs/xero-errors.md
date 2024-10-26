@@ -107,9 +107,17 @@ To resolve this issue, either make the payment in Xero and skip the payment in G
 
    ![](media/xero-error-mark-as-skipped3.png)
 
-Or check how the payment was made.
+Or check how the payment was made by selecting the **Payment** line, then click on **Home**, followed by **Find Entries**.
 
-   ![](media/check-payment-entry.gif)
+   ![](media/check-payment-entry.png)
+
+Then click on the number in the **G/L Entry**.
+
+   ![](media/check-payment-entry2.png)
+
+Note the payment method that was used at the top.
+
+   ![](media/check-payment-entry3.png)
 
 Next, un-apply the entry so that it can be edited. Select **Home** from the menu bar, followed by the **Unapply Entries** option from the split button dropdown menu under **Apply Entries**. Make sure to take note of the document to which the entry was previously applied.
 
