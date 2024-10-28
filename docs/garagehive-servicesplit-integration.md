@@ -62,15 +62,24 @@ To apply ServiceSplit as the payment method in a Jobsheet for a customer:
 
    ![](media/garagehive-apply-servicesplit-plan1.png)
 
-2. On the **Document Payments** page, you will see the **Available ServiceSplit** amount at the top. If you click on the amount in the **Available ServiceSplit** field, you will be able to view the details of the customer’s payment plan. 
-
-   ![](media/garagehive-apply-servicesplit-plan3.png)
-
-3. Click on **Pay by ServiceSplit** to apply the ServiceSplit balance for payment.
+2. On the **Document Payments** page, you will see the **Available ServiceSplit** amount at the top.
 
    ![](media/garagehive-apply-servicesplit-plan2.png)
 
-4. Once you post the document, the ServiceSplit balance will be applied to pay the amount due, as indicated in the Document Payments page.
+3. If you click on the amount in the **Available ServiceSplit** field, you will be able to view the details of the customer’s payment plan. 
+
+   ![](media/garagehive-apply-servicesplit-plan3.png)
+
+4. Click on **Pay by ServiceSplit** to apply the ServiceSplit balance towards the payment.
+
+   ![](media/garagehive-apply-servicesplit-plan4.png)
+
+5. A pop-up box will appear with several options. When you select the **Complete Plan** slider, the plan will be marked as complete, and the **Remaining Plan Balance** field will be activated, allowing you to choose how to manage the remaining balance.
+6. If you select the **Multiple Plans** toggle, you can choose several plans to include in the payment. Click **OK** once you've finished.
+ 
+   ![](media/garagehive-apply-servicesplit-plan5.png)
+
+7. Once you post the document, the ServiceSplit balance will be applied to pay the amount due.
 
 
 [Go back to top](#top)
