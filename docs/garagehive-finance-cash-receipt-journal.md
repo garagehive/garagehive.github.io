@@ -7,16 +7,20 @@ title: Cash Receipt Journal
 
 # Cash Receipt Journals
 Cash Receipt journals allow the user to record payments made to a customer's account. To record a cash receipt journal, follow these steps:
-1. Choose the ![](media/search_icon.png) icon on the top-right corner, enter **Cash Receipt Journal**, and select the related link.
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Cash Receipt Journal**, and select the related link.
 
-   ![](media/garagehive-cash-receipt-journal1.gif)
+   ![](media/garagehive-cash-receipt-journal1.png)
 
-2. Alternatively, you can access Cash Receipt Journal from the customer list's menu bar by selecting **Navigate**, then **Cash Receipt Journal**. 
+2. Alternatively, you can access Cash Receipt Journal from the customer list's menu bar by selecting **Actions**, then **Cash Receipt Journal**. 
 
-   ![](media/garagehive-cash-receipt-journal2.gif)
+   ![](media/garagehive-cash-receipt-journal2.png)
 
-3. Choose the **Cash Receipt** as the journal template. This will fill in certain information in the journal, such as the **Balance Account**.
-4. To complete the Cash Receipt Journal, you need to provide the following information:
+3. Choose the **Cash Receipt** as the journal template. 
+
+   ![](media/garagehive-cash-receipt-journal3.png)
+
+4. This will fill in certain information in the journal, such as the **Balance Account**.
+5. To complete the Cash Receipt Journal, you need to provide the following information:
 
    * **Posting Date** - This is the transaction date.
    * **Document Type** - Set this to **Payment**.
@@ -30,11 +34,11 @@ Cash Receipt journals allow the user to record payments made to a customer's acc
    * **Applies-to Doc Type** - If you are applying the payment directly to a document, select the type of document as **Invoice**. 
    * **Applies-to Doc. No.** - Select which document here. 
 
-      ![](media/garagehive-cash-receipt-journal3.gif)
+      ![](media/garagehive-cash-receipt-journal4.png)
 
-5. Double-check the information you've entered, then select **Post/Print** from the menu bar, followed by **Post** to post the journal.
+6. Double-check the information you've entered, then select **Home** from the menu bar, followed by **Post** to post the journal.
 
-   ![](media/garagehive-cash-receipt-journal4.gif)
+   ![](media/garagehive-cash-receipt-journal5.png)
 
 
 [Go back to top](#top)
