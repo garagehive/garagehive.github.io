@@ -10,9 +10,12 @@ title: How to perform a Customer/Vendor Balancing Payment
 
 **Customer/Vendor Balancing Payments** can be achieved via a general journal. Here is how:
 1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **General Journals**, and choose the related link.
+
+   ![](media/garagehive-general-journals-columns1.png)
+
 2. Select **Page** from the menu bar, then **Show More Columns** to show all columns. If it's already enabled, you'll see a **Show Fewer Columns** option; leave it at that.
    
-   ![](media/garagehive-general-journals-columns.png)
+   ![](media/garagehive-general-journals-columns2.png)
 
 3. Check that the following columns are all enabled; the rest can be hidden for this journal:
    * Posting Date
