@@ -63,7 +63,7 @@ Internal charging using the **Item** can be used to increase the value of an ite
 [Go back to top](#top)
 
 ### Internal charging using the General Ledger account
-General ledger accounts are used in internal charging when doing internal transactions between departments. For example, when a business with two departs - vehicle sales departments and service department - sells a vehicle through the vehicle sales department and later returns for warranty work, the service department will do the warranty work and charge it to the vehicle sales department. For this article, we'll use the example of warranty work but this feature can be used in other several ways.
+General ledger accounts are used in internal charging when doing internal transactions between departments. For example, when a business with two departments - vehicle sales departments and service department - sells a vehicle through the vehicle sales department and later returns for warranty work, the service department will do the warranty work and charge it to the vehicle sales department. For this article, we'll use the example of warranty work but this feature can be used in other several ways.
 
 <br>
 
@@ -163,13 +163,13 @@ To set up the item charges:
 
 1. From the **Payment** section, add the payment method as **VEHPREP** to both the customer and vendor card to ensures that when the sales invoice is posted, it's paid off automatically and the record closed. 
 1. On the other hand, the purchase invoice is also paid off and counters the sales invoice bill, ensuring that the debit and credit accounts are balanced off and closed down.
-- Customer Card:
+   - Customer Card:
 
-   ![](media/garagehive-service-recharge-item-charges7.png)
+      ![](media/garagehive-service-recharge-item-charges7.png)
  
-- Vendor Card:
+   - Vendor Card:
 
-   ![](media/garagehive-service-recharge-item-charges8.png)
+      ![](media/garagehive-service-recharge-item-charges8.png)
 
 1. When you post a Sales Invoice/Jobsheet for the customer **Vehicle Sales Preparation(Internal)**, the total bill of the invoice is added to the total value of the vehicle, and a corresponding purchase invoice **Vehicle Sales Preparation (Internal)** is created and posted.
 
