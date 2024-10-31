@@ -61,10 +61,16 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
    ![](media/garagehive-financial-reports10.png)
 
 1. In the **G/L Accounts List** you can filter to only **Balance Sheet** accounts or **Income Statement** accounts. Click on the **Income/Balance** column header and select **Filter**.
+
+     ![](media/garagehive-financial-reports11.png) 
+
 1. Select either **Balance Sheet** or **Income Statement** depending on the accounts you want to add to the new report, and click **OK**.
+
+   ![](media/garagehive-financial-reports23.png) 
+
 1. Hold down the **Ctrl** key and select the accounts you want to add to the report, or select all. Click **OK** to add the accounts in the **Row Definition**.
 
-   ![](media/garagehive-financial-reports11.gif)
+   ![](media/garagehive-financial-reports24.png)
 
 1. Click the back arrow (&#8592;) to exit the **Row Definition** page, and then click **OK** to add the **Row Definition** you have just created in the report.
 

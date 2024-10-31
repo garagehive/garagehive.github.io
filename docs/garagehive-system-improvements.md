@@ -12,9 +12,9 @@ The following is a list of system improvements in Garage Hive:
 * Enhancement of the **MOT Reminders** notifications.
 * Improvement on the **ServiceSplit** plan creation.
 * Refinement to the **Line Checker** flagging and warnings.
-* Enhancement to the **Castrol Lookup** mobile view and adding of Castrol oil to documents using the feature.
-* Refinement to the **Online Booking** customer and address information form.
-* Improvement to **Tyre Stock Groups** ordering process.
+* Enhancement to the **Castrol Lookup** mobile view and adding of Castrol oil to documents using the feature, [read more](garagehive-castrol-lookup.html){:target="_blank"}.
+* Refinement to the **Online Booking** customer and address information form, [read more](garagehive-onlinebooking-setup.html){:target="_blank"}.
+* Improvement to **Tyre Stock Groups** ordering process, [read more](garagehive-tyre-stock-groups.html#enable-tyre-stock-group-ordering-in-requisition-worksheet){:target="_blank"}.
 
 ### 23rd September 2024
 * Refinement to GH Entitlements.
