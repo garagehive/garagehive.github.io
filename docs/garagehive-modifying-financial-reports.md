@@ -89,4 +89,4 @@ The following are the **Financial Reports** that are available in Garage Hive. H
 
 ### See Also 
 
-[Getting Started with Financial Reporting](/docs/garagehive-financial-reporting.html){:target="_blank"} \
+[Getting Started with Financial Reporting](/docs/garagehive-financial-reporting.html){:target="_blank"}
