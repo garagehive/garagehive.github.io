@@ -88,7 +88,7 @@ To integrate the VAT posting in your system:
 
 [Go back to top](#top)
 
-### How to run the export 
+### How To Run the Export 
 1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Export to Accountancy System**, and select the related link.
 
     ![](media/garagehive-sage-accounting-setup8.png)
