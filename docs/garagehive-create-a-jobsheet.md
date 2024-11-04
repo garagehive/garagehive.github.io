@@ -12,8 +12,9 @@ There are various methods for creating a Jobsheet, as described [**here**](garag
 1. [Creating a new Jobsheet](#create-a-new-jobsheet)
 2. [Add Items and Labour](#add-items-and-labour)
 3. [View the Factbox and copy the VIN](#view-the-factbox-and-copy-the-vin)
-4. [Setup for Jobsheet Deletion Reasons](#setup-for-jobsheet-deletion-reasons)
-5. [Transferring Lines to an Estimate](#transferring-lines-to-an-estimate)
+4. [Viewing Document Statistics](#viewing-document-statistics)
+5. [Setup for Jobsheet Deletion Reasons](#setup-for-jobsheet-deletion-reasons)
+6. [Transferring Lines to an Estimate](#transferring-lines-to-an-estimate)
 
 ### Create a new Jobsheet
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
@@ -86,6 +87,41 @@ There are various methods for creating a Jobsheet, as described [**here**](garag
 1. The **FactBox** is located to the right of a Jobsheet and provides quick information and links about the work being done on the Jobsheet, the customer, and the vehicle, including a link to immediately **Copy the VIN**.
 
       ![](media/garagehive-create-a-jobsheet8.gif)
+
+[Go back to top](#top)
+
+
+### Viewing Document Statistics
+The Document Statistics page gives you an overview of the financial metrics for the Jobsheet, covering sales and profit margins for both parts and labour. It helps you understand the job's profitability and how resources were used. To view the document statistics page:
+1. Open the Jobsheet, then click on **Home** and select **Statistics** from the menu bar.
+
+   ![](media/garagehive-document-statistics1.png)
+
+2. This opens the **Document Statistics** page for the Jobsheet.
+
+   ![](media/garagehive-document-statistics2.png)
+
+3. If you’d like to receive a notification when the hours to be **Invoiced** are less than the **Total Clocked Hours**, you’ll need to enable the **Jobsheet Labour Overrun Notification** setting.
+4. To enable it, search for **Service Mgt. Setup GH** using the search ![](media/search_icon.png) icon in the top-right corner, and select the related link.
+
+   ![](media/garagehive-document-statistics3.png)
+
+5. Under the **General** FastTab, enable the **Jobsheet Labour Overrun Notification** slider.
+
+   ![](media/garagehive-document-statistics4.png)
+
+6. Now, when you open a Jobsheet that has less hours to be **Invoiced** than the **Total Clocked Hours**, you’ll receive a notification at the top.
+
+   ![](media/garagehive-document-statistics5.png)
+
+7. Click on the **Open Statistics** action to view the **Clocking Information** in the **Document Statistics** page.
+
+   ![](media/garagehive-document-statistics6.png)
+
+8. You can adjust the hours to be invoiced in the document lines, or leave it as is, as this won’t affect the posting of the document.
+
+   ![](media/garagehive-document-statistics7.png)
+
 
 [Go back to top](#top)
 
