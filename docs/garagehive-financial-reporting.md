@@ -92,24 +92,24 @@ If you want to try out the new Financial Reporting feature in Garage Hive, here 
 
    ![](media/garagehive-financial-reports16.png)
 
-2. You can also introduce a formula between the columns, by selecting the **Column Type** as **Formula**. When done click on the back arrow (&#8592;) to exit the page.
+1. You can also introduce a formula between the columns, by selecting the **Column Type** as **Formula**. When done click on the back arrow (&#8592;) to exit the page.
 
    ![](media/garagehive-financial-reports17.png)
 
-3.  In the **Column Definitions** page, click **OK** to add the **Column Definition** that you have just created.
+1. In the **Column Definitions** page, click **OK** to add the **Column Definition** that you have just created.
 
    ![](media/garagehive-financial-reports18.png)
 
-4. You can now **Print** the Report or **Preview** the Report by selecting **Print** from the menu bar. 
+1. You can now **Print** the Report or **Preview** the Report by selecting **Print** from the menu bar. 
 
    ![](media/garagehive-financial-reports19.png)
 
-5. Enter the dates to filter the report to that is, the **Starting Date** and **Ending Date**.
-6. Select **Print** or **Preview & Close** depending on how you want to view your report.
+1. Enter the dates to filter the report to that is, the **Starting Date** and **Ending Date**.
+1. Select **Print** or **Preview & Close** depending on how you want to view your report.
 
    ![](media/garagehive-financial-reports20.png)
 
-7. You can also save your report as Excel or PDF files by selecting **Send To** and choosing the type of file to save the report.
+1. You can also save your report as Excel or PDF files by selecting **Send To** and choosing the type of file to save the report.
 
    ![](media/garagehive-financial-reports21.png)
 
