@@ -90,7 +90,7 @@ In the botton section you can add the **Invoice Footer Picture** or the **Invoic
 [Go back to top](#top)
 
 ### Setting Default Print Options for Documents
-The default setting for printing documents, can be setup in the **Sales & Receivables Setup**. To set up:
+You can set default print options for all new documents in the **Sales & Receivables Setup** page. Once setup, this settings will apply only to documents created after the setup is complete; it will not affect any documents that were created before the change. To set up:
 1. Search for **Sales & Receivables Setup** in the ![](media/search_icon.png) icon, at the top-right corner, and select the related link.
 
    ![](media/garagehive-print-options-default1.png)
