@@ -14,7 +14,7 @@ This report regularly ensures that parts are returned and not lost or thrown awa
 1. From the home screen menu bar, click on **Reports**.
 2. Select **Additional** and from the list of the submenus, select **Items to Return** to open the report.
 
-    ![](media/garagehive-items-to-return1.gif)
+    ![](media/garagehive-items-to-return-report1.png)
 
     {% include tip.html title="Note" text="Based on the criteria stated above, the report opens a list of suggested items that you shouldn't have in stock." %}
 
@@ -33,7 +33,7 @@ This report regularly ensures that parts are returned and not lost or thrown awa
 
 7. You can as well view the history of an item in the report. Click on **History Overview** from the menu bar.
 
-![](media/garagehive-items-to-return5.gif)
+   ![](media/garagehive-items-to-return-report5.png)
 
 ### **See Also**
 
