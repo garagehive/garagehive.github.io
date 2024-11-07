@@ -3,6 +3,8 @@ layout: docs
 title: Processing a Purchase Order/Invoice in Your Trial
 ---
 
+<a name="top"></a>
+
 # Processing a Purchase Order/Invoice in Your Trial 
 
 To process a purchase order means receiving the items ordered from the supplier and updating the respective ledger accounts for the items and vendor. To do this, you must have the supplier invoice with you. 
@@ -12,23 +14,34 @@ To process a purchase order means receiving the items ordered from the supplier 
 1. [Match the supplier invoice with the purchase order](#match-the-supplier-invoice-with-the-purchase-order)
 2. [Receive and post the purchase order](#receive-and-post-the-purchase-order)
 
-### Match the supplier invoice with the purchase order
+### Match the Supplier Invoice with the Purchase Order
 To post a purchase order in the system:
 1. All the details from the supplier invoice must match with the purchase order; this includes the date, document number, part numbers, and the total amount.
-2. Open the purchase order with the items to receive, update the **Document No.** to match the supplier document number, and the posting date must be the date today. 
-3. For the items with the placeholder item **No.** like **Misc**, update to match the correct item **No.** and the **Unit Cost**. Here, you will be reminded that this purchase order is linked to a jobsheet, and by selecting yes the item **No.** will be copied over to the jobsheet.
+2. Open the Purchase Order with the items to receive, update the **Document No.** to match the supplier document number, and the posting date must be the date today.
 
-![](media/garagehive-trial-processing-a-purchase-order1.gif)
+   ![](media/garagehive-trial-processing-a-purchase-order1.png)
+
+3. For the items with the placeholder item **No.** like **Misc**, update to match the correct item **No.** and the **Unit Cost**.
+
+   ![](media/garagehive-trial-processing-a-purchase-order2.png)
 
 {% include tip.html title="Note" text="All the information in the supplier invoice must match the purchase order, even if the invoice has incorrect information." %}
 
-### Receive and post the purchase order
+
+[Go back to top](#top)
+
+### Receive and Post the Purchase Order
 After ensuring that all the information in the purchase order is correct, the purchase order needs to be posted:
-1. From the menu bar, click on **Posting** and select **Post** from the submenus.
-2. Select **Receive and Invoice** from the pop-up menu; since you are now receiving the items with the supplier invoice available. The document is now posted and updated (see below).
+1. From the menu bar, click on **Home** and select **Post** from the submenus.
 
-![](media/garagehive-trial-processing-a-purchase-order2.gif) 
+   ![](media/garagehive-trial-processing-a-purchase-order3.png)
 
+2. Select **Receive and Invoice** from the pop-up menu; since you are now receiving the items with the supplier invoice available. The document is now posted and updated.
+
+   ![](media/garagehive-trial-processing-a-purchase-order4.png) 
+
+
+[Go back to top](#top)
 
 ### **See Also**
 
