@@ -6,6 +6,17 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 4th November 2024
+* Improvement of the **Schedule On Hold** action functionality.
+* Enhancement on the **MOT Lookup** process.
+* Refinement of the **Service Comment Line Creation** by optimising DateTime field handling.
+* Streamlining of the **Non-working** and **Fully Booked** schedule status.
+* Enhancement on the way the system handles **Reminded not Booked** for improved reminder accuracy.
+* Update on the **Line Checker**.
+* Improvement on the **TimeTastic Synchronisation** process.
+* Refinement on **Service Split Plan Consumption**.
+* Enhancement of the **End of Day (EOD) Report**.
+
 ### 11th October 2024
 * Updated **Human Resource** setup.
 * Refinement on **Reminded not Booked** feature.

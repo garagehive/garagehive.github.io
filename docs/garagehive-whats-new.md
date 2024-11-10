@@ -6,6 +6,23 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 4th November 2024
+
+* Added a new setting for the Jobsheet that enables a time overrun notification. When activated, this notification appears if the hours charged on an invoice are less than the actual hours clocked by resources, [read more](garagehive-create-a-jobsheet.html#viewing-document-statistics){:target="_blank"}.
+
+   ![](media/time-overrun-notification.png)
+
+* Added customer number field tag to the bulk SMS page and customer notifications, making it easier to include customer identification.
+* Purchase Order printouts now include vehicle details.
+
+   ![](media/purchase-order-printout.png)
+
+* Added a new **On Hold** action in the service schedule, allowing users to put allocations on hold directly from the schedule, [read more](garagehive-understanding-the-schedule.html#putting-an-allocation-on-hold-from-the-schedule){:target="_blank"}.
+
+   ![](media/service-schedule-on-hold-button.png)
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 11th October 2024
 * Added integration with **TimeTastic** HR system which enables syncing of employee data, including holidays and absence records, [read more](garagehive-timetastic-integration.html){:target="_blank"}.
 * Added item margin line checker setup, which, when enabled, prevents posting of the document if the Unit Price is less than or equal to the Cost, [read more](garagehive-line-checker.html){:target="_blank"}.
