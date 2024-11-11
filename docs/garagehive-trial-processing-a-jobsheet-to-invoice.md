@@ -56,7 +56,7 @@ After receiving the payment, the next step is to post the Jobsheet:
 
    ![](media/garagehive-trial-processing-a-jobsheet-to-invoice4.png)
 
-4. The following **Error Messages** window will display errors and warnings occuring from posting the Jobsheet.
+4. The following **Error Messages** window will display errors and warnings occurring from posting the Jobsheet. Work on correcting them, and then post the Jobsheet.
 
    ![](media/garagehive-trial-processing-a-jobsheet-to-invoice7.png)
 
