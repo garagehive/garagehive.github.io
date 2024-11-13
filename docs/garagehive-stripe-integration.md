@@ -12,8 +12,7 @@ We are currently reviewing this article before it is published, check back later
 
 ## In this article
 1. [Setting Up Payment with Stripe](#setting-up-payment-with-stripe)
-2. [Create Stripe Payment Method for Locations](#create-stripe-payment-method-for-locations)
-3. [Take Payment using Stripe Payment Method](#take-payment-using-stripe-payment-method)
+2. [Take Payment using Stripe Payment Method](#take-payment-using-stripe-payment-method)
 
 ### Setting Up Payment with Stripe
 Garage Link for Stripe is a payment gateway used for online transactions powered by **Stripe**. Before setting it up in the Garage Hive system, make sure you've created a Stripe account at [stripe.com](https://dashboard.stripe.com/register). To set up Garage Link for Stripe in Garage Hive:
@@ -26,7 +25,7 @@ Garage Link for Stripe is a payment gateway used for online transactions powered
    ![](media/garagehive-stripe-payment2.png)
 
 3. In the **Payment Gateway Card**, set the **Payment System** to **eCommerce (Stripe)**.
-4. In the **eCommerce (Stripe)** section, specify how many hours the payment link should be valid for in **Payment Link Valid Hours**. Choose the **Default Notification Type**, set the Notification **Source Code** to **PAYREQUEST**, and enter your **Terms and Conditions** in the provided field.
+4. In the **eCommerce (Stripe)** section, specify how many hours the payment link should be valid for in **Payment Link Valid Hours**. Choose the **Default Notification Type**, set the Notification **Source Code** to **PAYBYGLINK**, and enter your **Terms and Conditions** in the provided field.
 
    ![](media/garagehive-stripe-payment3.png)
 
@@ -41,27 +40,6 @@ Garage Link for Stripe is a payment gateway used for online transactions powered
 7. Paste the **Account ID** in the **Stripe Account ID** field, and click on the **Enabled** slider to enable the payment method in your system.
 
    ![](media/garagehive-stripe-payment6.png)
-
-
-[Go back to top](#top)
-
-### Create Stripe Payment Method for Locations
-To create the Stripe payment method:
-1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Payment Methods**, and choose the related link.
-
-   ![](media/garagehive-stripe-payment-method1.png)
-
-2. Create a **New** payment method and name it **INGLINK**. Link it to the **G/L Account** by entering the **Bal. Account No.**.
-
-   ![](media/garagehive-stripe-payment-method2.png)
-
-3. Next, search for **Location Payment Methods**, and choose the related link.
-
-   ![](media/garagehive-stripe-payment-method3.png)
-
-4. Create a **New** Location Payment Method, select the **Pay By Garage Link** Payment Method Code and connect it to the **Payment Gateway Code** that you set up.
-
-   ![](media/garagehive-stripe-payment-method4.png)
 
 
 [Go back to top](#top)
