@@ -54,23 +54,20 @@ To take payment using **Stripe** from a document:
 
    ![](media/garagehive-stripe-take-payment2.png)
 
-3. Select **Stripe** in the next page, and click **OK**.
 
-   ![](media/garagehive-stripe-take-payment3.png)
-
-4. Enter the **Payment Amount** (the default is the total document amount), choose the **Notification Type**, and provide the **Email or Mobile Phone No.** for the notification. Click **OK**.
+3. Enter the **Payment Amount** (the default is the total document amount), choose the **Notification Type**, and provide the **Email or Mobile Phone No.** for the notification. Click **OK**.
 
    ![](media/garagehive-stripe-take-payment4.png)
 
-5. The customer will receive a **Payment Request** message with a link for the payment.
+4. The customer will receive a **Payment Request** message with a link for the payment.
 
    ![](media/garagehive-stripe-take-payment5.png)
 
-6. When the customer clicks the link, they will be taken to a payment page where they can enter their card details and complete the payment.
+5. When the customer clicks the link, they will be taken to a payment page where they can enter their card details and complete the payment.
 
    ![](media/garagehive-stripe-take-payment6.png)
 
-7. The payment will now be updated in the **Payment Gateway Amount** for Stripe. Enter the amount paid in the **Amount** column, and close the **Document Payments** page.
+6. The payment will now be updated in the **Payment Gateway Amount** for Stripe. Enter the amount paid in the **Amount** column, and close the **Document Payments** page.
 
    ![](media/garagehive-stripe-take-payment7.png)
 
