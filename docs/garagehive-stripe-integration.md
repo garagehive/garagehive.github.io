@@ -21,12 +21,12 @@ Garage Link for Stripe is a payment gateway used for online transactions powered
 
    ![](media/garagehive-stripe-payment1.png)
 
-2. On the **Payment Gateways** page, click **New** to add a new payment method.
+2. On the **Payment Gateways** page, click to open and edit the **PAYBYGLINK** payment gateway.
 
    ![](media/garagehive-stripe-payment2.png)
 
-3. In the **Payment Gateway Card**, enter Stripe as the **Code**, and set the **Payment System to eCommerce (Stripe)**.
-4. In the **eCommerce (Stripe)** section, specify how many hours the payment link should be valid for in **Payment Link Valid Hours**. Choose the **Default Notification Type**, set the Notification S**ource Code** to **PAYREQUEST**, and enter your **Terms and Conditions** in the provided field.
+3. In the **Payment Gateway Card**, set the **Payment System** to **eCommerce (Stripe)**.
+4. In the **eCommerce (Stripe)** section, specify how many hours the payment link should be valid for in **Payment Link Valid Hours**. Choose the **Default Notification Type**, set the Notification **Source Code** to **PAYREQUEST**, and enter your **Terms and Conditions** in the provided field.
 
    ![](media/garagehive-stripe-payment3.png)
 
@@ -51,7 +51,7 @@ To create the Stripe payment method:
 
    ![](media/garagehive-stripe-payment-method1.png)
 
-2. Create a **New** payment method and name it **Stripe**. Link it to the **G/L Account** by entering the **Bal. Account No.**.
+2. Create a **New** payment method and name it **INGLINK**. Link it to the **G/L Account** by entering the **Bal. Account No.**.
 
    ![](media/garagehive-stripe-payment-method2.png)
 
@@ -59,7 +59,7 @@ To create the Stripe payment method:
 
    ![](media/garagehive-stripe-payment-method3.png)
 
-4. Create a **New** Location Payment Method, select the Stripe **Payment Method Code** and connect it to the **Payment Gateway Code** that you set up.
+4. Create a **New** Location Payment Method, select the **Pay By Garage Link** Payment Method Code and connect it to the **Payment Gateway Code** that you set up.
 
    ![](media/garagehive-stripe-payment-method4.png)
 
