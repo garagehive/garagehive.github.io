@@ -11,7 +11,7 @@ The following is a list of all new Garage Hive features and updates. For more de
 
    ![](media/stripe-integration.png)
 
-* Added **Power Max kW** field in the Vehicle Table and Vehicle Card to quickly view maximum power specifications for the vehicle.
+* Added **Power Max kW** field in the Vehicle Table and Vehicle Card to for easy viewing of maximum power specifications for the vehicle.
 
 ### 4th November 2024
 * Added a new setting for the Jobsheet that enables a time overrun notification. When activated, this notification appears if the hours charged on an invoice are less than the actual hours clocked by resources, [read more](garagehive-create-a-jobsheet.html#viewing-document-statistics){:target="_blank"}.
