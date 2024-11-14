@@ -1,12 +1,9 @@
 ---
 layout: docs
-title: DRAFT* - Setting Up Payment by Garage Link for Stripe in Garage Hive
+title: Setting Up Payment by Garage Link for Stripe in Garage Hive
 ---
 
 <a name="top"></a>
-
-# We are still working on this article!
-We are currently reviewing this article before it is published, check back later.
 
 # Setting Up Payment by Garage Link for Stripe in Garage Hive
 
