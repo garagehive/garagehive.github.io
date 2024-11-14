@@ -545,6 +545,15 @@
           url: /docs/garagehive-quickbooks-online-integration.html
         - name: Sage 50 Cloud Accounts Integration
           url: /docs/garagehive-sage-50-accounts-integration.html
+    - name: Payment Integrations
+      url: /docs/garagehive-external-accountancy-integration.html
+      subitems:
+        - name: Setting Up Payment by Dojo
+          url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
+        - name: Humm Financing Integration
+          url: /docs/garagehive-humm-financing.html
+        - name: Setting Up Payment by Stripe
+          url: /docs/garagehive-stripe-integration.html
 - name: Integrations
   url: "#"
   subitems:
@@ -575,10 +584,6 @@
       url: /docs/garagehive-tyre-scanner-integration.html
     - name: Vostel Telephone System Integration
       url: /docs/garagehive-vostel-integration.html
-    - name: Setting Up Payment by Dojo
-      url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
-    - name: Humm Financing Integration
-      url: /docs/garagehive-humm-financing.html
     - name: GSF Integration
       url: /docs/garagehive-gsf-integration.html
     - name: Micheldever Integration
