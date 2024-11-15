@@ -5,7 +5,7 @@ title: Go Live setup - Print Invoice (3/3)
 
 ## In this article
 1. [Print an Invoice](#print-an-invoice)
-2. [Available Line Layout Options](#line-layout-options)
+2. [Available Print Layout Options](#print-layout-options)
 
 
 ### Print an Invoice   
@@ -24,8 +24,8 @@ To print an invoice:
 
 4. Check the document for your company's logo, quality, and line layout. 
 
-### Line Layout Options
-There are 9 line layout options for the document to choose from:
+### Print Layout Options
+There are several middle section print layout options for the document to choose from:
 * Standard - Standard 
 * Standard - Hide labour Qty. and Unit Price 
 * Standard - Show Totals Only 
@@ -35,12 +35,15 @@ There are 9 line layout options for the document to choose from:
 * Custom Grouping - Standard 
 * Custom Grouping - Hide labour Qty. and Unit Price 
 * Custom Grouping - Show Totals Only
+* Print Line Discount Always
+* Print Discount Totals
+* Print Item No.
 
-To select your preferred line layout, scroll down to the **Invoice Print Options** FastTab in the document. Select the **Line Layout** and **Column Layout** options.
+To select your preferred print layout, scroll down to the **Invoice Print Options** FastTab in the document.
 
    ![](media/garagehive-go-live-print-invoice2.png)
 
-Here is an example of each **Line Layout**:
+Here is an example of each print layout:
 
 #### Standard - Standard
 
@@ -77,6 +80,18 @@ Here is an example of each **Line Layout**:
 #### Custom Grouping - Show Totals Only
 
 ![](media/garagehive-printlayout-custtotalsonly.png)
+
+#### Print Line Discount Always
+
+![](media/garagehive-printlayout-printlinediscountalways.png)
+
+#### Print Discount Totals
+
+![](media/garagehive-printlayout-printdiscounttotals.png)
+
+#### Print Item No.
+
+![](media/garagehive-printitemno.png)
 
 [<- PREVIOUS STEP 2/3](/docs/golive-sms-email.html)
 

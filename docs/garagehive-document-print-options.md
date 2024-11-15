@@ -53,21 +53,21 @@ The following can be modified in the middle section of a document:
 
    ![](media/garagehive-print-options-middle-section1.png)
 
-2. For the line and column of the document, there are 9 print options available:
+2. There are several middle section print layout options for the document to choose from:
+* Standard - Standard 
+* Standard - Hide labour Qty. and Unit Price 
+* Standard - Show Totals Only 
+* Group by Line Type - Standard 
+* Group by Line Type - Hide labour Qty. and Unit Price 
+* Group by Line Type - Show Totals Only 
+* Custom Grouping - Standard 
+* Custom Grouping - Hide labour Qty. and Unit Price 
+* Custom Grouping - Show Totals Only
+* Print Line Discount Always
+* Print Discount Totals
+* Print Item No.
 
-   | Line Layout        | Column Layout                   |
-   | :----------------- | :------------------------------ |
-   | Standard           | Standard                        |
-   | Standard           | Hide labour Qty. and Unit Price |
-   | Standard           | Show Totals Only                |
-   | Group by Line Type | Standard                        |
-   | Group by Line Type | Hide labour Qty. and Unit Price |
-   | Group by Line Type | Show Totals Only                |
-   | Custom Grouping    | Standard                        |
-   | Custom Grouping    | Hide labour Qty. and Unit Price |
-   | Custom Grouping    | Show Totals Only                |
-
-3. To learn more about the invoice print options, and see how they appear follow this link, [Invoice Print Options available](/docs/golive-print-invoice.html#line-layout-options).
+1. To learn more about the invoice print options, and see how they appear follow this link, [Invoice Print Options available](/docs/golive-print-invoice.html#line-layout-options).
 
 
 [Go back to top](#top)
