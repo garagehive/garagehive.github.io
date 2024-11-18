@@ -544,7 +544,7 @@
         - name: Sage 50 Cloud Accounts Integration
           url: /docs/garagehive-sage-50-accounts-integration.html
     - name: Payment Integrations
-      url: /docs/garagehive-external-accountancy-integration.html
+      url: /docs/garagehive-payment-integrations.html
       subitems:
         - name: Setting Up Payment by Dojo
           url: /docs/garagehive-setting-up-payment-by-glink-dojo.html
