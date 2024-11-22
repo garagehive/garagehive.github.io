@@ -21,7 +21,7 @@ Feel free to join our [Facebook Community Page](https://www.facebook.com/groups/
 * **Wednesday** 8am - 6pm
 * **Thursday** 8am - 6pm
 * **Friday** 8am - 6pm
-* **Saturday** 8am - 6pm
+* **Saturday** 8am - 1pm
 * **Sunday** Closed
 
 ### Support Contact Details
