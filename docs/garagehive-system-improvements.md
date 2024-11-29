@@ -6,6 +6,13 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 22nd November 2024
+* Enhancement of the **Business Targets** page by adding a **Jobs Posted** type.  
+* Refinement of the online booking system.  
+* Added an **ECP Vendor Reference Number** for improved vendor tracking.  
+* Updated document functionality to support **service packages** with no lines.  
+* Enhancement of the Customer Import Buffet with **Credit Limit** and **Marketing Channel** fields.  
+
 ### 4th November 2024
 * Improvement of the **Schedule On Hold** action functionality.
 * Enhancement on the **MOT Lookup** process.

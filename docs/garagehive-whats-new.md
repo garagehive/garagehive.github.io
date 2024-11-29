@@ -6,6 +6,13 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 22nd November 2024
+* Added a new **Invoice Print Option** which displays **discount totals** on Sales, Jobsheet, and Estimate document printouts when selected.
+
+   ![](media/print-discount-totals.png)
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 13th November 2024
 * Added **Stripe Integration** to enable processing of payments directly on the Stripe platform, [read more](garagehive-stripe-integration.html){:target="_blank"}.
 
