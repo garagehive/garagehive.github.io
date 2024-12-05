@@ -18,7 +18,7 @@ Garage Link for Stripe is a payment gateway used for online transactions powered
 
    ![](media/garagehive-stripe-payment1.png)
 
-2. On the **Payment Gateways** page, click to open and edit the **PAYBYGLINK** payment gateway.
+2. On the **Payment Gateways** page, select and edit the **PAYBYGLINK** payment gateway. If you wish to continue using **PAYBYGLINK** for another payment, create a new payment gateway named **STRIPE**.
 
    ![](media/garagehive-stripe-payment2.png)
 
@@ -43,6 +43,8 @@ Garage Link for Stripe is a payment gateway used for online transactions powered
 [Go back to top](#top)
 
 ### Create Stripe Payment Method for Locations
+{% include tip.html title="Note" text="Follow this process only if you created a new payment gateway. If you edited the existing Pay by GLink payment gateway, skip this process." %}
+
 1. Once you have set up your **Stripe** payment method, you need to make sure that the Location Payment Method is linked to the right payment gateway. To do this, search for **Location Payment Methods** by clicking on the search ![](media/search_icon.png)  icon located at the top right corner of the screen.
 
    ![](media/garagehive-stripe-location-payment1.png)
