@@ -3,6 +3,8 @@ layout: docs
 title: How to Merge Duplicate Records
 ---
 
+<a name="top"></a>
+
 ### How to Merge Duplicate Records
 As different users create new customer, vendor, or contact cards over time, or as new records are created automatically during migration, a customer, vendor, or contact cards may be represented in the system by more than one record. In this case, you can use the **Merge Duplicate** page from the card of the record that you want to keep.
 The following procedure is based on a customer card. The steps are similar for a vendor and contact cards:
@@ -27,3 +29,5 @@ The following procedure is based on a customer card. The steps are similar for a
 
    ![](media/garagehive-customer-merge-record4.gif)
 
+
+[Go back to top](#top)
