@@ -7,7 +7,7 @@ title: How to Merge Duplicate Records
 As different users create new customer, vendor, or contact cards over time, or as new records are created automatically during migration, a customer, vendor, or contact cards may be represented in the system by more than one record. In this case, you can use the **Merge Duplicate** page from the card of the record that you want to keep.
 The following procedure is based on a customer card. The steps are similar for a vendor and contact cards:
 1. Select the **Customers** list, and then choose the customer record that you want to keep.
-2. Select **Actions** from the menu bar (if not visible click on **More Options**), then select **Functions** followed by **Merge With**.
+2. Select **Actions** from the menu bar (if not visible click on **More Options**), select **Functions** followed by **Other** and then **Merge With**.
 
    ![](media/garagehive-customer-merge-record1.png)
 
