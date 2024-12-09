@@ -371,6 +371,8 @@
       url: /docs/garagehive-system-created-comments-for-attention.html
     - name: Copy Documents
       url: /docs/garagehive-copydocument.html
+    - Name: How to Merge Duplicate Records
+      url: /docs/garagehive-merge-duplicate-records.html
     - name: How to Send Bulk SMS's
       url: /docs/garagehive-send-bulk-sms.html
     - name: How to Export Contacts to Mailchimp
