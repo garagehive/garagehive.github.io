@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 3rd December 2024
+* Added a new **Communication Log Entry** that records when a **Customer AAR Statement** is sent.
+
+* * System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 22nd November 2024
 * Added a new **Invoice Print Option** which displays **discount totals** on Sales, Jobsheet, and Estimate document printouts when selected.
 
