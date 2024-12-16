@@ -6,6 +6,12 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 16th December 2024
+* Added **IS (Iceland) checks** for SMS to improve validation.  
+* Refinement for **TimeTastic** integration.  
+* Made **Vehicle Information** translatable on invoice reports for enhanced localisation.  
+* Improved opening the **Estimates Form Fact Box**.  
+
 ### 3rd December 2024 
 * Standardised the **Vehicle History** action sorting for improved consistency.  
 * Added a **Resource Location Filter** to Jobsheet selection from the schedule.   
