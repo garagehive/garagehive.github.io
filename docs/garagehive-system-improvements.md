@@ -6,6 +6,12 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 3rd December 2024 
+* Standardised the **Vehicle History** action sorting for improved consistency.  
+* Added a **Resource Location Filter** to Jobsheet selection from the schedule.   
+* Enhanced the **Sales Invoice Printouts**.  
+* Improved **TimeTastic** integration feature for better time accuracy.  
+
 ### 22nd November 2024
 * Enhancement of the **Business Targets** page by adding a **Jobs Posted** type.  
 * Refinement of the online booking system.  
