@@ -105,12 +105,14 @@ When an absence is registered in Timetastic, the schedule's available hours are 
 
       ![](media/garagehive-timetastic-available-hours1.png)
 
-3. We'll use a coefficient based on the difference between the **Allowed Working time** and the **Default Capacity**. 
+3. To calculate the available hours, we'll use a coefficient based on the difference between the **Allowed Working time** and the **Default Capacity**. 
      * **Coefficent formula:** Default Capacity ÷ Allowed Working Time = 8÷10 = 0.8
 
 4. For example, let's say a technician is booked for half a day:
    * **Total Available Hours per Week:** 48 hours
    * **Absence Requested:** ½ day (afternoon). Assuming a working day of 8:00 AM to 6:00 PM, the morning is 4 hours (8:00 AM to 12:00 PM), and the afternoon is 6 hours (12:00 PM to 6:00 PM).
+
+   {% include tip.html title="Note" text="The hours may vary depending on the start time of the working day, such as 9:00 AM, 10:00 PM, or other shifts." %}
 
         ![](media/garagehive-timetastic-available-hours2.png)
 
