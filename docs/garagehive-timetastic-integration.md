@@ -13,6 +13,7 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 2. [Syncing Employees and Linking Them to Resources](#syncing-employees-and-linking-them-to-resources)
 3. [Syncing Causes of Absence](#syncing-causes-of-absence)
 4. [Syncing Registered Absences](#syncing-registered-absences)
+5. [Calculation of Schedule Available Hours with Timetastic](#calculation-of-schedule-available-hours-with-timetastic)
 
 ### Integrating Timetastic With Garage Hive
 1. To begin the integration between Timetastic and Garage Hive, you'll first need your **Timetastic API Key**. To get this key, log into your Timetastic account and go to the **Settings** menu, located in the top-right corner.
@@ -23,13 +24,13 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
    ![](media/garagehive-timetastic-integration2.png)
 
-3. A new API key will be generated. Click on the key to automatically copy it.
-
-   ![](media/garagehive-timetastic-integration6.png)
-
-4. In the **API Key** section, click on **Generate new key**. 
+3. In the **API Key** section, click on **Generate new key**. 
 
    ![](media/garagehive-timetastic-integration3.png)
+
+4. A new API key will be generated. Click on the key to automatically copy it.
+
+   ![](media/garagehive-timetastic-integration6.png)
 
 5. Next, log into your Garage Hive account. Choose the ![](media/search_icon.png) icon in the top right corner, enter **HR Integration Setup**, and select the related link.
 
@@ -91,5 +92,40 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
    ![](media/garagehive-timetastic-absence-registration5.png)
 
+
+[Go back to top](#top)
+
+### Calculation of Schedule Available Hours with Timetastic
+When an absence is registered in Timetastic, the schedule's available hours are recalculated based on a specific method. Here's how the calculation works:
+1. Here are key working hours to understand:
+   * **Default Capacity (Hours):** The standard number of hours a technician is expected to work each day.
+   * **Allowed Working Time (Hours):** The maximum hours a technician can work in the schedule.
+2. For example:
+   * If the Default Capacity is 8 hours and the Allowed Working Time is 10 hours, the technician is expected to work 8 hours per day but is permitted to work up to 10 hours if needed.
+
+      ![](media/garagehive-timetastic-available-hours1.png)
+
+3. We'll use a coefficient based on the difference between the **Allowed Working time** and the **Default Capacity**. 
+     * **Coefficent formula:** Default Capacity ÷ Allowed Working Time = 8÷10 = 0.8
+
+4. For example, let's say a technician is booked for half a day:
+   * **Total Available Hours per Week:** 48 hours
+   * **Absence Requested:** ½ day (afternoon). Assuming a working day of 8:00 AM to 6:00 PM, the morning is 4 hours (8:00 AM to 12:00 PM), and the afternoon is 6 hours (12:00 PM to 6:00 PM).
+
+        ![](media/garagehive-timetastic-available-hours2.png)
+
+5. Step-by-step Calculation:
+   * **Total Available Hours per Day:** 10
+   * **Default Capacity:** 8
+   * **Absence for ½ day (afternoon):**
+      Absence hours = 6 hours
+   * **Adjusted Absence (using the coefficient):** 8/10 × 6 = 4.8 hours
+
+6. If the technician’s total available hours for the week were initially 48 hours, the available working hours after the absence would be:
+
+  **48 - 4.8 = 43.2 hours**
+
+   ![](media/garagehive-timetastic-available-hours3.png)
+   
 
 [Go back to top](#top)
