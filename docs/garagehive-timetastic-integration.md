@@ -100,30 +100,31 @@ When an absence is registered in Timetastic, the schedule's available hours are 
 1. Here are key working hours to understand:
    * **Default Capacity (Hours):** The standard number of hours a technician is expected to work each day.
    * **Allowed Working Time (Hours):** The maximum hours a technician can work in the schedule.
-2. For example:
+1. For example:
    * If the Default Capacity is 8 hours and the Allowed Working Time is 10 hours, the technician is expected to work 8 hours per day but is permitted to work up to 10 hours if needed.
 
       ![](media/garagehive-timetastic-available-hours1.png)
 
-3. To calculate the available hours, we'll use a coefficient based on the difference between the **Allowed Working time** and the **Default Capacity**. 
-     * **Coefficent formula:** Default Capacity ÷ Allowed Working Time = 8÷10 = 0.8
+1. Garage Hive calculates the **Available Hours** per week by multiplying the number of technicians by the **Default Capacity (Hours)**.
 
-4. For example, let's say a technician is booked for half a day:
-   * **Total Available Hours per Week:** 48 hours
-   * **Absence Requested:** ½ day (afternoon). Assuming a working day of 8:00 AM to 6:00 PM, the morning is 4 hours (8:00 AM to 12:00 PM), and the afternoon is 6 hours (12:00 PM to 6:00 PM).
+   > For example:
+   Assume there are 4 technicians, each with a Default Capacity of 8 hours from Monday to Friday, and 4 hours on Saturday.
+   > Total Available Hours per Week:
+   (4 technicians × 8 hours) + (4 technicians × 4 hours) = 32 + 16 = 48 hours
+
+   ![](media/garagehive-timetastic-available-hours2.png)
+
+1. When an Absence Request is made (e.g., ½ day in the afternoon), the calculation adjusts the available hours using a coefficient based on the difference between **Allowed Working Time** and **Default Capacity**.
+   * **Coefficent formula:** Default Capacity ÷ Allowed Working Time = 8÷10 = 0.8
+   * Assume the working hours for a day are 8:00 AM to 6:00 PM:
+     - Morning: 4 hours (8:00 AM–12:00 PM.
+     - Afternoon: 6 hours (12:00 PM–6:00 PM)
+   * Absence Calculation (½ day, afternoon):
+     - Absence hours: 6 hours
+     - Adjusted Absence (using the coefficient): 6 × 0.8 = 4.8 hours
 
    {% include tip.html title="Note" text="The hours may vary depending on the start time of the working day, such as 9:00 AM, 10:00 PM, or other shifts." %}
-
-      ![](media/garagehive-timetastic-available-hours2.png)
-
-5. Step-by-step Calculation:
-   * **Total Available Hours per Day:** 10
-   * **Default Capacity:** 8
-   * **Absence for ½ day (afternoon):**
-      Absence hours = 6 hours
-   * **Adjusted Absence (using the coefficient):** 8/10 × 6 = 4.8 hours
-
-6. If the technician’s total available hours for the week were initially 48 hours, the available working hours after the absence would be:
+1. If the technician’s total available hours for the week were initially 48 hours, the available working hours after the absence would be:
 
   **48 - 4.8 = 43.2 hours**
 
