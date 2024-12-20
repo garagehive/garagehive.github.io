@@ -114,7 +114,7 @@ When an absence is registered in Timetastic, the schedule's available hours are 
 
    {% include tip.html title="Note" text="The hours may vary depending on the start time of the working day, such as 9:00 AM, 10:00 PM, or other shifts." %}
 
-        ![](media/garagehive-timetastic-available-hours2.png)
+      ![](media/garagehive-timetastic-available-hours2.png)
 
 5. Step-by-step Calculation:
    * **Total Available Hours per Day:** 10
