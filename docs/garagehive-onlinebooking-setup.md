@@ -10,9 +10,10 @@ Online booking in Garage Hive allows customers to book, for example, MOT, servic
 
 ## In this article
 1. [Online Booking Setup](#online-booking-setup)
-2. [Vehicle Data Lookup Region Setup](#vehicle-data-lookup-region-setup)
-3. [Get Embed HTML](#get-embed-html)
-4. [Get Standalone Page URL](#get-standalone-page-url)
+2. [Online Booking Deposit Payment Setup](#online-booking-deposit-payment-setup)
+3. [Vehicle Data Lookup Region Setup](#vehicle-data-lookup-region-setup)
+4. [Get Embed HTML](#get-embed-html)
+5. [Get Standalone Page URL](#get-standalone-page-url)
 
 
 ### Online Booking Setup 
@@ -57,6 +58,38 @@ To setup online booking:
       - **Send To Branch Email** - It is best practise to check this box, as this will send the confirmation message to the email address specified in the branch setup, which we will do later in the setup.
 
         ![](media/garagehive-onlinebooking-setup5.png)
+
+
+[Go back to top](#top)
+
+### Online Booking Deposit Payment Setup
+Online booking deposit payments allow customers to secure their bookings with fixed (partial) or full payments. This feature is available only with **Stripe** payment integration. Here is how to set it up:
+1. In the top-right corner, choose the ![](media/search_icon.png) icon, enter **Online Booking Setup**, and choose the related link.
+
+   ![](media/garagehive-onlinebooking-deposit-payment1.png)
+
+2. On the **Online Booking Setup** page, scroll down to **Deposit Payments** FastTab.
+3. Enter the **Payment Gateway Code** for the **Stripe** payment method, select either **Full Amount** or **Fixed Amount**, depending on the prepayment requirement.
+4. If you selected **Fixed Amount**, the **Deposit Payment Amount** field will appear. Enter the amount to be paid upfront to secure the booking.
+
+   ![](media/garagehive-onlinebooking-deposit-payment2.png)
+
+5. Once complete, ensure the setup is enabled.
+
+   ![](media/garagehive-onlinebooking-deposit-payment3.png)
+
+6. After adding the **Deposit Payment** setup, a new page will be available in the online booking.
+
+   ![](media/garagehive-onlinebooking-deposit-payment4.png)
+
+7. Once the payment is successful, the payment notification will appear in the **Comments** section of the Jobsheet.
+
+   ![](media/garagehive-onlinebooking-deposit-payment5.png)
+
+8. When the job is complete and you **Take Payment** from the Jobsheet, the deposit paid online will be shown in the **Available Deposit** field.
+9. Use the **Apply Deposit Amount** action to apply the deposit to the work in the Jobsheet.
+
+   ![](media/garagehive-onlinebooking-deposit-payment6.png)
 
 
 [Go back to top](#top)
