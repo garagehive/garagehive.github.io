@@ -9,14 +9,14 @@ title: Using the Jobsheet
 There are various methods for creating a Jobsheet, as described [**here**](garagehive-jobsheet-create-from-various-places.html){:target="_blank"}. In this article we'll look at the standard way of using the Jobsheet. The Jobsheet typically includes information about the labour and items used during the repair or maintenance process of the vehicle, as well as any additional charges or discounts.
 
 ## In this article
-1. [Creating a new Jobsheet](#create-a-new-jobsheet)
+1. [Creating a New Jobsheet](#create-a-new-jobsheet)
 2. [Add Items and Labour](#add-items-and-labour)
 3. [View the Factbox and copy the VIN](#view-the-factbox-and-copy-the-vin)
 4. [Viewing Document Statistics](#viewing-document-statistics)
 5. [Setup for Jobsheet Deletion Reasons](#setup-for-jobsheet-deletion-reasons)
 6. [Transferring Lines to an Estimate](#transferring-lines-to-an-estimate)
 
-### Create a new Jobsheet
+### Create a New Jobsheet
 1. Select **Jobsheets** in the Home Screen, and then choose **New.**
 
     ![](media/garagehive-create-a-jobsheet1.gif)
@@ -25,14 +25,18 @@ There are various methods for creating a Jobsheet, as described [**here**](garag
 1. Fill in the **Vehicle Registration No.**:
     - If the vehicle is in the system, the vehicle information will be auto-filled.
     - If the vehicle is not in the system, the system will look it up using **VRM** to obtain the vehicle's details.
-1. Enter the current vehicle mileage, in the **Mileage** field.
-1. After the VRM lookup for the vehicle, enter the customer information:
+2. Confirm with the customer that the **Vehicle Description** matches the actual vehicle. If it does not, select **Lookup** from the menu bar and use the **Update Vehicle Data by VRM** action. This will update the vehicle details in the system.
+
+   ![](media/garagehive-create-a-jobsheet9.png)
+
+3. Enter the current vehicle mileage, in the **Mileage** field.
+4. After the VRM lookup for the vehicle, enter the customer information:
     - If the customer's information was previously entered for another vehicle, the system will obtain the customer's information and link it to the vehicle.
     - If the customer is new to the system, the system will prompt you to [Create a new customer card](docs/garagehive-create-a-customer-card.html "Create Customer Card").
 
     ![](media/garagehive-create-a-jobsheet2.png)
 
-1.  You can now add the following details:
+5.  You can now add the following details:
      - **Arrival Date** and **Arrival Time** - This is the day and time the vehicle will arrive on site, or when it is expected to arrive.
      - **Requested Delivery Date** and **Requested Delivery Time** - This is the date and time the customer has requested that the car be delivered after the work has been completed.
      - **External Document No.** - This is the number for the external document that is related to the work being done on the vehicle.
@@ -47,19 +51,19 @@ There are various methods for creating a Jobsheet, as described [**here**](garag
 
       ![](media/garagehive-create-a-jobsheet4.png)
 
-1.  The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
+6.  The **Vehicle Reminder Dates** FastTab shows the dates on which various vehicle parts should be changed, serviced or checked.
 
     ![](media/garagehive-create-a-jobsheet4a.png)
 
-1. Under the **Checklist** subpage, you may view and access any checklists that are linked to the Jobsheet.
+7. Under the **Checklist** subpage, you may view and access any checklists that are linked to the Jobsheet.
 
     ![](media/garagehive-create-a-jobsheet5.png)
 
-1. In the **Comments** subpage, you can enter any information the customer has provided about the job to be done. 
+8. In the **Comments** subpage, you can enter any information the customer has provided about the job to be done. 
 
       ![](media/garagehive-create-a-jobsheet6.png)
    
-1. Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}. 
+9.  Under the **Group Items** section, you create groups where you add lines based on group title.  The groups help in the categorisation of the lines. Read more here [Grouping document lines](garagehive-group-items-grouping-document-lines.html){:target="_blank"}. 
 
     ![](media/garagehive-create-a-jobsheet6a.png)
 
