@@ -74,20 +74,16 @@ Online booking deposit payments allow customers to secure their bookings with fi
 
    ![](media/garagehive-onlinebooking-deposit-payment2.png)
 
-5. Once complete, ensure the setup is enabled.
-
-   ![](media/garagehive-onlinebooking-deposit-payment3.png)
-
-6. After adding the **Deposit Payment** setup, a new page will be available in the online booking.
+5. After adding the **Deposit Payment** setup, a new page will be available in the online booking.
 
    ![](media/garagehive-onlinebooking-deposit-payment4.png)
 
-7. Once the payment is successful, the payment notification will appear in the **Comments** section of the Jobsheet.
+6. Once the payment is successful, the payment notification will appear in the **Comments** section of the Jobsheet.
 
    ![](media/garagehive-onlinebooking-deposit-payment5.png)
 
-8. When the job is complete and you **Take Payment** from the Jobsheet, the deposit paid online will be shown in the **Available Deposit** field.
-9. Use the **Apply Deposit Amount** action to apply the deposit to the work in the Jobsheet.
+7. When the job is complete and you **Take Payment** from the Jobsheet, the deposit paid online will be shown in the **Available Deposit** field.
+8. Use the **Apply Deposit Amount** action to apply the deposit to the work in the Jobsheet.
 
    ![](media/garagehive-onlinebooking-deposit-payment6.png)
 
