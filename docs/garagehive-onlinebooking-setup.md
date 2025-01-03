@@ -70,20 +70,22 @@ Online booking deposit payments allow customers to secure their bookings with fi
 
 2. On the **Online Booking Setup** page, scroll down to **Deposit Payments** FastTab.
 3. Enter the **Payment Gateway Code** for the **Stripe** payment method, select either **Full Amount** or **Fixed Amount**, depending on the prepayment requirement.
-4. If you selected **Fixed Amount**, the **Deposit Payment Amount** field will appear. Enter the amount to be paid upfront to secure the booking.
+   * **Full Payment** - This is the total booking amount.
+   * **Fixed Amount** - This is a specific amount you choose, which is less than the total booking amount. 
+1. If you selected **Fixed Amount**, the **Deposit Payment Amount** field will appear. Enter the amount to be paid upfront to secure the booking.
 
    ![](media/garagehive-onlinebooking-deposit-payment2.png)
 
-5. After adding the **Deposit Payment** setup, a new page will be available in the online booking.
+2. After adding the **Deposit Payment** setup, a new page will be available in the online booking.
 
    ![](media/garagehive-onlinebooking-deposit-payment4.png)
 
-6. Once the payment is successful, the payment notification will appear in the **Comments** section of the Jobsheet.
+3. Once the payment is successful, the payment notification will appear in the **Comments** section of the Jobsheet.
 
    ![](media/garagehive-onlinebooking-deposit-payment5.png)
 
-7. When the job is complete and you **Take Payment** from the Jobsheet, the deposit paid online will be shown in the **Available Deposit** field.
-8. Use the **Apply Deposit Amount** action to apply the deposit to the work in the Jobsheet.
+4. When the job is complete and you **Take Payment** from the Jobsheet, the deposit paid online will be shown in the **Available Deposit** field.
+5. Use the **Apply Deposit Amount** action to apply the deposit to the work in the Jobsheet.
 
    ![](media/garagehive-onlinebooking-deposit-payment6.png)
 
