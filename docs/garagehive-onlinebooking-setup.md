@@ -70,8 +70,8 @@ Online booking deposit payments allow customers to secure their bookings with fi
 
 2. On the **Online Booking Setup** page, scroll down to **Deposit Payments** FastTab.
 3. Enter the **Payment Gateway Code** for the **Stripe** payment method, select either **Full Amount** or **Fixed Amount**, depending on the prepayment requirement.
-   * **Full Payment** - This is the total booking amount.
-   * **Fixed Amount** - This is a specific amount you choose, which is less than the total booking amount. 
+   * **Full Payment** - This option requires the customer to pay the full online booking amount as a deposit at the end of the booking process.
+   * **Fixed Amount** - This option asks for a specified fixed amount or the total booking amount, whichever is smaller.
 1. If you selected **Fixed Amount**, the **Deposit Payment Amount** field will appear. Enter the amount to be paid upfront to secure the booking.
 
    ![](media/garagehive-onlinebooking-deposit-payment2.png)
