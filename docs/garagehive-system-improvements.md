@@ -6,6 +6,11 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 5th January 2025
+* Refinement to the schedule search.
+* Improvements to the TimeTastic integration.
+* Improvements to purchase order emails.
+
 ### 16th December 2024
 * Added **IS (Iceland) checks** for SMS to improve validation.  
 * Refinement for **TimeTastic** integration.  

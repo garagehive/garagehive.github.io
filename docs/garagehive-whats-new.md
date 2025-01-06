@@ -6,6 +6,11 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 5th December 2025
+* Added the ability to open the VIE's and Estimates from **Item History Overview** page.
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 16th December 2024
 * Added **Vehicle VIN Check** to identify if vehicle exists and combat issues with private registration changes.
 * Added a new **Icelandic VD Lookup** feature for improved data accuracy and compliance.
