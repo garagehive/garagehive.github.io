@@ -6,7 +6,13 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
-### 5th December 2025
+### 8th January 2025
+* Added VIN to the Vehicle details view in Online Booking.
+* Added **Mileage Request Option** from the Online Booking setup in Garage Hive.
+
+   ![](media/mileage-request-option.png)  
+
+### 5th January 2025
 * Added the ability to open the VIE's and Estimates from **Item History Overview** page.
 
 * System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
