@@ -29,14 +29,15 @@ Auto selection from Autodata, is available for the Great Britain, Northern Irela
    ![](media/garagehive-autodata-service-intervals4.png)
 
 5. In the next window, you can deselect the **Transfer Lines to Document** checkbox to exclude some lines from the transfer (if you don't want to include everything).
+6. The **Create Vehicle Inspection** option is available only when accessed through a Jobsheet; it is not available when working from an estimate.
 
    ![](media/garagehive-autodata-service-intervals5.png)
 
-6. Click **Add Lines to Document** in the menu bar to add lines to the document. The lines will be grouped under the **Interval Change** heading.
+7. Click **Add Lines to Document** in the menu bar to add lines to the document. The lines will be grouped under the **Interval Change** heading.
 
    ![](media/garagehive-autodata-service-intervals6.png)
 
-7. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the menu bar. This initiates the process of confirming everything and creating a quotation for the customer.
+8. Another option is to create a vehicle inspection by clicking on **Create Vehicle Inspection** from the menu bar. This initiates the process of confirming everything and creating a quotation for the customer.
 
    ![](media/garagehive-autodata-service-intervals7.png)
 
