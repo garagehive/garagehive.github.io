@@ -3,24 +3,21 @@ layout: docs
 title: Work In Progress Report 
 ---
 
-#   Work In Progress Report 
+## Work In Progress Report 
+The **Work in Progress** report generates detailed insights into Jobsheets that are in progress, including information about items, labour, costs, total amounts, and other relevant details. 
+1. In the the Role Centre, select **Report**, followed by **End of Day** and then **Jobsheets - Work in Progress**.
 
-*   In the home screen select Report tab.
+   ![](media/garagehive-work-in-progress2.png)
 
-![](media/garagehive-end-of-day1.png)
+2. Ensure the **Hide Future Jobsheets** is selected. 
+3. Select the **Location Code** and click on **Print** or **Preview** to generate the report.
 
-*   Then select End of Day followed by Jobsheets – Work in Progress. 
+   ![](media/garagehive-work-in-progress3.png)
 
-![](media/garagehive-end-of-day14.png)
+### Using the WIP Report
+1. **System Maintenance:** Use this report to keep your system organised. Ensure all jobs listed are active. For inactive jobs, take the appropriate action:
+ * Close or invoice jobs for no-shows.
+ * Invoice outstanding account customer jobs.
+2. **Financial Insights:** This report helps you monitor the total value of work in progress that has not yet been invoiced. 
 
-*   Ensure the Hide future jobsheets slider is selected. 
-
-*   Ensure Location Code is completed and press print.
-
-![](media/garagehive-end-of-day15.png)
-
-***This has produced your WIP report. Use this report to keep your system cleansed. Ensure all jobs on this report are live jobs, if not close/invoice any no shows/ account customer invoices.***
-
-***It also allows you to see how much value you have in the WIP you have yet to be invoiced*** 
-
-![](media/garagehive-work-in-progress1.png)
+   ![](media/garagehive-work-in-progress1.png)
