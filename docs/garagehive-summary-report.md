@@ -29,7 +29,7 @@ The **Summary** report provides an overview of Sales, Technicians, and Purchases
    * Productivity Efficiency %
    * Recovery Rate
 
-{% include tip.html title="Note" text="Ensure all technicians are clocked off work before running this report to avoid inaccuracies in technician figures." %} 
+    {% include tip.html title="Note" text="Ensure all technicians are clocked off work before running this report to avoid inaccuracies in technician figures." %} 
 
    ![](media/garagehive-summary-report1.png)
 
