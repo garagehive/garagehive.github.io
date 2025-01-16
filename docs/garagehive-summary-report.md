@@ -3,40 +3,34 @@ layout: docs
 title: Summary Report  
 ---
 
-#   Summary Report 
+## Summary Report 
+The **Summary** report provides an overview of Sales, Technicians, and Purchases insights for a specified time period. It includes details on labour sales, technician working hours, outstanding purchase orders, and other related information. Here is how to open the report:
+1. In the the Role Centre, select **Reports**, followed by **End of Day** and then **Jobsheets - Work in Progress**. 
 
-*   In the home screen select Report tab. 
+   ![](media/garagehive-summary-report2.png)
 
-![](media/garagehive-end-of-day1.png)
+2. Choose the **Location Code** and specify the period you want to view by entering the dates in the **Start Date** and **End Date** fields. 
 
-*   Select Summary Report.
+   ![](media/garagehive-summary-report3.png)
 
-![](media/garagehive-end-of-day16.png)
+3. Once generated, the Summary report will display several figures for the selected date range, including:
+   * Labour Sales Total
+   * Parts/Tyres Sales
+   * External Service Costs
+   * Gross Takings
+   * Costs
+   * Gross Profit
 
-*   Complete Location Code/Start and End Dates and Press Print. 
+4. Additionally, it provides detailed information for each technician, such as:
+   * Hours Worked
+   * Labour Hours (Sold)
+   * Jobs Completed (Invoiced)
+   * Labour Sales
+   * Productivity Efficiency %
+   * Recovery Rate
 
-![](media/garagehive-end-of-day17.png)
+    {% include tip.html title="Note" text="Ensure all technicians are clocked off work before running this report to avoid inaccuracies in technician figures." %} 
 
-***This has produced your Summary report. This will show several figure for the date range you selected.***
-
-    -  	Labour Sales Total 
-    -	Parts/Tyres Sales 
-    -	External Service Costs 
-    -	Gross Takings 
-    -	Costs 
-    -	Gross Profit 
-
-***Also shows the following information for each of your technicians.***
-
-    -	Hours Worked 
-    -	Labour Hours (Sold) 
-    -	Jobs Completed (Invoiced)  
-    -	Labour Sales 
-    -	Productivity Efficiency %
-    -	Recovery Rate 
-
-**Ensure all technicians are clocked off work prior to running this report otherwise some technician's figures may not be accurate.**
-
-![](media/garagehive-summary-report1.png)
+   ![](media/garagehive-summary-report1.png)
 
 
