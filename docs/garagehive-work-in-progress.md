@@ -4,8 +4,8 @@ title: Work In Progress Report
 ---
 
 ## Work In Progress Report 
-The **Work in Progress** report generates detailed insights into Jobsheets that are in progress, including information about items, labour, costs, total amounts, and other relevant details. 
-1. In the the Role Centre, select **Report**, followed by **End of Day** and then **Jobsheets - Work in Progress**.
+The **Work in Progress** report generates detailed insights into Jobsheets that are in progress, including information about items, labour, costs, total amounts, and other relevant details. Here is how to open the report:
+1. In the the Role Centre, select **Reports**, followed by **End of Day** and then **Jobsheets - Work in Progress**.
 
    ![](media/garagehive-work-in-progress2.png)
 

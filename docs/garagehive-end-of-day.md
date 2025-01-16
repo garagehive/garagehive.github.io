@@ -5,7 +5,7 @@ title: End of Day Report
 
 ## End of Day Report 
 The End of Day (EoD) report is designed to provide a summary of sales, service, and purchase-related data for a business day. It collects, filters and aggregates data from various tables in Garage Hive. Here is how to open the report:
-1. In the the Role Centre, select **Report**, followed by **End of Day** and then **End of Day Report**.
+1. In the the Role Centre, select **Reports**, followed by **End of Day** and then **End of Day Report**.
 
    ![](media/garagehive-end-of-day1.png)
 
