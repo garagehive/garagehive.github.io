@@ -11,6 +11,7 @@ title: Service Packages in Garage Hive
 3. [Creating New Service Package Versions by Copying from Other Versions](#creating-new-service-package-versions-by-copying-from-other-versions)
 4. [Adding Checklist Template Code to Service Package Card](#adding-checklist-template-code-to-service-package-card)
 5. [Adding a Service Package to a Jobsheet as a Technician](#adding-a-service-package-to-a-jobsheet-as-a-technician)
+6. [Updating Service Package Prices](#updating-service-package-prices)
 
 ### Creating a Service Package
 Service packages are a powerful tool for helping you build jobs faster, simplify job pricing, and add consistency.
@@ -92,6 +93,20 @@ When logged in to the technician app, you can add a service package to a Jobshee
 
 
 [Go back to top](#top)
+
+### Updating Service Package Prices
+When labour or item prices are updated in Garage Hive, these changes do not automatically apply to the Service Package versions that include the affected labour or items. To update the Service Package prices, follow the steps below:
+1. In the top right corner, choose the ![](media/search_icon.png) icon, enter **Update Service Package Prices**, and select the related link.
+
+   ![](media/garagehive-update-service-package-prices1.png)
+
+2. In the pop-up window that appears, select the slider for **Update Labour Prices**, **Update Item Prices**, or both, depending on your requirements.
+3. In the **Package No.** and **Version No.** fields, select the specific Service Package and/or version for which you wish to update the prices. Alternatively, **leave these fields blank** to update all Service Packages in the system.
+4. Once completed, click **OK**.
+
+   ![](media/garagehive-update-service-package-prices2.png)
+
+5. The prices will then be updated as specified.
 
 <br>
 
