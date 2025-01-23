@@ -6,6 +6,23 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 21st January 2025
+* Added an easier way to update the **Service Package Prices** in the system when labour or item prices are changed, [read more](garagehive-service-packages.html#updating-service-package-prices){:target="_blank"}.
+
+   ![](media/update-service-package-prices.png)
+
+* Added automatic filling of location and posting date fields in the EOD report.
+
+   ![](media/end-of-day-report-location-and-date.png)
+
+* Added an option to make mileage mandatory, preventing technicians from completing the job or posting a job without entering mileage. The **Check Mileage in Service Document** field allows you to choose between **Show Error**, **Show Warning**, or **Skip** for the mileage field in a Service Document.
+
+   ![](media/mileage-mandatory.png)
+
+* Added an option to request **Online Booking Deposit Payments** before completing an online booking, enabling customers to secure their bookings with either partial or full payments, [read more](garagehive-onlinebooking-setup.html#online-booking-deposit-payment-setup){:target="_blank"}.
+
+   ![](media/online-booking-deposit-payment-setup.png)
+
 ### 8th January 2025
 * Added VIN to the Vehicle details view in Online Booking.
 * Added **Mileage Request Option** from the Online Booking setup in Garage Hive.
