@@ -40,6 +40,10 @@ To add media in group lines for Jobsheets, Estimates or VIEs, or in document lin
 
       ![](media/garagehive-adding-and-managing-media4.png)
 
+   - **Add Video URL** – This option allows you to add a public video link (preferably in MP4 or OGG format). Select **Add Video URL**, then copy and paste the video link into the **Video URL** field, and add the **Description**.
+
+      ![](media/garagehive-adding-and-managing-media15.png)
+
 4. After adding media, click **Open Online** to view the desired video or picture.
 
    ![](media/garagehive-adding-and-managing-media6.png)
