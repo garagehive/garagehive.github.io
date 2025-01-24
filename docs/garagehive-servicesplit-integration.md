@@ -33,23 +33,24 @@ The ServiceSplit integration enables Garage Hive users to offer garages monthly 
 
    ![](media/garagehive-send-servicesplit-plan1.png)
 
-2. A pop-up window will appear displaying the customer's details, along with default values for **Plan Duration (Months)** and **Billing Anchor** (which can be adjusted if necessary). It will also show the payment breakdown for the plan, including the **First Payment Amount**, **Monthly Payment Amount**, and the **Total Amount Including VAT**. Once you are satisfied with the plan, click **OK** to send it.
+2. A pop-up window will appear displaying the customer's details, along with default values for **Plan Duration (Months)** and **Billing Anchor** (which can be adjusted if necessary). 
+3. It will also show the payment breakdown for the plan, including the **First Payment Amount**, **Monthly Payment Amount**, and the **Total Amount Including VAT**. Once you are satisfied with the plan, click **OK** to send it.
 
    ![](media/garagehive-send-servicesplit-plan2.png)
 
-3. The Service Plan will be sent to both the customer and your ServiceSplit account, where it can be found under the **Plans** menu.
+4. The Service Plan will be sent to both the customer and your ServiceSplit account, where it can be found under the **Plans** menu.
 
    ![](media/garagehive-send-servicesplit-plan3.png)
 
-4. The customer will receive an email with a link and will need to click on it to complete the **payment plan sign-up**.
+5. The customer will receive an email with a link and will need to click on it to complete the **payment plan sign-up**.
 
    ![](media/garagehive-send-servicesplit-plan4.png)
 
-5. Once the customer has signed up and added a payment method to ServiceSplit, they will need to activate the plan by clicking **Activate Plan** to make it active.
+6. Once the customer has signed up and added a payment method to ServiceSplit, they will need to activate the plan by clicking **Activate Plan** to make it active.
 
    ![](media/garagehive-send-servicesplit-plan5.png)
 
-6. The plan will now be active in ServiceSplit, and both the document from which the service plan was sent and the **Service Plan Contrac**t can be accessed in the **Agreement** section.
+7. The plan will now be active in ServiceSplit, and both the document from which the service plan was sent and the **Service Plan Contrac**t can be accessed in the **Agreement** section.
 
    ![](media/garagehive-send-servicesplit-plan6.png)
    
@@ -74,7 +75,7 @@ To apply ServiceSplit as the payment method in a Jobsheet for a customer:
 
    ![](media/garagehive-apply-servicesplit-plan4.png)
 
-5. A pop-up box will appear with several options. When you select the **Complete Plan** slider, the plan will be marked as complete, and the **Remaining Plan Balance** field will be activated, allowing you to choose how to manage the remaining balance.
+5. A pop-up window will appear with several options. When you select the **Complete Plan** slider, the plan will be marked as complete, and the **Remaining Plan Balance** field will be activated, allowing you to choose how to manage the remaining balance.
 6. If you select the **Multiple Plans** toggle, you can choose several plans to include in the payment. Click **OK** once you've finished.
  
    ![](media/garagehive-apply-servicesplit-plan5.png)
