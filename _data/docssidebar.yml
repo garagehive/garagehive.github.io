@@ -552,6 +552,8 @@
           url: /docs/garagehive-humm-financing.html
         - name: Setting Up Payment by Stripe
           url: /docs/garagehive-stripe-integration.html
+        - name: ServiceSplit Integration
+          url: /docs/garagehive-servicesplit-integration.html
 - name: Integrations
   url: "#"
   subitems:
