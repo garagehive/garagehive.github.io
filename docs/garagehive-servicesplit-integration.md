@@ -33,7 +33,7 @@ The ServiceSplit integration enables Garage Hive users to offer garages monthly 
 
    ![](media/garagehive-send-servicesplit-plan1.png)
 
-2. A pop-up notification will display the default values for **Plan Duration (Months)** and **Billing Anchor**. You can adjust these if needed, or if satisfied, simply click **OK**.
+2. A pop-up window will appear displaying the customer's details, along with default values for **Plan Duration (Months)** and **Billing Anchor** (which can be adjusted if necessary). It will also show the payment breakdown for the plan, including the **First Payment Amount**, **Monthly Payment Amount**, and the **Total Amount Including VAT**. Once you are satisfied with the plan, click **OK** to send it.
 
    ![](media/garagehive-send-servicesplit-plan2.png)
 
