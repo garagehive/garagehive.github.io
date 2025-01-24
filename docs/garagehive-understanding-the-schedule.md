@@ -249,7 +249,7 @@ The addition of allocations count improves the visibility of Jobsheet allocation
    ![](media/garagehive-schedule-allocation-count1.png)
 
 2. Click on **New** to create a new line, and enter the following details on the new line for the columns indicated:
-   * **Source Type** - 25006145
+   * **Source Type** - 25006145 or 70420681 (for BC Cloud)
    * **Source Ref. No.** - 15020
    * **Source Ref. Description** - *This will be automatically filled.*
    * **Sequence** - 9999999
