@@ -36,9 +36,13 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
    ![](media/garagehive-timetastic-integration4.png)
 
-6. In the **HR Integration Setup** page, set **HR Platform** to **Timetastic**, paste the API Key you copied into the **Timetastic API Key** field, and enable the **HR Integration is Enabled** slider. You can also select specific sync options in the **Sync Task** section. Once done, exit the setup.
+6. In the **HR Integration Setup** page, set **HR Platform** to **Timetastic** and paste the API Key you copied into the **Timetastic API Key** field 
+7. The **Notes Resource Code** is used for employees that don't have a resource code, for example the **Service Advisor**.
+8. Select specific sync options in the **Sync Task** section. Once done, exit the setup.
 
    ![](media/garagehive-timetastic-integration5.png)
+
+9. Once done, enable the **HR Integration** slider.
 
 
 [Go back to top](#top)
@@ -56,6 +60,10 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
    ![](media/garagehive-timetastic-employee-data-sync3.png)
 
+4. If the employee does not have a **Resource Code**, such as a service advisor, enable the **Absence to Notes** slider.
+
+   ![](media/garagehive-timetastic-employee-data-sync4.png)
+
 
 [Go back to top](#top)
 
@@ -65,6 +73,7 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
    ![](media/garagehive-timetastic-causes-of-absence1.png)
 
 2. Click on **Get Info from HR System** to sync the absence causes from Timetastic.
+3. The **Standard Event Code** column can be updated to the relevant event code for the absence reason, though it is automatically filled in when synced.
 
    ![](media/garagehive-timetastic-causes-of-absence2.png)
 
@@ -80,7 +89,7 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
 
    ![](media/garagehive-timetastic-absence-registration2.png)
 
-3. If an employee is linked to a resource in the system, their registered absences will now appear in the schedule.
+3. If an employee is linked to a resource in the system, their recorded absences will now appear in the schedule. On the other hand, absences for employees without a resource code will be registered under the **Notes & Reminders** resource.
 
    ![](media/garagehive-timetastic-absence-registration3.png)
 
@@ -117,7 +126,7 @@ When an absence is registered in Timetastic, the schedule's available hours are 
 2. When a Timetastic Absence Request is made (e.g., ½ day in the afternoon), the calculation adjusts the available hours using a coefficient based on the difference between **Allowed Working Time** and **Default Capacity**.
    * **Coefficent formula:** Default Capacity ÷ Allowed Working Time = 8÷10 = 0.8
    * Assume the working hours for a day are 8:00 AM to 6:00 PM:
-     - Morning: 4 hours (8:00 AM–12:00 PM.
+     - Morning: 4 hours (8:00 AM–12:00 PM).
      - Afternoon: 6 hours (12:00 PM–6:00 PM)
    * **Absence Calculation (½ day, afternoon):**
      - Absence hours: 6 hours

@@ -253,7 +253,7 @@ The addition of allocations count improves the visibility of Jobsheet allocation
    * **Source Ref. No.** - 15020
    * **Source Ref. Description** - *This will be automatically filled.*
    * **Sequence** - 9999999
-   * **Prefix** - ➡️ (To insert this emoji, press [WIN] + [.] on your keyboard, and search for right arrow.)
+   * **Prefix** - ➡️ (To insert this arrow, press **[Win] + [.]** on Windows or **[Control + Command + Spacebar]** on macOS, then search for 'right arrow').
 
      ![](media/garagehive-schedule-allocation-count2.png)
 
