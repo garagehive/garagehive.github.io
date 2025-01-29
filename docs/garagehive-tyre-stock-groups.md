@@ -27,7 +27,7 @@ To create **Tyre Stock Groups**:
 
    ![](media/garagehive-tyre-stock-groups3.png)
 
-4. Other fields you can add include **Manufacturer** when you need to specify the tyres from a specific manufacturer, **Item Filters** when you want to have specific tyres in a group of their own, and **Minimum Stock Quantity** to set the number of minimum tyres to have in stock for the group.
+4. Other fields you can add include **Manufacturer** when you need to specify the tyres from a specific manufacturer, **Load Index** to specify the tyres weight a tyre can safely support when properly inflated, **Item Filters** when you want to have specific tyres in a group of their own, and **Minimum Stock Quantity** to set the number of minimum tyres to have in stock for the group.
 
    ![](media/garagehive-tyre-stock-groups4.png)
 
