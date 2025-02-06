@@ -10,7 +10,7 @@ The ServiceSplit integration enables Garage Hive users to offer garages monthly 
 
 ## In this article
 1. [Integrating ServiceSplit With Garage Hive](#integrating-servicesplit-with-garage-hive)
-2. [Sending ServiceSplit Plan To Customer](#sending-servicesplit=plan-to-customer)
+2. [Sending ServiceSplit Plan To Customer](#sending-servicesplit-plan-to-customer)
 3. [Apply ServiceSplit as the Payment Method in a Jobsheet](#apply-servicesplit-as-the-payment-method-in-a-jobsheet)
 
 ### Integrating ServiceSplit With Garage Hive
