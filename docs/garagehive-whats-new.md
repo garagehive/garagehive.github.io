@@ -6,6 +6,26 @@ title: What's New in Garage Hive
 # What's new?
 The following is a list of all new Garage Hive features and updates. For more details on system improvements, click [**this link**](garagehive-system-improvements.html){:target="_blank"}:
 
+### 6th February 2025
+* Added shelf No. to tech view of Job card via easy clocking, enhancing the visibility and organisation of inventory for technicians.
+* Added **Video Url** Option for VIE's to allow MP4 links, expanding the media capabilities within the system to support video content, [read more](garagehive-online-documents-adding-and-managing-media.html#adding-media-to-group-lines-and-document-lines){:target="_blank"}.
+
+   ![](media/add-video-url.png)
+
+* Added calculation fields to **Servicesplit Send Plan** page, providing users with payment breakdown to streamline their planning processes [read more](garagehive-servicesplit-integration.html#sending-servicesplit-plan-to-customer){:target="_blank"}.
+
+   ![](media/servicesplit-payment-breakdown.png)
+
+* Added a way for **employees with no resource code** to show Timestatic absences in schedule, improving the accuracy and clarity of employee availability tracking, [read more](garagehive-timetastic-integration.html#syncing-employees-and-linking-them-to-resources){:target="_blank"}.
+
+   ![](media/employees-with-no-resource-code.png)
+
+* Added **load index** to tyre group filters, enabling more precise filtering and selection of tyres based on their load-bearing capacity, [read more](garagehive-tyre-stock-groups.html#creating-tyre-stock-groups){:target="_blank"}.
+
+   ![](media/tyre-stock-load-index.png)
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 21st January 2025
 * Added an easier way to update the **Service Package Prices** in the system when labour or item prices are changed, [read more](garagehive-service-packages.html#updating-service-package-prices){:target="_blank"}.
 
@@ -23,11 +43,15 @@ The following is a list of all new Garage Hive features and updates. For more de
 
    ![](media/online-booking-deposit-payment-setup.png)
 
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
+
 ### 8th January 2025
 * Added VIN to the Vehicle details view in Online Booking.
 * Added **Mileage Request Option** from the Online Booking setup in Garage Hive.
 
    ![](media/mileage-request-option.png)  
+
+* System Improvements - [check here](garagehive-system-improvements.html){:target="_blank"}.
 
 ### 5th January 2025
 * Added the ability to open the VIE's and Estimates from **Item History Overview** page.
