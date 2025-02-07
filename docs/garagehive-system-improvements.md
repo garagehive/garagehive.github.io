@@ -10,6 +10,8 @@ The following is a list of system improvements in Garage Hive:
 * Improved the system to automatically update a resource's branch to match the new **User Branch Code** when it is changed in **Manage User** page, ensuring consistency and accuracy for users with linked resources.  
 * Renamed **GDPR and Communication Policy** FastTab in Customer Card to **Data Protection and Communication Policy**, for better user understanding.
 
+   ![](media/garagehive-data-protection-and-communication-policy.png)
+
 ### 5th January 2025
 * Refinement to the schedule search.
 * Improvements to the TimeTastic integration.
