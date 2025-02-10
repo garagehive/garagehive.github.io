@@ -20,10 +20,11 @@ After the migration, you will access Garage Hive via:
 
 
 ### Key Changes & Actions Required
-1. **Reconnecting Power BI & Email Settings:** Your PowerBI, email settings will need to be reconnected - The day of your migration we will assist you in reconnecting these. 
+1. **IT Access Required for Migration:** We will need you or your IT department to grant some access for us to perform the migration. 
 2. **New Usernames & Passwords:** Your user names and passwords will change - We will provide new login details and assist with logging in closer to migration.
-3. **Loss of Personalized Page Layouts:** Any personalized page layouts in Garage Hive will be lost.
-4. **IT Access Required for Migration:** We will need you or your IT department to grant some access for us to perform the migration.
+3. **Reconnecting Power BI & Email Settings:** Your PowerBI & email settings will need to be reconnected - The day of your migration we will assist you in reconnecting these.
+4. **Loss of Personalized Page Layouts:** Any personalized page layouts in Garage Hive will be lost.
+5. 
 
 We will keep you updated throughout the process and ensure a smooth transition. If you have any questions, please feel free to reach out.
 
