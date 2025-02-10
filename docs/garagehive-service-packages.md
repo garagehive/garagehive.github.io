@@ -108,6 +108,7 @@ When labour or item prices are updated in Garage Hive, these changes do not auto
 
 5. The prices will then be updated to match those in the item and labour cards.
 
+[Go back to top](#top)
 <br>
 
 ### **See Also**
