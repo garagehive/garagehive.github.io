@@ -8,15 +8,15 @@ title: Moving to the Cloud - What to Expect
 ## Moving to the Cloud - What to Expect
 As part of our transition to the cloud, your access to Garage Hive will be changing. Currently, you log in using:
 
-   * 🔗 **Current Login:** https://yourgarage.garagehive.co.uk/BC45
+   * 🔗 **Current Login:** [https://yourgarage.garagehive.co.uk/BC45](https://yourgarage.garagehive.co.uk/BC45){:target="_blank"}
 
 After the migration, you will access Garage Hive via:
 
-   * 🔗 **New Login:** https://businesscentral.dynamics.com/
+   * 🔗 **New Login:** [https://businesscentral.dynamics.com/](https://businesscentral.dynamics.com/){:target="_blank"}
       
          OR
 
-   * 🔗 **Simplified Login:** garagehive.co.uk/login (if you prefer a simpler option)
+   * 🔗 **Simplified Login:** [https://garagehive.co.uk/login](https://garagehive.co.uk/login){:target="_blank"} (if you prefer a simpler option)
 
 
 ### Key Changes & Actions Required
