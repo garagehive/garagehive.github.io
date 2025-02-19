@@ -15,21 +15,34 @@ Garage Hive can be used in devices such as phones and tablets, and most of its f
 
       ![](media/garagehive-setting-up-devices1.png)
 
-3. Once the App has been installed and it is open, select **Advanced Options**.
-4. On the next page, choose the sign-in option as **On-Premises**.
-5. In the **On-Premises** sign-in page, enter your service address, which you can find in your original login email from Garage Hive, and it should look like this: "https://yourtenantaddress.garagehive.co.uk/BC2". 
-6. Check that your tenant's name is correct and that your BC number matches. If you can't find these details, contact a member of the Support Team.
-7. When you're finished, click the arrow to go to the next page.
+3. After installing the app, sign in using one of the following methods based on whether you are **On-Premises** or **On-Cloud**:
+
+### On-Premises
+1. select **Advanced Options**.
+2. On the next page, choose the sign-in option as **On-Premises**.
+3. In the **On-Premises** sign-in page, enter your service address, which you can find in your original login email from Garage Hive, and it should look like this: "https://yourtenantaddress.garagehive.co.uk/BC2". 
+4. Check that your tenant's name is correct and that your BC number matches. If you can't find these details, contact a member of the Support Team.
+5. When you're finished, click the arrow to go to the next page.
 
    ![](media/garagehive-setting-up-devices2.png)
 
-8. You will now see your login screen; enter the **User name** and **Password** for the device users. If you are on **Azure Active Directory (AAD)** platform, you'll see a different screen as shown below in Image 2.
-
-      {% include tip.html title="Note" text="Please note the first time you enter the User name and Password it may ask you to create a new password." %} 
-
-9. Upon successful login, the home page willl appear.
+6. You will now see your login screen; enter the **User name** and **Password** for the device users.
+7. Once logged in successfully, the home page will be displayed.
 
    ![](media/garagehive-setting-up-devices3.png)
+
+
+[Go back to top](#top)
+
+### On-Cloud  
+1. Enter your account email address in the provided field to connect to the cloud, then click the arrow at the end.  
+2. Enter your password and click **Sign in**.  
+3. Once logged in successfully, the home page will be displayed.
+
+   ![](media/garagehive-setting-up-devices4.png)
+   
+   
+   {% include tip.html title="Note" text="Please note the first time you enter the User name and Password it may ask you to create a new password." %} 
 
 
 [Go back to top](#top)
