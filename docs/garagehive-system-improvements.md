@@ -6,6 +6,17 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
+### 25th February 2025
+### Refinements and Enhancements  
+* Improved file format handling to ensure seamless **Monzo bank statement imports**.
+* Improved the **Sales Account Error message**.
+* Simplified the online booking process when entering the vehicle details.
+* Improved the import of **Nonworking days from TimeTastic**.
+* Improved the clarity of **declined online payments**.
+* Improved the layout of **Remittance Advice documents**.
+* Improved the SMS Character Support to support the Unicode characters.
+* Refined the Address Formatting in Postcode Lookup.
+
 ### 6th February 2025
 * Improved the system to automatically update a resource's branch to match the new **User Branch Code** when it is changed in **Manage User** page, ensuring consistency and accuracy for users with linked resources.  
 * Renamed **GDPR and Communication Policy** FastTab in Customer Card to **Data Protection and Communication Policy**, for better user understanding.
