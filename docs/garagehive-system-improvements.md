@@ -6,8 +6,7 @@ title: System Improvements in Garage Hive
 # System Improvements
 The following is a list of system improvements in Garage Hive:
 
-### 25th February 2025
-### Refinements and Enhancements  
+### 25th February 2025 
 * Improved file format handling to ensure seamless **Monzo bank statement imports**.
 * Improved the **Sales Account Error message**.
 * Simplified the online booking process when entering the vehicle details.
