@@ -1,9 +1,12 @@
 ---
 layout: docs
-title: How to Create and Edit Users in Cloud and Reset Password
+title: Draft* - How to Create and Edit Users in Cloud and Reset Password
 ---
 
 <a name="top"></a>
+
+# We are still working on this article!
+We are currently reviewing this article before it is published, check back later.
 
 # How to Create and Edit Users in Cloud and Reset Password
 When creating users in the cloud, you must have the **User Administrator** role assigned to your account. This role grants you the necessary permissions to access the **Microsoft 365 admin centre**, where you can manage user accounts, assign licences, reset passwords, and configure security settings. Without the appropriate administrative privileges, you will be unable to add, modify, or remove users from the organisation's cloud environment.
