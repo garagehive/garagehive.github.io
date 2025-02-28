@@ -8,23 +8,33 @@ Branches are the locations where customers can book their vehicles online. The c
 
 In the **Online Booking Setup** page:
 1. From the menu bar, choose **More Options**, then **Related**, and finally **Branches**. If More Options was previously selected, select **Related** right away; otherwise, **Fewer Options** will be available.
-2. You should rename the branch descriptions here because they will appear in the online booking widget, and then enable the **Publish Online Booking** checkbox.
 
-   ![](media/garagehive-onlinebooking-branches1.gif)
+   ![](media/garagehive-onlinebooking-branches1.png)
+
+2. Rename the branch descriptions here the way you want them to appear in the online booking widget, and then enable the **Publish Online Booking** checkbox.
+
+   ![](media/garagehive-onlinebooking-branches3.png)
 
    Appearance in the online booking page:
 
    ![](media/garagehive-onlinebooking-branches2.png)
 
 3. Add the **Online Booking (OB) Service Work Group Code** field for each branch.
+4. Add the **Online Booking (OB) Available Hours Resource Group Code** field. This setting ensures that once the minimum available hours for a day are reached, that day will no longer be available for booking at that branch.
 
-   ![](media/garagehive-onlinebooking-branches2a.gif)
+   ![](media/garagehive-onlinebooking-branches4.png)
 
-4. Then, click the down arrow to the right of the **Location Code** and then click **select from full list**.
-5. Select ellipsis (...) at from the menu bar, then **Manage**, followed by **Edit**.
-6. In the page that appears, ensure that the **Business Location** is enabled and enter the **Address**, **Phone Number**, and **Email Address** of that location. Repeat the process for each location you've added.
+5. Then, click the down arrow to the right of the **Location Code** and click **select from full list**.
 
-   ![](media/garagehive-onlinebooking-branches3.gif)
+   ![](media/garagehive-onlinebooking-branches5.png)
+
+6. Click the ellipsis (...) in the menu bar, then select **Manage**, followed by **Edit**.
+
+   ![](media/garagehive-onlinebooking-branches6.png)
+
+7. In the page that appears, ensure that the **Address**, **Phone Number**, and **Email Address** of that location is added. Repeat the process for each location you've added.
+
+   ![](media/garagehive-onlinebooking-branches7.png)
 
  
 [Previous](/docs/garagehive-onlinebooking-setup.html) | [Next Step](/docs/garagehive-onlinebooking-holidays.html)
