@@ -20,7 +20,7 @@ In the **Online Booking Setup** page:
    ![](media/garagehive-onlinebooking-branches2.png)
 
 3. Add the **Online Booking (OB) Service Work Group Code** field for each branch.
-4. Add the **Online Booking (OB) Available Hours Resource Group Code** field. This setting ensures that once the minimum available hours for a day are reached, that day will no longer be available for booking at that branch.
+4. Add the **Online Booking (OB) Available Hours Resource Group Code** field. This setting ensures that online bookings adhere to the service schedule available hours. When the available hours for a given day at a branch are used up, no further bookings will be allowed for that day.
 
    ![](media/garagehive-onlinebooking-branches4.png)
 
