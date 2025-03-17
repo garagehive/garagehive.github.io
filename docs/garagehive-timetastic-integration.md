@@ -73,7 +73,7 @@ The Timetastic integration allows Garage Hive users who already use the Timetast
    ![](media/garagehive-timetastic-causes-of-absence1.png)
 
 2. Click on **Get Info from HR System** to sync the absence causes from Timetastic.
-3. The **Standard Event Code** column can be updated to the relevant event code for the absence reason, though it is automatically filled in when synced.
+3. Update the **Standard Event Code** column with the relevant event code for the absence reason.
 
    ![](media/garagehive-timetastic-causes-of-absence2.png)
 
