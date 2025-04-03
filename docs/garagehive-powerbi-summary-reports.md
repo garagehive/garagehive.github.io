@@ -13,7 +13,12 @@ The Summary Reports provide a brief overview of your business data based on cert
 
    ![](media/garagehive-powerbi-summary-reports1.png)
 
-## Jobsheet Key Performance Indicators (KPIs)
+## In this article
+1. [Jobsheet Key Performance Indicators](#jobsheet-key-performance-indicators)
+2. [Jobsheet Report Visuals Explained](#jobsheet-report-visuals-explained)
+3. [Vehicle Inspection Report Visuals-explained](#vehicle-inspection-report-visuals)
+
+## Jobsheet Key Performance Indicators
 The table below lists some important KPIs from the **Summary Reports** that are used to evaluate a business's financial stability, operational efficiency, and profitability.  By monitoring and analysing these KPIs, you can help the business in making well-informed decisions and identify areas that need improvement. 
 
 | Key Performance Indicators              | Data Source                                                                                                                                                                               | Report Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -30,7 +35,7 @@ The table below lists some important KPIs from the **Summary Reports** that are 
 
 [Go back to top](#top)
 
-## Report Visuals
+## Jobsheet Report Visuals Explained
 The following visuals represent a quick and intuitive way to understand the performance or status of the corresponding KPI:
 
 1. **Profit Margin**
@@ -57,5 +62,25 @@ The following visuals represent a quick and intuitive way to understand the perf
    
    This visual displays the NPS groups for customers. Green indicates the promoters, suggesting strong customer satisfaction and loyalty. Yellow represents passive customers, indicating some customer satisfaction but room for improvement. Red represents detractors, indicating high likelihood of customer dissatisfaction and potential issues.
 
+
+[Go back to top](#top)
+
+## Vehicle Inspection Report Visuals
+Here is what each of the metrics indicate:
+
+1. **Vehicle Inspection Rate**
+   This visual shows the percentage of vehicles that undergo inspections out of the total vehicles booked in. A high percentage of vehicles inspected, indicate adherence to inspection protocal and potenticla upsell opportunities. A low percentage of vehicles being inspected, indicate potentical missing of revenue opportunities and customer safefy concerns.
+   <br>
+
+2. **Vehicle Inspection Estimate Rate**
+   This visual shows the percentage of inspections that result in an estimate being created for additional repair or services. A high rate suggests that inspections are effectively identifying service needs and presenting them to customers ina compelling way. A low rate indicates that inspections are not frequently leading to estimates, possibly due to ineffective documentation, lack of thorough inspections, or customer disinterest. 
+   <br>
+
+3. **Vehicle Inspecation Estimate Authorisation**
+   This visual display the percentage of repair estimate from inspections that are approved by customers. A high percentage indicate high approval rate suggesting strong customer trust, clear communication and good pricing strategies. A low percentage shows many customers are rejecting repair estimates, which could indicate pricing concerns, lack of trust, or poor communication.
+   <br>
+
+4. **Emails Collected**
+   This visual shows the percentage of customers for whom a valid email addres is collected, out of total service visits. A high percentage suggests effective collection strategies, enabling customer follow-ups, promotions, and engagement. A low percentage indicate few emails are being collected, which limits marketing opportunities and customer engagement.
 
 [Go back to top](#top)
